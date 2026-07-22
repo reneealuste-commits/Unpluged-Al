@@ -61,6 +61,7 @@
 │ HARIDUSTASE        │   │ KOHALIKUD ALLÜKSUSED│
 │ Techno TLN (Pärna) │   │ Järvsoo, Ambros     │
 │ KVA juhtkond       │   │ (vt Lisa J)         │
+│ RaM Kool (Vaher)   │   │                     │
 └─────────┬──────────┘   └─────────┬──────────┘
           │                        │
           └────────────┬───────────┘
@@ -207,7 +208,7 @@
 
 - **Roll operatsioonis:** Strateegiline partner kaitse- ja tsiviilvõimekuse ühendamisel; riikliku investeeringu loogika toomine kodanikualgatusele arusaadavaks keeleks.
 - **Taust:** Riigi Kaitseinvesteeringute Keskuse (RKIK) peadirektor alates 12. jaanuarist 2026; riiklik relvastuse direktor. 2013–2023 Politsei- ja Piirivalveameti peadirektor — juhtis ühe Eesti suurima avaliku sektori asutuse ühendamist ja moderniseerimist. Magistrikraad õiguses. Combat Ready instruktor.
-- **Miks ta on siin:** Kaitse ei ole ainult sõnum. See on ka raha, taristu ja tarne — miljardid, mis peavad jõudma väljaõppesse ja võimekusse. Vaher täidab RKIK-is missiooni, mis otseselt toetab seda, mida operatsioon kodanikule õpetab: vastutust, valmisolekut ja pika mängu mõtlemist. Ta ühendab riigi investeeringutasandi ja Combat Ready praktilise juhtimiskultuuri.
+- **Miks ta on siin:** Kaitse ei ole ainult sõnum. See on ka raha, taristu ja tarne — miljardid, mis peavad jõudma väljaõppesse ja võimekusse. Vaher täidab RKIK-is missiooni, mis otseselt toetab seda, mida operatsioon kodanikule õpetab: vastutust, valmisolekut ja pika mängu mõtlemist. Ta ühendab riigi investeeringutasandi ja Combat Ready praktilise juhtimiskultuuri. Tema lapsed õpivad Rocca al Mare Koolis; ta on kooliperega seotud lapsevanema ja juhtimisnõustajana (vt **Lisa J**).
 
 #### Combat Ready | Her Way — Naiste enesejuhtimine (For Her)
 
@@ -324,7 +325,7 @@
 | Operatiivne | Kaitseväe Akadeemia, Kaitseliit | Juhtide koolitus, kogukonna kaitse — tugev |
 | Taktikaline | Combat Ready (+ Her Way, Youth/Supermängud) | Juhtimiskoolitus, ülim vastutus — aktiivne |
 | Strateegiline kommunikatsioon | Taavi Karotamme, Arvo Jõesalu | Kaitseväe ja Kaitseliidu strateegiline kommunikatsioon — aktiivne |
-| Haridus | Techno TLN (Ott Pärna), KVA juhtkond | Kutse- ja juhtimisharidus — aktiivne (Lisa J) |
+| Haridus | Techno TLN (Ott Pärna), KVA juhtkond, RaM Kool (Elmar Vaher) | Kutse-, juhtimis- ja väärtusharidus — aktiivne (Lisa J) |
 | Kohalik | Peeter Järvsoo (Noorte Kotkad), Andrei Ambros (Harku) | Noored ja piirkondlik vastupanuvõime — aktiivne |
 | Rahva tase | Operatsioon „Peegel" võrgustik | KÄIVITATUD — see käsk |
 | Toetus | Katrin Lukas / „Ava oma Silmad" | Teadlikkuse kanal — aktiivne |
@@ -408,10 +409,10 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 2. Õppuste ja stsenaariumide loogika toomine tsiviilkanalisse (PPA kriisideks valmisoleku kogemus).
 3. Kriisikommunikatsiooni standardid koos Karotamme ja Jõesaluga; hädaolukorra reeglite teadlikkus.
 
-### Elmar Vaher (RKIK / kaitseinvesteeringud)
-1. Kaitsevõime ja kodaniku vastupanuvõime ühendamine arusaadavas keeles — mida investeering tähendab perele.
-2. RKIK missiooni täitmine: kaitseinvesteeringud jõuavad väljaõppesse ja võimekusse.
-3. Combat Ready juhtimiskoolituste toetamine riigi ja erasektori partnerluses.
+### Elmar Vaher (RKIK / kaitseinvesteeringud, RaM Kool lapsevanem, vt Lisa J)
+1. Siduda riiklik kaitsevalmidus ja koolielu — lapsevanemana Rocca al Mare Koolis.
+2. Toetada kooli kriisivalmidust ja juhtimispraktikat (pro bono nõustamine).
+3. Viia RKIK-i investeeringuloogika kodanikule arusaadavaks keeleks; toetada Combat Ready partnerlust.
 
 ### Eero Kinnunen (Eesti Kaitseväe Veteranid)
 1. Veteranide ja nende perede tugi, tunnustus ja eneseabi foorum (ekvv.ee).
@@ -546,6 +547,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Veteranid | Eero Kinnunen | ekvv.ee |
 | Supervisioon | Marge Sillaste | margemargarethe@gmail.com |
 | Haridus | Ott Pärna / Techno TLN | techno.ee (Lisa J — täielik juhtkond) |
+| Haridus | Rocca al Mare Kool | ramkool.edu.ee (Lisa J — juhtkond + Vaherid) |
 | Akadeemiline tugi | Aarne Ermus | Kaitseväe Akadeemia |
 
 **Juhtimiskett:** Renee Aluste → Remo Ojaste → võrgustiku liikmed → iga kodanik iseenda juht.
@@ -563,7 +565,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Taastumine looduses:** puhali.ee (Pühali Hea Elu Keskus, Urmas Sõõrumaa)
 - **Kriis (isad):** Lisa H — `lisad/lisa-h-kiirjuhend-kriisis-isale.md`
 - **Juhtimine (SOP):** Lisa I — `lisad/lisa-i-inimesekeskne-juhtimine.md` (Steiger 1997, ISBN 9985901274)
-- **Koolijuhtkonnad:** Lisa J — `lisad/lisa-j-haridusasutuste-juhtkonnad.md` (Techno TLN, KVA)
+- **Koolijuhtkonnad:** Lisa J — `lisad/lisa-j-haridusasutuste-juhtkonnad.md` (Techno TLN, KVA, Rocca al Mare Kool)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
 - **Signaal OPERATSIOON TÄIDETUD:** Kui ühiskondlikud mõõdikud näitavad paranemist — üksikemade arv langeb, kiusamine väheneb, inimesed räägivad vastutusest.
 
@@ -1011,9 +1013,16 @@ koos Combat Ready meeskonna ja partneritega
 
 **K: Mis roll on Elmar Vaheril — ta juhib ju RKIK-i?**
 
-**V:** Jah. Alates 2026. aasta jaanuarist juhib ta Riigi Kaitseinvesteeringute Keskust — miljardid, mis peavad jõudma kaitseväkke. Aga ta on ka Combat Ready instruktor. Operatsioonis tähendab see: riiklik võimekus ja kodaniku vastutus ei ole vastandlikud. Mõlemad on vajalikud.
+**V:** Jah. Alates 2026. aasta jaanuarist juhib ta Riigi Kaitseinvesteeringute Keskust — miljardid, mis peavad jõudma kaitseväkke. Aga ta on ka Combat Ready instruktor ja Rocca al Mare Kooli lapsevanem — tema lapsed õpivad seal, ta nõustab kooli kriisivalmiduse ja juhtimise küsimustes. Abikaasa Helin Vaher on seotud kooliperega kommunikatsiooni ja vanematekogu kaudu. Operatsioonis tähendab see: riiklik võimekus ja kodaniku vastutus ei ole vastandlikud. Mõlemad on vajalikud. Täielik RaM Kooli juhtkond on **Lisa J**.
 
 *Minu küsimus sulle: Kas sa tead, kuida sinu maksud kaitsevad sind — või ainult seda, mida sotsiaalmeedia näitab?*
+---
+
+**K: Mis on Rocca al Mare Kool ja miks on see operatsioonis?**
+
+**V:** Rocca al Mare (RaM Kool) on Tallinna väärtuskool, kus laps õpib mitte ainult aineid, vaid ka väärtusi, kriitilist mõtlemist ja kiusuennetust. Kooli asutaja Hannes Tamjärv on kooli perepea; direktor on Sirje Toomla-Õige. Elmar Vaheri lapsed õpivad siin — ta on kooliperega seotud lapsevanema ja juhtimisnõustajana. Helin Vaher on kommunikatsiooniekspert ja lapsevanem. Kui operatsiooni võtmes mõtleme haridusele, siis RaM Kool on näide, kuidas kool saab olla vastupanuvõime kants, mitte ainult eksamite tehas. Täielik juhtkond koos fotodega on **Lisa J**.
+
+*Minu küsimus sulle: Kas su lapse kool õpetab teda kontrollima allikaid — või ainult õppima vastuseid pähe?*
 ---
 
 **K: Mis on Combat Ready for Her / Her Way?**
@@ -1069,7 +1078,7 @@ Need seitse köidet täiendavad käesolevat lahingukäsku. Iga köide on iseseis
 | **G** | 7/7 | `lisad/raamat-07-juhi-ja-voida.md` | Juhi ja võida — kogukond ja kutse |
 | **H** | — | `lisad/lisa-h-kiirjuhend-kriisis-isale.md` | Kiirjuhend kriisis isale — kriisiteekond ja lugemisjärjekord |
 | **I** | — | `lisad/lisa-i-inimesekeskne-juhtimine.md` | Inimesekeskne juhtimine (Steiger 1997) — SOP ja Liibanonist õppetund |
-| **J** | — | `lisad/lisa-j-haridusasutuste-juhtkonnad.md` | Haridusasutuste juhtkonnad — Techno TLN ja KVA meeskonnad profiilipiltidega |
+| **J** | — | `lisad/lisa-j-haridusasutuste-juhtkonnad.md` | Haridusasutuste juhtkonnad — Techno TLN, KVA ja Rocca al Mare Kool meeskonnad profiilipiltidega |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).
 

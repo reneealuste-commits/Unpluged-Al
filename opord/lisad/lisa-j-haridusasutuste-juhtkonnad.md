@@ -1,7 +1,7 @@
 # Lisa J — Haridusasutuste juhtkonnad
 
 **Seotud:** Operatsioon „Peegel" — haridustase  
-**Eesmärk:** Täielik meeskondade nimekiri, taust ja operatsioonis rollid koolide juhtidel, kes toetavad noorte vastupanuvõimet, praktilist haridust ja inimesekeskset juhtimist.
+**Eesmärk:** Täielik meeskondade nimekiri, taust ja operatsioonis rollid koolide juhtidel, kes toetavad noorte vastupanuvõimet, praktilist haridust ja inimesekeskset juhtimist. Hõlmab Techno TLN, Kaitseväe Akadeemia ja Rocca al Mare Kooli.
 
 > *Kool on esimene riiklik struktuur, kuhu laps jõuab peale kodu. Kui koolijuht juhib inimesi — mitte ainult protsesse — on see operatsiooni võit.*
 
@@ -171,19 +171,137 @@
 
 ---
 
-## 3. Ühised ülesanded (haridustase)
+## 3. Rocca al Mare Kool (RaM Kool)
+
+**Veeb:** ramkool.edu.ee  
+**Asukoht:** Vabaõhumuuseumi tee 8, Tallinn (Haabersti)  
+**Kontakt:** info@ramkool.edu.ee | 6 507 800  
+**Taust:** Eraõiguslik põhikool-gümnaasium alates 2000. aastast. Missioon: *„Toetada maailma paremaks muutvaid unistusi ja nende teostamist."* Motto: *„Unistused muudavad maailma."* Tuntud väärtuskoolina, kiusuennetuse, loodusklassi ja vanemate kaasamise poolest. Kooli juhib direktor koostöös juhtkonnaga; kooli pidaja on Rocca al Mare Kooli Sihtasutus ja AS.
+
+**Operatsioonis roll:** Haridustase — väärtuspõhine koolikeskkond, kus laps veedab suure osa ajast pärast kodu. Elmar Vaheri lapsed õpivad siin; tema ja abikaasa Helin Vaher on kooliperega seotud lapsevanemate ja nõustajate rollis. Toetab Faas II (tugevdamine) ja Faas III (peegeldamine koolides).
+
+### Kooli perepea ja juhtorganid
+
+#### Hannes Tamjärv — Asutaja, Rocca al Mare Kooli AS nõukogu esimees
+
+![Hannes Tamjärv](images/profiles/schools/ram/hannes-tamjarv.jpg)
+
+- **Roll operatsioonis:** Kooli perepea ja visiooni hoidja; pikaajaline siduv jõud koolipere ja kogukonna vahel.
+- **Taust:** Ettevõtja ja pankur. Rocca al Mare Kooli asutaja (1999). Nõukogu esimees alates kooli algusest. Eestvedaja ka Marbella eesti õppekeelega RaM kooli avamisel.
+- **Kontakt:** ramkool.edu.ee
+- **Ülesanne operatsioonis:**
+  1. Hoida kooli missiooni: unistused ja teostamine — mitte ainult testitulemused.
+  2. Toetada väärtuskooli mudelit, mis kaitseb last infomürast ja emotsionaalsest manipulatsioonist.
+  3. Siduda RaM Kool operatsiooni haridustaseme võrgustikuga (Techno TLN, KVA, Combat Ready Youth).
+
+#### Sirje Toomla-Õige — Direktor, Rocca al Mare Kooli AS juhatuse esimees
+
+![Sirje Toomla](images/profiles/schools/ram/sirje-toomla.jpg)
+
+- **Roll operatsioonis:** Koolijuht; igapäevane juhtimine ja õpikeskkonna kvaliteet.
+- **Taust:** Direktor alates 31. juulist 2020. Varem Haabneeme Kooli direktor (Viimsi). Rocca al Mare Kooli AS juhatuse esimees.
+- **Kontakt:** sirje.toomla@ramkool.edu.ee | 6 507 805
+- **Ülesanne operatsioonis:**
+  1. Tagada, et koolis õpitakse kriitilist mõtlemist ja väärtusi — mitte ainult aineid.
+  2. Koordineerida juhtkonda, vanematekogu ja õppenõukogu koostööd.
+  3. Toetada kiusuennetust ja psühholoogilist turvalisust — vastupanuvõime algab klassiruumis.
+
+#### Rein Rebane — Direktor emeeritus, nõukogu liige
+
+![Rein Rebane](images/profiles/schools/ram/rein-rebane.jpg)
+
+- **Roll operatsioonis:** Kooli ajaloo ja kultuuri kandja; mentor uuele juhtkonnale.
+- **Taust:** Rocca al Mare Kooli esimene direktor (konkurss 2000). Pikaajaline kogemus kooli loomisel ja arendamisel. Nõukogu liige.
+- **Kontakt:** rein.rebane@ramkool.edu.ee | 6 507 805
+- **Ülesanne operatsioonis:**
+  1. Hoida järjepidevust kooli algse visiooni ja tänase praktika vahel.
+  2. Toetada juhtkonda kriisi- ja muutuste olukordades.
+  3. Jagada kogemust väärtuskooli juhtimises teiste haridusasutustega.
+
+### Juhtkond
+
+#### Katrin Rodi — Pearaamatupidaja, Rocca al Mare Kooli Sihtasutuse juhatuse liige
+
+![Katrin Rodi](images/profiles/schools/ram/katrin-rodi.jpg)
+
+- **Roll operatsioonis:** Finantsjätkusuutlikkus ja kooli pidaja vaheline side.
+- **Kontakt:** katrin.rodi@ramkool.edu.ee | 6 507 806
+
+#### Maarika Eha-Müller — Personalijuht
+
+![Maarika Eha-Müller](images/profiles/schools/ram/maarika-eha-muller.jpg)
+
+- **Roll operatsioonis:** Inimeste juhtimine koolipere sees; töötajate toetamine.
+- **Kontakt:** maarika.eha@ramkool.edu.ee | 6 507 806
+
+#### Anneli Paat — Infojuht, RoheRaMi esindaja
+
+![Anneli Paat](images/profiles/schools/ram/anneli-paat.jpg)
+
+- **Roll operatsioonis:** Kooli avalik sõnum ja kogukonna infohügieen.
+- **Kontakt:** anneli.paat@ramkool.edu.ee | 6 507 803
+
+#### Peep Väljaste — Haldusjuht
+
+- **Roll operatsioonis:** Taristu ja igapäevase toimimise tagamine.
+- **Kontakt:** peep.valjaste@ramkool.edu.ee | 6 507 808
+
+#### Rivo Raaper — IT juht
+
+- **Roll operatsioonis:** Digikeskkond ja noorte digikirjaoskus koolis.
+- **Kontakt:** rivo.raaper@ramkool.edu.ee | 6 507 827
+
+### Nõukogu (Rocca al Mare Kooli AS)
+
+| Nimi | Roll |
+|------|------|
+| Hannes Tamjärv | Nõukogu esimees |
+| Karmen Palts | Nõukogu liige |
+| Rein Rebane | Nõukogu liige |
+| Margo Loor | Nõukogu liige |
+| Arto Aas | Nõukogu liige |
+
+### Operatsiooni võrgustiku seos: Elmar Vaher ja Helin Vaher
+
+#### Elmar Vaher — Lapsevanem, juhtimis- ja kriisivalmiduse nõustaja
+
+![Elmar Vaher](images/profiles/elmar-vaher.jpg)
+
+- **Roll operatsioonis:** Strateegiline partner (RKIK) + lapsevanem RaM Koolis; kriisikava ja juhtimise nõustaja koolile.
+- **Taust:** RKIK peadirektor; endine PPA peadirektor (2013–2023). Tema lapsed õpivad Rocca al Mare Koolis. Pakub koolidele ja lasteaedadele pro bono juhtimisalast nõustamist; on andnud RaM Koolile tagasisidet kriisikava osas. (Täielik profiil: peamine OPORD.)
+- **Kontakt:** kaitseinvesteeringud.ee
+- **Ülesanne operatsioonis:**
+  1. Siduda riiklik kaitsevalmidus ja koolielu — laps peab tundma turvalisust nii kodus kui klassis.
+  2. Toetada kooli kriisivalmidust ja juhtimispraktikat (Steigeri põhimõtted, Lisa I).
+  3. Olla eeskuju lapsevanemana: vastutus, ausus, valmisolek.
+
+#### Helin Vaher — Lapsevanem, kommunikatsiooniekspert
+
+![Helin Vaher](images/profiles/schools/ram/helin-vaher.jpg)
+
+- **Roll operatsioonis:** Vanematekogu ja koolipere kommunikatsiooni toetaja; infohügieeni ekspert.
+- **Taust:** Agenda PR partner. Endine valitsuse meedianõunik (2015–2017). Endine PPA kommunikatsioonijuht. Elmar Vaheri abikaasa; nende lapsed õpivad Rocca al Mare Koolis. RaM Kooli vanematekogu on korraldanud töövarjupäevi, kus õpilased on saanud kogemust ka Helin Vaheri tööalaselt.
+- **Kontakt:** helin.vaher@agendapr.ee
+- **Ülesanne operatsioonis:**
+  1. Toetada koolipere avalikku sõnumit — aus, selge, ilma manipulatsioonita.
+  2. Aidata vanematel mõista infohügieeni ja meediakriitikat.
+  3. Siduda lapsevanemate kogukond operatsiooni sõnumiga: vastutus algab kodus.
+
+---
+
+## 4. Ühised ülesanded (haridustase)
 
 Kõik ülalnimetatud juhtkonnad:
 
 1. **Infohügieen koolis** — õpetada noort kontrollima allikaid ja emotsioone digikanalites.
 2. **Eeskuju** — juht ise on see, mida ta ootab õpilaselt ja õpetajalt.
 3. **Praktiline vastupanuvõime** — oskused, mis töötavad nii koolis, tööl kui kriisis.
-4. **Koostöö** — Techno TLN ↔ Combat Ready Youth ↔ Noorte Kotkad ↔ KVA juhtimismudelid.
+4. **Koostöö** — Techno TLN ↔ RaM Kool ↔ Combat Ready Youth ↔ Noorte Kotkad ↔ KVA juhtimismudelid.
 5. **Inimesed enne protsesse** — Steigeri SOP (Lisa I) kehtib ka koolijuhi kabinetis.
 
 ---
 
-## 4. Kontaktide kokkuvõte
+## 5. Kontaktide kokkuvõte
 
 | Asutus | Juht | Veeb | E-post |
 |--------|------|------|--------|
@@ -195,6 +313,10 @@ Kõik ülalnimetatud juhtkonnad:
 | KVA | Johan-Elias Seljamaa | kvak.ee | johan-elias.seljamaa@mil.ee |
 | KVA | Rainek Kuura | kvak.ee | rainek.kuura@mil.ee |
 | KVA | Aarne Ermus | kvak.ee | kvak.ee/kontakt |
+| RaM Kool | Sirje Toomla-Õige | ramkool.edu.ee | sirje.toomla@ramkool.edu.ee |
+| RaM Kool | Hannes Tamjärv | ramkool.edu.ee | ramkool.edu.ee |
+| RaM Kool | Elmar Vaher (lapsevanem) | kaitseinvesteeringud.ee | — |
+| RaM Kool | Helin Vaher (lapsevanem) | agendapr.ee | helin.vaher@agendapr.ee |
 
 ---
 

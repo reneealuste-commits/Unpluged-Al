@@ -204,17 +204,18 @@
 
 **Liikmed:** SOK läbinud tunnevad ennast ise ära — avalikku nimekirja ei ole.
 
-### 3.13 Hajutatud ettevõtjad (mitte SOK)
+### 3.13 Hajutatud võrgustik (mitte SOK)
 
-**Eesmärk:** Tegusad ettevõtjad, kes tegutsevad sõltumatult — ilma tsentraalse käsuta.
+**Eesmärk:** Tegusad inimesed, kes tegutsevad sõltumatult — ilma tsentraalse käsuta, **omal maastikul**.
 
-| Nimi | Roll |
-|------|------|
-| Martin Plaser | Maadlustreener; füüsiline distsipliin |
-| Nils Ratt | Kohalik eestvedamine |
-| Priit Uuemaa | Mentorlus |
-| Sverre Puustusmaa | Võrgustiku tugi |
-| Marko Kaseleht | Kohalik tegevus |
+| Nimi | Roll | Maastik |
+|------|------|---------|
+| Martin Plaser | Maadlustreener | Füüsiline distsipliin |
+| Nils Ratt | Kohalik eestvedaja | Kogukond |
+| Priit Uuemaa | Mentor | Juhtimine, areng |
+| Sverre Puustusmaa | Võrgustiku tugi | Sidemed |
+| Marko Kaseleht | Kohalik tegija | Piirkondlik tegevus |
+| Robert Käsper | Meedik (18D), veteran | Kaitse, meditsiin, „Eriväelase jutud" |
 
 ---
 
@@ -359,11 +360,11 @@
 - **Eesmärk:** Taskuhääling raha, tervise ja enesearengu teemadel
 - **Ülesanne:** Delfi Tasku podcast; Aasta investor 2023
 
-#### Robert Käsper — Instruktor, FTX juht, meedik (18D)
+#### Robert Käsper — Meedik, veteran (hajutatud)
 
-- **Roll:** Combat Ready instruktor; üksuse meedik (18D); Delfi „Eriväelase jutud"
-- **Eesmärk:** „Treeni nagu võitled" — praktiline juhtimine ja meditsiiniline valmisolek
-- **Ülesanne:** Laser-tag simulatsioonid; välismissioonide meediku kogemus; Renee Aluste teenistusaeg (nooremveebel vs nooremseersant)
+- **Roll:** Üksuse meedik (18D); Delfi „Eriväelase jutud"; tegutseb hajutatult omal maastikul
+- **Eesmärk:** Sõjaväelase ja meediku kogemuse edasiandmine — kaitse ja meditsiin
+- **Ülesanne:** Podcast; välismissioonide meediku kogemus; Renee Aluste teenistusaeg (nooremveebel vs nooremseersant)
 
 #### Martin Jõesaar — Kaasasutaja
 
@@ -597,7 +598,7 @@
 | Kristjan Liivamägi | TalTech, KML Invest | Aasta investor 2022, rahatarkus (rahaedu.ee) |
 | Marko Oolo | Investor, Excel | Aasta investor 2024, portfellitööriistad (oolomarko.ee) |
 | Katri Teller | Blondcast | Aasta investor 2023, taskuhääling (tasku.delfi.ee) |
-| Robert Käsper | Combat Ready, meedik 18D | FTX, Eriväelase jutud |
+| Robert Käsper | Meedik (18D), veteran; hajutatult | Eriväelase jutud; kaitse ja meditsiin |
 
 ---
 

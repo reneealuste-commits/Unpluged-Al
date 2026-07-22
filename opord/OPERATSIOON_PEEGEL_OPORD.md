@@ -188,12 +188,12 @@
 - **Veeb:** [tasku.delfi.ee — Blondcast](https://tasku.delfi.ee/podcast/717a0853-d361-4e9e-bb50-aed8e704c2b2)
 - **Miks ta on siin:** Katri tõestab, et raha ja elu ei ole eraldi — ja et aus jutt ka ebaõnnestumistest (sh portfelli kasvamise peatamine teletöö ajal) on väärtuslikum kui perfektne fassaad.
 
-#### Robert Käsper — Combat Ready, üksuse meedik (18D)
+#### Robert Käsper — Meedik, veteran (hajutatud)
 
-- **Roll operatsioonis:** Lahinguväljal ja koolitusel meditsiiniline valmisolek; sõjaväelase kogemuse edasiandmine tsiviilis.
-- **Taust:** ~10 aastat Kaitseväes, sh erioperatsioonide väejuhatus; **üksuse meedik (18D)** välismissioonidel. Endine nooremseersant — Renee Aluste teenistusaeg samas ajajärgus (Renee nooremveebel, Robert nooremseersant). Pärast teenistust: sisejulgeolek, kaitsetööstus, RKIK; Combat Ready instruktor ja FTX juht (2022–2024). Delfi podcast **„Eriväelase jutud"** — vestlused kaitseväelaste ja veteranidega.
+- **Roll operatsioonis:** Sõjaväelase ja meediku kogemuse edasiandmine tsiviilis — oma maastikul, sõltumatult.
+- **Taust:** ~10 aastat Kaitseväes, sh erioperatsioonide väejuhatus; **üksuse meedik (18D)** välismissioonidel. Endine nooremseersant — Renee Aluste teenistusaeg samas ajajärgus (Renee nooremveebel, Robert nooremseersant). Pärast teenistust: sisejulgeolek, kaitsetööstus, RKIK; varem Combat Ready instruktor ja FTX juht (2022–2024). **Tegutseb hajutatult omal maastikul** — Delfi podcast **„Eriväelase jutud"**, kaitse- ja meditsiiniteemad.
 - **Veeb:** [tasku.delfi.ee — Eriväelase jutud](https://tasku.delfi.ee/podcast/ff0c1df9-082d-414f-b06d-f48decd50f45)
-- **Miks ta on siin:** Robert ühendab meditsiini, distsipliini ja juhtimist — täpselt see kombinatsioon, mida operatsioon vajab kriisis. Tema kogemus meedikuna täiendab Lisa H taastumisressursse ja Combat Ready juhtimisliini.
+- **Miks ta on siin:** Robert ühendab meditsiini, distsipliini ja juhtimist — täpselt see kombinatsioon, mida operatsioon vajab kriisis. Tema kogemus meedikuna täiendab Lisa H taastumisressursse; hajutatud tegutsemine omal maastikul näitab, et võrgustik ei vaja tsentraalset käsku.
 
 #### Üksus „Aluste_kool" — SOK demomehed (aktiveeritud)
 
@@ -379,6 +379,7 @@
 
 #### Võrgustiku toetajad (taktikaline tase)
 - **Tegusad ettevõtjad (hajutatud võrgustik)** — Martin Plaser, Nils Ratt, Priit Uuemaa, Sverre Puustusmaa, Marko Kaseleht; tegutsevad sõltumatult, ilma tsentraalse käsuta — igaüks oma piirkonnas ja valdkonnas.
+- **Robert Käsper** — tegutseb **hajutatult omal maastikul**: meedik (18D), veteran, Delfi „Eriväelase jutud"; kaitse ja meditsiin.
 - **Peep Vain** — koolitaja ja kõneleja (Vain & Partners); juhtimine, motivatsioon ja enesemääramine.
 - **Alar Ojastu** — juhtide ja meeskondade koolitaja (Eesti parim koolitaja 2018); autor *Ratsionaalne emotsionaalsus* — emotsioonide ja inimlikkuse silmaringi avaja.
 - **Tiit Trofimov** — enesearengu teejuht (tiittrofimov.ee); emotsioonide töö, meeste ringid, meditatsioon; autor *Lõpp on algus*; taastumine pärast 2009. aasta kriisi.
@@ -396,7 +397,6 @@
 - **Kristjan Liivamägi** — Aasta investor 2022, TalTech, rahatarkuse saadik ([rahaedu.ee](https://rahaedu.ee)).
 - **Marko Oolo** — Aasta investor 2024, Exceli investeerimistööriistad ([oolomarko.ee](https://oolomarko.ee)).
 - **Katri Teller** — Blondcast, Aasta investor 2023 ([tasku.delfi.ee](https://tasku.delfi.ee)).
-- **Robert Käsper** — Combat Ready instruktor, üksuse meedik (18D); „Eriväelase jutud".
 - **Üksus Aluste_kool (SOK)** — demomehed; SOK läbinud tunnevad ennast ise ära (vt **Lisa N**).
 - **Kõik Eesti kodanikud** — operatsiooni lõplik sihtrühm ja põhijõud.
 
@@ -475,7 +475,7 @@
 | Toetus | Kristjan Liivamägi | Teaduspõhine investeerimisharidus — aktiivne |
 | Toetus | Marko Oolo | Exceli tööriistad, portfellihaldus — aktiivne |
 | Toetus | Katri Teller / Blondcast | Taskuhääling, rahatarkus — aktiivne |
-| Toetus | Robert Käsper / Combat Ready | Meedik (18D), Eriväelase jutud — aktiivne |
+| Toetus | Robert Käsper | Meedik (18D), Eriväelase jutud — hajutatult — aktiivne |
 | Demomehed | Üksus Aluste_kool (SOK) | Viisakus, checklist, demomehed — aktiveeritud |
 | Toetus | Katrin Lucas / „Ava oma Silmad" | Teadlikkuse kanal — aktiivne |
 | Toetus | Ingvar Villido / Practical Consciousness | Teadliku muutuse kunst — aktiivne |
@@ -677,10 +677,10 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 2. Aus jutt rahast ja elust — ka siis, kui portfell ei kasva (teletöö, õpingud).
 3. Aasta investor 2023 — eeskuju naistele ja meestele, kes tahavad rahaasju mõista.
 
-### Robert Käsper (Combat Ready, meedik 18D)
-1. Combat Ready väljakoolitused (FTX) — „treeni nagu võitled".
-2. **Eriväelase jutud** — Delfi podcast kaitseväelaste ja veteranide kogemustest.
-3. Meditsiiniline valmisolek ja ellujäämine — üksuse meediku kogemus välismissioonidelt.
+### Robert Käsper (meedik, veteran — hajutatult)
+1. **Eriväelase jutud** — Delfi podcast kaitseväelaste ja veteranide kogemustest.
+2. Meedik (18D) ja sõjaväelase kogemus — austus ja distsipliin omal maastikul.
+3. Täiendab Lisa H taastumisressursse ja kaitse-teadlikkust ilma tsentraalse käsuta.
 
 ### Katrin Lucas (teadlikkuse tase)
 1. „Ava oma Silmad" taskuhääling — teemad manipulatsioonist ja ärkamisest.
@@ -788,7 +788,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Investeerimisharidus | Kristjan Liivamägi | rahaedu.ee |
 | Excel / portfell | Marko Oolo | oolomarko.ee |
 | Taskuhääling | Katri Teller / Blondcast | tasku.delfi.ee |
-| Meedik / veteran | Robert Käsper | Eriväelase jutud (Delfi) |
+| Meedik / veteran | Robert Käsper | Eriväelase jutud (hajutatult) |
 | Demomehed (SOK) | Üksus Aluste_kool | Lisa N — viisakus, checklist |
 | Juhtimiskoolitus | Priit Lilleväli | priit.lillevali@combatready.eu |
 | Teadlikkus | Katrin Lucas | katrinlucas.com |

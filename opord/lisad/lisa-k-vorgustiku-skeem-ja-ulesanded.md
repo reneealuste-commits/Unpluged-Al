@@ -496,6 +496,20 @@
 | Sverre Puustusmaa | Kogukonna liige | Võrgustiku tugi |
 | Marko Kaseleht | Kogukonna liige | Kohalik tegevus |
 | Aleksandr Afanasjev | Instruktor | Koolitused (vt ka CR tuumik) |
+| Peep Vain | Koolitaja (Vain & Partners) | Juhtimine, motivatsioon, enesemääramine |
+| Alar Ojastu | Koolitaja, autor | *Ratsionaalne emotsionaalsus*; emotsioonid ja juhtimine |
+| Ruth Maria Roosi-Ott | AMI Montessori juhendaja | Lapse õppija-identiteet (Eesti Montessori Instituut) |
+| Kerli-Kristi Allikvee | AMI Montessori juhendaja | Montessori võrgustik Eestis |
+| Sina ja Mina (Gordon) | Lapsevanemate koolitus | Gordoni suhtlustreening (sinamina.ee) |
+| Tallinna Perekeskus | „Imelised aastad" | Vanemlusprogramm 3–8-aastaste laste vanematele (pk.ee) |
+
+---
+
+## 5b. Etapp LIHTSUS ja kodaniku identiteet (vt Lisa M)
+
+**Faas V:** *„Kui meeskond ei tea plaani, siis nad ei saa ju seda täita!"*
+
+Iga kodanik: Tony Robbinsi 5 sammu, manifest peegli ees, kodaniku vanne (Renee Aluste). Täielik juhend: **Lisa M**.
 
 ---
 

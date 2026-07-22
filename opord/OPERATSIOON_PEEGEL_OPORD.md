@@ -281,6 +281,11 @@
 
 #### Võrgustiku toetajad (taktikaline tase)
 - **Martin Plaser** — maadlustreener; füüsilise distsipliini ja meelekindluse edendaja.
+- **Peep Vain** — koolitaja ja kõneleja (Vain & Partners); juhtimine, motivatsioon ja enesemääramine.
+- **Alar Ojastu** — juhtide ja meeskondade koolitaja (Eesti parim koolitaja 2018); autor *Ratsionaalne emotsionaalsus* — emotsioonide ja inimlikkuse silmaringi avaja.
+- **Eesti Montessori võrgustik** — Eesti Montessori Instituut ja Ühing; AMI juhendajad (sh Ruth Maria Roosi-Ott, Kerli-Kristi Allikvee); lapse õppija-identiteet.
+- **MTÜ Perekoolitusühing Sina ja Mina** — Gordoni perekooli suhtlustreeningud lapsevanematele (TAI hinnang: VÄGA HEA).
+- **Tallinna Perekeskus** — programm „Imelised aastad" (3–8-aastaste vanematele); tõenduspõhine vanemlusabi.
 - **Nils Ratt, Priit Uuemaa, Sverre Puustusmaa, Marko Kaseleht, Aleksandr Afanasiev** — kogukonna ja võrgustiku liikmed; kohalikud eestvedajad ja mentorid.
 - **Kõik Eesti kodanikud** — operatsiooni lõplik sihtrühm ja põhijõud.
 
@@ -387,6 +392,8 @@ Operatsioon „Peegel" põhineb peegelneuronitel — ajus mehhanismil, mille abi
 
 **Faas IV — Avastuspäev (alates kuu 12):** Uus suund arenenud ühiskonnana — läbipaistvus, inimesekeskne juhtimine, vabatahtlik vastutus. Rakenda Steigeri põhimõtteid (Lisa I). Lõpeta formaalne dominants, mis inimesed läbi näevad. Ministeeriumid ja TAI rakendavad Muski viieastmelist algoritmi (Lisa L): küsi → kustuta → lihtsusta → kiirenda → automatiseeri.
 
+**Faas V — LIHTSUS (alates kuu 13):** *„Kui meeskond ei tea plaani, siis nad ei saa ju seda täita!"* Iga kodanik saab selge identiteedi tööriista (Lisa M): Tony Robbinsi 5 sammu, kodaniku manifest peegli ees, kodaniku vanne. Üks plaan, üks tõde korraga, üks peegel päevas. Võrgustik liigub samuti lihtsuse poole — selge sõnum enne IT-d.
+
 **Murdepunkt:** Kui ühiskondlik narratiiv nihkub — kui inimesed hakkavad rääkima vastutusest, mitte ohvrina olemisest.
 
 **Põhipingutus:** Iga üksiku inimese otsus võtta vastutus oma perekonna ja mõtlemise eest.
@@ -399,7 +406,8 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 
 ### Rahva tase (iga kodanik)
 1. **Õppija roll:** Enne juhtimist õpi ennast tundma. 15 minutit päevas vaikust, päevikut või eneserefleksiooni.
-2. **Infohügieen:** Kontrolli uudiseallikat. Piira TikToki/sotsiaalmeedia aega. Jälgi, mis emotsiooni kanal tekitab.
+2. **Identiteet (Lisa M):** Tony Robbinsi 5 sammu — tuvasta uskumused, küsi ja kahtle, katkesta muster, ehita tõestust, loe manifesti peegli ees; kodaniku vanne.
+3. **Infohügieen:** Kontrolli uudiseallikat. Piira TikToki/sotsiaalmeedia aega. Jälgi, mis emotsiooni kanal tekitab.
 3. **Perekond:** Planeeri iganädalane „perede aeg" — ilma ekraanideta.
 4. **Eeskuju:** Ole see inimene, keda sa ise noorena vajasid.
 5. **Jaga:** Räägi sellest operatsioonist — mitte hirmutades, vaid julgustades.
@@ -530,6 +538,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | **„Juhul kui…"** | Kui tunned, et langed tagasi manipulatsiooni — pöördu mentorini, sõbra poole või professionaali poole. See on tugevus, mitte nõrkus. |
 | **„Juhul kui…" (isa kriisis)** | Alusta Lisast F (*Murra ring*), siis A, D, E. Kiirjuhend: Lisa H. Kriis: Eluliin 655 8088. |
 | **„Juhul kui…" (juhtimine)** | Loe Lisa I (Steiger 1997). Küsi: kas ma juhin inimest või kontrollin teda? |
+| **„Juhul kui…" (identiteet)** | Loe Lisa M — Robbinsi 5 sammu, manifest peegli ees, kodaniku vanne. LIHTSUS: üks plaan, üks tegu. |
 | **„Juhul kui…" (riik / bürokraatia)** | Loe Lisa L (Musk): küsi → kustuta → lihtsusta → kiirenda → automatiseeri. Automatiseeri viimasena. |
 | **„Juhul kui…" (keha suletud)** | Kui tunned end emotsionaalselt külmutatuna — kaaluge tantralaagrit või festivali (tantrafest.ee), Villido kursust (lilleoru.ee) või puhkust Pühalis (puhali.ee). Kriisis: Lisa H esimesena. |
 | **Lahingureeglid** | Ei ründa. Ei laima. Ei vihka. Ei manipuleeri. Peegeldame tervist, mitte haigust. |
@@ -547,7 +556,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Klass | Sisu |
 |-------|------|
 | **I (toit)** | Soe pere eine 1× nädalas — ilma ekraanideta |
-| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid, TAI); „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*, Kaitseväe Akadeemia materjalid; laagrid: Eesti Tantrafestival, Tantra Tribe, Practical Consciousness; taastumine: Pühali Hea Elu Keskus (puhali.ee) |
+| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet); Alar Ojastu *Ratsionaalne emotsionaalsus*; „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee); Gordon (sinamina.ee); Imelised aastad (pk.ee) |
 | **III (kütus)** | Uni 7–8h; liikumine 30 min/päev |
 | **V (laskemoon)** | Sõnad — kasuta neid mõistlikult. Iga sõnum on lask |
 | **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber |
@@ -618,6 +627,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Koolijuhtkonnad:** Lisa J — `lisad/lisa-j-haridusasutuste-juhtkonnad.md` (Techno TLN, KVA, Rocca al Mare Kool)
 - **Võrgustiku skeem:** Lisa K — `lisad/lisa-k-vorgustiku-skeem-ja-ulesanded.md` (kõik osalised, CR statistika, podcast)
 - **Ministeeriumid ja TAI:** Lisa L — `lisad/lisa-l-ministeeriumid-ja-tai.md` (Muski 5-astmeline algoritm)
+- **Kodaniku identiteet:** Lisa M — `lisad/lisa-m-kodaniku-identiteet-ja-vanne.md` (Robbins 5 sammu, manifest, vanne, LIHTSUS)
 - **Koordinaatori profiil:** `lisad/renee-aluste-profiil.md` (eraldi leht)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
 - **Signaal OPERATSIOON TÄIDETUD:** Kui ühiskondlikud mõõdikud näitavad paranemist — üksikemade arv langeb, kiusamine väheneb, inimesed räägivad vastutusest.
@@ -1120,6 +1130,13 @@ koos Combat Ready meeskonna ja partneritega
 *Minu küsimus sulle: Kas sa tead, millised praktilised oskused sinu laps tulevikus vajab?*
 ---
 
+**K: Mis on kodaniku vanne ja Lisa M?**
+
+**V:** Lisa M on iga kodaniku tööriist — identiteedi muutus Tony Robbinsi viie sammu kaudu: (1) tuvasta piiravad uskumused, (2) küsi ja kahtle kuni on oma tõde, (3) katkesta vana muster, (4) ehita tõestust tegudega, (5) loe uut identiteeti peegli ees. Seal on ka **kodaniku manifest** ja **kodaniku vanne** — minu sõnad: ustavus Eesti rahvale ja põhiseaduslikule korrale, territoriaalse terviklikkuse kaitse, eesti keele ja rahvuse edasikandmine. Me oleme haruldane liik inimesi — me oleme eestlased. Uus etapp on **LIHTSUS**: kui meeskond ei tea plaani, ei saa seda täita. Üks plaan, üks peegel, üks tegu päevas.
+
+*Minu küsimus sulle: Millal sa viimati vaatasid endale peeglis silma — ja mida sa seal nägid?*
+---
+
 ## XI. Lõplik vahetus (rollimäng)
 
 **K: Viimane küsimus. Ütle mulle ühe lausega, miks ma peaksin sind uskuma.**
@@ -1155,6 +1172,7 @@ Need seitse köidet täiendavad käesolevat lahingukäsku. Iga köide on iseseis
 | **J** | — | `lisad/lisa-j-haridusasutuste-juhtkonnad.md` | Haridusasutuste juhtkonnad — Techno TLN, KVA ja Rocca al Mare Kool meeskonnad profiilipiltidega |
 | **K** | — | `lisad/lisa-k-vorgustiku-skeem-ja-ulesanded.md` | Võrgustiku skeem — kõik osalised, allüksuste ülesanded, CR statistika, podcasti külalised |
 | **L** | — | `lisad/lisa-l-ministeeriumid-ja-tai.md` | Ministeeriumid ja TAI — Muski 5-astmeline protsessijuhtimine (küsi → kustuta → lihtsusta → kiirenda → automatiseeri) |
+| **M** | — | `lisad/lisa-m-kodaniku-identiteet-ja-vanne.md` | Kodaniku identiteet — Robbins 5 sammu, manifest peegli ees, kodaniku vanne, etapp LIHTSUS |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

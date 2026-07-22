@@ -37,6 +37,7 @@ BOOK_FILES = [
     "lisa-j-haridusasutuste-juhtkonnad.md",
     "lisa-k-vorgustiku-skeem-ja-ulesanded.md",
     "lisa-l-ministeeriumid-ja-tai.md",
+    "lisa-m-kodaniku-identiteet-ja-vanne.md",
     "renee-aluste-profiil.md",
 ]
 

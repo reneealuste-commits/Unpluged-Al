@@ -20,6 +20,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | J | [lisa-j-haridusasutuste-juhtkonnad.md](lisa-j-haridusasutuste-juhtkonnad.md) | **Haridusasutuste juhtkonnad** — Techno TLN, KVA, RaM Kool profiilipiltidega |
 | K | [lisa-k-vorgustiku-skeem-ja-ulesanded.md](lisa-k-vorgustiku-skeem-ja-ulesanded.md) | **Võrgustiku skeem** — kõik osalised, CR statistika, podcasti külalised |
 | L | [lisa-l-ministeeriumid-ja-tai.md](lisa-l-ministeeriumid-ja-tai.md) | **Ministeeriumid ja TAI** — Muski 5-astmeline protsessijuhtimine |
+| M | [lisa-m-kodaniku-identiteet-ja-vanne.md](lisa-m-kodaniku-identiteet-ja-vanne.md) | **Kodaniku identiteet** — Robbins 5 sammu, manifest, vanne, LIHTSUS |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
 ---
@@ -40,6 +41,8 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 **Võrgustik:** Lisa K (kõik osalised, allüksuste ülesanded, Combat Ready statistika).
 
 **Riik / TAI:** Lisa L (Muski algoritm ministeeriumidele).
+
+**Identiteet:** Lisa M (Robbins 5 sammu, kodaniku vanne, LIHTSUS).
 
 **Koordinaator:** [renee-aluste-profiil.md](renee-aluste-profiil.md).
 

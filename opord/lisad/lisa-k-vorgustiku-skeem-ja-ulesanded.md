@@ -270,6 +270,34 @@
 - **Eesmärk:** Extreme Ownership igapäevaelus
 - **Ülesanne:** Äriline juhtimine; koolitused; mentorprogramm
 
+#### Vallo Arumäe — Starfish Academy
+
+- **Roll:** Kaasasutaja; finantsvabaduse koolitaja
+- **Eesmärk:** Rahatarkus, investeerimine, passiivne tulu
+- **Ülesanne:** Koolitused, Investorite Sisering ([starfish.academy](https://www.starfish.academy))
+
+#### BMI Executive Institute
+
+- **Roll:** Rahvusvaheline business school (Baltikum / Saksamaa partnerlus)
+- **Eesmärk:** Juhtide EMBA ja executive education
+- **Ülesanne:** Kõrgharidus ettevõtjatele ([bmiinstitute.com](https://www.bmiinstitute.com))
+
+#### Kerdu Lenear — Mindset Fitness
+
+![Kerdu Lenear](images/profiles/kerdu-lenear.jpg)
+
+- **Roll:** Founder & CEO; BNI North Star Tallinn president
+- **Eesmärk:** Mõtteviisi treening sportlastele ja ettevõtjatele
+- **Ülesanne:** STOP-tehnika, enesetakistus, meeskonna koolitused ([mindsetfitness.ee](https://mindsetfitness.ee))
+
+#### Julian Maier — URBN TIGER (Saksamaa)
+
+![Julian Maier](images/profiles/julian-maier.jpg)
+
+- **Roll:** Breathwork ja mental fitness; e-Residency envoy
+- **Eesmärk:** Stressi vähendamine, vaimne vastupidavus
+- **Ülesanne:** Hingamispraktika ettevõtetele ja startup'idele ([urbntiger.com](https://urbntiger.com))
+
 #### Martin Jõesaar — Kaasasutaja
 
 ![Martin Jõesaar](images/profiles/martin-joesaar.jpg)
@@ -505,6 +533,10 @@
 | Sina ja Mina (Gordon) | Lapsevanemate koolitus | Gordoni suhtlustreening (sinamina.ee) |
 | Tallinna Perekeskus | „Imelised aastad" | Vanemlusprogramm 3–8-aastaste laste vanematele (pk.ee) |
 | PAPSID.EE | Illimar Pilt, Kristo Tuurmann | Tugevate isade kasvatamine; koolitused, töötoad; **Papside laager** (papsid.ee/papside-laager) |
+| Starfish Academy | Vallo Arumäe | Finantskirjaoskus, investeerimine (starfish.academy) |
+| BMI Executive Institute | Euroopa õppejõud (sh Saksamaa) | Juhtide EMBA, executive education (bmiinstitute.com) |
+| Kerdu Lenear | Mindset Fitness, BNI | Mõtteviis, ärivõrgustik (mindsetfitness.ee) |
+| Julian Maier | URBN TIGER (Saksamaa) | Breathwork, vaimne fitness (urbntiger.com) |
 
 ---
 

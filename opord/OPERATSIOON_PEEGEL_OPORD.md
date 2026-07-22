@@ -113,6 +113,36 @@
 - **Taust:** Combat Ready kaasasutaja ja tegevdirektor (2021). Endine Eesti erioperatsioonide väelane (8+ aastat). Echelon Fronti (Jocko Willink, Leif Babin) ametlik partner — ainus selline partner Euroopas. Aasta koolitaja 2022. Jocko taskuhäälingu külaline (2024).
 - **Miks ta on siin:** Combat Ready alustas seda operatsiooni ärilisel tasandil — praktiline juhtimiskoolitus, mis valmistab inimesi ette reaalseks eluks, mitte ainult slaidideks.
 
+#### Vallo Arumäe / Starfish Academy — Finantskirjaoskus ja investorlus
+
+- **Roll operatsioonis:** Ärimaailma haridus ja rahatarkus Eestis; finantsvabaduse teekonna kiirendaja ettevõtjatele ja peredele.
+- **Taust:** Starfish Academy kaasasutaja ja juht (alates 2015). Endine Balti Logistika juht (12 aastat). John Maxwell Team sertifitseeritud coach. Tunnustatud Finantsinspektsiooni, Eesti Panga ja Rahandusministeeriumi poolt. Koolitused: rahatarkus, investeerimine, passiivne tulu, Investorite Sisering.
+- **Veeb:** [starfish.academy](https://www.starfish.academy) · [online.starfishacademy.ee](https://online.starfishacademy.ee)
+- **Miks ta on siin:** Tugev isa ja tugev pere vajavad ka rahalist distsipliini. Starfish Academy aitab inimestel väljuda orav rattast ja ehitada teadlikku finantselu — see on operatsiooni Faas II (tugevdamine) äriline sammas.
+
+#### BMI Executive Institute — Juhtide kõrgharidus (Baltikum / Saksamaa)
+
+- **Roll operatsioonis:** Rahvusvaheline executive education — International Executive MBA ja juhtide täienduskoolitused Balti riikide ettevõtjatele.
+- **Taust:** Asutatud 1999; partnerkoolid sh HEC Paris, UCLouvain, NHH, Vytautas Magnus University. Baasid Vilniuses ja Brüsselis; rahvusvaheline õppejõud (sh Saksamaa — Joachim Sandt, Frankfurt University of Applied Sciences). Programmid: EMBA, executive education, ettevõtetesisesed koolitused.
+- **Veeb:** [bmiinstitute.com](https://www.bmiinstitute.com)
+- **Miks ta on siin:** Operatsioon vajab juhte, kes mõistavad nii inimest kui numbreid. BMI toob Saksamaa ja Euroopa ärikogemuse Baltikumi — kättesaadav Eesti ettevõtjatele, kes tahavad kasvada ilma karjääri katkestamata.
+
+#### Kerdu Lenear — Mindset Fitness ja ärivõrgustik
+
+![Kerdu Lenear](images/profiles/kerdu-lenear.jpg)
+- **Roll operatsioonis:** Mõtteviisi ja vaimse treeningu eestvedaja ettevõtjatele ja sportlastele; BNI North Star Tallinn president.
+- **Taust:** Endine Eesti naiste korvpallikoondislane (D1 Auburn University, USA). TalTech MBA; Certified Neuroencoding Specialist (Joseph McClendon III). Asutaja: Mindset Fitness ja Athletepreneurs Academy. Koolitused: enesetakistus, STOP-tehnika, meeskonna vaimne vastupidavus. Koostöö Eesti ärieliidiga (sh Combat Ready CEO Remo Ojaste).
+- **Veeb:** [mindsetfitness.ee](https://mindsetfitness.ee)
+- **Miks ta on siin:** Ärimaailma tipp algab peas. Kerdu aitab kõrge jõudlusega inimestel treenida mõistust nagu lihast — see täiendab Starfishi rahalist ja Combat Ready juhtimisliini.
+
+#### Julian Maier — URBN TIGER, breathwork (Saksamaa)
+
+![Julian Maier](images/profiles/julian-maier.jpg)
+- **Roll operatsioonis:** Saksamaa päritolu breathwork ja vaimse fitnessi eestvedaja Eestis; e-Residency kogukonna saadik.
+- **Taust:** Saksamaa wellness-ettevõtja, URBN TIGER asutaja (breathwork, mental training, mindfulness). Eesti e-resident ja e-Residency envoy; ettevõte hallatakse Eestist. Koolitab startup'e, ülikoole ja ettevõtteid stressi vähendamiseks ja vaimse vastupidavuse tõstmiseks. Esineja sTARTUp Day'l; kombineerib hingamist, võitluskunste ja meeskonnakoolitust.
+- **Veeb:** [urbntiger.com](https://urbntiger.com) · [e-resident.gov.ee — Julian Maier](https://www.e-resident.gov.ee/envoys-and-community-leaders/julian-maier/)
+- **Miks ta on siin:** Julian toob Saksamaast breathwork'i — kohene, praktiline abivahend stressi ja ülekoormuse korral. See täiendab Lisa H taastumisressursse ja Tiit Trofimovi emotsioonide tööd; eriti kasulik ettevõtjatele ja juhtidele, kes vajavad kiiret leevendust enne otsuseid.
+
 #### Martin Jõesaar — Euroopa tase (Combat Ready kaasasutaja)
 
 ![Martin Jõesaar](images/profiles/martin-joesaar.jpg)
@@ -295,6 +325,10 @@
 - **MTÜ Perekoolitusühing Sina ja Mina** — Gordoni perekooli suhtlustreeningud lapsevanematele (TAI hinnang: VÄGA HEA).
 - **Tallinna Perekeskus** — programm „Imelised aastad" (3–8-aastaste vanematele); tõenduspõhine vanemlusabi.
 - **PAPSID.EE** — Illimar Pilt ja Kristo Tuurmann; missioon: rohkem õnnelikke lapsi, vähem lahutatud peresid; **Papside laager** (3-päevane isade kogemuslaager, [papsid.ee/papside-laager](https://papsid.ee/papside-laager/)); tugevate ja kohalolevate isade kasvatamine.
+- **Starfish Academy** — Vallo Arumäe; finantskirjaoskus ja investeerimine ([starfish.academy](https://www.starfish.academy)).
+- **BMI Executive Institute** — rahvusvaheline juhtide kõrgharidus Baltikumis/Saksamaa partnerlusega ([bmiinstitute.com](https://www.bmiinstitute.com)).
+- **Kerdu Lenear** — Mindset Fitness; mõtteviisi koolitused, BNI North Star Tallinn ([mindsetfitness.ee](https://mindsetfitness.ee)).
+- **Julian Maier** — URBN TIGER (Saksamaa); breathwork ja vaimne fitness, e-Residency Eesti ([urbntiger.com](https://urbntiger.com)).
 - **Nils Ratt, Priit Uuemaa, Sverre Puustusmaa, Marko Kaseleht, Aleksandr Afanasiev** — kogukonna ja võrgustiku liikmed; kohalikud eestvedajad ja mentorid.
 - **Kõik Eesti kodanikud** — operatsiooni lõplik sihtrühm ja põhijõud.
 
@@ -362,6 +396,11 @@
 | Haridus | Techno TLN (Ott Pärna), KVA juhtkond, RaM Kool (Elmar Vaher) | Kutse-, juhtimis- ja väärtusharidus — aktiivne (Lisa J) |
 | Kohalik | Peeter Järvsoo (Noorte Kotkad), Andrei Ambros (Harku) | Noored ja piirkondlik vastupanuvõime — aktiivne |
 | Rahva tase | Operatsioon „Peegel" võrgustik | KÄIVITATUD — see käsk |
+| Toetus | Remo Ojaste / Combat Ready | Extreme Ownership, äriline juhtimine — aktiivne |
+| Toetus | Starfish Academy (Vallo Arumäe) | Finantskirjaoskus, investorlus — aktiivne |
+| Toetus | BMI Executive Institute | Juhtide EMBA ja executive education — aktiivne |
+| Toetus | Kerdu Lenear / Mindset Fitness | Mõtteviis, BNI võrgustik — aktiivne |
+| Toetus | Julian Maier / URBN TIGER | Breathwork (Saksamaa), e-Residency — aktiivne |
 | Toetus | Katrin Lucas / „Ava oma Silmad" | Teadlikkuse kanal — aktiivne |
 | Toetus | Ingvar Villido / Practical Consciousness | Teadliku muutuse kunst — aktiivne |
 | Toetus | Tiit Trofimov / eneseareng | Emotsioonid, meeste ring, taastumine — aktiivne |
@@ -505,6 +544,26 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 2. Poliitiline ja ühiskondlik dialoog perede toetusest.
 3. Ühendavad narratiivid, mis ei lõhu, vaid ehitavad.
 
+### Starfish Academy (Vallo Arumäe)
+1. Finantskirjaoskus ja investeerimise koolitused — ettevõtjatele ja peredele.
+2. Investorite Sisering — kogukond, mis kiirendab teed rahalise vabaduseni.
+3. Online kursused ja töötoad — starfish.academy, online.starfishacademy.ee.
+
+### BMI Executive Institute
+1. International Executive MBA — juhtide kõrgharidus ilma töö katkestamiseta.
+2. Executive education moodulid — sh Saksamaa ja Euroopa õppejõud.
+3. Ettevõtetesisesed juhtimiskoolitused Balti regioonis — bmiinstitute.com.
+
+### Kerdu Lenear (Mindset Fitness)
+1. Mõtteviisi koolitused ettevõtjatele ja meeskondadele — STOP-tehnika, enesetakistus.
+2. BNI North Star Tallinn — ärivõrgustiku eestvedamine Eestis.
+3. Athletepreneurs — sportlaste üleminek ärile ja juhtimisse.
+
+### Julian Maier (URBN TIGER, Saksamaa)
+1. Breathwork ja vaimne fitness ettevõtetele, startup'idele ja ülikoolidele.
+2. Eesti e-Residency kaudu juurdepääs Saksamaa wellness-metoodikale.
+3. Kiire stressi leevendus enne otsuseid — täiendab Lisa H ja Tiit Trofimovi tööd.
+
 ### Katrin Lucas (teadlikkuse tase)
 1. „Ava oma Silmad" taskuhääling — teemad manipulatsioonist ja ärkamisest.
 2. Koostöö teiste kanalitega (sh Ajuloputus).
@@ -572,7 +631,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Klass | Sisu |
 |-------|------|
 | **I (toit)** | Soe pere eine 1× nädalas — ilma ekraanideta |
-| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet); Alar Ojastu *Ratsionaalne emotsionaalsus*; Tiit Trofimov *Lõpp on algus*; „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee); Gordon (sinamina.ee); Imelised aastad (pk.ee); Papsid.ee (papsid.ee, Papside laager) |
+| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet); Alar Ojastu *Ratsionaalne emotsionaalsus*; Tiit Trofimov *Lõpp on algus*; „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee); Gordon (sinamina.ee); Imelised aastad (pk.ee); Papsid.ee; Starfish Academy (starfish.academy); BMI Institute (bmiinstitute.com) |
 | **III (kütus)** | Uni 7–8h; liikumine 30 min/päev |
 | **V (laskemoon)** | Sõnad — kasuta neid mõistlikult. Iga sõnum on lask |
 | **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber; [narko.ee](https://www.narko.ee) chatbot/tugiliin (Renee alustas siit); [ohvriabi.ee](https://ohvriabi.ee) — koduvägivalla korral kuni 940 € psühholoogilise abi toetus 2 aasta jooksul (sh **EMDR** sessioonid); Märt Avandi lugu YouTube'is: [watch?v=nNuHGdQdrZY](https://www.youtube.com/watch?v=nNuHGdQdrZY) |
@@ -601,6 +660,10 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Strateegiline nõu | Riho Ühtegi | avalik kanal |
 | Riigi tase | Rene Toomse | avalik kanal |
 | Äri/taktika | Remo Ojaste | remo.ojaste@combatready.eu |
+| Finantskirjaoskus | Vallo Arumäe / Starfish Academy | starfish.academy |
+| Juhtide kõrgharidus | BMI Executive Institute | bmiinstitute.com |
+| Mõtteviis / BNI | Kerdu Lenear | mindsetfitness.ee |
+| Breathwork (DE) | Julian Maier / URBN TIGER | urbntiger.com |
 | Juhtimiskoolitus | Priit Lilleväli | priit.lillevali@combatready.eu |
 | Teadlikkus | Katrin Lucas | katrinlucas.com |
 | Teadlik muutus | Ingvar Villido | lilleoru.ee / human.ee |

@@ -58,6 +58,18 @@ Kui oled kogenud **koduvägivalda** (füüsiline, vaimne, seksuaalne või majand
 
 Abi on võimalik ka lähisuhtevägivalla, kuriteo ja kriisijuhtumi ohvritele. Sa ei pea sellega üksi hakkama saama.
 
+### Kiire leevendus — breathwork (Julian Maier / URBN TIGER)
+
+Kui vajad **kohest** stressi ja ülekoormuse leevendust (enne otsuseid, pärast kriisihetke):
+
+| Allikas | Info |
+|---------|------|
+| **URBN TIGER** | [urbntiger.com](https://urbntiger.com) — Julian Maier (Saksamaa), Eesti e-resident |
+| **Fookus** | Breathwork, vaimne fitness, meeskonnakoolitused |
+| **Kellele** | Ettevõtjad, juhid, startup'id — ka ilma eelneva kogemuseta |
+
+Hingamine on tööriist, mida saad kasutada kohe. See täiendab Lisa F/H taastumist ja Tiit Trofimovi emotsioonide tööd.
+
 ---
 
 ## Milline raamat, millal?

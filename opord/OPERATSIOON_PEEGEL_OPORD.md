@@ -127,6 +127,14 @@
 - **Veeb:** [bmiinstitute.com](https://www.bmiinstitute.com)
 - **Miks ta on siin:** Operatsioon vajab juhte, kes mõistavad nii inimest kui numbreid. BMI toob Saksamaa ja Euroopa ärikogemuse Baltikumi — kättesaadav Eesti ettevõtjatele, kes tahavad kasvada ilma karjääri katkestamata.
 
+#### BNI (Business Network International) — Eesti ärivõrgustik
+
+- **Roll operatsioonis:** Ärireferaalide ja usaldusväärse ettevõtjate võrgustiku kiirendaja; Givers Gain® põhimõte — andjad võidavad.
+- **Taust:** Asutatud 1985; maailma suurim ärikoostöö ja soovituste organisatsioon. Eestis kaks aktiivset Tallinna gruppi: **BNI North Star Tallinn** (reedeti 7:00, Nordic Hotel Forum) ja **BNI One Tallinn** (neljapäeviti 7:30, Radisson Blu Olümpia). Igas grupis üks liige kutseala kohta — struktureeritud soovitused, mitte juhuslik networking. Liikmed suurendavad keskmiselt oma äri esimesel aastal ~20%.
+- **Eestvedaja:** Kerdu Lenear — BNI North Star Tallinn president (esimene naissoost president selles grupis).
+- **Veeb:** [bni.ee](https://bni.ee) · [BNI North Star Tallinn](https://bni.ee/tallinn-bni-north-star-tallinn/en-US/index) · [BNI One Tallinn](https://bni.ee/tallinn-bni-one-tallinn/en-US/index)
+- **Miks ta on siin:** Tugev isa ja tugev pere vajavad ka stabiilset sissetulekut ja usaldusväärset ärivõrgustikku. BNI ühendab Eesti ettevõtjad, kes soovitavad üksteisele äri ausalt ja pikaajaliselt — see toetab operatsiooni Faas II (tugevdamine) ärilist sammast koos Starfishi ja BMI-ga.
+
 #### Kerdu Lenear — Mindset Fitness ja ärivõrgustik
 
 ![Kerdu Lenear](images/profiles/kerdu-lenear.jpg)
@@ -327,7 +335,8 @@
 - **PAPSID.EE** — Illimar Pilt ja Kristo Tuurmann; missioon: rohkem õnnelikke lapsi, vähem lahutatud peresid; **Papside laager** (3-päevane isade kogemuslaager, [papsid.ee/papside-laager](https://papsid.ee/papside-laager/)); tugevate ja kohalolevate isade kasvatamine.
 - **Starfish Academy** — Vallo Arumäe; finantskirjaoskus ja investeerimine ([starfish.academy](https://www.starfish.academy)).
 - **BMI Executive Institute** — rahvusvaheline juhtide kõrgharidus Baltikumis/Saksamaa partnerlusega ([bmiinstitute.com](https://www.bmiinstitute.com)).
-- **Kerdu Lenear** — Mindset Fitness; mõtteviisi koolitused, BNI North Star Tallinn ([mindsetfitness.ee](https://mindsetfitness.ee)).
+- **BNI Eesti** — maailma suurim ärireferaalide võrgustik; Tallinnas BNI North Star ja BNI One ([bni.ee](https://bni.ee)).
+- **Kerdu Lenear** — Mindset Fitness; mõtteviisi koolitused, BNI North Star Tallinn president ([mindsetfitness.ee](https://mindsetfitness.ee)).
 - **Julian Maier** — URBN TIGER (Saksamaa); breathwork ja vaimne fitness, e-Residency Eesti ([urbntiger.com](https://urbntiger.com)).
 - **Nils Ratt, Priit Uuemaa, Sverre Puustusmaa, Marko Kaseleht, Aleksandr Afanasiev** — kogukonna ja võrgustiku liikmed; kohalikud eestvedajad ja mentorid.
 - **Kõik Eesti kodanikud** — operatsiooni lõplik sihtrühm ja põhijõud.
@@ -399,7 +408,8 @@
 | Toetus | Remo Ojaste / Combat Ready | Extreme Ownership, äriline juhtimine — aktiivne |
 | Toetus | Starfish Academy (Vallo Arumäe) | Finantskirjaoskus, investorlus — aktiivne |
 | Toetus | BMI Executive Institute | Juhtide EMBA ja executive education — aktiivne |
-| Toetus | Kerdu Lenear / Mindset Fitness | Mõtteviis, BNI võrgustik — aktiivne |
+| Toetus | BNI Eesti | Ärireferaalid ja ettevõtjate võrgustik — aktiivne |
+| Toetus | Kerdu Lenear / Mindset Fitness | Mõtteviis, BNI North Star Tallinn — aktiivne |
 | Toetus | Julian Maier / URBN TIGER | Breathwork (Saksamaa), e-Residency — aktiivne |
 | Toetus | Katrin Lucas / „Ava oma Silmad" | Teadlikkuse kanal — aktiivne |
 | Toetus | Ingvar Villido / Practical Consciousness | Teadliku muutuse kunst — aktiivne |
@@ -554,9 +564,14 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 2. Executive education moodulid — sh Saksamaa ja Euroopa õppejõud.
 3. Ettevõtetesisesed juhtimiskoolitused Balti regioonis — bmiinstitute.com.
 
+### BNI Eesti (Business Network International)
+1. Igana nädalased koosolekud — BNI North Star Tallinn (reedeti) ja BNI One Tallinn (neljapäeviti); külalisena kuni 2 külastust.
+2. Struktureeritud ärisoovitused — üks liige kutseala kohta; Givers Gain® põhimõte.
+3. Liitu või leia avatud kategooria — [bni.ee](https://bni.ee).
+
 ### Kerdu Lenear (Mindset Fitness)
 1. Mõtteviisi koolitused ettevõtjatele ja meeskondadele — STOP-tehnika, enesetakistus.
-2. BNI North Star Tallinn — ärivõrgustiku eestvedamine Eestis.
+2. BNI North Star Tallinn — ärivõrgustiku eestvedamine Eestis (president).
 3. Athletepreneurs — sportlaste üleminek ärile ja juhtimisse.
 
 ### Julian Maier (URBN TIGER, Saksamaa)
@@ -631,7 +646,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Klass | Sisu |
 |-------|------|
 | **I (toit)** | Soe pere eine 1× nädalas — ilma ekraanideta |
-| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet); Alar Ojastu *Ratsionaalne emotsionaalsus*; Tiit Trofimov *Lõpp on algus*; „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee); Gordon (sinamina.ee); Imelised aastad (pk.ee); Papsid.ee; Starfish Academy (starfish.academy); BMI Institute (bmiinstitute.com) |
+| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet); Alar Ojastu *Ratsionaalne emotsionaalsus*; Tiit Trofimov *Lõpp on algus*; „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee); Gordon (sinamina.ee); Imelised aastad (pk.ee); Papsid.ee; Starfish Academy (starfish.academy); BMI Institute (bmiinstitute.com); BNI Eesti (bni.ee) |
 | **III (kütus)** | Uni 7–8h; liikumine 30 min/päev |
 | **V (laskemoon)** | Sõnad — kasuta neid mõistlikult. Iga sõnum on lask |
 | **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber; [narko.ee](https://www.narko.ee) chatbot/tugiliin (Renee alustas siit); [ohvriabi.ee](https://ohvriabi.ee) — koduvägivalla korral kuni 940 € psühholoogilise abi toetus 2 aasta jooksul (sh **EMDR** sessioonid); Märt Avandi lugu YouTube'is: [watch?v=nNuHGdQdrZY](https://www.youtube.com/watch?v=nNuHGdQdrZY) |
@@ -662,7 +677,8 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Äri/taktika | Remo Ojaste | remo.ojaste@combatready.eu |
 | Finantskirjaoskus | Vallo Arumäe / Starfish Academy | starfish.academy |
 | Juhtide kõrgharidus | BMI Executive Institute | bmiinstitute.com |
-| Mõtteviis / BNI | Kerdu Lenear | mindsetfitness.ee |
+| Ärivõrgustik | BNI Eesti (Kerdu Lenear, North Star) | bni.ee |
+| Mõtteviis | Kerdu Lenear / Mindset Fitness | mindsetfitness.ee |
 | Breathwork (DE) | Julian Maier / URBN TIGER | urbntiger.com |
 | Juhtimiskoolitus | Priit Lilleväli | priit.lillevali@combatready.eu |
 | Teadlikkus | Katrin Lucas | katrinlucas.com |

@@ -282,6 +282,12 @@
 - **Eesmärk:** Juhtide EMBA ja executive education
 - **Ülesanne:** Kõrgharidus ettevõtjatele ([bmiinstitute.com](https://www.bmiinstitute.com))
 
+#### BNI Eesti (Business Network International)
+
+- **Roll:** Maailma suurim ärireferaalide võrgustik
+- **Eesmärk:** Struktureeritud ärisoovitused ja usaldusväärne ettevõtjate kogukond
+- **Ülesanne:** Igana nädalased koosolekud — BNI North Star Tallinn (reedeti, Nordic Hotel Forum) ja BNI One Tallinn (neljapäeviti, Radisson Blu Olümpia); president: Kerdu Lenear ([bni.ee](https://bni.ee))
+
 #### Kerdu Lenear — Mindset Fitness
 
 ![Kerdu Lenear](images/profiles/kerdu-lenear.jpg)
@@ -535,7 +541,8 @@
 | PAPSID.EE | Illimar Pilt, Kristo Tuurmann | Tugevate isade kasvatamine; koolitused, töötoad; **Papside laager** (papsid.ee/papside-laager) |
 | Starfish Academy | Vallo Arumäe | Finantskirjaoskus, investeerimine (starfish.academy) |
 | BMI Executive Institute | Euroopa õppejõud (sh Saksamaa) | Juhtide EMBA, executive education (bmiinstitute.com) |
-| Kerdu Lenear | Mindset Fitness, BNI | Mõtteviis, ärivõrgustik (mindsetfitness.ee) |
+| BNI Eesti | Kerdu Lenear (North Star president) | Ärireferaalid, ettevõtjate võrgustik (bni.ee) |
+| Kerdu Lenear | Mindset Fitness | Mõtteviis, mindset koolitused (mindsetfitness.ee) |
 | Julian Maier | URBN TIGER (Saksamaa) | Breathwork, vaimne fitness (urbntiger.com) |
 
 ---

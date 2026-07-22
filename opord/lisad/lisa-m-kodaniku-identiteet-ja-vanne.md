@@ -198,6 +198,15 @@ Identiteet ei kasva vaakumis. Need inimesed ja organisatsioonid aitavad perel, l
 - **Ülesanne:** *Ratsionaalne emotsionaalsus* (Pilgrim) — silmaringi avaja; tõestus, et hoolivus ja tarkus käivad käsikäes.
 - **Raamat:** alarojastu.com/ratsionaalne-emotsionaalsus
 
+### Tiit Trofimov — Emotsioonid ja taastumine
+
+- **Veeb:** [tiittrofimov.ee](https://tiittrofimov.ee)
+- **Roll operatsioonis:** Enesearengu teejuht; emotsioonide vabastamine, meditatsioon, meeste ringid.
+- **Taust:** Endine ettevõtja; 2009. aasta kriisis kaotas kõik — kodu, vara, perekonna. Pärast seda 15+ aastat teadliku enesearengu, jooga, kehatöö ja meditatsiooni valdkonnas.
+- **Raamat:** *Lõpp on algus. Julgus elada iseendana* (Pilgrim, 2023) — aus elulugu põhjast taastumisest.
+- **Ülesanne:** Aidata meestel ja naistel tulla paremasse kontakti iseendaga; meeste ringid, kus räägitakse ausalt; emotsioonide töö läbi teadlikkuse. Alar Ojastu on teda soovitanud.
+- **Kontakt:** info@tiittrofimov.ee · +372 5626 2454
+
 ### Eesti Montessori võrgustik — lapse identiteet
 
 - **Eesti Montessori Instituut** (mariamontessori.ee) — AMI juhendajate koolitus, kvaliteetne haridus.
@@ -254,7 +263,7 @@ Identiteet ei kasva vaakumis. Need inimesed ja organisatsioonid aitavad perel, l
 | **A** (Ava silmad) | Manipulatsiooni äratundmine enne identiteeti |
 | **F** (Murra ring) | Taastumine — enesearmastus pärast kriisi |
 | **I** (Steiger) | Inimene enne protsessi |
-| **K** | Võrgustik — Peep Vain, Alar Ojastu, Montessori, Gordon, Perekeskus, PAPSID.EE |
+| **K** | Võrgustik — Peep Vain, Alar Ojastu, Tiit Trofimov, Montessori, Gordon, Perekeskus, PAPSID.EE |
 | **L** | LIHTSUS riigi tasandil — sama põhimõte: selge plaan enne automatiseerimist |
 
 ---

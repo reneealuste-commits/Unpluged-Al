@@ -149,6 +149,13 @@
 - **Taust:** Siddha jooga õpetaja, Lilleoru asutaja. Loodud meetod *Teadliku Muutuse Kunst* (2008), rahvusvaheliselt *Practical Consciousness*. Viieastmeline kursuste süsteem (selgus, emotsioonid, mõtted, teadvus, vooseisund). Raamatud sh *Teadvuse praktiline kasutamine*. Practical Consciousness Sihtasutus; koolitused Eestis ja välismaal.
 - **Miks ta on siin:** Infosõda tabab inimest seestpoolt — autopiloodis emotsioonid ja mõtted. Villido pakub praktilisi vahendeid, kuidas inimene ise oma sisemaailma muudab. See täiendab operatsiooni sõjalist distsipliini teadlikkuse tehnikaga.
 
+#### Tiit Trofimov — Eneseareng, emotsioonid ja meeste ring
+
+![Tiit Trofimov](images/profiles/tiit-trofimov.jpg)
+- **Roll operatsioonis:** Enesearengu teejuht; emotsioonide ja teadlikkuse töö; meeste ringid ja meditatsioon; aitab inimestel taastuda pärast põhja.
+- **Taust:** Endine ettevõtja (kinnisvara, restoranid, sisekujundus; sh Adila puhkekeskuse arendaja). 2009. aasta kriisis kaotas kodu, vara ja perekonna — see muutis ta elu. Viimased 15+ aastat teadliku enesearengu, meditatsiooni, jooga ja kehatöö valdkonnas. Autor *Lõpp on algus. Julgus elada iseendana* (Pilgrim, 2023). Korraldab vestlusõhtuid („Must ja valge"), meeste ringe, ekstaatilise tantsu ja meditatsiooni töötubasid.
+- **Miks ta on siin:** Trofimov on elav tõend, et põhjast saab tõusta. Ta räägib ausalt — mitte teooriast, vaid kogemusest. Tema fookus emotsioonide vabastamisel ja meeste ringis täiendab operatsiooni taastumise sõnumit (Lisa F, Lisa H) ja teadlikkuse võrgustikku. Alar Ojastu on teda soovitanud kui inimest, kellel on missioon, mitte äri.
+
 #### Igor Earthchild — Tantra ja teadlik ühendus
 
 ![Igor Earthchild](images/profiles/igor-earthchild.jpg)
@@ -283,6 +290,7 @@
 - **Martin Plaser** — maadlustreener; füüsilise distsipliini ja meelekindluse edendaja.
 - **Peep Vain** — koolitaja ja kõneleja (Vain & Partners); juhtimine, motivatsioon ja enesemääramine.
 - **Alar Ojastu** — juhtide ja meeskondade koolitaja (Eesti parim koolitaja 2018); autor *Ratsionaalne emotsionaalsus* — emotsioonide ja inimlikkuse silmaringi avaja.
+- **Tiit Trofimov** — enesearengu teejuht (tiittrofimov.ee); emotsioonide töö, meeste ringid, meditatsioon; autor *Lõpp on algus*; taastumine pärast 2009. aasta kriisi.
 - **Eesti Montessori võrgustik** — Eesti Montessori Instituut ja Ühing; AMI juhendajad (sh Ruth Maria Roosi-Ott, Kerli-Kristi Allikvee); lapse õppija-identiteet.
 - **MTÜ Perekoolitusühing Sina ja Mina** — Gordoni perekooli suhtlustreeningud lapsevanematele (TAI hinnang: VÄGA HEA).
 - **Tallinna Perekeskus** — programm „Imelised aastad" (3–8-aastaste vanematele); tõenduspõhine vanemlusabi.
@@ -356,6 +364,7 @@
 | Rahva tase | Operatsioon „Peegel" võrgustik | KÄIVITATUD — see käsk |
 | Toetus | Katrin Lucas / „Ava oma Silmad" | Teadlikkuse kanal — aktiivne |
 | Toetus | Ingvar Villido / Practical Consciousness | Teadliku muutuse kunst — aktiivne |
+| Toetus | Tiit Trofimov / eneseareng | Emotsioonid, meeste ring, taastumine — aktiivne |
 | Toetus | Eesti Tantrafestivali võrgustik (Earthchild, Skalkina, Sarmet, Saul) | Tantralaagrid ja festivalid — aktiivne |
 | Toetus | Urmas Sõõrumaa / Pühali Hea Elu Keskus | Heaolu, loodus, puhkus — aktiivne |
 | Toetus | Eero Kinnunen / Eesti Kaitseväe Veteranid | Veteranide kogukond ja tugi — aktiivne |
@@ -366,7 +375,7 @@
 
 ## c. Tugevdused ja vähendused
 
-- **Tugevused:** Renee Aluste (isiklik kogemus + sõjaline väljaõpe); Combat Ready meeskond (sh Her Way, Youth, Pertinax); Ain Anslan (avaliku sektori juhtimiskultuur); Riho Ühtegi rahvuslik autoriteet; Rene Toomse strateegiline nägemus; Eerik Heldna kriisireguleerimine; Elmar Vaher kaitseinvesteeringute ja juhtimiskogemus; Taavi Karotamme ja Arvo Jõesalu strateegilise kommunikatsiooni kogemus; Steigeri inimesekeskne juhtimine kui SOP (Lisa I); teadlikkuse võrgustik (Lucas, Villido, tantralaagrid, Pühali); veteranid (Kinnunen); kohalikud allüksused (Järvsoo, Ambros); inimeste juhtimine (Sillaste).
+- **Tugevused:** Renee Aluste (isiklik kogemus + sõjaline väljaõpe); Combat Ready meeskond (sh Her Way, Youth, Pertinax); Ain Anslan (avaliku sektori juhtimiskultuur); Riho Ühtegi rahvuslik autoriteet; Rene Toomse strateegiline nägemus; Eerik Heldna kriisireguleerimine; Elmar Vaher kaitseinvesteeringute ja juhtimiskogemus; Taavi Karotamme ja Arvo Jõesalu strateegilise kommunikatsiooni kogemus; Steigeri inimesekeskne juhtimine kui SOP (Lisa I); teadlikkuse võrgustik (Lucas, Villido, Trofimov, tantralaagrid, Pühali); veteranid (Kinnunen); kohalikud allüksused (Järvsoo, Ambros); inimeste juhtimine (Sillaste).
 - **Vähendused:** Puuduv ametlik riiklik volitus (kodanikualgatus); piiratud eelarve; sõltuvus vabatahtlikust osalusest.
 
 ---
@@ -506,6 +515,11 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 2. Teadlikkuse praktiline rakendamine igapäevaelus (Lilleoru, human.ee).
 3. Täiendav tee neile, kes vajavad sügavamat sisemist tööd pärast Faas I teadvustamist.
 
+### Tiit Trofimov (eneseareng ja emotsioonid)
+1. Meeste ringid ja meditatsioonitöötoad — turvaline ruum meestele, kes tahavad rääkida ausalt (tiittrofimov.ee).
+2. Emotsioonide vabastamine ja kehatöö — traumade ja allasurutud emotsioonide töötlemine teadlikkuse kaudu.
+3. Raamat *Lõpp on algus. Julgus elada iseendana* — elulugu põhjast taastumisest; soovitus neile, kes on kaotanud kõik ja otsivad uut algust.
+
 ### Igor Earthchild / Bella Skalkina / Margus Sarmet / Kristiina Saul (tantra ja laagrid)
 1. Eesti Tantrafestivali ja tantralaagrite korraldamine — turvalised ruumid enese taasleiutamiseks.
 2. Töötoad paaridele ja üksikisikutele: teadlik lähedus, keha avamine, emotsioonide vabastamine.
@@ -558,7 +572,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Klass | Sisu |
 |-------|------|
 | **I (toit)** | Soe pere eine 1× nädalas — ilma ekraanideta |
-| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet); Alar Ojastu *Ratsionaalne emotsionaalsus*; „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee); Gordon (sinamina.ee); Imelised aastad (pk.ee); Papsid.ee (papsid.ee, Papside laager) |
+| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet); Alar Ojastu *Ratsionaalne emotsionaalsus*; Tiit Trofimov *Lõpp on algus*; „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee); Gordon (sinamina.ee); Imelised aastad (pk.ee); Papsid.ee (papsid.ee, Papside laager) |
 | **III (kütus)** | Uni 7–8h; liikumine 30 min/päev |
 | **V (laskemoon)** | Sõnad — kasuta neid mõistlikult. Iga sõnum on lask |
 | **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber; [narko.ee](https://www.narko.ee) chatbot/tugiliin (Renee alustas siit); [ohvriabi.ee](https://ohvriabi.ee) — koduvägivalla korral kuni 940 € psühholoogilise abi toetus 2 aasta jooksul (sh **EMDR** sessioonid); Märt Avandi lugu YouTube'is: [watch?v=nNuHGdQdrZY](https://www.youtube.com/watch?v=nNuHGdQdrZY) |
@@ -590,6 +604,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Juhtimiskoolitus | Priit Lilleväli | priit.lillevali@combatready.eu |
 | Teadlikkus | Katrin Lucas | katrinlucas.com |
 | Teadlik muutus | Ingvar Villido | lilleoru.ee / human.ee |
+| Eneseareng / emotsioonid | Tiit Trofimov | tiittrofimov.ee |
 | Tantra / laagrid | Igor Earthchild | learn2touch.com / tantrafest.ee |
 | Tantra / laagrid | Bella Skalkina | tantrafest.ee / anahata.fi |
 | Tantra / laagrid | Margus Sarmet | tantratants.ee / tantrafest.ee |
@@ -626,6 +641,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Veteranid:** ekvv.ee (Eero Kinnunen)
 - **Noorte Kotkad:** nooredkotkad.ee
 - **Teadlik muutus:** lilleoru.ee, practicalconsciousness.org (Ingvar Villido)
+- **Eneseareng ja emotsioonid:** tiittrofimov.ee (Tiit Trofimov)
 - **Tantralaagrid:** tantrafest.ee, tantratants.ee, kristiinasaul.ee
 - **Taastumine looduses:** puhali.ee (Pühali Hea Elu Keskus, Urmas Sõõrumaa)
 - **Kriis (isad):** Lisa H — `lisad/lisa-h-kiirjuhend-kriisis-isale.md`

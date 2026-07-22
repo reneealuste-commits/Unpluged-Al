@@ -440,6 +440,7 @@
 |------|------|---------|----------|
 | Katrin Lucas | „Ava oma Silmad" | Teadlikkus | Taskuhääling, kogukond |
 | Ingvar Villido | Practical Consciousness | Teadlik muutus | Kursused, Lilleoru |
+| Tiit Trofimov | Enesearengu teejuht | Emotsioonid, meeste ring | Meditatsioon, töötoad, raamat |
 | Igor Earthchild | Tantrafestival | Keha avamine | Laagrid, festivalid |
 | Bella Skalkina | Tantrafestival | Lähedus, energia | Töötoad, korraldus |
 | Margus Sarmet | Tantra Tribe | Praktiline tantra | Laagrid, jooga |
@@ -498,6 +499,7 @@
 | Aleksandr Afanasjev | Instruktor | Koolitused (vt ka CR tuumik) |
 | Peep Vain | Koolitaja (Vain & Partners) | Juhtimine, motivatsioon, enesemääramine |
 | Alar Ojastu | Koolitaja, autor | *Ratsionaalne emotsionaalsus*; emotsioonid ja juhtimine |
+| Tiit Trofimov | Enesearengu teejuht | Emotsioonid, meeste ring, meditatsioon (tiittrofimov.ee) |
 | Ruth Maria Roosi-Ott | AMI Montessori juhendaja | Lapse õppija-identiteet (Eesti Montessori Instituut) |
 | Kerli-Kristi Allikvee | AMI Montessori juhendaja | Montessori võrgustik Eestis |
 | Sina ja Mina (Gordon) | Lapsevanemate koolitus | Gordoni suhtlustreening (sinamina.ee) |

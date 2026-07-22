@@ -48,18 +48,19 @@ Kasuta seda nimekirja iga päev — üks punkt või kõik viis:
 
 ---
 
-## 4. SOK liikmed — demomehed ja ülesanded
+## 4. Kes on demomees?
 
-| Liige | Roll demomehena | Ülesanne 1 | Ülesanne 2 | Ülesanne 3 |
-|-------|-----------------|------------|------------|------------|
-| **Martin Plaser** | Füüsiline distsipliin | Loe sõduriõpiku distsipliini- ja füüsilise valmisoleku osa | Rakenda checklist 5× nädalas treeningul | Näita eeskuju: kuidas austus ja distsipliin käivad käsikäes |
-| **Nils Ratt** | Kohalik eestvedamine | Loe viisakuseeskirja teenistusliku suhtluse peatükk | Kasuta checklisti igal kohtumisel (austa + kuula) | Anna tagasiside: mis töötab kogukonnas, mis mitte |
-| **Priit Uuemaa** | Mentorlus | Loe sõduriõpik — juhi ja alluva suhe | Mentorluses: üks checklisti punkt iga sessiooni | Dokumenteeri üks „mis töötas" lugu kuus |
-| **Sverre Puustusmaa** | Võrgustiku tugi | Loe rivi eeskiri — tervitused ja raport | Toeta teisi demomehi checklistiga | Hoia SOK sidet — ütle ausalt, kui keegi kukub välja |
-| **Marko Kaseleht** | Kohalik tegevus | Loe sisemäärustik — au ja austus | Rakenda hooli + usalda igapäevases kontaktis | Korralda üks SOK kohtumine kvartalis |
-| **Robert Käsper** | Meedik / veteran | Loe viisakuseeskirja — suhtlus ülemaga ja alluvaga | Eriväelase jutud: räägi austusest ilma romantiseerimata | Meenuta ühiste teenistusaastate distsipliini (demomehe lugu) |
+**SOK läbinud tunnevad ennast ise ära.**
 
-*Kui SOK nimekiri täieneb — lisa rida. Iga uus liige saab sama kolm ülesannet: loe allikad, kasuta checklisti, anna tagasiside.*
+See lisa ei sisalda avalikku nimekirja. Üksus **Aluste_kool** on neile, kes on SOK programmi läbinud ja võtavad kohustuse:
+
+1. Lugeda läbi sõduriõpik ja viisakuseeskirja põhimõtted.
+2. Kasutada päevast checklisti.
+3. Katsetada päriselus, mis töötab — ja anda tagasisidet.
+
+Kui sa tunned, et see kirjeldus on sinu kohta — oled õiges kohas. Kui mitte — vaata Lisa K hajutatud ettevõtjate võrgustikku või Combat Ready koolitusi.
+
+**Demomehe kolm ülesannet:** loe allikad · kasuta checklisti · anna tagasiside.
 
 ---
 
@@ -100,7 +101,7 @@ Tsiviilis kasutatav versioon — ilma teatrita, aga selgusega:
 | Roll | Isik | Side |
 |------|------|------|
 | Üksuse aktiveerija | Renee Aluste | Operatsiooni koordinaator |
-| Demomeeste ring | SOK liikmed | Omavaheline — aus tagasiside |
+| Demomeeste ring | SOK läbinud (omavaheline) | Aus tagasiside — ilma avaliku nimekirjata |
 | Tugi juhtimisel | Priit Lilleväli / Combat Ready | Kui checklist tõstab traumat või kriisi |
 
 ---

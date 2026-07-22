@@ -38,8 +38,8 @@
          │    │                   │                   │                                                     │
 ┌────────▼────▼───┐   ┌───────────▼──────────┐   ┌────▼─────────────┐   ┌────────────────▼──────────────────┐
 │ KOHALIKUD        │   │ VETERANID / TUGI      │   │ PODCAST / Meedia  │   │ VÕRGUSTIKU TOETAJAD               │
-│ Järvsoo (Kotkad) │   │ Kinnunen (veteranid)  │   │ 24 episoodi       │   │ Plaser, Ratt, Uuemaa, Puustusmaa  │
-│ Ambros (Harku)   │   │ Sillaste (supervis)   │   │ jujutud.ee        │   │ Kaseleht                          │
+│ Järvsoo (Kotkad) │   │ Kinnunen (veteranid)  │   │ 24 episoodi       │   │ Tegusad ettevõtjad (hajutatud)    │
+│ Ambros (Harku)   │   │ Sillaste (supervis)   │   │ jujutud.ee        │   │ hajutatud ettevõtjad (vt 3.13)    │
 └──────────────────┘   └───────────────────────┘   └───────────────────┘   └───────────────────────────────────┘
 ```
 
@@ -199,10 +199,22 @@
 |----------|-----------|
 | 1 | Loe sõduriõpik + Kaitseväe sisemäärustik (viisakus, rivikord) |
 | 2 | Päevane checklist: **austa · kuula · usalda · ole mõjutatud · hooli** (1× päevas) |
-| 3 | Katseta mis töötab — igakuine tagasiside SOK ringis |
-| 4 | Iga liige on **demomees** — näita eeskuju, ära ainult räägi |
+| 3 | Katseta mis töötab — igakuine tagasiside |
+| 4 | Iga SOK läbinu on **demomees** — näita eeskuju, ära ainult räägi |
 
-**SOK liikmed:** Martin Plaser, Nils Ratt, Priit Uuemaa, Sverre Puustusmaa, Marko Kaseleht, Robert Käsper.
+**Liikmed:** SOK läbinud tunnevad ennast ise ära — avalikku nimekirja ei ole.
+
+### 3.13 Hajutatud ettevõtjad (mitte SOK)
+
+**Eesmärk:** Tegusad ettevõtjad, kes tegutsevad sõltumatult — ilma tsentraalse käsuta.
+
+| Nimi | Roll |
+|------|------|
+| Martin Plaser | Maadlustreener; füüsiline distsipliin |
+| Nils Ratt | Kohalik eestvedamine |
+| Priit Uuemaa | Mentorlus |
+| Sverre Puustusmaa | Võrgustiku tugi |
+| Marko Kaseleht | Kohalik tegevus |
 
 ---
 
@@ -562,11 +574,11 @@
 
 | Nimi | Roll | Ülesanne |
 |------|------|----------|
-| Martin Plaser | Maadlustreener; **SOK / Aluste_kool** | Füüsiline distsipliin; demomees (Lisa N) |
-| Nils Ratt | Kogukonna liige; **SOK / Aluste_kool** | Kohalik eestvedamine; viisakuse checklist |
-| Priit Uuemaa | Kogukonna liige; **SOK / Aluste_kool** | Mentorlus; demomees |
-| Sverre Puustusmaa | Kogukonna liige; **SOK / Aluste_kool** | Võrgustiku tugi; SOK sidemees |
-| Marko Kaseleht | Kogukonna liige; **SOK / Aluste_kool** | Kohalik tegevus; demomees |
+| Martin Plaser | Maadlustreener; hajutatud ettevõtja | Füüsiline distsipliin noortele |
+| Nils Ratt | Tegus ettevõtja; hajutatud võrgustik | Kohalik eestvedamine |
+| Priit Uuemaa | Tegus ettevõtja; hajutatud võrgustik | Mentorlus |
+| Sverre Puustusmaa | Tegus ettevõtja; hajutatud võrgustik | Võrgustiku tugi |
+| Marko Kaseleht | Tegus ettevõtja; hajutatud võrgustik | Kohalik tegevus |
 | Peep Vain | Koolitaja (Vain & Partners) | Juhtimine, motivatsioon, enesemääramine |
 | Alar Ojastu | Koolitaja, autor | *Ratsionaalne emotsionaalsus*; emotsioonid ja juhtimine |
 | Tiit Trofimov | Enesearengu teejuht | Emotsioonid, meeste ring, meditatsioon (tiittrofimov.ee) |
@@ -585,7 +597,7 @@
 | Kristjan Liivamägi | TalTech, KML Invest | Aasta investor 2022, rahatarkus (rahaedu.ee) |
 | Marko Oolo | Investor, Excel | Aasta investor 2024, portfellitööriistad (oolomarko.ee) |
 | Katri Teller | Blondcast | Aasta investor 2023, taskuhääling (tasku.delfi.ee) |
-| Robert Käsper | Combat Ready, meedik 18D; **SOK / Aluste_kool** | FTX, Eriväelase jutud; demomees |
+| Robert Käsper | Combat Ready, meedik 18D | FTX, Eriväelase jutud |
 
 ---
 

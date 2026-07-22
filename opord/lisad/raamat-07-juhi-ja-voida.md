@@ -44,7 +44,7 @@ Operatsioon „Peegel" struktuur OPORD-is näeb välja nagu sõjaväeorganisatsi
 | Kool | Mentorlus | Isa või ema kooliüritusel |
 | Kogukond | Võrgustik | Combat Ready koolitus, kirik, spordiklubi |
 
-Martin Plaser, Nils Ratt, Priit Uuemaa ja teised meie võrgustiku liikmed teevad seda igapäevaselt. Sa võid liituda või luua oma haru.
+Martin Plaser, Nils Ratt, Priit Uuemaa ja teised tegusad ettevõtjad tegutsevad hajutatult — igaüks oma piirkonnas. Sa võid liituda või luua oma haru.
 
 ---
 

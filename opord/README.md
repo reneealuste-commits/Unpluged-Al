@@ -29,4 +29,4 @@ Dokument järgib Maakaitse käsiraamatu viiepunktilist OPORD-formaati:
 
 Eelnevalt: ülesande koosseis (osalajate profiilid), tegutsemisala piirid, info-keskkonna kirjeldus.
 
-Lõpus: küsimused ja vastused (rollimäng pressikonverentsi formaadis).
+Lõpus: küsimused ja vastused — kodanikud, poliitikud, usuringkonnad, meedia (rollimäng).

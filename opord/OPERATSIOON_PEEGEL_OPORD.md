@@ -329,7 +329,7 @@ koos Combat Ready meeskonna ja partneritega
 
 # KÜSIMUSED JA VASTUSED
 
-*Stsenaarium: Renee Aluste annab operatsiooni „Peegel" kohta pressikonverentsi ja vastab kodanike, ajakirjanike, poliitikute ja skeptikute küsimustele. Küsimused on koostatud tüüpiliste reaktsioonide põhjal — nii toetavate kui ka kriitiliste.*
+*Stsenaarium: Renee Aluste annab operatsiooni „Peegel" kohta pressikonverentsi ja vastab kodanike, ajakirjanike, poliitikute, usuringkondade esindajate ja skeptikute küsimustele. Küsimused on koostatud tüüpiliste reaktsioonide põhjal — nii toetavate kui ka kriitiliste.*
 
 ---
 
@@ -465,7 +465,163 @@ koos Combat Ready meeskonna ja partneritega
 
 ---
 
-## VII. Lõplik vahetus (rollimäng)
+## VII. Poliitikud ja riigijuhid
+
+*Stsenaarium: Riigikogu liige, vallavanem ja endine ministeeriumi ametnik küsivad, kuidas operatsioon puudutab poliitikat, seadusi ja riigi rolli.*
+
+---
+
+**K (Riigikogu liige, Keskerakond):** Kas teie operatsioon ei asenda riigi tööd? Miks peaks kodanikud ise infosõjaga tegelema — see on ju riigi ülesanne?
+
+**V:** Riik teeb oma tööd — Kaitsepolitseiamet, kaitsevägi, välisministeerium. Aga riik ei saa tulla teie koju õhtul ja lülitada telefoni välja. Riik ei saa istuda teie lapse voodiservas. See, mis toimub perekonnas, koolis ja sotsiaalmeedias, on kodanike ruum. Me ei asenda riiki. Me täidame lünka, kuhu riigi käsi ei ulatu. Tugev kodanik on tugev riik — seda on Rene Toomse aastaid kirjutanud.
+
+---
+
+**K (Vallavanem, Reformierakond):** Kas te ootate, et omavalitsused teid toetavad? Kas teil on konkreetne eelarve või programm, mida me peaksime volikogus heaks kiitma?
+
+**V:** Me ei nõua omavalitsustelt eelarvet ega poliitilist toetust. Kui vallavalitsus tahab toetada peresid — pereklubid, noorte mentorlus, kogukonnaüritused — siis see on teretulnud. Aga me ei tule teie laua taha programmi müüma. Me anname raamistiku: võta vastutus, tugevda peresid, arenda kriitilist mõtlemist. Kuidas seda ellu viia — see on iga kogukonna otsus.
+
+---
+
+**K (Endine kaitseministeeriumi ametnik):** Kas teie tegevus ei tekita segadust — kodanik võib arvata, et see on ametlik kaitseväe operatsioon?
+
+**V:** See on õige märkus. Seetõttu ütleme selgelt igal lehel: see on kodanikualgatus, mitte riiklik käsk. Me ei kasuta kaitseväe sümboolikat ega ametlikke märke. Me austame riigi rolli ja ei pretendeeri ametlikule volitusele. Kui keegi levitab infot, et „riik käskis" — see on vale. Riik kaitseb. Kodanik tugevneb. Mõlemad on vajalikud.
+
+---
+
+**K (Konservatiivne poliitik):** Teie rõhk peredel ja isafiguuril kõlab traditsioonilise pere väärtustest. Kas see on teadlik poliitiline valik?
+
+**V:** See ei ole ühegi erakonna programm. See on inimlik tõde: lapsed vajavad eeskuju. Traditsiooniline pere on üks vorm — aga me ei välista teisi. Üksikema, kasuvanem, vanaema, treener — kõik võivad olla see tugev täiskasvanu lapse elus. Me ei räägi poliitikast. Me räägime lastest.
+
+---
+
+**K (Liberaalne poliitik):** Teie sõnum võib kõlada nagu „kodanik, sa ise süüdi, et sind manipuleeritakse". Kas te ei süsti vastutust üksikule, mitte süsteemile?
+
+**V:** Mõlemad on tõesed. Süsteem — algoritmid, võõrriiklik mõjutus, nõrgad sotsiaalpoliitika valikud — vajab parandamist. Aga oodata, et süsteem lahendab kõik enne, kui sa ise midagi teed, on lootusetuse retsept. Me ütleme: nõua süsteemilt paremat, aga alusta iseendast samal ajal. See ei ole süüdistus. See on jõud.
+
+---
+
+**K (Euroopa Parlamendi saadiku nõustaja):** Kas operatsioon „Peegel" on seotud Euroopa Liidu kaitse- või infosõja programmidega?
+
+**V:** Otsest rahastust või ametlikku seost ELi programmidega ei ole. Martin Jõesaar teab Euroopa kaitsemaastikku oma töö kaudu, kuid see operatsioon on sündinud Eestis, eestlaste jaoks. Kui tulevikus tekib koostöö — see peab olema läbipaistev. Praegu: Eesti kodanikud, Eesti probleem, Eesti vastus.
+
+---
+
+**K (Kohalik aktivist):** Kas te toetate mingit erakonda või kandidaati valimistel?
+
+**V:** Ei. Mitte ühtegi. Me ei anna raha erakondadele. Me ei kutsu hääletama kellegi poolt. Riho Ühtegi nimi on mainitud kui võimalik juht, sest inimesed usaldavad teda — aga see on rahva otsus, mitte meie kampaania. Operatsioon kestab kauem kui üks valimistsükkel.
+
+---
+
+## VIII. Usuringkonnad ja vaimsed kogukonnad
+
+*Stsenaarium: Pastor, koguduse liige ja vaimse tervise vabatahtlik küsivad usu, eetika ja vaimse tervise rolli kohta.*
+
+---
+
+**K (EELK pastor, Tartu):** Kas teie sõnum ei kattu kristliku sõnumiga — pere, vastutus, armastus?
+
+**V:** Paljudes punktides jah. Kirik on sajandeid rääkinud eeskujust, vastutusest ja ligimese armastusest. Me ei pretendeeri usundi asemele. Aga me tervitame kirikuid partneritena — kui kogudus toetab peresid, noori ja abivajajaid, teete te seda, mida operatsioon „Peegel" kutsub üles tegema. Usu ja riigikaitse ei ole vastased. Tugev vaimne elu on tugev riik.
+
+---
+
+**K (Koguduse liige, pentekostlik kogudus):** Meie kogukonnas palvetatakse ja paastutakse. Kas teie lähenemine ei ole liiga „ilmalik" — ainult psühholoogia ja distsipliin?
+
+**V:** Palve ja paast on vaimsed distsipliinid — sama põhimõte mis sõjaväelise koolituse distsipliin. Me ei välista Jumalat ega vaimset dimensiooni. Renee Aluste ise tunnistab, et taastumine tuli ka ravimist, eneseteadlikkusest ja toetusest — paljud leiavad sama tee palve kaudu. Me ei ütle, kuidas sa pead uskuma. Me ütleme: leia midagi, mis sind hoiab — olgu see Jumal, kogukond või aus peegeldus iseendas.
+
+---
+
+**K (Moslemite kogukonna esindaja):** Kas teie operatsioon on mõeldud ainult eestlastele? Kuidas te suhtute mitmekultuurilisse Eestisse?
+
+**V:** Operatsioon on Eesti kodanikele — kõigile, kes elavad siin ja hoolivad sellest maast. Mitmekultuurilisus on tugevus, kui kogukonnad on terved. Manipulatsioon tabab kõiki — olenemata keelest või usust. Kutsume üles: tugevda oma perekonda, õpeta lastele kriitilist mõtlemist, ole eeskuju. See kehtib nii eesti-, vene-, inglise- kui muukeelse peres.
+
+---
+
+**K (Vaimse tervise vabatahtlik, Pealinna):** Kas te ei trivialiseeri depressiooni, öeldes „võta lihtsalt vastutus"? Inimene vajab mõnikord arsti, mitte lahingukäsku.
+
+**V:** Absoluutselt. Me ei asenda meditsiini. Renee Aluste räägib avameelselt, et ta võttis ravimeid ja pöördus abi poole — see päästis ta elu. Lahingukäsk on raamistik, mitte retsept. Kui sa oled põhjas — helista 655 8088 (Eluliin), 116 123 (kriisiabi) või pöördu arsti poole. Vastutus tähendab ka seda, et otsid abi, kui seda vajad. See on tugevus.
+
+---
+
+**K (Budistlik rühmitus):** Teie „peegelneuronite" keel kõlab teadlikkuse praktikast. Kas te olete teadlikud, et see võib kattuda meditatsiooni ja eneseteadlikkuse õpetustega?
+
+**V:** Jah. Peegel on universaalne metafoor. Katrin Lukas tegeleb taskuhäälingus teadlikkuse ja ärkvelolekuga teistsugusel keelel — me austame seda. Operatsioon „Peegel" ei ole üks õige tee. See on üks tee — distsipliini, sõjalise selguse ja perekonna kaudu. Teie tee võib olla vaikus ja meditatsioon. Eesmärk on sama: ärkvel inimene, kes ei lase end manipuleerida.
+
+---
+
+**K (Ateist, humanistlik ühendus):** Kas see operatsioon ei eelda usku millegi kõrgemasse? Me ei vaja Jumalat, et olla head inimesed.
+
+**V:** Õige. Me ei nõua usku. Me nõuame ausust, vastutust ja hoolivust — need on inimlikud väärtused, mitte ainult usulised. Sa võid olla ateist ja olla suurepärane isa, ema või naaber. Operatsioon on inimeste jaoks, mitte usklike jaoks.
+
+---
+
+**K (Kiriku noortetöö juht):** Kas te kutsute noori kirikutesse või pigem väljapoole?
+
+**V:** Me ei konkureeri kirikuga. Kui noor leiab jõu kogudusest — suurepärane. Kui ta leiab jõu spordiklubist, perekonnast või mentorist — samuti. Meie sõnum noortele: leia koht, kus sind ei manipuleerita, vaid hoitakse. See võib olla kirik. See võib olla ka treener või ema.
+
+---
+
+## IX. Meedia ja ajakirjanikud
+
+*Stsenaarium: ERRi uuriv ajakirjanik, Delfi kommentaator ja kohalik raadiojuht küsivad tõestuslikkuse, eetika ja uudisväärtuse kohta.*
+
+---
+
+**K (ERR, uuriv ajakirjanik):** Kas teil on dokumenteeritud tõendid Vene mõjutustegevuse kohta Eestis, mida saaksime tsiteerida? Või jääb see üldise tasemele?
+
+**V:** Ametlikke raporte on avalikult kättesaadav: Kaitsepolitseiamet, välisluure, NATO ja sõltumatud think tankid on aastaid seda kirjeldanud. Me ei lisa uut luureandmestikku. Me tõlgendame seda, mida juba teatakse, kodanike keelde. Ajakirjanikule soovitus: tsiteeri KAPO aastaraamatut, ICDS-i analüüse või Rene Toomse akadeemilist tööd — need on kontrollitavad allikad.
+
+---
+
+**K (Delfi kommentaator):** Renee, te räägite avameelselt oma depressioonist ja manipuleerimisest. Kas see on autentsus või turundusnarratiiv?
+
+**V:** Mõlemat saab küsida iga inimese kohta, kes räägib avameelselt. Ma ei saa tõestada sulle oma südant. Ma saan öelda: ma olin seal. Ma võtsin ravimeid. Ma taastusin. Kui keegi arvab, et see on turundus — see on tema õigus. Aga kui üks inimene kuuleb seda ja otsustab abi küsida — siis on see väärt rohkem kui iga auhind.
+
+---
+
+**K (Kohalik raadiojuht, Pärnu):** Meie kuulajad on väsinud „kampaaniatest". Kuidas te erinete järjekordsest „tee head" projektist?
+
+**V:** Me ei ole projekt, mis lõpeb kolme kuu pärast. Me ei kogu allkirju ega müü kleepsu. Me anname lahingukäsu — tasuta, avalikult, igale inimesele. Me ei palu raha kuulajatelt. Me palume muutust. Kui see kõlab nagu järjekordne kampaania — loe dokument läbi ja otsusta ise. Me ei vaja kõigi heakskiitu. Me vajame neid, kes on valmis.
+
+---
+
+**K (Postimees, peatoimetaja):** Kas te kutsute meedia üles piirama Vene mõjutuse levikut? Mis on teie sõnum ajakirjanikele?
+
+**V:** Me ei anna meediale käsklusi. Me kutsume üles kriitilisele ajakirjandusele: kontrolli allikaid, ära amplifitseeri hirmu liigselt, erista uudist arvamusest. Meedia on nii võimas relv kui ka kaitsekilp. Kui ajakirjanik küsib „kes sellest võidab?" enne loo avaldamist — ta teeb juba infosõja vastu tööd.
+
+---
+
+**K (TV3, saatejuht):** Kas te tulete saatesse? Kas Riho Ühtegi tuleb? Kes on nägu?
+
+**V:** Renee Aluste on operatsiooni koordinaator ja valmis rääkima. Teised osalised — Riho Ühtegi, Rene Toomse, Remo Ojaste — on sõltumatud inimesed oma ajakavaga. Me ei esinda kedagi ilma loata. Kui saade aitab sõnumit levitada — teretulnud. Kui saade võtab sõnumi kontekstist — me keeldume. Ausus enne nähtavust.
+
+---
+
+**K (Sotsiaalmeedia influencer):** Kas ma võin teie sisu jagada ja oma brändiga siduda?
+
+**V:** Sisu on avalik — jaga vabalt, kui see on kooskõlas sõnumiga: vastutus, pere, kriitiline mõtlemine. Ära müü seda oma toote külge. Ära tee clickbaiti „Venemaa manipuleerib SIND" pealkirjaga, kui sa ei räägi sisust. Ära kasuta #OperatsioonPeegel müügiks. Kui sa elad eeskuju — jaga. Kui sa müüd — ära valeta, et me toetame sind.
+
+---
+
+**K (Venekeelne ajakirjanik, Eesti):** Teie sõnum võib venekeelse kogukonna jaoks kõlada nagu „teie olete mõjutatud". Kuidas te suhtute Eesti venekeelsetesse kodanikesse?
+
+**V:** Eesti venekeelsed kodanikud on meie inimesed. Nad elavad siin, maksavad makse, kasvatavad lapsi. Manipulatsioon ei tunne keelepiire — Vene meedia mõjutab ka eestikeelseid. Me ei süüdista kogukonda. Me kutsume igaüht — olenemata keelest — kontrollima allikaid ja tugevdama oma peret. Eesti tugevus on ühine, mitte lõhestatud.
+
+---
+
+**K (Podcasti saatejuht, tehnoloogia):** Algoritmid on teie sõnumis suur teema. Kas te nõuate platvormidelt (Meta, TikTok) muutusi?
+
+**V:** Me ei nõua — me õpetame kasutajaid. Platvormid järgivad raha ja tähelepanu. Kui miljon eestlast muudab oma käitumist — algoritm järgneb. Lülita märguanded välja. Jälgi teadlikult. Ära anna ekraanile oma lapse esimesi hommikuid. See on jõud, mida igaüks omab kohe, ilma seadusandeta.
+
+---
+
+**K (Uuriv ajakirjanik, rahvusvaheline väljaanne):** Kas operatsioon „Peegel" on ainult Eesti nähtus või mudel teistele riikidele?
+
+**V:** Eestil on unikaalne asend: väike riik, suur naaber, kõrge digitaalne küllastus. Meie kogemus võib olla teistele kasulik. Combat Ready juba tegutseb Euroopas. Aga see operatsioon sünnitakse siin, kohalikust vajadusest. Kui Soome või Leedu tahab sarnast — nad peavad leidma oma Peegli. Me ei ekspordi lahendust. Me jagame põhimõtteid.
+
+---
+
+## X. Lõplik vahetus (rollimäng)
 
 **K: Viimane küsimus. Ütle mulle ühe lausega, miks ma peaksin sind uskuma.**
 

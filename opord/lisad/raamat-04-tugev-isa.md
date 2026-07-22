@@ -82,6 +82,8 @@ Sa ei pea ootama ideaalset hetke. Alusta väikselt:
 
 Kui sa ei ole isa bioloogilises mõttes, mõtle: kas keegi noorem vaatab sinusse üles? Kui jah, oled sa juba eeskuju.
 
+**Praktiline samm:** Kui tahad olla tugevam isa ja partner, aga energiatass on tühi — vaata [papsid.ee](https://papsid.ee). **Papside laager** ([papsid.ee/papside-laager](https://papsid.ee/papside-laager/)) on 3-päevane kogemus isadele: emotsioonid, mängulisus lastega, meestering ja tööriistad koju kaasa. Missioon: rohkem õnnelikke lapsi, vähem lahutatud peresid.
+
 Operatsioon „Peegel" järgmine köide — *Pere rindejoon* — näitab, kuidas perekond saab esimeseks kaitsejooneks. Aga see joon algab ühest inimesest. Sinust.
 
 ---

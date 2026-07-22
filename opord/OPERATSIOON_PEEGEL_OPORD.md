@@ -286,6 +286,7 @@
 - **Eesti Montessori võrgustik** — Eesti Montessori Instituut ja Ühing; AMI juhendajad (sh Ruth Maria Roosi-Ott, Kerli-Kristi Allikvee); lapse õppija-identiteet.
 - **MTÜ Perekoolitusühing Sina ja Mina** — Gordoni perekooli suhtlustreeningud lapsevanematele (TAI hinnang: VÄGA HEA).
 - **Tallinna Perekeskus** — programm „Imelised aastad" (3–8-aastaste vanematele); tõenduspõhine vanemlusabi.
+- **PAPSID.EE** — Illimar Pilt ja Kristo Tuurmann; missioon: rohkem õnnelikke lapsi, vähem lahutatud peresid; **Papside laager** (3-päevane isade kogemuslaager, [papsid.ee/papside-laager](https://papsid.ee/papside-laager/)); tugevate ja kohalolevate isade kasvatamine.
 - **Nils Ratt, Priit Uuemaa, Sverre Puustusmaa, Marko Kaseleht, Aleksandr Afanasiev** — kogukonna ja võrgustiku liikmed; kohalikud eestvedajad ja mentorid.
 - **Kõik Eesti kodanikud** — operatsiooni lõplik sihtrühm ja põhijõud.
 
@@ -541,6 +542,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | **„Juhul kui…" (identiteet)** | Loe Lisa M — Robbinsi 5 sammu, manifest peegli ees, kodaniku vanne. LIHTSUS: üks plaan, üks tegu. |
 | **„Juhul kui…" (riik / bürokraatia)** | Loe Lisa L (Musk): küsi → kustuta → lihtsusta → kiirenda → automatiseeri. Automatiseeri viimasena. |
 | **„Juhul kui…" (keha suletud)** | Kui tunned end emotsionaalselt külmutatuna — kaaluge tantralaagrit või festivali (tantrafest.ee), Villido kursust (lilleoru.ee) või puhkust Pühalis (puhali.ee). Kriisis: Lisa H esimesena. |
+| **„Juhul kui…" (tahad olla tugevam isa)** | Loe Lisa D (*Tugev isa*). Kaaluge [papsid.ee](https://papsid.ee) koolitusi või **Papside laagrit** ([papsid.ee/papside-laager](https://papsid.ee/papside-laager/)) — 3 päeva isadele, praktilised tööriistad pere jaoks. |
 | **Lahingureeglid** | Ei ründa. Ei laima. Ei vihka. Ei manipuleeri. Peegeldame tervist, mitte haigust. |
 | **Tagasiside** | Igakuine tagasiside võrgustikule: mis töötab, mis mitte. Kanal: operatsiooni koordinaator. |
 
@@ -556,7 +558,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Klass | Sisu |
 |-------|------|
 | **I (toit)** | Soe pere eine 1× nädalas — ilma ekraanideta |
-| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet); Alar Ojastu *Ratsionaalne emotsionaalsus*; „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee); Gordon (sinamina.ee); Imelised aastad (pk.ee) |
+| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet); Alar Ojastu *Ratsionaalne emotsionaalsus*; „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee); Gordon (sinamina.ee); Imelised aastad (pk.ee); Papsid.ee (papsid.ee, Papside laager) |
 | **III (kütus)** | Uni 7–8h; liikumine 30 min/päev |
 | **V (laskemoon)** | Sõnad — kasuta neid mõistlikult. Iga sõnum on lask |
 | **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber; [narko.ee](https://www.narko.ee) chatbot/tugiliin (Renee alustas siit); [ohvriabi.ee](https://ohvriabi.ee) — koduvägivalla korral kuni 940 € psühholoogilise abi toetus 2 aasta jooksul (sh **EMDR** sessioonid); Märt Avandi lugu YouTube'is: [watch?v=nNuHGdQdrZY](https://www.youtube.com/watch?v=nNuHGdQdrZY) |

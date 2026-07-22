@@ -221,6 +221,16 @@ Identiteet ei kasva vaakumis. Need inimesed ja organisatsioonid aitavad perel, l
 - **Roll operatsioonis:** Tasuta 16-nädalane koolitus; lapsehoid kohapeal; praktilised oskused enne kriisi.
 - **Ülesanne:** Aidata vanematel, kes tunnevad, et nad hakkavad kaotama — enne kui infosõda või stress võtab üle.
 
+### PAPSID.EE — tugevate isade kasvatamine
+
+- **Veeb:** [papsid.ee](https://papsid.ee)
+- **Asutajad:** Illimar Pilt, Kristo Tuurmann — kogemuskoolitajad, mõlemad isad.
+- **Missioon:** Eestis rohkem õnnelikke lapsi ja vähem lahutatud peresid — lähedasemad peresuhted.
+- **Papside laager:** [papsid.ee/papside-laager](https://papsid.ee/papside-laager/) — 3-päevane kogemuslaager isadele; energia, emotsioonid, mängulisus lastega, meestering; praktilised tööriistad koju kaasa.
+- **Papsid ja Põnnid laager:** isade ja laste ühine seikluslaager (papsid.ee).
+- **Roll operatsioonis:** Operatsiooni võidumõõdik on tugev, kohalolev isa — PAPSID.EE aitab meestel selleks reaalselt valmis saada, mitte ainult teooriat kuulata.
+- **Ülesanne:** Suunata isad, kes tahavad olla paremad partnerid ja isad, aga energiatass on tühi — laager ja koolitused annavad ruumi enda ja pere jaoks.
+
 ---
 
 ## Praktiline kava — 7 päeva identiteetini
@@ -244,7 +254,7 @@ Identiteet ei kasva vaakumis. Need inimesed ja organisatsioonid aitavad perel, l
 | **A** (Ava silmad) | Manipulatsiooni äratundmine enne identiteeti |
 | **F** (Murra ring) | Taastumine — enesearmastus pärast kriisi |
 | **I** (Steiger) | Inimene enne protsessi |
-| **K** | Võrgustik — Peep Vain, Alar Ojastu, Montessori, Gordon, Perekeskus |
+| **K** | Võrgustik — Peep Vain, Alar Ojastu, Montessori, Gordon, Perekeskus, PAPSID.EE |
 | **L** | LIHTSUS riigi tasandil — sama põhimõte: selge plaan enne automatiseerimist |
 
 ---

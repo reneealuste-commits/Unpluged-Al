@@ -502,6 +502,7 @@
 | Kerli-Kristi Allikvee | AMI Montessori juhendaja | Montessori võrgustik Eestis |
 | Sina ja Mina (Gordon) | Lapsevanemate koolitus | Gordoni suhtlustreening (sinamina.ee) |
 | Tallinna Perekeskus | „Imelised aastad" | Vanemlusprogramm 3–8-aastaste laste vanematele (pk.ee) |
+| PAPSID.EE | Illimar Pilt, Kristo Tuurmann | Tugevate isade kasvatamine; koolitused, töötoad; **Papside laager** (papsid.ee/papside-laager) |
 
 ---
 

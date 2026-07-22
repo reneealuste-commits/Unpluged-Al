@@ -34,29 +34,40 @@
 ### Operatsiooni struktuur (skeem)
 
 ```
-                    ┌─────────────────────────────────────┐
-                    │  STRATEEGILINE TASE                 │
-                    │  Riho Ühtegi — rahva juhtimine     │
-                    │  Rene Toomse — riigi/valitsuse tase │
-                    └──────────────┬──────────────────────┘
-                                   │
-          ┌────────────────────────┼────────────────────────┐
-          │                        │                        │
-┌─────────▼─────────┐   ┌──────────▼──────────┐   ┌─────────▼─────────┐
-│ STRATEEGILINE     │   │ OPERATIIVNE / ÄRI     │   │ TEADVUSTUSE TASE  │
-│ KOMUNIKATSIOON    │   │ Kaitseväe Akadeemia   │   │ Katrin Lukas        │
-│ Taavi Karotamme    │   │ Combat Ready          │   │ „Ava oma Silmad"    │
-│ Arvo Jõesalu      │   │ Aarne Ermus, Remo Ojaste│   │ taskuhääling        │
-└─────────┬─────────┘   └──────────┬──────────┘   └─────────┬─────────┘
-          │                        │                        │
-          └────────────────────────┼────────────────────────┘
-                                   │
-                    ┌──────────────▼──────────────────────┐
-                    │  RAHVA TASE — PÕHIPINGUTUSÜKSUS     │
-                    │  Eesti kodanikud + võrgustik        │
-                    │  Renee Aluste (koordinaator)          │
-                    │  Priit Lilleväli, võrgustiku liikmed  │
-                    └─────────────────────────────────────┘
+                    ┌──────────────────────────────────────────┐
+                    │  STRATEEGILINE TASE                      │
+                    │  Riho Ühtegi — rahva juhtimine          │
+                    │  Rene Toomse — riigi/valitsuse tase      │
+                    │  Eerik Heldna — kriisireguleerimine     │
+                    │  Elmar Vaher — kaitseinvesteeringud      │
+                    │  Karotamme, Jõesalu — StratKom           │
+                    └──────────────────┬───────────────────────┘
+                                       │
+          ┌────────────────────────────┼────────────────────────────┐
+          │                            │                            │
+┌─────────▼──────────┐   ┌─────────────▼─────────────┐   ┌──────────▼──────────┐
+│ OPERATIIVNE / ÄRI   │   │ TEADVUSTUSE TASE           │   │ VETERANID / TUGI     │
+│ Combat Ready        │   │ Katrin Lukas               │   │ Eero Kinnunen        │
+│ KVA (Aarne Ermus)   │   │ Villido, tantra, Pühali    │   │ Marge Sillaste       │
+│ ├─ Her Way (naised) │   │                            │   │ (inimeste juhtimine) │
+│ ├─ Youth / Super-   │   │                            │   │                      │
+│ │  mängud (Jäppinen)│   │                            │   │                      │
+│ └─ Remo, Priit…     │   │                            │   │                      │
+└─────────┬──────────┘   └────────────────────────────┘   └──────────┬──────────┘
+          │                                                            │
+          └────────────────────────────┬───────────────────────────────┘
+                                       │
+                    ┌──────────────────▼───────────────────────┐
+                    │  KOHALIKUD ALLÜKSUSED (taktikaline)      │
+                    │  Peeter Järvsoo — Noorte Kotkad (rühm)   │
+                    │  Andrei Ambros — Harku (sport/vastupanuv.)│
+                    └──────────────────┬───────────────────────┘
+                                       │
+                    ┌──────────────────▼───────────────────────┐
+                    │  RAHVA TASE — PÕHIPINGUTUSÜKSUS          │
+                    │  Renee Aluste (koordinaator)             │
+                    │  Priit Lilleväli, võrgustiku liikmed     │
+                    └──────────────────────────────────────────┘
 ```
 
 **Põhipingutusüksus:** Iga Eesti kodanik — eriti lapsevanemad, mentorid ja kogukonna liidrid.
@@ -180,6 +191,64 @@
 - **Taust:** Major, Kaitseliidu peastaabi strateegilise kommunikatsiooni osakonna ülem. Endine Kaitseväe teavituskeskuse (StratKomKe eelkäija) ülem (2011). Kogemus meediaoperatsioonides, teavitustöös ja reservväelaste teavitusõppustes. Aktiivne aruteludes väärinfo ja julgeoleku teemadel (sh Arvamusfestival 2025).
 - **Miks ta on siin:** Jõesalu on üks neist inimestest, kellega Renee Aluste on istunud laua taga ja arutanud, kuidas Eesti sõnum jõuab kodanikuni — ja kuidas vastane seda lõhub. Strateegiline kommunikatsioon ei ole turundus. See on riigi julgeolek kodaniku köögis.
 
+#### Eerik Heldna — Kriisireguleerimine (üleriigiline koordineerimine)
+
+![Eerik Heldna](images/profiles/eerik-heldna.jpg)
+
+- **Roll operatsioonis:** Kriisireguleerimise koordineerimine kodanikualgatuse tasandil — rolliselgus, õppused, valmisolek ja tsiviil-kaitse üleminek kriisis.
+- **Taust:** Üle 25 aasta kogemust õiguskaitse ja julgeolekusektoris (politsei, kaitsepolitsei, toll). Endine Maksu- ja Tolliameti tolliosakonna juht. Naasis 2025. aastal Politsei- ja Piirivalveametisse kriisideks valmisoleku büroosse, kus tegeleb õppuste ja kriisivalmiduse korraldamisega. Combat Ready instruktor; riigikaitseõpetaja gümnaasiumides. Kaitseväe missioonikogemus.
+- **Miks ta on siin:** Operatsioon „Peegel" vajab inimest, kes mõistab kriisireguleerimist mitte ainult paberil, vaid praktikas — kes võtab vastutuse rolliselguse eest, kui ühiskond satub surve alla. Heldna on võtnud operatsiooni raames kriisireguleerimise juhtimise enda peale: üleriigiline koordineerimine, õppuste loogika ja kodaniku teadlikkus hädaolukorra reeglite osas.
+
+#### Elmar Vaher — Kaitseinvesteeringud ja riiklik võimekus
+
+![Elmar Vaher](images/profiles/elmar-vaher.jpg)
+
+- **Roll operatsioonis:** Strateegiline partner kaitse- ja tsiviilvõimekuse ühendamisel; riikliku investeeringu loogika toomine kodanikualgatusele arusaadavaks keeleks.
+- **Taust:** Riigi Kaitseinvesteeringute Keskuse (RKIK) peadirektor alates 12. jaanuarist 2026; riiklik relvastuse direktor. 2013–2023 Politsei- ja Piirivalveameti peadirektor — juhtis ühe Eesti suurima avaliku sektori asutuse ühendamist ja moderniseerimist. Magistrikraad õiguses. Combat Ready instruktor.
+- **Miks ta on siin:** Kaitse ei ole ainult sõnum. See on ka raha, taristu ja tarne — miljardid, mis peavad jõudma väljaõppesse ja võimekusse. Vaher täidab RKIK-is missiooni, mis otseselt toetab seda, mida operatsioon kodanikule õpetab: vastutust, valmisolekut ja pika mängu mõtlemist. Ta ühendab riigi investeeringutasandi ja Combat Ready praktilise juhtimiskultuuri.
+
+#### Combat Ready | Her Way — Naiste enesejuhtimine (For Her)
+
+![Combat Ready Her Way](images/profiles/combat-ready-her-way.jpg)
+
+- **Roll operatsioonis:** Naiste kanal ülima vastutuse ja enesejuhtimise õpetamiseks — eriti emadele, juhtidele ja naistele, kes kannavad kodus ja tööl koormust, mida infosõda süvendab.
+- **Taust:** Combat Ready | Her Way (tuntud ka kui *Combat Ready for Her*) on kogukond naistest, kes harjutavad Extreme Ownership põhimõtteid enesejuhtimiseks. Veebiseminarid ja praktilised treeningud; kaasloojad ja instruktorid sh Aet Tammis ja Karin Pohla. combatreadyherway.eu.
+- **Miks ta on siin:** Infosõda tabab sageli naisi teistmoodi — läbi hoolduse, süütunde ja väsimuse. Her Way pakub turvalist ruumi, kus naised õpivad võtma vastutust oma elu eest ilma kõike kontrollida proovimata. See täiendab operatsiooni peamist sõnumit: tugev perekond algab tugevast inimesest.
+
+#### Tanel Jäppinen — Combat Ready Youth ja Laste Supermängud
+
+- **Roll operatsioonis:** Noorte- ja peretasandi juht; Laste Supermängud ja Combat Ready Youth programmide eestvedaja.
+- **Taust:** Combat Ready Youth OÜ juhatuse liige ja tegevjuht (koos Martin Jõesaarga). Pikaaegne vanemlusmentor ja koolitaja; Parenting Solutions OÜ kaasasutaja. Keskendub 7–12-aastaste laste praktilisele vastutusele, distsipliinile ja kodus kasutatavale „ühisele keelele" — väike harjutus päevas, mitte teoorialoeng.
+- **Miks ta on siin:** Operatsioon võidetakse või kaotatakse kodus. Laste Supermängud ja Combat Ready Youth annavad lastele mängulise, praktilise tee vastutuse ja meeskonnatöö juurde — enne kui algoritm neid õpetab vastupidist. Kontakt: tanel.jappinen@combatready.eu.
+
+#### Peeter Järvsoo — Noorte Kotkad (kohalik allüksus)
+
+- **Roll operatsioonis:** Noorte Kotkaste rühma vanem; kohaliku noorte isamaalise kasvatuse ja füüsilise distsipliini eestvedaja.
+- **Taust:** Noorte Kotkad on Kaitseliidu noorteorganisatsioon (7–18-aastased): isamaaline haridus, seikluslik tegevus, riigikaitsealane väljaõpe ja kogukond üle Eesti. Rühmapealik juhib rühma; salgapealik korraldab salga tegevust. Peeter Järvsoo tegutseb noorte kotkaste rühma vanemana — kohalik taktikaline allüksus, mis toob operatsiooni sõnumi noorteni enne sotsiaalmeediat.
+- **Miks ta on siin:** Noored on infosõja peamine sihtrühm. Kotkad õpetavad vastutust, distsipliini ja eeskuju juba enne täiskasvanuks saamist. Iga tugev rühm on väike võit kogu riigi jaoks.
+
+#### Andrei Ambros — Harku piirkond (sport ja vastupanuvõime)
+
+![Andrei Ambros](images/profiles/andrei-ambros.jpg)
+
+- **Roll operatsioonis:** Harku piirkonna spordi- ja vastupanuvõime tõstmine; füüsilise valmisoleku ja enesekaitse praktiline koolitus.
+- **Taust:** Endine Eesti sõjaväelane; Spetsiaalsete Operatsioonide Grupi asutaja ja endine ülem. Ju-jutsu treener (Goshin klubi, Eesti Ju-Jutsu Liit); turvaekspert. MTÜ Laskespordiklubi Taktikaline Grupp asutaja ja treener (Harku vald, Muraste/Kütke) — võitlussport ja jahipraktiline laskmine. Tõi Eestisse Soomest modernse ju-jutsu.
+- **Miks ta on siin:** Vaimne vastupidavus vajab kehalist alust. Ambros tegutseb seal, kus inimesed elavad — Harku piirkonnas — ja õpetab, et tugev keha ja oskus end kaitsta on osa kodaniku valmisolekust, mitte agressioonist.
+
+#### Eero Kinnunen — Eesti Kaitseväe Veteranid
+
+![Eero Kinnunen](images/profiles/eero-kinnunen.jpg)
+
+- **Roll operatsioonis:** Veteranide võrgustiku ja kogukonna toe eestvedaja; side lahingukogemuse ja tsiviilühiskonna vahel.
+- **Taust:** Kolonel; MTÜ Eesti Kaitseväe Veteranid juhatuse esimees (alates 2014). Endine Viru jalaväepataljoni ülem; Kaitseliidu Harju maleva pealik (seitse aastat); Eesti kaitseattachee Ukrainas. Missioonid Iraagis ja Afganistanis. Kaitseväe Peastaabi operatiivjaoskonna endine ülem. Orden: Kotkaristi V klass (2004).
+- **Miks ta on siin:** Veteranid on elav mälestus, et vabadus ei ole tasuta. Kinnunen ühendab need, kes on teeninud, ja need, kes peavad tugevaks jääma kodus. Operatsioon vajab veteranide häält — mitte propaganda, vaid ausust ja kogemust.
+
+#### Marge Sillaste — Tugiteenused ja inimeste juhtimine
+
+- **Roll operatsioonis:** Juhtide ja abistajate supervisioon ning coaching; inimeste juhtimine protsesside asemel — Steigeri põhimõtete praktiline rakendamine tugiteenuste kontekstis.
+- **Taust:** Tervishoiu ja supervisiooni valdkonna praktik (FIE, alates 2017). Pakub supervisiooni, coachingut ja terapeutilist tuge — keskendub inimestele, mitte vaid protsessidele. Töötab tugiteenuste kontekstis, kus juhid ja spetsialistid vajavad peegeldust, mitte järjekordset kontrollnimekirja.
+- **Miks ta on siin:** Operatsioon „Peegel" ütleb: inimesekeskne juhtimine (Lisa I) ei ole ainult kaitseväe teema. Sillaste aitab neil, kes teenivad teisi — juhid, mentorid, tugispetsialistid — mitte läbi põleda ega muutuda masinaks. Ta juhib inimesi, mitte protsesse.
+
 #### Võrgustiku toetajad (taktikaline tase)
 - **Martin Plaser** — maadlustreener; füüsilise distsipliini ja meelekindluse edendaja.
 - **Nils Ratt, Priit Uuemaa, Sverre Puustusmaa, Marko Kaseleht, Aleksandr Afanasiev** — kogukonna ja võrgustiku liikmed; kohalikud eestvedajad ja mentorid.
@@ -241,20 +310,24 @@
 | Tase | Üksus | Staatus |
 |------|-------|---------|
 | Kõrgem | Eesti riik, Kaitsevägi, Kaitsepolitseiamet | Ametlik infosõja tõrje — hea, kuid kõik ei jõua kodanikuni |
+| Strateegiline | Eerik Heldna (kriisireguleerimine), Elmar Vaher (RKIK) | Kriisivalmidus ja kaitseinvesteeringud — aktiivne |
 | Operatiivne | Kaitseväe Akadeemia, Kaitseliit | Juhtide koolitus, kogukonna kaitse — tugev |
-| Taktikaline | Combat Ready | Juhtimiskoolitus, ülim vastutus — aktiivne |
+| Taktikaline | Combat Ready (+ Her Way, Youth/Supermängud) | Juhtimiskoolitus, ülim vastutus — aktiivne |
 | Strateegiline kommunikatsioon | Taavi Karotamme, Arvo Jõesalu | Kaitseväe ja Kaitseliidu strateegiline kommunikatsioon — aktiivne |
+| Kohalik | Peeter Järvsoo (Noorte Kotkad), Andrei Ambros (Harku) | Noored ja piirkondlik vastupanuvõime — aktiivne |
 | Rahva tase | Operatsioon „Peegel" võrgustik | KÄIVITATUD — see käsk |
 | Toetus | Katrin Lukas / „Ava oma Silmad" | Teadlikkuse kanal — aktiivne |
 | Toetus | Ingvar Villido / Practical Consciousness | Teadliku muutuse kunst — aktiivne |
 | Toetus | Eesti Tantrafestivali võrgustik (Earthchild, Skalkina, Sarmet, Saul) | Tantralaagrid ja festivalid — aktiivne |
 | Toetus | Urmas Sõõrumaa / Pühali Hea Elu Keskus | Heaolu, loodus, puhkus — aktiivne |
+| Toetus | Eero Kinnunen / Eesti Kaitseväe Veteranid | Veteranide kogukond ja tugi — aktiivne |
+| Toetus | Marge Sillaste | Supervisioon, inimeste juhtimine — aktiivne |
 
 **Kõrgema üksuse kavatsus:** Kaitsta Eesti inimeste vaimset ja füüsilist julgeolekut. See operatsioon toetab seda eesmärki, mitte ei asenda riiklikku kaitset.
 
 ## c. Tugevdused ja vähendused
 
-- **Tugevused:** Renee Aluste (isiklik kogemus + sõjaline väljaõpe); Combat Ready meeskond; Riho Ühtegi rahvuslik autoriteet; Rene Toomse strateegiline nägemus; Taavi Karotamme ja Arvo Jõesalu strateegilise kommunikatsiooni kogemus; Steigeri inimesekeskne juhtimine kui SOP (Lisa I); teadlikkuse võrgustik (Lukas, Villido, tantralaagrid, Pühali).
+- **Tugevused:** Renee Aluste (isiklik kogemus + sõjaline väljaõpe); Combat Ready meeskond (sh Her Way, Youth); Riho Ühtegi rahvuslik autoriteet; Rene Toomse strateegiline nägemus; Eerik Heldna kriisireguleerimine; Elmar Vaher kaitseinvesteeringute ja juhtimiskogemus; Taavi Karotamme ja Arvo Jõesalu strateegilise kommunikatsiooni kogemus; Steigeri inimesekeskne juhtimine kui SOP (Lisa I); teadlikkuse võrgustik (Lukas, Villido, tantralaagrid, Pühali); veteranid (Kinnunen); kohalikud allüksused (Järvsoo, Ambros); inimeste juhtimine (Sillaste).
 - **Vähendused:** Puuduv ametlik riiklik volitus (kodanikualgatus); piiratud eelarve; sõltuvus vabatahtlikust osalusest.
 
 ---
@@ -275,7 +348,7 @@ Operatsioon „Peegel" põhineb peegelneuronitel — ajus mehhanismil, mille abi
 
 **Faas I — Teadvustamine (kuud 1–3):** Ava silmad. Tuvasta manipulatsioon. Jälgi oma infokäitumist. Vähenda algoritmidele allumist. Alusta eneseanalüüsiga.
 
-**Faas II — Tugevdamine (kuud 4–8):** Ehita harjumusi. Perekonna aeg. Füüsiline liikumine. Mentorlus. Combat Ready ja võrgustiku koolitused. „Ava oma Silmad" taskuhääling teadlikkuseks. Ingvar Villido Practical Consciousness kursused. Tantralaagrid ja Eesti Tantrafestival (Earthchild, Skalkina, Sarmet, Saul). Pühali Hea Elu Keskus — loodus, sauna, puhkus (Sõõrumaa).
+**Faas II — Tugevdamine (kuud 4–8):** Ehita harjumusi. Perekonna aeg. Füüsiline liikumine. Mentorlus. Combat Ready ja võrgustiku koolitused. Combat Ready | Her Way (naised). Combat Ready Youth ja Laste Supermängud (Tanel Jäppinen). „Ava oma Silmad" taskuhääling teadlikkuseks. Ingvar Villido Practical Consciousness kursused. Tantralaagrid ja Eesti Tantrafestival (Earthchild, Skalkina, Sarmet, Saul). Pühali Hea Elu Keskus — loodus, sauna, puhkus (Sõõrumaa). Noorte Kotkad (Järvsoo). Harku piirkond (Ambros). Veteranide tugi (Kinnunen).
 
 **Faas III — Peegeldamine (kuud 9–12):** Oma kogukonnas eeskujuks. Räägi teistega. Toeta naabrit, kolleegi, sõpra. Iga tugev isa, iga toetav ema, iga mentor on võit.
 
@@ -308,6 +381,46 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 1. Ülima vastutuse koolitused ettevõtetele ja kogukondadele.
 2. Juhtimis- ja meeskonnakoolitused perede ja MTÜ-de juhtidele.
 3. Veebipõhiste ja hübriidlahenduste pakkumine (2026. aasta fookus: turvalisus ja vastupidavus).
+
+### Combat Ready | Her Way (naiste kanal)
+1. Igakuised enesejuhtimise veebikohtumised ja praktilised treeningud naistele.
+2. Ülima vastutuse rakendamine kodus, tööl ja kriisihetkedel — ilma kõike kontrollida proovimata.
+3. Kogukonna loomine, kus naised harjutavad ausust ja vastutust (combatreadyherway.eu).
+
+### Tanel Jäppinen / Combat Ready Youth / Laste Supermängud
+1. Laste Supermängud — praktilised harjutused peredele (7–12-aastased): vastutus, keskendumine, „ühine keel" kodus.
+2. Combat Ready Youth programmide arendamine ja levitamine koolidele ja MTÜ-dele.
+3. Vanemate mentorlus: väike harjutus päevas > teoorialoeng.
+
+### Eerik Heldna (kriisireguleerimine)
+1. Üleriigiline kriisireguleerimise koordineerimine operatsiooni raames — rolliselgus kodanikule ja juhtidele.
+2. Õppuste ja stsenaariumide loogika toomine tsiviilkanalisse (PPA kriisideks valmisoleku kogemus).
+3. Kriisikommunikatsiooni standardid koos Karotamme ja Jõesaluga; hädaolukorra reeglite teadlikkus.
+
+### Elmar Vaher (RKIK / kaitseinvesteeringud)
+1. Kaitsevõime ja kodaniku vastupanuvõime ühendamine arusaadavas keeles — mida investeering tähendab perele.
+2. RKIK missiooni täitmine: kaitseinvesteeringud jõuavad väljaõppesse ja võimekusse.
+3. Combat Ready juhtimiskoolituste toetamine riigi ja erasektori partnerluses.
+
+### Eero Kinnunen (Eesti Kaitseväe Veteranid)
+1. Veteranide ja nende perede tugi, tunnustus ja eneseabi foorum (ekvv.ee).
+2. Side veteranide kogemuse ja kodanikualgatuse vahel — ausad lood, mitte propaganda.
+3. Heategevus ja riigikaitseliste tegevuste toetamine avalikes huvides.
+
+### Peeter Järvsoo (Noorte Kotkad)
+1. Noorte Kotkaste rühma tegevus: isamaaline kasvatus, füüsiline distsipliin, meeskond.
+2. Noorte kaasamine operatsiooni sõnumisse — eeskuju enne algoritmi.
+3. Koostöö kohalike koolide ja peredega piirkonnas.
+
+### Andrei Ambros (Harku piirkond)
+1. Spordi- ja vastupanuvõime programmid Harku vallas ja naabruses (ju-jutsu, laskmine, enesekaitse).
+2. Füüsilise valmisoleku tõstmine peredes ja noortes — trenn, mitte hirm.
+3. Koostöö Combat Ready ja Kaitseliidu kohalike struktuuridega.
+
+### Marge Sillaste (tugiteenused, inimeste juhtimine)
+1. Supervisioon ja coaching juhtidele, mentoritele ja tugispetsialistidele — inimeste juhtimine, mitte protsesside kontroll.
+2. Steigeri inimesekeskse juhtimise põhimõtete rakendamine Lisa I järgi praktikas.
+3. Abi neile, kes teenivad teisi, et nad ei põleks läbi (vt Lisa H suunamine vajadusel).
 
 ### Riho Ühtegi / Rene Toomse (strateegiline tase)
 1. Avalik sõnum: riigikaitse algab kodus.
@@ -377,7 +490,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | **III (kütus)** | Uni 7–8h; liikumine 30 min/päev |
 | **V (laskemoon)** | Sõnad — kasuta neid mõistlikult. Iga sõnum on lask |
 | **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber |
-| **Muu** | „Ava oma Silmad" taskuhääling; Combat Ready koolitused; see lahingukäsk |
+| **Muu** | „Ava oma Silmad" taskuhääling; Combat Ready koolitused; Combat Ready Her Way; Laste Supermängud; see lahingukäsk |
 
 ## c. Meditsiiniline evakueerimine
 - Depressiooni või kriisi korral: pöörduda kohe spetsialisti poole. **Lisa H** — kiirjuhend isale kriisis (loe Lisa F esimesena).
@@ -408,6 +521,14 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Heaolu / loodus | Urmas Sõõrumaa | puhali.ee (Pühali Hea Elu Keskus) |
 | Strateegiline kommunikatsioon | Taavi Karotamme | mil.ee (Kaitsevägi) |
 | Strateegiline kommunikatsioon | Arvo Jõesalu | Kaitseliit |
+| Kriisireguleerimine | Eerik Heldna | PPA / Combat Ready |
+| Kaitseinvesteeringud | Elmar Vaher | kaitseinvesteeringud.ee |
+| Naiste kanal | Combat Ready Her Way | combatreadyherway.eu |
+| Noored / pered | Tanel Jäppinen | tanel.jappinen@combatready.eu |
+| Noorte Kotkad | Peeter Järvsoo | nooredkotkad.ee |
+| Harku piirkond | Andrei Ambros | estjutsu.ee / Taktikaline Grupp |
+| Veteranid | Eero Kinnunen | ekvv.ee |
+| Supervisioon | Marge Sillaste | margemargarethe@gmail.com |
 | Akadeemiline tugi | Aarne Ermus | Kaitseväe Akadeemia |
 
 **Juhtimiskett:** Renee Aluste → Remo Ojaste → võrgustiku liikmed → iga kodanik iseenda juht.
@@ -416,6 +537,10 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Ühisosa märge:** #OperatsioonPeegel
 - **Veeb:** combatready.eu
 - **Taskuhääling:** „Ava oma Silmad" (Katrin Lukas)
+- **Naiste kanal:** combatreadyherway.eu (Combat Ready | Her Way)
+- **Noored:** Combat Ready Youth / Laste Supermängud (Tanel Jäppinen)
+- **Veteranid:** ekvv.ee (Eero Kinnunen)
+- **Noorte Kotkad:** nooredkotkad.ee
 - **Teadlik muutus:** lilleoru.ee, practicalconsciousness.org (Ingvar Villido)
 - **Tantralaagrid:** tantrafest.ee, tantratants.ee, kristiinasaul.ee
 - **Taastumine looduses:** puhali.ee (Pühali Hea Elu Keskus, Urmas Sõõrumaa)
@@ -857,6 +982,34 @@ koos Combat Ready meeskonna ja partneritega
 **V:** Nad on operatsiooni strateegilise kommunikatsiooni eestvedajad oma kogemuse ja partnerluse kaudu. See ei ole Kaitseväe ega Kaitseliidu ametlik käsk — me ütleme seda selgelt. Aga nende töö riigis on ju see sama: aus sõnum, kriitiline mõtlemine, kodaniku usaldus. Me täiendame, mitte ei asenda.
 
 *Minu küsimus sulle: Kas sa usaldad juhti, kes räägib ainult võitu — mitte ka vigu?*
+---
+
+**K: Kes on Eerik Heldna ja miks ta juhib kriisireguleerimist?**
+
+**V:** Eerik Heldna on üle 25 aasta kogenud õiguskaitse- ja julgeolekuspetsialist. Ta töötab PPA kriisideks valmisoleku büroos ja on võtnud operatsiooni raames kriisireguleerimise koordineerimise enda peale — rolliselgus, õppused, kodaniku teadlikkus. See ei asenda riiklikku kriisikomisjoni. See täiendab: kui kriis tabab, peab iga inimene teadma, mida tema teha saab.
+
+*Minu küsimus sulle: Kas sa tead, mida teeksid esimese 24 tunni jooksul suuremas kriisis?*
+---
+
+**K: Mis roll on Elmar Vaheril — ta juhib ju RKIK-i?**
+
+**V:** Jah. Alates 2026. aasta jaanuarist juhib ta Riigi Kaitseinvesteeringute Keskust — miljardid, mis peavad jõudma kaitseväkke. Aga ta on ka Combat Ready instruktor. Operatsioonis tähendab see: riiklik võimekus ja kodaniku vastutus ei ole vastandlikud. Mõlemad on vajalikud.
+
+*Minu küsimus sulle: Kas sa tead, kuida sinu maksud kaitsevad sind — või ainult seda, mida sotsiaalmeedia näitab?*
+---
+
+**K: Mis on Combat Ready for Her / Her Way?**
+
+**V:** Combat Ready | Her Way on naiste kogukond, mis õpetab enesejuhtimist ülima vastutuse põhimõtetel. Veebiseminarid ja treeningud — mitte eraldi sõda meeste vastu, vaid oma elu juhtimine. Kui sa oled ema, juht või lihtsalt väsinud — see on üks kanal. combatreadyherway.eu.
+
+*Minu küsimus sulle: Kas sa võtad vastutuse oma emotsioonide eest — või ootad, et keegi teine need ära parandaks?*
+---
+
+**K: Mis on Laste Supermängud?**
+
+**V:** Praktiline programm lastele ja peredele — Combat Ready Youth ja Tanel Jäppinen. Mitte teooria, vaid mängulised harjutused: vastutus, keskendumine, ühine keel kodus. Väike harjutus päevas. Laps, kes õpib vastutust varakult, on infosõja vastu tugevam täiskasvanu.
+
+*Minu küsimus sulle: Mis on üks asi, mida sa täna teed koos oma lapsega ilma ekraanita?*
 ---
 
 ## XI. Lõplik vahetus (rollimäng)

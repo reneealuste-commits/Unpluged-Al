@@ -29,4 +29,4 @@ Dokument järgib Maakaitse käsiraamatu viiepunktilist OPORD-formaati:
 
 Eelnevalt: ülesande koosseis (osalajate profiilid), tegutsemisala piirid, info-keskkonna kirjeldus.
 
-Lõpus: küsimused ja vastused — kodanikud, poliitikud, usuringkonnad, meedia (rollimäng).
+Lõpus: küsimused ja vastused (44 tagasiküsimust) + Lisa A–G: Tugeva Isa seeria (7 köidet).

@@ -21,6 +21,16 @@ from reportlab.platypus import (
 BASE = Path(__file__).resolve().parent
 MD_FILE = BASE / "OPERATSIOON_PEEGEL_OPORD.md"
 PDF_FILE = BASE / "OPERATSIOON_PEEGEL_OPORD.pdf"
+LISAD_DIR = BASE / "lisad"
+BOOK_FILES = [
+    "raamat-01-unplugged-ava-silmad.md",
+    "raamat-02-peegli-efekt.md",
+    "raamat-03-vota-omaks.md",
+    "raamat-04-tugev-isa.md",
+    "raamat-05-pere-rindejoon.md",
+    "raamat-06-murra-ring.md",
+    "raamat-07-juhi-ja-voida.md",
+]
 
 
 def build_styles():
@@ -299,8 +309,13 @@ def build_story(md_text: str, styles) -> list:
             i += 1
             continue
 
-        if stripped.startswith("**K:"):
+        if stripped.startswith("**K:") or stripped.startswith("**K ("):
             story.append(Paragraph(inline_format(stripped), styles["QAQuestion"]))
+            i += 1
+            continue
+
+        if stripped.startswith("*Minu küsimus sulle:"):
+            story.append(Paragraph(inline_format(stripped.strip("*")), styles["Quote"]))
             i += 1
             continue
 
@@ -351,5 +366,10 @@ if __name__ == "__main__":
     )
 
     story = build_story(md, styles)
+    for book in BOOK_FILES:
+        book_path = LISAD_DIR / book
+        if book_path.exists():
+            story.append(PageBreak())
+            story.extend(build_story(book_path.read_text(encoding="utf-8"), styles))
     doc.build(story, onFirstPage=add_header_footer, onLaterPages=add_header_footer)
     print(f"Generated: {PDF_FILE}")

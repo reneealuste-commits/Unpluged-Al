@@ -17,6 +17,9 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | 7/7 | [raamat-07-juhi-ja-voida.md](raamat-07-juhi-ja-voida.md) | **Juhi ja võida** — kogukonna juhtimine, Operatsioon „Peegel" kutse |
 | H | [lisa-h-kiirjuhend-kriisis-isale.md](lisa-h-kiirjuhend-kriisis-isale.md) | **Kiirjuhend kriisis isale** — kriisiteekond, lugemisjärjekord |
 | I | [lisa-i-inimesekeskne-juhtimine.md](lisa-i-inimesekeskne-juhtimine.md) | **Inimesekeskne juhtimine** — Steiger 1997, SOP, Liibanonist õppetund |
+| J | [lisa-j-haridusasutuste-juhtkonnad.md](lisa-j-haridusasutuste-juhtkonnad.md) | **Haridusasutuste juhtkonnad** — Techno TLN, KVA, RaM Kool profiilipiltidega |
+| K | [lisa-k-vorgustiku-skeem-ja-ulesanded.md](lisa-k-vorgustiku-skeem-ja-ulesanded.md) | **Võrgustiku skeem** — kõik osalised, CR statistika, podcasti külalised |
+| — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
 ---
 
@@ -32,6 +35,10 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 **Kriisis (isad):** Alusta **Lisa H**, siis **F** → A → D → E. Ära loe järjekorras 1→7.
 
 **Juhtimine:** Lisa I (Steiger 1997, ISBN 9985901274).
+
+**Võrgustik:** Lisa K (kõik osalised, allüksuste ülesanded, Combat Ready statistika).
+
+**Koordinaator:** [renee-aluste-profiil.md](renee-aluste-profiil.md).
 
 ---
 

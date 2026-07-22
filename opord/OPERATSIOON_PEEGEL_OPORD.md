@@ -54,6 +54,8 @@
 │ │  mängud (Jäppinen)│   │                            │   │                      │
 │ ├─ Pertinax (Ojaots)│   │                            │   │                      │
 │ │  mereväe meeskond │   │                            │   │                      │
+│ ├─ Viru vangla      │   │                            │   │                      │
+│ │  (Anslan, vt Lisa K)│  │                            │   │                      │
 │ └─ Remo, Priit…     │   │                            │   │                      │
 └─────────┬──────────┘   └────────────────────────────┘   └──────────┬──────────┘
           │                                                            │
@@ -247,6 +249,14 @@
 - **Miks ta on siin:** Operatsioon vajab mitte ainult sõnumit, vaid inimesi, kes elavad seda. Pertinax ühendab mereväelikku distsipliini, ettevõtlikkust ja eneseteadlikkust — täpselt see, mida kodanik vajab, kui infosõda püüab teda nõrgaks teha. Mereväe meeskond tsiviilis: ausus, vastutus, treening, mitte ainult lipukiri.
 - **Kontakt:** MTÜ Team Pertinax (reg. 80634291)
 
+#### Ain Anslan — Viru vangla direktor (Vanglateenistus)
+
+![Ain Anslan](images/profiles/ain-anslan.jpg)
+
+- **Roll operatsioonis:** Avaliku sektori juhtimiskultuuri partner; inimesekeskne juhtimine raskes keskkonnas — kriisivalmidus, meeskonnakultuur ja vastutus.
+- **Taust:** Viru vangla direktor alates 1. novembrist 2023. Magistrikraad personalijuhtimises. 19+ aastat riigi julgeoleku ja siseturvalisuse sektoris (sh 4 aastat kaitseväes). Endine relvastatud üksuse, saateüksuse, avavangla ja tugevdatud järelevalve üksuse juht. Vanglaametniku teeneterist (2021); teenistusmedal 15 aasta eest (2023). Combat Ready koostööpartner — juhtide koolitus, veebiseminar Priit Lilleväliga, kogemuslugu „Viru Vangla kogemuslugu" (YouTube, 2026).
+- **Miks ta on siin:** Operatsioon „Peegel" ütleb: me ei ehita vanglaid, mida ise valvame. Aga me vajame juhte, kes mõistavad, et kriisivalmidus on igapäevane töökultuur — mitte dokument riiulil. Anslan on elav näide, kuidas Extreme Ownership ja inimesekeskne juhtimine töötavad seal, kus keskkond on kõige raskem. Tema kogemus tugevdab operatsiooni sõnumit: juht kujundab keskkonda oma käitumisega. Täielik võrgustiku skeem ja kõik osalised: **Lisa K**.
+
 #### Eero Kinnunen — Eesti Kaitseväe Veteranid
 
 ![Eero Kinnunen](images/profiles/eero-kinnunen.jpg)
@@ -333,6 +343,7 @@
 | Strateegiline | Eerik Heldna (kriisireguleerimine), Elmar Vaher (RKIK) | Kriisivalmidus ja kaitseinvesteeringud — aktiivne |
 | Operatiivne | Kaitseväe Akadeemia, Kaitseliit | Juhtide koolitus, kogukonna kaitse — tugev |
 | Taktikaline | Combat Ready (+ Her Way, Youth/Supermängud, Pertinax) | Juhtimiskoolitus, ülim vastutus — aktiivne |
+| Avalik sektor | Ain Anslan (Viru vangla) | Juhtimiskultuur, kriisivalmidus — aktiivne (Lisa K) |
 | Strateegiline kommunikatsioon | Taavi Karotamme, Arvo Jõesalu | Kaitseväe ja Kaitseliidu strateegiline kommunikatsioon — aktiivne |
 | Haridus | Techno TLN (Ott Pärna), KVA juhtkond, RaM Kool (Elmar Vaher) | Kutse-, juhtimis- ja väärtusharidus — aktiivne (Lisa J) |
 | Kohalik | Peeter Järvsoo (Noorte Kotkad), Andrei Ambros (Harku) | Noored ja piirkondlik vastupanuvõime — aktiivne |
@@ -348,7 +359,7 @@
 
 ## c. Tugevdused ja vähendused
 
-- **Tugevused:** Renee Aluste (isiklik kogemus + sõjaline väljaõpe); Combat Ready meeskond (sh Her Way, Youth, Pertinax); Riho Ühtegi rahvuslik autoriteet; Rene Toomse strateegiline nägemus; Eerik Heldna kriisireguleerimine; Elmar Vaher kaitseinvesteeringute ja juhtimiskogemus; Taavi Karotamme ja Arvo Jõesalu strateegilise kommunikatsiooni kogemus; Steigeri inimesekeskne juhtimine kui SOP (Lisa I); teadlikkuse võrgustik (Lukas, Villido, tantralaagrid, Pühali); veteranid (Kinnunen); kohalikud allüksused (Järvsoo, Ambros); inimeste juhtimine (Sillaste).
+- **Tugevused:** Renee Aluste (isiklik kogemus + sõjaline väljaõpe); Combat Ready meeskond (sh Her Way, Youth, Pertinax); Ain Anslan (avaliku sektori juhtimiskultuur); Riho Ühtegi rahvuslik autoriteet; Rene Toomse strateegiline nägemus; Eerik Heldna kriisireguleerimine; Elmar Vaher kaitseinvesteeringute ja juhtimiskogemus; Taavi Karotamme ja Arvo Jõesalu strateegilise kommunikatsiooni kogemus; Steigeri inimesekeskne juhtimine kui SOP (Lisa I); teadlikkuse võrgustik (Lukas, Villido, tantralaagrid, Pühali); veteranid (Kinnunen); kohalikud allüksused (Järvsoo, Ambros); inimeste juhtimine (Sillaste).
 - **Vähendused:** Puuduv ametlik riiklik volitus (kodanikualgatus); piiratud eelarve; sõltuvus vabatahtlikust osalusest.
 
 ---
@@ -422,6 +433,12 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 1. Siduda riiklik kaitsevalmidus ja koolielu — lapsevanemana Rocca al Mare Koolis.
 2. Toetada kooli kriisivalmidust ja juhtimispraktikat (pro bono nõustamine).
 3. Viia RKIK-i investeeringuloogika kodanikule arusaadavaks keeleks; toetada Combat Ready partnerlust.
+
+### Ain Anslan / Viru vangla (Vanglateenistus, vt Lisa K)
+1. Juhtide koolitus Combat Ready põhimõtetel — inimlik pealehakkamine ja sihikindlus raskes keskkonnas.
+2. Kriisivalmidus igapäevase töökultuurina — otsused seal, kus sündmus toimub.
+3. Keskkonna kujundamine juhi käitumisega; koostöö Priit Lilleväliga (veebiseminar, kogemuslood).
+4. Siduda avalik sektor ja kodanikualgatuse juhtimiskultuur — vt **Lisa K**.
 
 ### Eero Kinnunen (Eesti Kaitseväe Veteranid)
 1. Veteranide ja nende perede tugi, tunnustus ja eneseabi foorum (ekvv.ee).
@@ -517,7 +534,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Klass | Sisu |
 |-------|------|
 | **I (toit)** | Soe pere eine 1× nädalas — ilma ekraanideta |
-| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad); „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*, Kaitseväe Akadeemia materjalid; laagrid: Eesti Tantrafestival, Tantra Tribe, Practical Consciousness; taastumine: Pühali Hea Elu Keskus (puhali.ee) |
+| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik); „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*, Kaitseväe Akadeemia materjalid; laagrid: Eesti Tantrafestival, Tantra Tribe, Practical Consciousness; taastumine: Pühali Hea Elu Keskus (puhali.ee) |
 | **III (kütus)** | Uni 7–8h; liikumine 30 min/päev |
 | **V (laskemoon)** | Sõnad — kasuta neid mõistlikult. Iga sõnum on lask |
 | **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber |
@@ -559,6 +576,8 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Noorte Kotkad | Peeter Järvsoo | nooredkotkad.ee |
 | Harku piirkond | Andrei Ambros | estjutsu.ee / Taktikaline Grupp |
 | Mereväe meeskond | Aigar Ojaots / MTÜ Pertinax | Team Pertinax MTÜ |
+| Vanglateenistus | Ain Anslan / Viru vangla | Vanglateenistus (vt Lisa K) |
+| Podcast | Combat Ready Podcast | jujutud.ee / @combatreadyee |
 | Veteranid | Eero Kinnunen | ekvv.ee |
 | Supervisioon | Marge Sillaste | margemargarethe@gmail.com |
 | Haridus | Ott Pärna / Techno TLN | techno.ee (Lisa J — täielik juhtkond) |
@@ -582,6 +601,8 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Kriis (isad):** Lisa H — `lisad/lisa-h-kiirjuhend-kriisis-isale.md`
 - **Juhtimine (SOP):** Lisa I — `lisad/lisa-i-inimesekeskne-juhtimine.md` (Steiger 1997, ISBN 9985901274)
 - **Koolijuhtkonnad:** Lisa J — `lisad/lisa-j-haridusasutuste-juhtkonnad.md` (Techno TLN, KVA, Rocca al Mare Kool)
+- **Võrgustiku skeem:** Lisa K — `lisad/lisa-k-vorgustiku-skeem-ja-ulesanded.md` (kõik osalised, CR statistika, podcast)
+- **Koordinaatori profiil:** `lisad/renee-aluste-profiil.md` (eraldi leht)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
 - **Signaal OPERATSIOON TÄIDETUD:** Kui ühiskondlikud mõõdikud näitavad paranemist — üksikemade arv langeb, kiusamine väheneb, inimesed räägivad vastutusest.
 
@@ -1048,6 +1069,13 @@ koos Combat Ready meeskonna ja partneritega
 *Minu küsimus sulle: Kas sa treenid end vaimselt ja füüsiliselt — või ootad, et keegi teine sind kaitseb?*
 ---
 
+**K: Kes on Ain Anslan ja miks ta on operatsioonis?**
+
+**V:** Ain Anslan on Viru vangla direktor — inimene, kes juhib ühte Eesti keerukamaid keskkondi. Ta on Combat Ready koostööpartner: juhtide koolitus, veebiseminar Priit Lilleväliga, kogemuslugu YouTube'is. Operatsioon „Peegel" ütleb, et me ei ehita vanglaid, mida ise valvame — aga me vajame juhte, kes mõistavad: kriisivalmidus on igapäevane töökultuur, mitte dokument riiulil. Anslan on elav näide, et inimesekeskne juhtimine töötab ka seal, kus on raske. Täielik võrgustiku skeem ja kõik osalised on **Lisa K**.
+
+*Minu küsimus sulle: Kas sa juhid oma keskkonda — või lased keskkonnal juhtida sind?*
+---
+
 **K: Mis on Combat Ready for Her / Her Way?**
 
 **V:** Combat Ready | Her Way on naiste kogukond, mis õpetab enesejuhtimist ülima vastutuse põhimõtetel. Veebiseminarid ja treeningud — mitte eraldi sõda meeste vastu, vaid oma elu juhtimine. Kui sa oled ema, juht või lihtsalt väsinud — see on üks kanal. combatreadyherway.eu.
@@ -1102,6 +1130,8 @@ Need seitse köidet täiendavad käesolevat lahingukäsku. Iga köide on iseseis
 | **H** | — | `lisad/lisa-h-kiirjuhend-kriisis-isale.md` | Kiirjuhend kriisis isale — kriisiteekond ja lugemisjärjekord |
 | **I** | — | `lisad/lisa-i-inimesekeskne-juhtimine.md` | Inimesekeskne juhtimine (Steiger 1997) — SOP ja Liibanonist õppetund |
 | **J** | — | `lisad/lisa-j-haridusasutuste-juhtkonnad.md` | Haridusasutuste juhtkonnad — Techno TLN, KVA ja Rocca al Mare Kool meeskonnad profiilipiltidega |
+| **K** | — | `lisad/lisa-k-vorgustiku-skeem-ja-ulesanded.md` | Võrgustiku skeem — kõik osalised, allüksuste ülesanded, CR statistika, podcasti külalised |
+| — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).
 

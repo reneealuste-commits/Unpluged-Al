@@ -35,6 +35,8 @@ BOOK_FILES = [
     "lisa-h-kiirjuhend-kriisis-isale.md",
     "lisa-i-inimesekeskne-juhtimine.md",
     "lisa-j-haridusasutuste-juhtkonnad.md",
+    "lisa-k-vorgustiku-skeem-ja-ulesanded.md",
+    "renee-aluste-profiil.md",
 ]
 
 

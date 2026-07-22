@@ -304,6 +304,42 @@
 - **Eesmärk:** Stressi vähendamine, vaimne vastupidavus
 - **Ülesanne:** Hingamispraktika ettevõtetele ja startup'idele ([urbntiger.com](https://urbntiger.com))
 
+#### Äripäev — investeerimis- ja juhtimiskultuur
+
+- **Roll:** Investeerimisraadio, konverentsid, tunnustused
+- **Eesmärk:** Rahatarkuse ja hea juhtimise avalik esiletõstmine
+- **Ülesanne:** Investor Toomase tund (teisipäeviti 11:00), Investor Toomase konverents, Aasta investor, Parim juht ([aripaev.ee/raadio](https://www.aripaev.ee/raadio))
+
+#### Rahakratt — rahablogi
+
+- **Roll:** Anonüümne rahablogija ja investor
+- **Eesmärk:** Finantsvabadus ausalt ja humoorikalt
+- **Ülesanne:** Blogi, Investor Toomas, kogukond ([rahakratt.rahajutud.ee](https://rahakratt.rahajutud.ee))
+
+#### Kristjan Liivamägi — Aasta investor 2022
+
+- **Roll:** TalTech vanemlektor; KML Invest; ELi rahatarkuse saadik
+- **Eesmärk:** Teaduspõhine investeerimisharidus
+- **Ülesanne:** Loengud, raamatud (*Eraisiku rahandus*), Aasta investor 2022 ([rahaedu.ee](https://rahaedu.ee))
+
+#### Marko Oolo — Aasta investor 2024
+
+- **Roll:** Investor, ettevõtja; Exceli meister
+- **Eesmärk:** Praktilised investeerimistööriistad
+- **Ülesanne:** Exceli portfellitööriistad, läbipaistev teekond ([oolomarko.ee](https://oolomarko.ee))
+
+#### Katri Teller — Blondcast
+
+- **Roll:** Blondcast eestvedaja; endine Rahareede
+- **Eesmärk:** Taskuhääling raha, tervise ja enesearengu teemadel
+- **Ülesanne:** Delfi Tasku podcast; Aasta investor 2023
+
+#### Robert Käsper — Instruktor, FTX juht, meedik (18D)
+
+- **Roll:** Combat Ready instruktor; üksuse meedik (18D); Delfi „Eriväelase jutud"
+- **Eesmärk:** „Treeni nagu võitled" — praktiline juhtimine ja meditsiiniline valmisolek
+- **Ülesanne:** Laser-tag simulatsioonid; välismissioonide meediku kogemus; Renee Aluste teenistusaeg (nooremveebel vs nooremseersant)
+
 #### Martin Jõesaar — Kaasasutaja
 
 ![Martin Jõesaar](images/profiles/martin-joesaar.jpg)
@@ -326,13 +362,7 @@
 - **Eesmärk:** Juhtimine loomingulistes ja startup-tiimides
 - **Ülesanne:** Frontline Podcast; 4 Laws of Leadership kursus
 
-#### Robert Käsper — Instruktor, FTX juht (2022–2024)
-
-- **Roll:** Väljakoolituste (Field Training Exercises) pea
-- **Eesmärk:** „Treeni nagu võitled" — praktiline juhtimine
-- **Ülesanne:** Laser-tag simulatsioonid; Delfi „Eriväelase jutud"
-
-#### Rainer Eluri — Instruktor
+#### Martin Jõesaar — Kaasasutaja
 
 - **Roll:** Kaitseliidu instruktor; sTARTUp Day logistika
 - **Eesmärk:** Praktiline juhtimine tsiviil- ja reservstruktuuris
@@ -544,6 +574,12 @@
 | BNI Eesti | Kerdu Lenear (North Star president) | Ärireferaalid, ettevõtjate võrgustik (bni.ee) |
 | Kerdu Lenear | Mindset Fitness | Mõtteviis, mindset koolitused (mindsetfitness.ee) |
 | Julian Maier | URBN TIGER (Saksamaa) | Breathwork, vaimne fitness (urbntiger.com) |
+| Äripäev | Investor Toomas, börsitoimetus | Investeerimisraadio, Aasta investor, Parim juht (aripaev.ee/raadio) |
+| Rahakratt | Rahablogi | Finantsvabadus, aus blogi (rahakratt.rahajutud.ee) |
+| Kristjan Liivamägi | TalTech, KML Invest | Aasta investor 2022, rahatarkus (rahaedu.ee) |
+| Marko Oolo | Investor, Excel | Aasta investor 2024, portfellitööriistad (oolomarko.ee) |
+| Katri Teller | Blondcast | Aasta investor 2023, taskuhääling (tasku.delfi.ee) |
+| Robert Käsper | Combat Ready, meedik 18D | FTX, Eriväelase jutud |
 
 ---
 

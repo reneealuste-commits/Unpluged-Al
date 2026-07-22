@@ -151,6 +151,50 @@
 - **Veeb:** [urbntiger.com](https://urbntiger.com) · [e-resident.gov.ee — Julian Maier](https://www.e-resident.gov.ee/envoys-and-community-leaders/julian-maier/)
 - **Miks ta on siin:** Julian toob Saksamaast breathwork'i — kohene, praktiline abivahend stressi ja ülekoormuse korral. See täiendab Lisa H taastumisressursse ja Tiit Trofimovi emotsioonide tööd; eriti kasulik ettevõtjatele ja juhtidele, kes vajavad kiiret leevendust enne otsuseid.
 
+#### Äripäev — investeerimis- ja juhtimiskultuur (raadio, konverentsid, tunnustused)
+
+- **Roll operatsioonis:** Rahatarkuse ja hea juhtimise avalik esiletõstmine — mitte spekulatsioon, vaid õppimine teistelt, kes teevad asju õigesti.
+- **Investor Toomas:** Äripäeva pikim ajakirjanduslik investeerimiseksperiment (alates 2002); börsitoimetus (sh Juhan Lang) haldab reaalset portfelli. **Investor Toomase tund** — igal teisipäeval kell 11 ([aripaev.ee/raadio](https://www.aripaev.ee/raadio)); **Investor Toomase konverents** — Baltikumi suurim investeerimisüritus (igal jaanuaris).
+- **Aasta investor** (Äripäev + Nasdaq Tallinn, alates 2020): tunnustab investeerimiskultuuri edendajaid. Laureaadid: Tõnu Pekk (2020), Kristi Saare (2021), **Kristjan Liivamägi** (2022), **Katri Teller** (2023), **Marko Oolo** (2024), Lev Dolgatsjov (2025).
+- **Parim juht** (Äripäev + PARE + Eesti Tööandjate Keskliit + Pärnu juhtimiskonverents): tõstab esile juhte, kes teevad pikaajaliselt õigesti — mitte populaarsust otsides, vaid tulemusi ja inimesi juhtides. 2026: Janar Holm; 2025: Neeme Tammis.
+- **Veeb:** [aripaev.ee/raadio](https://www.aripaev.ee/raadio) · [investor-toomas](https://www.aripaev.ee/investor-toomas) · [parim juht](https://www.aripaev.ee/uudised/2026/03/01/esita-oma-juht-eesti-parima-juhi-kandidaadiks)
+- **Miks ta on siin:** Operatsioon vajab eeskujusid, kes raha ja vastutust käsitlevad ausalt. Äripäev ühendab investorid, juhid ja tavakodanikud ühise keele alla — see täiendab Starfishi, BMI-d ja BNI-d.
+
+#### Rahakratt — rahablogi ja finantsvabadus
+
+- **Roll operatsioonis:** Aus, huumoriga vürtsitatud finantsvabaduse teekond — tõestisündinud lugu, mitte reklaam.
+- **Taust:** Mandri-Eesti populaarseim rahablogi (40 000–50 000 igakuist lugejat). Anonüümne autor; dokumenteerib #finantsvabadussõja teekonda nullist üles. Aktiivne investor; esinenud Investor Toomase konverentsil ja Äripäeva raadios. **Äripäeva Aasta Investor 2020 — Publiku Lemmik**; Eesti Blogiauhindade võitja (investeerimis-, hariva- ja huumorikategooriates).
+- **Veeb:** [rahakratt.rahajutud.ee](https://rahakratt.rahajutud.ee)
+- **Miks ta on siin:** Rahakratt näitab, et vigu tehes õpitakse — ja et palgatöö kõrvalt investeerimine on võimalik ilma guru-müstikata. See on operatsiooni Faas II rahaline eeskuju tavalisele inimesele.
+
+#### Kristjan Liivamägi — Aasta investor 2022, rahatarkuse saadik
+
+- **Roll operatsioonis:** Teaduspõhine investeerimisharidus ja käitumuslik rahandus.
+- **Taust:** TalTech vanemlektor; KML Invest OÜ omanik; 20+ aastat finantsturgudel. Doktorikraad käitumuslikus rahanduses; ELi rahatarkuse saadik. Koos Tõnn Talpsepp ja Tarvo Vaarmetsiga autor *Eraisiku rahandus* ja *Investeerimisedu meistriklass*. **Äripäeva Aasta investor 2022.**
+- **Veeb:** [taltech.ee/persoon/kristjan-liivamagi](https://taltech.ee/persoon/kristjan-liivamagi) · [rahaedu.ee](https://rahaedu.ee)
+- **Miks ta on siin:** Liivamägi ühendab akadeemilise ranguse ja praktilise investeerimise — täpselt see, mida operatsioon vajab: arusaadavat rahatarkust, mitte hasartmängu.
+
+#### Marko Oolo — Aasta investor 2024, Exceli meister
+
+- **Roll operatsioonis:** Praktilised investeerimistööriistad ja läbipaistev portfellihaldus.
+- **Taust:** Investor, ettevõtja ja pereisa; ehitas investeerimisportfelli nullist üle miljoni euroni. **Äripäeva Aasta investor 2024**; Rahatarkuse aasta eestvedaja 2025. Tuntud **Exceli-põhiste tööriistadega**, mis jagavad suure finantsilise eesmärgi igakuisteks sammudeks — portfelli jälgimine, eesmärkide seadmine, andmepõhine otsustamine.
+- **Veeb:** [oolomarko.ee](https://oolomarko.ee)
+- **Miks ta on siin:** Oolo näitab, et numbrid ei pea hirmutama — Excel on tavalise inimese relv finantsvabaduse suunas. See täiendab Rahakrati lugu ja Liivamäe teaduspõhist lähenemist.
+
+#### Katri Teller — Blondcast, Aasta investor 2023
+
+- **Roll operatsioonis:** Taskuhääling ja meedia kui rahatarkuse ja enesearengu kanal.
+- **Taust:** **Blondcast** eestvedaja (Delfi Tasku) — üks Eesti populaarsemaid naistele (ja meestele) suunatud podcaste; tervis, suhted, raha, eneseareng. Endine **Rahareede** podcast (2024. aasta investeerimistegu). **Äripäeva Aasta investor 2023**; koos Kristjan Liivamägiga Aasta investeerimistegu 2025. Stuudio saatejuht (Õhtuleht).
+- **Veeb:** [tasku.delfi.ee — Blondcast](https://tasku.delfi.ee/podcast/717a0853-d361-4e9e-bb50-aed8e704c2b2)
+- **Miks ta on siin:** Katri tõestab, et raha ja elu ei ole eraldi — ja et aus jutt ka ebaõnnestumistest (sh portfelli kasvamise peatamine teletöö ajal) on väärtuslikum kui perfektne fassaad.
+
+#### Robert Käsper — Combat Ready, üksuse meedik (18D)
+
+- **Roll operatsioonis:** Lahinguväljal ja koolitusel meditsiiniline valmisolek; sõjaväelase kogemuse edasiandmine tsiviilis.
+- **Taust:** ~10 aastat Kaitseväes, sh erioperatsioonide väejuhatus; **üksuse meedik (18D)** välismissioonidel. Endine nooremseersant — Renee Aluste teenistusaeg samas ajajärgus (Renee nooremveebel, Robert nooremseersant). Pärast teenistust: sisejulgeolek, kaitsetööstus, RKIK; Combat Ready instruktor ja FTX juht (2022–2024). Delfi podcast **„Eriväelase jutud"** — vestlused kaitseväelaste ja veteranidega.
+- **Veeb:** [tasku.delfi.ee — Eriväelase jutud](https://tasku.delfi.ee/podcast/ff0c1df9-082d-414f-b06d-f48decd50f45)
+- **Miks ta on siin:** Robert ühendab meditsiini, distsipliini ja juhtimist — täpselt see kombinatsioon, mida operatsioon vajab kriisis. Tema kogemus meedikuna täiendab Lisa H taastumisressursse ja Combat Ready juhtimisliini.
+
 #### Martin Jõesaar — Euroopa tase (Combat Ready kaasasutaja)
 
 ![Martin Jõesaar](images/profiles/martin-joesaar.jpg)
@@ -338,6 +382,12 @@
 - **BNI Eesti** — maailma suurim ärireferaalide võrgustik; Tallinnas BNI North Star ja BNI One ([bni.ee](https://bni.ee)).
 - **Kerdu Lenear** — Mindset Fitness; mõtteviisi koolitused, BNI North Star Tallinn president ([mindsetfitness.ee](https://mindsetfitness.ee)).
 - **Julian Maier** — URBN TIGER (Saksamaa); breathwork ja vaimne fitness, e-Residency Eesti ([urbntiger.com](https://urbntiger.com)).
+- **Äripäev** — Investor Toomas, investeerimisraadio, Aasta investor, Parim juht ([aripaev.ee/raadio](https://www.aripaev.ee/raadio)).
+- **Rahakratt** — rahablogi, finantsvabadus ([rahakratt.rahajutud.ee](https://rahakratt.rahajutud.ee)).
+- **Kristjan Liivamägi** — Aasta investor 2022, TalTech, rahatarkuse saadik ([rahaedu.ee](https://rahaedu.ee)).
+- **Marko Oolo** — Aasta investor 2024, Exceli investeerimistööriistad ([oolomarko.ee](https://oolomarko.ee)).
+- **Katri Teller** — Blondcast, Aasta investor 2023 ([tasku.delfi.ee](https://tasku.delfi.ee)).
+- **Robert Käsper** — Combat Ready instruktor, üksuse meedik (18D); „Eriväelase jutud".
 - **Nils Ratt, Priit Uuemaa, Sverre Puustusmaa, Marko Kaseleht, Aleksandr Afanasiev** — kogukonna ja võrgustiku liikmed; kohalikud eestvedajad ja mentorid.
 - **Kõik Eesti kodanikud** — operatsiooni lõplik sihtrühm ja põhijõud.
 
@@ -411,6 +461,12 @@
 | Toetus | BNI Eesti | Ärireferaalid ja ettevõtjate võrgustik — aktiivne |
 | Toetus | Kerdu Lenear / Mindset Fitness | Mõtteviis, BNI North Star Tallinn — aktiivne |
 | Toetus | Julian Maier / URBN TIGER | Breathwork (Saksamaa), e-Residency — aktiivne |
+| Toetus | Äripäev / Investor Toomas | Investeerimisraadio, Aasta investor, Parim juht — aktiivne |
+| Toetus | Rahakratt | Finantsvabadus, aus rahablogi — aktiivne |
+| Toetus | Kristjan Liivamägi | Teaduspõhine investeerimisharidus — aktiivne |
+| Toetus | Marko Oolo | Exceli tööriistad, portfellihaldus — aktiivne |
+| Toetus | Katri Teller / Blondcast | Taskuhääling, rahatarkus — aktiivne |
+| Toetus | Robert Käsper / Combat Ready | Meedik (18D), Eriväelase jutud — aktiivne |
 | Toetus | Katrin Lucas / „Ava oma Silmad" | Teadlikkuse kanal — aktiivne |
 | Toetus | Ingvar Villido / Practical Consciousness | Teadliku muutuse kunst — aktiivne |
 | Toetus | Tiit Trofimov / eneseareng | Emotsioonid, meeste ring, taastumine — aktiivne |
@@ -579,6 +635,36 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 2. Eesti e-Residency kaudu juurdepääs Saksamaa wellness-metoodikale.
 3. Kiire stressi leevendus enne otsuseid — täiendab Lisa H ja Tiit Trofimovi tööd.
 
+### Äripäev — investeerimis- ja juhtimiskultuur
+1. **Investor Toomase tund** — igal teisipäeval kell 11; kuula portfelli otsuseid ja turuanalüüsi ([aripaev.ee/raadio](https://www.aripaev.ee/raadio)).
+2. **Investor Toomase konverents** — iga jaanuar; Aasta investor ja investeerimistegu kuulutamine.
+3. **Parim juht** — esita oma juht kandidaadiks; õpi parimatelt, mida nad teevad õigesti (Äripäev + PARE + Tööandjate Keskliit).
+
+### Rahakratt
+1. Loe ausat finantsvabaduse teekonda — vigadest õppimine, mitte perfektne fassaad.
+2. Investor Toomase konverents ja Äripäeva raadio — kogukonna kogemused.
+3. [rahakratt.rahajutud.ee](https://rahakratt.rahajutud.ee)
+
+### Kristjan Liivamägi
+1. Teaduspõhine investeerimisharidus — TalTech loengud, *Eraisiku rahandus*, *Investeerimisedu meistriklass*.
+2. ELi rahatarkuse saadik — käitumuslik rahandus tavainimesele.
+3. [rahaedu.ee](https://rahaedu.ee)
+
+### Marko Oolo
+1. Exceli-põhised investeerimistööriistad — suur eesmärk jagatud igakuisteks sammudeks.
+2. Läbipaistev portfellihaldus — õpi numbreid lugema, mitte tunde järgima.
+3. [oolomarko.ee](https://oolomarko.ee)
+
+### Katri Teller (Blondcast)
+1. **Blondcast** — taskuhääling tervisest, suhetest, rahast ja enesearengust (Delfi Tasku).
+2. Aus jutt rahast ja elust — ka siis, kui portfell ei kasva (teletöö, õpingud).
+3. Aasta investor 2023 — eeskuju naistele ja meestele, kes tahavad rahaasju mõista.
+
+### Robert Käsper (Combat Ready, meedik 18D)
+1. Combat Ready väljakoolitused (FTX) — „treeni nagu võitled".
+2. **Eriväelase jutud** — Delfi podcast kaitseväelaste ja veteranide kogemustest.
+3. Meditsiiniline valmisolek ja ellujäämine — üksuse meediku kogemus välismissioonidelt.
+
 ### Katrin Lucas (teadlikkuse tase)
 1. „Ava oma Silmad" taskuhääling — teemad manipulatsioonist ja ärkamisest.
 2. Koostöö teiste kanalitega (sh Ajuloputus).
@@ -646,7 +732,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Klass | Sisu |
 |-------|------|
 | **I (toit)** | Soe pere eine 1× nädalas — ilma ekraanideta |
-| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet); Alar Ojastu *Ratsionaalne emotsionaalsus*; Tiit Trofimov *Lõpp on algus*; „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee); Gordon (sinamina.ee); Imelised aastad (pk.ee); Papsid.ee; Starfish Academy (starfish.academy); BMI Institute (bmiinstitute.com); BNI Eesti (bni.ee) |
+| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet); Alar Ojastu *Ratsionaalne emotsionaalsus*; Tiit Trofimov *Lõpp on algus*; Liivamägi/Talpsepp/Vaarmets *Eraisiku rahandus*; „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee); Gordon (sinamina.ee); Imelised aastad (pk.ee); Papsid.ee; Starfish Academy; BMI Institute; BNI Eesti; Äripäev Investor Toomas (aripaev.ee/raadio); Rahakratt (rahakratt.rahajutud.ee); Marko Oolo Exceli tööriistad (oolomarko.ee); Blondcast (tasku.delfi.ee) |
 | **III (kütus)** | Uni 7–8h; liikumine 30 min/päev |
 | **V (laskemoon)** | Sõnad — kasuta neid mõistlikult. Iga sõnum on lask |
 | **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber; [narko.ee](https://www.narko.ee) chatbot/tugiliin (Renee alustas siit); [ohvriabi.ee](https://ohvriabi.ee) — koduvägivalla korral kuni 940 € psühholoogilise abi toetus 2 aasta jooksul (sh **EMDR** sessioonid); Märt Avandi lugu YouTube'is: [watch?v=nNuHGdQdrZY](https://www.youtube.com/watch?v=nNuHGdQdrZY) |
@@ -680,6 +766,12 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Ärivõrgustik | BNI Eesti (Kerdu Lenear, North Star) | bni.ee |
 | Mõtteviis | Kerdu Lenear / Mindset Fitness | mindsetfitness.ee |
 | Breathwork (DE) | Julian Maier / URBN TIGER | urbntiger.com |
+| Investeerimisraadio | Äripäev / Investor Toomas | aripaev.ee/raadio |
+| Rahablogi | Rahakratt | rahakratt.rahajutud.ee |
+| Investeerimisharidus | Kristjan Liivamägi | rahaedu.ee |
+| Excel / portfell | Marko Oolo | oolomarko.ee |
+| Taskuhääling | Katri Teller / Blondcast | tasku.delfi.ee |
+| Meedik / veteran | Robert Käsper | Eriväelase jutud (Delfi) |
 | Juhtimiskoolitus | Priit Lilleväli | priit.lillevali@combatready.eu |
 | Teadlikkus | Katrin Lucas | katrinlucas.com |
 | Teadlik muutus | Ingvar Villido | lilleoru.ee / human.ee |

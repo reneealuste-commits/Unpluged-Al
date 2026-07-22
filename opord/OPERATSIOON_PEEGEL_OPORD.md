@@ -199,7 +199,7 @@
 
 - **Roll operatsioonis:** Kodaniku demomeeste üksus — katsetavad päriselus, mis töötab; eeskuju lugupidavas suhtluses.
 - **Aktiveerija:** Renee Aluste (`Aluste_kool`).
-- **Liikmed (SOK):** Martin Plaser, Nils Ratt, Priit Uuemaa, Sverre Puustusmaa, Marko Kaseleht, Aleksandr Afanasjev, Robert Käsper — kõik **demomehed**.
+- **Liikmed (SOK):** Martin Plaser, Nils Ratt, Priit Uuemaa, Sverre Puustusmaa, Marko Kaseleht, Robert Käsper — kõik **demomehed**.
 - **Kohustus:** Sõduriõpik / sõduri käsiraamat + Kaitseväe viisakuseeskirja (sisemäärustik, rivikord) läbilugemine; päevane checklist: **austa, kuula, usalda, ole mõjutatud, hooli** (vähemalt 1× päevas).
 - **Põhimõte:** Rivi eeskiri õpetab, *mis sa ütled ja millal* — austus konkreetse keele kaudu, mitte üldise „ole kena" sloganina.
 - **Täielik ülesanne:** **Lisa N** — `lisa-n-aluste-kool.md`
@@ -397,8 +397,8 @@
 - **Marko Oolo** — Aasta investor 2024, Exceli investeerimistööriistad ([oolomarko.ee](https://oolomarko.ee)).
 - **Katri Teller** — Blondcast, Aasta investor 2023 ([tasku.delfi.ee](https://tasku.delfi.ee)).
 - **Robert Käsper** — Combat Ready instruktor, üksuse meedik (18D); „Eriväelase jutud".
-- **Üksus Aluste_kool (SOK)** — demomehed: Plaser, Ratt, Uuemaa, Puustusmaa, Kaseleht, Afanasjev, Käsper (vt **Lisa N**).
-- **Nils Ratt, Priit Uuemaa, Sverre Puustusmaa, Marko Kaseleht, Aleksandr Afanasiev** — kogukonna ja võrgustiku liikmed; kohalikud eestvedajad ja mentorid.
+- **Üksus Aluste_kool (SOK)** — demomehed: Plaser, Ratt, Uuemaa, Puustusmaa, Kaseleht, Käsper (vt **Lisa N**).
+- **Nils Ratt, Priit Uuemaa, Sverre Puustusmaa, Marko Kaseleht** — kogukonna ja võrgustiku liikmed; kohalikud eestvedajad ja mentorid.
 - **Kõik Eesti kodanikud** — operatsiooni lõplik sihtrühm ja põhijõud.
 
 ---

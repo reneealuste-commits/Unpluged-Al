@@ -39,7 +39,7 @@
 ┌────────▼────▼───┐   ┌───────────▼──────────┐   ┌────▼─────────────┐   ┌────────────────▼──────────────────┐
 │ KOHALIKUD        │   │ VETERANID / TUGI      │   │ PODCAST / Meedia  │   │ VÕRGUSTIKU TOETAJAD               │
 │ Järvsoo (Kotkad) │   │ Kinnunen (veteranid)  │   │ 24 episoodi       │   │ Plaser, Ratt, Uuemaa, Puustusmaa  │
-│ Ambros (Harku)   │   │ Sillaste (supervis)   │   │ jujutud.ee        │   │ Kaseleht, Afanasjev               │
+│ Ambros (Harku)   │   │ Sillaste (supervis)   │   │ jujutud.ee        │   │ Kaseleht                          │
 └──────────────────┘   └───────────────────────┘   └───────────────────┘   └───────────────────────────────────┘
 ```
 
@@ -202,7 +202,7 @@
 | 3 | Katseta mis töötab — igakuine tagasiside SOK ringis |
 | 4 | Iga liige on **demomees** — näita eeskuju, ära ainult räägi |
 
-**SOK liikmed:** Martin Plaser, Nils Ratt, Priit Uuemaa, Sverre Puustusmaa, Marko Kaseleht, Aleksandr Afanasjev, Robert Käsper.
+**SOK liikmed:** Martin Plaser, Nils Ratt, Priit Uuemaa, Sverre Puustusmaa, Marko Kaseleht, Robert Käsper.
 
 ---
 
@@ -380,12 +380,6 @@
 - **Roll:** Kaitseliidu instruktor; sTARTUp Day logistika
 - **Eesmärk:** Praktiline juhtimine tsiviil- ja reservstruktuuris
 - **Ülesanne:** Koolitused; ürituste toetamine
-
-#### Aleksandr Afanasjev — Instruktor
-
-- **Roll:** Võrgustiku liige; Combat Ready instruktor
-- **Eesmärk:** Meeskonna sidusus ja suhete ehitamine
-- **Ülesanne:** Koolitused; Balkani eelluure kogemus (podcast)
 
 #### Andrus Albi — Partner
 
@@ -573,7 +567,6 @@
 | Priit Uuemaa | Kogukonna liige; **SOK / Aluste_kool** | Mentorlus; demomees |
 | Sverre Puustusmaa | Kogukonna liige; **SOK / Aluste_kool** | Võrgustiku tugi; SOK sidemees |
 | Marko Kaseleht | Kogukonna liige; **SOK / Aluste_kool** | Kohalik tegevus; demomees |
-| Aleksandr Afanasjev | Instruktor; **SOK / Aluste_kool** | Koolitused; CR + demomees |
 | Peep Vain | Koolitaja (Vain & Partners) | Juhtimine, motivatsioon, enesemääramine |
 | Alar Ojastu | Koolitaja, autor | *Ratsionaalne emotsionaalsus*; emotsioonid ja juhtimine |
 | Tiit Trofimov | Enesearengu teejuht | Emotsioonid, meeste ring, meditatsioon (tiittrofimov.ee) |
@@ -621,7 +614,7 @@ Iga kodanik: Tony Robbinsi 5 sammu, manifest peegli ees, kodaniku vanne (Renee A
 | 8 | The 4 Laws of Leadership | Louis Zezeran |
 | 9 | How to Prepare for a Crisis? | Louis Zezeran, **Janis Vanags** (CIREN) |
 | 10 | Kuidas luua lapsega hea suhe? | Combat Ready meeskond |
-| 11 | Suhete loomine kui pikk mäng (The Debrief) | Priit Lilleväli, Aleksandr Afanasjev |
+| 11 | Suhete loomine kui pikk mäng (The Debrief) | Priit Lilleväli |
 | 12 | Is EVERYTHING my problem? (The Frontline) | Remo Ojaste, Louis Zezeran |
 | 13 | Life as an Estonian cop in the 90s | Eerik Heldna, Louis Zezeran |
 | 14 | How to Rehearse for Tough Situations | Louis Zezeran, Remo Ojaste |

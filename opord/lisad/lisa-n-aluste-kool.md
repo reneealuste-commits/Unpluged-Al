@@ -57,7 +57,6 @@ Kasuta seda nimekirja iga päev — üks punkt või kõik viis:
 | **Priit Uuemaa** | Mentorlus | Loe sõduriõpik — juhi ja alluva suhe | Mentorluses: üks checklisti punkt iga sessiooni | Dokumenteeri üks „mis töötas" lugu kuus |
 | **Sverre Puustusmaa** | Võrgustiku tugi | Loe rivi eeskiri — tervitused ja raport | Toeta teisi demomehi checklistiga | Hoia SOK sidet — ütle ausalt, kui keegi kukub välja |
 | **Marko Kaseleht** | Kohalik tegevus | Loe sisemäärustik — au ja austus | Rakenda hooli + usalda igapäevases kontaktis | Korralda üks SOK kohtumine kvartalis |
-| **Aleksandr Afanasjev** | Combat Ready / meeskond | Loe sõduriõpik + Extreme Ownership (Lisa C) | FTX või koolitusel: näita rivi austust praktikas | Ühine debrief demomeestega pärast koolitust |
 | **Robert Käsper** | Meedik / veteran | Loe viisakuseeskirja — suhtlus ülemaga ja alluvaga | Eriväelase jutud: räägi austusest ilma romantiseerimata | Meenuta ühiste teenistusaastate distsipliini (demomehe lugu) |
 
 *Kui SOK nimekiri täieneb — lisa rida. Iga uus liige saab sama kolm ülesannet: loe allikad, kasuta checklisti, anna tagasiside.*

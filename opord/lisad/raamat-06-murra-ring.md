@@ -97,6 +97,18 @@ Priit Lilleväli, meie võrgustiku juhendaja, õpetab: distsipliin ja emotsionaa
 
 ---
 
+## Abiallikad — kust alustada
+
+**Narko.ee** — Renee Aluste alustas abi otsimist siit. Anonüümne chatbot ja tugiliin: [narko.ee](https://www.narko.ee), tel **641 4110** (E–P 9–21), [tugiliin](https://www.narko.ee/siit-saad-abi/tugiliin/).
+
+**Märt Avandi lugu** — avalik tõend taastumisest (kokaiinisõltuvus, depressioon):
+- YouTube: [youtube.com/watch?v=nNuHGdQdrZY](https://www.youtube.com/watch?v=nNuHGdQdrZY)
+- Pealtnägija (ERR): [täisintervjuu](https://eeter.err.ee/1608878273/mart-avandi-kokaiinisoltuvust-on-natukene-lihtsam-varjata-kui-alkoholisoltuvust)
+
+**Ohvriabi.ee** — koduvägivalla korral kuni **940 €** psühholoogilise abi toetust **2 aasta jooksul**. Kasuta **EMDR** ravi sessioonideks. Alusta: **116 006** või [ohvriabi.ee](https://ohvriabi.ee).
+
+---
+
 ## 5. peatükk — Taastumine kui operatsioon
 
 Ma taastusin. Mitte ühe päevaga. Aastate jooksul — teraapia, töö, pere, füüsiline treening, ausad vestlused. Operatsioon „Peegel" on minu viis anda tagasi.

@@ -550,7 +550,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 
 ## a. Üldine
 - **Logistikapunktid:** Kogukonna keskused, koolid, kirikud, spordiklubid, Combat Ready koolitusruumid.
-- **Haavatute kogumispunkt:** Eluliin 655 8088; Perearsti nõuandeliin 1220; kriisiabi 116 123.
+- **Haavatute kogumispunkt:** Eluliin 655 8088; Perearsti nõuandeliin 1220; kriisiabi 116 123; ohvriabi kriisitelefon 116 006; narko.ee tugiliin 641 4110 (E–P 9–21).
 
 ## b. Materjalid ja teenistused
 | Klass | Sisu |
@@ -559,12 +559,16 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet); Alar Ojastu *Ratsionaalne emotsionaalsus*; „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee); Gordon (sinamina.ee); Imelised aastad (pk.ee) |
 | **III (kütus)** | Uni 7–8h; liikumine 30 min/päev |
 | **V (laskemoon)** | Sõnad — kasuta neid mõistlikult. Iga sõnum on lask |
-| **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber |
+| **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber; [narko.ee](https://www.narko.ee) chatbot/tugiliin (Renee alustas siit); [ohvriabi.ee](https://ohvriabi.ee) — koduvägivalla korral kuni 940 € psühholoogilise abi toetus 2 aasta jooksul (sh **EMDR** sessioonid); Märt Avandi lugu YouTube'is: [watch?v=nNuHGdQdrZY](https://www.youtube.com/watch?v=nNuHGdQdrZY) |
 | **Muu** | „Ava oma Silmad" taskuhääling; Combat Ready koolitused; Combat Ready Her Way; Laste Supermängud; see lahingukäsk |
 
 ## c. Meditsiiniline evakueerimine
 - Depressiooni või kriisi korral: pöörduda kohe spetsialisti poole. **Lisa H** — kiirjuhend isale kriisis (loe Lisa F esimesena).
 - Renee Aluste kogemus kinnitab: taastumine on võimalik. Abi otsimine on võit.
+- **Abi alustamise kanalid (Lisa H):**
+  - **narko.ee** — anonüümne chatbot ja tugiliin; Renee Aluste alustas abi otsimist siit ([tugiliin](https://www.narko.ee/siit-saad-abi/tugiliin/), tel 641 4110).
+  - **Märt Avandi lugu** — avalik tõend taastumisest: [YouTube](https://www.youtube.com/watch?v=nNuHGdQdrZY) · [Pealtnägija ERR](https://eeter.err.ee/1608878273/mart-avandi-kokaiinisoltuvust-on-natukene-lihtsam-varjata-kui-alkoholisoltuvust).
+  - **ohvriabi.ee** — koduvägivalla korral kuni **940 €** psühholoogilise abi toetus **2 aasta jooksul**; kasuta **EMDR** ravi sessioonideks. Kriisitelefon **116 006**.
 
 ## d. Isikud
 - Iga võrgustiku liige vastutab oma lähedaste eest.

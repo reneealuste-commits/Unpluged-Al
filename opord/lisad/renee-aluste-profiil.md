@@ -99,6 +99,12 @@ Renee ei oota kirju manipulatsiooni eesmärgil. Operatsioon „Peegel" on partne
 - Eluliin: **655 8088**
 - Kriisiabi: **116 123**
 - Perearsti nõuandeliin: **1220**
+- Ohvriabi kriisitelefon: **116 006**
+
+**Kust ma alustasin abi otsimist:**
+- [narko.ee](https://www.narko.ee) — chatbot ja tugiliin (tel **641 4110**, E–P 9–21)
+- Märt Avandi lugu taastumisest: [YouTube](https://www.youtube.com/watch?v=nNuHGdQdrZY) · [Pealtnägija ERR](https://eeter.err.ee/1608878273/mart-avandi-kokaiinisoltuvust-on-natukene-lihtsam-varjata-kui-alkoholisoltuvust)
+- Koduvägivald: [ohvriabi.ee](https://ohvriabi.ee) — kuni **940 €** psühholoogilise abi toetus 2 aasta jooksul (**EMDR** sessioonid)
 
 ---
 

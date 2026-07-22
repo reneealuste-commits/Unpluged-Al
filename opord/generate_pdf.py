@@ -113,6 +113,29 @@ def build_styles():
             spaceAfter=3,
         )
     )
+    styles.add(
+        ParagraphStyle(
+            name="QAQuestion",
+            parent=styles["Normal"],
+            fontSize=10,
+            leading=14,
+            spaceBefore=10,
+            spaceAfter=4,
+            textColor=colors.HexColor("#1a3a2a"),
+            fontName="Helvetica-Bold",
+        )
+    )
+    styles.add(
+        ParagraphStyle(
+            name="QAAnswer",
+            parent=styles["Normal"],
+            fontSize=9.5,
+            leading=13,
+            leftIndent=10,
+            spaceAfter=8,
+            alignment=TA_JUSTIFY,
+        )
+    )
     return styles
 
 
@@ -273,6 +296,16 @@ def build_story(md_text: str, styles) -> list:
 
         if stripped.startswith("#### "):
             story.append(Paragraph(inline_format(stripped[5:]), styles["SubSection"]))
+            i += 1
+            continue
+
+        if stripped.startswith("**K:"):
+            story.append(Paragraph(inline_format(stripped), styles["QAQuestion"]))
+            i += 1
+            continue
+
+        if stripped.startswith("**V:") or stripped.startswith("**V ("):
+            story.append(Paragraph(inline_format(stripped), styles["QAAnswer"]))
             i += 1
             continue
 

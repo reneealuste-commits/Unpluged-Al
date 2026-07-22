@@ -28,3 +28,5 @@ Dokument järgib Maakaitse käsiraamatu viiepunktilist OPORD-formaati:
 5. Juhtimine ja side
 
 Eelnevalt: ülesande koosseis (osalajate profiilid), tegutsemisala piirid, info-keskkonna kirjeldus.
+
+Lõpus: küsimused ja vastused (rollimäng pressikonverentsi formaadis).

@@ -1,11 +1,11 @@
 # OPERATSIOON „PEEGEL“
-## Lahingukäsk (OPORD) — Kõrgetasemeline vastutegevus psühholoogilisele mõjutamisele
+## Lahingukäsk — Kõrgetasemeline vastutegevus psühholoogilisele mõjutamisele
 
 **Klassifikatsioon:** Avalik — Eesti rahvale  
 **Kuupäev:** 22. juuli 2026  
 **Käsu andja:** Renee Aluste, operatsiooni koordinaator  
 **Operatsiooni tase:** Strateegiline–taktikaline (mitmetasandiline)  
-**Viide:** Maakaitse käsiraamatu viiepunktiline OPORD-formaat (opiq.ee)
+**Viide:** Maakaitse käsiraamatu viiepunktiline lahingukäsu formaat (opiq.ee)
 
 ---
 
@@ -43,8 +43,8 @@
 ┌─────────▼─────────┐   ┌──────────▼──────────┐   ┌─────────▼─────────┐
 │ OPERATIIVNE TASE  │   │ TAKTILINE/ÄRI TASE  │   │ TEADVUSTUSE TASE  │
 │ Kaitseväe Akadeemia│   │ Combat Ready        │   │ Katrin Lukas        │
-│ (Aarne Ermus —    │   │ Remo Ojaste (CEO)   │   │ „Ava oma Silmad“   │
-│  juhtide areng)   │   │ Martin Jõesaar (EU) │   │ podcast & teadlikkus│
+│ (Aarne Ermus —    │   │ Remo Ojaste (tegevdirektor)   │   │ „Ava oma Silmad“   │
+│  juhtide areng)   │   │ Martin Jõesaar (EL) │   │ taskuhääling & teadlikkus│
 └─────────┬─────────┘   └──────────┬──────────┘   └─────────┬─────────┘
           │                        │                        │
           └────────────────────────┼────────────────────────┘
@@ -80,9 +80,9 @@
 - **Taust:** Kolonel, Kaitseväe Akadeemia juhtimise suuna juht ja lektor. Endine Kaitsejõudude Peastaabi ülem ja operatiivülem; endine Kuperjanovi pataljoni ülem; Eesti sõjaline esindaja NATO SHAPE juures; endine Kaitseväe Ühendatud Õppeasutuste ülem (2007–2013).
 - **Miks ta on siin:** Kaitseväe Akadeemia rollikirjeldused rõhutavad enesearengut, kriitilist mõtlemist ja eetilist eneserefleksiooni — täpselt need oskused, mida operatsioon „Peegel“ kodanikele õpetab.
 
-#### Remo Ojaste — Taktikaline/äri tase (Combat Ready CEO)
-- **Roll operatsioonis:** Ärilise ja organisatsioonilise tasandi juht; Extreme Ownership põhimõtete rakendamine ühiskondlikus skaalas.
-- **Taust:** Combat Ready kaasasutaja ja tegevjuht (2021). Endine Eesti erioperatsioonide väelane (8+ aastat). Echelon Fronti (Jocko Willink, Leif Babin) ametlik partner — ainus selline partner Euroopas. Aasta koolitaja 2022. Jocko Podcasti külaline (2024).
+#### Remo Ojaste — Taktikaline/äri tase (Combat Ready tegevdirektor)
+- **Roll operatsioonis:** Ärilise ja organisatsioonilise tasandi juht; „ülima vastutuse" põhimõtete rakendamine ühiskondlikus skaalas.
+- **Taust:** Combat Ready kaasasutaja ja tegevdirektor (2021). Endine Eesti erioperatsioonide väelane (8+ aastat). Echelon Fronti (Jocko Willink, Leif Babin) ametlik partner — ainus selline partner Euroopas. Aasta koolitaja 2022. Jocko taskuhäälingu külaline (2024).
 - **Miks ta on siin:** Combat Ready alustas seda operatsiooni ärilisel tasandil — praktiline juhtimiskoolitus, mis valmistab inimesi ette reaalseks eluks, mitte ainult slaidideks.
 
 #### Martin Jõesaar — Euroopa tase (Combat Ready kaasasutaja)
@@ -97,13 +97,13 @@
 - **Miks ta on siin:** Ta ei õpeta teooriat — ta on elanud läbi selle, mida õpetab. „Ma ei manipuleeri sind nõrkuseks. Ma aitan sul saada tugevaks."
 
 #### Priit Lilleväli — Rahva tase, juhtimis- ja psühholoogiline tugi
-- **Roll operatsioonis:** Juhtimiskoolitaja ja coach; aitab inimestel töödelda traumaatilisi kogemusi ja võtta vastutust.
-- **Taust:** Combat Ready instruktor ja coach. Äripäeva Aasta koolitaja 2023 eriauhind. Endine kaitseväelane (5 aastat), kaks lahingumissiooni Afganistanis. Psühholoogia õpingud (TÜ), coaching (EBS). 300+ koolitust, 800+ coachingutundi.
+- **Roll operatsioonis:** Juhtimiskoolitaja ja juhendaja; aitab inimestel töödelda traumaatilisi kogemusi ja võtta vastutust.
+- **Taust:** Combat Ready instruktor ja juhendaja. Äripäeva Aasta koolitaja 2023 eriauhind. Endine kaitseväelane (5 aastat), kaks lahingumissiooni Afganistanis. Psühholoogia õpingud (TÜ), juhendamiskoolitus (EBS). 300+ koolitust, 800+ juhendamistundi.
 - **Miks ta on siin:** Operatsioon vajab inimest, kes oskab rääkida nii distsipliinist kui emotsionaalsest taastumisest — ilma ohvriidentiteeti tugevdamata.
 
 #### Katrin Lukas — Sügavama teadlikkuse tase
-- **Roll operatsioonis:** Teadlikkuse ja maailmavaate avardamine; „Ava oma Silmad" podcast ja kogukond.
-- **Taust:** Podcaster, autor ja teadlikkuse edendaja. „Ava oma Silmad" podcast käsitleb ühiskonnasüsteeme, inimmõistmist ja isiklikku ärkvelolekut. Koostööd teeb ka teiste Eesti podcastidega (sh Ajuloputus).
+- **Roll operatsioonis:** Teadlikkuse ja maailmavaate avardamine; „Ava oma Silmad" taskuhääling ja kogukond.
+- **Taust:** Taskuhäälingusaatejuht, autor ja teadlikkuse edendaja. „Ava oma Silmad" taskuhääling käsitleb ühiskonnasüsteeme, inimmõistmist ja isiklikku ärkvelolekut. Koostööd teeb ka teiste Eesti taskuhäälingutega (sh Ajuloputus).
 - **Miks ta on siin:** Operatsioon „Peegel" vajab mitmeid kanaleid. Lukas toob teistsuguse, sügavama vaatenurga — inimesed ärkavad erinevatest lähtepunktidest.
 
 #### Võrgustiku toetajad (taktikaline tase)
@@ -140,7 +140,7 @@
 - **Varjatus:** Vastane varjub algoritmide ja võõrkeelsete kanalite taha.
 - **Takistused:** Info üleküllus, väsimus, skeptitsism „järjekordse kampaania" suhtes.
 - **Võtmekohad:** Koolid, lasteaedade ümbrus, noorte platvormid, perede tugikeskused.
-- **Liikumisteed:** Facebook, Instagram, TikTok, YouTube, podcastid, kogukonna üritused, kirikud, spordiklubid.
+- **Liikumisteed:** Facebook, Instagram, TikTok, YouTube, taskuhäälingud, kogukonna üritused, kirikud, spordiklubid.
 
 **Hinnang:** Vastasele sobib kaos ja hajutatus. Meile sobib selgus, järjepidevus ja isiklik eeskuju.
 
@@ -168,7 +168,7 @@
 |------|-------|---------|
 | Kõrgem | Eesti riik, Kaitsevägi, Kaitsepolitseiamet | Ametlik infosõja tõrje — hea, kuid kõik ei jõua kodanikuni |
 | Operatiivne | Kaitseväe Akadeemia, Kaitseliit | Juhtide koolitus, kogukonna kaitse — tugev |
-| Taktikaline | Combat Ready | Juhtimiskoolitus, Extreme Ownership — aktiivne |
+| Taktikaline | Combat Ready | Juhtimiskoolitus, ülim vastutus — aktiivne |
 | Rahva tase | Operatsioon „Peegel" võrgustik | KÄIVITATUD — see käsk |
 | Toetus | Katrin Lukas / „Ava oma Silmad" | Teadlikkuse kanal — aktiivne |
 
@@ -197,7 +197,7 @@ Operatsioon „Peegel" põhineb peegelneuronitel — ajus mehhanismil, mille abi
 
 **Faas I — Teadvustamine (kuud 1–3):** Ava silmad. Tuvasta manipulatsioon. Jälgi oma infokäitumist. Vähenda algoritmidele allumist. Alusta eneseanalüüsiga.
 
-**Faas II — Tugevdamine (kuud 4–8):** Ehita harjumusi. Perekonna aeg. Füüsiline liikumine. Mentorlus. Combat Ready ja võrgustiku koolitused. „Ava oma Silmad" podcast teadlikkuseks.
+**Faas II — Tugevdamine (kuud 4–8):** Ehita harjumusi. Perekonna aeg. Füüsiline liikumine. Mentorlus. Combat Ready ja võrgustiku koolitused. „Ava oma Silmad" taskuhääling teadlikkuseks.
 
 **Faas III — Peegeldamine (kuud 9–12):** Oma kogukonnas eeskujuks. Räägi teistega. Toeta naabrit, kolleegi, sõpra. Iga tugev isa, iga toetav ema, iga mentor on võit.
 
@@ -221,9 +221,9 @@ Operatsioon „Peegel" põhineb peegelneuronitel — ajus mehhanismil, mille abi
 4. Mõõdikute jälgimine (tagasiside kogukonnast).
 
 ### Combat Ready (Remo Ojaste, Priit Lilleväli, meeskond)
-1. Extreme Ownership koolitused ettevõtetele ja kogukondadele.
+1. Ülima vastutuse koolitused ettevõtetele ja kogukondadele.
 2. Juhtimis- ja meeskonnakoolitused perede ja MTÜ-de juhtidele.
-3. Online- ja hübriidlahenduste pakkumine (2026 fookus: turvalisus ja vastupidavus).
+3. Veebipõhiste ja hübriidlahenduste pakkumine (2026. aasta fookus: turvalisus ja vastupidavus).
 
 ### Riho Ühtegi / Rene Toomse (strateegiline tase)
 1. Avalik sõnum: riigikaitse algab kodus.
@@ -231,7 +231,7 @@ Operatsioon „Peegel" põhineb peegelneuronitel — ajus mehhanismil, mille abi
 3. Ühendavad narratiivid, mis ei lõhu, vaid ehitavad.
 
 ### Katrin Lukas (teadlikkuse tase)
-1. „Ava oma Silmad" podcast — teemad manipulatsioonist ja ärkamisest.
+1. „Ava oma Silmad" taskuhääling — teemad manipulatsioonist ja ärkamisest.
 2. Koostöö teiste kanalitega (sh Ajuloputus).
 3. Sügavama mõistmise pakkumine neile, kes on valmis.
 
@@ -264,11 +264,11 @@ Operatsioon „Peegel" põhineb peegelneuronitel — ajus mehhanismil, mille abi
 | Klass | Sisu |
 |-------|------|
 | **I (toit)** | Soe pere eine 1× nädalas — ilma ekraanideta |
-| **II (varustus)** | Raamatud: „Extreme Ownership", „The Body Keeps the Score", Kaitseväe Akadeemia materjalid |
+| **II (varustus)** | Raamatud: „Extreme Ownership" (ülim vastutus), „The Body Keeps the Score" (keha mäletab trauma), Kaitseväe Akadeemia materjalid |
 | **III (kütus)** | Uni 7–8h; liikumine 30 min/päev |
 | **V (laskemoon)** | Sõnad — kasuta neid mõistlikult. Iga sõnum on lask |
-| **VIII (meditsiin)** | Vaimne tervis: psühholoog, coach, usaldusväärne sõber |
-| **Muu** | „Ava oma Silmad" podcast; Combat Ready koolitused; see OPORD |
+| **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber |
+| **Muu** | „Ava oma Silmad" taskuhääling; Combat Ready koolitused; see lahingukäsk |
 
 ## c. Meditsiiniline evakueerimine
 - Depressiooni või kriisi korral: pöörduda kohe spetsialisti poole.
@@ -296,9 +296,9 @@ Operatsioon „Peegel" põhineb peegelneuronitel — ajus mehhanismil, mille abi
 **Juhtimiskett:** Renee Aluste → Remo Ojaste → võrgustiku liikmed → iga kodanik iseenda juht.
 
 ## b. Side ja signaalid
-- **Hashtag:** #OperatsioonPeegel
+- **Ühisosa märge:** #OperatsioonPeegel
 - **Veeb:** combatready.eu
-- **Podcast:** „Ava oma Silmad" (Katrin Lukas)
+- **Taskuhääling:** „Ava oma Silmad" (Katrin Lukas)
 - **Signaal OPERATSIOON TÄIDETUD:** Kui ühiskondlikud mõõdikud näitavad paranemist — üksikemade arv langeb, kiusamine väheneb, inimesed räägivad vastutusest.
 
 ---
@@ -324,3 +324,153 @@ koos Combat Ready meeskonna ja partneritega
 ---
 
 *Lisa: Operatsioon „Peegel" — nimi sümboliseerib peegelneurone. Inimesed peegeldavad seda, mida nad näevad. Ole see, mida sa tahad, et maailm peegeldaks.*
+
+---
+
+# KÜSIMUSED JA VASTUSED
+
+*Stsenaarium: Renee Aluste annab operatsiooni „Peegel" kohta pressikonverentsi ja vastab kodanike, ajakirjanike, poliitikute ja skeptikute küsimustele. Küsimused on koostatud tüüpiliste reaktsioonide põhjal — nii toetavate kui ka kriitiliste.*
+
+---
+
+## I. Üldised küsimused
+
+**K: Mis asi see „operatsioon" üldse on? Kas see on sõda?**
+
+**V (Renee Aluste):** Ei, see ei ole sõda relvadega. See on vastutegevus psühholoogilisele mõjutamisele — infosõjale. Vastane püüab meid nõrgestada seestpoolt: lõhkuda peresid, tekitada hirmu, lootusetust ja usaldamatust. Meie vastus on vastupidine: tugevdada peresid, arendada kriitilist mõtlemist ja võtta isiklik vastutus. Lahingukäsu vorm on teadlik — see aitab inimestel mõista, et igaüks meist on selles missioonis oluline.
+
+---
+
+**K: Miks just sõjaväeline vorm? Kas te tahate Eestit militariseerida?**
+
+**V:** Me ei militariseeri ühiskonda. Kasutame sõjaväelist vormi, sest see on selge, distsiplineeritud ja tuttav paljudele eestlastele, kes on teeninud Kaitseliidus või kaitseväes. Struktuur aitab mõelda. Tegelik sõnum on tsiviilne: riigikaitse algab kodus. See on sama, mida Riho Ühtegi on aastaid rääkinud — riik koosneb inimestest, mitte ainult tankidest.
+
+---
+
+**K: Kes teid volitas? Kas see on riiklik operatsioon?**
+
+**V:** See on kodanikualgatus. Me ei esinda valitsust ega kaitseväge ametlikult. Me toetame ja täiendame seda, mida riik juba teeb — sest osa sõnumit ei jõua kodanikuni. Finantseerimine tuleb Eesti rahvalt endalt: vabatahtlikud panused, koolitused, kogukonna tugi. Kui keegi küsib luba — vastus on: luba tuleb sinult endalt, kui sa otsustad oma pere eest vastutada.
+
+---
+
+**K: Miks nimi „Peegel"?**
+
+**V:** Peegelneuronid on ajus mehhanism, mille abil inimesed kopeerivad teiste käitumist — sageli teadmatult. Vastane kasutab seda negatiivselt: hirm, viha, lõhkumine levivad nagu nakkus. Meie peegeldame vastupidist: tervist, distsipliini, perekonda, ausust. Sa ei saa kedagi teist sundida muutuma — aga sa võid olla eeskuju, mida teised peegeldavad.
+
+---
+
+## II. Skeptikud ja kriitikud
+
+**K: See kõlab nagu järjekordne vandenõuteooria. Kuidas te tõestate, et Venemaa meid manipuleerib?**
+
+**V:** Eesti riik, NATO, kaitsepolitsei ja sõltumatud uurijad on seda dokumenteerinud aastaid. Me ei palu kellelgi uskuda midagi kontrollimata. Palume kontrollida allikaid, jälgida oma emotsioone ja küsida: kes selle sõnumi saatmisega võidab? Kui vastus on „see, kes tahab, et ma kardaksin, vihaksin või loobuksin" — siis oled õigel teel. Me ei räägi vandenõudest. Me räägime kriitilisest mõtlemisest.
+
+---
+
+**K: Te ütlete, et aitate inimesi, aga teie sõnum on ju samuti manipulatsioon — „ma manipuleerin sind terveks".**
+
+**V:** Aus küsimus. Vahe on läbipaistvuses ja eesmärgis. Me ei varja oma kavatsust. Me ei kasuta hirmu ega vihkamist. Me ei müü sulle midagi, mis teeb sind sõltuvaks. Me ütleme otse: võta vastutus, õpi ennast tundma, tee oma otsused. Kui sa pärast seda projekti oled tugevam, vabam ja paremini informeeritud — siis oleme õnnestunud. Kui sa tunned, et keegi sunnib sind — lahku julgelt.
+
+---
+
+**K: Üksikemade arvu vähendamine võidumõõdikuna? See solvab minu ema, kes kasvatas mind üksi.**
+
+**V:** Me austame iga üksikema, kes teeb võimatut tööd. Meie sõnum ei ole süüdistus. Statistika näitab, et paljud üksikemad pered on sotsiaalse surve ja majanduslike raskuste all — osaliselt ühiskondlike mustrite tõttu, mida me tahame muuta. Võidumõõdik tähendab: vähem lapsi kasvab ilma tugeva eeskujuta. See võib olla isa, vanaisa, onu, treener või mentor — mitte tingimata bioloogiline isa. Iga laps väärib kedagi, kellele vaadata üles.
+
+---
+
+**K: Riho Ühtegi presidendiks? Kas see on varjatud poliitiline kampaania?**
+
+**V:** Riho Ühtegi on operatsiooni strateegiline eeskuju, sest ta esindab seda, mida paljud eestlased hindavad: otsekohesust, ausust ja inimeste eest seismist. Kas ta kandideerib presidendiks — see on tema otsus ja rahva otsus. Operatsioon „Peegel" ei ole ühegi erakonna kampaania. Me ei toeta parteisid. Me toetame peresid ja kodanikke.
+
+---
+
+## III. Noored ja sotsiaalmeedia
+
+**K: Ma olen 19 ja elan TikTokis. Miks peaks mind see huvitama?**
+
+**V:** Sest algoritm teab sind paremini kui sa iseennast. Ta pakub sulle seda, mis hoiab sind ekraani ees — viha, šokki, hirmu, draamat. See ei tähenda, et kõik on valet — aga see tähendab, et keegi teine võib sinu emotsioone kasutada. Küsimus sulle: kas sa kontrollid oma aega või aeg kontrollib sind? Alusta sealt. 15 minutit päevas ilma telefonita. Vaata, mis juhtub.
+
+---
+
+**K: Kas ma pean kustutama Instagrami ja TikToki?**
+
+**V:** Ei. Me ei käsi kedagi midagi kustutada. Soovitame teadlikku kasutamist: jälgida, mis emotsiooni kanal tekitab; piirata aega; järgida inimesi, kes sind ehitavad, mitte lõhuvad. Infohügieen on nagu hambapesu — iga päev, mitte üks kord elus.
+
+---
+
+## IV. Pered ja isiklik elu
+
+**K: Mul on raske peresituatsioon. Kas see operatsioon aitab mind?**
+
+**V:** Me ei ole perekonnaterapeudid — aga me suuname abi poole. Kui sul on kriis, helista Eluliinile 655 8088 või pöördu spetsialisti poole. Operatsioon aitab selles mõttes, et sa tead: sa ei ole üksi. Paljud inimesed on läbi elanud sarnase. Mina ise olen olnud põhjas — depressioonis, manipuleerituna. Taastumine on võimalik. Abi otsimine on tugevus.
+
+---
+
+**K: Mis on see „perede aeg" iganädalaselt? Mul ei ole aega.**
+
+**V:** Üks õhtu nädalas ilma ekraanideta — kas või 60 minutit. Laua taga koos. Jalutuskäik. Mäng. See ei pea olema täiuslik. Algus ongi väike. Kui sa ütled „mul pole aega", siis küsi: kellele see aeg tegelikult läheb? Enamasti ekraanile. Me ei süüdista. Me kutsume üles valima teadlikult.
+
+---
+
+**K: Kas see on ainult isafiguuridele? Ema roll on ju sama oluline.**
+
+**V:** Absoluutselt. Ema on võrdselt keskne. Meie sõnum rõhutab isafiguuri, sest statistiliselt on paljudel lastel see tühimik — aga see ei vähenda ema rolli. Iga tugev vanem, iga toetav täiskasvanu on võit. Operatsioon on kõigile, kes kasvatavad, mentorivad või hoolivad.
+
+---
+
+## V. Combat Ready ja partnerid
+
+**K: Kas Combat Ready teenib selle pealt raha? Kas see on turundus?**
+
+**V:** Combat Ready on ettevõte, mis pakub juhtimiskoolitusi. Jah, nad pakuvad koolitusi ka selle võrgustiku raames — nagu iga teine professionaalne organisatsioon. Aga operatsiooni tuum ei ole müük. Tuum on sõnum: võta vastutus. Kui sa ei taha koolitust osta, saad ikkagi kasutada seda lahingukäsku tasuta. See PDF, see sõnum — see on rahvale, mitte klientidele.
+
+---
+
+**K: Mis roll on Katrin Lukasil? Ta tegeleb ju teistsuguste teemadega.**
+
+**V:** Inimesed ärkavad erinevatest kohtadest. Keegi tuleb läbi sõjalise distsipliini, keegi läbi vaimse ärkamise, keegi läbi usundi või filosoofia. Katrin Lukas pakub taskuhäälingu kaudu sügavamat teadlikkust — süsteemidest, inimmõistmisest, ärkvelolekust. Me ei ütle, et pead kõike temaga nõustuma. Me ütleme: ava silmad. Vali oma tee.
+
+---
+
+**K: Kas Aarne Ermus ja Kaitseväe Akadeemia toetavad seda ametlikult?**
+
+**V:** Aarne Ermus toetab juhtimis- ja enesearengu põhimõtteid, mis on Kaitseväe Akadeemia tuumikus. Ametlikku kaitseväe volitust sellel kodanikualgatusel ei ole — ja me ei väida seda. Me täiendame seda, mida akadeemia õpetab kadettidele: eneseareng, kriitiline mõtlemine, eetiline refleksioon. Need põhimõtted kehtivad ka tsiviilelanikele.
+
+---
+
+## VI. Praktilised sammud
+
+**K: Mida ma täna, kohe, tegema peaksin?**
+
+**V:** Kolm asja. Esimene: loe see lahingukäsk lõpuni. Teine: vali üks harjumus — näiteks 15 minutit vaikust või üks ekraanivaba õhtu nädalas. Kolmas: räägi ühele inimesele, keda usaldad, mida sa mõtled. Alusta väikesest. Järjepidevus võidab.
+
+---
+
+**K: Kuidas ma saan liituda või aidata?**
+
+**V:** Kasuta ühisosa märget #OperatsioonPeegel. Jaga sõnumit, kui tunned, et see aitab. Tule Combat Ready koolitusele, kui tahad sügavamat juhtimistreeningut. Kuula „Ava oma Silmad" taskuhäälingut, kui otsid teistsugust nurka. Või lihtsalt ela eeskujuks oma kodus. See ongi liitumine.
+
+---
+
+**K: Kuidas te mõõdate, kas võidate?**
+
+**V:** Me ei mõõda seda ühe numbriga. Vaatame suundi: kas inimesed räägivad rohkem vastutusest? Kas koolides on vähem kiusamist? Kas pered veedavad rohkem aega koos? Kas üksikvanemad tunnevad rohkem tuge? See on pika mängu operatsioon. Iga üksik laps, kellel on eeskuju, on võit.
+
+---
+
+**K: Mis saab siis, kui keegi ei kuula?**
+
+**V:** Siis me jätkame ikkagi. Sa ei saa kedagi sundida. Sa saad olla valgus. Kui üks inimene muutub, mõjutab see peret. Kui pere muutub, mõjutab see kogukonda. Me ei pea veenma kõiki. Me peame alustama iseendast.
+
+---
+
+## VII. Lõplik vahetus (rollimäng)
+
+**K: Viimane küsimus. Ütle mulle ühe lausega, miks ma peaksin sind uskuma.**
+
+**V (Renee Aluste, vaikselt):** Ära usu mind. Usu enda kogemust. Ma olin seal, kus sa võib-olla oled — haavatud, pettunud, manipuleeritud. Ma tõusin üles. Ma ei palu sul uskuda sõnu. Ma palun sul vaadata oma ellu ausalt ja küsida: kas see, mida ma teen iga päev, ehitab mind üles või lõhub mind? Kui vastus on „lõhub" — siis on aeg muutuda. See on kogu operatsioon. Me oleme valmis. Kas sina oled?
+
+---
+
+*Küsimuste korral: renee.aluste@combatready.eu | #OperatsioonPeegel*

@@ -108,6 +108,31 @@
 - **Taust:** Taskuhäälingusaatejuht, autor ja teadlikkuse edendaja. „Ava oma Silmad" taskuhääling käsitleb ühiskonnasüsteeme, inimmõistmist ja isiklikku ärkvelolekut. Koostööd teeb ka teiste Eesti taskuhäälingutega (sh Ajuloputus).
 - **Miks ta on siin:** Operatsioon „Peegel" vajab mitmeid kanaleid. Lukas toob teistsuguse, sügavama vaatenurga — inimesed ärkavad erinevatest lähtepunktidest.
 
+#### Ingvar Villido — Teadliku muutuse kunst (Practical Consciousness)
+- **Roll operatsioonis:** Teadlikkuse praktilise rakendamise eestvedaja; aitab inimestel tuvastada ja muuta alateadlikke emotsionaalseid ning mentaalseid mustreid.
+- **Taust:** Siddha jooga õpetaja, Lilleoru asutaja. Loodud meetod *Teadliku Muutuse Kunst* (2008), rahvusvaheliselt *Practical Consciousness*. Viieastmeline kursuste süsteem (selgus, emotsioonid, mõtted, teadvus, vooseisund). Raamatud sh *Teadvuse praktiline kasutamine*. Practical Consciousness Sihtasutus; koolitused Eestis ja välismaal.
+- **Miks ta on siin:** Infosõda tabab inimest seestpoolt — autopiloodis emotsioonid ja mõtted. Villido pakub praktilisi vahendeid, kuidas inimene ise oma sisemaailma muudab. See täiendab operatsiooni sõjalist distsipliini teadlikkuse tehnikaga.
+
+#### Igor Earthchild — Tantra ja teadlik ühendus
+- **Roll operatsioonis:** Tantralaagrite ja festivalide korraldamine; aitab inimestel — eriti meestel — avada keha, vabaneda vanadest mustritest ja leida end uuesti.
+- **Taust:** Endine ärivaldkonna tippjuht, tantraõpetaja ja tervendaja. Eesti Tantrafestivali kaaskorraldaja alates 2017. Loob veebikursusi ja laagreid (sh Learn to Touch, Superlover); tantramassaaž ja body de-armouring Tallinnas ja Helsingis. Aitab inimestel liikuda sõltuvustest tervislikuma elu poole.
+- **Miks ta on siin:** Paljud inimesed on infosõja ja eluraskuste tõttu kehast lahti ühendatud. Earthchild aitab neil uuesti end tunda — läbi teadliku puudutuse, kogukonna ja tantristliku praktika.
+
+#### Bella Skalkina — Tantra ja energiakeha
+- **Roll operatsioonis:** Tantralaagrite ja Eesti Tantrafestivali peaorganisaator; töötoad paaridele ja üksikisikutele teadliku läheduse ja energiakeha avamiseks.
+- **Taust:** Massaažiterapeut ja tervendaja (Anahata stuudio, Tallinn ja Helsinki). Eesti Tantrafestivali peamine korraldaja. Koostöö Igor Earthchildi, Margus Sarmeti ja Kristiina Sauliga. Töötoad: paaride saunarituaal, tantriline puudutus, Shakti ärkamine, Armastuse tempel.
+- **Miks ta on siin:** Skalkina loob turvalisi ruume, kus inimesed saavad avada silmad — mitte hirmuga, vaid armastuse ja teadlikkusega. See on operatsiooni „ava silmad" missioon teise keele kaudu.
+
+#### Margus Sarmet — Tantra ja vaimne praktika
+- **Roll operatsioonis:** Tantralaagrite, festivalide ja teadlikkusele suunatud kogukonnaürituste korraldamine; paaride ja üksikisikute tee tagasi iseenda juurde.
+- **Taust:** Tantra- ja joogaõpetaja, transpersonaalse psühholoogia terapeut. Eesti Tantrafestivali korraldaja. Tantratants.ee, Tantra Tribe laagrid. Õpingud Agama joogakoolis, Shivoham Tantra liinis, Karam Kriya joogakoolis. Korraldab ka teadlikkusele suunatud laste- ja noortelaagreid.
+- **Miks ta on siin:** Sarmet ütleb otse: tantra on praktiline teadus — seni kuni sa seda ei kasuta, pole teadmistest kasu. Operatsioon vajab inimesi, kes aitavad teistel mitte ainult mõelda, vaid ka tunda ja elada teadlikumalt.
+
+#### Kristiina Saul — Tantra, jooga ja naiste ringid
+- **Roll operatsioonis:** Tantralaagrite ja festivalide kaaskorraldaja; töötoad iha, läheduse ja vaimse ärkamise teemadel; naiste väeringud ja teraapiline tugi.
+- **Taust:** Kundalini joogaõpetaja, tantraõpetaja, rännakumeetodi praktik. Pikaajaline koostöö Margus Sarmetiga (Tantra Tribe, Eesti Tantrafestival, Tantra ABC töötoad). Õpingud Karam Kriya koolis, klassikaline ja neotantra, Shivoham Tantra liin. Korraldab Naiste Väeringeid ja teadlikkuse koolitusi.
+- **Miks ta on siin:** Saul on see inimene, kelle juures paljud on esimest korda tantraga kokku puutunud ja kogenud tõelist vabanemist. Operatsioon „Peegel" tunnistab: inimesed leiavad tee tagasi enda juurde erinevate uste kaudu — ka tantra ja jooga kaudu.
+
 #### Taavi Karotamm — Strateegiline kommunikatsioon
 - **Roll operatsioonis:** Strateegilise kommunikatsiooni eestvedaja; sõnumite selgus, kriisikommunikatsioon ja avalik usaldus.
 - **Taust:** Major, Kaitseväe peastaabi pressijaoskonna ülem. Pikaaegne kaitseväe kommunikatsioonispetsialist; juhib meeskonda, planeerib kommunikatsioonitegevusi ja kriisistsenaariume. Kogemus koostöös riiklike ja rahvusvaheliste partneritega. Renee Aluste ajateenistuse kaaslane Vahipataljonist (2009–2010); kohtusid uuesti Estpla-21 raames UNIFIL-i Liibanonis (2015) — töötasid koos umbes seitse kuud Soome-Iiri pataljoni koosseisus.
@@ -184,12 +209,14 @@
 | Strateegiline kommunikatsioon | Taavi Karotamm, Arvo Jõesalu | Kaitseväe ja Kaitseliidu strateegiline kommunikatsioon — aktiivne |
 | Rahva tase | Operatsioon „Peegel" võrgustik | KÄIVITATUD — see käsk |
 | Toetus | Katrin Lukas / „Ava oma Silmad" | Teadlikkuse kanal — aktiivne |
+| Toetus | Ingvar Villido / Practical Consciousness | Teadliku muutuse kunst — aktiivne |
+| Toetus | Eesti Tantrafestivali võrgustik (Earthchild, Skalkina, Sarmet, Saul) | Tantralaagrid ja festivalid — aktiivne |
 
 **Kõrgema üksuse kavatsus:** Kaitsta Eesti inimeste vaimset ja füüsilist julgeolekut. See operatsioon toetab seda eesmärki, mitte ei asenda riiklikku kaitset.
 
 ## c. Tugevdused ja vähendused
 
-- **Tugevused:** Renee Aluste (isiklik kogemus + sõjaline väljaõpe); Combat Ready meeskond; Riho Ühtegi rahvuslik autoriteet; Rene Toomse strateegiline nägemus; Taavi Karotamm ja Arvo Jõesalu strateegilise kommunikatsiooni kogemus; Steigeri inimesekeskne juhtimine kui SOP (Lisa I).
+- **Tugevused:** Renee Aluste (isiklik kogemus + sõjaline väljaõpe); Combat Ready meeskond; Riho Ühtegi rahvuslik autoriteet; Rene Toomse strateegiline nägemus; Taavi Karotamm ja Arvo Jõesalu strateegilise kommunikatsiooni kogemus; Steigeri inimesekeskne juhtimine kui SOP (Lisa I); teadlikkuse võrgustik (Lukas, Villido, tantralaagrid).
 - **Vähendused:** Puuduv ametlik riiklik volitus (kodanikualgatus); piiratud eelarve; sõltuvus vabatahtlikust osalusest.
 
 ---
@@ -210,7 +237,7 @@ Operatsioon „Peegel" põhineb peegelneuronitel — ajus mehhanismil, mille abi
 
 **Faas I — Teadvustamine (kuud 1–3):** Ava silmad. Tuvasta manipulatsioon. Jälgi oma infokäitumist. Vähenda algoritmidele allumist. Alusta eneseanalüüsiga.
 
-**Faas II — Tugevdamine (kuud 4–8):** Ehita harjumusi. Perekonna aeg. Füüsiline liikumine. Mentorlus. Combat Ready ja võrgustiku koolitused. „Ava oma Silmad" taskuhääling teadlikkuseks.
+**Faas II — Tugevdamine (kuud 4–8):** Ehita harjumusi. Perekonna aeg. Füüsiline liikumine. Mentorlus. Combat Ready ja võrgustiku koolitused. „Ava oma Silmad" taskuhääling teadlikkuseks. Ingvar Villido Practical Consciousness kursused. Tantralaagrid ja Eesti Tantrafestival (Earthchild, Skalkina, Sarmet, Saul) — keha ja hinge taasühendamine.
 
 **Faas III — Peegeldamine (kuud 9–12):** Oma kogukonnas eeskujuks. Räägi teistega. Toeta naabrit, kolleegi, sõpra. Iga tugev isa, iga toetav ema, iga mentor on võit.
 
@@ -254,6 +281,17 @@ Renee Aluste ja Taavi Karotamm teenisid koos UNIFIL-i Liibanonis Soome-Iiri pata
 2. Koostöö teiste kanalitega (sh Ajuloputus).
 3. Sügavama mõistmise pakkumine neile, kes on valmis.
 
+### Ingvar Villido (teadliku muutuse kunst)
+1. Practical Consciousness kursused — alateadlike mustrite tuvastamine ja muutmine.
+2. Teadlikkuse praktiline rakendamine igapäevaelus (Lilleoru, human.ee).
+3. Täiendav tee neile, kes vajavad sügavamat sisemist tööd pärast Faas I teadvustamist.
+
+### Igor Earthchild / Bella Skalkina / Margus Sarmet / Kristiina Saul (tantra ja laagrid)
+1. Eesti Tantrafestivali ja tantralaagrite korraldamine — turvalised ruumid enese taasleiutamiseks.
+2. Töötoad paaridele ja üksikisikutele: teadlik lähedus, keha avamine, emotsioonide vabastamine.
+3. Kogukonna loomine, kus inimesed leiavad end uuesti — ilma alkoholi ja manipulatsiooni abita.
+4. Tantra Tribe, Tantratants ja seotud üritused — vt tantrafest.ee, tantratants.ee, kristiinasaul.ee.
+
 ### Taavi Karotamm / Arvo Jõesalu (strateegiline kommunikatsioon)
 1. Operatsiooni sõnumite selgus ja läbipaistvus — ilma propaganda keeleta.
 2. Kriisikommunikatsiooni standardid kodanikualgatusele (vt Lisa I).
@@ -276,6 +314,7 @@ Renee Aluste ja Taavi Karotamm teenisid koos UNIFIL-i Liibanonis Soome-Iiri pata
 | **„Juhul kui…"** | Kui tunned, et langed tagasi manipulatsiooni — pöördu mentorini, sõbra poole või professionaali poole. See on tugevus, mitte nõrkus. |
 | **„Juhul kui…" (isa kriisis)** | Alusta Lisast F (*Murra ring*), siis A, D, E. Kiirjuhend: Lisa H. Kriis: Eluliin 655 8088. |
 | **„Juhul kui…" (juhtimine)** | Loe Lisa I (Steiger 1997). Küsi: kas ma juhin inimest või kontrollin teda? |
+| **„Juhul kui…" (keha suletud)** | Kui tunned end emotsionaalselt külmutatuna — kaaluge tantralaagrit või festivali (tantrafest.ee) või Villido kursust (lilleoru.ee). Kriisis: Lisa H esimesena. |
 | **Lahingureeglid** | Ei ründa. Ei laima. Ei vihka. Ei manipuleeri. Peegeldame tervist, mitte haigust. |
 | **Tagasiside** | Igakuine tagasiside võrgustikule: mis töötab, mis mitte. Kanal: operatsiooni koordinaator. |
 
@@ -291,7 +330,7 @@ Renee Aluste ja Taavi Karotamm teenisid koos UNIFIL-i Liibanonis Soome-Iiri pata
 | Klass | Sisu |
 |-------|------|
 | **I (toit)** | Soe pere eine 1× nädalas — ilma ekraanideta |
-| **II (varustus)** | Raamatud: Tugeva Isa seeria (7 köidet — vt Lisa A–G), Lisa H (kiirjuhend kriisis isale), Lisa I (Steiger — inimesekeskne juhtimine), „Extreme Ownership" (ülim vastutus), „The Body Keeps the Score" (keha mäletab trauma), Kaitseväe Akadeemia materjalid |
+| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*, Kaitseväe Akadeemia materjalid; laagrid: Eesti Tantrafestival, Tantra Tribe, Practical Consciousness |
 | **III (kütus)** | Uni 7–8h; liikumine 30 min/päev |
 | **V (laskemoon)** | Sõnad — kasuta neid mõistlikult. Iga sõnum on lask |
 | **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber |
@@ -318,6 +357,11 @@ Renee Aluste ja Taavi Karotamm teenisid koos UNIFIL-i Liibanonis Soome-Iiri pata
 | Äri/taktika | Remo Ojaste | remo.ojaste@combatready.eu |
 | Juhtimiskoolitus | Priit Lilleväli | priit.lillevali@combatready.eu |
 | Teadlikkus | Katrin Lukas | katrinlucas.com |
+| Teadlik muutus | Ingvar Villido | lilleoru.ee / human.ee |
+| Tantra / laagrid | Igor Earthchild | learn2touch.com / tantrafest.ee |
+| Tantra / laagrid | Bella Skalkina | tantrafest.ee / anahata.fi |
+| Tantra / laagrid | Margus Sarmet | tantratants.ee / tantrafest.ee |
+| Tantra / laagrid | Kristiina Saul | kristiinasaul.ee / tantrafest.ee |
 | Strateegiline kommunikatsioon | Taavi Karotamm | mil.ee (Kaitsevägi) |
 | Strateegiline kommunikatsioon | Arvo Jõesalu | Kaitseliit |
 | Akadeemiline tugi | Aarne Ermus | Kaitseväe Akadeemia |
@@ -328,6 +372,8 @@ Renee Aluste ja Taavi Karotamm teenisid koos UNIFIL-i Liibanonis Soome-Iiri pata
 - **Ühisosa märge:** #OperatsioonPeegel
 - **Veeb:** combatready.eu
 - **Taskuhääling:** „Ava oma Silmad" (Katrin Lukas)
+- **Teadlik muutus:** lilleoru.ee, practicalconsciousness.org (Ingvar Villido)
+- **Tantralaagrid:** tantrafest.ee, tantratants.ee, kristiinasaul.ee
 - **Kriis (isad):** Lisa H — `lisad/lisa-h-kiirjuhend-kriisis-isale.md`
 - **Juhtimine (SOP):** Lisa I — `lisad/lisa-i-inimesekeskne-juhtimine.md` (Steiger 1997, ISBN 9985901274)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
@@ -480,6 +526,27 @@ koos Combat Ready meeskonna ja partneritega
 *Minu küsimus sulle: Mida sina selle teadmisega täna teed — mitte homme?*
 ---
 
+**K: Kes on Ingvar Villido ja miks ta on operatsioonis?**
+
+**V:** Ingvar Villido on loonud Teadliku Muutuse Kunsti — nüüd rahvusvaheliselt Practical Consciousness. See on praktiline süsteem, mis aitab inimestel tuvastada alateadlikke emotsionaalseid ja mentaalseid mustreid ning neid muuta. Eesti kaitseväe esimesed juhid võtsid sarnase lähenemise tõsiselt — meie ütleme, et kodanik vajab sama. Villido ei asenda Combat Readyt ega tantralaagreid. Ta on üks tee sisemise selguse juurde.
+
+*Minu küsimus sulle: Kas sa tead, millal su keha reageerib enne kui su mõistus jõuab järele?*
+---
+
+**K: Tantra? Kas see ei ole lihtsalt seks? Miks Igor Earthchild, Bella Skalkina, Margus Sarmet ja Kristiina Saul on siin?**
+
+**V:** Aus küsimus. Tantra operatsioonis ei tähenda erootikat ilma kontekstita. Need inimesed korraldavad laagreid ja Eesti Tantrafestivali, kus inimesed — sageli paarid, sageli kurnatud ja lahti ühendatud — leiavad end uuesti. Margus Sarmet ütleb ise: tantra ei võrdu seksiga; tantra kasutab seksuaalsust ühe vahendina teadlikkuse ja läheduse suurendamiseks. Kristiina Saul ja Sarmet töötavad koos aastaid; Bella Skalkina ja Igor Earthchild on festivali tuumik. Meie sõnum: kui inimene on emotsionaalselt külmutatud infosõja tõttu, vajab ta mõnikord keha kaudu avanemist — turvalises ruumis, teadlikult. See ei ole kõigile. Aga paljudele on see olnud tee tagasi.
+
+*Minu küsimus sulle: Kas sa oled kunagi lubanud endale tunda — ilma et keegi sind selle eest hukka mõistaks?*
+---
+
+**K: Kas ma pean minema tantrafestivalile, et operatsioonist kasu saada?**
+
+**V:** Ei. Operatsioon on tasuta ja kättesaadav ilma festivalita. Aga kui sa tunned, et su keha on su mõistusest ees kinni — ja sa oled valmis — tantrafest.ee ja tantratants.ee on üks võimalik tee. Ingvar Villido kursused on teine. Katrin Lukase taskuhääling kolmas. Combat Ready neljas. Vali see, mis sulle sobib. Me ei müü ühtegi neist teistele peale.
+
+*Minu küsimus sulle: Mis on sinu jaoks turvaline ruum — ja kas sa seda täna lood?*
+---
+
 **K: Kas Aarne Ermus ja Kaitseväe Akadeemia toetavad seda ametlikult?**
 
 **V:** Aarne Ermus toetab juhtimis- ja enesearengu põhimõtteid, mis on Kaitseväe Akadeemia tuumikus. Ametlikku kaitseväe volitust sellel kodanikualgatusel ei ole — ja me ei väida seda. Me täiendame seda, mida akadeemia õpetab kadettidele: eneseareng, kriitiline mõtlemine, eetiline refleksioon. Need põhimõtted kehtivad ka tsiviilelanikele.
@@ -498,7 +565,7 @@ koos Combat Ready meeskonna ja partneritega
 
 **K: Kuidas ma saan liituda või aidata?**
 
-**V:** Kasuta ühisosa märget #OperatsioonPeegel. Jaga sõnumit, kui tunned, et see aitab. Tule Combat Ready koolitusele, kui tahad sügavamat juhtimistreeningut. Kuula „Ava oma Silmad" taskuhäälingut, kui otsid teistsugust nurka. Või lihtsalt ela eeskujuks oma kodus. See ongi liitumine.
+**V:** Kasuta ühisosa märget #OperatsioonPeegel. Jaga sõnumit, kui tunned, et see aitab. Tule Combat Ready koolitusele, kui tahad sügavamat juhtimistreeningut. Kuula „Ava oma Silmad" taskuhäälingut. Osale Villido või tantralaagris, kui see on sinu tee. Või lihtsalt ela eeskujuks oma kodus. See ongi liitumine.
 
 *Minu küsimus sulle: Mida sina selle teadmisega täna teed — mitte homme?*
 ---
@@ -608,7 +675,7 @@ koos Combat Ready meeskonna ja partneritega
 
 **K (Budistlik rühmitus):** Teie „peegelneuronite" keel kõlab teadlikkuse praktikast. Kas te olete teadlikud, et see võib kattuda meditatsiooni ja eneseteadlikkuse õpetustega?
 
-**V:** Jah. Peegel on universaalne metafoor. Katrin Lukas tegeleb taskuhäälingus teadlikkuse ja ärkvelolekuga teistsugusel keelel — me austame seda. Operatsioon „Peegel" ei ole üks õige tee. See on üks tee — distsipliini, sõjalise selguse ja perekonna kaudu. Teie tee võib olla vaikus ja meditatsioon. Eesmärk on sama: ärkvel inimene, kes ei lase end manipuleerida.
+**V:** Jah. Peegel on universaalne metafoor. Katrin Lukas tegeleb taskuhäälingus teadlikkuse ja ärkvelolekuga teistsugusel keelel — me austame seda. Ingvar Villido pakub praktilist teadlikkust; tantravõrgustik pakub keha ja läheduse kaudu avanemist. Operatsioon „Peegel" ei ole üks õige tee. See on üks tee — distsipliini, sõjalise selguse ja perekonna kaudu. Teie tee võib olla vaikus, meditatsioon või tantra. Eesmärk on sama: ärkvel inimene, kes ei lase end manipuleerida.
 
 *Minu küsimus sulle: Millal sa viimati olid täielikult kohal — ilma telefonita?*
 ---

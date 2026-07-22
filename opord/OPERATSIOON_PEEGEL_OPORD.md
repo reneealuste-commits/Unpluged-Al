@@ -285,7 +285,7 @@ Operatsioon „Peegel" põhineb peegelneuronitel — ajus mehhanismil, mille abi
 ## a. Juhtimine
 | Roll | Isik | Side |
 |------|------|------|
-| Operatsiooni koordinaator | Renee Aluste | renee.aluste@combatready.eu |
+| Operatsiooni koordinaator | Renee Aluste | partnerlus ja koostöö (mitte üldine K&V postkast) |
 | Strateegiline nõu | Riho Ühtegi | avalik kanal |
 | Riigi tase | Rene Toomse | avalik kanal |
 | Äri/taktika | Remo Ojaste | remo.ojaste@combatready.eu |
@@ -329,7 +329,7 @@ koos Combat Ready meeskonna ja partneritega
 
 # KÜSIMUSED JA VASTUSED
 
-*Stsenaarium: Renee Aluste annab operatsiooni „Peegel" kohta pressikonverentsi ja vastab kodanike, ajakirjanike, poliitikute, usuringkondade esindajate ja skeptikute küsimustele. Küsimused on koostatud tüüpiliste reaktsioonide põhjal — nii toetavate kui ka kriitiliste.*
+*Stsenaarium: Renee Aluste vestleb operatsiooni „Peegel" teemadel — mitte valmis vastuste andjana, vaid küsimusi esitades. Allpool on tüüpilised küsimused, mida inimesed esitavad, ja Renee vastab ausalt — sageli pöörates vestluse tagasi kuulajale.*
 
 ---
 
@@ -625,8 +625,8 @@ koos Combat Ready meeskonna ja partneritega
 
 **K: Viimane küsimus. Ütle mulle ühe lausega, miks ma peaksin sind uskuma.**
 
-**V (Renee Aluste, vaikselt):** Ära usu mind. Usu enda kogemust. Ma olin seal, kus sa võib-olla oled — haavatud, pettunud, manipuleeritud. Ma tõusin üles. Ma ei palu sul uskuda sõnu. Ma palun sul vaadata oma ellu ausalt ja küsida: kas see, mida ma teen iga päev, ehitab mind üles või lõhub mind? Kui vastus on „lõhub" — siis on aeg muutuda. See on kogu operatsioon. Me oleme valmis. Kas sina oled?
+**V (Renee Aluste, vaikselt):** Ära usu mind. Usu enda kogemust. Ma olin seal, kus sa võib-olla oled — haavatud, pettunud, manipuleeritud. Ma tõusin üles. Ma ei palu sul uskuda sõnu ega saata mulle kirju. Ma küsin: kas see, mida sa iga päev teed, ehitab sind üles või lõhub sind? Kui vastus on „lõhub" — siis on aeg muutuda. See on kogu operatsioon. Me oleme valmis. Kas sina oled?
 
 ---
 
-*Küsimuste korral: renee.aluste@combatready.eu | #OperatsioonPeegel*
+*Ma ei oota sinult küsimusi. Ma küsin sulle vastu: mida sa ise teed? Alusta sealt. #OperatsioonPeegel*

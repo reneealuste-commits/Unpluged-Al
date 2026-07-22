@@ -52,6 +52,8 @@
 │ ├─ Her Way (naised) │   │                            │   │ (inimeste juhtimine) │
 │ ├─ Youth / Super-   │   │                            │   │                      │
 │ │  mängud (Jäppinen)│   │                            │   │                      │
+│ ├─ Pertinax (Ojaots)│   │                            │   │                      │
+│ │  mereväe meeskond │   │                            │   │                      │
 │ └─ Remo, Priit…     │   │                            │   │                      │
 └─────────┬──────────┘   └────────────────────────────┘   └──────────┬──────────┘
           │                                                            │
@@ -238,6 +240,13 @@
 - **Taust:** Endine Eesti sõjaväelane; Spetsiaalsete Operatsioonide Grupi asutaja ja endine ülem. Ju-jutsu treener (Goshin klubi, Eesti Ju-Jutsu Liit); turvaekspert. MTÜ Laskespordiklubi Taktikaline Grupp asutaja ja treener (Harku vald, Muraste/Kütke) — võitlussport ja jahipraktiline laskmine. Tõi Eestisse Soomest modernse ju-jutsu.
 - **Miks ta on siin:** Vaimne vastupidavus vajab kehalist alust. Ambros tegutseb seal, kus inimesed elavad — Harku piirkonnas — ja õpetab, et tugev keha ja oskus end kaitsta on osa kodaniku valmisolekust, mitte agressioonist.
 
+#### Aigar Ojaots — MTÜ Team Pertinax (mereväe meeskond)
+
+- **Roll operatsioonis:** Mereväe-kultuuriga meeskonna eestvedaja; eneseteadlike ja tugevate ettevõtjate koolitamine operatsiooni võrgustikus.
+- **Taust:** Ettevõtja ja juht (Thermory AS nõukogu liige; mitmed ettevõtted). MTÜ Team Pertinax kaasasutaja ja juhatuse liige (asutatud 2023). Pertinax on mereväe vaimsuse ja distsipliiniga seotud meeskond — juba ~20 liiget, kes treenivad koos tugevaks ja eneseteadlikuks. Koolitus ja vabaaja tegevused: juhtimine, meeskond, füüsiline ja vaimne vastupidavus. Renee Alustega ühised treeningud tugevate inimeste kasvatamiseks.
+- **Miks ta on siin:** Operatsioon vajab mitte ainult sõnumit, vaid inimesi, kes elavad seda. Pertinax ühendab mereväelikku distsipliini, ettevõtlikkust ja eneseteadlikkust — täpselt see, mida kodanik vajab, kui infosõda püüab teda nõrgaks teha. Mereväe meeskond tsiviilis: ausus, vastutus, treening, mitte ainult lipukiri.
+- **Kontakt:** MTÜ Team Pertinax (reg. 80634291)
+
 #### Eero Kinnunen — Eesti Kaitseväe Veteranid
 
 ![Eero Kinnunen](images/profiles/eero-kinnunen.jpg)
@@ -323,7 +332,7 @@
 | Kõrgem | Eesti riik, Kaitsevägi, Kaitsepolitseiamet | Ametlik infosõja tõrje — hea, kuid kõik ei jõua kodanikuni |
 | Strateegiline | Eerik Heldna (kriisireguleerimine), Elmar Vaher (RKIK) | Kriisivalmidus ja kaitseinvesteeringud — aktiivne |
 | Operatiivne | Kaitseväe Akadeemia, Kaitseliit | Juhtide koolitus, kogukonna kaitse — tugev |
-| Taktikaline | Combat Ready (+ Her Way, Youth/Supermängud) | Juhtimiskoolitus, ülim vastutus — aktiivne |
+| Taktikaline | Combat Ready (+ Her Way, Youth/Supermängud, Pertinax) | Juhtimiskoolitus, ülim vastutus — aktiivne |
 | Strateegiline kommunikatsioon | Taavi Karotamme, Arvo Jõesalu | Kaitseväe ja Kaitseliidu strateegiline kommunikatsioon — aktiivne |
 | Haridus | Techno TLN (Ott Pärna), KVA juhtkond, RaM Kool (Elmar Vaher) | Kutse-, juhtimis- ja väärtusharidus — aktiivne (Lisa J) |
 | Kohalik | Peeter Järvsoo (Noorte Kotkad), Andrei Ambros (Harku) | Noored ja piirkondlik vastupanuvõime — aktiivne |
@@ -339,7 +348,7 @@
 
 ## c. Tugevdused ja vähendused
 
-- **Tugevused:** Renee Aluste (isiklik kogemus + sõjaline väljaõpe); Combat Ready meeskond (sh Her Way, Youth); Riho Ühtegi rahvuslik autoriteet; Rene Toomse strateegiline nägemus; Eerik Heldna kriisireguleerimine; Elmar Vaher kaitseinvesteeringute ja juhtimiskogemus; Taavi Karotamme ja Arvo Jõesalu strateegilise kommunikatsiooni kogemus; Steigeri inimesekeskne juhtimine kui SOP (Lisa I); teadlikkuse võrgustik (Lukas, Villido, tantralaagrid, Pühali); veteranid (Kinnunen); kohalikud allüksused (Järvsoo, Ambros); inimeste juhtimine (Sillaste).
+- **Tugevused:** Renee Aluste (isiklik kogemus + sõjaline väljaõpe); Combat Ready meeskond (sh Her Way, Youth, Pertinax); Riho Ühtegi rahvuslik autoriteet; Rene Toomse strateegiline nägemus; Eerik Heldna kriisireguleerimine; Elmar Vaher kaitseinvesteeringute ja juhtimiskogemus; Taavi Karotamme ja Arvo Jõesalu strateegilise kommunikatsiooni kogemus; Steigeri inimesekeskne juhtimine kui SOP (Lisa I); teadlikkuse võrgustik (Lukas, Villido, tantralaagrid, Pühali); veteranid (Kinnunen); kohalikud allüksused (Järvsoo, Ambros); inimeste juhtimine (Sillaste).
 - **Vähendused:** Puuduv ametlik riiklik volitus (kodanikualgatus); piiratud eelarve; sõltuvus vabatahtlikust osalusest.
 
 ---
@@ -360,7 +369,7 @@ Operatsioon „Peegel" põhineb peegelneuronitel — ajus mehhanismil, mille abi
 
 **Faas I — Teadvustamine (kuud 1–3):** Ava silmad. Tuvasta manipulatsioon. Jälgi oma infokäitumist. Vähenda algoritmidele allumist. Alusta eneseanalüüsiga.
 
-**Faas II — Tugevdamine (kuud 4–8):** Ehita harjumusi. Perekonna aeg. Füüsiline liikumine. Mentorlus. Combat Ready ja võrgustiku koolitused. Combat Ready | Her Way (naised). Combat Ready Youth ja Laste Supermängud (Tanel Jäppinen). „Ava oma Silmad" taskuhääling teadlikkuseks. Ingvar Villido Practical Consciousness kursused. Tantralaagrid ja Eesti Tantrafestival (Earthchild, Skalkina, Sarmet, Saul). Pühali Hea Elu Keskus — loodus, sauna, puhkus (Sõõrumaa). Noorte Kotkad (Järvsoo). Harku piirkond (Ambros). Veteranide tugi (Kinnunen).
+**Faas II — Tugevdamine (kuud 4–8):** Ehita harjumusi. Perekonna aeg. Füüsiline liikumine. Mentorlus. Combat Ready ja võrgustiku koolitused. Combat Ready | Her Way (naised). Combat Ready Youth ja Laste Supermängud (Tanel Jäppinen). MTÜ Team Pertinax treeningud (Aigar Ojaots, mereväe meeskond). „Ava oma Silmad" taskuhääling teadlikkuseks. Ingvar Villido Practical Consciousness kursused. Tantralaagrid ja Eesti Tantrafestival (Earthchild, Skalkina, Sarmet, Saul). Pühali Hea Elu Keskus — loodus, sauna, puhkus (Sõõrumaa). Noorte Kotkad (Järvsoo). Harku piirkond (Ambros). Veteranide tugi (Kinnunen).
 
 **Faas III — Peegeldamine (kuud 9–12):** Oma kogukonnas eeskujuks. Räägi teistega. Toeta naabrit, kolleegi, sõpra. Iga tugev isa, iga toetav ema, iga mentor on võit.
 
@@ -428,6 +437,11 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 1. Spordi- ja vastupanuvõime programmid Harku vallas ja naabruses (ju-jutsu, laskmine, enesekaitse).
 2. Füüsilise valmisoleku tõstmine peredes ja noortes — trenn, mitte hirm.
 3. Koostöö Combat Ready ja Kaitseliidu kohalike struktuuridega.
+
+### Aigar Ojaots / MTÜ Team Pertinax (mereväe meeskond)
+1. Pertinax meeskonna (~20 liiget) treeningud: tugevad, eneseteadlikud ettevõtjad ja juhid.
+2. Mereväe distsipliini ja meeskonnatöö põhimõtete levitamine tsiviilkanalisse.
+3. Ühised treeningud Renee Alustega ja operatsiooni võrgustikuga — füüsiline ja vaimne vastupidavus.
 
 ### Ott Pärna / Techno TLN (haridustase, vt Lisa J)
 1. Viia kutsehariduse sõnum noorteni: praktiline oskus on vastupanuvõime osa.
@@ -544,6 +558,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Noored / pered | Tanel Jäppinen | tanel.jappinen@combatready.eu |
 | Noorte Kotkad | Peeter Järvsoo | nooredkotkad.ee |
 | Harku piirkond | Andrei Ambros | estjutsu.ee / Taktikaline Grupp |
+| Mereväe meeskond | Aigar Ojaots / MTÜ Pertinax | Team Pertinax MTÜ |
 | Veteranid | Eero Kinnunen | ekvv.ee |
 | Supervisioon | Marge Sillaste | margemargarethe@gmail.com |
 | Haridus | Ott Pärna / Techno TLN | techno.ee (Lisa J — täielik juhtkond) |
@@ -558,6 +573,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Taskuhääling:** „Ava oma Silmad" (Katrin Lukas)
 - **Naiste kanal:** combatreadyherway.eu (Combat Ready | Her Way)
 - **Noored:** Combat Ready Youth / Laste Supermängud (Tanel Jäppinen)
+- **Mereväe meeskond:** MTÜ Team Pertinax (Aigar Ojaots)
 - **Veteranid:** ekvv.ee (Eero Kinnunen)
 - **Noorte Kotkad:** nooredkotkad.ee
 - **Teadlik muutus:** lilleoru.ee, practicalconsciousness.org (Ingvar Villido)
@@ -1023,6 +1039,13 @@ koos Combat Ready meeskonna ja partneritega
 **V:** Rocca al Mare (RaM Kool) on Tallinna väärtuskool, kus laps õpib mitte ainult aineid, vaid ka väärtusi, kriitilist mõtlemist ja kiusuennetust. Kooli asutaja Hannes Tamjärv on kooli perepea; direktor on Sirje Toomla-Õige. Elmar Vaheri lapsed õpivad siin — ta on kooliperega seotud lapsevanema ja juhtimisnõustajana. Helin Vaher on kommunikatsiooniekspert ja lapsevanem. Kui operatsiooni võtmes mõtleme haridusele, siis RaM Kool on näide, kuidas kool saab olla vastupanuvõime kants, mitte ainult eksamite tehas. Täielik juhtkond koos fotodega on **Lisa J**.
 
 *Minu küsimus sulle: Kas su lapse kool õpetab teda kontrollima allikaid — või ainult õppima vastuseid pähe?*
+---
+
+**K: Kes on Aigar Ojaots ja mis on MTÜ Pertinax?**
+
+**V:** Aigar Ojaots on ettevõtja ja MTÜ Team Pertinax kaasasutaja. Pertinax on mereväe vaimsuse ja distsipliiniga seotud meeskond — juba umbes 20 liiget, kes treenivad koos, et olla tugevad ja eneseteadlikud. Mitte teooria, vaid treening: juhtimine, meeskond, füüsiline ja vaimne vastupidavus. Renee treenib nendega koos. Operatsioonis tähendab see: kodanik, kes on treeninud end tugevaks, murrab infosõja mõju kergemini.
+
+*Minu küsimus sulle: Kas sa treenid end vaimselt ja füüsiliselt — või ootad, et keegi teine sind kaitseb?*
 ---
 
 **K: Mis on Combat Ready for Her / Her Way?**

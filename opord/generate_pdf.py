@@ -34,6 +34,7 @@ BOOK_FILES = [
     "raamat-07-juhi-ja-voida.md",
     "lisa-h-kiirjuhend-kriisis-isale.md",
     "lisa-i-inimesekeskne-juhtimine.md",
+    "lisa-j-haridusasutuste-juhtkonnad.md",
 ]
 
 

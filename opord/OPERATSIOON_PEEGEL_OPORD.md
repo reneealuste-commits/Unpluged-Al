@@ -55,15 +55,17 @@
 │ └─ Remo, Priit…     │   │                            │   │                      │
 └─────────┬──────────┘   └────────────────────────────┘   └──────────┬──────────┘
           │                                                            │
-          └────────────────────────────┬───────────────────────────────┘
-                                       │
-                    ┌──────────────────▼───────────────────────┐
-                    │  KOHALIKUD ALLÜKSUSED (taktikaline)      │
-                    │  Peeter Järvsoo — Noorte Kotkad (rühm)   │
-                    │  Andrei Ambros — Harku (sport/vastupanuv.)│
-                    └──────────────────┬───────────────────────┘
-                                       │
-                    ┌──────────────────▼───────────────────────┐
+          ├──────────────────────┬─────────────────────────────────────┘
+          │                      │
+┌─────────▼──────────┐   ┌─────────▼──────────┐
+│ HARIDUSTASE        │   │ KOHALIKUD ALLÜKSUSED│
+│ Techno TLN (Pärna) │   │ Järvsoo, Ambros     │
+│ KVA juhtkond       │   │ (vt Lisa J)         │
+└─────────┬──────────┘   └─────────┬──────────┘
+          │                        │
+          └────────────┬───────────┘
+                       │
+                    ┌──▼───────────────────────────────────────┐
                     │  RAHVA TASE — PÕHIPINGUTUSÜKSUS          │
                     │  Renee Aluste (koordinaator)             │
                     │  Priit Lilleväli, võrgustiku liikmed     │
@@ -249,6 +251,14 @@
 - **Taust:** Tervishoiu ja supervisiooni valdkonna praktik (FIE, alates 2017). Pakub supervisiooni, coachingut ja terapeutilist tuge — keskendub inimestele, mitte vaid protsessidele. Töötab tugiteenuste kontekstis, kus juhid ja spetsialistid vajavad peegeldust, mitte järjekordset kontrollnimekirja.
 - **Miks ta on siin:** Operatsioon „Peegel" ütleb: inimesekeskne juhtimine (Lisa I) ei ole ainult kaitseväe teema. Sillaste aitab neil, kes teenivad teisi — juhid, mentorid, tugispetsialistid — mitte läbi põleda ega muutuda masinaks. Ta juhib inimesi, mitte protsesse.
 
+#### Ott Pärna / Tallinna Tehnoloogiakolledž Techno TLN — Haridustase
+
+![Ott Pärna](images/profiles/schools/ott-parna.jpg)
+
+- **Roll operatsioonis:** Haridustaseme strateegiline partner; kutse- ja tehnoloogiahariduse eestvedaja noorte vastupanuvõimes.
+- **Taust:** PhD, ettevõtja, TU majandusteaduskonna külalisprofessor. Techno TLN direktor — nelja kutsekooli ühendamisel riigi suurim tehnoloogiakolledž (~6000 õppijat). Eesmärk: muuta rakenduslik keskharidus noorte esimeseks valikuks.
+- **Miks ta on siin:** Kool on koht, kus laps veedab suure osa päevast pärast kodu. Kui kool õpetab praktilist oskust, kriitilist mõtlemist ja vastutust — infosõda ei saa teda nii kergesti murda. Täielik Techno TLN juhtkond: **Lisa J**.
+
 #### Võrgustiku toetajad (taktikaline tase)
 - **Martin Plaser** — maadlustreener; füüsilise distsipliini ja meelekindluse edendaja.
 - **Nils Ratt, Priit Uuemaa, Sverre Puustusmaa, Marko Kaseleht, Aleksandr Afanasiev** — kogukonna ja võrgustiku liikmed; kohalikud eestvedajad ja mentorid.
@@ -314,6 +324,7 @@
 | Operatiivne | Kaitseväe Akadeemia, Kaitseliit | Juhtide koolitus, kogukonna kaitse — tugev |
 | Taktikaline | Combat Ready (+ Her Way, Youth/Supermängud) | Juhtimiskoolitus, ülim vastutus — aktiivne |
 | Strateegiline kommunikatsioon | Taavi Karotamme, Arvo Jõesalu | Kaitseväe ja Kaitseliidu strateegiline kommunikatsioon — aktiivne |
+| Haridus | Techno TLN (Ott Pärna), KVA juhtkond | Kutse- ja juhtimisharidus — aktiivne (Lisa J) |
 | Kohalik | Peeter Järvsoo (Noorte Kotkad), Andrei Ambros (Harku) | Noored ja piirkondlik vastupanuvõime — aktiivne |
 | Rahva tase | Operatsioon „Peegel" võrgustik | KÄIVITATUD — see käsk |
 | Toetus | Katrin Lukas / „Ava oma Silmad" | Teadlikkuse kanal — aktiivne |
@@ -417,6 +428,11 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 2. Füüsilise valmisoleku tõstmine peredes ja noortes — trenn, mitte hirm.
 3. Koostöö Combat Ready ja Kaitseliidu kohalike struktuuridega.
 
+### Ott Pärna / Techno TLN (haridustase, vt Lisa J)
+1. Viia kutsehariduse sõnum noorteni: praktiline oskus on vastupanuvõime osa.
+2. Luua koostöö Combat Ready Youth, Laste Supermängud ja tööstusega.
+3. Koordineerida Techno TLN juhtkonna (9 liiget) operatsiooni Faas II–III ülesannetega.
+
 ### Marge Sillaste (tugiteenused, inimeste juhtimine)
 1. Supervisioon ja coaching juhtidele, mentoritele ja tugispetsialistidele — inimeste juhtimine, mitte protsesside kontroll.
 2. Steigeri inimesekeskse juhtimise põhimõtete rakendamine Lisa I järgi praktikas.
@@ -486,7 +502,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Klass | Sisu |
 |-------|------|
 | **I (toit)** | Soe pere eine 1× nädalas — ilma ekraanideta |
-| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*, Kaitseväe Akadeemia materjalid; laagrid: Eesti Tantrafestival, Tantra Tribe, Practical Consciousness; taastumine: Pühali Hea Elu Keskus (puhali.ee) |
+| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad); „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*, Kaitseväe Akadeemia materjalid; laagrid: Eesti Tantrafestival, Tantra Tribe, Practical Consciousness; taastumine: Pühali Hea Elu Keskus (puhali.ee) |
 | **III (kütus)** | Uni 7–8h; liikumine 30 min/päev |
 | **V (laskemoon)** | Sõnad — kasuta neid mõistlikult. Iga sõnum on lask |
 | **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber |
@@ -529,6 +545,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Harku piirkond | Andrei Ambros | estjutsu.ee / Taktikaline Grupp |
 | Veteranid | Eero Kinnunen | ekvv.ee |
 | Supervisioon | Marge Sillaste | margemargarethe@gmail.com |
+| Haridus | Ott Pärna / Techno TLN | techno.ee (Lisa J — täielik juhtkond) |
 | Akadeemiline tugi | Aarne Ermus | Kaitseväe Akadeemia |
 
 **Juhtimiskett:** Renee Aluste → Remo Ojaste → võrgustiku liikmed → iga kodanik iseenda juht.
@@ -546,6 +563,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Taastumine looduses:** puhali.ee (Pühali Hea Elu Keskus, Urmas Sõõrumaa)
 - **Kriis (isad):** Lisa H — `lisad/lisa-h-kiirjuhend-kriisis-isale.md`
 - **Juhtimine (SOP):** Lisa I — `lisad/lisa-i-inimesekeskne-juhtimine.md` (Steiger 1997, ISBN 9985901274)
+- **Koolijuhtkonnad:** Lisa J — `lisad/lisa-j-haridusasutuste-juhtkonnad.md` (Techno TLN, KVA)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
 - **Signaal OPERATSIOON TÄIDETUD:** Kui ühiskondlikud mõõdikud näitavad paranemist — üksikemade arv langeb, kiusamine väheneb, inimesed räägivad vastutusest.
 
@@ -1012,6 +1030,13 @@ koos Combat Ready meeskonna ja partneritega
 *Minu küsimus sulle: Mis on üks asi, mida sa täna teed koos oma lapsega ilma ekraanita?*
 ---
 
+**K: Kes on Ott Pärna ja miks on Techno TLN operatsioonis?**
+
+**V:** Ott Pärna juhib Tallinna Tehnoloogiakolledžit Techno TLN — nelja kutsekooli ühendamisel sündinud riigi suurimat tehnoloogiahariduse keskust. Umbes 6000 noort. Tema sõnum: rakenduslik haridus ei ole „järeleandmine" — see on tulevik. Kool on koht, kus laps veedab suure osa ajast. Kui seal õpetatakse praktilist oskust ja vastutust, on see operatsiooni võit. Täielik juhtkond koos fotodega on **Lisa J**.
+
+*Minu küsimus sulle: Kas sa tead, millised praktilised oskused sinu laps tulevikus vajab?*
+---
+
 ## XI. Lõplik vahetus (rollimäng)
 
 **K: Viimane küsimus. Ütle mulle ühe lausega, miks ma peaksin sind uskuma.**
@@ -1044,6 +1069,7 @@ Need seitse köidet täiendavad käesolevat lahingukäsku. Iga köide on iseseis
 | **G** | 7/7 | `lisad/raamat-07-juhi-ja-voida.md` | Juhi ja võida — kogukond ja kutse |
 | **H** | — | `lisad/lisa-h-kiirjuhend-kriisis-isale.md` | Kiirjuhend kriisis isale — kriisiteekond ja lugemisjärjekord |
 | **I** | — | `lisad/lisa-i-inimesekeskne-juhtimine.md` | Inimesekeskne juhtimine (Steiger 1997) — SOP ja Liibanonist õppetund |
+| **J** | — | `lisad/lisa-j-haridusasutuste-juhtkonnad.md` | Haridusasutuste juhtkonnad — Techno TLN ja KVA meeskonnad profiilipiltidega |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).
 

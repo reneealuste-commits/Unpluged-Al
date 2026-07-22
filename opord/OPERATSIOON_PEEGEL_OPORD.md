@@ -133,6 +133,11 @@
 - **Taust:** Kundalini joogaõpetaja, tantraõpetaja, rännakumeetodi praktik. Pikaajaline koostöö Margus Sarmetiga (Tantra Tribe, Eesti Tantrafestival, Tantra ABC töötoad). Õpingud Karam Kriya koolis, klassikaline ja neotantra, Shivoham Tantra liin. Korraldab Naiste Väeringeid ja teadlikkuse koolitusi.
 - **Miks ta on siin:** Saul on see inimene, kelle juures paljud on esimest korda tantraga kokku puutunud ja kogenud tõelist vabanemist. Operatsioon „Peegel" tunnistab: inimesed leiavad tee tagasi enda juurde erinevate uste kaudu — ka tantra ja jooga kaudu.
 
+#### Urmas Sõõrumaa — Pühali Hea Elu Keskus
+- **Roll operatsioonis:** Heaolu- ja puhkekeskuse eestvedaja; looduslik keskkond keha ja vaimu taastamiseks; ürituste ja praktikate korraldamine.
+- **Taust:** Ettevõtja, Pühali Hea Elu Keskuse (endine Adila heaolu- ja puhkekeskus) asutaja ja omanik. Keskus asub Pihali külas (Kohila vald, Raplamaa) — saunad, spordiväljakud, majutus, rabamets ja Pühali Hiis. Sõõrumaa seostab koha oma esivanemate ajalooga (vähemalt 12 põlvkonda) ja missiooniga taastada küla elujõudu. Korraldab üritusi, puhkust ja keha-vaimu praktikaid looduses.
+- **Miks ta on siin:** Infosõja väsimus ei ole ainult vaimne — see on ka kehaline. Pühali pakub ruumi, kus inimene saab väljuda algoritmist: sauna, rabas jalutada, hiies vaikida, hingetõmmata. See on operatsiooni „ava silmad" missioon looduse ja hea elu kaudu.
+
 #### Taavi Karotamm — Strateegiline kommunikatsioon
 - **Roll operatsioonis:** Strateegilise kommunikatsiooni eestvedaja; sõnumite selgus, kriisikommunikatsioon ja avalik usaldus.
 - **Taust:** Major, Kaitseväe peastaabi pressijaoskonna ülem. Pikaaegne kaitseväe kommunikatsioonispetsialist; juhib meeskonda, planeerib kommunikatsioonitegevusi ja kriisistsenaariume. Kogemus koostöös riiklike ja rahvusvaheliste partneritega. Renee Aluste ajateenistuse kaaslane Vahipataljonist (2009–2010); kohtusid uuesti Estpla-21 raames UNIFIL-i Liibanonis (2015) — töötasid koos umbes seitse kuud Soome-Iiri pataljoni koosseisus.
@@ -211,12 +216,13 @@
 | Toetus | Katrin Lukas / „Ava oma Silmad" | Teadlikkuse kanal — aktiivne |
 | Toetus | Ingvar Villido / Practical Consciousness | Teadliku muutuse kunst — aktiivne |
 | Toetus | Eesti Tantrafestivali võrgustik (Earthchild, Skalkina, Sarmet, Saul) | Tantralaagrid ja festivalid — aktiivne |
+| Toetus | Urmas Sõõrumaa / Pühali Hea Elu Keskus | Heaolu, loodus, puhkus — aktiivne |
 
 **Kõrgema üksuse kavatsus:** Kaitsta Eesti inimeste vaimset ja füüsilist julgeolekut. See operatsioon toetab seda eesmärki, mitte ei asenda riiklikku kaitset.
 
 ## c. Tugevdused ja vähendused
 
-- **Tugevused:** Renee Aluste (isiklik kogemus + sõjaline väljaõpe); Combat Ready meeskond; Riho Ühtegi rahvuslik autoriteet; Rene Toomse strateegiline nägemus; Taavi Karotamm ja Arvo Jõesalu strateegilise kommunikatsiooni kogemus; Steigeri inimesekeskne juhtimine kui SOP (Lisa I); teadlikkuse võrgustik (Lukas, Villido, tantralaagrid).
+- **Tugevused:** Renee Aluste (isiklik kogemus + sõjaline väljaõpe); Combat Ready meeskond; Riho Ühtegi rahvuslik autoriteet; Rene Toomse strateegiline nägemus; Taavi Karotamm ja Arvo Jõesalu strateegilise kommunikatsiooni kogemus; Steigeri inimesekeskne juhtimine kui SOP (Lisa I); teadlikkuse võrgustik (Lukas, Villido, tantralaagrid, Pühali).
 - **Vähendused:** Puuduv ametlik riiklik volitus (kodanikualgatus); piiratud eelarve; sõltuvus vabatahtlikust osalusest.
 
 ---
@@ -237,7 +243,7 @@ Operatsioon „Peegel" põhineb peegelneuronitel — ajus mehhanismil, mille abi
 
 **Faas I — Teadvustamine (kuud 1–3):** Ava silmad. Tuvasta manipulatsioon. Jälgi oma infokäitumist. Vähenda algoritmidele allumist. Alusta eneseanalüüsiga.
 
-**Faas II — Tugevdamine (kuud 4–8):** Ehita harjumusi. Perekonna aeg. Füüsiline liikumine. Mentorlus. Combat Ready ja võrgustiku koolitused. „Ava oma Silmad" taskuhääling teadlikkuseks. Ingvar Villido Practical Consciousness kursused. Tantralaagrid ja Eesti Tantrafestival (Earthchild, Skalkina, Sarmet, Saul) — keha ja hinge taasühendamine.
+**Faas II — Tugevdamine (kuud 4–8):** Ehita harjumusi. Perekonna aeg. Füüsiline liikumine. Mentorlus. Combat Ready ja võrgustiku koolitused. „Ava oma Silmad" taskuhääling teadlikkuseks. Ingvar Villido Practical Consciousness kursused. Tantralaagrid ja Eesti Tantrafestival (Earthchild, Skalkina, Sarmet, Saul). Pühali Hea Elu Keskus — loodus, sauna, puhkus (Sõõrumaa).
 
 **Faas III — Peegeldamine (kuud 9–12):** Oma kogukonnas eeskujuks. Räägi teistega. Toeta naabrit, kolleegi, sõpra. Iga tugev isa, iga toetav ema, iga mentor on võit.
 
@@ -292,6 +298,11 @@ Renee Aluste ja Taavi Karotamm teenisid koos UNIFIL-i Liibanonis Soome-Iiri pata
 3. Kogukonna loomine, kus inimesed leiavad end uuesti — ilma alkoholi ja manipulatsiooni abita.
 4. Tantra Tribe, Tantratants ja seotud üritused — vt tantrafest.ee, tantratants.ee, kristiinasaul.ee.
 
+### Urmas Sõõrumaa / Pühali Hea Elu Keskus (heaolu ja loodus)
+1. Puhke- ja taastumiskeskus Raplamaal — sauna, rabas jalutamine, Pühali Hiis, spord ja majutus.
+2. Ürituste ja praktikate korraldamine, mis toetavad keha-vaimu tasakaalu.
+3. Võimalus lahkuda digitaalsest müra keskkonnast ja laadida end looduses — enne kui jätkad operatsiooni koduses rindejoones.
+
 ### Taavi Karotamm / Arvo Jõesalu (strateegiline kommunikatsioon)
 1. Operatsiooni sõnumite selgus ja läbipaistvus — ilma propaganda keeleta.
 2. Kriisikommunikatsiooni standardid kodanikualgatusele (vt Lisa I).
@@ -314,7 +325,7 @@ Renee Aluste ja Taavi Karotamm teenisid koos UNIFIL-i Liibanonis Soome-Iiri pata
 | **„Juhul kui…"** | Kui tunned, et langed tagasi manipulatsiooni — pöördu mentorini, sõbra poole või professionaali poole. See on tugevus, mitte nõrkus. |
 | **„Juhul kui…" (isa kriisis)** | Alusta Lisast F (*Murra ring*), siis A, D, E. Kiirjuhend: Lisa H. Kriis: Eluliin 655 8088. |
 | **„Juhul kui…" (juhtimine)** | Loe Lisa I (Steiger 1997). Küsi: kas ma juhin inimest või kontrollin teda? |
-| **„Juhul kui…" (keha suletud)** | Kui tunned end emotsionaalselt külmutatuna — kaaluge tantralaagrit või festivali (tantrafest.ee) või Villido kursust (lilleoru.ee). Kriisis: Lisa H esimesena. |
+| **„Juhul kui…" (keha suletud)** | Kui tunned end emotsionaalselt külmutatuna — kaaluge tantralaagrit või festivali (tantrafest.ee), Villido kursust (lilleoru.ee) või puhkust Pühalis (puhali.ee). Kriisis: Lisa H esimesena. |
 | **Lahingureeglid** | Ei ründa. Ei laima. Ei vihka. Ei manipuleeri. Peegeldame tervist, mitte haigust. |
 | **Tagasiside** | Igakuine tagasiside võrgustikule: mis töötab, mis mitte. Kanal: operatsiooni koordinaator. |
 
@@ -330,7 +341,7 @@ Renee Aluste ja Taavi Karotamm teenisid koos UNIFIL-i Liibanonis Soome-Iiri pata
 | Klass | Sisu |
 |-------|------|
 | **I (toit)** | Soe pere eine 1× nädalas — ilma ekraanideta |
-| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*, Kaitseväe Akadeemia materjalid; laagrid: Eesti Tantrafestival, Tantra Tribe, Practical Consciousness |
+| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*, Kaitseväe Akadeemia materjalid; laagrid: Eesti Tantrafestival, Tantra Tribe, Practical Consciousness; taastumine: Pühali Hea Elu Keskus (puhali.ee) |
 | **III (kütus)** | Uni 7–8h; liikumine 30 min/päev |
 | **V (laskemoon)** | Sõnad — kasuta neid mõistlikult. Iga sõnum on lask |
 | **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber |
@@ -362,6 +373,7 @@ Renee Aluste ja Taavi Karotamm teenisid koos UNIFIL-i Liibanonis Soome-Iiri pata
 | Tantra / laagrid | Bella Skalkina | tantrafest.ee / anahata.fi |
 | Tantra / laagrid | Margus Sarmet | tantratants.ee / tantrafest.ee |
 | Tantra / laagrid | Kristiina Saul | kristiinasaul.ee / tantrafest.ee |
+| Heaolu / loodus | Urmas Sõõrumaa | puhali.ee (Pühali Hea Elu Keskus) |
 | Strateegiline kommunikatsioon | Taavi Karotamm | mil.ee (Kaitsevägi) |
 | Strateegiline kommunikatsioon | Arvo Jõesalu | Kaitseliit |
 | Akadeemiline tugi | Aarne Ermus | Kaitseväe Akadeemia |
@@ -374,6 +386,7 @@ Renee Aluste ja Taavi Karotamm teenisid koos UNIFIL-i Liibanonis Soome-Iiri pata
 - **Taskuhääling:** „Ava oma Silmad" (Katrin Lukas)
 - **Teadlik muutus:** lilleoru.ee, practicalconsciousness.org (Ingvar Villido)
 - **Tantralaagrid:** tantrafest.ee, tantratants.ee, kristiinasaul.ee
+- **Taastumine looduses:** puhali.ee (Pühali Hea Elu Keskus, Urmas Sõõrumaa)
 - **Kriis (isad):** Lisa H — `lisad/lisa-h-kiirjuhend-kriisis-isale.md`
 - **Juhtimine (SOP):** Lisa I — `lisad/lisa-i-inimesekeskne-juhtimine.md` (Steiger 1997, ISBN 9985901274)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
@@ -542,9 +555,16 @@ koos Combat Ready meeskonna ja partneritega
 
 **K: Kas ma pean minema tantrafestivalile, et operatsioonist kasu saada?**
 
-**V:** Ei. Operatsioon on tasuta ja kättesaadav ilma festivalita. Aga kui sa tunned, et su keha on su mõistusest ees kinni — ja sa oled valmis — tantrafest.ee ja tantratants.ee on üks võimalik tee. Ingvar Villido kursused on teine. Katrin Lukase taskuhääling kolmas. Combat Ready neljas. Vali see, mis sulle sobib. Me ei müü ühtegi neist teistele peale.
+**V:** Ei. Operatsioon on tasuta ja kättesaadav ilma festivalita. Aga kui sa tunned, et su keha on su mõistusest ees kinni — ja sa oled valmis — tantrafest.ee ja tantratants.ee on üks võimalik tee. Ingvar Villido kursused on teine. Pühali Hea Elu Keskus (puhali.ee) kolmas — loodus, sauna, vaikus. Katrin Lukase taskuhääling neljas. Combat Ready viies. Vali see, mis sulle sobib. Me ei müü ühtegi neist teistele peale.
 
 *Minu küsimus sulle: Mis on sinu jaoks turvaline ruum — ja kas sa seda täna lood?*
+---
+
+**K: Mis on Pühali Hea Elu Keskus ja miks Urmas Sõõrumaa on operatsioonis?**
+
+**V:** Pühali on Raplamaal asuv heaolu- ja puhkekeskus — saunad, rabamets, hiis, spord, majutus. Urmas Sõõrumaa on selle eestvedaja; tema jaoks on see ka missioon: taastada koht, kus tema esivanemad on elanud. Operatsioonis „Peegel" tähendab Pühali seda, et mõnikord pead silmad avama, lahkudes ekraanist. Mitte kõik vajavad tantrat ega kursust. Mõni vajab lihtsalt metsa, sauna ja aega iseendaga. See on sama võit — taastumine enne jätkamist.
+
+*Minu küsimus sulle: Millal sa viimati olid looduses ilma telefonita?*
 ---
 
 **K: Kas Aarne Ermus ja Kaitseväe Akadeemia toetavad seda ametlikult?**
@@ -565,7 +585,7 @@ koos Combat Ready meeskonna ja partneritega
 
 **K: Kuidas ma saan liituda või aidata?**
 
-**V:** Kasuta ühisosa märget #OperatsioonPeegel. Jaga sõnumit, kui tunned, et see aitab. Tule Combat Ready koolitusele, kui tahad sügavamat juhtimistreeningut. Kuula „Ava oma Silmad" taskuhäälingut. Osale Villido või tantralaagris, kui see on sinu tee. Või lihtsalt ela eeskujuks oma kodus. See ongi liitumine.
+**V:** Kasuta ühisosa märget #OperatsioonPeegel. Jaga sõnumit, kui tunned, et see aitab. Tule Combat Ready koolitusele, kui tahad sügavamat juhtimistreeningut. Kuula „Ava oma Silmad" taskuhäälingut. Osale Villido või tantralaagris, kui see on sinu tee. Mine Pühalisse, kui vajad loodust ja puhkust. Või lihtsalt ela eeskujuks oma kodus. See ongi liitumine.
 
 *Minu küsimus sulle: Mida sina selle teadmisega täna teed — mitte homme?*
 ---

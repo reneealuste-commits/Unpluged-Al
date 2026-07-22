@@ -15,17 +15,23 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | 5/7 | [raamat-05-pere-rindejoon.md](raamat-05-pere-rindejoon.md) | **Pere rindejoon** — perekond kui esimene kaitsejoon infosõjas |
 | 6/7 | [raamat-06-murra-ring.md](raamat-06-murra-ring.md) | **Murra ring** — depressioon, manipulatsiooni tsükkel, abi otsimine |
 | 7/7 | [raamat-07-juhi-ja-voida.md](raamat-07-juhi-ja-voida.md) | **Juhi ja võida** — kogukonna juhtimine, Operatsioon „Peegel" kutse |
+| H | [lisa-h-kiirjuhend-kriisis-isale.md](lisa-h-kiirjuhend-kriisis-isale.md) | **Kiirjuhend kriisis isale** — kriisiteekond, lugemisjärjekord |
+| I | [lisa-i-inimesekeskne-juhtimine.md](lisa-i-inimesekeskne-juhtimine.md) | **Inimesekeskne juhtimine** — Steiger 1997, SOP, Liibanonist õppetund |
 
 ---
 
 ## Soovitatud lugemisjärjekord
 
-Köited on nummerdatud progressiivseks õppeks:
+Köited A–G on nummerdatud progressiivseks õppeks:
 
 1. **Teadlikkus** (köited 1–2) — ava silmad, mõista peegli efekti
 2. **Isiklik vastutus** (köited 3–4) — võta omaks, ehita tugev isa
 3. **Pere ja taastumine** (köited 5–6) — tugevda rindejoont, murra depressiooni ring
 4. **Kogukond** (köide 7) — juhi teisi, liitu Operatsiooniga „Peegel"
+
+**Kriisis (isad):** Alusta **Lisa H**, siis **F** → A → D → E. Ära loe järjekorras 1→7.
+
+**Juhtimine:** Lisa I (Steiger 1997, ISBN 9985901274).
 
 ---
 

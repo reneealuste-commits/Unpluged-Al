@@ -30,6 +30,8 @@ BOOK_FILES = [
     "raamat-05-pere-rindejoon.md",
     "raamat-06-murra-ring.md",
     "raamat-07-juhi-ja-voida.md",
+    "lisa-h-kiirjuhend-kriisis-isale.md",
+    "lisa-i-inimesekeskne-juhtimine.md",
 ]
 
 

@@ -25,6 +25,8 @@
 
 **Võidu mõõdik:** Iga lapse elus on tugev, kohalolev isa- või eeskujufiguur. Üksikemade arvu vähenemine. Koolikiusamise vähenemine. Raha ja tähelepanu suunamine peredele, mitte hävitavatele mustritele.
 
+**Uus suund — Avastuspäev:** Operatsioon liigub edasi arenenud ühiskonna suunas: läbipaistvus domineerimise asemel, inimesekeskne juhtimine formaalse kontrolli asemel. Me ei ehita vanglaid, mida ise valvame, ja ei palka politseid neid reegleid jõustama — see on nõukogude kultuuri jäänuk. Parem tee on ausus, vastastikune austus ja põhjus-tagajärg: *mida külvad, seda lõikad.* (Vt Lisa I — Steiger 1997; õppetund Liibanonist allpool.)
+
 ---
 
 ## ÜLESANDE KOOSSEIS JA OSALAJATE PROFIILID
@@ -41,10 +43,10 @@
           ┌────────────────────────┼────────────────────────┐
           │                        │                        │
 ┌─────────▼─────────┐   ┌──────────▼──────────┐   ┌─────────▼─────────┐
-│ OPERATIIVNE TASE  │   │ TAKTILINE/ÄRI TASE  │   │ TEADVUSTUSE TASE  │
-│ Kaitseväe Akadeemia│   │ Combat Ready        │   │ Katrin Lukas        │
-│ (Aarne Ermus —    │   │ Remo Ojaste (tegevdirektor)   │   │ „Ava oma Silmad“   │
-│  juhtide areng)   │   │ Martin Jõesaar (EL) │   │ taskuhääling & teadlikkus│
+│ STRATEEGILINE     │   │ OPERATIIVNE / ÄRI     │   │ TEADVUSTUSE TASE  │
+│ KOMUNIKATSIOON    │   │ Kaitseväe Akadeemia   │   │ Katrin Lukas        │
+│ Taavi Karotamm    │   │ Combat Ready          │   │ „Ava oma Silmad"    │
+│ Arvo Jõesalu      │   │ Aarne Ermus, Remo Ojaste│   │ taskuhääling        │
 └─────────┬─────────┘   └──────────┬──────────┘   └─────────┬─────────┘
           │                        │                        │
           └────────────────────────┼────────────────────────┘
@@ -92,7 +94,7 @@
 
 #### Renee Aluste — Operatsiooni koordinaator, rahva tase
 - **Roll operatsioonis:** Operatsiooni eestvedaja ja peamine sõnumitooja; ühendab isikliku kogemuse sõjalise distsipliiniga.
-- **Taust:** Combat Ready instruktor; Kaitseliidu juhtimisinstruktor. Endine erioperatsioonide grupi operaator; üks vähestest eestlastest, kes on läbinud USA Army Ranger Schooli. Arborist (TreeDoc/Kaks Arboristi). Ajateenistus, erioperatsioonide grupp, laevakaitseüksus, rahuvalvemissioon Liibanonis.
+- **Taust:** Combat Ready instruktor; Kaitseliidu juhtimisinstruktor. Endine erioperatsioonide grupi operaator; üks vähestest eestlastest, kes on läbinud USA Army Ranger Schooli. Arborist (TreeDoc/Kaks Arboristi). Ajateenistus Vahipataljonis (2009–2010, koos Taavi Karotammaga); erioperatsioonide grupp; laevakaitseüksus; rahuvalvemissioon Liibanonis Estpla-21 (2015, ~7 kuud koos Karotammaga).
 - **Isiklik motivatsioon:** Aluste on ise kogenud depressiooni ja mõistnud, kuidas pikaajaline infosõja ja manipulatsioon võib inimest murda. Ta on taastunud, võtnud vastutuse ja pöördunud operatsiooni suunas: aidata teistel näha selgelt ja teha tervislikke otsuseid.
 - **Miks ta on siin:** Ta ei õpeta teooriat — ta on elanud läbi selle, mida õpetab. „Ma ei manipuleeri sind nõrkuseks. Ma aitan sul saada tugevaks."
 
@@ -105,6 +107,16 @@
 - **Roll operatsioonis:** Teadlikkuse ja maailmavaate avardamine; „Ava oma Silmad" taskuhääling ja kogukond.
 - **Taust:** Taskuhäälingusaatejuht, autor ja teadlikkuse edendaja. „Ava oma Silmad" taskuhääling käsitleb ühiskonnasüsteeme, inimmõistmist ja isiklikku ärkvelolekut. Koostööd teeb ka teiste Eesti taskuhäälingutega (sh Ajuloputus).
 - **Miks ta on siin:** Operatsioon „Peegel" vajab mitmeid kanaleid. Lukas toob teistsuguse, sügavama vaatenurga — inimesed ärkavad erinevatest lähtepunktidest.
+
+#### Taavi Karotamm — Strateegiline kommunikatsioon
+- **Roll operatsioonis:** Strateegilise kommunikatsiooni eestvedaja; sõnumite selgus, kriisikommunikatsioon ja avalik usaldus.
+- **Taust:** Major, Kaitseväe peastaabi pressijaoskonna ülem. Pikaaegne kaitseväe kommunikatsioonispetsialist; juhib meeskonda, planeerib kommunikatsioonitegevusi ja kriisistsenaariume. Kogemus koostöös riiklike ja rahvusvaheliste partneritega. Renee Aluste ajateenistuse kaaslane Vahipataljonist (2009–2010); kohtusid uuesti Estpla-21 raames UNIFIL-i Liibanonis (2015) — töötasid koos umbes seitse kuud Soome-Iiri pataljoni koosseisus.
+- **Miks ta on siin:** Karotamm mõistab, et kommunikatsioon on osa lahinguplaanist — mitte ainult tegevuste kajastamine, vaid ka sõjaline ja ühiskondlik mõju. Operatsioon „Peegel" vajab inimest, kes oskab rääkida nii kodanikule kui juhile — ausalt, ilma propaganda keeleta.
+
+#### Arvo Jõesalu — Strateegiline kommunikatsioon
+- **Roll operatsioonis:** Strateegilise kommunikatsiooni eestvedaja; infosõja vastane sõnumitöö ja meediaoperatsioonide kogemus.
+- **Taust:** Major, Kaitseliidu peastaabi strateegilise kommunikatsiooni osakonna ülem. Endine Kaitseväe teavituskeskuse (StratKomKe eelkäija) ülem (2011). Kogemus meediaoperatsioonides, teavitustöös ja reservväelaste teavitusõppustes. Aktiivne aruteludes väärinfo ja julgeoleku teemadel (sh Arvamusfestival 2025).
+- **Miks ta on siin:** Jõesalu on üks neist inimestest, kellega Renee Aluste on istunud laua taga ja arutanud, kuidas Eesti sõnum jõuab kodanikuni — ja kuidas vastane seda lõhub. Strateegiline kommunikatsioon ei ole turundus. See on riigi julgeolek kodaniku köögis.
 
 #### Võrgustiku toetajad (taktikaline tase)
 - **Martin Plaser** — maadlustreener; füüsilise distsipliini ja meelekindluse edendaja.
@@ -169,6 +181,7 @@
 | Kõrgem | Eesti riik, Kaitsevägi, Kaitsepolitseiamet | Ametlik infosõja tõrje — hea, kuid kõik ei jõua kodanikuni |
 | Operatiivne | Kaitseväe Akadeemia, Kaitseliit | Juhtide koolitus, kogukonna kaitse — tugev |
 | Taktikaline | Combat Ready | Juhtimiskoolitus, ülim vastutus — aktiivne |
+| Strateegiline kommunikatsioon | Taavi Karotamm, Arvo Jõesalu | Kaitseväe ja Kaitseliidu strateegiline kommunikatsioon — aktiivne |
 | Rahva tase | Operatsioon „Peegel" võrgustik | KÄIVITATUD — see käsk |
 | Toetus | Katrin Lukas / „Ava oma Silmad" | Teadlikkuse kanal — aktiivne |
 
@@ -176,7 +189,7 @@
 
 ## c. Tugevdused ja vähendused
 
-- **Tugevused:** Renee Aluste (isiklik kogemus + sõjaline väljaõpe); Combat Ready meeskond; Riho Ühtegi rahvuslik autoriteet; Rene Toomse strateegiline nägemus.
+- **Tugevused:** Renee Aluste (isiklik kogemus + sõjaline väljaõpe); Combat Ready meeskond; Riho Ühtegi rahvuslik autoriteet; Rene Toomse strateegiline nägemus; Taavi Karotamm ja Arvo Jõesalu strateegilise kommunikatsiooni kogemus; Steigeri inimesekeskne juhtimine kui SOP (Lisa I).
 - **Vähendused:** Puuduv ametlik riiklik volitus (kodanikualgatus); piiratud eelarve; sõltuvus vabatahtlikust osalusest.
 
 ---
@@ -201,9 +214,15 @@ Operatsioon „Peegel" põhineb peegelneuronitel — ajus mehhanismil, mille abi
 
 **Faas III — Peegeldamine (kuud 9–12):** Oma kogukonnas eeskujuks. Räägi teistega. Toeta naabrit, kolleegi, sõpra. Iga tugev isa, iga toetav ema, iga mentor on võit.
 
+**Faas IV — Avastuspäev (alates kuu 12):** Uus suund arenenud ühiskonnana — läbipaistvus, inimesekeskne juhtimine, vabatahtlik vastutus. Rakenda Steigeri põhimõtteid (Lisa I). Lõpeta formaalne dominants, mis inimesed läbi näevad.
+
 **Murdepunkt:** Kui ühiskondlik narratiiv nihkub — kui inimesed hakkavad rääkima vastutusest, mitte ohvrina olemisest.
 
 **Põhipingutus:** Iga üksiku inimese otsus võtta vastutus oma perekonna ja mõtlemise eest.
+
+### Õppetund Liibanonist (Estpla-21, 2015)
+
+Renee Aluste ja Taavi Karotamm teenisid koos UNIFIL-i Liibanonis Soome-Iiri pataljoni koosseisus umbes seitse kuud. Laagri reegel: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my first!"* Iiri laud oli täis pudelid. Reeglid loodi loogikaga; pärast kahte õlut mõtles emotsioon — sa ei olnud enam sama inimene. Terve laager oli rahulik ainult siis, kui eelmisel õhtul oli joodud palju. See oli eluõppetund: dominants ei tööta inimeste peal pikas mängus. Mänguteooria ütleb: tit-for-tat on parim. Eestikeeles: *mida külvad, seda lõikad.* Parem tee on ausus, usaldus ja inimesekeskne juhtimine — mitte vanglad, mida ehitame ise, ja politsei, kes neid valvab.
 
 ## b. Ülesanded lahinguüksustele
 
@@ -235,6 +254,12 @@ Operatsioon „Peegel" põhineb peegelneuronitel — ajus mehhanismil, mille abi
 2. Koostöö teiste kanalitega (sh Ajuloputus).
 3. Sügavama mõistmise pakkumine neile, kes on valmis.
 
+### Taavi Karotamm / Arvo Jõesalu (strateegiline kommunikatsioon)
+1. Operatsiooni sõnumite selgus ja läbipaistvus — ilma propaganda keeleta.
+2. Kriisikommunikatsiooni standardid kodanikualgatusele (vt Lisa I).
+3. Infosõja vastane sõnumitöö: faktid, mitte hirm; ausus, mitte dominants.
+4. Ühendavad narratiivid, mis ei lõhu, vaid ehitavad — riigi ja kodaniku vahel.
+
 ## c. Ülesanded lahingutoetusüksustele
 
 - **Kaitseväe Akadeemia (Aarne Ermus):** Juhtimismudelite jagamine; kvak.ee rollikirjelduste põhimõtete levitamine tsiviilkogukonnale.
@@ -249,6 +274,8 @@ Operatsioon „Peegel" põhineb peegelneuronitel — ajus mehhanismil, mille abi
 | **ÜTN (üliohtlik teave)** | Kui märkad, et keegi sinu läheduses on jõudmas enesetapumõteteni — tegutse kohe. Helista 655 8088 (Eluliin) või 112. |
 | **Kontakt vaenlasega** | Ära vaheta vihaga. Ära jaga emotsionaalseid reaktsioone. Faktid, rahulik tõde, eeskuju. |
 | **„Juhul kui…"** | Kui tunned, et langed tagasi manipulatsiooni — pöördu mentorini, sõbra poole või professionaali poole. See on tugevus, mitte nõrkus. |
+| **„Juhul kui…" (isa kriisis)** | Alusta Lisast F (*Murra ring*), siis A, D, E. Kiirjuhend: Lisa H. Kriis: Eluliin 655 8088. |
+| **„Juhul kui…" (juhtimine)** | Loe Lisa I (Steiger 1997). Küsi: kas ma juhin inimest või kontrollin teda? |
 | **Lahingureeglid** | Ei ründa. Ei laima. Ei vihka. Ei manipuleeri. Peegeldame tervist, mitte haigust. |
 | **Tagasiside** | Igakuine tagasiside võrgustikule: mis töötab, mis mitte. Kanal: operatsiooni koordinaator. |
 
@@ -264,14 +291,14 @@ Operatsioon „Peegel" põhineb peegelneuronitel — ajus mehhanismil, mille abi
 | Klass | Sisu |
 |-------|------|
 | **I (toit)** | Soe pere eine 1× nädalas — ilma ekraanideta |
-| **II (varustus)** | Raamatud: Tugeva Isa seeria (7 köidet — vt Lisa A–G), „Extreme Ownership" (ülim vastutus), „The Body Keeps the Score" (keha mäletab trauma), Kaitseväe Akadeemia materjalid |
+| **II (varustus)** | Raamatud: Tugeva Isa seeria (7 köidet — vt Lisa A–G), Lisa H (kiirjuhend kriisis isale), Lisa I (Steiger — inimesekeskne juhtimine), „Extreme Ownership" (ülim vastutus), „The Body Keeps the Score" (keha mäletab trauma), Kaitseväe Akadeemia materjalid |
 | **III (kütus)** | Uni 7–8h; liikumine 30 min/päev |
 | **V (laskemoon)** | Sõnad — kasuta neid mõistlikult. Iga sõnum on lask |
 | **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber |
 | **Muu** | „Ava oma Silmad" taskuhääling; Combat Ready koolitused; see lahingukäsk |
 
 ## c. Meditsiiniline evakueerimine
-- Depressiooni või kriisi korral: pöörduda kohe spetsialisti poole.
+- Depressiooni või kriisi korral: pöörduda kohe spetsialisti poole. **Lisa H** — kiirjuhend isale kriisis (loe Lisa F esimesena).
 - Renee Aluste kogemus kinnitab: taastumine on võimalik. Abi otsimine on võit.
 
 ## d. Isikud
@@ -291,6 +318,8 @@ Operatsioon „Peegel" põhineb peegelneuronitel — ajus mehhanismil, mille abi
 | Äri/taktika | Remo Ojaste | remo.ojaste@combatready.eu |
 | Juhtimiskoolitus | Priit Lilleväli | priit.lillevali@combatready.eu |
 | Teadlikkus | Katrin Lukas | katrinlucas.com |
+| Strateegiline kommunikatsioon | Taavi Karotamm | mil.ee (Kaitsevägi) |
+| Strateegiline kommunikatsioon | Arvo Jõesalu | Kaitseliit |
 | Akadeemiline tugi | Aarne Ermus | Kaitseväe Akadeemia |
 
 **Juhtimiskett:** Renee Aluste → Remo Ojaste → võrgustiku liikmed → iga kodanik iseenda juht.
@@ -299,6 +328,9 @@ Operatsioon „Peegel" põhineb peegelneuronitel — ajus mehhanismil, mille abi
 - **Ühisosa märge:** #OperatsioonPeegel
 - **Veeb:** combatready.eu
 - **Taskuhääling:** „Ava oma Silmad" (Katrin Lukas)
+- **Kriis (isad):** Lisa H — `lisad/lisa-h-kiirjuhend-kriisis-isale.md`
+- **Juhtimine (SOP):** Lisa I — `lisad/lisa-i-inimesekeskne-juhtimine.md` (Steiger 1997, ISBN 9985901274)
+- **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
 - **Signaal OPERATSIOON TÄIDETUD:** Kui ühiskondlikud mõõdikud näitavad paranemist — üksikemade arv langeb, kiusamine väheneb, inimesed räägivad vastutusest.
 
 ---
@@ -664,7 +696,51 @@ koos Combat Ready meeskonna ja partneritega
 *Minu küsimus sulle: Mida sa teed oma kodus, et Eesti oleks tugevam?*
 ---
 
-## X. Lõplik vahetus (rollimäng)
+*Minu küsimus sulle: Mida sa teed oma kodus, et Eesti oleks tugevam?*
+---
+
+## X. Juhtimine, Avastuspäev ja inimesekeskne ühiskond
+
+*Stsenaarium: Ohvitser, ettevõtja ja kodanik küsivad uue suuna, Steigeri raamatu ja Liibanonist õpitu kohta.*
+
+---
+
+**K: Mis on see „Avastuspäev" ja miks te seda mainite?**
+
+**V:** Avastuspäev tähendab läbipaistvust — lõpetame teatri, kus reeglid on paberil ühed ja elus teised. Film *Disclosure Day* on naljaks meie ühiskonnale: me ehitame endale vanglaid ja palkame politsei neid valvama, sest see tundub turvaline. Aga see on nõukogude kultuuri jäänuk — kontroll hirmu kaudu. Parem tee on ausus: ütle, mis on, ja lase inimestel valida. Operatsioon „Peegel" liigub selles suunas.
+
+*Minu küsimus sulle: Millise reegli järgi sa elad, mida sa ise ei usu?*
+---
+
+**K: Mis oli see lugu Liibanonist kahe õllega?**
+
+**V:** Estpla-21, 2015. Taavi Karotamm ja mina teenisime koos UNIFIL-is umbes seitse kuud. Reegel: kaks õlut. Kui keegi küsis — SOP vastus: „This is my first!" Iiri laud täis pudelid. Reeglid loodi loogikaga; pärast kahte õlut mõtles emotsioon. Laager oli rahulik ainult siis, kui eelmisel õhtul oli joodud palju. See ei olnud jätkusuutlik. Õppetund: dominants ei tööta inimeste peal pikas mängus. Inimesekeskne juhtimine — ausus, usaldus — on tõhusam.
+
+*Minu küsimus sulle: Kas sa juhid teisi reeglitega, mida sa ise ei järgi?*
+---
+
+**K: Mis on Steigeri „Inimesekeskne juhtimine" ja miks see on teie SOP?**
+
+**V:** Rudolf Steigeri raamat (Fontes, 1997) oli Eesti kaitseväe esimese juhtkonna juhtimise SOP — aga seda pole täielikult rakendatud. Raamat õpetab: juht õpib ennast tundma, kuulab, tunnistab vigu, peab dialoogi. See on Lisa I kokkuvõte. Täistekst on saadaval raamatuna (ISBN 9985901274). Kui sul on vana eksemplar — hoia seda. Eesti inimesed väärivad parimaid juhte. Mitte neid, kes mängivad rolli.
+
+*Minu küsimus sulle: Kas sa juhid teisi nii, nagu sa tahaksid, et sind juhiks?*
+---
+
+**K: Miks dominants ei tööta?**
+
+**V:** Lühikeses mängus sa võid sundida. Pikas mängus inimesed näevad läbi. Mänguteooria: tit-for-tat — vasta samaga, mida sa saad. Eestikeeles: mida külvad, seda lõikad. Kui sa juhid hirmuga, saad hirmu tagasi. Kui sa juhid aususega, saad usaldust. See ei ole naiivne. See on efektiivne.
+
+*Minu küsimus sulle: Mida sa täna külvad — ja mida sa tahad lõigata?*
+---
+
+**K: Kas Taavi Karotamm ja Arvo Jõesalu toetavad seda ametlikult?**
+
+**V:** Nad on operatsiooni strateegilise kommunikatsiooni eestvedajad oma kogemuse ja partnerluse kaudu. See ei ole Kaitseväe ega Kaitseliidu ametlik käsk — me ütleme seda selgelt. Aga nende töö riigis on ju see sama: aus sõnum, kriitiline mõtlemine, kodaniku usaldus. Me täiendame, mitte ei asenda.
+
+*Minu küsimus sulle: Kas sa usaldad juhti, kes räägib ainult võitu — mitte ka vigu?*
+---
+
+## XI. Lõplik vahetus (rollimäng)
 
 **K: Viimane küsimus. Ütle mulle ühe lausega, miks ma peaksin sind uskuma.**
 
@@ -694,7 +770,11 @@ Need seitse köidet täiendavad käesolevat lahingukäsku. Iga köide on iseseis
 | **E** | 5/7 | `lisad/raamat-05-pere-rindejoon.md` | Pere rindejoon — pere kui kaitsejoon |
 | **F** | 6/7 | `lisad/raamat-06-murra-ring.md` | Murra ring — depressioon ja taastumine |
 | **G** | 7/7 | `lisad/raamat-07-juhi-ja-voida.md` | Juhi ja võida — kogukond ja kutse |
+| **H** | — | `lisad/lisa-h-kiirjuhend-kriisis-isale.md` | Kiirjuhend kriisis isale — kriisiteekond ja lugemisjärjekord |
+| **I** | — | `lisad/lisa-i-inimesekeskne-juhtimine.md` | Inimesekeskne juhtimine (Steiger 1997) — SOP ja Liibanonist õppetund |
 
-**Soovitatud lugemisjärjekord:** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).
+**Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).
 
-> *Märkus: Algtekstid avaldatakse repos `reneealuste-commits/Unpluged-Al`. PDF sisaldab kõigi seitsme köite täisteksti järgmistel lehekülgedel.*
+**Kriisis (isad):** Alusta **H** (kiirjuhend), siis **F** → A → D → E. Ära loe järjekorras 1→7.
+
+> *Märkus: Tugeva Isa seeria algtekstid avaldatakse repos `reneealuste-commits/Unpluged-Al`. Steigeri täistekst — raamat või Renee Aluste eksemplar. PDF sisaldab kõigi lisade täisteksti.*

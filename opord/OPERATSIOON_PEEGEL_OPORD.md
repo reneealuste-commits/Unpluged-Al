@@ -47,7 +47,7 @@
           │                            │                            │
 ┌─────────▼──────────┐   ┌─────────────▼─────────────┐   ┌──────────▼──────────┐
 │ OPERATIIVNE / ÄRI   │   │ TEADVUSTUSE TASE           │   │ VETERANID / TUGI     │
-│ Combat Ready        │   │ Katrin Lukas               │   │ Eero Kinnunen        │
+│ Combat Ready        │   │ Katrin Lucas               │   │ Eero Kinnunen        │
 │ KVA (Aarne Ermus)   │   │ Villido, tantra, Pühali    │   │ Marge Sillaste       │
 │ ├─ Her Way (naised) │   │                            │   │ (inimeste juhtimine) │
 │ ├─ Youth / Super-   │   │                            │   │                      │
@@ -135,12 +135,12 @@
 - **Taust:** Combat Ready instruktor ja juhendaja. Äripäeva Aasta koolitaja 2023 eriauhind. Endine kaitseväelane (5 aastat), kaks lahingumissiooni Afganistanis. Psühholoogia õpingud (TÜ), juhendamiskoolitus (EBS). 300+ koolitust, 800+ juhendamistundi.
 - **Miks ta on siin:** Operatsioon vajab inimest, kes oskab rääkida nii distsipliinist kui emotsionaalsest taastumisest — ilma ohvriidentiteeti tugevdamata.
 
-#### Katrin Lukas — Sügavama teadlikkuse tase
+#### Katrin Lucas — Sügavama teadlikkuse tase
 
-![Katrin Lukas](images/profiles/katrin-lukas.jpg)
+![Katrin Lucas](images/profiles/katrin-lucas.jpg)
 - **Roll operatsioonis:** Teadlikkuse ja maailmavaate avardamine; „Ava oma Silmad" taskuhääling ja kogukond.
 - **Taust:** Taskuhäälingusaatejuht, autor ja teadlikkuse edendaja. „Ava oma Silmad" taskuhääling käsitleb ühiskonnasüsteeme, inimmõistmist ja isiklikku ärkvelolekut. Koostööd teeb ka teiste Eesti taskuhäälingutega (sh Ajuloputus).
-- **Miks ta on siin:** Operatsioon „Peegel" vajab mitmeid kanaleid. Lukas toob teistsuguse, sügavama vaatenurga — inimesed ärkavad erinevatest lähtepunktidest.
+- **Miks ta on siin:** Operatsioon „Peegel" vajab mitmeid kanaleid. Lucas toob teistsuguse, sügavama vaatenurga — inimesed ärkavad erinevatest lähtepunktidest.
 
 #### Ingvar Villido — Teadliku muutuse kunst (Practical Consciousness)
 
@@ -353,7 +353,7 @@
 | Haridus | Techno TLN (Ott Pärna), KVA juhtkond, RaM Kool (Elmar Vaher) | Kutse-, juhtimis- ja väärtusharidus — aktiivne (Lisa J) |
 | Kohalik | Peeter Järvsoo (Noorte Kotkad), Andrei Ambros (Harku) | Noored ja piirkondlik vastupanuvõime — aktiivne |
 | Rahva tase | Operatsioon „Peegel" võrgustik | KÄIVITATUD — see käsk |
-| Toetus | Katrin Lukas / „Ava oma Silmad" | Teadlikkuse kanal — aktiivne |
+| Toetus | Katrin Lucas / „Ava oma Silmad" | Teadlikkuse kanal — aktiivne |
 | Toetus | Ingvar Villido / Practical Consciousness | Teadliku muutuse kunst — aktiivne |
 | Toetus | Eesti Tantrafestivali võrgustik (Earthchild, Skalkina, Sarmet, Saul) | Tantralaagrid ja festivalid — aktiivne |
 | Toetus | Urmas Sõõrumaa / Pühali Hea Elu Keskus | Heaolu, loodus, puhkus — aktiivne |
@@ -365,7 +365,7 @@
 
 ## c. Tugevdused ja vähendused
 
-- **Tugevused:** Renee Aluste (isiklik kogemus + sõjaline väljaõpe); Combat Ready meeskond (sh Her Way, Youth, Pertinax); Ain Anslan (avaliku sektori juhtimiskultuur); Riho Ühtegi rahvuslik autoriteet; Rene Toomse strateegiline nägemus; Eerik Heldna kriisireguleerimine; Elmar Vaher kaitseinvesteeringute ja juhtimiskogemus; Taavi Karotamme ja Arvo Jõesalu strateegilise kommunikatsiooni kogemus; Steigeri inimesekeskne juhtimine kui SOP (Lisa I); teadlikkuse võrgustik (Lukas, Villido, tantralaagrid, Pühali); veteranid (Kinnunen); kohalikud allüksused (Järvsoo, Ambros); inimeste juhtimine (Sillaste).
+- **Tugevused:** Renee Aluste (isiklik kogemus + sõjaline väljaõpe); Combat Ready meeskond (sh Her Way, Youth, Pertinax); Ain Anslan (avaliku sektori juhtimiskultuur); Riho Ühtegi rahvuslik autoriteet; Rene Toomse strateegiline nägemus; Eerik Heldna kriisireguleerimine; Elmar Vaher kaitseinvesteeringute ja juhtimiskogemus; Taavi Karotamme ja Arvo Jõesalu strateegilise kommunikatsiooni kogemus; Steigeri inimesekeskne juhtimine kui SOP (Lisa I); teadlikkuse võrgustik (Lucas, Villido, tantralaagrid, Pühali); veteranid (Kinnunen); kohalikud allüksused (Järvsoo, Ambros); inimeste juhtimine (Sillaste).
 - **Vähendused:** Puuduv ametlik riiklik volitus (kodanikualgatus); piiratud eelarve; sõltuvus vabatahtlikust osalusest.
 
 ---
@@ -495,7 +495,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 2. Poliitiline ja ühiskondlik dialoog perede toetusest.
 3. Ühendavad narratiivid, mis ei lõhu, vaid ehitavad.
 
-### Katrin Lukas (teadlikkuse tase)
+### Katrin Lucas (teadlikkuse tase)
 1. „Ava oma Silmad" taskuhääling — teemad manipulatsioonist ja ärkamisest.
 2. Koostöö teiste kanalitega (sh Ajuloputus).
 3. Sügavama mõistmise pakkumine neile, kes on valmis.
@@ -582,7 +582,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Riigi tase | Rene Toomse | avalik kanal |
 | Äri/taktika | Remo Ojaste | remo.ojaste@combatready.eu |
 | Juhtimiskoolitus | Priit Lilleväli | priit.lillevali@combatready.eu |
-| Teadlikkus | Katrin Lukas | katrinlucas.com |
+| Teadlikkus | Katrin Lucas | katrinlucas.com |
 | Teadlik muutus | Ingvar Villido | lilleoru.ee / human.ee |
 | Tantra / laagrid | Igor Earthchild | learn2touch.com / tantrafest.ee |
 | Tantra / laagrid | Bella Skalkina | tantrafest.ee / anahata.fi |
@@ -613,7 +613,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 ## b. Side ja signaalid
 - **Ühisosa märge:** #OperatsioonPeegel
 - **Veeb:** combatready.eu
-- **Taskuhääling:** „Ava oma Silmad" (Katrin Lukas)
+- **Taskuhääling:** „Ava oma Silmad" (Katrin Lucas)
 - **Naiste kanal:** combatreadyherway.eu (Combat Ready | Her Way)
 - **Noored:** Combat Ready Youth / Laste Supermängud (Tanel Jäppinen)
 - **Mereväe meeskond:** MTÜ Team Pertinax (Aigar Ojaots)
@@ -772,9 +772,9 @@ koos Combat Ready meeskonna ja partneritega
 *Minu küsimus sulle: Mida sina selle teadmisega täna teed — mitte homme?*
 ---
 
-**K: Mis roll on Katrin Lukasil? Ta tegeleb ju teistsuguste teemadega.**
+**K: Mis roll on Katrin Lucasil? Ta tegeleb ju teistsuguste teemadega.**
 
-**V:** Inimesed ärkavad erinevatest kohtadest. Keegi tuleb läbi sõjalise distsipliini, keegi läbi vaimse ärkamise, keegi läbi usundi või filosoofia. Katrin Lukas pakub taskuhäälingu kaudu sügavamat teadlikkust — süsteemidest, inimmõistmisest, ärkvelolekust. Me ei ütle, et pead kõike temaga nõustuma. Me ütleme: ava silmad. Vali oma tee.
+**V:** Inimesed ärkavad erinevatest kohtadest. Keegi tuleb läbi sõjalise distsipliini, keegi läbi vaimse ärkamise, keegi läbi usundi või filosoofia. Katrin Lucas pakub taskuhäälingu kaudu sügavamat teadlikkust — süsteemidest, inimmõistmisest, ärkvelolekust. Me ei ütle, et pead kõike temaga nõustuma. Me ütleme: ava silmad. Vali oma tee.
 
 *Minu küsimus sulle: Mida sina selle teadmisega täna teed — mitte homme?*
 ---
@@ -795,7 +795,7 @@ koos Combat Ready meeskonna ja partneritega
 
 **K: Kas ma pean minema tantrafestivalile, et operatsioonist kasu saada?**
 
-**V:** Ei. Operatsioon on tasuta ja kättesaadav ilma festivalita. Aga kui sa tunned, et su keha on su mõistusest ees kinni — ja sa oled valmis — tantrafest.ee ja tantratants.ee on üks võimalik tee. Ingvar Villido kursused on teine. Pühali Hea Elu Keskus (puhali.ee) kolmas — loodus, sauna, vaikus. Katrin Lukase taskuhääling neljas. Combat Ready viies. Vali see, mis sulle sobib. Me ei müü ühtegi neist teistele peale.
+**V:** Ei. Operatsioon on tasuta ja kättesaadav ilma festivalita. Aga kui sa tunned, et su keha on su mõistusest ees kinni — ja sa oled valmis — tantrafest.ee ja tantratants.ee on üks võimalik tee. Ingvar Villido kursused on teine. Pühali Hea Elu Keskus (puhali.ee) kolmas — loodus, sauna, vaikus. Katrin Lucase taskuhääling neljas. Combat Ready viies. Vali see, mis sulle sobib. Me ei müü ühtegi neist teistele peale.
 
 *Minu küsimus sulle: Mis on sinu jaoks turvaline ruum — ja kas sa seda täna lood?*
 ---
@@ -935,7 +935,7 @@ koos Combat Ready meeskonna ja partneritega
 
 **K (Budistlik rühmitus):** Teie „peegelneuronite" keel kõlab teadlikkuse praktikast. Kas te olete teadlikud, et see võib kattuda meditatsiooni ja eneseteadlikkuse õpetustega?
 
-**V:** Jah. Peegel on universaalne metafoor. Katrin Lukas tegeleb taskuhäälingus teadlikkuse ja ärkvelolekuga teistsugusel keelel — me austame seda. Ingvar Villido pakub praktilist teadlikkust; tantravõrgustik pakub keha ja läheduse kaudu avanemist; Pühali pakub loodust ja vaikust. Operatsioon „Peegel" ei ole üks õige tee. See on üks tee — distsipliini, sõjalise selguse ja perekonna kaudu. Teie tee võib olla vaikus, meditatsioon, tantra või mets. Eesmärk on sama: ärkvel inimene, kes ei lase end manipuleerida.
+**V:** Jah. Peegel on universaalne metafoor. Katrin Lucas tegeleb taskuhäälingus teadlikkuse ja ärkvelolekuga teistsugusel keelel — me austame seda. Ingvar Villido pakub praktilist teadlikkust; tantravõrgustik pakub keha ja läheduse kaudu avanemist; Pühali pakub loodust ja vaikust. Operatsioon „Peegel" ei ole üks õige tee. See on üks tee — distsipliini, sõjalise selguse ja perekonna kaudu. Teie tee võib olla vaikus, meditatsioon, tantra või mets. Eesmärk on sama: ärkvel inimene, kes ei lase end manipuleerida.
 
 *Minu küsimus sulle: Millal sa viimati olid täielikult kohal — ilma telefonita?*
 ---

@@ -21,7 +21,7 @@ FOLLOWUPS = [
     (r"perede aeg", "Millal oli viimane kord, kui olite kodus koos ilma ekraanita?"),
     (r"ainult isafiguuridele", "Kellele sina täna vaatad üles — ja kes vaatab üles sinule?"),
     (r"teenib selle pealt raha", "Kas sa ostsid viimati midagi, mis sind tõesti arendas — või lõõgastas?"),
-    (r"Katrin Lukasil", "Mis on sinu tee ärkamiseni — ja kas sa oled seda ausalt otsinud?"),
+    (r"Katrin Lucasil", "Mis on sinu tee ärkamiseni — ja kas sa oled seda ausalt otsinud?"),
     (r"Aarne Ermus", "Millist juhtimispõhimõtet sa täna oma elus rakendad?"),
     (r"täna, kohe", "Mis on üks asi, mida sa täna muudad — mitte homme?"),
     (r"liituda või aidata", "Kas sa oled valmis olema eeskuju — ilma et keegi sind kutsuks?"),

@@ -24,7 +24,7 @@
          │                       │                       │                       │                       │
 ┌────────▼─────────┐   ┌──────────▼──────────┐   ┌────────▼─────────┐   ┌─────────▼─────────┐   ┌────────▼─────────┐
 │ KOORDINEERIMINE  │   │ COMBAT READY OÜ      │   │ VANGLATEENISTUS  │   │ HARIDUSTASE         │   │ TEADVUSTUS       │
-│ Renee Aluste     │   │ Remo Ojaste (CEO)    │   │ Ain Anslan       │   │ (vt Lisa J)         │   │ Lukas, Villido   │
+│ Renee Aluste     │   │ Remo Ojaste (CEO)    │   │ Ain Anslan       │   │ (vt Lisa J)         │   │ Lucas, Villido   │
 │ (vt eraldi prof) │   │ Martin Jõesaar       │   │ Viru vangla      │   │ Techno TLN, KVA,    │   │ tantra, Pühali   │
 └────────┬─────────┘   │ Priit, Renee, Eerik  │   └──────────────────┘   │ RaM Kool            │   └────────┬─────────┘
          │             │ Elmar, Louis, Robert │                            └─────────┬─────────┘            │
@@ -172,7 +172,7 @@
 
 | Ülesanne | Kirjeldus |
 |----------|-----------|
-| 1 | „Ava oma Silmad" taskuhääling (Lukas) |
+| 1 | „Ava oma Silmad" taskuhääling (Lucas) |
 | 2 | Practical Consciousness kursused (Villido) |
 | 3 | Tantralaagrid ja festivalid (Earthchild, Skalkina, Sarmet, Saul) |
 | 4 | Pühali taastumine looduses (Sõõrumaa) |
@@ -438,7 +438,7 @@
 
 | Nimi | Roll | Eesmärk | Ülesanne |
 |------|------|---------|----------|
-| Katrin Lukas | „Ava oma Silmad" | Teadlikkus | Taskuhääling, kogukond |
+| Katrin Lucas | „Ava oma Silmad" | Teadlikkus | Taskuhääling, kogukond |
 | Ingvar Villido | Practical Consciousness | Teadlik muutus | Kursused, Lilleoru |
 | Igor Earthchild | Tantrafestival | Keha avamine | Laagrid, festivalid |
 | Bella Skalkina | Tantrafestival | Lähedus, energia | Töötoad, korraldus |

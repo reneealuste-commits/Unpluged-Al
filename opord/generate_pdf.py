@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Generate OPORD PDF from markdown source."""
 
+import re
 from pathlib import Path
 
 from reportlab.lib import colors
@@ -10,6 +11,7 @@ from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
 from reportlab.lib.units import cm, mm
 from reportlab.platypus import (
     HRFlowable,
+    Image,
     PageBreak,
     Paragraph,
     SimpleDocTemplate,
@@ -265,6 +267,20 @@ def build_story(md_text: str, styles) -> list:
 
         if in_code:
             story.append(Paragraph(f"<font face='Courier' size='7'>{esc(line)}</font>", styles["Body"]))
+            i += 1
+            continue
+
+        if stripped.startswith("![") and "](" in stripped:
+            m = re.match(r"!\[([^\]]*)\]\(([^)]+)\)", stripped)
+            if m:
+                _, rel_path = m.groups()
+                img_path = BASE / rel_path if not rel_path.startswith("/") else Path(rel_path)
+                if img_path.exists():
+                    story.append(Spacer(1, 4))
+                    img = Image(str(img_path), width=3.2 * cm, height=3.2 * cm, kind="proportional")
+                    img.hAlign = "LEFT"
+                    story.append(img)
+                    story.append(Spacer(1, 6))
             i += 1
             continue
 

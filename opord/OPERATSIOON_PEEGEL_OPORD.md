@@ -45,7 +45,7 @@
 ┌─────────▼─────────┐   ┌──────────▼──────────┐   ┌─────────▼─────────┐
 │ STRATEEGILINE     │   │ OPERATIIVNE / ÄRI     │   │ TEADVUSTUSE TASE  │
 │ KOMUNIKATSIOON    │   │ Kaitseväe Akadeemia   │   │ Katrin Lukas        │
-│ Taavi Karotamm    │   │ Combat Ready          │   │ „Ava oma Silmad"    │
+│ Taavi Karotamme    │   │ Combat Ready          │   │ „Ava oma Silmad"    │
 │ Arvo Jõesalu      │   │ Aarne Ermus, Remo Ojaste│   │ taskuhääling        │
 └─────────┬─────────┘   └──────────┬──────────┘   └─────────┬─────────┘
           │                        │                        │
@@ -68,82 +68,114 @@
 ### Osalajate profiilid
 
 #### Riho Ühtegi — Strateegiline juht, rahva tase
+
+![Riho Ühtegi](images/profiles/riho-uhtegi.jpg)
 - **Roll operatsioonis:** Strateegiline eeskuju ja rahvuslik juhtimisvisioon; kandidaat presidendiametisse rahva teenimise mõttes.
 - **Taust:** Kindralmajor (res.). Endine Kaitseväe erioperatsioonide väejuhatuse ülem (2012–2019), kus ta lõi ja arendas Eesti erioperatsioonide võimekuse, mida hinnatakse kõrgelt NATO-s. Endine Kaitseliidu ülem (2019–2023). Kaitseliidu liige alates 1990. aastast; üks Kaitseliidu taasloomise tegijaid. Endine Luurepataljoni ülem, kaitseatašee Gruusias, missioon Afganistanis. Tallinna Ülikooli riigikaitseõpetaja.
 - **Miks ta on siin:** Riho on inimene, keda inimesed järgivad usalduse, mitte käsu pärast. Tema jaoks on riigikaitse alati tähendanud inimesi — mitte tankke, mitte paraade. Operatsioon „Peegel“ vajab juhti, kes mõistab, et võit toimub ka kodus, koolis ja peres.
 
 #### Rene Toomse — Riigi ja valitsuse tase
+
+![Rene Toomse](images/profiles/rene-toomse.jpg)
 - **Roll operatsioonis:** Strateegiline nõustaja; seob kaitse- ja tsiviilpoliitika tasandid; esindab valitsuse ja kodaniku vahelist silda.
 - **Taust:** Ettevõtja, reservmajor, endine luureohvitser. Doktorikraad sotsiaalteadustes (Tallinna Ülikool): „Kaitstes Eestit rahus ja sõjas". Avalikult kirjutanud infosõjast, sõjapidamise uuendustest ja väikeriigi julgeolekustrateegiatest (ICDS, Diplomaatia, ERR). Kaitseliitlane; seotud Lääne-Harjumaa Kaitsjate MTÜ-ga.
 - **Miks ta on siin:** Toomse mõistab, et järgmise põlvkonna sõda toimub infokeskkonnas sama palju kui maastikul. Ta toob operatsiooni riikliku mõõtme ilma bürokraatiata.
 
 #### Aarne Ermus — Operatiivne tase (Kaitseväe Akadeemia)
+
+![Aarne Ermus](images/profiles/aarne-ermus.jpg)
 - **Roll operatsioonis:** Juhtide ja õppurite arengu standard; kaitseväelise juhtimiskultuuri kandmine tsiviiloperatsiooni.
 - **Taust:** Kolonel, Kaitseväe Akadeemia juhtimise suuna juht ja lektor. Endine Kaitsejõudude Peastaabi ülem ja operatiivülem; endine Kuperjanovi pataljoni ülem; Eesti sõjaline esindaja NATO SHAPE juures; endine Kaitseväe Ühendatud Õppeasutuste ülem (2007–2013).
 - **Miks ta on siin:** Kaitseväe Akadeemia rollikirjeldused rõhutavad enesearengut, kriitilist mõtlemist ja eetilist eneserefleksiooni — täpselt need oskused, mida operatsioon „Peegel“ kodanikele õpetab.
 
 #### Remo Ojaste — Taktikaline/äri tase (Combat Ready tegevdirektor)
+
+![Remo Ojaste](images/profiles/remo-ojaste.jpg)
 - **Roll operatsioonis:** Ärilise ja organisatsioonilise tasandi juht; „ülima vastutuse" põhimõtete rakendamine ühiskondlikus skaalas.
 - **Taust:** Combat Ready kaasasutaja ja tegevdirektor (2021). Endine Eesti erioperatsioonide väelane (8+ aastat). Echelon Fronti (Jocko Willink, Leif Babin) ametlik partner — ainus selline partner Euroopas. Aasta koolitaja 2022. Jocko taskuhäälingu külaline (2024).
 - **Miks ta on siin:** Combat Ready alustas seda operatsiooni ärilisel tasandil — praktiline juhtimiskoolitus, mis valmistab inimesi ette reaalseks eluks, mitte ainult slaidideks.
 
 #### Martin Jõesaar — Euroopa tase (Combat Ready kaasasutaja)
+
+![Martin Jõesaar](images/profiles/martin-joesaar.jpg)
 - **Roll operatsioonis:** Rahvusvaheline mõjutus ja koostöö; Euroopa juhtimiskultuuri arendamine.
 - **Taust:** Combat Ready kaasasutaja (2021), Aasta koolitaja 2022. Euroopa Komisjoni DG DEFIS programmijuht — ELi kaitseuuenduste büroo Kiievis. 16+ aastat ohvitserina Kaitseväes; endine Milrem Robotics COO; kaitseinvesteeringute kogemus.
 - **Miks ta on siin:** Ühendab Eesti kogemuse Euroopa kaitse- ja innovatsioonivõrgustikuga. Toob operatsioonile rahvusvahelise ulatuse.
 
 #### Renee Aluste — Operatsiooni koordinaator, rahva tase
+
+![Renee Aluste](images/profiles/renee-aluste.jpg)
 - **Roll operatsioonis:** Operatsiooni eestvedaja ja peamine sõnumitooja; ühendab isikliku kogemuse sõjalise distsipliiniga.
-- **Taust:** Combat Ready instruktor; Kaitseliidu juhtimisinstruktor. Endine erioperatsioonide grupi operaator; üks vähestest eestlastest, kes on läbinud USA Army Ranger Schooli. Arborist (TreeDoc/Kaks Arboristi). Ajateenistus Vahipataljonis (2009–2010, koos Taavi Karotammaga); erioperatsioonide grupp; laevakaitseüksus; rahuvalvemissioon Liibanonis Estpla-21 (2015, ~7 kuud koos Karotammaga).
+- **Taust:** Combat Ready instruktor; Kaitseliidu juhtimisinstruktor. Endine erioperatsioonide grupi operaator; üks vähestest eestlastest, kes on läbinud USA Army Ranger Schooli. Arborist (TreeDoc/Kaks Arboristi). Ajateenistus Vahipataljonis (2009–2010, koos Taavi Karotammeaga); erioperatsioonide grupp; laevakaitseüksus; rahuvalvemissioon Liibanonis Estpla-21 (2015, ~7 kuud koos Karotammeaga).
 - **Isiklik motivatsioon:** Aluste on ise kogenud depressiooni ja mõistnud, kuidas pikaajaline infosõja ja manipulatsioon võib inimest murda. Ta on taastunud, võtnud vastutuse ja pöördunud operatsiooni suunas: aidata teistel näha selgelt ja teha tervislikke otsuseid.
 - **Miks ta on siin:** Ta ei õpeta teooriat — ta on elanud läbi selle, mida õpetab. „Ma ei manipuleeri sind nõrkuseks. Ma aitan sul saada tugevaks."
 
 #### Priit Lilleväli — Rahva tase, juhtimis- ja psühholoogiline tugi
+
+![Priit Lilleväli](images/profiles/priit-lillevali.jpg)
 - **Roll operatsioonis:** Juhtimiskoolitaja ja juhendaja; aitab inimestel töödelda traumaatilisi kogemusi ja võtta vastutust.
 - **Taust:** Combat Ready instruktor ja juhendaja. Äripäeva Aasta koolitaja 2023 eriauhind. Endine kaitseväelane (5 aastat), kaks lahingumissiooni Afganistanis. Psühholoogia õpingud (TÜ), juhendamiskoolitus (EBS). 300+ koolitust, 800+ juhendamistundi.
 - **Miks ta on siin:** Operatsioon vajab inimest, kes oskab rääkida nii distsipliinist kui emotsionaalsest taastumisest — ilma ohvriidentiteeti tugevdamata.
 
 #### Katrin Lukas — Sügavama teadlikkuse tase
+
+![Katrin Lukas](images/profiles/katrin-lukas.jpg)
 - **Roll operatsioonis:** Teadlikkuse ja maailmavaate avardamine; „Ava oma Silmad" taskuhääling ja kogukond.
 - **Taust:** Taskuhäälingusaatejuht, autor ja teadlikkuse edendaja. „Ava oma Silmad" taskuhääling käsitleb ühiskonnasüsteeme, inimmõistmist ja isiklikku ärkvelolekut. Koostööd teeb ka teiste Eesti taskuhäälingutega (sh Ajuloputus).
 - **Miks ta on siin:** Operatsioon „Peegel" vajab mitmeid kanaleid. Lukas toob teistsuguse, sügavama vaatenurga — inimesed ärkavad erinevatest lähtepunktidest.
 
 #### Ingvar Villido — Teadliku muutuse kunst (Practical Consciousness)
+
+![Ingvar Villido](images/profiles/ingvar-villido.jpg)
 - **Roll operatsioonis:** Teadlikkuse praktilise rakendamise eestvedaja; aitab inimestel tuvastada ja muuta alateadlikke emotsionaalseid ning mentaalseid mustreid.
 - **Taust:** Siddha jooga õpetaja, Lilleoru asutaja. Loodud meetod *Teadliku Muutuse Kunst* (2008), rahvusvaheliselt *Practical Consciousness*. Viieastmeline kursuste süsteem (selgus, emotsioonid, mõtted, teadvus, vooseisund). Raamatud sh *Teadvuse praktiline kasutamine*. Practical Consciousness Sihtasutus; koolitused Eestis ja välismaal.
 - **Miks ta on siin:** Infosõda tabab inimest seestpoolt — autopiloodis emotsioonid ja mõtted. Villido pakub praktilisi vahendeid, kuidas inimene ise oma sisemaailma muudab. See täiendab operatsiooni sõjalist distsipliini teadlikkuse tehnikaga.
 
 #### Igor Earthchild — Tantra ja teadlik ühendus
+
+![Igor Earthchild](images/profiles/igor-earthchild.jpg)
 - **Roll operatsioonis:** Tantralaagrite ja festivalide korraldamine; aitab inimestel — eriti meestel — avada keha, vabaneda vanadest mustritest ja leida end uuesti.
 - **Taust:** Endine ärivaldkonna tippjuht, tantraõpetaja ja tervendaja. Eesti Tantrafestivali kaaskorraldaja alates 2017. Loob veebikursusi ja laagreid (sh Learn to Touch, Superlover); tantramassaaž ja body de-armouring Tallinnas ja Helsingis. Aitab inimestel liikuda sõltuvustest tervislikuma elu poole.
 - **Miks ta on siin:** Paljud inimesed on infosõja ja eluraskuste tõttu kehast lahti ühendatud. Earthchild aitab neil uuesti end tunda — läbi teadliku puudutuse, kogukonna ja tantristliku praktika.
 
 #### Bella Skalkina — Tantra ja energiakeha
+
+![Bella Skalkina](images/profiles/bella-skalkina.jpg)
 - **Roll operatsioonis:** Tantralaagrite ja Eesti Tantrafestivali peaorganisaator; töötoad paaridele ja üksikisikutele teadliku läheduse ja energiakeha avamiseks.
 - **Taust:** Massaažiterapeut ja tervendaja (Anahata stuudio, Tallinn ja Helsinki). Eesti Tantrafestivali peamine korraldaja. Koostöö Igor Earthchildi, Margus Sarmeti ja Kristiina Sauliga. Töötoad: paaride saunarituaal, tantriline puudutus, Shakti ärkamine, Armastuse tempel.
 - **Miks ta on siin:** Skalkina loob turvalisi ruume, kus inimesed saavad avada silmad — mitte hirmuga, vaid armastuse ja teadlikkusega. See on operatsiooni „ava silmad" missioon teise keele kaudu.
 
 #### Margus Sarmet — Tantra ja vaimne praktika
+
+![Margus Sarmet](images/profiles/margus-sarmet.jpg)
 - **Roll operatsioonis:** Tantralaagrite, festivalide ja teadlikkusele suunatud kogukonnaürituste korraldamine; paaride ja üksikisikute tee tagasi iseenda juurde.
 - **Taust:** Tantra- ja joogaõpetaja, transpersonaalse psühholoogia terapeut. Eesti Tantrafestivali korraldaja. Tantratants.ee, Tantra Tribe laagrid. Õpingud Agama joogakoolis, Shivoham Tantra liinis, Karam Kriya joogakoolis. Korraldab ka teadlikkusele suunatud laste- ja noortelaagreid.
 - **Miks ta on siin:** Sarmet ütleb otse: tantra on praktiline teadus — seni kuni sa seda ei kasuta, pole teadmistest kasu. Operatsioon vajab inimesi, kes aitavad teistel mitte ainult mõelda, vaid ka tunda ja elada teadlikumalt.
 
 #### Kristiina Saul — Tantra, jooga ja naiste ringid
+
+![Kristiina Saul](images/profiles/kristiina-saul.jpg)
 - **Roll operatsioonis:** Tantralaagrite ja festivalide kaaskorraldaja; töötoad iha, läheduse ja vaimse ärkamise teemadel; naiste väeringud ja teraapiline tugi.
 - **Taust:** Kundalini joogaõpetaja, tantraõpetaja, rännakumeetodi praktik. Pikaajaline koostöö Margus Sarmetiga (Tantra Tribe, Eesti Tantrafestival, Tantra ABC töötoad). Õpingud Karam Kriya koolis, klassikaline ja neotantra, Shivoham Tantra liin. Korraldab Naiste Väeringeid ja teadlikkuse koolitusi.
 - **Miks ta on siin:** Saul on see inimene, kelle juures paljud on esimest korda tantraga kokku puutunud ja kogenud tõelist vabanemist. Operatsioon „Peegel" tunnistab: inimesed leiavad tee tagasi enda juurde erinevate uste kaudu — ka tantra ja jooga kaudu.
 
 #### Urmas Sõõrumaa — Pühali Hea Elu Keskus
+
+![Urmas Sõõrumaa](images/profiles/urmas-soorumaa.jpg)
 - **Roll operatsioonis:** Heaolu- ja puhkekeskuse eestvedaja; looduslik keskkond keha ja vaimu taastamiseks; ürituste ja praktikate korraldamine.
 - **Taust:** Ettevõtja, Pühali Hea Elu Keskuse (endine Adila heaolu- ja puhkekeskus) asutaja ja omanik. Keskus asub Pihali külas (Kohila vald, Raplamaa) — saunad, spordiväljakud, majutus, rabamets ja Pühali Hiis. Sõõrumaa seostab koha oma esivanemate ajalooga (vähemalt 12 põlvkonda) ja missiooniga taastada küla elujõudu. Korraldab üritusi, puhkust ja keha-vaimu praktikaid looduses.
 - **Miks ta on siin:** Infosõja väsimus ei ole ainult vaimne — see on ka kehaline. Pühali pakub ruumi, kus inimene saab väljuda algoritmist: sauna, rabas jalutada, hiies vaikida, hingetõmmata. See on operatsiooni „ava silmad" missioon looduse ja hea elu kaudu.
 
-#### Taavi Karotamm — Strateegiline kommunikatsioon
+#### Taavi Karotamme — Strateegiline kommunikatsioon
+
+![Taavi Karotamme](images/profiles/taavi-karotamme.jpg)
 - **Roll operatsioonis:** Strateegilise kommunikatsiooni eestvedaja; sõnumite selgus, kriisikommunikatsioon ja avalik usaldus.
 - **Taust:** Major, Kaitseväe peastaabi pressijaoskonna ülem. Pikaaegne kaitseväe kommunikatsioonispetsialist; juhib meeskonda, planeerib kommunikatsioonitegevusi ja kriisistsenaariume. Kogemus koostöös riiklike ja rahvusvaheliste partneritega. Renee Aluste ajateenistuse kaaslane Vahipataljonist (2009–2010); kohtusid uuesti Estpla-21 raames UNIFIL-i Liibanonis (2015) — töötasid koos umbes seitse kuud Soome-Iiri pataljoni koosseisus.
-- **Miks ta on siin:** Karotamm mõistab, et kommunikatsioon on osa lahinguplaanist — mitte ainult tegevuste kajastamine, vaid ka sõjaline ja ühiskondlik mõju. Operatsioon „Peegel" vajab inimest, kes oskab rääkida nii kodanikule kui juhile — ausalt, ilma propaganda keeleta.
+- **Miks ta on siin:** Karotamme mõistab, et kommunikatsioon on osa lahinguplaanist — mitte ainult tegevuste kajastamine, vaid ka sõjaline ja ühiskondlik mõju. Operatsioon „Peegel" vajab inimest, kes oskab rääkida nii kodanikule kui juhile — ausalt, ilma propaganda keeleta.
 
 #### Arvo Jõesalu — Strateegiline kommunikatsioon
+
+![Arvo Jõesalu](images/profiles/arvo-joesalu.jpg)
 - **Roll operatsioonis:** Strateegilise kommunikatsiooni eestvedaja; infosõja vastane sõnumitöö ja meediaoperatsioonide kogemus.
 - **Taust:** Major, Kaitseliidu peastaabi strateegilise kommunikatsiooni osakonna ülem. Endine Kaitseväe teavituskeskuse (StratKomKe eelkäija) ülem (2011). Kogemus meediaoperatsioonides, teavitustöös ja reservväelaste teavitusõppustes. Aktiivne aruteludes väärinfo ja julgeoleku teemadel (sh Arvamusfestival 2025).
 - **Miks ta on siin:** Jõesalu on üks neist inimestest, kellega Renee Aluste on istunud laua taga ja arutanud, kuidas Eesti sõnum jõuab kodanikuni — ja kuidas vastane seda lõhub. Strateegiline kommunikatsioon ei ole turundus. See on riigi julgeolek kodaniku köögis.
@@ -211,7 +243,7 @@
 | Kõrgem | Eesti riik, Kaitsevägi, Kaitsepolitseiamet | Ametlik infosõja tõrje — hea, kuid kõik ei jõua kodanikuni |
 | Operatiivne | Kaitseväe Akadeemia, Kaitseliit | Juhtide koolitus, kogukonna kaitse — tugev |
 | Taktikaline | Combat Ready | Juhtimiskoolitus, ülim vastutus — aktiivne |
-| Strateegiline kommunikatsioon | Taavi Karotamm, Arvo Jõesalu | Kaitseväe ja Kaitseliidu strateegiline kommunikatsioon — aktiivne |
+| Strateegiline kommunikatsioon | Taavi Karotamme, Arvo Jõesalu | Kaitseväe ja Kaitseliidu strateegiline kommunikatsioon — aktiivne |
 | Rahva tase | Operatsioon „Peegel" võrgustik | KÄIVITATUD — see käsk |
 | Toetus | Katrin Lukas / „Ava oma Silmad" | Teadlikkuse kanal — aktiivne |
 | Toetus | Ingvar Villido / Practical Consciousness | Teadliku muutuse kunst — aktiivne |
@@ -222,7 +254,7 @@
 
 ## c. Tugevdused ja vähendused
 
-- **Tugevused:** Renee Aluste (isiklik kogemus + sõjaline väljaõpe); Combat Ready meeskond; Riho Ühtegi rahvuslik autoriteet; Rene Toomse strateegiline nägemus; Taavi Karotamm ja Arvo Jõesalu strateegilise kommunikatsiooni kogemus; Steigeri inimesekeskne juhtimine kui SOP (Lisa I); teadlikkuse võrgustik (Lukas, Villido, tantralaagrid, Pühali).
+- **Tugevused:** Renee Aluste (isiklik kogemus + sõjaline väljaõpe); Combat Ready meeskond; Riho Ühtegi rahvuslik autoriteet; Rene Toomse strateegiline nägemus; Taavi Karotamme ja Arvo Jõesalu strateegilise kommunikatsiooni kogemus; Steigeri inimesekeskne juhtimine kui SOP (Lisa I); teadlikkuse võrgustik (Lukas, Villido, tantralaagrid, Pühali).
 - **Vähendused:** Puuduv ametlik riiklik volitus (kodanikualgatus); piiratud eelarve; sõltuvus vabatahtlikust osalusest.
 
 ---
@@ -255,7 +287,7 @@ Operatsioon „Peegel" põhineb peegelneuronitel — ajus mehhanismil, mille abi
 
 ### Õppetund Liibanonist (Estpla-21, 2015)
 
-Renee Aluste ja Taavi Karotamm teenisid koos UNIFIL-i Liibanonis Soome-Iiri pataljoni koosseisus umbes seitse kuud. Laagri reegel: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my first!"* Iiri laud oli täis pudelid. Reeglid loodi loogikaga; pärast kahte õlut mõtles emotsioon — sa ei olnud enam sama inimene. Terve laager oli rahulik ainult siis, kui eelmisel õhtul oli joodud palju. See oli eluõppetund: dominants ei tööta inimeste peal pikas mängus. Mänguteooria ütleb: tit-for-tat on parim. Eestikeeles: *mida külvad, seda lõikad.* Parem tee on ausus, usaldus ja inimesekeskne juhtimine — mitte vanglad, mida ehitame ise, ja politsei, kes neid valvab.
+Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pataljoni koosseisus umbes seitse kuud. Laagri reegel: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my first!"* Iiri laud oli täis pudelid. Reeglid loodi loogikaga; pärast kahte õlut mõtles emotsioon — sa ei olnud enam sama inimene. Terve laager oli rahulik ainult siis, kui eelmisel õhtul oli joodud palju. See oli eluõppetund: dominants ei tööta inimeste peal pikas mängus. Mänguteooria ütleb: tit-for-tat on parim. Eestikeeles: *mida külvad, seda lõikad.* Parem tee on ausus, usaldus ja inimesekeskne juhtimine — mitte vanglad, mida ehitame ise, ja politsei, kes neid valvab.
 
 ## b. Ülesanded lahinguüksustele
 
@@ -303,7 +335,7 @@ Renee Aluste ja Taavi Karotamm teenisid koos UNIFIL-i Liibanonis Soome-Iiri pata
 2. Ürituste ja praktikate korraldamine, mis toetavad keha-vaimu tasakaalu.
 3. Võimalus lahkuda digitaalsest müra keskkonnast ja laadida end looduses — enne kui jätkad operatsiooni koduses rindejoones.
 
-### Taavi Karotamm / Arvo Jõesalu (strateegiline kommunikatsioon)
+### Taavi Karotamme / Arvo Jõesalu (strateegiline kommunikatsioon)
 1. Operatsiooni sõnumite selgus ja läbipaistvus — ilma propaganda keeleta.
 2. Kriisikommunikatsiooni standardid kodanikualgatusele (vt Lisa I).
 3. Infosõja vastane sõnumitöö: faktid, mitte hirm; ausus, mitte dominants.
@@ -374,7 +406,7 @@ Renee Aluste ja Taavi Karotamm teenisid koos UNIFIL-i Liibanonis Soome-Iiri pata
 | Tantra / laagrid | Margus Sarmet | tantratants.ee / tantrafest.ee |
 | Tantra / laagrid | Kristiina Saul | kristiinasaul.ee / tantrafest.ee |
 | Heaolu / loodus | Urmas Sõõrumaa | puhali.ee (Pühali Hea Elu Keskus) |
-| Strateegiline kommunikatsioon | Taavi Karotamm | mil.ee (Kaitsevägi) |
+| Strateegiline kommunikatsioon | Taavi Karotamme | mil.ee (Kaitsevägi) |
 | Strateegiline kommunikatsioon | Arvo Jõesalu | Kaitseliit |
 | Akadeemiline tugi | Aarne Ermus | Kaitseväe Akadeemia |
 
@@ -695,7 +727,7 @@ koos Combat Ready meeskonna ja partneritega
 
 **K (Budistlik rühmitus):** Teie „peegelneuronite" keel kõlab teadlikkuse praktikast. Kas te olete teadlikud, et see võib kattuda meditatsiooni ja eneseteadlikkuse õpetustega?
 
-**V:** Jah. Peegel on universaalne metafoor. Katrin Lukas tegeleb taskuhäälingus teadlikkuse ja ärkvelolekuga teistsugusel keelel — me austame seda. Ingvar Villido pakub praktilist teadlikkust; tantravõrgustik pakub keha ja läheduse kaudu avanemist. Operatsioon „Peegel" ei ole üks õige tee. See on üks tee — distsipliini, sõjalise selguse ja perekonna kaudu. Teie tee võib olla vaikus, meditatsioon või tantra. Eesmärk on sama: ärkvel inimene, kes ei lase end manipuleerida.
+**V:** Jah. Peegel on universaalne metafoor. Katrin Lukas tegeleb taskuhäälingus teadlikkuse ja ärkvelolekuga teistsugusel keelel — me austame seda. Ingvar Villido pakub praktilist teadlikkust; tantravõrgustik pakub keha ja läheduse kaudu avanemist; Pühali pakub loodust ja vaikust. Operatsioon „Peegel" ei ole üks õige tee. See on üks tee — distsipliini, sõjalise selguse ja perekonna kaudu. Teie tee võib olla vaikus, meditatsioon, tantra või mets. Eesmärk on sama: ärkvel inimene, kes ei lase end manipuleerida.
 
 *Minu küsimus sulle: Millal sa viimati olid täielikult kohal — ilma telefonita?*
 ---
@@ -801,7 +833,7 @@ koos Combat Ready meeskonna ja partneritega
 
 **K: Mis oli see lugu Liibanonist kahe õllega?**
 
-**V:** Estpla-21, 2015. Taavi Karotamm ja mina teenisime koos UNIFIL-is umbes seitse kuud. Reegel: kaks õlut. Kui keegi küsis — SOP vastus: „This is my first!" Iiri laud täis pudelid. Reeglid loodi loogikaga; pärast kahte õlut mõtles emotsioon. Laager oli rahulik ainult siis, kui eelmisel õhtul oli joodud palju. See ei olnud jätkusuutlik. Õppetund: dominants ei tööta inimeste peal pikas mängus. Inimesekeskne juhtimine — ausus, usaldus — on tõhusam.
+**V:** Estpla-21, 2015. Taavi Karotamme ja mina teenisime koos UNIFIL-is umbes seitse kuud. Reegel: kaks õlut. Kui keegi küsis — SOP vastus: „This is my first!" Iiri laud täis pudelid. Reeglid loodi loogikaga; pärast kahte õlut mõtles emotsioon. Laager oli rahulik ainult siis, kui eelmisel õhtul oli joodud palju. See ei olnud jätkusuutlik. Õppetund: dominants ei tööta inimeste peal pikas mängus. Inimesekeskne juhtimine — ausus, usaldus — on tõhusam.
 
 *Minu küsimus sulle: Kas sa juhid teisi reeglitega, mida sa ise ei järgi?*
 ---
@@ -820,7 +852,7 @@ koos Combat Ready meeskonna ja partneritega
 *Minu küsimus sulle: Mida sa täna külvad — ja mida sa tahad lõigata?*
 ---
 
-**K: Kas Taavi Karotamm ja Arvo Jõesalu toetavad seda ametlikult?**
+**K: Kas Taavi Karotamme ja Arvo Jõesalu toetavad seda ametlikult?**
 
 **V:** Nad on operatsiooni strateegilise kommunikatsiooni eestvedajad oma kogemuse ja partnerluse kaudu. See ei ole Kaitseväe ega Kaitseliidu ametlik käsk — me ütleme seda selgelt. Aga nende töö riigis on ju see sama: aus sõnum, kriitiline mõtlemine, kodaniku usaldus. Me täiendame, mitte ei asenda.
 

@@ -354,6 +354,7 @@
 | Toetus | Urmas Sõõrumaa / Pühali Hea Elu Keskus | Heaolu, loodus, puhkus — aktiivne |
 | Toetus | Eero Kinnunen / Eesti Kaitseväe Veteranid | Veteranide kogukond ja tugi — aktiivne |
 | Toetus | Marge Sillaste | Supervisioon, inimeste juhtimine — aktiivne |
+| Riik / tervis | TAI + kõik ministeeriumid | Protsessijuhtimine, Muski algoritm — aktiivne (Lisa L) |
 
 **Kõrgema üksuse kavatsus:** Kaitsta Eesti inimeste vaimset ja füüsilist julgeolekut. See operatsioon toetab seda eesmärki, mitte ei asenda riiklikku kaitset.
 
@@ -384,7 +385,7 @@ Operatsioon „Peegel" põhineb peegelneuronitel — ajus mehhanismil, mille abi
 
 **Faas III — Peegeldamine (kuud 9–12):** Oma kogukonnas eeskujuks. Räägi teistega. Toeta naabrit, kolleegi, sõpra. Iga tugev isa, iga toetav ema, iga mentor on võit.
 
-**Faas IV — Avastuspäev (alates kuu 12):** Uus suund arenenud ühiskonnana — läbipaistvus, inimesekeskne juhtimine, vabatahtlik vastutus. Rakenda Steigeri põhimõtteid (Lisa I). Lõpeta formaalne dominants, mis inimesed läbi näevad.
+**Faas IV — Avastuspäev (alates kuu 12):** Uus suund arenenud ühiskonnana — läbipaistvus, inimesekeskne juhtimine, vabatahtlik vastutus. Rakenda Steigeri põhimõtteid (Lisa I). Lõpeta formaalne dominants, mis inimesed läbi näevad. Ministeeriumid ja TAI rakendavad Muski viieastmelist algoritmi (Lisa L): küsi → kustuta → lihtsusta → kiirenda → automatiseeri.
 
 **Murdepunkt:** Kui ühiskondlik narratiiv nihkub — kui inimesed hakkavad rääkima vastutusest, mitte ohvrina olemisest.
 
@@ -470,6 +471,17 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 2. Steigeri inimesekeskse juhtimise põhimõtete rakendamine Lisa I järgi praktikas.
 3. Abi neile, kes teenivad teisi, et nad ei põleks läbi (vt Lisa H suunamine vajadusel).
 
+### Tervise Arengu Instituut (TAI) ja ministeeriumid (vt Lisa L)
+1. **Küsi nõudeid** — iga reegli taga peab olema nimi ja põhjus; lõpeta „aruande pärast" tegevus.
+2. **Kustuta** — eemalda dubleeriv bürokraatia, koosolekud ilma otsuseta, vormid, mida keegi ei kasuta.
+3. **Lihtsusta** — üks selge kanal kodanikule; inimkeel; inimene enne vormi (Steiger + Musk).
+4. **Kiirenda** — lühem tsükkel otsuseni; TAI tervisesõnumid kriisihetkel 48–72 h jooksul.
+5. **Automatiseeri viimasena** — IT ja self-service alles pärast sammude 1–4; ära ehita kiiremat müra masinat.
+
+**TAI spetsiifika:** vaimne tervis, infohügieen, pere tervis, aus statistika, koostöö Sotsiaal- ja Haridusministeeriumiga.
+
+**Ministeeriumid:** iga ministeerium valib 12 kuu jooksul ühe protsessi Muski algoritmi läbimiseks; avalikusta, mida kustutasid.
+
 ### Riho Ühtegi / Rene Toomse (strateegiline tase)
 1. Avalik sõnum: riigikaitse algab kodus.
 2. Poliitiline ja ühiskondlik dialoog perede toetusest.
@@ -518,6 +530,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | **„Juhul kui…"** | Kui tunned, et langed tagasi manipulatsiooni — pöördu mentorini, sõbra poole või professionaali poole. See on tugevus, mitte nõrkus. |
 | **„Juhul kui…" (isa kriisis)** | Alusta Lisast F (*Murra ring*), siis A, D, E. Kiirjuhend: Lisa H. Kriis: Eluliin 655 8088. |
 | **„Juhul kui…" (juhtimine)** | Loe Lisa I (Steiger 1997). Küsi: kas ma juhin inimest või kontrollin teda? |
+| **„Juhul kui…" (riik / bürokraatia)** | Loe Lisa L (Musk): küsi → kustuta → lihtsusta → kiirenda → automatiseeri. Automatiseeri viimasena. |
 | **„Juhul kui…" (keha suletud)** | Kui tunned end emotsionaalselt külmutatuna — kaaluge tantralaagrit või festivali (tantrafest.ee), Villido kursust (lilleoru.ee) või puhkust Pühalis (puhali.ee). Kriisis: Lisa H esimesena. |
 | **Lahingureeglid** | Ei ründa. Ei laima. Ei vihka. Ei manipuleeri. Peegeldame tervist, mitte haigust. |
 | **Tagasiside** | Igakuine tagasiside võrgustikule: mis töötab, mis mitte. Kanal: operatsiooni koordinaator. |
@@ -534,7 +547,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Klass | Sisu |
 |-------|------|
 | **I (toit)** | Soe pere eine 1× nädalas — ilma ekraanideta |
-| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik); „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*, Kaitseväe Akadeemia materjalid; laagrid: Eesti Tantrafestival, Tantra Tribe, Practical Consciousness; taastumine: Pühali Hea Elu Keskus (puhali.ee) |
+| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid, TAI); „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*, Kaitseväe Akadeemia materjalid; laagrid: Eesti Tantrafestival, Tantra Tribe, Practical Consciousness; taastumine: Pühali Hea Elu Keskus (puhali.ee) |
 | **III (kütus)** | Uni 7–8h; liikumine 30 min/päev |
 | **V (laskemoon)** | Sõnad — kasuta neid mõistlikult. Iga sõnum on lask |
 | **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber |
@@ -583,6 +596,8 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Haridus | Ott Pärna / Techno TLN | techno.ee (Lisa J — täielik juhtkond) |
 | Haridus | Rocca al Mare Kool | ramkool.edu.ee (Lisa J — juhtkond + Vaherid) |
 | Akadeemiline tugi | Aarne Ermus | Kaitseväe Akadeemia |
+| Tervis / ennetus | Tervise Arengu Instituut (TAI) | tai.ee (vt Lisa L) |
+| Riik / protsessid | Kõik ministeeriumid | valitsus.ee (vt Lisa L — Muski algoritm) |
 
 **Juhtimiskett:** Renee Aluste → Remo Ojaste → võrgustiku liikmed → iga kodanik iseenda juht.
 
@@ -602,6 +617,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Juhtimine (SOP):** Lisa I — `lisad/lisa-i-inimesekeskne-juhtimine.md` (Steiger 1997, ISBN 9985901274)
 - **Koolijuhtkonnad:** Lisa J — `lisad/lisa-j-haridusasutuste-juhtkonnad.md` (Techno TLN, KVA, Rocca al Mare Kool)
 - **Võrgustiku skeem:** Lisa K — `lisad/lisa-k-vorgustiku-skeem-ja-ulesanded.md` (kõik osalised, CR statistika, podcast)
+- **Ministeeriumid ja TAI:** Lisa L — `lisad/lisa-l-ministeeriumid-ja-tai.md` (Muski 5-astmeline algoritm)
 - **Koordinaatori profiil:** `lisad/renee-aluste-profiil.md` (eraldi leht)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
 - **Signaal OPERATSIOON TÄIDETUD:** Kui ühiskondlikud mõõdikud näitavad paranemist — üksikemade arv langeb, kiusamine väheneb, inimesed räägivad vastutusest.
@@ -1076,6 +1092,13 @@ koos Combat Ready meeskonna ja partneritega
 *Minu küsimus sulle: Kas sa juhid oma keskkonda — või lased keskkonnal juhtida sind?*
 ---
 
+**K: Mis on Muski algoritm ja miks ministeeriumid peavad seda teadma?**
+
+**V:** Elon Muski viieastmeline protsess on lihtne: (1) küsi nõudeid — kes pani reegli ja miks; (2) kustuta — eemalda üleliigne; (3) lihtsusta ja optimeeri; (4) kiirenda tsüklit; (5) automatiseeri — alles viimasena. Enamik riike teeb vastupidi: ostavad IT-d, et päästa halba protsessi. Operatsioon „Peegel" ütleb: infosõda võidetakse ka bürokraatia lihtsustamisega. Kui kodanik on väsinud vormidest ja ootamisest, kasvab lootetus — ja see on vastase võit. Täielikud juhised TAI-le ja kõigile ministeeriumidele on **Lisa L**.
+
+*Minu küsimus sulle: Millise ühe asja sa riigilt ootad — ja kas see peaks olema lihtsam?*
+---
+
 **K: Mis on Combat Ready for Her / Her Way?**
 
 **V:** Combat Ready | Her Way on naiste kogukond, mis õpetab enesejuhtimist ülima vastutuse põhimõtetel. Veebiseminarid ja treeningud — mitte eraldi sõda meeste vastu, vaid oma elu juhtimine. Kui sa oled ema, juht või lihtsalt väsinud — see on üks kanal. combatreadyherway.eu.
@@ -1131,6 +1154,7 @@ Need seitse köidet täiendavad käesolevat lahingukäsku. Iga köide on iseseis
 | **I** | — | `lisad/lisa-i-inimesekeskne-juhtimine.md` | Inimesekeskne juhtimine (Steiger 1997) — SOP ja Liibanonist õppetund |
 | **J** | — | `lisad/lisa-j-haridusasutuste-juhtkonnad.md` | Haridusasutuste juhtkonnad — Techno TLN, KVA ja Rocca al Mare Kool meeskonnad profiilipiltidega |
 | **K** | — | `lisad/lisa-k-vorgustiku-skeem-ja-ulesanded.md` | Võrgustiku skeem — kõik osalised, allüksuste ülesanded, CR statistika, podcasti külalised |
+| **L** | — | `lisad/lisa-l-ministeeriumid-ja-tai.md` | Ministeeriumid ja TAI — Muski 5-astmeline protsessijuhtimine (küsi → kustuta → lihtsusta → kiirenda → automatiseeri) |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

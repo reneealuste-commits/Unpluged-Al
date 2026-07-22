@@ -19,6 +19,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | I | [lisa-i-inimesekeskne-juhtimine.md](lisa-i-inimesekeskne-juhtimine.md) | **Inimesekeskne juhtimine** — Steiger 1997, SOP, Liibanonist õppetund |
 | J | [lisa-j-haridusasutuste-juhtkonnad.md](lisa-j-haridusasutuste-juhtkonnad.md) | **Haridusasutuste juhtkonnad** — Techno TLN, KVA, RaM Kool profiilipiltidega |
 | K | [lisa-k-vorgustiku-skeem-ja-ulesanded.md](lisa-k-vorgustiku-skeem-ja-ulesanded.md) | **Võrgustiku skeem** — kõik osalised, CR statistika, podcasti külalised |
+| L | [lisa-l-ministeeriumid-ja-tai.md](lisa-l-ministeeriumid-ja-tai.md) | **Ministeeriumid ja TAI** — Muski 5-astmeline protsessijuhtimine |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
 ---
@@ -37,6 +38,8 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 **Juhtimine:** Lisa I (Steiger 1997, ISBN 9985901274).
 
 **Võrgustik:** Lisa K (kõik osalised, allüksuste ülesanded, Combat Ready statistika).
+
+**Riik / TAI:** Lisa L (Muski algoritm ministeeriumidele).
 
 **Koordinaator:** [renee-aluste-profiil.md](renee-aluste-profiil.md).
 

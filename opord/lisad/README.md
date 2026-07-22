@@ -21,6 +21,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | K | [lisa-k-vorgustiku-skeem-ja-ulesanded.md](lisa-k-vorgustiku-skeem-ja-ulesanded.md) | **Võrgustiku skeem** — kõik osalised, CR statistika, podcasti külalised |
 | L | [lisa-l-ministeeriumid-ja-tai.md](lisa-l-ministeeriumid-ja-tai.md) | **Ministeeriumid ja TAI** — Muski 5-astmeline protsessijuhtimine |
 | M | [lisa-m-kodaniku-identiteet-ja-vanne.md](lisa-m-kodaniku-identiteet-ja-vanne.md) | **Kodaniku identiteet** — Robbins 5 sammu, manifest, vanne, LIHTSUS |
+| N | [lisa-n-aluste-kool.md](lisa-n-aluste-kool.md) | **Üksus Aluste_kool** — SOK demomehed, viisakuseeskiri, päevane checklist |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
 ---
@@ -43,6 +44,8 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 **Riik / TAI:** Lisa L (Muski algoritm ministeeriumidele).
 
 **Identiteet:** Lisa M (Robbins 5 sammu, kodaniku vanne, LIHTSUS).
+
+**SOK demomehed:** Lisa N (üksus Aluste_kool — viisakus, checklist).
 
 **Koordinaator:** [renee-aluste-profiil.md](renee-aluste-profiil.md).
 

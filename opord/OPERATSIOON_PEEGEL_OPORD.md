@@ -195,6 +195,15 @@
 - **Veeb:** [tasku.delfi.ee — Eriväelase jutud](https://tasku.delfi.ee/podcast/ff0c1df9-082d-414f-b06d-f48decd50f45)
 - **Miks ta on siin:** Robert ühendab meditsiini, distsipliini ja juhtimist — täpselt see kombinatsioon, mida operatsioon vajab kriisis. Tema kogemus meedikuna täiendab Lisa H taastumisressursse ja Combat Ready juhtimisliini.
 
+#### Üksus „Aluste_kool" — SOK demomehed (aktiveeritud)
+
+- **Roll operatsioonis:** Kodaniku demomeeste üksus — katsetavad päriselus, mis töötab; eeskuju lugupidavas suhtluses.
+- **Aktiveerija:** Renee Aluste (`Aluste_kool`).
+- **Liikmed (SOK):** Martin Plaser, Nils Ratt, Priit Uuemaa, Sverre Puustusmaa, Marko Kaseleht, Aleksandr Afanasjev, Robert Käsper — kõik **demomehed**.
+- **Kohustus:** Sõduriõpik / sõduri käsiraamat + Kaitseväe viisakuseeskirja (sisemäärustik, rivikord) läbilugemine; päevane checklist: **austa, kuula, usalda, ole mõjutatud, hooli** (vähemalt 1× päevas).
+- **Põhimõte:** Rivi eeskiri õpetab, *mis sa ütled ja millal* — austus konkreetse keele kaudu, mitte üldise „ole kena" sloganina.
+- **Täielik ülesanne:** **Lisa N** — `lisa-n-aluste-kool.md`
+
 #### Martin Jõesaar — Euroopa tase (Combat Ready kaasasutaja)
 
 ![Martin Jõesaar](images/profiles/martin-joesaar.jpg)
@@ -388,6 +397,7 @@
 - **Marko Oolo** — Aasta investor 2024, Exceli investeerimistööriistad ([oolomarko.ee](https://oolomarko.ee)).
 - **Katri Teller** — Blondcast, Aasta investor 2023 ([tasku.delfi.ee](https://tasku.delfi.ee)).
 - **Robert Käsper** — Combat Ready instruktor, üksuse meedik (18D); „Eriväelase jutud".
+- **Üksus Aluste_kool (SOK)** — demomehed: Plaser, Ratt, Uuemaa, Puustusmaa, Kaseleht, Afanasjev, Käsper (vt **Lisa N**).
 - **Nils Ratt, Priit Uuemaa, Sverre Puustusmaa, Marko Kaseleht, Aleksandr Afanasiev** — kogukonna ja võrgustiku liikmed; kohalikud eestvedajad ja mentorid.
 - **Kõik Eesti kodanikud** — operatsiooni lõplik sihtrühm ja põhijõud.
 
@@ -467,6 +477,7 @@
 | Toetus | Marko Oolo | Exceli tööriistad, portfellihaldus — aktiivne |
 | Toetus | Katri Teller / Blondcast | Taskuhääling, rahatarkus — aktiivne |
 | Toetus | Robert Käsper / Combat Ready | Meedik (18D), Eriväelase jutud — aktiivne |
+| Demomehed | Üksus Aluste_kool (SOK) | Viisakus, checklist, demomehed — aktiveeritud |
 | Toetus | Katrin Lucas / „Ava oma Silmad" | Teadlikkuse kanal — aktiivne |
 | Toetus | Ingvar Villido / Practical Consciousness | Teadliku muutuse kunst — aktiivne |
 | Toetus | Tiit Trofimov / eneseareng | Emotsioonid, meeste ring, taastumine — aktiivne |
@@ -532,6 +543,13 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 2. Combat Ready koolituste korraldamine võrgustikule.
 3. Isiklike lugude jagamine (autentsus).
 4. Mõõdikute jälgimine (tagasiside kogukonnast).
+5. **Aktiveeri ja juhi üksust Aluste_kool** — SOK demomehed (vt **Lisa N**).
+
+### Üksus Aluste_kool (SOK — kõik demomehed)
+1. Loe läbi **sõduriõpik** ja **Kaitseväe viisakuseeskirja** põhimõtted (sisemäärustik, rivikord) — [mil.ee õigusaktid](https://mil.ee/kaitsevagi/uldinfo/oigusaktid-ja-eeskirjad/kaitsevaeteenistuse-alused/uldised-eeskirjad-ja-maarustikud/).
+2. **Iga päev checklist** (vähemalt 1×): austa · kuula · usalda · ole mõjutatud · hooli.
+3. **Katseta, mis töötab** — anna igakuiselt tagasiside: mis checklisti punkt aitas, mis mitte.
+4. Ole **demomees** — näita eeskuju, ära ainult räägi; täielik juhend: **Lisa N**.
 
 ### Combat Ready (Remo Ojaste, Priit Lilleväli, meeskond)
 1. Ülima vastutuse koolitused ettevõtetele ja kogukondadele.
@@ -732,7 +750,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Klass | Sisu |
 |-------|------|
 | **I (toit)** | Soe pere eine 1× nädalas — ilma ekraanideta |
-| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet); Alar Ojastu *Ratsionaalne emotsionaalsus*; Tiit Trofimov *Lõpp on algus*; Liivamägi/Talpsepp/Vaarmets *Eraisiku rahandus*; „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee); Gordon (sinamina.ee); Imelised aastad (pk.ee); Papsid.ee; Starfish Academy; BMI Institute; BNI Eesti; Äripäev Investor Toomas (aripaev.ee/raadio); Rahakratt (rahakratt.rahajutud.ee); Marko Oolo Exceli tööriistad (oolomarko.ee); Blondcast (tasku.delfi.ee) |
+| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet), **Lisa N (Aluste_kool)**; Alar Ojastu *Ratsionaalne emotsionaalsus*; Tiit Trofimov *Lõpp on algus*; Liivamägi/Talpsepp/Vaarmets *Eraisiku rahandus*; „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee); Gordon (sinamina.ee); Imelised aastad (pk.ee); Papsid.ee; Starfish Academy; BMI Institute; BNI Eesti; Äripäev Investor Toomas (aripaev.ee/raadio); Rahakratt (rahakratt.rahajutud.ee); Marko Oolo Exceli tööriistad (oolomarko.ee); Blondcast (tasku.delfi.ee); **Sõduri käsiraamat + Kaitseväe sisemäärustik** (mil.ee) |
 | **III (kütus)** | Uni 7–8h; liikumine 30 min/päev |
 | **V (laskemoon)** | Sõnad — kasuta neid mõistlikult. Iga sõnum on lask |
 | **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber; [narko.ee](https://www.narko.ee) chatbot/tugiliin (Renee alustas siit); [ohvriabi.ee](https://ohvriabi.ee) — koduvägivalla korral kuni 940 € psühholoogilise abi toetus 2 aasta jooksul (sh **EMDR** sessioonid); Märt Avandi lugu YouTube'is: [watch?v=nNuHGdQdrZY](https://www.youtube.com/watch?v=nNuHGdQdrZY) |
@@ -772,6 +790,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Excel / portfell | Marko Oolo | oolomarko.ee |
 | Taskuhääling | Katri Teller / Blondcast | tasku.delfi.ee |
 | Meedik / veteran | Robert Käsper | Eriväelase jutud (Delfi) |
+| Demomehed (SOK) | Üksus Aluste_kool | Lisa N — viisakus, checklist |
 | Juhtimiskoolitus | Priit Lilleväli | priit.lillevali@combatready.eu |
 | Teadlikkus | Katrin Lucas | katrinlucas.com |
 | Teadlik muutus | Ingvar Villido | lilleoru.ee / human.ee |
@@ -1366,6 +1385,7 @@ Need seitse köidet täiendavad käesolevat lahingukäsku. Iga köide on iseseis
 | **K** | — | `lisad/lisa-k-vorgustiku-skeem-ja-ulesanded.md` | Võrgustiku skeem — kõik osalised, allüksuste ülesanded, CR statistika, podcasti külalised |
 | **L** | — | `lisad/lisa-l-ministeeriumid-ja-tai.md` | Ministeeriumid ja TAI — Muski 5-astmeline protsessijuhtimine (küsi → kustuta → lihtsusta → kiirenda → automatiseeri) |
 | **M** | — | `lisad/lisa-m-kodaniku-identiteet-ja-vanne.md` | Kodaniku identiteet — Robbins 5 sammu, manifest peegli ees, kodaniku vanne, etapp LIHTSUS |
+| **N** | — | `lisad/lisa-n-aluste-kool.md` | **Üksus Aluste_kool** — SOK demomehed, viisakuseeskiri, päevane checklist |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

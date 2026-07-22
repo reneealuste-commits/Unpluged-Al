@@ -191,6 +191,19 @@
 | Eesti Kaitseväe Veteranid (Kinnunen) | Veteranide tugi, ausad lood, kogukond |
 | Marge Sillaste | Supervisioon — inimeste juhtimine, mitte protsesside kontroll |
 
+### 3.12 Üksus Aluste_kool (SOK — demomehed) — AKTIVEERITUD
+
+**Aktiveerija:** Renee Aluste · **Kood:** `Aluste_kool` · **Täielik juhend:** Lisa N
+
+| Ülesanne | Kirjeldus |
+|----------|-----------|
+| 1 | Loe sõduriõpik + Kaitseväe sisemäärustik (viisakus, rivikord) |
+| 2 | Päevane checklist: **austa · kuula · usalda · ole mõjutatud · hooli** (1× päevas) |
+| 3 | Katseta mis töötab — igakuine tagasiside SOK ringis |
+| 4 | Iga liige on **demomees** — näita eeskuju, ära ainult räägi |
+
+**SOK liikmed:** Martin Plaser, Nils Ratt, Priit Uuemaa, Sverre Puustusmaa, Marko Kaseleht, Aleksandr Afanasjev, Robert Käsper.
+
 ---
 
 ## 4. Osalised nimeliselt — roll, eesmärk, ülesanne
@@ -555,12 +568,12 @@
 
 | Nimi | Roll | Ülesanne |
 |------|------|----------|
-| Martin Plaser | Maadlustreener | Füüsiline distsipliin noortele |
-| Nils Ratt | Kogukonna liige | Kohalik eestvedamine |
-| Priit Uuemaa | Kogukonna liige | Mentorlus |
-| Sverre Puustusmaa | Kogukonna liige | Võrgustiku tugi |
-| Marko Kaseleht | Kogukonna liige | Kohalik tegevus |
-| Aleksandr Afanasjev | Instruktor | Koolitused (vt ka CR tuumik) |
+| Martin Plaser | Maadlustreener; **SOK / Aluste_kool** | Füüsiline distsipliin; demomees (Lisa N) |
+| Nils Ratt | Kogukonna liige; **SOK / Aluste_kool** | Kohalik eestvedamine; viisakuse checklist |
+| Priit Uuemaa | Kogukonna liige; **SOK / Aluste_kool** | Mentorlus; demomees |
+| Sverre Puustusmaa | Kogukonna liige; **SOK / Aluste_kool** | Võrgustiku tugi; SOK sidemees |
+| Marko Kaseleht | Kogukonna liige; **SOK / Aluste_kool** | Kohalik tegevus; demomees |
+| Aleksandr Afanasjev | Instruktor; **SOK / Aluste_kool** | Koolitused; CR + demomees |
 | Peep Vain | Koolitaja (Vain & Partners) | Juhtimine, motivatsioon, enesemääramine |
 | Alar Ojastu | Koolitaja, autor | *Ratsionaalne emotsionaalsus*; emotsioonid ja juhtimine |
 | Tiit Trofimov | Enesearengu teejuht | Emotsioonid, meeste ring, meditatsioon (tiittrofimov.ee) |
@@ -579,7 +592,7 @@
 | Kristjan Liivamägi | TalTech, KML Invest | Aasta investor 2022, rahatarkus (rahaedu.ee) |
 | Marko Oolo | Investor, Excel | Aasta investor 2024, portfellitööriistad (oolomarko.ee) |
 | Katri Teller | Blondcast | Aasta investor 2023, taskuhääling (tasku.delfi.ee) |
-| Robert Käsper | Combat Ready, meedik 18D | FTX, Eriväelase jutud |
+| Robert Käsper | Combat Ready, meedik 18D; **SOK / Aluste_kool** | FTX, Eriväelase jutud; demomees |
 
 ---
 

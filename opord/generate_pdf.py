@@ -38,6 +38,7 @@ BOOK_FILES = [
     "lisa-k-vorgustiku-skeem-ja-ulesanded.md",
     "lisa-l-ministeeriumid-ja-tai.md",
     "lisa-m-kodaniku-identiteet-ja-vanne.md",
+    "lisa-n-aluste-kool.md",
     "renee-aluste-profiil.md",
 ]
 

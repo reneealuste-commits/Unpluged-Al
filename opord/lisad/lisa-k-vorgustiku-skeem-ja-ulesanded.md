@@ -215,6 +215,7 @@
 | Priit Uuemaa | Mentor | Juhtimine, areng |
 | Sverre Puustusmaa | Võrgustiku tugi | Sidemed |
 | Marko Kaseleht | Kohalik tegija | Piirkondlik tegevus |
+| Kaido Raudvere | Tegus ettevõtja | Hajutatud võrgustik |
 | Robert Käsper | Meedik (18D), veteran | Kaitse, meditsiin, „Eriväelase jutud" |
 
 ---
@@ -580,6 +581,7 @@
 | Priit Uuemaa | Tegus ettevõtja; hajutatud võrgustik | Mentorlus |
 | Sverre Puustusmaa | Tegus ettevõtja; hajutatud võrgustik | Võrgustiku tugi |
 | Marko Kaseleht | Tegus ettevõtja; hajutatud võrgustik | Kohalik tegevus |
+| Kaido Raudvere | Tegus ettevõtja; hajutatud võrgustik | Kohalik tegevus |
 | Peep Vain | Koolitaja (Vain & Partners) | Juhtimine, motivatsioon, enesemääramine |
 | Alar Ojastu | Koolitaja, autor | *Ratsionaalne emotsionaalsus*; emotsioonid ja juhtimine |
 | Tiit Trofimov | Enesearengu teejuht | Emotsioonid, meeste ring, meditatsioon (tiittrofimov.ee) |

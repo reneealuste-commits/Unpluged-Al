@@ -8,6 +8,19 @@
 
 ---
 
+## Miks see operatsioon olemas on (30 sekundit)
+
+| | |
+|---|---|
+| **Ajend** | Renee elas läbi depressiooni ja infosõja mõju; põles läbi ~3 aasta Sõdurioskuste kursustega. Nägi, et riik teeb tööd, aga algoritmid jõuavad peredeni varem kui riigi sõnum. |
+| **Miks** | Järgmine sõda on su nutitelefonis. Peresid lõhutakse seestpoolt. Eesti väärib läbipaistvust ja eeskuju — mitte manipulatsiooni. |
+| **Eesmärk** | Tugevam pere, kriitiline mõtlemine, isiklik vastutus — eeskuju kaudu. Iga lapsele tugev eeskuju. |
+| **Plaan** | Ava silmad → tugevda → peegelda → lihtsusta. 1-1 vestlused. V-formatsiooni rotatsioon. |
+
+Täielik tuum: `OPERATSIOON_PEEGEL_OPORD.md` — sektsioon **„MIKS? AJEND. EESMÄRK."**
+
+---
+
 ## Kes ma olen
 
 ![Renee Aluste](images/profiles/renee-aluste.jpg)

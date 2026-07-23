@@ -17,6 +17,66 @@
 
 ---
 
+## MIKS? AJEND. EESMÄRK.
+
+> *Kui sa mõtled „WTF?" — **loe just seda**. Ülejäänud dokument on detail, plaan ja võrgustik. See on tuum.*
+
+### Mis see EI ole
+
+| Ei | Jah |
+|----|-----|
+| Sõda relvadega | Vastutegevus infosõjale — su nutitelefonis, uudisvoos, kõhutundes |
+| Riiklik käsk või erakond | **Kodanikualgatus** — toetab riiki, ei asenda seda |
+| Vandenõuteooria müügimasin | Aus eesmärk, läbipaistev kavatsus, kontrollitavad allikad |
+| Ühe mehe show | Võrgustik + **V-formatsioon** — rotatsioon, mitte üks eesmine igavesti (Lisa I) |
+
+### AJEND — miks praegu?
+
+Renee Aluste ei alustanud teooriast. Ta alustas oma elust:
+
+1. **Ta elas läbi murde.** Depressioon, infosõja mõju, isolatsioon, ekraan, lootusetus — ja taastumine (Lisa H). Ta teab, kuidas inimest seestpoolt murda.
+2. **Ta põles läbi.** Umbes kolm aastat Sõdurioskuste kursuseid — efektiivselt, suurelt — kuni läbipõlemise ilmingud sundisid peatuma. Seekord tehakse **targemalt**: 1-1 vestlused, rotatsioon, mitte üks mees kogu aeg ees.
+3. **Riik teeb tööd, aga sõnum ei jõua igasse peresse.** Kaitsevägi, Kaitseliit, KAPO — head. Siiski tabavad algoritmid (TikTok, Telegram, võõrkeelsed kanalid) inimesi enne, kui nad aru saavad.
+4. **Liibanon õpetas.** Dominants ei tööta inimeste peal pikas mängus. Ausus ja usaldus töötavad paremini kui reeglid, mida kõik teavad, et on vale.
+
+**Esimene ukse lahti tegemine:** 1-1 vestlus **Rene Toomsega** on alustatud.
+
+### MIKS — miks Operatsioon „Peegel"?
+
+- Sest **järgmine sõda on su köögis** — mitte ainult tankidega piiril.
+- Sest **peresid lõhutakse seestpoolt**: hirm, viha, lootetus, usaldamatus — mitte pommidega.
+- Sest **Eesti väärib läbipaistvust ja eeskuju** — mitte manipulatsiooni ja saladust.
+- Sest **riigikaitse algab kodus** — tugev isa/emme, mentor, aus vestlus, kriitiline mõtlemine.
+- Sest **peegelneuronid** töötavad mõlemas suunas: vastane kasutab neid hirmu levitamiseks; meie kasutame tervist, distsipliini ja vastutust.
+
+### EESMÄRK — mida me tahame
+
+**Üks lause:** Eesti inimesed on tugevamad peres, tervem mõtlemises ja vastutustundlikumad kogukonnas — **eeskuju kaudu**, mitte hirmu kaudu.
+
+| Mõõdik | Mida see tähendab |
+|--------|-------------------|
+| **Eeskuju** | Iga lapse elus on tugev, kohalolev isa, ema, vanaisa, treener või mentor |
+| **Pere** | Üksikemade arv langeb; pered veedavad aega koos (ilma ekraanita) |
+| **Ühiskond** | Kiusamine väheneb; inimesed räägivad vastutusest, mitte ainult ohvrina olemisest |
+
+### PLAAN — ühe minutiga
+
+```
+AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHTSUS (13+)
+     Lisa A–B                  Lisa C–G           eeskuju kodus         Lisa M
+```
+
+1. **Teadvusta** — tuvasta manipulatsioon, piira algoritme, õpi ennast tundma.
+2. **Tugevda** — pere, liikumine, uni, toit, mentorlus, võrgustiku koolitused.
+3. **Peegelda** — ole eeskuju naabrile, kolleegile, sõbrale; iga tugev inimene on väike võit.
+4. **Lihtsusta** — üks plaan, üks tõde korraga, üks peegel päevas (Lisa M).
+
+**Kuidas alustada täna:** loe Lisa A või H (kriisis). Kui oled lõpuni jõudnud — SMS **56980062**, sõnum **„Peegel"**.
+
+> *Mina näitan ees ideaalset sooritust. Sina jäljendad — ja peegeldad mulle tagasi. See on kogu operatsioon.*
+
+---
+
 ## EELKÄSK
 
 **Kõrgema käsu kokkuvõte:** Eesti riik ja kaitsestruktuurid on aastaid tegutsenud Vene infosõja ja psühholoogilise mõjutamise vastu. Kaitsevägi, Kaitseväe Akadeemia, Kaitseliit ja valitsusasutused on teinud olulist tööd. Siiski jõuab osa mõjutusest algoritmide kaudu (TikTok, sotsiaalmeedia, võõrkeelsed kanalid) kodanikeni — vastane kasutab meie enda tööriistu meie vastu.
@@ -30,6 +90,8 @@
 ---
 
 ## ÜLESANDE KOOSSEIS JA OSALAJATE PROFIILID
+
+> *Hoiatus: allpool on pikk nimekiri inimestest ja üksustest. Kui see segadusse ajab — **tule hiljem tagasi**. Sa ei pea kedagi tundma, et alustada. Alusta MIKS? sektsioonist.*
 
 ### Operatsiooni struktuur (skeem)
 
@@ -973,6 +1035,20 @@ koos Combat Ready meeskonna ja partneritega
 ---
 
 ## I. Üldised küsimused
+
+**K: WTF — mis see üldse on? Miks see olemas on?**
+
+**V (Renee Aluste):** Aus küsimus. Lühidalt:
+
+- **Mis:** Kodanikualgatus — vastutegevus infosõjale. Mitte sõda relvadega. Mitte riiklik käsk.
+- **Ajend:** Ma elasin läbi murde (depressioon, infosõja mõju) ja läbipõlemise (3 aastat Sõdurioskuste kursuseid). Nägin, et riik teeb tööd, aga sõnum ei jõua igasse peresse. Algoritmid tabavad inimesi varem kui nad aru saavad.
+- **Eesmärk:** Tugevam pere, tervem mõtlemine, isiklik vastutus — **eeskuju kaudu**, mitte hirmu kaudu.
+- **Plaan:** Ava silmad → tugevda → peegelda → lihtsusta. Alusta 1-1 vestlustest, mitte mass-koolitusest.
+
+Kui see kõlab liiga pikalt — loe dokumendi alguses sektsiooni **„MIKS? AJEND. EESMÄRK."** See on 60 sekundit. Ülejäänud on detail.
+
+*Minu küsimus sulle: Kas sa tead, mis sind iga päev ehitab üles — ja mis lõhub?*
+---
 
 **K: Mis asi see „operatsioon" üldse on? Kas see on sõda?**
 

@@ -801,7 +801,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | **Kontakt vaenlasega** | Ära vaheta vihaga. Ära jaga emotsionaalseid reaktsioone. Faktid, rahulik tõde, eeskuju. |
 | **„Juhul kui…"** | Kui tunned, et langed tagasi manipulatsiooni — pöördu mentorini, sõbra poole või professionaali poole. See on tugevus, mitte nõrkus. |
 | **„Juhul kui…" (isa kriisis)** | Alusta Lisast F (*Murra ring*), siis A, D, E. Kiirjuhend: Lisa H. Kriis: Eluliin 655 8088. |
-| **„Juhul kui…" (juhtimine)** | Loe Lisa I (Steiger 1997). Küsi: kas ma juhin inimest või kontrollin teda? |
+| **„Juhul kui…" (juhtimine)** | Loe Lisa I (Steiger 1997). Küsi: kas ma juhin inimest või kontrollin teda? **V-formatsioon:** üks ei veda igavesti — tugevaim alustab, otsib asendajat, vahetab rolli. |
 | **„Juhul kui…" (identiteet)** | Loe Lisa M — Robbinsi 5 sammu, manifest peegli ees, kodaniku vanne. LIHTSUS: üks plaan, üks tegu. |
 | **„Juhul kui…" (riik / bürokraatia)** | Loe Lisa L (Musk): küsi → kustuta → lihtsusta → kiirenda → automatiseeri. Automatiseeri viimasena. |
 | **„Juhul kui…" (keha suletud)** | Kui tunned end emotsionaalselt külmutatuna — kaaluge tantralaagrit või festivali (tantrafest.ee), Villido kursust (lilleoru.ee) või puhkust Pühalis (puhali.ee). Kriisis: Lisa H esimesena. |
@@ -898,6 +898,8 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 
 **Juhtimiskett:** Renee Aluste → Remo Ojaste → võrgustiku liikmed → iga kodanik iseenda juht.
 
+**V-formatsiooni põhimõte (Lisa I):** Nagu rändlinnud (toonekured, haned, pelikanid) — üks eesmine ei veda lõputult. Eesmine kandab suurimat koormust; seetõttu **rotatsioon**. Praegu **tugevaim määratud** juht võtab ette; **samaaegselt otsib**, kes ta võimalusel välja vahetab. Juhtimine on vahetatav roll, mitte püsiv troon.
+
 ## b. Side ja signaalid
 - **Ühisosa märge:** #OperatsioonPeegel
 - **Veeb:** combatready.eu
@@ -912,7 +914,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Tantralaagrid:** tantrafest.ee, tantratants.ee, kristiinasaul.ee
 - **Taastumine looduses:** puhali.ee (Pühali Hea Elu Keskus, Urmas Sõõrumaa)
 - **Kriis (isad):** Lisa H — `lisad/lisa-h-kiirjuhend-kriisis-isale.md`
-- **Juhtimine (SOP):** Lisa I — `lisad/lisa-i-inimesekeskne-juhtimine.md` (Steiger 1997, ISBN 9985901274)
+- **Juhtimine (SOP):** Lisa I — `lisad/lisa-i-inimesekeskne-juhtimine.md` (Steiger 1997 + V-formatsiooni rotatsioon, ISBN 9985901274)
 - **Koolijuhtkonnad:** Lisa J — `lisad/lisa-j-haridusasutuste-juhtkonnad.md` (Techno TLN, KVA, Rocca al Mare Kool)
 - **Võrgustiku skeem:** Lisa K — `lisad/lisa-k-vorgustiku-skeem-ja-ulesanded.md` (kõik osalised, CR statistika, podcast)
 - **Ministeeriumid ja TAI:** Lisa L — `lisad/lisa-l-ministeeriumid-ja-tai.md` (Muski 5-astmeline algoritm)
@@ -1350,6 +1352,13 @@ koos Combat Ready meeskonna ja partneritega
 *Minu küsimus sulle: Kas sa juhid teisi nii, nagu sa tahaksid, et sind juhiks?*
 ---
 
+**K: Mis on V-formatsiooni juhtimine ja miks see on oluline?**
+
+**V:** Rändlinnud — toonekured, haned, pelikanid — lendavad sageli V-kujuliselt. Eesmine kandab suurimat koormust; taga lendajad säästavad energiat. Seetõttu **vahetatakse eespositsiooni**: üks mees ei saa kogu aeg eest vedada. Operatsioonis tähendab see: praegu **tugevaim määratud** juht alustab ette — ja **otsib kogu aeg**, kes ta võimalusel välja vahetab. Juhtimine on vahetatav roll, mitte troon. Vt Lisa I.
+
+*Minu küsimus sulle: Kas sa otsid aktiivselt kedagi, kes sind eest asendaks — või hoiad kinni eespositsioonist?*
+---
+
 **K: Miks dominants ei tööta?**
 
 **V:** Lühikeses mängus sa võid sundida. Pikas mängus inimesed näevad läbi. Mänguteooria: tit-for-tat — vasta samaga, mida sa saad. Eestikeeles: mida külvad, seda lõikad. Kui sa juhid hirmuga, saad hirmu tagasi. Kui sa juhid aususega, saad usaldust. See ei ole naiivne. See on efektiivne.
@@ -1465,7 +1474,7 @@ Need seitse köidet täiendavad käesolevat lahingukäsku. Iga köide on iseseis
 | **F** | 6/7 | `lisad/raamat-06-murra-ring.md` | Murra ring — depressioon ja taastumine |
 | **G** | 7/7 | `lisad/raamat-07-juhi-ja-voida.md` | Juhi ja võida — kogukond ja kutse |
 | **H** | — | `lisad/lisa-h-kiirjuhend-kriisis-isale.md` | Kiirjuhend kriisis isale — kriisiteekond ja lugemisjärjekord |
-| **I** | — | `lisad/lisa-i-inimesekeskne-juhtimine.md` | Inimesekeskne juhtimine (Steiger 1997) — SOP ja Liibanonist õppetund |
+| **I** | — | `lisad/lisa-i-inimesekeskne-juhtimine.md` | Inimesekeskne juhtimine (Steiger 1997) — SOP, V-formatsiooni rotatsioon, Liibanonist õppetund |
 | **J** | — | `lisad/lisa-j-haridusasutuste-juhtkonnad.md` | Haridusasutuste juhtkonnad — Techno TLN, KVA ja Rocca al Mare Kool meeskonnad profiilipiltidega |
 | **K** | — | `lisad/lisa-k-vorgustiku-skeem-ja-ulesanded.md` | Võrgustiku skeem — kõik osalised, allüksuste ülesanded, CR statistika, podcasti külalised |
 | **L** | — | `lisad/lisa-l-ministeeriumid-ja-tai.md` | Ministeeriumid ja TAI — Muski 5-astmeline protsessijuhtimine (küsi → kustuta → lihtsusta → kiirenda → automatiseeri) |

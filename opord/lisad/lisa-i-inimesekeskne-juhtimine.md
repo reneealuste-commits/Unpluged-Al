@@ -18,6 +18,26 @@ Inimesekeskses juhtimises on võtmeroll inimesel — mõtlemises, tunnetes ja te
 
 ---
 
+## V-formatsioon: üks eesmine ei veda igavesti
+
+Rändlinnud — toonekured, haned, pelikanid, kured — lendavad sageli V- või kiilukujulises formis. Eesmine kandab suurimat aerodünaamilist koormust; taga lendajad kasutavad tõusuõhku ja säästavad energiat. Seetõttu **eespositsiooni vahetatakse**: keegi ei jää ette lõputult. Kui eesmine väsib, liigub ta tagasi ja teine tuleb ette.
+
+Operatsioon „Peegel" võtab selle looduse õppetunni juhtimise SOP-iks:
+
+| Põhimõte | Mida see tähendab |
+|----------|-------------------|
+| **Üks mees ei veda kogu aeg** | Pidev eesmine juhtimine põletab inimese ära — nii nagu lind ees |
+| **Alustab praegu tugevaim** | Kui vaja minna ette, võtab juhtimise see, kes on **praegu** kõige võimekam ja määratud |
+| **Otsi asendajat kogu aeg** | Eesmine ei oota kurnatuna; ta **otsib pidevalt**, kes ta võib võimalusel välja vahetada |
+| **Vahetus on tugevus** | Rotatsioon ei ole nõrkus ega trots — see on meeskonna jätkusuutlikkus |
+| **Täpne positsioon + side** | V töötab ainult siis, kui kõik hoiavad joont ja teavad, millal vahetus tuleb |
+
+> *Juhtimine siin ei ole troon. See on vahetatav roll — nagu lind V-formatsiooni tipus.*
+
+Steigeri kuus sammast (allpool) täiendavad seda: juht, kes kuulab ja mõistab teisi, leiab kergemini, kes järgmisena ette võtab.
+
+---
+
 ## Steigeri kuus sammast (kokkuvõte)
 
 1. **Enesetundmine** — juht õpib ennast tundma ja suudab oma vigu tunnistada.
@@ -38,6 +58,7 @@ Inimesekeskses juhtimises on võtmeroll inimesel — mõtlemises, tunnetes ja te
 | Dominants töötab lühikeses mängus | Pikem mäng: *mida külvad, seda lõikad* (tit-for-tat) |
 | Vanglad, mida ehitame ise, ja politsei, kes neid valvab | Vabatahtlik vastutus ja läbipaistvus |
 | Juht käsib | Juht kuulab, peegeldab, ehitab |
+| Üks juht kogu aeg ees | **V-formatsioon:** tugevaim alustab; otsib asendajat; rotatsioon |
 
 ---
 

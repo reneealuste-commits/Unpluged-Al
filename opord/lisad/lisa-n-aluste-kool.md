@@ -44,7 +44,7 @@ Kasuta seda nimekirja iga päev — üks punkt või kõik viis:
 | **Sõduri käsiraamat / sõduriõpik** | Sõduri roll, distsipliin, igapäevane käitumine | [Kaitsevägi — õigusaktid](https://mil.ee/kaitsevagi/uldinfo/oigusaktid-ja-eeskirjad/kaitsevaeteenistuse-alused/uldised-eeskirjad-ja-maarustikud/) |
 | **Kaitseväe sisemäärustik** | Viisakus, teenistuslik suhtlus, rivikord | Sama portaal — *Kaitseväe sisemäärustik* (PDF) |
 | **Rivi eeskiri** | Mis ütled ja millal — tervitus, raport, auavaldus | Sisemäärustiku rivi- ja vormistusosa |
-| **Lisa I (Steiger)** | Inimesekeskne juhtimine — täiendab rivi austust inimlikkusega | `lisa-i-inimesekeskne-juhtimine.md` |
+| **Lisa I (Steiger)** | Inimesekeskne juhtimine + **V-formatsioon** — üks ei veda igavesti; tugevaim alustab, otsib asendajat | `lisa-i-inimesekeskne-juhtimine.md` |
 
 **Eesmärk:** mitte militaarne teatri, vaid **lugupidav suhtlus** — konkreetne keel, mitte üldine „ole kena".
 
@@ -111,6 +111,8 @@ Tsiviilis kasutatav versioon — ilma teatrita, aga selgusega:
 ## 8. Seos operatsiooniga
 
 **Aluste_kool** on operatsiooni **kodaniku demomeeste** üksus — väiksem ja tihedam kui kogu võrgustik. Kui Combat Ready õpetab juhtimist ettevõtetele, siis Aluste_kool õpetab **austust ja lugupidavat suhtlust** igapäevases elus.
+
+**Juhtimine demomehe ringis (V-formatsioon):** üks mees ei saa kogu aeg ees vedada. Kui vaja minna ette, alustab praegu tugevaim — ja **otsib kogu aeg**, kes ta võimalusel välja vahetab. Vahetus ei ole trots; see on meeskonna jätkusuutlikkus (vt Lisa I).
 
 Võit siin: inimene, kes sinu kõrval käib, tunneb, et temaga suheldakse nii, nagu rivi eeskiri õpetab — ausalt, selgelt, lugupidavalt.
 

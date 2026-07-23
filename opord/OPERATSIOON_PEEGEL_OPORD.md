@@ -670,11 +670,11 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 ### Renee Aluste rühm (koordineerimisüksus)
 1. **1-1 vestlused** — prioriteet: **traumateadlikult**, turvalisuses ja mõistmises (läbipõlemise vastu; vt V-formatsioon Lisa I).
 2. **Turvalisuse standard** — kõik kontaktid: kuula → valideeri → ausus → valik (Lisa P). Mitte dominants ega kiirustamine.
-2. Sõnumite koordineerimine ja levitamine.
-3. Combat Ready koolituste korraldamine võrgustikule.
-4. Isiklike lugude jagamine (autentsus).
-5. Mõõdikute jälgimine (tagasiside kogukonnast).
-6. **Aktiveeri ja juhi üksust Aluste_kool** — SOK demomehed (vt **Lisa N**).
+3. Sõnumite koordineerimine ja levitamine.
+4. Combat Ready koolituste korraldamine võrgustikule.
+5. Isiklike lugude jagamine (autentsus).
+6. Mõõdikute jälgimine (tagasiside kogukonnast).
+7. **Aktiveeri ja juhi üksust Aluste_kool** — SOK demomehed (vt **Lisa N**).
 
 ### Üksus Aluste_kool (SOK — demomehed)
 1. Loe läbi **sõduriõpik** ja **Kaitseväe viisakuseeskirja** põhimõtted (sisemäärustik, rivikord) — [mil.ee õigusaktid](https://mil.ee/kaitsevagi/uldinfo/oigusaktid-ja-eeskirjad/kaitsevaeteenistuse-alused/uldised-eeskirjad-ja-maarustikud/).

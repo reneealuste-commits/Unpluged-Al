@@ -247,6 +247,13 @@
 - **Taust:** Endine ettevõtja (kinnisvara, restoranid, sisekujundus; sh Adila puhkekeskuse arendaja). 2009. aasta kriisis kaotas kodu, vara ja perekonna — see muutis ta elu. Viimased 15+ aastat teadliku enesearengu, meditatsiooni, jooga ja kehatöö valdkonnas. Autor *Lõpp on algus. Julgus elada iseendana* (Pilgrim, 2023). Korraldab vestlusõhtuid („Must ja valge"), meeste ringe, ekstaatilise tantsu ja meditatsiooni töötubasid.
 - **Miks ta on siin:** Trofimov on elav tõend, et põhjast saab tõusta. Ta räägib ausalt — mitte teooriast, vaid kogemusest. Tema fookus emotsioonide vabastamisel ja meeste ringis täiendab operatsiooni taastumise sõnumit (Lisa F, Lisa H) ja teadlikkuse võrgustikku. Alar Ojastu on teda soovitanud kui inimest, kellel on missioon, mitte äri.
 
+#### Epp Kärsin — Teadlik intiimsus ja seksuaalharidus
+
+- **Roll operatsioonis:** Teadliku seksuaalsuse ja intiimsuse koolitaja; häbistatud teemade avamine ausa keele kaudu — paaridele, naistele, meestele ja noortele.
+- **Taust:** Amare Luna OÜ tegevjuht; koolitaja alates 2015 ([eppkarsin.com](https://www.eppkarsin.com)). Tartu Ülikooli kehakultuuri teaduskond; holistika, Hiina meditsiin, tantra-alased kursused. Koolitused: paaridele, naistele, meestele, noortele („Seksist ilha häbita"); ettevõtetele. Raamat *Ennast raiskame võõrastes voodites* (koos Mihkel Rauaga). Avalik eesmärk: reformida seksuaalharidust Eesti koolides — ilma tabu ja häbita.
+- **Mõjuala:** **Pere rindejoon ja lähedus** — tugev pere vajab ka füüsilist ja emotsionaalset intiimsust; paljud lahutused ja kriisid algavad vaikimisest ja häbist. Epp murrab tabu, et paarid saaksid rääkida ausalt. Täiendab tantravõrgustikku (Earthchild, Skalkina, Sarmet) **konkreetsema kehakeelse haridusega**; seob operatsiooni põhimõttega *austus = armastus käitumise kaudu*.
+- **Miks ta on siin:** Infosõda tabab ka magamistoa — häbi, võõrutus, pornograafia sõltuvus. Operatsioon „Peegel" ütleb: tugev isa ja ema on ka lähedased partnerid. Epp pakub turvalist ruumi, kus intiimsus ei ole tabu ega müügitoode, vaid teadlik hoolitsus.
+
 #### Igor Earthchild — Tantra ja teadlik ühendus
 
 ![Igor Earthchild](images/profiles/igor-earthchild.jpg)
@@ -369,6 +376,13 @@
 - **Taust:** Tervishoiu ja supervisiooni valdkonna praktik (FIE, alates 2017). Pakub supervisiooni, coachingut ja terapeutilist tuge — keskendub inimestele, mitte vaid protsessidele. Töötab tugiteenuste kontekstis, kus juhid ja spetsialistid vajavad peegeldust, mitte järjekordset kontrollnimekirja.
 - **Miks ta on siin:** Operatsioon „Peegel" ütleb: inimesekeskne juhtimine (Lisa I) ei ole ainult kaitseväe teema. Sillaste aitab neil, kes teenivad teisi — juhid, mentorid, tugispetsialistid — mitte läbi põleda ega muutuda masinaks. Ta juhib inimesi, mitte protsesse.
 
+#### Kaia Kapsta-Forrester — Pere- ja paariteraapia, kriisitugi
+
+- **Roll operatsioonis:** Integratiivne pere- ja paaripsühholoog; suhtekoolitaja ja kriisinõustaja — abielu, lahutus, kärgpere, raseduskriis.
+- **Taust:** Üle 20 aasta praktikat Eestis ja Suurbritannias; töötanud 3000+ inimesega ([kaiakapsta.com](https://kaiakapsta.com)). Lähenemised: IMAGO suhteteraapia, PREP paarikoolitus, psühhodraama, kehateadlikkus, TRE. **Väärtustades Elu SA** (Väärtustades Elu Koolitus- ja Arenduskeskus) — raseduskriisi nõustamise süsteemi üks algatajaid Eestis. Kolme lapse ema; isiklik kogemus abielu, lahutuse ja kärgperega. Töötab ka Zoomi kaudu.
+- **Mõjuala:** **Pere tervis ja kriis** — Sotsiaalkaitseministeeriumi haldusalaga seotud ennetus ja tugi. Aitab paaridel murda mustreid enne, kui pere laguneb; toetab neid, kes on juba kriisis (sh rasedus, lahutus). Täiendab Lisa E (*Pere rindejoon*), Lisa F (*Murra ring*) ja Lisa H (kriis).
+- **Miks ta on siin:** Operatsiooni võidu mõõdik on tugev perekond. Kaia töötab seal, kus infosõda ja stress reaalselt peresid lõhuvad — mitte sloganiga, vaid terapeutilise praktikaga. PREP ja IMAGO annavad paaridele konkreetsed tööriistad, mitte ainult motivatsiooni.
+
 #### Ott Pärna / Tallinna Tehnoloogiakolledž Techno TLN — Haridustase
 
 ![Ott Pärna](images/profiles/schools/ott-parna.jpg)
@@ -383,6 +397,8 @@
 - **Peep Vain** — koolitaja ja kõneleja (Vain & Partners); juhtimine, motivatsioon ja enesemääramine.
 - **Alar Ojastu** — juhtide ja meeskondade koolitaja (Eesti parim koolitaja 2018); autor *Ratsionaalne emotsionaalsus* — emotsioonide ja inimlikkuse silmaringi avaja.
 - **Tiit Trofimov** — enesearengu teejuht (tiittrofimov.ee); emotsioonide töö, meeste ringid, meditatsioon; autor *Lõpp on algus*; taastumine pärast 2009. aasta kriisi.
+- **Epp Kärsin** — teadlik intiimsus ja seksuaalharidus (eppkarsin.com); paarid, noored, häbist tabude murdmine; Amare Luna OÜ.
+- **Kaia Kapsta-Forrester** — pere- ja paariteraapia (kaiakapsta.com); IMAGO, PREP, raseduskriisi nõustamine; Väärtustades Elu SA.
 - **Eesti Montessori võrgustik** — Eesti Montessori Instituut ja Ühing; AMI juhendajad (sh Ruth Maria Roosi-Ott, Kerli-Kristi Allikvee); lapse õppija-identiteet.
 - **MTÜ Perekoolitusühing Sina ja Mina** — Gordoni perekooli suhtlustreeningud lapsevanematele (TAI hinnang: VÄGA HEA).
 - **Tallinna Perekeskus** — programm „Imelised aastad" (3–8-aastaste vanematele); tõenduspõhine vanemlusabi.
@@ -480,6 +496,8 @@
 | Toetus | Katrin Lucas / „Ava oma Silmad" | Teadlikkuse kanal — aktiivne |
 | Toetus | Ingvar Villido / Practical Consciousness | Teadliku muutuse kunst — aktiivne |
 | Toetus | Tiit Trofimov / eneseareng | Emotsioonid, meeste ring, taastumine — aktiivne |
+| Toetus | Epp Kärsin / Amare Luna | Teadlik intiimsus, seksuaalharidus — aktiivne |
+| Toetus | Kaia Kapsta-Forrester | Pere- ja paariteraapia, raseduskriis — aktiivne |
 | Toetus | Eesti Tantrafestivali võrgustik (Earthchild, Skalkina, Sarmet, Saul) | Tantralaagrid ja festivalid — aktiivne |
 | Toetus | Urmas Sõõrumaa / Pühali Hea Elu Keskus | Heaolu, loodus, puhkus — aktiivne |
 | Toetus | Eero Kinnunen / Eesti Kaitseväe Veteranid | Veteranide kogukond ja tugi — aktiivne |
@@ -699,6 +717,16 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 2. Emotsioonide vabastamine ja kehatöö — traumade ja allasurutud emotsioonide töötlemine teadlikkuse kaudu.
 3. Raamat *Lõpp on algus. Julgus elada iseendana* — elulugu põhjast taastumisest; soovitus neile, kes on kaotanud kõik ja otsivad uut algust.
 
+### Epp Kärsin (teadlik intiimsus)
+1. Koolitused paaridele, naistele ja meestele — aus intiimsus ilma häbita ([eppkarsin.com](https://www.eppkarsin.com)).
+2. Noorte loeng „Seksist ilma häbita" — seksuaalharidus, mida koolis sageli ei anta.
+3. Täiendab pere rindejoont (Lisa E) ja tantravõrgustikku — intiimsus kui armastuse kehakeel.
+
+### Kaia Kapsta-Forrester (pere ja paar)
+1. IMAGO ja PREP suhtekoolitused — mustrite teadvustamine, autentsus, lähedus ([kaiakapsta.com](https://kaiakapsta.com)).
+2. Raseduskriisi nõustamine — Väärtustades Elu SA kogemus; suunamine enne, kui kriis süveneb.
+3. Täiendab Lisa F ja Lisa H — pereteraapia, kui vestlus sõbra või raamatuga ei piisa.
+
 ### Igor Earthchild / Bella Skalkina / Margus Sarmet / Kristiina Saul (tantra ja laagrid)
 1. Eesti Tantrafestivali ja tantralaagrite korraldamine — turvalised ruumid enese taasleiutamiseks.
 2. Töötoad paaridele ja üksikisikutele: teadlik lähedus, keha avamine, emotsioonide vabastamine.
@@ -796,6 +824,8 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Teadlikkus | Katrin Lucas | katrinlucas.com |
 | Teadlik muutus | Ingvar Villido | lilleoru.ee / human.ee |
 | Eneseareng / emotsioonid | Tiit Trofimov | tiittrofimov.ee |
+| Intiimsus / seksuaalharidus | Epp Kärsin / Amare Luna | eppkarsin.com |
+| Pere- ja paariteraapia | Kaia Kapsta-Forrester | kaiakapsta.com |
 | Tantra / laagrid | Igor Earthchild | learn2touch.com / tantrafest.ee |
 | Tantra / laagrid | Bella Skalkina | tantrafest.ee / anahata.fi |
 | Tantra / laagrid | Margus Sarmet | tantratants.ee / tantrafest.ee |

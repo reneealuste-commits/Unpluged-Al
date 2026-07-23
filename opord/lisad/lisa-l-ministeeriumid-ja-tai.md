@@ -189,6 +189,8 @@ Operatsioon „Peegel" ei asenda riigikapmet. See täiendab seda: **kodanik peab
 |-------|---------------------|----------|
 | Vaimne tervis | Sotsiaalkaitse | Andmed, ennetus, uuringud |
 | Toitumine ja taastumine | Sotsiaalkaitse + Põllumajandus ja Toiduained | TAI uuringud; lihtne kodanikusõnum (Lisa H) |
+| Pere ja paariteraapia | Sotsiaalkaitse | Kaia Kapsta-Forrester, Väärtustades Elu; PREP, raseduskriis |
+| Seksuaalharidus ja intiimsus | Haridus + Sotsiaalkaitse | Epp Kärsin; koolide reformi eesmärk |
 | Haridus ja noored | Haridus | Kiusamine, ekraanid, une-uuringud |
 | Kriis ja stress | Sisemine | Psühhosotsiaalne järelmõju |
 | Infohügieen | Riigi Kantselei + Kaitse | Tervisekäitumise sõnumid |

@@ -531,6 +531,8 @@
 | Margus Sarmet | Tantra Tribe | Praktiline tantra | Laagrid, jooga |
 | Kristiina Saul | Naiste ringid | Vaimne ärkamine | Töötoad, teraapia |
 | Urmas Sõõrumaa | Pühali | Taastumine looduses | Puhkus, üritused |
+| Epp Kärsin | Teadlik intiimsus | Häbist vabanemine, paaride lähedus | Koolitused, noorte loengud (eppkarsin.com) |
+| Kaia Kapsta-Forrester | Pere- ja paariteraapia | Tugev pere, kriis ennetus | IMAGO, PREP, raseduskriis (kaiakapsta.com) |
 
 *Profiilipildid: peamine OPORD*
 
@@ -570,6 +572,18 @@
 - **Eesmärk:** Inimeste juhtimine protsesside asemel
 - **Ülesanne:** Juhtide tugi; Steigeri põhimõtted praktikas
 
+#### Kaia Kapsta-Forrester — Pere- ja paariteraapia
+
+- **Roll:** Integratiivne pere- ja paaripsühholoog; suhtekoolitaja
+- **Eesmärk:** Tugev pere enne lagunemist; kriisitugi (sh raseduskriis)
+- **Ülesanne:** IMAGO, PREP; Väärtustades Elu SA; Lisa E, F, H suunamine
+
+#### Epp Kärsin — Teadlik intiimsus
+
+- **Roll:** Teadliku seksuaalsuse koolitaja (Amare Luna OÜ)
+- **Eesmärk:** Intiimsus ja lähedus ilma häbi ja tabuta
+- **Ülesanne:** Paarid, noored, ettevõtted; täiendab tantravõrgustikku ja pere rindejoont
+
 ---
 
 ### 4.12 Võrgustiku toetajad
@@ -585,6 +599,8 @@
 | Peep Vain | Koolitaja (Vain & Partners) | Juhtimine, motivatsioon, enesemääramine |
 | Alar Ojastu | Koolitaja, autor | *Ratsionaalne emotsionaalsus*; emotsioonid ja juhtimine |
 | Tiit Trofimov | Enesearengu teejuht | Emotsioonid, meeste ring, meditatsioon (tiittrofimov.ee) |
+| Epp Kärsin | Teadliku intiimsuse koolitaja | Seksuaalharidus, paarid, noored (eppkarsin.com) |
+| Kaia Kapsta-Forrester | Pere- ja paaripsühholoog | IMAGO, PREP, raseduskriis (kaiakapsta.com) |
 | Ruth Maria Roosi-Ott | AMI Montessori juhendaja | Lapse õppija-identiteet (Eesti Montessori Instituut) |
 | Kerli-Kristi Allikvee | AMI Montessori juhendaja | Montessori võrgustik Eestis |
 | Sina ja Mina (Gordon) | Lapsevanemate koolitus | Gordoni suhtlustreening (sinamina.ee) |

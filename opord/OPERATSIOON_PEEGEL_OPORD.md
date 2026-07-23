@@ -201,7 +201,7 @@
 - **Aktiveerija:** Renee Aluste (`Aluste_kool`).
 - **Liikmed:** SOK läbinud — **tunnevad ennast ise ära**. Nimekirja avalikult ei avaldata.
 - **Kohustus:** Sõduriõpik / sõduri käsiraamat + Kaitseväe viisakuseeskirja (sisemäärustik, rivikord) läbilugemine; päevane checklist: **austa, kuula, usalda, ole mõjutatud, hooli** (vähemalt 1× päevas).
-- **Põhimõte:** Rivi eeskiri õpetab, *mis sa ütled ja millal* — austus konkreetse keele kaudu, mitte üldise „ole kena" sloganina.
+- **Põhimõte:** Rivi eeskiri õpetab, *mis sa ütled ja millal* — austus konkreetse keele kaudu, mitte üldise „ole kena" sloganina. *Me ei ehita armastust emotsioonidega. Me kujundame seda käitumisega — austuse ja lugupidamise keeles.*
 - **Täielik ülesanne:** **Lisa N** — `lisa-n-aluste-kool.md`
 
 #### Martin Jõesaar — Euroopa tase (Combat Ready kaasasutaja)

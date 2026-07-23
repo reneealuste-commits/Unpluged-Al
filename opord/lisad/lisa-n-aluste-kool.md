@@ -21,6 +21,8 @@ Iga SOK liige on **demomees** — mitte teooria õpetaja, vaid inimene, kes elab
 
 ## 2. Päevane checklist (vähemalt 1× päevas)
 
+> *Me ei ehita armastust emotsioonidega. Me kujundame seda käitumisega — austuse ja lugupidamise keeles.*
+
 Kasuta seda nimekirja iga päev — üks punkt või kõik viis:
 
 | # | Põhimõte | Küsimus endale |
@@ -111,6 +113,8 @@ Tsiviilis kasutatav versioon — ilma teatrita, aga selgusega:
 **Aluste_kool** on operatsiooni **kodaniku demomeeste** üksus — väiksem ja tihedam kui kogu võrgustik. Kui Combat Ready õpetab juhtimist ettevõtetele, siis Aluste_kool õpetab **austust ja lugupidavat suhtlust** igapäevases elus.
 
 Võit siin: inimene, kes sinu kõrval käib, tunneb, et temaga suheldakse nii, nagu rivi eeskiri õpetab — ausalt, selgelt, lugupidavalt.
+
+> *Me ei ehita armastust emotsioonidega. Me kujundame seda käitumisega — austuse ja lugupidamise keeles.*
 
 ---
 

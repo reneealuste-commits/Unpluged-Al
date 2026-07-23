@@ -105,7 +105,7 @@ Kui midagi tundub valesti — ma peatun. See, mida ma tunnen kõhus, on minu com
 
 **Mina armastan end.**
 
-Mitte uhkuse pärast. Mitte sellepärast, et ma olen täiuslik. Ma armastan end sellepärast, et ma olen elus, ma püüan, ma tõusen üles, kui kukun. Ma ei anna alla — ja ma pole alla andnud. Ma väärin hoolimist — alustades iseendast.
+Mitte uhkuse pärast. Mitte sellepärast, et ma olen täiuslik. Ma armastan end sellepärast, et ma olen elus, ma püüan, ma tõusen üles, kui kukun. Ma ei anna alla — ja ma pole alla andnud. Ma väärin hoolimist — alustades iseendast. *Me ei ehita armastust emotsioonidega. Me kujundame seda käitumisega — austuse ja lugupidamise keeles.*
 
 **Mina olen avatud.**
 

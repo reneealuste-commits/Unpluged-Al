@@ -100,7 +100,7 @@ Umbes **kolm aastat** tegi Renee Sõdurioskuste kursuseid efektiivselt ja suurel
 3. **Küsin tagasi** — operatsioon ei oota passiivseid järgijaid; see kutsub igaüht vastutusele.
 4. **Toetan taastumist** — suunan vajadusel Lisa H (kriis), Lisa F (*Murra ring*), professionaalse abi poole.
 5. **Ehitan võrgustikku** — Combat Ready, veteranid, haridus, teadlikkus, kohalikud allüksused.
-6. **Hoidan standardit** — **turvalisus, mõistmine, traumateadlikkus** kõigis 1-1 vestlustes (Lisa P). Tööriist: **spordikommentaator**. See ei ole nõrkus; see on alus.
+6. **Hoidan standardit** — **turvalisus, mõistmine, traumateadlikkus** (Lisa P) + **side eeskirjad** (Lisa Q: hääl, GOTWA, austav keel). See ei ole nõrkus; see on alus.
 
 ---
 

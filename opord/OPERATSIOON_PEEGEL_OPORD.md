@@ -674,7 +674,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 
 ### Renee Aluste rühm (koordineerimisüksus)
 1. **1-1 vestlused** — prioriteet: **traumateadlikult**, turvalisuses ja mõistmises (läbipõlemise vastu; vt V-formatsioon Lisa I). Tööriist: **spordikommentaator** (Lisa P).
-2. **Turvalisuse standard** — kõik kontaktid: turvalisus → spordikommentaator → valideeri → ausus → valik (Lisa P). Mitte dominants ega kiirustamine.
+2. **Turvalisuse standard** — kõik kontaktid: turvalisus → spordikommentaator → valideeri → ausus → valik (Lisa P). Side hääl ja GOTWA: **Lisa Q**.
 3. Sõnumite koordineerimine ja levitamine.
 4. Combat Ready koolituste korraldamine võrgustikule.
 5. Isiklike lugude jagamine (autentsus).
@@ -956,7 +956,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Excel / portfell | Marko Oolo | oolomarko.ee |
 | Taskuhääling | Katri Teller / Blondcast | tasku.delfi.ee |
 | Meedik / veteran | Robert Käsper | Eriväelase jutud (hajutatult) |
-| Demomehed (SOK) | Üksus Aluste_kool | Lisa N — viisakus, checklist |
+| Demomehed (SOK) | Üksus Aluste_kool | Lisa N + **Lisa Q** (viisakus, GOTWA, hääl) |
 | Juhtimiskoolitus | Priit Lilleväli | priit.lillevali@combatready.eu |
 | Teadlikkus | Katrin Lucas | katrinlucas.com |
 | Teadlik muutus | Ingvar Villido | lilleoru.ee / human.ee |
@@ -998,6 +998,37 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 **Läbipõlemise vastu:** Renee Aluste kogemus Sõdurioskuste kursustega (~3 aastat) näitas, et mass-tegevus ilma isikliku kontaktita viib kurnatuseni. Operatsioon eelistab **1-1 vestlusi** — **traumateadlikult**, turvalisuses ja mõistmises. Esimene kontakt Rene Toomsega on alustatud.
 
 ## b. Side ja signaalid
+
+### Kuidas me suhtleme? (Side eeskirjad)
+
+Täielik SOP: **Lisa Q** — `lisad/lisa-q-side-eeskirjad-ja-suhtlus.md`
+
+| Element | Reegel |
+|---------|--------|
+| **Hääl (põhi)** | Mänguline, soe, naljakas — inimene tunneb end kutsutuna |
+| **Hääl (alternatiiv)** | Rahulik **FM-DJ** — aeglane, madal, selged pausid |
+| **Hääl (kontingents)** | **Assertiivne. Selge.** Lühikesed laused |
+| **Hääl (hädaolukord)** | **Vaikus. Pööra ära.** Abi numbrid (Lisa H) |
+| **Keel (vaikimisi)** | **Teietamine** + austav kehakeel — **mitte üleolev** (iga inimese SOP) |
+| **Liikumine kodaniku juurest → juurde** | **GOTWA** (KOP5) — **inglise keeles**, viis punkti (Rangeri kool / maakaitse käsiraamat) |
+| **Vestlus** | **Spordikommentaator** (Lisa P) + valideerimine |
+
+**GOTWA — iga liikumine enne järgmist kontakti:**
+
+| | |
+|---|---|
+| **G** | **Going** — kuhu lähen |
+| **O** | **Others** — kes teab / kes minuga |
+| **T** | **Time** — millal tagasi |
+| **W** | **What** — kui ma ei tule õigel ajal |
+| **A** | **Actions** — ootamatu olukord (trigger, kriis) |
+
+*Miks:* selgus hoiab ärevuse ja teadmatuse madalal — see **ravib** (van der Kolk: turvalisus enne mõistust).
+
+**Võtmetegevus:** Demomehed (Üksus Aluste_kool) kasutavad häälerežiime, austavat keelt, spordikommentaatorit ja GOTWA-d **igapäevases suhtluses**. Iga juhise juures on Lisa Q-s **ideaalne soorituse näide** igapäevases kontekstis.
+
+### Kanalid ja viited
+
 - **Ühisosa märge:** #OperatsioonPeegel
 - **Veeb:** combatready.eu
 - **Taskuhääling:** „Ava oma Silmad" (Katrin Lucas)
@@ -1018,6 +1049,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Kodaniku identiteet:** Lisa M — `lisad/lisa-m-kodaniku-identiteet-ja-vanne.md` (Robbins 5 sammu, manifest, vanne, LIHTSUS)
 - **Vaktsineerimine:** Lisa O — `lisad/lisa-o-vaktsineerimine.md` (uuringud, ühiskond, konspiratsioonid, aus hinnang)
 - **Takistused ja valideerimine:** Lisa P — `lisad/lisa-p-takistused-ja-valideerimine.md` (spordikommentaator, mis töötab / mis mitte, emotsioonide nägemine)
+- **Side eeskirjad:** Lisa Q — `lisad/lisa-q-side-eeskirjad-ja-suhtlus.md` (hääl, GOTWA, austav keel, demomeeste igapäevane standard)
 - **Koordinaatori profiil:** `lisad/renee-aluste-profiil.md` (eraldi leht)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
 - **Signaal OPERATSIOON TÄIDETUD:** Kui ühiskondlikud mõõdikud näitavad paranemist — üksikemade arv langeb, kiusamine väheneb, inimesed räägivad vastutusest.
@@ -1779,6 +1811,7 @@ Need seitse köidet täiendavad käesolevat lahingukäsku. Iga köide on iseseis
 | **N** | — | `lisad/lisa-n-aluste-kool.md` | **Üksus Aluste_kool** — SOK demomehed, viisakuseeskiri, päevane checklist |
 | **O** | — | `lisad/lisa-o-vaktsineerimine.md` | **Vaktsineerimine** — uuringud, ühiskond, konspiratsioonid, Renee isiklik valik, TAI/Terviseamet |
 | **P** | — | `lisad/lisa-p-takistused-ja-valideerimine.md` | **Takistused ja valideerimine** — spordikommentaator, van der Kolk (mis töötab / mitte), traumateadlikkus |
+| **Q** | — | `lisad/lisa-q-side-eeskirjad-ja-suhtlus.md` | **Side eeskirjad** — hääl (mänguline / FM-DJ / kontingents / häda), GOTWA, austav keel, demomehed |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

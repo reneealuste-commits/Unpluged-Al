@@ -24,6 +24,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | N | [lisa-n-aluste-kool.md](lisa-n-aluste-kool.md) | **Üksus Aluste_kool** — SOK demomehed, viisakuseeskiri, päevane checklist |
 | O | [lisa-o-vaktsineerimine.md](lisa-o-vaktsineerimine.md) | **Vaktsineerimine** — uuringud, ühiskond, konspiratsioonid, aus hinnang |
 | P | [lisa-p-takistused-ja-valideerimine.md](lisa-p-takistused-ja-valideerimine.md) | **Takistused ja valideerimine** — spordikommentaator, traumateadlikkus, turvalisus |
+| Q | [lisa-q-side-eeskirjad-ja-suhtlus.md](lisa-q-side-eeskirjad-ja-suhtlus.md) | **Side eeskirjad** — hääl, GOTWA (KOP5), austav keel, demomehed |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
 ---

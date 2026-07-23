@@ -45,6 +45,7 @@ Kasuta seda nimekirja iga päev — üks punkt või kõik viis:
 | **Kaitseväe sisemäärustik** | Viisakus, teenistuslik suhtlus, rivikord | Sama portaal — *Kaitseväe sisemäärustik* (PDF) |
 | **Rivi eeskiri** | Mis ütled ja millal — tervitus, raport, auavaldus | Sisemäärustiku rivi- ja vormistusosa |
 | **Lisa I (Steiger)** | Inimesekeskne juhtimine + **V-formatsioon** — üks ei veda igavesti; tugevaim alustab, otsib asendajat | `lisa-i-inimesekeskne-juhtimine.md` |
+| **Lisa Q (Side)** | Hääl, GOTWA, austav keel — kuidas me suhtleme | `lisa-q-side-eeskirjad-ja-suhtlus.md` |
 
 **Eesmärk:** mitte militaarne teatri, vaid **lugupidav suhtlus** — konkreetne keel, mitte üldine „ole kena".
 
@@ -75,12 +76,13 @@ Kui sa tunned, et see kirjeldus on sinu kohta — oled õiges kohas. Kui mitte �
 
 ### Faas II — Praktika (pidev)
 4. **Checklist iga päev** — austa, kuula, usalda, ole mõjutatud, hooli (vähemalt 1×).
-5. **Demomees** — ole nähtav eeskuju peres, tööl, võrgustikus; ära predika — näita.
-6. **Katseta, mis töötab** — kui midagi ei tööta, ütle ausalt; kui töötab, jaga teistega.
+5. **Side eeskirjad (Lisa Q)** — hääl (põhi mänguline), austav keel (teietamine), **GOTWA** enne iga uut kontakti, spordikommentaator vestluses.
+6. **Demomees** — ole nähtav eeskuju peres, tööl, võrgustikus; ära predika — näita.
+7. **Katseta, mis töötab** — kui midagi ei tööta, ütle ausalt; kui töötab, jaga teistega.
 
 ### Faas III — Tagasiside (igakuiselt)
-7. Üks lühike kokkuvõte Renee Alustele või SOK ringis: mis checklisti punkt aitas kõige rohkem? mis mitte?
-8. Soovita üks muudatus OPORD-i või Lisa N-sse — demomehed kujundavad reegleid, mitte bürokraatia.
+8. Üks lühike kokkuvõte Renee Alustele või SOK ringis: mis checklisti punkt aitas kõige rohkem? mis mitte?
+9. Soovita üks muudatus OPORD-i või Lisa N/Q-sse — demomehed kujundavad reegleid, mitte bürokraatia.
 
 ---
 
@@ -105,6 +107,8 @@ Tsiviilis kasutatav versioon — ilma teatrita, aga selgusega:
 | Üksuse aktiveerija | Renee Aluste | Operatsiooni koordinaator |
 | Demomeeste ring | SOK läbinud (omavaheline) | Aus tagasiside — ilma avaliku nimekirjata |
 | Tugi juhtimisel | Priit Lilleväli / Combat Ready | Kui checklist tõstab traumat või kriisi |
+
+**Side SOP kõigile demomeestele:** **Lisa Q** — häälerežiimid, GOTWA (KOP5), austav keel, igapäevased näited.
 
 ---
 

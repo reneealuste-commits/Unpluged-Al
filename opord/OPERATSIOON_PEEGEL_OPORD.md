@@ -73,6 +73,8 @@ See ei ole erisoov. See on **operatsiooniline nõue**:
 
 > *Traumatiseeritud inimene reageerib pre-verbaalselt. Alguses ei räägi mõistusega — räägib kehaga. Alusta turvalisusest.*
 
+**Uuendatud suhtlusvahend:** **Spordikommentaator** — vestluse ajal kirjelda maailma, nagu *sina* seda näed ja tunned. Enamikule inimestele on see uus viis suhelda. See loob teadlikkust; trauma saab turvalises suhtes **vabaneda** (vt Lisa P: mis töötab / mis mitte).
+
 ### EESMÄRK — mida me tahame
 
 **Üks lause:** Eesti inimesed on tugevamad peres, tervem mõtlemises ja vastutustundlikumad kogukonnas — **eeskuju kaudu**, mitte hirmu kaudu.
@@ -671,8 +673,8 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 5. **Jaga:** Räägi sellest operatsioonist — mitte hirmutades, vaid julgustades.
 
 ### Renee Aluste rühm (koordineerimisüksus)
-1. **1-1 vestlused** — prioriteet: **traumateadlikult**, turvalisuses ja mõistmises (läbipõlemise vastu; vt V-formatsioon Lisa I).
-2. **Turvalisuse standard** — kõik kontaktid: kuula → valideeri → ausus → valik (Lisa P). Mitte dominants ega kiirustamine.
+1. **1-1 vestlused** — prioriteet: **traumateadlikult**, turvalisuses ja mõistmises (läbipõlemise vastu; vt V-formatsioon Lisa I). Tööriist: **spordikommentaator** (Lisa P).
+2. **Turvalisuse standard** — kõik kontaktid: turvalisus → spordikommentaator → valideeri → ausus → valik (Lisa P). Mitte dominants ega kiirustamine.
 3. Sõnumite koordineerimine ja levitamine.
 4. Combat Ready koolituste korraldamine võrgustikule.
 5. Isiklike lugude jagamine (autentsus).
@@ -892,8 +894,8 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | **„Juhul kui…"** | Kui tunned, et langed tagasi manipulatsiooni — pöördu mentorini, sõbra poole või professionaali poole. See on tugevus, mitte nõrkus. |
 | **„Juhul kui…" (isa kriisis)** | Alusta Lisast F (*Murra ring*), siis A, D, E. Kiirjuhend: Lisa H. Kriis: Eluliin 655 8088. |
 | **„Juhul kui…" (juhtimine)** | Loe Lisa I (Steiger 1997). Küsi: kas ma juhin inimest või kontrollin teda? **V-formatsioon:** üks ei veda igavesti — tugevaim alustab, otsib asendajat, vahetab rolli. |
-| **„Juhul kui…" (keegi ütleb WTF)** | Loe **Lisa P** — valideeri emotsioon enne vastust: „Ma kuulen, et see teeb sind kahtlevaks." |
-| **„Juhul kui…" (takistus / konflikt)** | Lisa P — 4 sammu: kuule → valideeri → ausus → valik. Ära ütle „ära ole tundlik". |
+| **„Juhul kui…" (keegi ütleb WTF)** | Loe **Lisa P** — **spordikommentaator** enne vastust: „Ma märkan, et see teeb mind kahtlevaks." |
+| **„Juhul kui…" (takistus / konflikt)** | Lisa P — 5 sammu: turvalisus → spordikommentaator → valideeri → ausus → valik. Ära ütle „ära ole tundlik". |
 | **„Juhul kui…" (trauma / trigger)** | **Keha enne mõistust** (van der Kolk): turvalisus → rahunemine → alles siis vestlus. Suust tulev sõna on signaal, mitte alati tõde. Suuna: Kert Grünberg, Priit Lilleväli, Kaia Kapsta-Forrester, Lisa H/F, EMDR. Inimene kontrollib tempot. |
 | **„Juhul kui…" (identiteet)** | Loe Lisa M — Robbinsi 5 sammu, manifest peegli ees, kodaniku vanne. LIHTSUS: üks plaan, üks tegu. |
 | **„Juhul kui…" (riik / bürokraatia)** | Loe Lisa L (Musk): küsi → kustuta → lihtsusta → kiirenda → automatiseeri. Automatiseeri viimasena. |
@@ -1015,7 +1017,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Ministeeriumid ja TAI:** Lisa L — `lisad/lisa-l-ministeeriumid-ja-tai.md` (Muski 5-astmeline algoritm)
 - **Kodaniku identiteet:** Lisa M — `lisad/lisa-m-kodaniku-identiteet-ja-vanne.md` (Robbins 5 sammu, manifest, vanne, LIHTSUS)
 - **Vaktsineerimine:** Lisa O — `lisad/lisa-o-vaktsineerimine.md` (uuringud, ühiskond, konspiratsioonid, aus hinnang)
-- **Takistused ja valideerimine:** Lisa P — `lisad/lisa-p-takistused-ja-valideerimine.md` (emotsioonide nägemine enne vastust)
+- **Takistused ja valideerimine:** Lisa P — `lisad/lisa-p-takistused-ja-valideerimine.md` (spordikommentaator, mis töötab / mis mitte, emotsioonide nägemine)
 - **Koordinaatori profiil:** `lisad/renee-aluste-profiil.md` (eraldi leht)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
 - **Signaal OPERATSIOON TÄIDETUD:** Kui ühiskondlikud mõõdikud näitavad paranemist — üksikemade arv langeb, kiusamine väheneb, inimesed räägivad vastutusest.
@@ -1182,7 +1184,7 @@ Ja see ei ole kogu lugu. **Ma olin ise kiusaja.** Ma olin kooli kiusaja. Ma olin
 |--------------|----------------------|
 | **Beverly Engel** | Pöördepunkt — hakkasin mõistma emotsionaalset vägivalda ja oma rolli selles |
 | **Never Split the Difference** (Chris Voss) | Õpetas suhtlema inimesega **emotsionaalsel tasemel** — mitte ainult loogikaga |
-| **The Body Keeps the Score** (Bessel van der Kolk, ISBN 978-0-141-97861-1) | Trauma elab kehas, mitte ainult peas. Traumatiseeritud inimene reageerib **pre-verbaalselt** — alguses ei räägi mõistusega, vaid kehaga. Alusta **turvalisusest**; suust tulev sõna on signaal; mõistus tuleb alles siis, kui närvisüsteem on rahunenud |
+| **The Body Keeps the Score** (Bessel van der Kolk, ISBN 978-0-141-97861-1) | Trauma elab kehas. Pre-verbaalne reaktsioon — alguses keha, mitte mõistus. **Mis töötab / mis mitte** (Lisa P). Praktiline tööriist: **spordikommentaator** — kirjelda hetke, nagu sa seda näed; teadlikkus vabastab trauma |
 | **EMDR** sessioonid | Kaitseväe Tugiteenuste keskuses — töötasin läbi selle, mida sõnad üksi ei jõudnud |
 
 Ma tulin välja kaotusest. **Ma elasin üle surma.**
@@ -1235,16 +1237,19 @@ Täielik SOP: **Lisa I** (ISBN 9985901274).
 
 Ma tean, miltä tundub, kui keegi vastab loogikaga, aga sa vajad, et sind **nähtaks**. Kui keegi ütleb „kõik mehed on samad" või „liiga tundlik" — mõlemal pool on valu, aga ilma valideerimiseta jääb haav lahti.
 
-*The Body Keeps the Score* (Bessel van der Kolk) avas silmad täielikult. Trauma elab kehas. Traumatiseeritud inimene reageerib **pre-verbaalselt** — enne sõnu, enne loogikat. **Sa ei saa alguses rääkida mõistusega. Sa saad alguses rääkida ainult kehaga.** Alusta turvalisusest. Mis suust tuleb, on relevantne — see peegeldab sisemist seisundit. Pead esmalt **mõistuse maha rahustama** — mitte argumentidega, vaid turvalisuse ja keha kaudu. EMDR aitas mulle. Aga enne kõike vajasin **turvalist ruumi** ja **mõistmist** — mitte õpetust.
+*The Body Keeps the Score* (Bessel van der Kolk) avas silmad täielikult. Trauma elab kehas. Traumatiseeritud inimene reageerib **pre-verbaalselt** — enne sõnu, enne loogikat. **Sa ei saa alguses rääkida mõistusega. Sa saad alguses rääkida ainult kehaga.** Alusta turvalisusest. Mis suust tuleb, on relevantne — see peegeldab sisemist seisundit. Pead esmalt **mõistuse maha rahustama** — mitte argumentidega, vaid turvalisuse ja keha kaudu.
+
+**Mis see meile õpetas:** kõik, mida me seni teadsime suhtluse kohta, tuleb uuendada. Loogika triggeris ei tervenda. Ravimid ilma töötlemiseta ei piisa. See, mis töötab, on **turvalisus**, **keha**, **teadlikkus** ja uus suhtlusvahend — **spordikommentaator**: vestluse ajal kirjeldad maailma, nagu *sina* seda näed ja tunned. Enamikule inimestele on see täiesti uus viis rääkida. See loob teadlikkust — ja trauma saab turvalises suhtes **vabaneda**, mitte „parandatud" loogikaga. EMDR aitas mulle. Aga enne kõike vajasin **turvalist ruumi**, **mõistmist** — ja kedagi, kes ei parandanud, vaid **nägi**.
 
 **Operatsioonis tähendab see:**
 
 | Nõue | Praktika |
 |------|----------|
 | **Turvalisus** | Füüsiline ja emotsionaalne — keegi ei pea kaitsepositsioonis rääkima |
-| **Keha enne mõistust** | Pre-verbaalne reaktsioon — rahunemine enne debatti; Lisa P |
-| **Mõistmine** | Lisa P: kuula → valideeri → alles siis vasta |
-| **Traumateadlikkus** | Kõik 1-1 vestlused, mentorlus ja tugi — arvestades triggerite, kaitse ja keha-mälu võimalust |
+| **Spordikommentaator** | Kirjelda hetke ausalt — „ma näen", „ma tunnen"; Lisa P |
+| **Keha enne mõistust** | Pre-verbaalne reaktsioon — rahunemine enne debatti |
+| **Mõistmine** | Lisa P: valideeri → alles siis vasta |
+| **Traumateadlikkus** | Kõik 1-1 vestlused — triggerid, kaitse, keha-mälu |
 | **Valik** | Inimene valib tempo; õigus öelda „mitte nüüd" |
 
 Traumateadlik tugi võrgustikus: **Kert Grünberg**, **Jure Biechonski**, **Priit Lilleväli**, **Kaia Kapsta-Forrester**, Lisa H, Lisa F. Kriisis: Eluliin **655 8088**, ohvriabi **116 006** (sh EMDR toetus).
@@ -1675,14 +1680,22 @@ Steiger ei paku väljamõeldud mudeleid. Ta kirjeldab igapäevast juhtimist, kus
 
 *Stsenaarium: Inimene ei ole vastu loogikaga — ta on vastu emotsiooniga. Enne vastust: **näe teda**. Täielik kaart: **Lisa P**.*
 
-**Põhimõte:** Me ei kustuta emotsiooni ära. Me valideerime — nii tunneb inimene end **nähtuna**.
+**Põhimõte:** Me ei kustuta emotsiooni ära. Me valideerime — nii tunneb inimene end **nähtuna**. Uus tööriist: **spordikommentaator** — kirjelda hetke, nagu sa seda näed (Lisa P).
 
 | Samm | Mida teed |
 |------|-----------|
-| 1. **Kuule** | „Ma kuulen, et see teeb sind kahtlevaks / solvunuks / väsinuks." |
-| 2. **Valideeri** | „See on arusaadav. Sa ei kujuta seda ette." |
+| 0. **Turvalisus** | „Sa ei pea praegu midagi otsustama." |
+| 1. **Spordikommentaator** | „Ma märkan, et mu kõri on kinni. Ma näen, et sa vaikid." |
+| 2. **Kuule / valideeri** | „Ma kuulen, et see teeb sind kahtlevaks / solvunuks / väsinuks." |
 | 3. **Ausus** | Ütle otse, mida sa tead — ja mida ei tea |
 | 4. **Valik** | Anna kontroll: „Sa ei pea järgima. Üks samm piisab." |
+
+**K: Mis on spordikommentaator?**
+
+**V (Renee Aluste):** See on uus viis suhelda — enamikule inimestele täiesti võõras. Vestluse ajal **kirjeldad maailma, nagu sina seda näed ja tunned** — mitte seda, mida teine peaks tegema. Nagu spordikommentaator ei mängi palli, vaid kirjeldab mängu reaalajas. *„Ma näen, et sa pöörad selga. Mulle tundub, et siin on pinget. Ma olen siin."* See loob **teadlikkust**. Ja van der Kolk õpetab: trauma vabaneb, kui keha ja emotsioon saavad turvalises suhtes **nähtavaks** — mitte võidetud loogikaga. Täielik juhend: **Lisa P**.
+
+*Minu küsimus sulle: Kas sa julged täna ühe lausega kirjeldada, mida sa praegu tunned — ilma seda parandamata?*
+---
 
 **K: See teeb mul haiget / ma tunnen end solvuna / ma ei usalda teid.**
 
@@ -1765,7 +1778,7 @@ Need seitse köidet täiendavad käesolevat lahingukäsku. Iga köide on iseseis
 | **M** | — | `lisad/lisa-m-kodaniku-identiteet-ja-vanne.md` | Kodaniku identiteet — Robbins 5 sammu, manifest peegli ees, kodaniku vanne, etapp LIHTSUS |
 | **N** | — | `lisad/lisa-n-aluste-kool.md` | **Üksus Aluste_kool** — SOK demomehed, viisakuseeskiri, päevane checklist |
 | **O** | — | `lisad/lisa-o-vaktsineerimine.md` | **Vaktsineerimine** — uuringud, ühiskond, konspiratsioonid, Renee isiklik valik, TAI/Terviseamet |
-| **P** | — | `lisad/lisa-p-takistused-ja-valideerimine.md` | **Takistused ja valideerimine** — emotsioonide nägemine, traumateadlikkus, turvalisus ja mõistmine |
+| **P** | — | `lisad/lisa-p-takistused-ja-valideerimine.md` | **Takistused ja valideerimine** — spordikommentaator, van der Kolk (mis töötab / mitte), traumateadlikkus |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

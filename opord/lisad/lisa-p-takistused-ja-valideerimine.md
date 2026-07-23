@@ -10,7 +10,7 @@ Inimene ei ütle „WTF" ainult loogika pärast. Ta ütleb seda emotsiooni pära
 
 **Vana muster:** kustutada emotsioon ära — „ära ole nii tundlik", „see pole nii hull", „sa eksid".
 
-**Uus muster (Lisa I + Voss):** **valideeri enne** — nimeta, mida inimene tõenäoliselt tunneb; ütle, et see on arusaadav; alles siis vasta. Nii tunneb inimene end **nähtuna**, mitte parandatuna.
+**Uus muster (Lisa I + Voss + van der Kolk):** **valideeri enne** — ja kasuta **spordikommentaatorit**: kirjelda hetke, nagu sa seda näed ja tunned. Alles siis vasta. Nii tunneb inimene end **nähtuna**, mitte parandatuna.
 
 > *Me ei kustuta emotsiooni. Me loome ruumi, kus inimene saab jääda ausaks — enda ja teise suhtes.*
 
@@ -48,6 +48,73 @@ Traumatiseeritud inimene ei reageeri esmalt loogikaga. Ta reageerib **pre-verbaa
 
 **Operatsiooni reegel:** 1-1 vestluses — **turvaline → keha → mõistus**. Lisa P valideerimine on osa sammust 2–3: sa näed inimest enne, kui hakkad parandama.
 
+### Mis töötab ja mis mitte (van der Kolk)
+
+*The Body Keeps the Score* ei ole ainult teooria — see ütleb selgelt, mis **ei** tervenda traumaat ja mis **tervendab**. Kõik, mida operatsioon seni on õpetanud suhtluse kohta, tuleb selle valguses **uuendada**.
+
+| ❌ Ei tööta (või teeb hullemaks) | ✅ Töötab |
+|----------------------------------|-----------|
+| Loogika ja argument triggeris | **Turvalisus** — füüsiline ja emotsionaalne ruum |
+| „Ära ole tundlik" / „unusta ära" | **Keha** — hingamine, liikumine, TRE, EMDR, kohalolek |
+| Ainult ravimid ilma töötlemiseta | **Suhe** — keegi, kes on kohal ilma parandamiseta |
+| Rääkimine *mõistusega* enne rahunemist | **Teadlikkus** — märkad, mis kehas ja ruumis toimub |
+| Parandamine, õpetamine, võitmine | **Valideerimine** — näed inimest enne lahendust |
+| Debatt „kes on õigel" | **Spordikommentaator** — kirjelda maailma, nagu sa seda näed (allpool) |
+
+> *Trauma ei vabane võitmisega. Trauma vabaneb **nähtavaks saamisega** — kui keha ja närvisüsteem tunnevad end turvaliselt ja teadlikult.*
+
+### Spordikommentaator — uus suhtlusvahend
+
+**Spordikommentaator** on operatsiooni praktiline tööriist traumaateadlikuks suhtluseks. Enamikule inimestele on see **täiesti uus viis** rääkida.
+
+Nagu spordikommentaator ei mängi ise palli, vaid **kirjeldab reaalajas**, mis toimub — nii sa **vestluse ajal** kirjeldad teisele inimesele maailma, **nagu sina seda näed ja tunned**. Mitte seda, mida teine *peaks* tegema. Mitte argumenti. Vaid **hetke teadlik kirjeldus**.
+
+| Vana viis | Spordikommentaator |
+|-----------|-------------------|
+| „Sa eksid." | „Ma märkan, et mu kõri läheb kinni, kui me seda teemat räägime." |
+| „Kuula mind välja." | „Ma näen, et sa vaatad aknasse. Mulle tundub, et siin on pinget." |
+| „See pole nii hull." | „Ma kirjeldan, mida praegu tunnen — mitte seda, mida sina peaksid tundma." |
+| „Lahendus on see…" | „Hetkel on minu kehas kerge surve rinnus. Ma olen siin." |
+
+**Miks see töötab (van der Kolk):**
+
+1. **Teadlikkus** — sa ei reageeri automaatselt; sa *märkad*. See on esimene samm närvisüsteemi rahustamiseks.
+2. **Keha enne mõistust** — kirjeldad kehalisi signaale ja hetke, mitte abstraktset debatti.
+3. **Turvalisus** — teine inimene ei pea kaitsepositsioonis olema; sa ei ründa, sa **tunnistad**.
+4. **Trauma vabaneb** — kui keha ja emotsioon saavad **nähtavaks** turvalises suhtes, saab närvisüsteem neid välja lasta. Mitte „parandatud" loogikaga — vaid **tervendatud** teadlikkuse kaudu.
+
+**Reeglid:**
+
+| # | Reegel |
+|---|--------|
+| 1 | Kirjelda **oma** kogemust — „ma näen", „ma tunnen", „mulle tundub" |
+| 2 | **Ära paranda** teist inimest vestluse ajal |
+| 3 | **Ära kiirusta** lahenduseni — kommenteeri hetke |
+| 4 | **Ole aus** — ka ebamugav tõde on parem kui peidetud trigger |
+| 5 | Kui teine inimene on triggeris — **kommenteeri vaikust ja keha**, mitte sõnu |
+
+**Näide — 1-1 vestlus:**
+
+> *„Ma märkan, et sa vaikid. Minu kehas on praegu pinge. Ma ei tea, mis sul toimub — aga ma olen siin ja kirjeldan seda, mida näen. Kas sa tahad, et ma jätkan — või vajad ruumi?"*
+
+**Näide — paaris:**
+
+> *„Ma näen, et sa pöörad selja. Mulle tundub, et midagi läks valusaks. Ma ei ütle, et sa eksid. Ma ütlen ausalt: minu kõht on kinni ja ma tahan aru saada, mis siin toimub."*
+
+> *Spordikommentaator ei ole nõrkus. See on julgus olla reaalajas nähtav — enda ja teise ees.*
+
+**Operatsiooni uuendatud suhtlusjärjekord:**
+
+| Samm | Tööriist |
+|------|----------|
+| 1 | **Turvalisus** — ruum, tempo, õigus öelda „mitte nüüd" |
+| 2 | **Spordikommentaator** — kirjelda hetke, nagu sa seda näed ja tunned |
+| 3 | **Valideerimine** — näe teise emotsiooni |
+| 4 | **Ausus** — ütle, mida sa tead |
+| 5 | **Valik** — anna kontroll tagasi |
+
+*Kõik 1-1 vestlused operatsioonis kasutavad seda järjekorda. See asendab vana mustrit „kuula → valideeri" — lisades vahele **teadliku hetke kirjeldamise**.*
+
 ### Viis traumateadlikku põhimõtet
 
 | # | Põhimõte | Praktikas |
@@ -81,18 +148,20 @@ Traumatiseeritud inimene ei reageeri esmalt loogikaga. Ta reageerib **pre-verbaa
 | Kiirjuhend | Lisa H, Lisa F (*Murra ring*) |
 | EMDR | KV Tugiteenuste keskus; ohvriabi.ee (kuni 940 €) |
 | Valideerimine | Lisa P (see dokument) |
+| Suhtlusvahend | **Spordikommentaator** — kirjelda hetke, nagu sa seda näed (Lisa P) |
 | Raamat | van der Kolk — *The Body Keeps the Score* (ISBN 978-0-141-97861-1) |
 
-**1-1 vestluse reegel:** turvaline → keha (rahunemine) → valideeri → alles siis sisu. *Mõistusega ei räägi alguses — kehaga.*
+**1-1 vestluse reegel:** turvaline → **spordikommentaator** → valideeri → ausus → valik. *Mõistusega ei räägi alguses — kehaga ja hetkega.*
 
 ---
 
-## Kuidas vastata (4 sammu)
+## Kuidas vastata (5 sammu — uuendatud)
 
 | Samm | Mida teed | Näide |
 |------|-----------|-------|
-| **1. Kuule** | Nimeta emotsioon või vajadus | „Ma kuulen, et see teeb sind kahtlevaks." |
-| **2. Valideeri** | Ütle, et see on loogiline | „See on arusaadav — sa oled varem pettunud." |
+| **0. Turvalisus** | Loo ruum; ära kiirusta | „Sa ei pea praegu midagi otsustama." |
+| **1. Spordikommentaator** | Kirjelda hetke, nagu sa seda näed | „Ma märkan, et mu kõri on kinni. Ma näen, et sa vaikid." |
+| **2. Kuule / valideeri** | Nimeta emotsioon või vajadus | „Ma kuulen, et see teeb sind kahtlevaks." |
 | **3. Ausus** | Ütle otse, mida sa tead / ei tea | „Me ei esinda riiki ametlikult." |
 | **4. Valik** | Anna inimesele kontroll | „Sa ei pea järgima. Sa võid valida ühe sammu." |
 
@@ -374,7 +443,7 @@ Traumatiseeritud inimene ei reageeri esmalt loogikaga. Ta reageerib **pre-verbaa
 Lisa P on **inimesekeskse juhtimise** (Lisa I) praktiline rakendus suhtluses:
 
 - **Enne mõistust — keha** (van der Kolk: pre-verbaalne trauma, turvalisus esimesena)
-- **Enne vastust — kuula** (Steigeri samm 4)
+- **Enne vastust — spordikommentaator** — kirjelda hetke, nagu sa seda näed ja tunned
 - **Enne õpetamist — valideeri** (Voss: emotsionaalne tase)
 - **Enne võitu — näe inimest** (Peegel: ole eeskuju, mitte kontrollija)
 

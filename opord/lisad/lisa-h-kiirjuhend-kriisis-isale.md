@@ -21,6 +21,8 @@ Trauma ja kriis ei ela ainult peas. Van der Kolk (*The Body Keeps the Score*, IS
 
 > *Sa ei saa alguses rääkida mõistusega. Sa saad alguses rääkida ainult kehaga.*
 
+**Spordikommentaator kriisis:** kui sa ei jõua veel rääkida — kirjuta või ütle üks lause: *„Ma tunnen praegu ___."* See on teadlikkus. See on algus.
+
 **Kohe:**
 1. Helista **655 8088** (Eluliin) või **116 123** (kriisiabi) — või **112**, kui oht on äge.
 2. Räägi ühe usaldusväärse inimesega. Üks kõne võib päästa elu.

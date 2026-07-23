@@ -70,7 +70,7 @@ Renee on ise kogenud depressiooni ja mõistnud, kuidas pikaajaline infosõja ja 
 
 - **Beverly Engel** — pöördepunkt emotsionaalse vägivalla mõistmisel
 - **Never Split the Difference** (Chris Voss) — suhtlus emotsionaalsel tasemel
-- **The Body Keeps the Score** (Bessel van der Kolk, ISBN 978-0-141-97861-1) — trauma kehas; **pre-verbaalne reaktsioon**: alguses räägid kehaga, mitte mõistusega; turvalisus enne loogikat
+- **The Body Keeps the Score** (Bessel van der Kolk, ISBN 978-0-141-97861-1) — trauma kehas; pre-verbaalne reaktsioon; **spordikommentaator** kui uus suhtlusvahend
 - **EMDR** — Kaitseväe Tugiteenuste keskus
 
 *Ma elasin üle surma. Nüüd tahan näidata, kuidas ma seda tegin.*
@@ -100,7 +100,7 @@ Umbes **kolm aastat** tegi Renee Sõdurioskuste kursuseid efektiivselt ja suurel
 3. **Küsin tagasi** — operatsioon ei oota passiivseid järgijaid; see kutsub igaüht vastutusele.
 4. **Toetan taastumist** — suunan vajadusel Lisa H (kriis), Lisa F (*Murra ring*), professionaalse abi poole.
 5. **Ehitan võrgustikku** — Combat Ready, veteranid, haridus, teadlikkus, kohalikud allüksused.
-6. **Hoidan standardit** — **turvalisus, mõistmine, traumateadlikkus** kõigis 1-1 vestlustes (Lisa P). See ei ole nõrkus; see on alus.
+6. **Hoidan standardit** — **turvalisus, mõistmine, traumateadlikkus** kõigis 1-1 vestlustes (Lisa P). Tööriist: **spordikommentaator**. See ei ole nõrkus; see on alus.
 
 ---
 

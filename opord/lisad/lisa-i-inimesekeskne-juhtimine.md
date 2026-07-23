@@ -63,7 +63,7 @@ Steigeri raamatu (*Menschenorientierte Führung*) tuum tsiviil- ja sõjaväejuht
 1. **Enesetundmine** — juht õpib ennast tundma ja suudab oma vigu tunnistada.
 2. **Teise mõistmine** — juht püüab mõista ka siis, kui ei nõustu.
 3. **Ettevalmistus** — kohtumised ei juhtu juhuslikult; juht loeb end kurssi.
-4. **Kuulamine** — juht varub aega kuulamiseks, mitte ainult käskimiseks. *Kui inimene on triggeris või trauma tagajärjel kaitsepositsioonis, kuula esmalt keha — mitte ainult sõnu. Pre-verbaalne reaktsioon (van der Kolk) tähendab: turvalisus ja rahunemine enne loogikat.*
+4. **Kuulamine** — juht varub aega kuulamiseks, mitte ainult käskimiseks. *Kui inimene on triggeris või trauma tagajärjel kaitsepositsioonis, kuula esmalt keha — mitte ainult sõnu. Pre-verbaalne reaktsioon (van der Kolk) tähendab: turvalisus ja rahunemine enne loogikat. Tööriist: **spordikommentaator** — kirjelda hetke ausalt („ma näen", „ma tunnen"); vt Lisa P.*
 5. **Dialoog** — hindamis- ja arenguvestlused on kahepoolne, mitte monoloog; rahulolu tekib dialoogis.
 6. **Ühine kasutamine** — rahulolu tekib, kui võimeid ja eelsoodumusi kasutatakse koos, mitte ülepeakaela.
 

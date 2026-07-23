@@ -22,6 +22,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | L | [lisa-l-ministeeriumid-ja-tai.md](lisa-l-ministeeriumid-ja-tai.md) | **Ministeeriumid ja TAI** — Muski 5-astmeline protsessijuhtimine |
 | M | [lisa-m-kodaniku-identiteet-ja-vanne.md](lisa-m-kodaniku-identiteet-ja-vanne.md) | **Kodaniku identiteet** — Robbins 5 sammu, manifest, vanne, LIHTSUS |
 | N | [lisa-n-aluste-kool.md](lisa-n-aluste-kool.md) | **Üksus Aluste_kool** — SOK demomehed, viisakuseeskiri, päevane checklist |
+| O | [lisa-o-vaktsineerimine.md](lisa-o-vaktsineerimine.md) | **Vaktsineerimine** — uuringud, ühiskond, konspiratsioonid, aus hinnang |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
 ---
@@ -46,6 +47,8 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 **Identiteet:** Lisa M (Robbins 5 sammu, kodaniku vanne, LIHTSUS).
 
 **SOK demomehed:** Lisa N (üksus Aluste_kool — viisakus, checklist).
+
+**Vaktsineerimine:** Lisa O (uuringud, ühiskond, konspiratsioonid, aus hinnang — Sotsiaalkaitse / Terviseamet / TAI).
 
 **Koordinaator:** [renee-aluste-profiil.md](renee-aluste-profiil.md).
 

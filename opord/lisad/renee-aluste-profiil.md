@@ -53,7 +53,7 @@ Renee on ise kogenud depressiooni ja mõistnud, kuidas pikaajaline infosõja ja 
 
 Vaimne taastumine oli esimene samm. Teine oli **keha**: uni, liikumine, toitumine. Sõjaväelase distsipliin ja Stefanssoni arktika-kogemus (kala, hülge rasv, liha koos — Bellevue uuring 1928–1929) kinnitasid: hoolitsus toidu eest on osa taastumisest, mitte eraldi „dieedirežiim". *Me ei ehita armastust emotsioonidega. Me kujundame seda käitumisega — austuse ja lugupidamise keeles* — ka oma keha suhtes.
 
-Ta räägib avameelselt ravimist, eneseteadlikkusest ja abi otsimisest — see on tugevus, mitte nõrkus. Täielik juhend: **Lisa H**. Riigi roll: **TAI** + **Sotsiaalkaitseministeerium** (vt **Lisa L**).
+Ta räägib avameelselt ravimist, eneseteadlikkusest ja abi otsimisest — see on tugevus, mitte nõrkus. **Vaktsineerimine:** Renee keeldus oma uue lapse puhul riikliku immuniseerimiskava vaktsiinidest; tegi ainult **puukentsefaliidi (TBE)** vaktsiini. Täielik analüüs: **Lisa O**. Täielik juhend taastumiseks: **Lisa H**. Riigi roll: **TAI** + **Sotsiaalkaitseministeerium** (vt **Lisa L**).
 
 ---
 
@@ -87,6 +87,7 @@ See oli eluõppetund, mis jõudis Operatsiooni „Peegel" tuuma: dominants ei t�
 | Lisa F | `raamat-06-murra-ring.md` | Depressioon, taastumine |
 | Lisa G | `raamat-07-juhi-ja-voida.md` | Kogukonna juhtimine |
 | Lisa H | `lisa-h-kiirjuhend-kriisis-isale.md` | Kiirjuhend kriisis |
+| Lisa O | `lisa-o-vaktsineerimine.md` | Vaktsineerimine — uuringud, aus hinnang |
 | Peamine käsk | `OPERATSIOON_PEEGEL_OPORD.md` | Täielik OPORD |
 
 **Soovitus:** Kriisis alusta Lisa H-st, siis F → A → D → E. Tavapärane tee: A → B → C → D → E → F → G.

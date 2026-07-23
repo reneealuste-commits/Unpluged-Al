@@ -39,6 +39,7 @@ BOOK_FILES = [
     "lisa-l-ministeeriumid-ja-tai.md",
     "lisa-m-kodaniku-identiteet-ja-vanne.md",
     "lisa-n-aluste-kool.md",
+    "lisa-o-vaktsineerimine.md",
     "renee-aluste-profiil.md",
 ]
 

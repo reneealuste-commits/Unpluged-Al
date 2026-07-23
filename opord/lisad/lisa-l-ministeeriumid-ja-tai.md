@@ -125,6 +125,7 @@ Aidata Eesti inimestel **elada kauem ja tervislikumalt** — mitte ainult statis
 4. **Aus statistika** — andmed, mida kodanik saab usaldada; vastukaaluks valestatistika infosõjas.
 5. **Koostöö ministeeriumidega** — ühine keel Sotsiaal-, Haridus- ja Siseministeeriumiga; mitte eraldi silod.
 6. **Toitumine ja taastumine** — lihtne sõnum kodanikule: uni, liikumine, suhted, **toit**, ekraan. Uurida ja levitada teaduspõhist infot rasva, valgu ja kohaliku toidu (kala, liha) rollist — ilma dieedikultusid promomata. Seosta Renee Aluste taastumislugu (Lisa H) ja Stefanssoni Bellevue uuringuga (1928–1929) kui **ajaloolise viitega**, mitte ühe dieedi reklaamiga. Koostöö **Sotsiaalkaitseministeeriumi** ja **Põllumajandus ja Toiduained** ministeeriumiga.
+7. **Immuniseerimine** — aus, läbipaistev sõnum ilma hirmu ja süü manipulatsioonita; tunnista harvad kõrvaltoimed; ära häbista legitiimseid küsimusi. Täielik juhend: **Lisa O**. Koostöö **Terviseametiga**.
 
 ### TAI — toitumine ja vaimne tervis (Sotsiaalkaitseministeeriumi haldusalas)
 
@@ -214,6 +215,7 @@ Operatsioon „Peegel" ei asenda riigikapmet. See täiendab seda: **kodanik peab
 |------|------|
 | **Lisa I** (Steiger) | Inimesekeskne juhtimine — enne Muski sammu 5 |
 | **Lisa H, F** | Vaimne tervis, kriis — TAI ja Sotsiaalministeerium |
+| **Lisa O** | Immuniseerimine — aus kommunikatsioon, Terviseamet, Sotsiaalkaitse |
 | **Lisa J** | Haridus — Haridusministeerium |
 | **Lisa K** | Võrgustik — koostöö CR, Kaitse, StratKom-iga |
 

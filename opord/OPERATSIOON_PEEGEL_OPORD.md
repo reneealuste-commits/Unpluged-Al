@@ -618,6 +618,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 4. **Kiirenda** — lühem tsükkel otsuseni; TAI tervisesõnumid kriisihetkel 48–72 h jooksul.
 5. **Automatiseeri viimasena** — IT ja self-service alles pärast sammude 1–4; ära ehita kiiremat müra masinat.
 6. **Toitumine ja taastumine** — TAI + **Sotsiaalkaitseministeerium** + **Põllumajandus ja Toiduained**: teaduspõhine, lihtne info toidu ja vaimse tervise seose kohta; vt Renee saamise lugu ja Stefanssoni viide **Lisa H** ja **Lisa L**.
+7. **Immuniseerimine** — aus, läbipaistev kommunikatsioon ilma hirmu manipulatsioonita; vt **Lisa O** (vaktsineerimine — uuringud, ühiskond, konspiratsioonid).
 
 **TAI spetsiifika:** vaimne tervis, infohügieen, pere tervis, **toitumine ja taastumine** (koos Sotsiaalkaitseministeeriumiga), aus statistika, koostöö Haridus- ja Siseministeeriumiga.
 
@@ -750,7 +751,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Klass | Sisu |
 |-------|------|
 | **I (toit)** | Soe pere eine 1× nädalas — ilma ekraanideta |
-| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet), **Lisa N (Aluste_kool)**; Alar Ojastu *Ratsionaalne emotsionaalsus*; Tiit Trofimov *Lõpp on algus*; Liivamägi/Talpsepp/Vaarmets *Eraisiku rahandus*; Stefansson *Not by Bread Alone* / *The Fat of the Land*; McClellan & Du Bois (1929–1930, Bellevue lihadieet); „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee); Gordon (sinamina.ee); Imelised aastad (pk.ee); Papsid.ee; Starfish Academy; BMI Institute; BNI Eesti; Äripäev Investor Toomas (aripaev.ee/raadio); Rahakratt (rahakratt.rahajutud.ee); Marko Oolo Exceli tööriistad (oolomarko.ee); Blondcast (tasku.delfi.ee); **Sõduri käsiraamat + Kaitseväe sisemäärustik** (mil.ee) |
+| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet), **Lisa N (Aluste_kool)**, **Lisa O (vaktsineerimine)**; Alar Ojastu *Ratsionaalne emotsionaalsus*; Tiit Trofimov *Lõpp on algus*; Liivamägi/Talpsepp/Vaarmets *Eraisiku rahandus*; Stefansson *Not by Bread Alone* / *The Fat of the Land*; McClellan & Du Bois (1929–1930, Bellevue lihadieet); „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee); Gordon (sinamina.ee); Imelised aastad (pk.ee); Papsid.ee; Starfish Academy; BMI Institute; BNI Eesti; Äripäev Investor Toomas (aripaev.ee/raadio); Rahakratt (rahakratt.rahajutud.ee); Marko Oolo Exceli tööriistad (oolomarko.ee); Blondcast (tasku.delfi.ee); **Sõduri käsiraamat + Kaitseväe sisemäärustik** (mil.ee) |
 | **III (kütus)** | Uni 7–8h; liikumine 30 min/päev; **toit** — eelistada täisväärtuslikku, vähe töödeldud toitu (kohalik kala, liha, rasv koos); enne suuri dieedimuutusi perearst. Vt Lisa H (Renee saamise lugu, Stefanssoni viide) |
 | **V (laskemoon)** | Sõnad — kasuta neid mõistlikult. Iga sõnum on lask |
 | **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber; [narko.ee](https://www.narko.ee) chatbot/tugiliin (Renee alustas siit); [ohvriabi.ee](https://ohvriabi.ee) — koduvägivalla korral kuni 940 € psühholoogilise abi toetus 2 aasta jooksul (sh **EMDR** sessioonid); Märt Avandi lugu YouTube'is: [watch?v=nNuHGdQdrZY](https://www.youtube.com/watch?v=nNuHGdQdrZY) |
@@ -816,7 +817,8 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Haridus | Ott Pärna / Techno TLN | techno.ee (Lisa J — täielik juhtkond) |
 | Haridus | Rocca al Mare Kool | ramkool.edu.ee (Lisa J — juhtkond + Vaherid) |
 | Akadeemiline tugi | Aarne Ermus | Kaitseväe Akadeemia |
-| Tervis / ennetus | Tervise Arengu Instituut (TAI) | tai.ee (vt Lisa L) |
+| Tervis / ennetus | Tervise Arengu Instituut (TAI) | tai.ee (vt Lisa L, **Lisa O**) |
+| Immuniseerimine | Terviseamet + Sotsiaalkaitseministeerium | terviseamet.ee (vt **Lisa O**) |
 | Riik / protsessid | Kõik ministeeriumid | valitsus.ee (vt Lisa L — Muski algoritm) |
 
 **Juhtimiskett:** Renee Aluste → Remo Ojaste → võrgustiku liikmed → iga kodanik iseenda juht.
@@ -840,6 +842,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Võrgustiku skeem:** Lisa K — `lisad/lisa-k-vorgustiku-skeem-ja-ulesanded.md` (kõik osalised, CR statistika, podcast)
 - **Ministeeriumid ja TAI:** Lisa L — `lisad/lisa-l-ministeeriumid-ja-tai.md` (Muski 5-astmeline algoritm)
 - **Kodaniku identiteet:** Lisa M — `lisad/lisa-m-kodaniku-identiteet-ja-vanne.md` (Robbins 5 sammu, manifest, vanne, LIHTSUS)
+- **Vaktsineerimine:** Lisa O — `lisad/lisa-o-vaktsineerimine.md` (uuringud, ühiskond, konspiratsioonid, aus hinnang)
 - **Koordinaatori profiil:** `lisad/renee-aluste-profiil.md` (eraldi leht)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
 - **Signaal OPERATSIOON TÄIDETUD:** Kui ühiskondlikud mõõdikud näitavad paranemist — üksikemade arv langeb, kiusamine väheneb, inimesed räägivad vastutusest.
@@ -1145,6 +1148,13 @@ koos Combat Ready meeskonna ja partneritega
 *Minu küsimus sulle: Kas sa oled täna aus oma vaimse seisundiga — iseendale?*
 ---
 
+**K (Noor isa, Tallinn):** Mis on operatsiooni seisukoht vaktsineerimise suhtes? Internetis on nii hirmu kui propaganda.
+
+**V:** Me ei müü mõlemat äärmust. Uuringud näitavad, et klassikalised lapsehooduse vaktsiinid on ühiskonnale ajalooliselt neto-positiivsed — leetrid, difteeria ja polio olid reaalsed tapjad. Samas on COVID-ajastu lõhkunud usaldust põhjendatult, ja konspiratsioonid mikrochipide või depopulatsiooniga on emotsionaalsed lühendid, mitte tõsiselt võetavad faktid. Eestis on lapse vaktsineerimine vabatahtlik. Renee Aluste tegi oma uue lapse puhul teadliku otsuse: keeldus riikliku kava vaktsiinidest, tegi ainult puukentsefaliidi (TBE) vaktsiini — mitte borrelioosi vaktsiini, sest seda Eestis rutiinselt ei pakuta. Me ei õpeta teisi järgima ega keelama. Me ütleme: küsi perearstilt, loe andmeid, ära otsusta hirmust. Täielik analüüs on **Lisa O**.
+
+*Minu küsimus sulle: Kas su otsus põhineb andmetel või grupi survele?*
+---
+
 **K (Budistlik rühmitus):** Teie „peegelneuronite" keel kõlab teadlikkuse praktikast. Kas te olete teadlikud, et see võib kattuda meditatsiooni ja eneseteadlikkuse õpetustega?
 
 **V:** Jah. Peegel on universaalne metafoor. Katrin Lucas tegeleb taskuhäälingus teadlikkuse ja ärkvelolekuga teistsugusel keelel — me austame seda. Ingvar Villido pakub praktilist teadlikkust; tantravõrgustik pakub keha ja läheduse kaudu avanemist; Pühali pakub loodust ja vaikust. Operatsioon „Peegel" ei ole üks õige tee. See on üks tee — distsipliini, sõjalise selguse ja perekonna kaudu. Teie tee võib olla vaikus, meditatsioon, tantra või mets. Eesmärk on sama: ärkvel inimene, kes ei lase end manipuleerida.
@@ -1386,6 +1396,7 @@ Need seitse köidet täiendavad käesolevat lahingukäsku. Iga köide on iseseis
 | **L** | — | `lisad/lisa-l-ministeeriumid-ja-tai.md` | Ministeeriumid ja TAI — Muski 5-astmeline protsessijuhtimine (küsi → kustuta → lihtsusta → kiirenda → automatiseeri) |
 | **M** | — | `lisad/lisa-m-kodaniku-identiteet-ja-vanne.md` | Kodaniku identiteet — Robbins 5 sammu, manifest peegli ees, kodaniku vanne, etapp LIHTSUS |
 | **N** | — | `lisad/lisa-n-aluste-kool.md` | **Üksus Aluste_kool** — SOK demomehed, viisakuseeskiri, päevane checklist |
+| **O** | — | `lisad/lisa-o-vaktsineerimine.md` | **Vaktsineerimine** — uuringud, ühiskond, konspiratsioonid, Renee isiklik valik, TAI/Terviseamet |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

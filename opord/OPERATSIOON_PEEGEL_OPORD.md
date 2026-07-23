@@ -17,33 +17,34 @@
 
 ## MOTIVEERIV KÕNE
 
-*Renee Aluste — Sõdurioskuste kursus (SOK), Kaitseliit. Operatsioon „Peegel" alguses.*
+*Renee Aluste — Operatsioon „Peegel", Eesti kodanikele.*  
+*(Kohandatud SOK / Kaitseliidu kõnest — sama põhimõte, teine lahinguväli: sinu nutitelefon, uudisvoog, pere.)*
 
-Kaasaegne sõda on kaootiline ja hävitav.
+Kaasaegne infosõda on kaootiline ja kurnav.
 
-Oma esimeses lahingus kogete lahinguväljal segadust, kohutavaid pilte, hääli ja lõhnu — aga hoolimata nendest tingimustest peate võitma ja ellu jääma.
+Kui sa seda esimest korda tõeliselt märkad — oma uudisvoos, oma kõhutundes, peres või tööl — koget segadust, hirmu, viha, lootusetust. Kohutavaid pilte, valjusid hääli, jõhkeit sõnu. Aga hoolimata nendest tingimustest **sa pead ellu jääma**. Mitte ainult füüsiliselt — vaimselt, pereliselt, inimesena.
 
-Te võite silmitsi seista tigeda vaenlasega. Teid võib ümbritseda surm. Teie kaasvõitlejad võivad karjuda kiireid käske ja korraldusi. Te võite olla vastase efektiivse tule all.
+Sa võid silmitsi seista manipulatsiooniga. Sind võib ümbritseda müra — algoritmid, võõrad kanalid, üldine paanika. Su lähedased võivad karjuda kiireid arvamusi ja hinnanguid. Sa võid olla emotsionaalse „tule" all — ja mitte isegi aru saada, kust see tuli.
 
-Kuid sel hetkel pidage meeles: kogu selles segaduses **te pole üksi**.
+Kuid sel hetkel pea meeles: kogu selles segaduses **sa pole üksi**.
 
-Te olete osa heal tasemel koolitatud võitlejatest, mida toetab terve Kaitseliit ja Eesti rahvas. Peate uskuma oma kaasvõitlejatesse, pidama meeles oma väljaõpet ja täitma oma kohustust.
+Sa oled osa Eesti inimestest, kes on valmis õppima, tugevnema ja teisi toetama. Mitte üksinda — koos naabrite, perede, mentorite ja selle võrgustikuga, mis sinu ümber kasvab. Pea meeles, mida sa juba tead. Usalda inimesi, kes on sinu jaoks kohal. Täida oma osa — üks samm korraga.
 
-Sõdurioskuste kursusel õppisite lahingus ellujäämiseks vajalikke oskusi. Kõik Kaitseliidu liikmed kõigis malevates ja üksustes peavad oskama neid baasoskusi.
+See paranemis-teekond õpetab ellujäämiseks vajalikke baasoskusi: turvalisus, mõistmine, kriitiline mõtlemine, aus suhtlus. Iga kodanik — iga lapsevanem, naaber, kolleeg — võib neid õppida.
 
 Seda on palju õppida ja omandada. Aga ausalt öeldes — need on kõigest baasoskused.
 
-Sõdurina peate meeles pidama: te ei jõua kõiki neid oskusi omandada ideaalselt, sest on liiga palju mida meeles pidada, liiga palju lugeda, liiga palju asju mida harjutada. Ja võib-olla just seetõttu, et neid oskuseid on liiga palju, lähevad need aeglaselt meelest — ununevad. Sõdur läheb pehmeks, nõrgaks.
+Kodanikuna pead meeles pidama: sa ei jõua kõike ideaalselt omandada, sest on liiga palju mida meeles pidada, liiga palju lugeda, liiga palju asju mida harjutada. Ja võib-olla just seetõttu, et neid oskuseid on liiga palju, lähevad need aeglaselt meelest — ununevad. Inimene läheb pehmeks, nõrgaks, üksildaseks.
 
-Aga on sõdureid ja inimesi, kes jätkavad õppimist, jätkavad pingutamist. Nad tahavad olla kiiremad, paremad, targemad ja tugevamad.
+Aga on kodanikke, kes jätkavad õppimist, jätkavad pingutamist. Nad tahavad olla selgemad, targemad, tugevamad — enda jaoks ja teiste jaoks.
 
 Neil on enesedistsipliin ja motivatsioon, et minna edasi ja teisi endaga kaasa vedada — läbi raskuste, olla eestvedaja, mentor, eeskuju, juht.
 
-Vaadates teie poole — ma näen, et teie seas on võitlejaid, kes sobivad sellesse rolli. Ja usun, et kui me näeme mõnel õppusel aasta või aastate pärast, siis **teie olete need**, kes juhivad kaasvõitlejaid lahingus. Ja toovad nad sealt elusana tagasi.
+Vaadates sinu poole — ma näen, et sinu seas on inimesi, kes sobivad sellesse rolli. Ja usun, et kui me kohtume aasta või aastate pärast, siis **sina oled see**, kes juhib oma lähedasi segadusest välja. Ja toob nad tagasi — elusana, tervena, peres.
 
-**Eesti eest. Surmani.**
+**Eesti eest. Koos. Lõpuni.**
 
-> *See kõne räägib lahinguväljast. Operatsioon „Peegel" räägib infosõjast — aga põhimõte on sama: segaduses ei ole sa üksi. Usalda väljaõpet. Usalda kaaslasi. Täida kohustust. Enne kui oled juht, mentor või eeskuju — oled õppija.*
+> *Enne kui oled juht, mentor või eeskuju — oled õppija. Õpi ennast tundma. See on pikk mäng. Teisel pool on armastust täis väärtuslik elu.*
 
 ---
 

@@ -533,6 +533,9 @@
 | Urmas Sõõrumaa | Pühali | Taastumine looduses | Puhkus, üritused |
 | Epp Kärsin | Teadlik intiimsus | Häbist vabanemine, paaride lähedus | Koolitused, noorte loengud (eppkarsin.com) |
 | Kaia Kapsta-Forrester | Pere- ja paariteraapia | Tugev pere, kriis ennetus | IMAGO, PREP, raseduskriis (kaiakapsta.com) |
+| Kert Grünberg | Trauma, hingamine | Keha taastumine, kaassõltuvus | TRE, regressioon (hingamistuba.ee) |
+| Jure Biechonski | Transpersonaalne teraapia | Alateadlikud mustrid, psühhosomaatika | THA, hüpnoteraapia (teadlikmina.ee) |
+| Andres Põhjala | Judo, noored | Füüsiline distsipliin, kogukond | Spordiklubi Do, Tartu (do.ee) |
 
 *Profiilipildid: peamine OPORD*
 
@@ -553,6 +556,12 @@
 - **Roll:** Ju-jutsu treener; endine SOG ülem
 - **Eesmärk:** Füüsiline vastupanuvõime
 - **Ülesanne:** Taktikaline Grupp; enesekaitse; laskmine
+
+#### Andres Põhjala — Spordiklubi Do (Tartu)
+
+- **Roll:** Judotreener; klubi asutaja ja juht
+- **Eesmärk:** Noorte füüsiline distsipliin ja kogukond
+- **Ülesanne:** Judo väärtused (austus, enesekontroll); 500+ liiget; Tartu aukodanik 2026
 
 ---
 
@@ -584,6 +593,18 @@
 - **Eesmärk:** Intiimsus ja lähedus ilma häbi ja tabuta
 - **Ülesanne:** Paarid, noored, ettevõtted; täiendab tantravõrgustikku ja pere rindejoont
 
+#### Kert Grünberg — Trauma ja taastumine
+
+- **Roll:** Holistiline regressiooniterapeut (Hingamistuba OÜ)
+- **Eesmärk:** Trauma vabastamine kehas; eneseväärtus
+- **Ülesanne:** TRE, rebirthing, kaassõltuvus; Lisa F, H
+
+#### Jure Biechonski — Transpersonaalne teraapia
+
+- **Roll:** Psühhhoterapeut; Teadlik Mina kooli juht
+- **Eesmärk:** Alateadlikud mustrid; keha-meele tervendamine
+- **Ülesanne:** THA, hüpnoteraapia; sügavam tase kui üldine eneseabi
+
 ---
 
 ### 4.12 Võrgustiku toetajad
@@ -601,6 +622,9 @@
 | Tiit Trofimov | Enesearengu teejuht | Emotsioonid, meeste ring, meditatsioon (tiittrofimov.ee) |
 | Epp Kärsin | Teadliku intiimsuse koolitaja | Seksuaalharidus, paarid, noored (eppkarsin.com) |
 | Kaia Kapsta-Forrester | Pere- ja paaripsühholoog | IMAGO, PREP, raseduskriis (kaiakapsta.com) |
+| Kert Grünberg | Holistiline regressiooniterapeut | Trauma, TRE, kaassõltuvus (hingamistuba.ee) |
+| Jure Biechonski | Transpersonaalne psühhhoterapeut | THA, hüpnoteraapia (teadlikmina.ee) |
+| Andres Põhjala | Judotreener, Spordiklubi Do | Noored, distsipliin, Tartu (do.ee) |
 | Ruth Maria Roosi-Ott | AMI Montessori juhendaja | Lapse õppija-identiteet (Eesti Montessori Instituut) |
 | Kerli-Kristi Allikvee | AMI Montessori juhendaja | Montessori võrgustik Eestis |
 | Sina ja Mina (Gordon) | Lapsevanemate koolitus | Gordoni suhtlustreening (sinamina.ee) |

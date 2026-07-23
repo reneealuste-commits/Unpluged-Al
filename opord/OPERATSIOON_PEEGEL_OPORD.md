@@ -247,6 +247,13 @@
 - **Taust:** Endine ettevõtja (kinnisvara, restoranid, sisekujundus; sh Adila puhkekeskuse arendaja). 2009. aasta kriisis kaotas kodu, vara ja perekonna — see muutis ta elu. Viimased 15+ aastat teadliku enesearengu, meditatsiooni, jooga ja kehatöö valdkonnas. Autor *Lõpp on algus. Julgus elada iseendana* (Pilgrim, 2023). Korraldab vestlusõhtuid („Must ja valge"), meeste ringe, ekstaatilise tantsu ja meditatsiooni töötubasid.
 - **Miks ta on siin:** Trofimov on elav tõend, et põhjast saab tõusta. Ta räägib ausalt — mitte teooriast, vaid kogemusest. Tema fookus emotsioonide vabastamisel ja meeste ringis täiendab operatsiooni taastumise sõnumit (Lisa F, Lisa H) ja teadlikkuse võrgustikku. Alar Ojastu on teda soovitanud kui inimest, kellel on missioon, mitte äri.
 
+#### Kert Grünberg — Trauma, hingamine ja taastumine
+
+- **Roll operatsioonis:** Holistiline regressiooniterapeut ja taastumisnõustaja; trauma vabastamine kehas, kaassõltuvus, eneseväärtus.
+- **Taust:** Hingamistuba OÜ ([hingamistuba.ee](https://www.hingamistuba.ee)); kutsetunnistus holistiline regressiooniterapeut (tase 7, TAM). Rebirthing breathwork, TRE (trauma release), transpersonaalne psühholoogia, kaassõltuvusnõustaja (CPRC, CPC). Holistika Instituut; Rahvusvahelise Hingamistöö Föderatsiooni kogemus. Töötoad: perfektsionism, enesepiitsutamine, eneseväärtus.
+- **Mõjuala:** **Taastumine ja keha** — Lisa F, Lisa H; täiendab Tiit Trofimovit, Julian Maierit (breathwork) ja Kaia Kapsta-Forresterit. Aitab inimestel, kes on „korras näost", aga kurnatud seest.
+- **Miks ta on siin:** Infosõda ja elukriisid jätab kehasse jälje. Grünberg töötab seal, kus sõnad ei piisa — hingamine, trauma ja kaassõltuvus. Tema sõnum: *elu on lõuend, sinna saab uuesti peale maalida*.
+
 #### Epp Kärsin — Teadlik intiimsus ja seksuaalharidus
 
 - **Roll operatsioonis:** Teadliku seksuaalsuse ja intiimsuse koolitaja; häbistatud teemade avamine ausa keele kaudu — paaridele, naistele, meestele ja noortele.
@@ -288,6 +295,13 @@
 - **Roll operatsioonis:** Heaolu- ja puhkekeskuse eestvedaja; looduslik keskkond keha ja vaimu taastamiseks; ürituste ja praktikate korraldamine.
 - **Taust:** Ettevõtja, Pühali Hea Elu Keskuse (endine Adila heaolu- ja puhkekeskus) asutaja ja omanik. Keskus asub Pihali külas (Kohila vald, Raplamaa) — saunad, spordiväljakud, majutus, rabamets ja Pühali Hiis. Sõõrumaa seostab koha oma esivanemate ajalooga (vähemalt 12 põlvkonda) ja missiooniga taastada küla elujõudu. Korraldab üritusi, puhkust ja keha-vaimu praktikaid looduses.
 - **Miks ta on siin:** Infosõja väsimus ei ole ainult vaimne — see on ka kehaline. Pühali pakub ruumi, kus inimene saab väljuda algoritmist: sauna, rabas jalutada, hiies vaikida, hingetõmmata. See on operatsiooni „ava silmad" missioon looduse ja hea elu kaudu.
+
+#### Jure Biechonski — Transpersonaalne psühholoogia ja hüpnoteraapia
+
+- **Roll operatsioonis:** Transpersonaalse psühhhoteraapia ja hüpnoanalüüsi (THA) õpetaja; keha-meele tervendamine ja psühhosomaatika.
+- **Taust:** **Teadlik Mina** kooli asutaja ja juhataja ([teadlikmina.ee](https://teadlikmina.ee)); THA (Transpersonaalne Hüpnoanalüüs) looja. 40+ aastat praktikat; Eesti Transpersonaalse Psühholoogia Ühingu president; ETPA ja EUROTAS juhtrollid. Õpingud: hüpnoteraapia (UK), NLP, psühhodraama, pereteraapia, psühhoneuroimmunoloogia. Doktoriõpe (Canterbury, UK) — vähkkogemuse emotsionaalne ja spirituaalne dimensioon.
+- **Mõjuala:** **Sügav taastumine ja teadlikkus** — alateadlikud mustrid, trauma kehas, psühhosomaatika. Täiendab Villidot, Trofimovit, Kert Grünbergit.
+- **Miks ta on siin:** Operatsioon ütleb: vaenlane tabab seestpoolt. Biechonski töötab alateadliku tasandiga — seal, kus manipulatsioon ja trauma sageli peituvad. Ta ei asenda arsti, aga aitab inimesel mõista, miks keha ja vaim haigestuvad koos.
 
 #### Taavi Karotamme — Strateegiline kommunikatsioon
 
@@ -347,6 +361,13 @@
 - **Taust:** Endine Eesti sõjaväelane; Spetsiaalsete Operatsioonide Grupi asutaja ja endine ülem. Ju-jutsu treener (Goshin klubi, Eesti Ju-Jutsu Liit); turvaekspert. MTÜ Laskespordiklubi Taktikaline Grupp asutaja ja treener (Harku vald, Muraste/Kütke) — võitlussport ja jahipraktiline laskmine. Tõi Eestisse Soomest modernse ju-jutsu.
 - **Miks ta on siin:** Vaimne vastupidavus vajab kehalist alust. Ambros tegutseb seal, kus inimesed elavad — Harku piirkonnas — ja õpetab, et tugev keha ja oskus end kaitsta on osa kodaniku valmisolekust, mitte agressioonist.
 
+#### Andres Põhjala — Judo, noored ja kogukond (Tartu)
+
+- **Roll operatsioonis:** Noorte füüsiline distsipliin ja kogukonna eestvedaja; judo filosoofia kaudu austus, enesekontroll ja vastupanuvõime.
+- **Taust:** Spordiklubi **Do** asutaja ja juht (~45 aastat); judotreener alates 1972 ([do.ee](https://www.do.ee)). Tartu Ülikooli kehakultuur (1981). Endine võistleja; Eesti judokoondise treener; Tartu Spordiliidu juht; Eesti Olümpiakomitee esindajatekogu liige. **Tartu aukodanik** (2026). Klubis 500–600 liiget; kümneid Eesti meistreid aastas; algõpe ka lasteaedades. Rotary, Round Table, Kärevere Jahiselts.
+- **Mõjuala:** **Kohalikud allüksused ja noored** — füüsiline kasvatus enne sotsiaalmeediat; judo väärtused (austus, sõprus, enesekontroll) kattuvad SOK checklistiga (*austa · kuula · usalda*). Täiendab Peeter Järvsood (Noorte Kotkad), Tanel Jäppinenit (CR Youth) ja Andrei Ambrosit.
+- **Miks ta on siin:** Operatsioon võidetakse noortes. Põhjala on viie aastakümne jooksul kasvatanud tuhandeid lapsi, kellest osa on jõudnud maailmatasemele (sh Martin Järveoja). Ta näitab: distsipliin ei ole karistus — see on struktuur, mis hoiab inimese püsti.
+
 #### Aigar Ojaots — MTÜ Team Pertinax (mereväe meeskond)
 
 - **Roll operatsioonis:** Mereväe-kultuuriga meeskonna eestvedaja; eneseteadlike ja tugevate ettevõtjate koolitamine operatsiooni võrgustikus.
@@ -399,6 +420,9 @@
 - **Tiit Trofimov** — enesearengu teejuht (tiittrofimov.ee); emotsioonide töö, meeste ringid, meditatsioon; autor *Lõpp on algus*; taastumine pärast 2009. aasta kriisi.
 - **Epp Kärsin** — teadlik intiimsus ja seksuaalharidus (eppkarsin.com); paarid, noored, häbist tabude murdmine; Amare Luna OÜ.
 - **Kaia Kapsta-Forrester** — pere- ja paariteraapia (kaiakapsta.com); IMAGO, PREP, raseduskriisi nõustamine; Väärtustades Elu SA.
+- **Kert Grünberg** — trauma ja hingamine (hingamistuba.ee); holistiline regressioon, TRE, kaassõltuvus; taastumine.
+- **Jure Biechonski** — transpersonaalne psühhhoteraapia (teadlikmina.ee); THA, hüpnoteraapia, psühhosomaatika.
+- **Andres Põhjala** — judo ja noored (do.ee); Spordiklubi Do, Tartu; füüsiline distsipliin ja kogukond.
 - **Eesti Montessori võrgustik** — Eesti Montessori Instituut ja Ühing; AMI juhendajad (sh Ruth Maria Roosi-Ott, Kerli-Kristi Allikvee); lapse õppija-identiteet.
 - **MTÜ Perekoolitusühing Sina ja Mina** — Gordoni perekooli suhtlustreeningud lapsevanematele (TAI hinnang: VÄGA HEA).
 - **Tallinna Perekeskus** — programm „Imelised aastad" (3–8-aastaste vanematele); tõenduspõhine vanemlusabi.
@@ -478,7 +502,7 @@
 | Avalik sektor | Ain Anslan (Viru vangla) | Juhtimiskultuur, kriisivalmidus — aktiivne (Lisa K) |
 | Strateegiline kommunikatsioon | Taavi Karotamme, Arvo Jõesalu | Kaitseväe ja Kaitseliidu strateegiline kommunikatsioon — aktiivne |
 | Haridus | Techno TLN (Ott Pärna), KVA juhtkond, RaM Kool (Elmar Vaher) | Kutse-, juhtimis- ja väärtusharidus — aktiivne (Lisa J) |
-| Kohalik | Peeter Järvsoo (Noorte Kotkad), Andrei Ambros (Harku) | Noored ja piirkondlik vastupanuvõime — aktiivne |
+| Kohalik | Peeter Järvsoo (Noorte Kotkad), Andrei Ambros (Harku), Andres Põhjala (Tartu Do) | Noored ja piirkondlik vastupanuvõime — aktiivne |
 | Rahva tase | Operatsioon „Peegel" võrgustik | KÄIVITATUD — see käsk |
 | Toetus | Remo Ojaste / Combat Ready | Extreme Ownership, äriline juhtimine — aktiivne |
 | Toetus | Starfish Academy (Vallo Arumäe) | Finantskirjaoskus, investorlus — aktiivne |
@@ -498,6 +522,9 @@
 | Toetus | Tiit Trofimov / eneseareng | Emotsioonid, meeste ring, taastumine — aktiivne |
 | Toetus | Epp Kärsin / Amare Luna | Teadlik intiimsus, seksuaalharidus — aktiivne |
 | Toetus | Kaia Kapsta-Forrester | Pere- ja paariteraapia, raseduskriis — aktiivne |
+| Toetus | Kert Grünberg / Hingamistuba | Trauma, hingamine, kaassõltuvus — aktiivne |
+| Toetus | Jure Biechonski / Teadlik Mina | Transpersonaalne teraapia, THA — aktiivne |
+| Toetus | Andres Põhjala / Spordiklubi Do | Judo, noored, Tartu kogukond — aktiivne |
 | Toetus | Eesti Tantrafestivali võrgustik (Earthchild, Skalkina, Sarmet, Saul) | Tantralaagrid ja festivalid — aktiivne |
 | Toetus | Urmas Sõõrumaa / Pühali Hea Elu Keskus | Heaolu, loodus, puhkus — aktiivne |
 | Toetus | Eero Kinnunen / Eesti Kaitseväe Veteranid | Veteranide kogukond ja tugi — aktiivne |
@@ -614,6 +641,11 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 2. Füüsilise valmisoleku tõstmine peredes ja noortes — trenn, mitte hirm.
 3. Koostöö Combat Ready ja Kaitseliidu kohalike struktuuridega.
 
+### Andres Põhjala (Spordiklubi Do, Tartu)
+1. **Judo** — austus, enesekontroll, sõprus; 500+ noort klubis ([do.ee](https://www.do.ee)).
+2. Tartu aukodanik (2026); EOK; kogukonna eestvedaja — judokarikavõistlused, lasteaedade algõpe.
+3. Füüsiline distsipliin enne ekraani; täiendab Noorte Kotkad ja CR Youth.
+
 ### Aigar Ojaots / MTÜ Team Pertinax (mereväe meeskond)
 1. Pertinax meeskonna (~20 liiget) treeningud: tugevad, eneseteadlikud ettevõtjad ja juhid.
 2. Mereväe distsipliini ja meeskonnatöö põhimõtete levitamine tsiviilkanalisse.
@@ -727,6 +759,16 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 2. Raseduskriisi nõustamine — Väärtustades Elu SA kogemus; suunamine enne, kui kriis süveneb.
 3. Täiendab Lisa F ja Lisa H — pereteraapia, kui vestlus sõbra või raamatuga ei piisa.
 
+### Kert Grünberg (trauma ja taastumine)
+1. Holistiline regressioon, rebirthing, TRE — trauma vabastamine kehas ([hingamistuba.ee](https://www.hingamistuba.ee)).
+2. Kaassõltuvus ja eneseväärtus — töötoad perfektsionismi ja enesepiitsutamise teemadel.
+3. Täiendab Lisa F ja Lisa H — kui vaimne kriis vajab kehalist tööd.
+
+### Jure Biechonski (transpersonaalne teraapia)
+1. **Teadlik Mina** — hüpnoteraapia ja THA koolitused ([teadlikmina.ee](https://teadlikmina.ee)).
+2. Alateadlikud mustrid, psühhosomaatika — sügavam tase kui üldine motivatsioon.
+3. Suunab professionaalse abi poole; täiendab Villidot ja Trofimovit.
+
 ### Igor Earthchild / Bella Skalkina / Margus Sarmet / Kristiina Saul (tantra ja laagrid)
 1. Eesti Tantrafestivali ja tantralaagrite korraldamine — turvalised ruumid enese taasleiutamiseks.
 2. Töötoad paaridele ja üksikisikutele: teadlik lähedus, keha avamine, emotsioonide vabastamine.
@@ -826,6 +868,9 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Eneseareng / emotsioonid | Tiit Trofimov | tiittrofimov.ee |
 | Intiimsus / seksuaalharidus | Epp Kärsin / Amare Luna | eppkarsin.com |
 | Pere- ja paariteraapia | Kaia Kapsta-Forrester | kaiakapsta.com |
+| Trauma / hingamine | Kert Grünberg / Hingamistuba | hingamistuba.ee |
+| Transpersonaalne teraapia | Jure Biechonski / Teadlik Mina | teadlikmina.ee |
+| Judo / noored (Tartu) | Andres Põhjala / Spordiklubi Do | do.ee |
 | Tantra / laagrid | Igor Earthchild | learn2touch.com / tantrafest.ee |
 | Tantra / laagrid | Bella Skalkina | tantrafest.ee / anahata.fi |
 | Tantra / laagrid | Margus Sarmet | tantratants.ee / tantrafest.ee |

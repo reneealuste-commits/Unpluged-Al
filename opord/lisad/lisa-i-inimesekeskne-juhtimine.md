@@ -6,15 +6,31 @@
 
 ## Miks see siin on
 
-Eesti kaitseväe esimesed juhid võtsid Steigeri raamatu oma juhtimise SOP-iks. Raamat on olnud Kaitseväe Akadeemia ja Kaitseliidu õppekavades viidatud allikas. Operatsioon „Peegel" ütleb: aeg on rakendada seda, mida me juba teame — mitte ainult paberil.
+Eesti kaitseväe esimesed juhid võtsid Steigeri raamatu oma juhtimise SOP-iks. Raamat on olnud Kaitseväe Akadeemia ja Kaitseliidu õppekavades viidatud allikas. Operatsioon „Peegel" ütleb: aeg on rakendada seda, mida me juba teeme — mitte ainult paberil.
 
 **Märkus:** See lisa on põhimõtete kokkuvõte avalikust kirjeldusest ja operatsiooni kontekstist. Täisteksti saab hankida raamatuna (ISBN 9985901274) või kasutada Renee Aluste eksemplari, kui täiendav tõendusmaterjal on vaja.
+
+---
+
+## Kindral Johannes Kert ja ülestõus domineeriva juhtimise vastu
+
+1990ndatel algas Eestis juhtimiskultuuri pööre: **sõjaväeliste juhtide ja tsiviiljuhtide ülestõus** — domineeriva käskimise asemel **inimesekeskne juhtimine** moodsas ühiskonnas.
+
+**Kindral Johannes Kert** (endine Kaitseväe juhataja) kirjutas Steigeri raamatu uustrükile (Kaitseväe Ühendatud Õppeasutused, 2011) **eessõna** — koos Šveitsi kindral Kaspar Villigeriga. See ei olnud akadeemiline huvi. See oli vastus küsimusele: *kuidas juhtida inimesi, kes on vabad inimesed — mitte alluvad masinad?*
+
+**Domineeriv juhtimine** — leivale suud andma, kõik ära sööma, vastu tahtmist tegema — annab lühikeses mängus allumise. Pikas mängus annab **loogilised ja loomulikud tagajärjed**: usaldamatus, kurnatus, võõrandumine, kaotus.
+
+**Inimesekeskne juhtimine** on vastus. Mitte nõrkus — **tõhusus inimeste kaudu**.
+
+> *Võitmine on tagajärg inimeste juhtimisele — mitte sunni tulemus.*
 
 ---
 
 ## Põhimõte
 
 Inimesekeskses juhtimises on võtmeroll inimesel — mõtlemises, tunnetes ja tegutsemises. See ei ole väljamõeldud mudel. See on igapäevane, kaastöötajale orienteeritud juhtimine.
+
+**Miks see töötab paremini:** me juhime **inimese pärast** — mitte protsessi, seaduse, reegli või „nii on alati tehtud" pärast. Steiger ütleb: *„See, kes on olnud juht, teab liigagi hästi, kui kõlbmatuks võivad osutuda reeglid ja retseptid."* Seepärast on need juhised praktilised tõukejõud — ruum individuaalseks kohandamiseks.
 
 ---
 
@@ -42,12 +58,22 @@ Steigeri kuus sammast (allpool) täiendavad seda: juht, kes kuulab ja mõistab t
 
 ## Steigeri kuus sammast (kokkuvõte)
 
+Steigeri raamatu (*Menschenorientierte Führung*) tuum tsiviil- ja sõjaväejuhtidele:
+
 1. **Enesetundmine** — juht õpib ennast tundma ja suudab oma vigu tunnistada.
 2. **Teise mõistmine** — juht püüab mõista ka siis, kui ei nõustu.
 3. **Ettevalmistus** — kohtumised ei juhtu juhuslikult; juht loeb end kurssi.
 4. **Kuulamine** — juht varub aega kuulamiseks, mitte ainult käskimiseks.
-5. **Dialoog** — hindamis- ja arenguvestlused on kahepoolne, mitte monoloog.
-6. **Ühine kasutamine** — rahulolu tekib, kui võimeid kasutatakse koos, mitte ülepeakaela.
+5. **Dialoog** — hindamis- ja arenguvestlused on kahepoolne, mitte monoloog; rahulolu tekib dialoogis.
+6. **Ühine kasutamine** — rahulolu tekib, kui võimeid ja eelsoodumusi kasutatakse koos, mitte ülepeakaela.
+
+*Steiger:* „Ettepanekud on tõukejõuks mõtetele ja mõtted hakkavad liikuma. Rohkem nõuandja ei suuda — vähem loodetavasti samuti mitte."
+
+| Domineeriv muster | Inimesekeskne vastus (Steiger) |
+|-------------------|-------------------------------|
+| Leivale suud, kõik ära, vastu tahtmist | Ettevalmistus + kuulamine enne otsust |
+| Reegel on tähtsam kui inimene | Inimene on tähtsam kui protsess |
+| Võit = sund | **Võit = tagajärg inimeste juhtimisele** |
 
 ---
 

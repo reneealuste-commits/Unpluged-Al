@@ -34,7 +34,7 @@
 
 Renee Aluste ei alustanud teooriast. Ta alustas oma elust:
 
-1. **Ta elas läbi murde.** Depressioon, infosõja mõju, isolatsioon, ekraan, lootusetus — ja taastumine (Lisa H). Ta teab, kuidas inimest seestpoolt murda. **37 aastat** kiusamise ja vägivalla ohvrina; kolm last võõrandatud. Ta oli ka ise kiusaja. *Ma elasin üle surma.*
+1. **Ta elas läbi murde.** Depressioon, infosõja mõju, isolatsioon, ekraan, lootusetus — ja taastumine (Lisa H). **37 aastat** domineeriva juhtimise ja vägivalla all (*mind ei kiusatud väikena* — aga leivale suud, kõik ära, vastu tahtmist). Kolm last võõrandatud. Oli ise kooli kiusaja. *Ma elasin üle surma.* Lahendus: **inimesekeskne juhtimine** (Kert + Steiger, Lisa I).
 2. **Ta põles läbi.** Umbes kolm aastat Sõdurioskuste kursuseid — efektiivselt, suurelt — kuni läbipõlemise ilmingud sundisid peatuma. Seekord tehakse **targemalt**: 1-1 vestlused, rotatsioon, mitte üks mees kogu aeg ees.
 3. **Riik teeb tööd, aga sõnum ei jõua igasse peresse.** Kaitsevägi, Kaitseliit, KAPO — head. Siiski tabavad algoritmid (TikTok, Telegram, võõrkeelsed kanalid) inimesi enne, kui nad aru saavad.
 4. **Liibanon õpetas.** Dominants ei tööta inimeste peal pikas mängus. Ausus ja usaldus töötavad paremini kui reeglid, mida kõik teavad, et on vale.
@@ -280,7 +280,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 - **Taust:** Combat Ready instruktor; Kaitseliidu juhtimisinstruktor. Endine erioperatsioonide grupi operaator; üks vähestest eestlastest, kes on läbinud USA Army Ranger Schooli. Arborist (TreeDoc/Kaks Arboristi). Ajateenistus Vahipataljonis (2009–2010, koos Taavi Karotammeaga); erioperatsioonide grupp; laevakaitseüksus; rahuvalvemissioon Liibanonis Estpla-21 (2015, ~7 kuud koos Karotammeaga).
 - **Isiklik motivatsioon:** Aluste on ise kogenud depressiooni ja mõistnud, kuidas pikaajaline infosõja ja manipulatsioon võib inimest murda. Ta on taastunud — ravimid, professionaalne abi, [narko.ee](https://www.narko.ee) tugiliin — ja võtnud vastutuse keha eest: uni, liikumine, toitumine. Ta viitab Vilhjalmur Stefanssoni arktika-kogemusele ja Bellevue uuringule (1928–1929) kui tõendile, et rasvarikas loomne toit (kala, mererasv) võib keha tervendada, kui vaim on juba abi saanud. Täielik lugu: **Lisa H**.
 - **Läbipõlemise õppetund:** Umbes **kolm aastat** tegi ta Sõdurioskuste kursuseid efektiivselt ja suurelt — tulemuseks olid **suured läbipõlemise ilmingud**. Operatsioon „Peegel" peab seda seekord tegema **targemini**: alusta **1-1 vestlustega** niipea kui võimalik, mitte ainult mass-koolitusega. Esimene samm on tehtud — **Rene Toomsega** on suhtlus alustatud; ukse lahti tehtud. (Vt V-formatsioon: Lisa I — üks ei veda igavesti.)
-- **Isiklik ajend (ausalt):** 37 aastat kiusamise ja vägivalla ohvrina; kolm last võõrandatud (Lily Käsper 14a, Rene Tilga 6a, Henry Käsper 11a). Oli ise kooli kiusaja. Taastus läbi lugemise (Beverly Engel, *Never Split the Difference*, *The Body Keeps the Score*) ja EMDR-i (KV Tugiteenuste keskus). *Ma elasin üle surma — ja tahan näidata, kuidas.* Vt Q&A sektsioon IV.
+- **Isiklik ajend (ausalt):** 37 aastat domineeriva juhtimise ja vägivalla all (*väikena ei kiusatud* — aga leivale suud, kõik ära, vastu tahtmist). Kolm last võõrandatud (Lily Käsper 14a, Rene Tilga 6a, Henry Käsper 11a). Oli ise kooli kiusaja. Taastus: Engel, Voss, van der Kolk, EMDR. Lahendus: **inimesekeskne juhtimine** (Kert + Steiger). Vt Q&A IV.
 - **Miks ta on siin:** Ta ei õpeta teooriat — ta on elanud läbi selle, mida õpetab. „Ma ei manipuleeri sind nõrkuseks. Ma aitan sul saada tugevaks."
 
 #### Priit Lilleväli — Rahva tase, juhtimis- ja psühholoogiline tugi
@@ -1131,7 +1131,15 @@ Kui see kõlab liiga pikalt — loe dokumendi alguses sektsiooni **„MIKS? AJEN
 
 **V (Renee Aluste):** Jah. Ma olen läinud hulluks.
 
-Ma olin depressioonis. Ma olin kiusamise ja vägivalla ohver juba **37 aastat**. Selle tagajärjel on minul võõrandatud **kolm minu last**:
+Ma olin depressioonis. Ma kannatasin **37 aastat** kiusamise ja vägivalla all — aga **mind ei kiusatud siis, kui ma olin väike**. See, mida ma kogesin, oli teistsugune. Küsin sinult:
+
+- Kas sa oled kunagi pidanud **leivale suud andma**?
+- Kas sa oled pidanud **kõik ära sööma** — ka siis, kui kõht oli täis?
+- Kas sa pidid **vastu oma tahtmist** midagi tegema — sest nii kästi, sest nii on alati tehtud?
+
+Seda nimetatakse **domineerivaks juhtimiseks**. Ja sellel on tagajärjed — **loogilised ja loomulikud** tagajärjed. Mitte karistus. Põhjus ja tagajärg.
+
+Selle domineerimise tagajärjel on minul võõrandatud **kolm minu last**:
 
 | Laps | Vanus |
 |------|-------|
@@ -1139,7 +1147,7 @@ Ma olin depressioonis. Ma olin kiusamise ja vägivalla ohver juba **37 aastat**.
 | Rene Tilga | 6 |
 | Henry Käsper | 11 |
 
-Ja see ei ole kogu lugu. **Ma olin ise kiusaja.** Ma olin kooli kiusaja. Ma olin julm inimene. See rikkus kogu mu elu. Ma jäin oma valede võrgustiku lõpuks üksi — ja alles siis hakkasin raamatuid lugema.
+Ja see ei ole kogu lugu. **Ma olin ise kiusaja.** Ma olin kooli kiusaja. Ma olin julm inimene. Ma õppisin domineerimist — ja see rikkus kogu mu elu. Ma jäin oma valede võrgustiku lõpuks üksi — ja alles siis hakkasin raamatuid lugema.
 
 | Raamat / abi | Mida see mulle andis |
 |--------------|----------------------|
@@ -1155,6 +1163,41 @@ Ja nüüd ma tahan teile näidata, **kuidas ma seda tegin** — mitte et te peak
 Kui sa tunned, et oled põhjas — loe **Lisa H** ja **Lisa F** (*Murra ring*). Kui vajad professionaalset abi: Eluliin **655 8088**, kriisiabi **116 123**, ohvriabi **116 006** (sh EMDR toetus kuni 940 € — vt Lisa H).
 
 *Minu küsimus sulle: Kas sa julged tunnistada, et oled olnud nii ohver kui ka süüdlane — ja alustada sealt, kus sa oled?*
+---
+
+**K: Aga mis lahendus siis on?**
+
+**V (Renee Aluste):** Lahendus on see, mida **kindral Johannes Kert** alustas Eestis — **sõjaväeliste juhtide ja tsiviiljuhtide ülestõus** moodsas ühiskonnas. Nimi on **inimesekeskne juhtimine**.
+
+Steigeri raamat (*Inimesekeskne juhtimine*, Fontes 1997; uustrükk Kaitseväe Ühendatud Õppeasutused 2011 — **eessõna: Johannes Kert**) ei ole uus moehullus. Eesti kaitseväe esimesed juhid võtsid selle oma juhtimise SOP-iks juba 1990ndatel. Probleem ei ole teadmatus. Probleem on **rakendamine**.
+
+**Miks inimesekeskne juhtimine töötab paremini?**
+
+Sest me juhime **inimese pärast** — mitte protsessi, seaduse, reegli või „nii on alati tehtud" pärast.
+
+| Domineeriv juhtimine | Inimesekeskne juhtimine (Steiger) |
+|----------------------|-----------------------------------|
+| Leivale suud, kõik ära, vastu tahtmist | Kuula enne kui käsi |
+| Juht käsib, inimene täidab | Juht valmistub, dialoog, ühine kasutus |
+| Võit = sund ja kontroll | **Võitmine on tagajärg inimeste juhtimisele** |
+| Lühike mäng võidab | Pikas mängus: *mida külvad, seda lõikad* |
+
+**Steiger ütleb otse** (Lisa I kokkuvõte):
+
+1. **Enesetundmine** — õpi ennast tundma; tunnista vigu.
+2. **Teise mõistmine** — püüa mõista ka siis, kui ei nõustu.
+3. **Ettevalmistus** — kohtumine ei juhtu juhuslikult.
+4. **Kuulamine** — varu aega kuulamiseks, mitte ainult käskimiseks.
+5. **Dialoog** — hindamine on kahepoolne, mitte monoloog.
+6. **Ühine kasutamine** — rahulolu tekib, kui võimeid kasutatakse koos.
+
+*„See, kes on olnud juht, teab liigagi hästi, kui kõlbmatuks võivad osutuda reeglid ja retseptid."* — Steiger. Seepärast on need juhised, mitte dogmad. Ruum individuaalseks kohandamiseks.
+
+**Kert + Steiger + Operatsioon „Peegel":** me ei ehita vanglaid, mida ise valvame. Me juhime inimesi nii, nagu me tahaksime, et meid juhiks. Võit — tugev pere, aus ühiskond, kodanik, kes mõtleb — on **tagajärg**, mitte eesmärk, mida saab sundida.
+
+Täielik SOP: **Lisa I** (ISBN 9985901274).
+
+*Minu küsimus sulle: Kas sa juhid inimest — või protsessi?*
 ---
 
 **K: Mul on raske peresituatsioon. Kas see operatsioon aitab mind?**
@@ -1470,7 +1513,17 @@ Kui sa tunned, et oled põhjas — loe **Lisa H** ja **Lisa F** (*Murra ring*). 
 
 **K: Mis on Steigeri „Inimesekeskne juhtimine" ja miks see on teie SOP?**
 
-**V:** Rudolf Steigeri raamat (Fontes, 1997) oli Eesti kaitseväe esimese juhtkonna juhtimise SOP — aga seda pole täielikult rakendatud. Raamat õpetab: juht õpib ennast tundma, kuulab, tunnistab vigu, peab dialoogi. See on Lisa I kokkuvõte. Täistekst on saadaval raamatuna (ISBN 9985901274). Kui sul on vana eksemplar — hoia seda. Eesti inimesed väärivad parimaid juhte. Mitte neid, kes mängivad rolli.
+**V:** Rudolf Steigeri raamat (*Menschenorientierte Führung*, tõlge Fontes 1997, ISBN 9985901274) oli Eesti kaitseväe esimese juhtkonna juhtimise SOP — aga seda pole täielikult rakendatud. **Kindral Johannes Kert** kirjutas uustrükile (Kaitseväe Ühendatud Õppeasutused, 2011) eessõna — see on sõjaväeliste ja tsiviiljuhtide **ülestõus** domineeriva juhtimise vastu.
+
+Steiger ei paku väljamõeldud mudeleid. Ta kirjeldab igapäevast juhtimist, kus:
+
+- juht **õpib ennast ja kaastöötajaid tundma** ning suudab vigu tunnistada;
+- juht **mõistab teist** ka siis, kui ei nõustu;
+- juht **valmistub** kohtumiseks ja **kuulab** — mitte ainult käsi;
+- hindamisvestlused on **dialoog**, mitte monoloog;
+- võimeid kasutatakse **ühises**, mitte ülepeakaela.
+
+**Miks see töötab:** me juhime inimese pärast, mitte protsessi või reegli pärast. **Võitmine on tagajärg inimeste juhtimisele** — mitte sunni tulemus. Lisa I on operatsiooni kokkuvõte. Täistekst: raamat või Renee Aluste eksemplar.
 
 *Minu küsimus sulle: Kas sa juhid teisi nii, nagu sa tahaksid, et sind juhiks?*
 ---
@@ -1597,7 +1650,7 @@ Need seitse köidet täiendavad käesolevat lahingukäsku. Iga köide on iseseis
 | **F** | 6/7 | `lisad/raamat-06-murra-ring.md` | Murra ring — depressioon ja taastumine |
 | **G** | 7/7 | `lisad/raamat-07-juhi-ja-voida.md` | Juhi ja võida — kogukond ja kutse |
 | **H** | — | `lisad/lisa-h-kiirjuhend-kriisis-isale.md` | Kiirjuhend kriisis isale — kriisiteekond ja lugemisjärjekord |
-| **I** | — | `lisad/lisa-i-inimesekeskne-juhtimine.md` | Inimesekeskne juhtimine (Steiger 1997) — SOP, V-formatsiooni rotatsioon, Liibanonist õppetund |
+| **I** | — | `lisad/lisa-i-inimesekeskne-juhtimine.md` | Inimesekeskne juhtimine (Steiger 1997, Kert eessõna) — domineeriva juhtimise vastu, 6 sammast, V-formatsioon |
 | **J** | — | `lisad/lisa-j-haridusasutuste-juhtkonnad.md` | Haridusasutuste juhtkonnad — Techno TLN, KVA ja Rocca al Mare Kool meeskonnad profiilipiltidega |
 | **K** | — | `lisad/lisa-k-vorgustiku-skeem-ja-ulesanded.md` | Võrgustiku skeem — kõik osalised, allüksuste ülesanded, CR statistika, podcasti külalised |
 | **L** | — | `lisad/lisa-l-ministeeriumid-ja-tai.md` | Ministeeriumid ja TAI — Muski 5-astmeline protsessijuhtimine (küsi → kustuta → lihtsusta → kiirenda → automatiseeri) |

@@ -1001,7 +1001,9 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 
 ### Kuidas me suhtleme? (Side eeskirjad)
 
-Täielik SOP: **Lisa Q** — `lisad/lisa-q-side-eeskirjad-ja-suhtlus.md`
+*Täielik SOP: **Lisa Q** — `lisad/lisa-q-side-eeskirjad-ja-suhtlus.md`*
+
+**Pareto 80/20:** kuus vitalset tööriisti (turvalisus, spordikommentaator, GOTWA, mänguline hääl, teietamine, valideerimine) annavad **80% tulemust** — sest need räägivad närvisüsteemi ja teadmatusega, mitte ainult loogikaga. Üks GOTWA + üks spordikommentaatori lause päevas > pikk koolitus ilma praktikat.
 
 | Element | Reegel |
 |---------|--------|
@@ -1811,7 +1813,7 @@ Need seitse köidet täiendavad käesolevat lahingukäsku. Iga köide on iseseis
 | **N** | — | `lisad/lisa-n-aluste-kool.md` | **Üksus Aluste_kool** — SOK demomehed, viisakuseeskiri, päevane checklist |
 | **O** | — | `lisad/lisa-o-vaktsineerimine.md` | **Vaktsineerimine** — uuringud, ühiskond, konspiratsioonid, Renee isiklik valik, TAI/Terviseamet |
 | **P** | — | `lisad/lisa-p-takistused-ja-valideerimine.md` | **Takistused ja valideerimine** — spordikommentaator, van der Kolk (mis töötab / mitte), traumateadlikkus |
-| **Q** | — | `lisad/lisa-q-side-eeskirjad-ja-suhtlus.md` | **Side eeskirjad** — hääl (mänguline / FM-DJ / kontingents / häda), GOTWA, austav keel, demomehed |
+| **Q** | — | `lisad/lisa-q-side-eeskirjad-ja-suhtlus.md` | **Side eeskirjad** — hääl, GOTWA, austav keel, Pareto 80/20, demomehed |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

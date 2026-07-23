@@ -115,6 +115,23 @@ Nagu spordikommentaator ei mängi ise palli, vaid **kirjeldab reaalajas**, mis t
 
 *Kõik 1-1 vestlused operatsioonis kasutavad seda järjekorda. See asendab vana mustrit „kuula → valideeri" — lisades vahele **teadliku hetke kirjeldamise**.*
 
+### Pareto 80/20 — miks need tööriistad annavad 80% tulemust
+
+**Pareto printsiip:** väike osa tegevustest annab suurema osa tulemustest. Traumateadlikus suhtluses on see **vitalne 20%**:
+
+| Tööriist | Miks 80% tulemusest |
+|----------|---------------------|
+| **Turvalisus** | Ilma selleta ei avane ükski teine tööriist — närvisüsteem jääb kinni |
+| **Spordikommentaator** | Üks aus lause hetkest > tund loogikat triggeris |
+| **Valideerimine** | „Sind nähti" sulgeb haava kiiremini kui „õige vastus" |
+| **Keha enne mõistust** | Ravib juurt, mitte sümptomit |
+
+Lisa Q lisab: **GOTWA**, **mänguline hääl**, **teietamine** — koos kuus tööriisti, mis katavad **enamiku** igapäevasest suhtlusest ja tervenemisest.
+
+> *Me ei vaja sadat tehnikat. Me vajame kuut, mida teeme iga päev.*
+
+*(Täielik Pareto kaart side ja demomeeste jaoks: **Lisa Q**.)*
+
 ### Viis traumateadlikku põhimõtet
 
 | # | Põhimõte | Praktikas |

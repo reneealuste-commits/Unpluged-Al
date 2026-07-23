@@ -12,6 +12,58 @@ Side ei ole ainult kanalid ja hashtagid. Side on **kuidas sa inimesega räägid*
 
 ---
 
+## Pareto 80/20 — miks need tööriistad annavad 80% tulemust
+
+**Pareto printsiip:** 80% tulemust tuleb 20%-st pingutusest. Operatsioon „Peegel" ei paku sadat suhtlustehnikat. Me pakume **vähest vitalset** — ja need annavad **enamiku** tulemusest, kui sa neid iga päev kasutad.
+
+### Vitalne 20% (meie tööriistad)
+
+| # | Tööriist | Lisa | Mida see lahendab |
+|---|----------|------|-------------------|
+| 1 | **Turvalisus** | P | Närvisüsteem ei pea kaitsepositsioonis — alus kõigele |
+| 2 | **Spordikommentaator** | P | Teadlikkus hetkega — keha enne mõistust |
+| 3 | **GOTWA** (KOP5) | Q | Teadmatuse ja ärevuse madal hoidmine liikumisel |
+| 4 | **Hääl (põhi mänguline)** | Q | Kaitse langetamine — inimene tuleb lähemale |
+| 5 | **Austav keel (teietamine)** | Q | Väärikus — usaldus ilma dominantsita |
+| 6 | **Valideerimine** | P | „Sind nähti" — haav ei jää lahti |
+
+Kuus tööriisti. Mitte kuuskümmend. **See on 20%, mis annab 80%.**
+
+### Miks just need?
+
+| Põhjus | Selgitus |
+|--------|----------|
+| **Juure, mitte sümptom** | Loogika, debatt ja „õpetamine" käsitlevad mõistust. Trauma ja ärevus elavad **kehas** (van der Kolk). Meie tööriistad räägivad kehaga ja närvisüsteemiga — seetõttu töötavad kiiremini. |
+| **Teadmatuse kustutamine** | Enamik konflikte ja ärevust tuleb ühest kohast: *ma ei tea, mis juhtub edasi*. **GOTWA** annab viis vastust enne, kui hirm kasvab. Üks minut selgust = tundide debati asemel. |
+| **Üks lause vs tund juttu** | **Spordikommentaator** — *„Ma näen, et sa vaikid. Ma olen siin."* — võib teha rohkem kui 45-minutiline loogiline monoloog. Teadlikkus vabastab; argument pigem pinguldab. |
+| **Usaldus enne sisu** | **Mänguline hääl** + **teietamine** avab ukse. Ilma selleta ei jõua sõnum kohale — ükskõik kui õige see on. |
+| **Korduvus > täiuslikkus** | Need tööriistad on lihtsad. Lihtsad asjad tehakse **iga päev**. Iga päev üks GOTWA + üks spordikommentaatori lause > üks kordlik perfektne koolitus. |
+
+### Mis annab 20% tulemust (80% pingutusest) — mida me EI tee
+
+| ❌ 80% pingutus, vähe tulemust | ✅ Selle asemel |
+|-------------------------------|----------------|
+| Pikad dokumendid ilma kontaktita | 1-1 + spordikommentaator |
+| Võita argument | Valideeri emotsioon |
+| Mass-koolitus ilma järeltegevust | Demomees igapäevaselt (Lisa N) |
+| „Ära ole tundlik" | Turvalisus + FM-DJ hääl |
+| Lahkuda ilma sõnata | GOTWA enne liikumist |
+| Üleolev toon, sinatamine võõrale | Teietamine + austav keha |
+
+> *Me ei otsi täiuslikku skripti. Me otsime **vitalset vähemust**, mida iga demomees suudab teha homme hommikul.*
+
+### Pareto igapäevas — ideaalne minimaalne päev
+
+| Hommik | Päev | Õhtu |
+|--------|------|------|
+| Üks **GOTWA** enne esimest kontakti | Üks **spordikommentaatori** lause päris vestluses | Checklist: kas ma suhtlesin **austavalt**? (Lisa N) |
+
+Kolm tegu. **80% tulemust.** Ülejäänu on täiendus, mitte alus.
+
+*(Traumateadlikkuse Pareto täpsem kaart: **Lisa P**.)*
+
+---
+
 ## 1. Häälerežiimid (tone of voice)
 
 Vaikimisi **mänguline ja naljakas**. Kui olukord nõuab — vaheta režiimi. Ära kunagi jää üleolevasse tooni.
@@ -156,6 +208,7 @@ Operatsioonis kasutame ingliskeelset mäluabi **GOTWA** (5 punkti). Iga kord, ku
 ## 6. Kiirjuhend (üks lehekülg)
 
 ```
+PARETO:  6 tööriisti = 80% tulemust (turvalisus · spordikommentaator · GOTWA · hääl · teietamine · valideerimine)
 HÄÄL:    Põhi = mänguline | ALT = FM-DJ | Kontingents = selge | Häda = vaikus, pööra ära
 KEEL:    Teietamine · austav keha · mitte üleolev
 LIIGUMINE: Enne iga uut kontakti → GOTWA (inglise keeles, 5 punkti)

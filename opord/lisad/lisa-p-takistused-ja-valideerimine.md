@@ -24,6 +24,30 @@ Operatsiooni koordinaator Renee Aluste sõnastab minimaalse standardi:
 
 See täiendab Lisa P valideerimist. Valideerimine on **samm**. Traumateadlikkus on **keskkond**.
 
+### Pre-verbaalne trauma: enne mõistust — keha
+
+**Peamine viide:** Bessel van der Kolk, *The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma* (Penguin Psychology, ISBN 978-0-141-97861-1).
+
+Traumatiseeritud inimene ei reageeri esmalt loogikaga. Ta reageerib **pre-verbaalselt** — keha ja närvisüsteem enne mõistust. Kui keegi on triggeris, hirmus või kaitsepositsioonis, on tema **mõistus veel üleval** — aga see ei ole koht, kuhu alustada vestlust.
+
+> *Sa ei saa alguses rääkida mõistusega. Sa saad alguses rääkida ainult kehaga.*
+
+| Vale järjekord | Õige järjekord |
+|----------------|----------------|
+| Loogika → argument → „sa eksid" | **Turvalisus** → keha rahunemine → alles siis mõistus |
+| „Kuula mind välja" | „Ma olen siin. Sa oled turvaliselt." |
+| Paranda sõnu kohe | **Kuula, mis suust tuleb** — see on relevantne; see peegeldab sisemist seisundit |
+| Kiirusta lahenduseni | **Rahusta mõistus maha** — mitte sundides, vaid turvalisuse ja keha kaudu |
+
+**Mida see praktikas tähendab:**
+
+1. **Turvalisus esimesena** — füüsiline ja emotsionaalne ruum, kus inimene ei pea kaitsepositsioonis olema.
+2. **Keha enne mõistust** — hingamine, vaikus, kohalolek, puudutus (kui sobiv), liikumine, TRE, EMDR — mitte loogiline debatt.
+3. **Suust tulev sõna on andmed** — „kõik mehed on samad", „WTF", „sa oled hull" — need ei ole alati tõed; need on **signaal**, mida keha ja närvisüsteem saadab. Ära võta kohe vastu loogilise väitena.
+4. **Mõistus tuleb hiljem** — kui närvisüsteem on rahunenud, saab kuulata, mõista ja valida. Enne seda on igasugune „õpetamine" sageli uus trigger.
+
+**Operatsiooni reegel:** 1-1 vestluses — **turvaline → keha → mõistus**. Lisa P valideerimine on osa sammust 2–3: sa näed inimest enne, kui hakkad parandama.
+
 ### Viis traumateadlikku põhimõtet
 
 | # | Põhimõte | Praktikas |
@@ -32,7 +56,7 @@ See täiendab Lisa P valideerimist. Valideerimine on **samm**. Traumateadlikkus 
 | 2 | **Usaldus ja läbipaistvus** | Ütle ausalt, mida teed; ära kasuta haavandit turunduseks |
 | 3 | **Valik ja kontroll** | Inimene valib tempo; „mitte nüüd" on õige vastus |
 | 4 | **Koostöö** | Mitte „ma parandan su" — vaid „ma olen sinuga selles ruumis" |
-| 5 | **Keha teadlikkus** | Trauma võib elada kehas (van der Kolk) — sõnad üksi ei piisa alati |
+| 5 | **Keha enne mõistust** | Pre-verbaalne reaktsioon (van der Kolk) — turvalisus ja keha enne loogikat; sõnad üksi ei piisa alati |
 
 ### Näide: kui keegi ütleb „kõik mehed/naised on samad"
 
@@ -57,8 +81,9 @@ See täiendab Lisa P valideerimist. Valideerimine on **samm**. Traumateadlikkus 
 | Kiirjuhend | Lisa H, Lisa F (*Murra ring*) |
 | EMDR | KV Tugiteenuste keskus; ohvriabi.ee (kuni 940 €) |
 | Valideerimine | Lisa P (see dokument) |
+| Raamat | van der Kolk — *The Body Keeps the Score* (ISBN 978-0-141-97861-1) |
 
-**1-1 vestluse reegel:** traumateadlik → turvaline → mõistev → alles siis sisu.
+**1-1 vestluse reegel:** turvaline → keha (rahunemine) → valideeri → alles siis sisu. *Mõistusega ei räägi alguses — kehaga.*
 
 ---
 
@@ -348,6 +373,7 @@ See täiendab Lisa P valideerimist. Valideerimine on **samm**. Traumateadlikkus 
 
 Lisa P on **inimesekeskse juhtimise** (Lisa I) praktiline rakendus suhtluses:
 
+- **Enne mõistust — keha** (van der Kolk: pre-verbaalne trauma, turvalisus esimesena)
 - **Enne vastust — kuula** (Steigeri samm 4)
 - **Enne õpetamist — valideeri** (Voss: emotsionaalne tase)
 - **Enne võitu — näe inimest** (Peegel: ole eeskuju, mitte kontrollija)

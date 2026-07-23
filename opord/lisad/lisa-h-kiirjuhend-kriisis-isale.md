@@ -8,6 +8,19 @@
 
 Sa ei ole nõrk. Sa oled inimene, kes on liiga kaua üksi kandnud.
 
+**Enne kui räägid või otsustad — keha:**
+
+Trauma ja kriis ei ela ainult peas. Van der Kolk (*The Body Keeps the Score*, ISBN 978-0-141-97861-1) kirjeldab, kuidas traumatiseeritud inimene reageerib **pre-verbaalselt** — keha enne mõistust. Sa ei pea praegu midagi „mõistma". Sa pead esmalt **turvaliselt** tundma.
+
+| Samm | Mida teha |
+|------|-----------|
+| **1. Turvalisus** | Liigu turvalisse kohta. Kui oht on kodus — ohvriabi **116 006** |
+| **2. Keha** | Hinga aeglaselt. Joo vett. Istu maha. Liigu, kui keha seda küsib |
+| **3. Kontakt** | Üks inimene, kes kuuleb — mitte paranda |
+| **4. Alles siis mõistus** | Otsused, plaanid, vestlused — kui närvisüsteem on rahunenud |
+
+> *Sa ei saa alguses rääkida mõistusega. Sa saad alguses rääkida ainult kehaga.*
+
 **Kohe:**
 1. Helista **655 8088** (Eluliin) või **116 123** (kriisiabi) — või **112**, kui oht on äge.
 2. Räägi ühe usaldusväärse inimesega. Üks kõne võib päästa elu.

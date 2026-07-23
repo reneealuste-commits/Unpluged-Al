@@ -70,7 +70,7 @@ Renee on ise kogenud depressiooni ja mõistnud, kuidas pikaajaline infosõja ja 
 
 - **Beverly Engel** — pöördepunkt emotsionaalse vägivalla mõistmisel
 - **Never Split the Difference** (Chris Voss) — suhtlus emotsionaalsel tasemel
-- **The Body Keeps the Score** (Bessel van der Kolk) — trauma kehas
+- **The Body Keeps the Score** (Bessel van der Kolk, ISBN 978-0-141-97861-1) — trauma kehas; **pre-verbaalne reaktsioon**: alguses räägid kehaga, mitte mõistusega; turvalisus enne loogikat
 - **EMDR** — Kaitseväe Tugiteenuste keskus
 
 *Ma elasin üle surma. Nüüd tahan näidata, kuidas ma seda tegin.*

@@ -61,6 +61,7 @@ See ei ole erisoov. See on **operatsiooniline nõue**:
 | Põhimõte | Mida see tähendab |
 |----------|-------------------|
 | **Turvalisus** | Füüsiline ja emotsionaalne — inimene ei pea kaitsepositsioonis vestlema |
+| **Keha enne mõistust** | Traumatiseeritud inimene reageerib **pre-verbaalselt** (van der Kolk) — alguses räägid kehaga, mitte loogikaga |
 | **Mõistmine** | Kuulamine enne õpetamist; valideerimine enne lahendust (Lisa P) |
 | **Traumateadlikkus** | Arvestada, et inimesel võib olla keha-mälu, triggerid, kaitse — ilma hukkamõistuta |
 | **Valik** | Inimene kontrollib tempot; üks samm korraga; õigus öelda „mitte nüüd" |
@@ -68,7 +69,9 @@ See ei ole erisoov. See on **operatsiooniline nõue**:
 
 **1-1 vestlused** (prioriteet) toimuvad ainult selles raamis. Mass-koolitus ilma kontaktita ei asenda seda.
 
-**Traumateadlik tugi võrgustikus:** Kert Grünberg (hingamistuba.ee), Jure Biechonski (teadlikmina.ee), Priit Lilleväli, Kaia Kapsta-Forrester, Lisa H, Lisa F, EMDR (KV Tugiteenuste keskus / ohvriabi.ee). Täielik valideerimise juhend: **Lisa P**.
+**Traumateadlik tugi võrgustikus:** Kert Grünberg (hingamistuba.ee), Jure Biechonski (teadlikmina.ee), Priit Lilleväli, Kaia Kapsta-Forrester, Lisa H, Lisa F, EMDR (KV Tugiteenuste keskus / ohvriabi.ee). Peamine raamat: van der Kolk, *The Body Keeps the Score* (ISBN 978-0-141-97861-1). Täielik valideerimise juhend: **Lisa P**.
+
+> *Traumatiseeritud inimene reageerib pre-verbaalselt. Alguses ei räägi mõistusega — räägib kehaga. Alusta turvalisusest.*
 
 ### EESMÄRK — mida me tahame
 
@@ -891,7 +894,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | **„Juhul kui…" (juhtimine)** | Loe Lisa I (Steiger 1997). Küsi: kas ma juhin inimest või kontrollin teda? **V-formatsioon:** üks ei veda igavesti — tugevaim alustab, otsib asendajat, vahetab rolli. |
 | **„Juhul kui…" (keegi ütleb WTF)** | Loe **Lisa P** — valideeri emotsioon enne vastust: „Ma kuulen, et see teeb sind kahtlevaks." |
 | **„Juhul kui…" (takistus / konflikt)** | Lisa P — 4 sammu: kuule → valideeri → ausus → valik. Ära ütle „ära ole tundlik". |
-| **„Juhul kui…" (trauma / trigger)** | Turvalisus enne lahendust. Suuna: Kert Grünberg, Priit Lilleväli, Kaia Kapsta-Forrester, Lisa H/F, EMDR. Inimene kontrollib tempot. |
+| **„Juhul kui…" (trauma / trigger)** | **Keha enne mõistust** (van der Kolk): turvalisus → rahunemine → alles siis vestlus. Suust tulev sõna on signaal, mitte alati tõde. Suuna: Kert Grünberg, Priit Lilleväli, Kaia Kapsta-Forrester, Lisa H/F, EMDR. Inimene kontrollib tempot. |
 | **„Juhul kui…" (identiteet)** | Loe Lisa M — Robbinsi 5 sammu, manifest peegli ees, kodaniku vanne. LIHTSUS: üks plaan, üks tegu. |
 | **„Juhul kui…" (riik / bürokraatia)** | Loe Lisa L (Musk): küsi → kustuta → lihtsusta → kiirenda → automatiseeri. Automatiseeri viimasena. |
 | **„Juhul kui…" (keha suletud)** | Kui tunned end emotsionaalselt külmutatuna — kaaluge tantralaagrit või festivali (tantrafest.ee), Villido kursust (lilleoru.ee) või puhkust Pühalis (puhali.ee). Kriisis: Lisa H esimesena. |
@@ -1179,7 +1182,7 @@ Ja see ei ole kogu lugu. **Ma olin ise kiusaja.** Ma olin kooli kiusaja. Ma olin
 |--------------|----------------------|
 | **Beverly Engel** | Pöördepunkt — hakkasin mõistma emotsionaalset vägivalda ja oma rolli selles |
 | **Never Split the Difference** (Chris Voss) | Õpetas suhtlema inimesega **emotsionaalsel tasemel** — mitte ainult loogikaga |
-| **The Body Keeps the Score** (Bessel van der Kolk) | Avas silmad täielikult — trauma elab kehas, mitte ainult peas |
+| **The Body Keeps the Score** (Bessel van der Kolk, ISBN 978-0-141-97861-1) | Trauma elab kehas, mitte ainult peas. Traumatiseeritud inimene reageerib **pre-verbaalselt** — alguses ei räägi mõistusega, vaid kehaga. Alusta **turvalisusest**; suust tulev sõna on signaal; mõistus tuleb alles siis, kui närvisüsteem on rahunenud |
 | **EMDR** sessioonid | Kaitseväe Tugiteenuste keskuses — töötasin läbi selle, mida sõnad üksi ei jõudnud |
 
 Ma tulin välja kaotusest. **Ma elasin üle surma.**
@@ -1230,13 +1233,16 @@ Täielik SOP: **Lisa I** (ISBN 9985901274).
 
 **V (Renee Aluste):** Jah — see on minu ja operatsiooni **minimaalne standard**, mitte erisoov.
 
-Ma tean, miltä tundub, kui keegi vastab loogikaga, aga sa vajad, et sind **nähtaks**. Kui keegi ütleb „kõik mehed on samad" või „liiga tundlik" — mõlemal pool on valu, aga ilma valideerimiseta jääb haav lahti. *The Body Keeps the Score* õpetas: trauma elab kehas. EMDR aitas mulle. Aga enne kõike vajasin **turvalist ruumi** ja **mõistmist** — mitte õpetust.
+Ma tean, miltä tundub, kui keegi vastab loogikaga, aga sa vajad, et sind **nähtaks**. Kui keegi ütleb „kõik mehed on samad" või „liiga tundlik" — mõlemal pool on valu, aga ilma valideerimiseta jääb haav lahti.
+
+*The Body Keeps the Score* (Bessel van der Kolk) avas silmad täielikult. Trauma elab kehas. Traumatiseeritud inimene reageerib **pre-verbaalselt** — enne sõnu, enne loogikat. **Sa ei saa alguses rääkida mõistusega. Sa saad alguses rääkida ainult kehaga.** Alusta turvalisusest. Mis suust tuleb, on relevantne — see peegeldab sisemist seisundit. Pead esmalt **mõistuse maha rahustama** — mitte argumentidega, vaid turvalisuse ja keha kaudu. EMDR aitas mulle. Aga enne kõike vajasin **turvalist ruumi** ja **mõistmist** — mitte õpetust.
 
 **Operatsioonis tähendab see:**
 
 | Nõue | Praktika |
 |------|----------|
 | **Turvalisus** | Füüsiline ja emotsionaalne — keegi ei pea kaitsepositsioonis rääkima |
+| **Keha enne mõistust** | Pre-verbaalne reaktsioon — rahunemine enne debatti; Lisa P |
 | **Mõistmine** | Lisa P: kuula → valideeri → alles siis vasta |
 | **Traumateadlikkus** | Kõik 1-1 vestlused, mentorlus ja tugi — arvestades triggerite, kaitse ja keha-mälu võimalust |
 | **Valik** | Inimene valib tempo; õigus öelda „mitte nüüd" |

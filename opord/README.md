@@ -1,6 +1,8 @@
 # Operatsioon „Peegel" — OPORD
 
-Eesti keeles koostatud viiepunktiline **traumateadlik teekond** (OPORD-formaat) vastutegevuseks psühholoogilisele mõjutamisele.
+Eesti keeles koostatud viiepunktiline **paranemis-teekond** (OPORD-formaat) vastutegevuseks psühholoogilisele mõjutamisele.
+
+> *Paranemine algab sellel hetkel, kui sa mõistad, et sa pole katki olnudki.*
 
 ## Failid
 

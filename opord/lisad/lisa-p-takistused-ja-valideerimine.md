@@ -16,19 +16,23 @@ Inimene ei ütle „WTF" ainult loogika pärast. Ta ütleb seda emotsiooni pära
 
 ---
 
-## Turvalisus, mõistmine ja traumateadlikkus
+## Turvalisus, mõistmine ja paranemis-teadlikkus
 
 Operatsiooni koordinaator Renee Aluste sõnastab minimaalse standardi:
 
-> *„Mul on vajadus **turvalisuse** ja **mõistmise** järele — ja kõik asjaosalised oleksid **traumateadlikud**."*
+> *„Mul on vajadus **turvalisuse** ja **mõistmise** järele — ja kõik asjaosalised oleksid **paranemis-teadlikud**."*
 
-See täiendab Lisa P valideerimist. Valideerimine on **samm**. Traumateadlikkus on **keskkond**.
+> *„**Paranemine algab sellel hetkel, kui sa mõistad, et sa pole katki olnudki.**"*
 
-### Pre-verbaalne trauma: enne mõistust — keha
+Me ei paranda katkist inimest. Me loome ruumi, kus inimene avastab, et ta **oli terviklik juba algusest** — liiga kaua kandis koormust, mida keegi teine ei näinud.
+
+See täiendab Lisa P valideerimist. Valideerimine on **samm**. Paranemis-teadlikkus on **keskkond**.
+
+### Pre-verbaalne reaktsioon: enne mõistust — keha
 
 **Peamine viide:** Bessel van der Kolk, *The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma* (Penguin Psychology, ISBN 978-0-141-97861-1).
 
-Traumatiseeritud inimene ei reageeri esmalt loogikaga. Ta reageerib **pre-verbaalselt** — keha ja närvisüsteem enne mõistust. Kui keegi on triggeris, hirmus või kaitsepositsioonis, on tema **mõistus veel üleval** — aga see ei ole koht, kuhu alustada vestlust.
+Inimene kaitsepositsioonis ei reageeri esmalt loogikaga. Ta reageerib **pre-verbaalselt** — keha ja närvisüsteem enne mõistust. Kui keegi on triggeris, hirmus või kaitsepositsioonis, on tema **mõistus veel üleval** — aga see ei ole koht, kuhu alustada vestlust.
 
 > *Sa ei saa alguses rääkida mõistusega. Sa saad alguses rääkida ainult kehaga.*
 
@@ -65,7 +69,7 @@ Traumatiseeritud inimene ei reageeri esmalt loogikaga. Ta reageerib **pre-verbaa
 
 ### Spordikommentaator — uus suhtlusvahend
 
-**Spordikommentaator** on operatsiooni praktiline tööriist traumaateadlikuks suhtluseks. Enamikule inimestele on see **täiesti uus viis** rääkida.
+**Spordikommentaator** on operatsiooni praktiline tööriist paranemis-teadlikuks suhtluseks. Enamikule inimestele on see **täiesti uus viis** rääkida.
 
 Nagu spordikommentaator ei mängi ise palli, vaid **kirjeldab reaalajas**, mis toimub — nii sa **vestluse ajal** kirjeldad teisele inimesele maailma, **nagu sina seda näed ja tunned**. Mitte seda, mida teine *peaks* tegema. Mitte argumenti. Vaid **hetke teadlik kirjeldus**.
 
@@ -117,7 +121,7 @@ Nagu spordikommentaator ei mängi ise palli, vaid **kirjeldab reaalajas**, mis t
 
 ### Pareto 80/20 — miks need tööriistad annavad 80% tulemust
 
-**Pareto printsiip:** väike osa tegevustest annab suurema osa tulemustest. Traumateadlikus suhtluses on see **vitalne 20%**:
+**Pareto printsiip:** väike osa tegevustest annab suurema osa tulemustest. Paranemis-teadlikus suhtluses on see **vitalne 20%**:
 
 | Tööriist | Miks 80% tulemusest |
 |----------|---------------------|
@@ -132,7 +136,7 @@ Lisa Q lisab: **GOTWA**, **mänguline hääl**, **teietamine** — koos kuus tö
 
 *(Täielik Pareto kaart side ja demomeeste jaoks: **Lisa Q**.)*
 
-### Viis traumateadlikku põhimõtet
+### Viis paranemis-teadlikku põhimõtet
 
 | # | Põhimõte | Praktikas |
 |---|----------|-----------|
@@ -146,7 +150,7 @@ Lisa Q lisab: **GOTWA**, **mänguline hääl**, **teietamine** — koos kuus tö
 
 **Vana muster:** võta poolt või õpeta — *„tegelikult mehed on nii…"*
 
-**Traumateadlik muster:**
+**Paranemis-teadlik muster:**
 
 1. *„Ma kuulen väsimust ja pettumust. Kui sa tunned, et kõik on samad, on see kaitse — mitte tõe väide."*
 2. *„Sinu vajadus turvalisuse ja mõistmise järele on päris."*
@@ -155,7 +159,7 @@ Lisa Q lisab: **GOTWA**, **mänguline hääl**, **teietamine** — koos kuus tö
 
 (Vt analüüs: Anton Daniels / TikTok break-up short — reaktsioon ilma valideerimiseta süvendab lõhet.)
 
-### Traumateadlik tugi operatsioonis
+### Paranemis-teadlik tugi operatsioonis
 
 | Tüüp | Kes / mis |
 |------|-----------|

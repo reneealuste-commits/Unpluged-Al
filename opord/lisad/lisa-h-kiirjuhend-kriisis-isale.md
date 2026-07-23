@@ -6,11 +6,13 @@
 
 ## Kui sa oled praegu põhjas
 
-Sa ei ole nõrk. Sa oled inimene, kes on liiga kaua üksi kandnud.
+Sa ei ole nõrk. Sa ei ole katki. Sa oled inimene, kes on liiga kaua üksi kandnud.
+
+> *„**Paranemine algab sellel hetkel, kui sa mõistad, et sa pole katki olnudki.**" — Renee Aluste*
 
 **Enne kui räägid või otsustad — keha:**
 
-Trauma ja kriis ei ela ainult peas. Van der Kolk (*The Body Keeps the Score*, ISBN 978-0-141-97861-1) kirjeldab, kuidas traumatiseeritud inimene reageerib **pre-verbaalselt** — keha enne mõistust. Sa ei pea praegu midagi „mõistma". Sa pead esmalt **turvaliselt** tundma.
+Kogemus ja kriis ei ela ainult peas. Van der Kolk (*The Body Keeps the Score*, ISBN 978-0-141-97861-1) kirjeldab, kuidas inimene kaitsepositsioonis reageerib **pre-verbaalselt** — keha enne mõistust. Sa ei pea praegu midagi „mõistma". Sa pead esmalt **turvaliselt** tundma.
 
 | Samm | Mida teha |
 |------|-----------|

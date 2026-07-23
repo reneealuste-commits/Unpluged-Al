@@ -1,5 +1,5 @@
 # OPERATSIOON „PEEGEL“
-## Traumateadlik teekond — Kõrgetasemeline vastutegevus psühholoogilisele mõjutamisele
+## Paranemis-teekond — Kõrgetasemeline vastutegevus psühholoogilisele mõjutamisele
 
 **Klassifikatsioon:** Avalik — Eesti rahvale  
 **Kuupäev:** 22. juuli 2026  
@@ -7,7 +7,9 @@
 **Operatsiooni tase:** Strateegiline–taktikaline (mitmetasandiline)  
 **Viide:** Maakaitse käsiraamatu viiepunktiline OPORD-formaat (opiq.ee)
 
-> *Struktuur järgib OPORD-i (viis punkti: olukord, ülesanne, täideviimine, teenindus, juhtimine). Inimestele suunatud nimetus on **traumateadlik teekond** — mitte sõjaline käsk. Traumatiseeritud inimene reageerib pre-verbaalselt; sõna „käsk" võib triggerdada kaitsepositsiooni (Lisa P, van der Kolk).*
+> *Struktuur järgib OPORD-i (viis punkti: olukord, ülesanne, täideviimine, teenindus, juhtimine). Inimestele suunatud nimetus on **paranemis-teekond** — mitte sõjaline käsk. Sõna „käsk" võib triggerdada kaitsepositsiooni (Lisa P, van der Kolk).*
+
+> *„**Paranemine algab sellel hetkel, kui sa mõistad, et sa pole katki olnudki.**" — Renee Aluste*
 
 ---
 
@@ -50,32 +52,36 @@ Renee Aluste ei alustanud teooriast. Ta alustas oma elust:
 - Sest **Eesti väärib läbipaistvust ja eeskuju** — mitte manipulatsiooni ja saladust.
 - Sest **riigikaitse algab kodus** — tugev isa/emme, mentor, aus vestlus, kriitiline mõtlemine.
 - Sest **peegelneuronid** töötavad mõlemas suunas: vastane kasutab neid hirmu levitamiseks; meie kasutame tervist, distsipliini ja vastutust.
-- Sest **turvalisus ja mõistmine** ei ole nõrkus — need on alus, millele kõik muu ehitub. Operatsioon nõuab **traumateadlikku** lähenemist kõigilt asjaosalistelt (vt allpool).
+- Sest **turvalisus ja mõistmine** ei ole nõrkus — need on alus, millele kõik muu ehitub. Operatsioon nõuab **paranemis-teadlikku** lähenemist kõigilt asjaosalistelt (vt allpool).
 
-### Turvalisus, mõistmine ja traumateadlikkus
+### Turvalisus, mõistmine ja paranemis-teadlikkus
 
 Renee Aluste sõnastab operatsiooni minimaalse standardi:
 
-> *„Mul on vajadus **turvalisuse** ja **mõistmise** järele — ja kõik asjaosalised oleksid **traumateadlikud**."*
+> *„Mul on vajadus **turvalisuse** ja **mõistmise** järele — ja kõik asjaosalised oleksid **paranemis-teadlikud**."*
+
+> *„**Paranemine algab sellel hetkel, kui sa mõistad, et sa pole katki olnudki.**"*
+
+Me ei **paranda katkist** inimest. Me loome ruumi, kus inimene avastab, et ta **oli terviklik juba algusest** — liiga kaua kandis koormust, mida keegi teine ei näinud.
 
 See ei ole erisoov. See on **operatsiooniline nõue**:
 
 | Põhimõte | Mida see tähendab |
 |----------|-------------------|
 | **Turvalisus** | Füüsiline ja emotsionaalne — inimene ei pea kaitsepositsioonis vestlema |
-| **Keha enne mõistust** | Traumatiseeritud inimene reageerib **pre-verbaalselt** (van der Kolk) — alguses räägid kehaga, mitte loogikaga |
+| **Keha enne mõistust** | Inimene reageerib **pre-verbaalselt** (van der Kolk) — alguses räägid kehaga, mitte loogikaga |
 | **Mõistmine** | Kuulamine enne õpetamist; valideerimine enne lahendust (Lisa P) |
-| **Traumateadlikkus** | Arvestada, et inimesel võib olla keha-mälu, triggerid, kaitse — ilma hukkamõistuta |
+| **Paranemis-teadlikkus** | Arvestada keha-mälu, triggerite ja kaitse võimalust — **ilma sildistamata inimest katkiseks** |
 | **Valik** | Inimene kontrollib tempot; üks samm korraga; õigus öelda „mitte nüüd" |
 | **Ausus** | Mitte varjata kavatsust; mitte kasutada haavandit turunduseks |
 
 **1-1 vestlused** (prioriteet) toimuvad ainult selles raamis. Mass-koolitus ilma kontaktita ei asenda seda.
 
-**Traumateadlik tugi võrgustikus:** Kert Grünberg (hingamistuba.ee), Jure Biechonski (teadlikmina.ee), Priit Lilleväli, Kaia Kapsta-Forrester, Lisa H, Lisa F, EMDR (KV Tugiteenuste keskus / ohvriabi.ee). Peamine raamat: van der Kolk, *The Body Keeps the Score* (ISBN 978-0-141-97861-1). Täielik valideerimise juhend: **Lisa P**.
+**Paranemis-teadlik tugi võrgustikus:** Kert Grünberg (hingamistuba.ee), Jure Biechonski (teadlikmina.ee), Priit Lilleväli, Kaia Kapsta-Forrester, Lisa H, Lisa F, EMDR (KV Tugiteenuste keskus / ohvriabi.ee). Peamine raamat: van der Kolk, *The Body Keeps the Score* (ISBN 978-0-141-97861-1). Täielik valideerimise juhend: **Lisa P**.
 
-> *Traumatiseeritud inimene reageerib pre-verbaalselt. Alguses ei räägi mõistusega — räägib kehaga. Alusta turvalisusest.*
+> *Inimene reageerib pre-verbaalselt. Alguses ei räägi mõistusega — räägib kehaga. Alusta turvalisusest. Sa pole katki — sa vajad ruumi paranemiseks.*
 
-**Uuendatud suhtlusvahend:** **Spordikommentaator** — vestluse ajal kirjelda maailma, nagu *sina* seda näed ja tunned. Enamikule inimestele on see uus viis suhelda. See loob teadlikkust; trauma saab turvalises suhtes **vabaneda** (vt Lisa P: mis töötab / mis mitte).
+**Uuendatud suhtlusvahend:** **Spordikommentaator** — vestluse ajal kirjelda maailma, nagu *sina* seda näed ja tunned. Enamikule inimestele on see uus viis suhelda. See loob teadlikkust; koormus saab turvalises suhtes **vabaneda** (vt Lisa P: mis töötab / mis mitte).
 
 ### EESMÄRK — mida me tahame
 
@@ -675,7 +681,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 5. **Jaga:** Räägi sellest operatsioonist — mitte hirmutades, vaid julgustades.
 
 ### Renee Aluste rühm (koordineerimisüksus)
-1. **1-1 vestlused** — prioriteet: **traumateadlikult**, turvalisuses ja mõistmises (läbipõlemise vastu; vt V-formatsioon Lisa I). Tööriist: **spordikommentaator** (Lisa P).
+1. **1-1 vestlused** — prioriteet: **paranemis-teadlikult**, turvalisuses ja mõistmises (läbipõlemise vastu; vt V-formatsioon Lisa I). Tööriist: **spordikommentaator** (Lisa P).
 2. **Turvalisuse standard** — kõik kontaktid: turvalisus → spordikommentaator → valideeri → ausus → valik (Lisa P). Side hääl ja GOTWA: **Lisa Q**.
 3. Sõnumite koordineerimine ja levitamine.
 4. Combat Ready koolituste korraldamine võrgustikule.
@@ -922,7 +928,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | **III (kütus)** | Uni 7–8h; liikumine 30 min/päev; **toit** — eelistada täisväärtuslikku, vähe töödeldud toitu (kohalik kala, liha, rasv koos); enne suuri dieedimuutusi perearst. Vt Lisa H (Renee saamise lugu, Stefanssoni viide) |
 | **V (laskemoon)** | Sõnad — kasuta neid mõistlikult. Iga sõnum on lask |
 | **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber; [narko.ee](https://www.narko.ee) chatbot/tugiliin (Renee alustas siit); [ohvriabi.ee](https://ohvriabi.ee) — koduvägivalla korral kuni 940 € psühholoogilise abi toetus 2 aasta jooksul (sh **EMDR** sessioonid); Märt Avandi lugu YouTube'is: [watch?v=nNuHGdQdrZY](https://www.youtube.com/watch?v=nNuHGdQdrZY) |
-| **Muu** | „Ava oma Silmad" taskuhääling; Combat Ready koolitused; Combat Ready Her Way; Laste Supermängud; see traumateadlik teekond |
+| **Muu** | „Ava oma Silmad" taskuhääling; Combat Ready koolitused; Combat Ready Her Way; Laste Supermängud; see paranemis-teekond |
 
 ## c. Meditsiiniline evakueerimine
 - Depressiooni või kriisi korral: pöörduda kohe spetsialisti poole. **Lisa H** — kiirjuhend isale kriisis (loe Lisa F esimesena).
@@ -997,7 +1003,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 
 **V-formatsiooni põhimõte (Lisa I):** Nagu rändlinnud (toonekured, haned, pelikanid) — üks eesmine ei veda lõputult. Eesmine kandab suurimat koormust; seetõttu **rotatsioon**. Praegu **tugevaim määratud** juht võtab ette; **samaaegselt otsib**, kes ta võimalusel välja vahetab. Juhtimine on vahetatav roll, mitte püsiv troon.
 
-**Läbipõlemise vastu:** Renee Aluste kogemus Sõdurioskuste kursustega (~3 aastat) näitas, et mass-tegevus ilma isikliku kontaktita viib kurnatuseni. Operatsioon eelistab **1-1 vestlusi** — **traumateadlikult**, turvalisuses ja mõistmises. Esimene kontakt Rene Toomsega on alustatud.
+**Läbipõlemise vastu:** Renee Aluste kogemus Sõdurioskuste kursustega (~3 aastat) näitas, et mass-tegevus ilma isikliku kontaktita viib kurnatuseni. Operatsioon eelistab **1-1 vestlusi** — **paranemis-teadlikult**, turvalisuses ja mõistmises. Esimene kontakt Rene Toomsega on alustatud.
 
 ## b. Side ja signaalid
 
@@ -1267,15 +1273,17 @@ Täielik SOP: **Lisa I** (ISBN 9985901274).
 *Minu küsimus sulle: Kas sa juhid inimest — või protsessi?*
 ---
 
-**K: Mul on vajadus turvalisuse ja mõistmise järele. Kas kõik asjaosalised on traumateadlikud?**
+**K: Mul on vajadus turvalisuse ja mõistmise järele. Kas kõik asjaosalised on paranemis-teadlikud?**
 
 **V (Renee Aluste):** Jah — see on minu ja operatsiooni **minimaalne standard**, mitte erisoov.
 
-Ma tean, miltä tundub, kui keegi vastab loogikaga, aga sa vajad, et sind **nähtaks**. Kui keegi ütleb „kõik mehed on samad" või „liiga tundlik" — mõlemal pool on valu, aga ilma valideerimiseta jääb haav lahti.
+> *„**Paranemine algab sellel hetkel, kui sa mõistad, et sa pole katki olnudki.**"*
 
-*The Body Keeps the Score* (Bessel van der Kolk) avas silmad täielikult. Trauma elab kehas. Traumatiseeritud inimene reageerib **pre-verbaalselt** — enne sõnu, enne loogikat. **Sa ei saa alguses rääkida mõistusega. Sa saad alguses rääkida ainult kehaga.** Alusta turvalisusest. Mis suust tuleb, on relevantne — see peegeldab sisemist seisundit. Pead esmalt **mõistuse maha rahustama** — mitte argumentidega, vaid turvalisuse ja keha kaudu.
+Ma tean, miltä tundub, kui keegi vastab loogikaga, aga sa vajad, et sind **nähtaks**. Me ei ütle, et sa oled katki. Me ütleme: sa vajad **turvalist ruumi** ja **mõistmist** — mitte parandamist. Kui keegi ütleb „kõik mehed on samad" või „liiga tundlik" — mõlemal pool on valu, aga ilma valideerimiseta jääb haav lahti.
 
-**Mis see meile õpetas:** kõik, mida me seni teadsime suhtluse kohta, tuleb uuendada. Loogika triggeris ei tervenda. Ravimid ilma töötlemiseta ei piisa. See, mis töötab, on **turvalisus**, **keha**, **teadlikkus** ja uus suhtlusvahend — **spordikommentaator**: vestluse ajal kirjeldad maailma, nagu *sina* seda näed ja tunned. Enamikule inimestele on see täiesti uus viis rääkida. See loob teadlikkust — ja trauma saab turvalises suhtes **vabaneda**, mitte „parandatud" loogikaga. EMDR aitas mulle. Aga enne kõike vajasin **turvalist ruumi**, **mõistmist** — ja kedagi, kes ei parandanud, vaid **nägi**.
+*The Body Keeps the Score* (Bessel van der Kolk) avas silmad täielikult. Kogemus elab kehas. Inimene reageerib **pre-verbaalselt** — enne sõnu, enne loogikat. **Sa ei saa alguses rääkida mõistusega. Sa saad alguses rääkida ainult kehaga.** Alusta turvalisusest. Mis suust tuleb, on relevantne — see peegeldab sisemist seisundit. Pead esmalt **mõistuse maha rahustama** — mitte argumentidega, vaid turvalisuse ja keha kaudu.
+
+**Mis see meile õpetas:** kõik, mida me seni teadsime suhtluse kohta, tuleb uuendada. Loogika triggeris ei tervenda. Ravimid ilma töötlemiseta ei piisa. See, mis töötab, on **turvalisus**, **keha**, **teadlikkus** ja uus suhtlusvahend — **spordikommentaator**: vestluse ajal kirjeldad maailma, nagu *sina* seda näed ja tunned. Enamikule inimestele on see täiesti uus viis rääkida. See loob teadlikkust — ja koormus saab turvalises suhtes **vabaneda**, mitte „parandatud" loogikaga. EMDR aitas mulle. Aga enne kõike vajasin **turvalist ruumi**, **mõistmist** — ja kedagi, kes ei parandanud, vaid **nägi**.
 
 **Operatsioonis tähendab see:**
 
@@ -1285,10 +1293,10 @@ Ma tean, miltä tundub, kui keegi vastab loogikaga, aga sa vajad, et sind **näh
 | **Spordikommentaator** | Kirjelda hetke ausalt — „ma näen", „ma tunnen"; Lisa P |
 | **Keha enne mõistust** | Pre-verbaalne reaktsioon — rahunemine enne debatti |
 | **Mõistmine** | Lisa P: valideeri → alles siis vasta |
-| **Traumateadlikkus** | Kõik 1-1 vestlused — triggerid, kaitse, keha-mälu |
+| **Paranemis-teadlikkus** | Kõik 1-1 vestlused — triggerid, kaitse, keha-mälu; inimest ei sildistata katkiseks |
 | **Valik** | Inimene valib tempo; õigus öelda „mitte nüüd" |
 
-Traumateadlik tugi võrgustikus: **Kert Grünberg**, **Jure Biechonski**, **Priit Lilleväli**, **Kaia Kapsta-Forrester**, Lisa H, Lisa F. Kriisis: Eluliin **655 8088**, ohvriabi **116 006** (sh EMDR toetus).
+Paranemis-teadlik tugi võrgustikus: **Kert Grünberg**, **Jure Biechonski**, **Priit Lilleväli**, **Kaia Kapsta-Forrester**, Lisa H, Lisa F. Kriisis: Eluliin **655 8088**, ohvriabi **116 006** (sh EMDR toetus).
 
 *Minu küsimus sulle: Kas sa täna tunned end turvaliselt ja mõistetuna — või pead end veel kaitsema?*
 ---
@@ -1479,7 +1487,7 @@ Traumateadlik tugi võrgustikus: **Kert Grünberg**, **Jure Biechonski**, **Prii
 
 **K (Vaimse tervise vabatahtlik, Pealinna):** Kas te ei trivialiseeri depressiooni, öeldes „võta lihtsalt vastutus"? Inimene vajab mõnikord arsti, mitte ühte PDF-i.
 
-**V:** Absoluutselt. Me ei asenda meditsiini. Renee Aluste räägib avameelselt, et ta võttis ravimeid ja pöördus abi poole — see päästis ta elu. Traumateadlik teekond on raamistik, mitte retsept. Kui sa oled põhjas — helista 655 8088 (Eluliin), 116 123 (kriisiabi) või pöördu arsti poole. Vastutus tähendab ka seda, et otsid abi, kui seda vajad. See on tugevus.
+**V:** Absoluutselt. Me ei asenda meditsiini. Renee Aluste räägib avameelselt, et ta võttis ravimeid ja pöördus abi poole — see päästis ta elu. Paranemis-teekond on raamistik, mitte retsept. Kui sa oled põhjas — helista 655 8088 (Eluliin), 116 123 (kriisiabi) või pöördu arsti poole. Vastutus tähendab ka seda, et otsid abi, kui seda vajad. See on tugevus.
 
 *Minu küsimus sulle: Kas sa oled täna aus oma vaimse seisundiga — iseendale?*
 ---
@@ -1749,7 +1757,11 @@ Steiger ei paku väljamõeldud mudeleid. Ta kirjeldab igapäevast juhtimist, kus
 
 **K: Minu elu on katki — teie dokumendid ei aita.**
 
-**V:** Ma kuulen lootusetust. Kui sa oled kurnatud, üksik, pettunud või põhjas, võib iga „lahendus" tunduda nagu süüdistus. **Sa ei pea praegu midagi parandama.** Kui oled kriisis — Eluliin **655 8088**, kriisiabi **116 123**. Lisa H on kiirjuhend, mitte kohustus. Renee on olnud seal. Ta ei ütle „loe raamatut" — ta ütleb: **elu on võimalik**. Aga täna võib piisata ühest hingetõmbest.
+**V (Renee Aluste):** Ma kuulen lootusetust. Kui sa oled kurnatud, üksik, pettunud või põhjas, võib iga „lahendus" tunduda nagu süüdistus. **Sa ei pea praegu midagi parandama.**
+
+> *„**Paranemine algab sellel hetkel, kui sa mõistad, et sa pole katki olnudki.**"*
+
+Sa võid tunda, et su elu on lagunenud — aga **sina ise pole katki**. Sa vajad ruumi, turvalisust ja kedagi, kes ei ütle „paranda end". Kui oled kriisis — Eluliin **655 8088**, kriisiabi **116 123**. Lisa H on kiirjuhend, mitte kohustus. Renee on olnud seal. Ta ei ütle „loe raamatut" — ta ütleb: **elu on võimalik**. Aga täna võib piisata ühest hingetõmbest.
 
 *Minu küsimus sulle: Kas sa täna vajad abi, ruumi või mõlemat?*
 ---
@@ -1795,7 +1807,7 @@ Steiger ei paku väljamõeldud mudeleid. Ta kirjeldab igapäevast juhtimist, kus
 **Keel:** eesti (tõlge Strong Father Series alusel)  
 **Seotud:** Operatsioon „Peegel" — rahva taseme õppematerjal
 
-Need seitse köidet täiendavad käesolevat traumateadlikku teekonda. Iga köide on iseseisvalt loetav; koos moodustavad progressiivse tee manipulatsioonist teadlikkuse, vastutuseni, pere tugevdamiseni ja kogukonna juhtimiseni.
+Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on iseseisvalt loetav; koos moodustavad progressiivse tee manipulatsioonist teadlikkuse, vastutuseni, pere tugevdamiseni ja kogukonna juhtimiseni.
 
 | Lisa | Köide | Fail | Teema |
 |------|-------|------|-------|
@@ -1814,7 +1826,7 @@ Need seitse köidet täiendavad käesolevat traumateadlikku teekonda. Iga köide
 | **M** | — | `lisad/lisa-m-kodaniku-identiteet-ja-vanne.md` | Kodaniku identiteet — Robbins 5 sammu, manifest peegli ees, kodaniku vanne, etapp LIHTSUS |
 | **N** | — | `lisad/lisa-n-aluste-kool.md` | **Üksus Aluste_kool** — SOK demomehed, viisakuseeskiri, päevane checklist |
 | **O** | — | `lisad/lisa-o-vaktsineerimine.md` | **Vaktsineerimine** — uuringud, ühiskond, konspiratsioonid, Renee isiklik valik, TAI/Terviseamet |
-| **P** | — | `lisad/lisa-p-takistused-ja-valideerimine.md` | **Takistused ja valideerimine** — spordikommentaator, van der Kolk (mis töötab / mitte), traumateadlikkus |
+| **P** | — | `lisad/lisa-p-takistused-ja-valideerimine.md` | **Takistused ja valideerimine** — spordikommentaator, van der Kolk, paranemis-teadlikkus |
 | **Q** | — | `lisad/lisa-q-side-eeskirjad-ja-suhtlus.md` | **Side eeskirjad** — hääl, GOTWA, austav keel, Pareto 80/20, demomehed |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 

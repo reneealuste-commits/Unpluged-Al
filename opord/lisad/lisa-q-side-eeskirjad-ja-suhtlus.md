@@ -60,7 +60,7 @@ Kuus tööriisti. Mitte kuuskümmend. **See on 20%, mis annab 80%.**
 
 Kolm tegu. **80% tulemust.** Ülejäänu on täiendus, mitte alus.
 
-*(Traumateadlikkuse Pareto täpsem kaart: **Lisa P**.)*
+*(Paranemis-teadlikkuse Pareto täpsem kaart: **Lisa P**.)*
 
 ---
 
@@ -199,7 +199,7 @@ Operatsioonis kasutame ingliskeelset mäluabi **GOTWA** (5 punkti). Iga kord, ku
 | Lisa | Seos |
 |------|------|
 | **Lisa N** | Demomeeste üksus, checklist, viisakus |
-| **Lisa P** | Spordikommentaator, traumateadlikkus, valideerimine |
+| **Lisa P** | Spordikommentaator, paranemis-teadlikkus, valideerimine |
 | **Lisa I** | Inimesekeskne juhtimine — kuulamine, mitte dominants |
 | **Lisa H** | Hädaolukord — numbrid, vaikus, abi |
 

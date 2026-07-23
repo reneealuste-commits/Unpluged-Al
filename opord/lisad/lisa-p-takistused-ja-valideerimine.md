@@ -16,6 +16,52 @@ Inimene ei ütle „WTF" ainult loogika pärast. Ta ütleb seda emotsiooni pära
 
 ---
 
+## Turvalisus, mõistmine ja traumateadlikkus
+
+Operatsiooni koordinaator Renee Aluste sõnastab minimaalse standardi:
+
+> *„Mul on vajadus **turvalisuse** ja **mõistmise** järele — ja kõik asjaosalised oleksid **traumateadlikud**."*
+
+See täiendab Lisa P valideerimist. Valideerimine on **samm**. Traumateadlikkus on **keskkond**.
+
+### Viis traumateadlikku põhimõtet
+
+| # | Põhimõte | Praktikas |
+|---|----------|-----------|
+| 1 | **Turvalisus** | Füüsiline ja emotsionaalne — enne sügavust, enne lahendust |
+| 2 | **Usaldus ja läbipaistvus** | Ütle ausalt, mida teed; ära kasuta haavandit turunduseks |
+| 3 | **Valik ja kontroll** | Inimene valib tempo; „mitte nüüd" on õige vastus |
+| 4 | **Koostöö** | Mitte „ma parandan su" — vaid „ma olen sinuga selles ruumis" |
+| 5 | **Keha teadlikkus** | Trauma võib elada kehas (van der Kolk) — sõnad üksi ei piisa alati |
+
+### Näide: kui keegi ütleb „kõik mehed/naised on samad"
+
+**Vana muster:** võta poolt või õpeta — *„tegelikult mehed on nii…"*
+
+**Traumateadlik muster:**
+
+1. *„Ma kuulen väsimust ja pettumust. Kui sa tunned, et kõik on samad, on see kaitse — mitte tõe väide."*
+2. *„Sinu vajadus turvalisuse ja mõistmise järele on päris."*
+3. *„Teise poole vajadus ruumi võib olla samuti päris — aga see ei õigusta sind tundmata jätmist."*
+4. *„Kas sa tahad täna rääkida — või vajad lihtsalt, et keegi kuuleks ilma parandamiseta?"*
+
+(Vt analüüs: Anton Daniels / TikTok break-up short — reaktsioon ilma valideerimiseta süvendab lõhet.)
+
+### Traumateadlik tugi operatsioonis
+
+| Tüüp | Kes / mis |
+|------|-----------|
+| Keha ja trauma | Kert Grünberg — hingamistuba.ee (TRE, regressioon) |
+| Transpersonaalne | Jure Biechonski — teadlikmina.ee |
+| Juhendamine / kriis | Priit Lilleväli, Kaia Kapsta-Forrester |
+| Kiirjuhend | Lisa H, Lisa F (*Murra ring*) |
+| EMDR | KV Tugiteenuste keskus; ohvriabi.ee (kuni 940 €) |
+| Valideerimine | Lisa P (see dokument) |
+
+**1-1 vestluse reegel:** traumateadlik → turvaline → mõistev → alles siis sisu.
+
+---
+
 ## Kuidas vastata (4 sammu)
 
 | Samm | Mida teed | Näide |

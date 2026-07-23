@@ -15,7 +15,9 @@
 | **Ajend** | Renee elas läbi depressiooni ja infosõja mõju; põles läbi ~3 aasta Sõdurioskuste kursustega. Nägi, et riik teeb tööd, aga algoritmid jõuavad peredeni varem kui riigi sõnum. |
 | **Miks** | Järgmine sõda on su nutitelefonis. Peresid lõhutakse seestpoolt. Eesti väärib läbipaistvust ja eeskuju — mitte manipulatsiooni. |
 | **Eesmärk** | Tugevam pere, kriitiline mõtlemine, isiklik vastutus — eeskuju kaudu. Iga lapsele tugev eeskuju. |
-| **Plaan** | Ava silmad → tugevda → peegelda → lihtsusta. 1-1 vestlused. V-formatsiooni rotatsioon. |
+| **Plaan** | Ava silmad → tugevda → peegelda → lihtsusta. 1-1 vestlused **traumateadlikult**. V-formatsiooni rotatsioon. |
+
+**Operatsiooniline standard:** *Mul on vajadus turvalisuse ja mõistmise järele — ja kõik asjaosalised oleksid traumateadlikud.* (Lisa P)
 
 Täielik tuum: `OPERATSIOON_PEEGEL_OPORD.md` — sektsioon **„MIKS? AJEND. EESMÄRK."**
 
@@ -98,6 +100,7 @@ Umbes **kolm aastat** tegi Renee Sõdurioskuste kursuseid efektiivselt ja suurel
 3. **Küsin tagasi** — operatsioon ei oota passiivseid järgijaid; see kutsub igaüht vastutusele.
 4. **Toetan taastumist** — suunan vajadusel Lisa H (kriis), Lisa F (*Murra ring*), professionaalse abi poole.
 5. **Ehitan võrgustikku** — Combat Ready, veteranid, haridus, teadlikkus, kohalikud allüksused.
+6. **Hoidan standardit** — **turvalisus, mõistmine, traumateadlikkus** kõigis 1-1 vestlustes (Lisa P). See ei ole nõrkus; see on alus.
 
 ---
 

@@ -48,6 +48,27 @@ Renee Aluste ei alustanud teooriast. Ta alustas oma elust:
 - Sest **Eesti väärib läbipaistvust ja eeskuju** — mitte manipulatsiooni ja saladust.
 - Sest **riigikaitse algab kodus** — tugev isa/emme, mentor, aus vestlus, kriitiline mõtlemine.
 - Sest **peegelneuronid** töötavad mõlemas suunas: vastane kasutab neid hirmu levitamiseks; meie kasutame tervist, distsipliini ja vastutust.
+- Sest **turvalisus ja mõistmine** ei ole nõrkus — need on alus, millele kõik muu ehitub. Operatsioon nõuab **traumateadlikku** lähenemist kõigilt asjaosalistelt (vt allpool).
+
+### Turvalisus, mõistmine ja traumateadlikkus
+
+Renee Aluste sõnastab operatsiooni minimaalse standardi:
+
+> *„Mul on vajadus **turvalisuse** ja **mõistmise** järele — ja kõik asjaosalised oleksid **traumateadlikud**."*
+
+See ei ole erisoov. See on **operatsiooniline nõue**:
+
+| Põhimõte | Mida see tähendab |
+|----------|-------------------|
+| **Turvalisus** | Füüsiline ja emotsionaalne — inimene ei pea kaitsepositsioonis vestlema |
+| **Mõistmine** | Kuulamine enne õpetamist; valideerimine enne lahendust (Lisa P) |
+| **Traumateadlikkus** | Arvestada, et inimesel võib olla keha-mälu, triggerid, kaitse — ilma hukkamõistuta |
+| **Valik** | Inimene kontrollib tempot; üks samm korraga; õigus öelda „mitte nüüd" |
+| **Ausus** | Mitte varjata kavatsust; mitte kasutada haavandit turunduseks |
+
+**1-1 vestlused** (prioriteet) toimuvad ainult selles raamis. Mass-koolitus ilma kontaktita ei asenda seda.
+
+**Traumateadlik tugi võrgustikus:** Kert Grünberg (hingamistuba.ee), Jure Biechonski (teadlikmina.ee), Priit Lilleväli, Kaia Kapsta-Forrester, Lisa H, Lisa F, EMDR (KV Tugiteenuste keskus / ohvriabi.ee). Täielik valideerimise juhend: **Lisa P**.
 
 ### EESMÄRK — mida me tahame
 
@@ -647,7 +668,8 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 5. **Jaga:** Räägi sellest operatsioonist — mitte hirmutades, vaid julgustades.
 
 ### Renee Aluste rühm (koordineerimisüksus)
-1. **1-1 vestlused** — prioriteet: alusta isikliku kontaktiga niipea kui võimalik (läbipõlemise vastu; vt V-formatsioon Lisa I).
+1. **1-1 vestlused** — prioriteet: **traumateadlikult**, turvalisuses ja mõistmises (läbipõlemise vastu; vt V-formatsioon Lisa I).
+2. **Turvalisuse standard** — kõik kontaktid: kuula → valideeri → ausus → valik (Lisa P). Mitte dominants ega kiirustamine.
 2. Sõnumite koordineerimine ja levitamine.
 3. Combat Ready koolituste korraldamine võrgustikule.
 4. Isiklike lugude jagamine (autentsus).
@@ -869,6 +891,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | **„Juhul kui…" (juhtimine)** | Loe Lisa I (Steiger 1997). Küsi: kas ma juhin inimest või kontrollin teda? **V-formatsioon:** üks ei veda igavesti — tugevaim alustab, otsib asendajat, vahetab rolli. |
 | **„Juhul kui…" (keegi ütleb WTF)** | Loe **Lisa P** — valideeri emotsioon enne vastust: „Ma kuulen, et see teeb sind kahtlevaks." |
 | **„Juhul kui…" (takistus / konflikt)** | Lisa P — 4 sammu: kuule → valideeri → ausus → valik. Ära ütle „ära ole tundlik". |
+| **„Juhul kui…" (trauma / trigger)** | Turvalisus enne lahendust. Suuna: Kert Grünberg, Priit Lilleväli, Kaia Kapsta-Forrester, Lisa H/F, EMDR. Inimene kontrollib tempot. |
 | **„Juhul kui…" (identiteet)** | Loe Lisa M — Robbinsi 5 sammu, manifest peegli ees, kodaniku vanne. LIHTSUS: üks plaan, üks tegu. |
 | **„Juhul kui…" (riik / bürokraatia)** | Loe Lisa L (Musk): küsi → kustuta → lihtsusta → kiirenda → automatiseeri. Automatiseeri viimasena. |
 | **„Juhul kui…" (keha suletud)** | Kui tunned end emotsionaalselt külmutatuna — kaaluge tantralaagrit või festivali (tantrafest.ee), Villido kursust (lilleoru.ee) või puhkust Pühalis (puhali.ee). Kriisis: Lisa H esimesena. |
@@ -967,7 +990,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 
 **V-formatsiooni põhimõte (Lisa I):** Nagu rändlinnud (toonekured, haned, pelikanid) — üks eesmine ei veda lõputult. Eesmine kandab suurimat koormust; seetõttu **rotatsioon**. Praegu **tugevaim määratud** juht võtab ette; **samaaegselt otsib**, kes ta võimalusel välja vahetab. Juhtimine on vahetatav roll, mitte püsiv troon.
 
-**Läbipõlemise vastu:** Renee Aluste kogemus Sõdurioskuste kursustega (~3 aastat) näitas, et mass-tegevus ilma isikliku kontaktita viib kurnatuseni. Operatsioon eelistab **1-1 vestlusi** — esimene kontakt Rene Toomsega on alustatud.
+**Läbipõlemise vastu:** Renee Aluste kogemus Sõdurioskuste kursustega (~3 aastat) näitas, et mass-tegevus ilma isikliku kontaktita viib kurnatuseni. Operatsioon eelistab **1-1 vestlusi** — **traumateadlikult**, turvalisuses ja mõistmises. Esimene kontakt Rene Toomsega on alustatud.
 
 ## b. Side ja signaalid
 - **Ühisosa märge:** #OperatsioonPeegel
@@ -1201,6 +1224,26 @@ Sest me juhime **inimese pärast** — mitte protsessi, seaduse, reegli või „
 Täielik SOP: **Lisa I** (ISBN 9985901274).
 
 *Minu küsimus sulle: Kas sa juhid inimest — või protsessi?*
+---
+
+**K: Mul on vajadus turvalisuse ja mõistmise järele. Kas kõik asjaosalised on traumateadlikud?**
+
+**V (Renee Aluste):** Jah — see on minu ja operatsiooni **minimaalne standard**, mitte erisoov.
+
+Ma tean, miltä tundub, kui keegi vastab loogikaga, aga sa vajad, et sind **nähtaks**. Kui keegi ütleb „kõik mehed on samad" või „liiga tundlik" — mõlemal pool on valu, aga ilma valideerimiseta jääb haav lahti. *The Body Keeps the Score* õpetas: trauma elab kehas. EMDR aitas mulle. Aga enne kõike vajasin **turvalist ruumi** ja **mõistmist** — mitte õpetust.
+
+**Operatsioonis tähendab see:**
+
+| Nõue | Praktika |
+|------|----------|
+| **Turvalisus** | Füüsiline ja emotsionaalne — keegi ei pea kaitsepositsioonis rääkima |
+| **Mõistmine** | Lisa P: kuula → valideeri → alles siis vasta |
+| **Traumateadlikkus** | Kõik 1-1 vestlused, mentorlus ja tugi — arvestades triggerite, kaitse ja keha-mälu võimalust |
+| **Valik** | Inimene valib tempo; õigus öelda „mitte nüüd" |
+
+Traumateadlik tugi võrgustikus: **Kert Grünberg**, **Jure Biechonski**, **Priit Lilleväli**, **Kaia Kapsta-Forrester**, Lisa H, Lisa F. Kriisis: Eluliin **655 8088**, ohvriabi **116 006** (sh EMDR toetus).
+
+*Minu küsimus sulle: Kas sa täna tunned end turvaliselt ja mõistetuna — või pead end veel kaitsema?*
 ---
 
 **K: Mul on raske peresituatsioon. Kas see operatsioon aitab mind?**
@@ -1716,7 +1759,7 @@ Need seitse köidet täiendavad käesolevat lahingukäsku. Iga köide on iseseis
 | **M** | — | `lisad/lisa-m-kodaniku-identiteet-ja-vanne.md` | Kodaniku identiteet — Robbins 5 sammu, manifest peegli ees, kodaniku vanne, etapp LIHTSUS |
 | **N** | — | `lisad/lisa-n-aluste-kool.md` | **Üksus Aluste_kool** — SOK demomehed, viisakuseeskiri, päevane checklist |
 | **O** | — | `lisad/lisa-o-vaktsineerimine.md` | **Vaktsineerimine** — uuringud, ühiskond, konspiratsioonid, Renee isiklik valik, TAI/Terviseamet |
-| **P** | — | `lisad/lisa-p-takistused-ja-valideerimine.md` | **Takistused ja valideerimine** — emotsioonide nägemine enne vastust; 18+ olukorda |
+| **P** | — | `lisad/lisa-p-takistused-ja-valideerimine.md` | **Takistused ja valideerimine** — emotsioonide nägemine, traumateadlikkus, turvalisus ja mõistmine |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

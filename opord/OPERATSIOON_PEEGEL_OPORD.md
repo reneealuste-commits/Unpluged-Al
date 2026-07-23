@@ -110,6 +110,8 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 3. **Peegelda** — ole eeskuju naabrile, kolleegile, sõbrale; iga tugev inimene on väike võit.
 4. **Lihtsusta** — üks plaan, üks tõde korraga, üks peegel päevas (Lisa M).
 
+**Iga kodaniku roll — tutvusringkonnas (pikk mäng):** Turundust on vaja. Aga **ärge rääkige enne, kui olete olnud demomees** (Üksus Aluste_kool, Lisa N). Alles siis, kui keegi hakkab **huvi tundma**, võite natuke jagada. Alles siis räägite sellest teistele. See ei ole sprint — see on **pikk mäng**. Teisel pool on teil **armastust täis väärtuslik elu**.
+
 **Kuidas alustada täna:** loe Lisa A või H (kriisis). Kui oled lõpuni jõudnud — SMS **56980062**, sõnum **„Peegel"**.
 
 > *Mina näitan ees ideaalset sooritust. Sina jäljendad — ja peegeldad mulle tagasi. See on kogu operatsioon.*
@@ -681,9 +683,10 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 1. **Õppija roll:** Enne juhtimist õpi ennast tundma. 15 minutit päevas vaikust, päevikut või eneserefleksiooni.
 2. **Identiteet (Lisa M):** Tony Robbinsi 5 sammu — tuvasta uskumused, küsi ja kahtle, katkesta muster, ehita tõestust, loe manifesti peegli ees; kodaniku vanne.
 3. **Infohügieen:** Kontrolli uudiseallikat. Piira TikToki/sotsiaalmeedia aega. Jälgi, mis emotsiooni kanal tekitab.
-3. **Perekond:** Planeeri iganädalane „perede aeg" — ilma ekraanideta.
-4. **Eeskuju:** Ole see inimene, keda sa ise noorena vajasid.
-5. **Jaga:** Räägi sellest operatsioonist — mitte hirmutades, vaid julgustades.
+4. **Perekond:** Planeeri iganädalane „perede aeg" — ilma ekraanideta.
+5. **Eeskuju:** Ole see inimene, keda sa ise noorena vajasid.
+6. **Demomees enne levitamist:** Loe Lisa N — ole **demomees** enne kui räägid operatsioonist tutvusringkonnas. Eeskuju enne sõna.
+7. **Levita tutvusringkonnas (pikk mäng):** Iga kodaniku roll on rääkida oma tutvusringkonnas — **turundust on vaja**. Aga **mitte enne demomehe kogemust**. Alles kui keegi **huvi tunneb**, võid natuke jagada. Alles siis räägid teistele. Mitte müüki. Mitte kiirustamist. Teisel pool: **armastust täis väärtuslik elu**. (Lisa N §4b)
 
 ### Renee Aluste rühm (koordineerimisüksus)
 1. **1-1 vestlused** — prioriteet: **paranemis-teadlikult**, turvalisuses ja mõistmises (läbipõlemise vastu; vt V-formatsioon Lisa I). Tööriist: **spordikommentaator** (Lisa P).

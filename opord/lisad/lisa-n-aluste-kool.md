@@ -67,6 +67,52 @@ Kui sa tunned, et see kirjeldus on sinu kohta — oled õiges kohas. Kui mitte �
 
 **Demomehe kolm ülesannet:** loe allikad · kasuta checklisti · anna tagasiside.
 
+> *Ära räägi operatsioonist enne, kui oled demomees. Eeskuju enne sõna.*
+
+---
+
+## 4b. Orgaaniline levitamine — tutvusringkond (pikk mäng)
+
+**Turundust on vaja.** Aga mitte reklaami, mitte müüki, mitte kiirustamist. **Orgaaniline levitamine** — üks inimene, üks tutvusringkond, üks aus vestlus korraga.
+
+### Iga kodaniku roll
+
+Rääkige oma **tutvusringkonnas** sellest operatsioonist. See on osa missioonist — mitte ainult Renee või võrgustiku töö.
+
+### Kuldreegel: demomees enne sõna
+
+| ❌ Ära | ✅ Tee |
+|-------|--------|
+| Räägi enne kui oled demomees | **Ela eeskuju** — checklist, Lisa Q, Lisa P |
+| Müü, kampaania, „loe see kohe" | Oota, kuni keegi **huvi tunneb** |
+| Jaga kõigile korraga | **Natuke** — vastavalt huvile |
+| Oota kiiret tulemust | Mängi **pikka mängu** |
+
+**Järjekord:**
+
+1. **Saa demomeeks** — SOK / Üksus Aluste_kool: sõduriõpik, viisakus, checklist, side eeskirjad (Lisa N).
+2. **Ela eeskuju** — inimesed näevad sind, mitte brošüüri.
+3. **Oota huvi** — keegi küsib, miks sa oled muutunud, rahulikum, kohalolevam.
+4. **Jaga natuke** — üks lause, üks raamat, üks vestlus. Mitte kogu OPORD korraga.
+5. **Alles siis räägi teistele** — kui esimene inimene on valmis ja huvitatud.
+
+> *„Ärge rääkige enne, kui te olete olnud demomees. Alles kui keegi hakkab huvi tundma, võite natuke jagada. Alles siis te räägite sellest teistele."* — Renee Aluste
+
+### Miks pikk mäng?
+
+Infosõda võidab kiirusega. Me võidame **usaldusega**. Dominants ei tööta pikas mängus (Liibanon, Lisa I). Sama kehtib levitamisel: inimene, kes tundis sind enne, usaldab sind pärast.
+
+**Teisel pool on armastust täis väärtuslik elu.** See ei ole turunduslubadus — see on see, mida demomehed ise kogevad, kui elavad checklisti ja paranemis-teekonda.
+
+### Ideaalne sooritus — igapäevas
+
+| Olukord | ❌ Vale | ✅ Ideaalne sooritus |
+|---------|--------|----------------------|
+| Sõber küsib, miks sa oled rahulikum | „Loe 1800-leheküljelist PDF-i!" | „Ma olen hakanud teisiti suhtlema. Kas tahad, et räägiksin ühest asjast?" |
+| Pereliige ei küsi | Sunni dokumenti lauale | Ela eeskuju — perede aeg, checklist, aus vestlus |
+| Kolleeg ütleb „mis see Peegel on?" | Tundide monoloog | „Kodanikualgatus perede ja mõtlemise jaoks. Ma võin saata ühe lingi — kui tahad." |
+| Keegi ei ole huvitatud | Solvu või loobu | Jätka demomehena. **Pikk mäng.** |
+
 ---
 
 ## 5. Ühised ülesanded (kõik Aluste_kool liikmed)

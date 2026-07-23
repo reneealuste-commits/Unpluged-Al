@@ -47,9 +47,13 @@ Ta ei õpeta teooriat. Ta on elanud läbi selle, mida õpetab.
 - **Autor** — Tugeva Isa seeria (7 köidet, Lisa A–G); Operatsioon „Peegel" OPORD ja lisad.
 - **Podcast** — Combat Ready Frontline Podcast külaline (*What it takes to be a US Army Ranger*).
 
-### Isiklik teekond
+### Isiklik teekond — saamise lugu
 
-Renee on ise kogenud depressiooni ja mõistnud, kuidas pikaajaline infosõja ja manipulatsioon võib inimest murda. Ta on taastunud, võtnud vastutuse ja pöördunud operatsiooni suunas: aidata teistel näha selgelt ja teha tervislikke otsuseid. Ta räägib avameelselt ravimist, eneseteadlikkusest ja abi otsimisest — see on tugevus, mitte nõrkus.
+Renee on ise kogenud depressiooni ja mõistnud, kuidas pikaajaline infosõja ja manipulatsioon võib inimest murda. Ring: isolatsioon → ekraan → lootusetus. **Pööre** tuli abi otsimisest — ravimid, professionaalne tugi, [narko.ee](https://www.narko.ee) chatbot ja tugiliin (tel 641 4110).
+
+Vaimne taastumine oli esimene samm. Teine oli **keha**: uni, liikumine, toitumine. Sõjaväelase distsipliin ja Stefanssoni arktika-kogemus (kala, hülge rasv, liha koos — Bellevue uuring 1928–1929) kinnitasid: hoolitsus toidu eest on osa taastumisest, mitte eraldi „dieedirežiim". *Me ei ehita armastust emotsioonidega. Me kujundame seda käitumisega — austuse ja lugupidamise keeles* — ka oma keha suhtes.
+
+Ta räägib avameelselt ravimist, eneseteadlikkusest ja abi otsimisest — see on tugevus, mitte nõrkus. Täielik juhend: **Lisa H**. Riigi roll: **TAI** + **Sotsiaalkaitseministeerium** (vt **Lisa L**).
 
 ---
 

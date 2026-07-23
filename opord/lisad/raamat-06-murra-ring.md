@@ -64,6 +64,7 @@ Kui ma olin põhjas, aitas mind mitte üks suur muutus, vaid väikesed sammud:
 - Jalutuskäik iga päev — isegi 10 minutit.
 - Päevavalgus hommikul — eriti talvel.
 - Uni — proovi sama aega magama minna.
+- **Toit** — vähenda tööstuslikku suhkrut ja ühekülgset süsivesikute üleküllust; eelista täisväärtuslikku toitu (kala, liha, köögiviljad). Enne suuri dieedimuutusi: perearst. Renee taastumislugu ja Vilhjalmur Stefanssoni arktika-kogemus (Bellevue uuring 1928–1929) näitavad, et keha vajab hoolitsust sama palju kui vaim — vt **Lisa H**.
 
 **Sotsiaalne:**
 - Üks inimene, kellele sa räägid ausalt — sõber, partner, terapeut.

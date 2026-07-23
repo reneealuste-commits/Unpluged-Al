@@ -216,7 +216,7 @@
 ![Renee Aluste](images/profiles/renee-aluste.jpg)
 - **Roll operatsioonis:** Operatsiooni eestvedaja ja peamine sõnumitooja; ühendab isikliku kogemuse sõjalise distsipliiniga.
 - **Taust:** Combat Ready instruktor; Kaitseliidu juhtimisinstruktor. Endine erioperatsioonide grupi operaator; üks vähestest eestlastest, kes on läbinud USA Army Ranger Schooli. Arborist (TreeDoc/Kaks Arboristi). Ajateenistus Vahipataljonis (2009–2010, koos Taavi Karotammeaga); erioperatsioonide grupp; laevakaitseüksus; rahuvalvemissioon Liibanonis Estpla-21 (2015, ~7 kuud koos Karotammeaga).
-- **Isiklik motivatsioon:** Aluste on ise kogenud depressiooni ja mõistnud, kuidas pikaajaline infosõja ja manipulatsioon võib inimest murda. Ta on taastunud, võtnud vastutuse ja pöördunud operatsiooni suunas: aidata teistel näha selgelt ja teha tervislikke otsuseid.
+- **Isiklik motivatsioon:** Aluste on ise kogenud depressiooni ja mõistnud, kuidas pikaajaline infosõja ja manipulatsioon võib inimest murda. Ta on taastunud — ravimid, professionaalne abi, [narko.ee](https://www.narko.ee) tugiliin — ja võtnud vastutuse keha eest: uni, liikumine, toitumine. Ta viitab Vilhjalmur Stefanssoni arktika-kogemusele ja Bellevue uuringule (1928–1929) kui tõendile, et rasvarikas loomne toit (kala, mererasv) võib keha tervendada, kui vaim on juba abi saanud. Täielik lugu: **Lisa H**.
 - **Miks ta on siin:** Ta ei õpeta teooriat — ta on elanud läbi selle, mida õpetab. „Ma ei manipuleeri sind nõrkuseks. Ma aitan sul saada tugevaks."
 
 #### Priit Lilleväli — Rahva tase, juhtimis- ja psühholoogiline tugi
@@ -614,11 +614,12 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 ### Tervise Arengu Instituut (TAI) ja ministeeriumid (vt Lisa L)
 1. **Küsi nõudeid** — iga reegli taga peab olema nimi ja põhjus; lõpeta „aruande pärast" tegevus.
 2. **Kustuta** — eemalda dubleeriv bürokraatia, koosolekud ilma otsuseta, vormid, mida keegi ei kasuta.
-3. **Lihtsusta** — üks selge kanal kodanikule; inimkeel; inimene enne vormi (Steiger + Musk).
+3. **Lihtsusta** — üks selge kanal kodanikule; inimkeel; inimene enne vormi (Steiger + Musk). Tervisesõnum: *uni · liikumine · suhted · toit · ekraan*.
 4. **Kiirenda** — lühem tsükkel otsuseni; TAI tervisesõnumid kriisihetkel 48–72 h jooksul.
 5. **Automatiseeri viimasena** — IT ja self-service alles pärast sammude 1–4; ära ehita kiiremat müra masinat.
+6. **Toitumine ja taastumine** — TAI + **Sotsiaalkaitseministeerium** + **Põllumajandus ja Toiduained**: teaduspõhine, lihtne info toidu ja vaimse tervise seose kohta; vt Renee saamise lugu ja Stefanssoni viide **Lisa H** ja **Lisa L**.
 
-**TAI spetsiifika:** vaimne tervis, infohügieen, pere tervis, aus statistika, koostöö Sotsiaal- ja Haridusministeeriumiga.
+**TAI spetsiifika:** vaimne tervis, infohügieen, pere tervis, **toitumine ja taastumine** (koos Sotsiaalkaitseministeeriumiga), aus statistika, koostöö Haridus- ja Siseministeeriumiga.
 
 **Ministeeriumid:** iga ministeerium valib 12 kuu jooksul ühe protsessi Muski algoritmi läbimiseks; avalikusta, mida kustutasid.
 
@@ -749,8 +750,8 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Klass | Sisu |
 |-------|------|
 | **I (toit)** | Soe pere eine 1× nädalas — ilma ekraanideta |
-| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet), **Lisa N (Aluste_kool)**; Alar Ojastu *Ratsionaalne emotsionaalsus*; Tiit Trofimov *Lõpp on algus*; Liivamägi/Talpsepp/Vaarmets *Eraisiku rahandus*; „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee); Gordon (sinamina.ee); Imelised aastad (pk.ee); Papsid.ee; Starfish Academy; BMI Institute; BNI Eesti; Äripäev Investor Toomas (aripaev.ee/raadio); Rahakratt (rahakratt.rahajutud.ee); Marko Oolo Exceli tööriistad (oolomarko.ee); Blondcast (tasku.delfi.ee); **Sõduri käsiraamat + Kaitseväe sisemäärustik** (mil.ee) |
-| **III (kütus)** | Uni 7–8h; liikumine 30 min/päev |
+| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet), **Lisa N (Aluste_kool)**; Alar Ojastu *Ratsionaalne emotsionaalsus*; Tiit Trofimov *Lõpp on algus*; Liivamägi/Talpsepp/Vaarmets *Eraisiku rahandus*; Stefansson *Not by Bread Alone* / *The Fat of the Land*; McClellan & Du Bois (1929–1930, Bellevue lihadieet); „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee); Gordon (sinamina.ee); Imelised aastad (pk.ee); Papsid.ee; Starfish Academy; BMI Institute; BNI Eesti; Äripäev Investor Toomas (aripaev.ee/raadio); Rahakratt (rahakratt.rahajutud.ee); Marko Oolo Exceli tööriistad (oolomarko.ee); Blondcast (tasku.delfi.ee); **Sõduri käsiraamat + Kaitseväe sisemäärustik** (mil.ee) |
+| **III (kütus)** | Uni 7–8h; liikumine 30 min/päev; **toit** — eelistada täisväärtuslikku, vähe töödeldud toitu (kohalik kala, liha, rasv koos); enne suuri dieedimuutusi perearst. Vt Lisa H (Renee saamise lugu, Stefanssoni viide) |
 | **V (laskemoon)** | Sõnad — kasuta neid mõistlikult. Iga sõnum on lask |
 | **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber; [narko.ee](https://www.narko.ee) chatbot/tugiliin (Renee alustas siit); [ohvriabi.ee](https://ohvriabi.ee) — koduvägivalla korral kuni 940 € psühholoogilise abi toetus 2 aasta jooksul (sh **EMDR** sessioonid); Märt Avandi lugu YouTube'is: [watch?v=nNuHGdQdrZY](https://www.youtube.com/watch?v=nNuHGdQdrZY) |
 | **Muu** | „Ava oma Silmad" taskuhääling; Combat Ready koolitused; Combat Ready Her Way; Laste Supermängud; see lahingukäsk |

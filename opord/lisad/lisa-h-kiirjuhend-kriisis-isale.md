@@ -72,6 +72,45 @@ Hingamine on tööriist, mida saad kasutada kohe. See täiendab Lisa F/H taastum
 
 ---
 
+## Renee saamise lugu — vaim, keha ja toitumine
+
+Renee Aluste ei räägi taastumisest teooriana. Ta on läbi elanud ringi: infosõja ja manipulatsioon → isolatsioon → depressioon → ekraan → veel sügavam ring. **Pööre** algas siis, kui ta lõpetas vaikimise: ravimid, professionaalne abi, [narko.ee](https://www.narko.ee) chatbot ja tugiliin — esimene samm ilma häbita.
+
+Vaimne taastumine ei piisanud. Keha oli kurnatud. Renee hakkas uuesti vaatama, **mida ta sisse paneb** — mitte dieedirežiimina, vaid austusena oma keha vastu: uni, liikumine, **toidu kvaliteet**. Sõjaväelase distsipliin õpetas teda juba varem: struktuur hoiab elus. Taastumine tõi sama loogika toidulauale.
+
+### Vilhjalmur Stefansson — mida arktika õpetas (teaduslik viide)
+
+**Vilhjalmur Stefansson** (1879–1962) oli Islandi päritolu Kanada arktika-uurija. Ta elas üle **10 aasta** inuittide juures (sh Alaska piirkonnas) ja sõi nende toitu: **kala, hülge liha ja rasva**, põder, vaal — liha ja rasv koos, mitte ainult lahja valk.
+
+Lääne arstid ei uskunud, et inimene saab ainult lihast elada. **1928–1929** testiti seda Bellevue Hospitalis (New York): Stefansson ja Karsten Andersen sõid **aasta** ainult liha (sh rasv, sised, maks) meditsiinilise järelevalve all.
+
+| Tulemus | Mida see tähendab |
+|---------|-------------------|
+| Neerud, vererõhk, üldine tervis | Ei halvenenud |
+| Ainult lahja liha | Iiveldus ja nõrkus — **rasv on hädavajalik** („rabbit starvation") |
+| Kalorite jaotus | ~75% rasvast, mitte „palju proteiini" |
+
+**Põhiallikad:**
+- McClellan WS, Du Bois EF — *Prolonged Meat Diets With a Study of Kidney Function and Ketosis*, 1930 · [PDF](https://nutrire.ca/documents/Stefansson_study.pdf)
+- Lieb CW — *The Effects on Human Beings of a Twelve Months' Exclusive Meat Diet*, 1929 · [PDF](https://gwern.net/doc/biology/1929-lieb.pdf)
+- Stefansson — *Not by Bread Alone* / *The Fat of the Land*
+
+> *Me ei ehita armastust emotsioonidega. Me kujundame seda käitumisega — austuse ja lugupidamise keeles.*  
+> Sama kehtib keha kohta: hoolitsus toitumise eest on armastus, mis on nähtav.
+
+**Oluline:** see ei ole retsept „kõik peavad sööma nagu inuitid". See on tõend, et **tööstuslik toit ja ühekülgne süsivesikute üleküllus** võivad keha kurnata — eriti siis, kui vaim on juba põhjas. Enne suuri toitumismuutusi: **perearst või toitumisnõustaja**. Ravimid ja teraapia jäävad esikohale.
+
+### Riigi roll (vt Lisa L)
+
+| Haldusala | Asutus | Ülesanne |
+|-----------|--------|----------|
+| **Tervishoid ja sotsiaalhoolekanne** | **Sotsiaalkaitseministeerium** + **TAI** | Lihtne, teaduspõhine toitumissõnum; seos vaimse tervise ja keha vahel |
+| **Toidujulgeolek** | **Põllumajandus ja Toiduained** | Kohalik kala, liha, rasvane kalatoit — aus tarneahel, mitte hirmupropaganda |
+
+Kodanik ei pea ootama riigi luba, et hoolitseda oma keha eest. Aga riik ei tohi segadust süvendada — 300-leheküljeline PDF asemel: *uni, liikumine, suhted, toit, ekraan*.
+
+---
+
 ## Milline raamat, millal?
 
 Kriisis loe **mitte** järjekorras 1→7. Alusta siit:

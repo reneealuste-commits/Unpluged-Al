@@ -35,7 +35,7 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 3. **Pere ja taastumine** (köited 5–6) — tugevda rindejoont, murra depressiooni ring
 4. **Kogukond** (köide 7) — juhi teisi, liitu Operatsiooniga „Peegel"
 
-**Kriisis (isad):** Alusta **Lisa H**, siis **F** → A → D → E. Ära loe järjekorras 1→7.
+**Kriisis (isad):** Alusta **Lisa H**, siis **F** → A → D → E. Ära loe järjekorras 1→7. Lisa H sisaldab ka Renee saamise lugu ja toitumise viiteid (TAI / Sotsiaalkaitseministeerium — vt Lisa L).
 
 **Juhtimine:** Lisa I (Steiger 1997, ISBN 9985901274).
 

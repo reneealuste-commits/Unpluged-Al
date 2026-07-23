@@ -124,6 +124,23 @@ Aidata Eesti inimestel **elada kauem ja tervislikumalt** — mitte ainult statis
 3. **Pere tervis** — tugev perekond = tugev ühiskond; üksikvanemate ja laste heaolu indikaatorid.
 4. **Aus statistika** — andmed, mida kodanik saab usaldada; vastukaaluks valestatistika infosõjas.
 5. **Koostöö ministeeriumidega** — ühine keel Sotsiaal-, Haridus- ja Siseministeeriumiga; mitte eraldi silod.
+6. **Toitumine ja taastumine** — lihtne sõnum kodanikule: uni, liikumine, suhted, **toit**, ekraan. Uurida ja levitada teaduspõhist infot rasva, valgu ja kohaliku toidu (kala, liha) rollist — ilma dieedikultusid promomata. Seosta Renee Aluste taastumislugu (Lisa H) ja Stefanssoni Bellevue uuringuga (1928–1929) kui **ajaloolise viitega**, mitte ühe dieedi reklaamiga. Koostöö **Sotsiaalkaitseministeeriumi** ja **Põllumajandus ja Toiduained** ministeeriumiga.
+
+### TAI — toitumine ja vaimne tervis (Sotsiaalkaitseministeeriumi haldusalas)
+
+Infosõda tabab ka taldrikut: suhkur, tööstuslik toit ja segadus „tervisliku toidu" siltidega kurnavad inimest, kes on juba vaimselt põhjas. TAI ülesanne:
+
+| Samm | Toitumise kontekst |
+|------|-------------------|
+| **1. Küsi** | Kes rahastab toitumissõnumit? Kas see teenib kodanikku või tööstust? |
+| **2. Kustuta** | Lõpeta vastuolulised juhised; ära dubleeri Sotsiaalkaitseministeeriumi ja Põllumajandusministeeriumi kanaleid |
+| **3. Lihtsusta** | Viis sõna: *uni · liikumine · suhted · toit · ekraan* — mitte 300-leheküljeline PDF |
+| **4. Kiirenda** | Kriisihetkel selge sõnum: abi (Eluliin, perearst) enne dieedimuutust |
+| **5. Automatiseeri** | Andmepõhine jälgimine — alles pärast sammude 1–4 |
+
+**Teaduslik viide (mitte dieedireklaam):** Vilhjalmur Stefanssoni kogemus inuittide juures ja Bellevue uuring (1928–1929) näitavad, et inimene talub rasvarikast loomset toitu — eriti **kala ja merelooma rasva** — kui rasv ja liha on koos. Renee Aluste taastumislugu (Lisa H) ühendab seda praktikaga: vaimne abi esmalt, seejärel keha hoolitsus.
+
+**Hoiatus TAI-le:** ära propageeri üht dieeti kõigile; rõhuta individuaalset nõustamist ja ravimite/teraapia jätkamist.
 
 ### TAI — mida mitte teha
 
@@ -149,10 +166,10 @@ Operatsioon „Peegel" ei asenda riigikapmet. See täiendab seda: **kodanik peab
 | **Kultuur** | Identiteet, keel, ühised väärtused | Kustuta tsensuuriühilduv „turvalisuse" mask |
 | **Maael** | Maapiirkondade elujõud, kogukonnad | Kiirenda: lihtne tee toetusteni |
 | **Majandus ja Tööstus** | Töökoht, ettevõtlus, julgeolek tarneahelas | Automatiseeri alles lihtsustatud protsessid |
-| **Põllumajandus ja Toiduained** | Toidujulgeolek, kohalik tootmine | Aus sõnum tarneahelast |
+| **Põllumajandus ja Toiduained** | Toidujulgeolek, kohalik tootmine | Aus sõnum tarneahelast; **kohalik kala ja liha** kodaniku taldrikul |
 | **Rahandus** | Eelarve läbipaistvus, maksud | Küsi iga kulurea taga: kes vajab? |
 | **Sisemine** | Kriis, politsei, pääste (koos Eerik Heldnaga) | Kiirenda kriisiteavitust; inimene enne vormi |
-| **Sotsiaalkaitse** | Pered, lapsed, vaimne tervis, vaesus | Kustuta alusetut bürokraatiat abisaajalt |
+| **Sotsiaalkaitse** | Pered, lapsed, vaimne tervis, vaesus, **toitumine ja ennetus** | Kustuta alusetut bürokraatiat abisaajalt; lihtne tervisesõnum |
 | **Välis** | Rahvusvaheline maine, infosõda välismaal | Selge, aus sõnum — mitte propaganda |
 | **Justiits** | Õigusriik, ausus, usaldus | Lihtsusta: kodanik mõistab õigust |
 
@@ -170,6 +187,7 @@ Operatsioon „Peegel" ei asenda riigikapmet. See täiendab seda: **kodanik peab
 | Teema | Peamine ministeerium | TAI roll |
 |-------|---------------------|----------|
 | Vaimne tervis | Sotsiaalkaitse | Andmed, ennetus, uuringud |
+| Toitumine ja taastumine | Sotsiaalkaitse + Põllumajandus ja Toiduained | TAI uuringud; lihtne kodanikusõnum (Lisa H) |
 | Haridus ja noored | Haridus | Kiusamine, ekraanid, une-uuringud |
 | Kriis ja stress | Sisemine | Psühhosotsiaalne järelmõju |
 | Infohügieen | Riigi Kantselei + Kaitse | Tervisekäitumise sõnumid |

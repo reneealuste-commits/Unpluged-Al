@@ -34,7 +34,7 @@
 
 Renee Aluste ei alustanud teooriast. Ta alustas oma elust:
 
-1. **Ta elas läbi murde.** Depressioon, infosõja mõju, isolatsioon, ekraan, lootusetus — ja taastumine (Lisa H). Ta teab, kuidas inimest seestpoolt murda.
+1. **Ta elas läbi murde.** Depressioon, infosõja mõju, isolatsioon, ekraan, lootusetus — ja taastumine (Lisa H). Ta teab, kuidas inimest seestpoolt murda. **37 aastat** kiusamise ja vägivalla ohvrina; kolm last võõrandatud. Ta oli ka ise kiusaja. *Ma elasin üle surma.*
 2. **Ta põles läbi.** Umbes kolm aastat Sõdurioskuste kursuseid — efektiivselt, suurelt — kuni läbipõlemise ilmingud sundisid peatuma. Seekord tehakse **targemalt**: 1-1 vestlused, rotatsioon, mitte üks mees kogu aeg ees.
 3. **Riik teeb tööd, aga sõnum ei jõua igasse peresse.** Kaitsevägi, Kaitseliit, KAPO — head. Siiski tabavad algoritmid (TikTok, Telegram, võõrkeelsed kanalid) inimesi enne, kui nad aru saavad.
 4. **Liibanon õpetas.** Dominants ei tööta inimeste peal pikas mängus. Ausus ja usaldus töötavad paremini kui reeglid, mida kõik teavad, et on vale.
@@ -280,6 +280,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 - **Taust:** Combat Ready instruktor; Kaitseliidu juhtimisinstruktor. Endine erioperatsioonide grupi operaator; üks vähestest eestlastest, kes on läbinud USA Army Ranger Schooli. Arborist (TreeDoc/Kaks Arboristi). Ajateenistus Vahipataljonis (2009–2010, koos Taavi Karotammeaga); erioperatsioonide grupp; laevakaitseüksus; rahuvalvemissioon Liibanonis Estpla-21 (2015, ~7 kuud koos Karotammeaga).
 - **Isiklik motivatsioon:** Aluste on ise kogenud depressiooni ja mõistnud, kuidas pikaajaline infosõja ja manipulatsioon võib inimest murda. Ta on taastunud — ravimid, professionaalne abi, [narko.ee](https://www.narko.ee) tugiliin — ja võtnud vastutuse keha eest: uni, liikumine, toitumine. Ta viitab Vilhjalmur Stefanssoni arktika-kogemusele ja Bellevue uuringule (1928–1929) kui tõendile, et rasvarikas loomne toit (kala, mererasv) võib keha tervendada, kui vaim on juba abi saanud. Täielik lugu: **Lisa H**.
 - **Läbipõlemise õppetund:** Umbes **kolm aastat** tegi ta Sõdurioskuste kursuseid efektiivselt ja suurelt — tulemuseks olid **suured läbipõlemise ilmingud**. Operatsioon „Peegel" peab seda seekord tegema **targemini**: alusta **1-1 vestlustega** niipea kui võimalik, mitte ainult mass-koolitusega. Esimene samm on tehtud — **Rene Toomsega** on suhtlus alustatud; ukse lahti tehtud. (Vt V-formatsioon: Lisa I — üks ei veda igavesti.)
+- **Isiklik ajend (ausalt):** 37 aastat kiusamise ja vägivalla ohvrina; kolm last võõrandatud (Lily Käsper 14a, Rene Tilga 6a, Henry Käsper 11a). Oli ise kooli kiusaja. Taastus läbi lugemise (Beverly Engel, *Never Split the Difference*, *The Body Keeps the Score*) ja EMDR-i (KV Tugiteenuste keskus). *Ma elasin üle surma — ja tahan näidata, kuidas.* Vt Q&A sektsioon IV.
 - **Miks ta on siin:** Ta ei õpeta teooriat — ta on elanud läbi selle, mida õpetab. „Ma ei manipuleeri sind nõrkuseks. Ma aitan sul saada tugevaks."
 
 #### Priit Lilleväli — Rahva tase, juhtimis- ja psühholoogiline tugi
@@ -1125,6 +1126,36 @@ Kui see kõlab liiga pikalt — loe dokumendi alguses sektsiooni **„MIKS? AJEN
 ---
 
 ## IV. Pered ja isiklik elu
+
+**K: Renee, kas sa oled hulluks läinud?**
+
+**V (Renee Aluste):** Jah. Ma olen läinud hulluks.
+
+Ma olin depressioonis. Ma olin kiusamise ja vägivalla ohver juba **37 aastat**. Selle tagajärjel on minul võõrandatud **kolm minu last**:
+
+| Laps | Vanus |
+|------|-------|
+| Lily Käsper | 14 |
+| Rene Tilga | 6 |
+| Henry Käsper | 11 |
+
+Ja see ei ole kogu lugu. **Ma olin ise kiusaja.** Ma olin kooli kiusaja. Ma olin julm inimene. See rikkus kogu mu elu. Ma jäin oma valede võrgustiku lõpuks üksi — ja alles siis hakkasin raamatuid lugema.
+
+| Raamat / abi | Mida see mulle andis |
+|--------------|----------------------|
+| **Beverly Engel** | Pöördepunkt — hakkasin mõistma emotsionaalset vägivalda ja oma rolli selles |
+| **Never Split the Difference** (Chris Voss) | Õpetas suhtlema inimesega **emotsionaalsel tasemel** — mitte ainult loogikaga |
+| **The Body Keeps the Score** (Bessel van der Kolk) | Avas silmad täielikult — trauma elab kehas, mitte ainult peas |
+| **EMDR** sessioonid | Kaitseväe Tugiteenuste keskuses — töötasin läbi selle, mida sõnad üksi ei jõudnud |
+
+Ma tulin välja kaotusest. **Ma elasin üle surma.**
+
+Ja nüüd ma tahan teile näidata, **kuidas ma seda tegin** — mitte et te peaksite mind uskuma, vaid et te näeksite: kui mina sain välja, saab ka keegi teine. See on kogu Operatsioon „Peegel" isiklik ajend. Mitte teooria. Elatud tee.
+
+Kui sa tunned, et oled põhjas — loe **Lisa H** ja **Lisa F** (*Murra ring*). Kui vajad professionaalset abi: Eluliin **655 8088**, kriisiabi **116 123**, ohvriabi **116 006** (sh EMDR toetus kuni 940 € — vt Lisa H).
+
+*Minu küsimus sulle: Kas sa julged tunnistada, et oled olnud nii ohver kui ka süüdlane — ja alustada sealt, kus sa oled?*
+---
 
 **K: Mul on raske peresituatsioon. Kas see operatsioon aitab mind?**
 

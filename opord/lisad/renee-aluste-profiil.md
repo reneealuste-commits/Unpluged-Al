@@ -62,7 +62,16 @@ Ta ei õpeta teooriat. Ta on elanud läbi selle, mida õpetab.
 
 ### Isiklik teekond — saamise lugu
 
-Renee on ise kogenud depressiooni ja mõistnud, kuidas pikaajaline infosõja ja manipulatsioon võib inimest murda. Ring: isolatsioon → ekraan → lootusetus. **Pööre** tuli abi otsimisest — ravimid, professionaalne tugi, [narko.ee](https://www.narko.ee) chatbot ja tugiliin (tel 641 4110).
+Renee on ise kogenud depressiooni ja mõistnud, kuidas pikaajaline infosõja ja manipulatsioon võib inimest murda. Ring: isolatsioon → ekraan → lootetus. **Pööre** tuli abi otsimisest — ravimid, professionaalne tugi, [narko.ee](https://www.narko.ee) chatbot ja tugiliin (tel 641 4110).
+
+**37 aastat** kiusamise ja vägivalla ohvrina. **Oma lapsi võõrandatud:** Lily Käsper (14), Rene Tilga (6), Henry Käsper (11). Renee tunnistab ausalt: ta oli ka **kiusaja** — koolis, julm inimene. Valede võrgustik jättis ta lõpuks üksi. Sealt algas lugemine:
+
+- **Beverly Engel** — pöördepunkt emotsionaalse vägivalla mõistmisel
+- **Never Split the Difference** (Chris Voss) — suhtlus emotsionaalsel tasemel
+- **The Body Keeps the Score** (Bessel van der Kolk) — trauma kehas
+- **EMDR** — Kaitseväe Tugiteenuste keskus
+
+*Ma elasin üle surma. Nüüd tahan näidata, kuidas ma seda tegin.* Täielik Q&A: OPORD sektsioon IV.
 
 Vaimne taastumine oli esimene samm. Teine oli **keha**: uni, liikumine, toitumine. Sõjaväelase distsipliin ja Stefanssoni arktika-kogemus (kala, hülge rasv, liha koos — Bellevue uuring 1928–1929) kinnitasid: hoolitsus toidu eest on osa taastumisest, mitte eraldi „dieedirežiim". *Me ei ehita armastust emotsioonidega. Me kujundame seda käitumisega — austuse ja lugupidamise keeles* — ka oma keha suhtes.
 

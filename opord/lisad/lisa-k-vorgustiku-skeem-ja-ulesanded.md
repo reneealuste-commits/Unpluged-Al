@@ -6,7 +6,9 @@
 
 > *Selgus aitab tegutseda. Iga inimene teab, kus ta asub ja mida temalt oodatakse.*
 
----
+> *„Olen pannud tähele, et kui anda iga inimesele roll, eesmärk ja konkreetsed juhised, mida teha — siis ta tihti teebki seda."* — Renee Aluste
+
+**Lisa K struktuur:** iga osalise juures on **roll**, **eesmärk** ja **konkreetsed ülesanded** — mitte ainult nimi nimekirjas.
 
 ## 1. Täielik organisatsiooniskeem
 

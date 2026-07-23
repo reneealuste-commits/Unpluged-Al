@@ -6,6 +6,8 @@ Eesti keeles koostatud viiepunktiline **paranemis-teekond** (OPORD-formaat) vast
 
 > *Kohtleme kõiki asjaosalisi nagu terveid, täiesti normaalseid inimesi.*
 
+> *Kui inimesel on roll, eesmärk ja konkreetsed juhised — ta tihti teebki seda.*
+
 ## Failid
 
 | Fail | Kirjeldus |

@@ -79,6 +79,9 @@ See ei ole erisoov. See on **operatsiooniline nõue**:
 | **Paranemis-teadlikkus** | Arvestada keha-mälu, triggerite ja kaitse võimalust — **ilma sildistamata inimest katkiseks** |
 | **Valik** | Inimene kontrollib tempot; üks samm korraga; õigus öelda „mitte nüüd" |
 | **Ausus** | Mitte varjata kavatsust; mitte kasutada haavandit turunduseks |
+| **Roll + eesmärk + juhis** | Kui inimesel on **roll**, **eesmärk** ja **konkreetsed juhised** — ta tihti teebki seda |
+
+> *„Olen pannud tähele, et kui anda iga inimesele roll, eesmärk ja konkreetsed juhised, mida teha — siis ta tihti teebki seda."* — Renee Aluste
 
 **1-1 vestlused** (prioriteet) toimuvad ainult selles raamis. Mass-koolitus ilma kontaktita ei asenda seda.
 
@@ -909,7 +912,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | **Kontakt vaenlasega** | Ära vaheta vihaga. Ära jaga emotsionaalseid reaktsioone. Faktid, rahulik tõde, eeskuju. |
 | **„Juhul kui…"** | Kui tunned, et langed tagasi manipulatsiooni — pöördu mentorini, sõbra poole või professionaali poole. See on tugevus, mitte nõrkus. |
 | **„Juhul kui…" (isa kriisis)** | Alusta Lisast F (*Murra ring*), siis A, D, E. Kiirjuhend: Lisa H. Kriis: Eluliin 655 8088. |
-| **„Juhul kui…" (juhtimine)** | Loe Lisa I (Steiger 1997). Küsi: kas ma juhin inimest või kontrollin teda? **V-formatsioon:** üks ei veda igavesti — tugevaim alustab, otsib asendajat, vahetab rolli. |
+| **„Juhul kui…" (juhtimine)** | Loe Lisa I (Steiger 1997). Küsi: kas ma juhin inimest või kontrollin teda? Anna inimesele **roll + eesmärk + konkreetne juhis** — siis ta tihti teebki seda. **V-formatsioon:** üks ei veda igavesti — tugevaim alustab, otsib asendajat, vahetab rolli. |
 | **„Juhul kui…" (keegi ütleb WTF)** | Loe **Lisa P** — **spordikommentaator** enne vastust: „Ma märkan, et see teeb mind kahtlevaks." |
 | **„Juhul kui…" (takistus / konflikt)** | Lisa P — 5 sammu: turvalisus → spordikommentaator → valideeri → ausus → valik. Ära ütle „ära ole tundlik". |
 | **„Juhul kui…" (trauma / trigger)** | **Keha enne mõistust** (van der Kolk): turvalisus → rahunemine → alles siis vestlus. Suust tulev sõna on signaal, mitte alati tõde. Suuna: Kert Grünberg, Priit Lilleväli, Kaia Kapsta-Forrester, Lisa H/F, EMDR. Inimene kontrollib tempot. |
@@ -1008,6 +1011,8 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Riik / protsessid | Kõik ministeeriumid | valitsus.ee (vt Lisa L — Muski algoritm) |
 
 **Juhtimiskett:** Renee Aluste → Remo Ojaste → võrgustiku liikmed → iga kodanik iseenda juht.
+
+**Rolli printsiip:** Kui inimesel on **roll**, **eesmärk** ja **konkreetsed juhised** — ta tihti teebki seda. Mitte abstraktne „ole parem" — vaid: kes sa oled, miks sa siin oled, mida sa täna teed. Iga võrgustiku liige: **Lisa K**. Iga demomees: **Lisa N**. Iga kodanik: Rahva tase ülesanded allpool.
 
 **V-formatsiooni põhimõte (Lisa I):** Nagu rändlinnud (toonekured, haned, pelikanid) — üks eesmine ei veda lõputult. Eesmine kandab suurimat koormust; seetõttu **rotatsioon**. Praegu **tugevaim määratud** juht võtab ette; **samaaegselt otsib**, kes ta võimalusel välja vahetab. Juhtimine on vahetatav roll, mitte püsiv troon.
 

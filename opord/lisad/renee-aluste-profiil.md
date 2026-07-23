@@ -55,6 +55,16 @@ Vaimne taastumine oli esimene samm. Teine oli **keha**: uni, liikumine, toitumin
 
 Ta räägib avameelselt ravimist, eneseteadlikkusest ja abi otsimisest — see on tugevus, mitte nõrkus. **Vaktsineerimine:** Renee keeldus oma uue lapse puhul riikliku immuniseerimiskava vaktsiinidest; tegi ainult **puukentsefaliidi (TBE)** vaktsiini. Täielik analüüs: **Lisa O**. Täielik juhend taastumiseks: **Lisa H**. Riigi roll: **TAI** + **Sotsiaalkaitseministeerium** (vt **Lisa L**).
 
+### Läbipõlemine ja targem tööviis
+
+Umbes **kolm aastat** tegi Renee Sõdurioskuste kursuseid efektiivselt ja suurelt. Tulemuseks olid **suured läbipõlemise ilmingud**. Operatsioon „Peegel" peab seda seekord tegema **targemini**.
+
+| Vana muster | Uus suund |
+|-------------|-----------|
+| Mass-koolitus, üks eesmine kogu aeg | **1-1 vestlused** niipea kui võimalik |
+| Koordinaator kandis kogu koormust | **V-formatsioon** — rotatsioon, asendaja otsimine (Lisa I) |
+| Ukse taga ootamine | Ukse lahti — esimene 1-1 **Rene Toomsega** on alustatud |
+
 ---
 
 ## Mida ma teen operatsioonis
@@ -97,6 +107,8 @@ See oli eluõppetund, mis jõudis Operatsiooni „Peegel" tuuma: dominants ei t�
 ## Kuidas minuga suhelda
 
 Renee ei oota kirju manipulatsiooni eesmärgil. Operatsioon „Peegel" on partnerlus ja koostöö — mitte üldine postkast.
+
+**Kui oled OPORD-i lõpuni lugenud:** saada SMS numbrile **56980062**, sõnumiga **„Peegel"**. Renee võtab ühendust ja küsib tagasi lugemist.
 
 **Kontakt:** läbi operatsiooni võrgustiku ja Combat Ready kanalite (combatready.eu).
 

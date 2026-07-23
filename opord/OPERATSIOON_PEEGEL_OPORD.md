@@ -97,7 +97,7 @@
 ![Rene Toomse](images/profiles/rene-toomse.jpg)
 - **Roll operatsioonis:** Strateegiline nõustaja; seob kaitse- ja tsiviilpoliitika tasandid; esindab valitsuse ja kodaniku vahelist silda.
 - **Taust:** Ettevõtja, reservmajor, endine luureohvitser. Doktorikraad sotsiaalteadustes (Tallinna Ülikool): „Kaitstes Eestit rahus ja sõjas". Avalikult kirjutanud infosõjast, sõjapidamise uuendustest ja väikeriigi julgeolekustrateegiatest (ICDS, Diplomaatia, ERR). Kaitseliitlane; seotud Lääne-Harjumaa Kaitsjate MTÜ-ga.
-- **Miks ta on siin:** Toomse mõistab, et järgmise põlvkonna sõda toimub infokeskkonnas sama palju kui maastikul. Ta toob operatsiooni riikliku mõõtme ilma bürokraatiata.
+- **Miks ta on siin:** Toomse mõistab, et järgmise põlvkonna sõda toimub infokeskkonnas sama palju kui maastikul. Ta toob operatsiooni riikliku mõõtme ilma bürokraatiata. **Esimene 1-1 vestlus** koordinaatoriga on alustatud — ukse lahti tehtud.
 
 #### Aarne Ermus — Operatiivne tase (Kaitseväe Akadeemia)
 
@@ -217,6 +217,7 @@
 - **Roll operatsioonis:** Operatsiooni eestvedaja ja peamine sõnumitooja; ühendab isikliku kogemuse sõjalise distsipliiniga.
 - **Taust:** Combat Ready instruktor; Kaitseliidu juhtimisinstruktor. Endine erioperatsioonide grupi operaator; üks vähestest eestlastest, kes on läbinud USA Army Ranger Schooli. Arborist (TreeDoc/Kaks Arboristi). Ajateenistus Vahipataljonis (2009–2010, koos Taavi Karotammeaga); erioperatsioonide grupp; laevakaitseüksus; rahuvalvemissioon Liibanonis Estpla-21 (2015, ~7 kuud koos Karotammeaga).
 - **Isiklik motivatsioon:** Aluste on ise kogenud depressiooni ja mõistnud, kuidas pikaajaline infosõja ja manipulatsioon võib inimest murda. Ta on taastunud — ravimid, professionaalne abi, [narko.ee](https://www.narko.ee) tugiliin — ja võtnud vastutuse keha eest: uni, liikumine, toitumine. Ta viitab Vilhjalmur Stefanssoni arktika-kogemusele ja Bellevue uuringule (1928–1929) kui tõendile, et rasvarikas loomne toit (kala, mererasv) võib keha tervendada, kui vaim on juba abi saanud. Täielik lugu: **Lisa H**.
+- **Läbipõlemise õppetund:** Umbes **kolm aastat** tegi ta Sõdurioskuste kursuseid efektiivselt ja suurelt — tulemuseks olid **suured läbipõlemise ilmingud**. Operatsioon „Peegel" peab seda seekord tegema **targemini**: alusta **1-1 vestlustega** niipea kui võimalik, mitte ainult mass-koolitusega. Esimene samm on tehtud — **Rene Toomsega** on suhtlus alustatud; ukse lahti tehtud. (Vt V-formatsioon: Lisa I — üks ei veda igavesti.)
 - **Miks ta on siin:** Ta ei õpeta teooriat — ta on elanud läbi selle, mida õpetab. „Ma ei manipuleeri sind nõrkuseks. Ma aitan sul saada tugevaks."
 
 #### Priit Lilleväli — Rahva tase, juhtimis- ja psühholoogiline tugi
@@ -583,11 +584,12 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 5. **Jaga:** Räägi sellest operatsioonist — mitte hirmutades, vaid julgustades.
 
 ### Renee Aluste rühm (koordineerimisüksus)
-1. Sõnumite koordineerimine ja levitamine.
-2. Combat Ready koolituste korraldamine võrgustikule.
-3. Isiklike lugude jagamine (autentsus).
-4. Mõõdikute jälgimine (tagasiside kogukonnast).
-5. **Aktiveeri ja juhi üksust Aluste_kool** — SOK demomehed (vt **Lisa N**).
+1. **1-1 vestlused** — prioriteet: alusta isikliku kontaktiga niipea kui võimalik (läbipõlemise vastu; vt V-formatsioon Lisa I).
+2. Sõnumite koordineerimine ja levitamine.
+3. Combat Ready koolituste korraldamine võrgustikule.
+4. Isiklike lugude jagamine (autentsus).
+5. Mõõdikute jälgimine (tagasiside kogukonnast).
+6. **Aktiveeri ja juhi üksust Aluste_kool** — SOK demomehed (vt **Lisa N**).
 
 ### Üksus Aluste_kool (SOK — demomehed)
 1. Loe läbi **sõduriõpik** ja **Kaitseväe viisakuseeskirja** põhimõtted (sisemäärustik, rivikord) — [mil.ee õigusaktid](https://mil.ee/kaitsevagi/uldinfo/oigusaktid-ja-eeskirjad/kaitsevaeteenistuse-alused/uldised-eeskirjad-ja-maarustikud/).
@@ -900,6 +902,8 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 
 **V-formatsiooni põhimõte (Lisa I):** Nagu rändlinnud (toonekured, haned, pelikanid) — üks eesmine ei veda lõputult. Eesmine kandab suurimat koormust; seetõttu **rotatsioon**. Praegu **tugevaim määratud** juht võtab ette; **samaaegselt otsib**, kes ta võimalusel välja vahetab. Juhtimine on vahetatav roll, mitte püsiv troon.
 
+**Läbipõlemise vastu:** Renee Aluste kogemus Sõdurioskuste kursustega (~3 aastat) näitas, et mass-tegevus ilma isikliku kontaktita viib kurnatuseni. Operatsioon eelistab **1-1 vestlusi** — esimene kontakt Rene Toomsega on alustatud.
+
 ## b. Side ja signaalid
 - **Ühisosa märge:** #OperatsioonPeegel
 - **Veeb:** combatready.eu
@@ -935,6 +939,18 @@ Alusta iseendast. Õpi tundma ja juhtima iseennast. Siis saad aidata teisi.
 Iga tugev isa. Iga laps, kellel on eeskuju. Iga peres veedetud õhtu ilma ekraanita. Iga aus vestlus naabriga. See on võit.
 
 **Operatsioon jätkub. Me oleme valmis.**
+
+---
+
+## VIIMANE ÜLESANNE
+
+Kui oled jõudnud siia — loe see lõpuni.
+
+**Saada SMS numbrile 56980062. Sõnum: „Peegel".**
+
+Ma võtan selle peale sinuga ühendust ja küsin tagasi lugemist — mis jättis mulje, mis ei töötanud, mida muudaksid.
+
+**Miks see avalik on:** Eesti väärib **läbipaistvust** ja **eeskuju**. Mina näitan teile ees **ideaalset sooritust**. Teie lihtsalt jäljendate — ja peegeldate mulle tagasi.
 
 ---
 

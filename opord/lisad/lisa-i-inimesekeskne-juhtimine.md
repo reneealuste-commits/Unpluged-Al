@@ -34,6 +34,8 @@ Operatsioon „Peegel" võtab selle looduse õppetunni juhtimise SOP-iks:
 
 > *Juhtimine siin ei ole troon. See on vahetatav roll — nagu lind V-formatsiooni tipus.*
 
+**Läbipõlemise hoiatus:** Renee Aluste kogemus Sõdurioskuste kursustega (~3 aastat) näitas, et kui üks inimene veab kogu aeg ees ilma rotatsiooni ja isikliku kontakti (1-1 vestlused) — tulemuseks on kurnatus. V-formatsioon ei ole ainult metafoor; see on enesehoid.
+
 Steigeri kuus sammast (allpool) täiendavad seda: juht, kes kuulab ja mõistab teisi, leiab kergemini, kes järgmisena ette võtab.
 
 ---

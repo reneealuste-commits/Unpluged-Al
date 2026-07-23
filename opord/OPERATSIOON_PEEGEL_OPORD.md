@@ -15,11 +15,35 @@
 
 ---
 
-> *„Seltsimehed. Kodanikud. Liitlased.*
->
-> *Me oleme keset kõrgetasemelist vastutegevust. Vastane ei tule tankidega — ta tuleb teie nutitelefoni, teie uudisvoogu ja teie kõhutunde kaudu. See operatsioon algas ammu enne seda, kui te seda märkasite. Nüüd on aeg vastu seista — mitte hirmuga, vaid teadlikkuse, distsipliini ja vastutusega.*
->
-> *Igaüks teist on selle missiooni osa. Enne kui olete juht, toetaja või sõdalane — olete õppija. Õppige ennast tundma. See on käsk."*
+## MOTIVEERIV KÕNE
+
+*Renee Aluste — Sõdurioskuste kursus (SOK), Kaitseliit. Operatsioon „Peegel" alguses.*
+
+Kaasaegne sõda on kaootiline ja hävitav.
+
+Oma esimeses lahingus kogete lahinguväljal segadust, kohutavaid pilte, hääli ja lõhnu — aga hoolimata nendest tingimustest peate võitma ja ellu jääma.
+
+Te võite silmitsi seista tigeda vaenlasega. Teid võib ümbritseda surm. Teie kaasvõitlejad võivad karjuda kiireid käske ja korraldusi. Te võite olla vastase efektiivse tule all.
+
+Kuid sel hetkel pidage meeles: kogu selles segaduses **te pole üksi**.
+
+Te olete osa heal tasemel koolitatud võitlejatest, mida toetab terve Kaitseliit ja Eesti rahvas. Peate uskuma oma kaasvõitlejatesse, pidama meeles oma väljaõpet ja täitma oma kohustust.
+
+Sõdurioskuste kursusel õppisite lahingus ellujäämiseks vajalikke oskusi. Kõik Kaitseliidu liikmed kõigis malevates ja üksustes peavad oskama neid baasoskusi.
+
+Seda on palju õppida ja omandada. Aga ausalt öeldes — need on kõigest baasoskused.
+
+Sõdurina peate meeles pidama: te ei jõua kõiki neid oskusi omandada ideaalselt, sest on liiga palju mida meeles pidada, liiga palju lugeda, liiga palju asju mida harjutada. Ja võib-olla just seetõttu, et neid oskuseid on liiga palju, lähevad need aeglaselt meelest — ununevad. Sõdur läheb pehmeks, nõrgaks.
+
+Aga on sõdureid ja inimesi, kes jätkavad õppimist, jätkavad pingutamist. Nad tahavad olla kiiremad, paremad, targemad ja tugevamad.
+
+Neil on enesedistsipliin ja motivatsioon, et minna edasi ja teisi endaga kaasa vedada — läbi raskuste, olla eestvedaja, mentor, eeskuju, juht.
+
+Vaadates teie poole — ma näen, et teie seas on võitlejaid, kes sobivad sellesse rolli. Ja usun, et kui me näeme mõnel õppusel aasta või aastate pärast, siis **teie olete need**, kes juhivad kaasvõitlejaid lahingus. Ja toovad nad sealt elusana tagasi.
+
+**Eesti eest. Surmani.**
+
+> *See kõne räägib lahinguväljast. Operatsioon „Peegel" räägib infosõjast — aga põhimõte on sama: segaduses ei ole sa üksi. Usalda väljaõpet. Usalda kaaslasi. Täida kohustust. Enne kui oled juht, mentor või eeskuju — oled õppija.*
 
 ---
 

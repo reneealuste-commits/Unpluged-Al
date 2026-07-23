@@ -17,7 +17,7 @@
 | **Eesmärk** | Tugevam pere, kriitiline mõtlemine, isiklik vastutus — eeskuju kaudu. Iga lapsele tugev eeskuju. |
 | **Plaan** | Ava silmad → tugevda → peegelda → lihtsusta. 1-1 vestlused **paranemis-teadlikult**. V-formatsiooni rotatsioon. |
 
-**Operatsiooniline standard:** *Mul on vajadus turvalisuse ja mõistmise järele — ja kõik asjaosalised oleksid paranemis-teadlikud.* (Lisa P)
+**Operatsiooniline standard:** *Mul on vajadus turvalisuse ja mõistmise järele — ja kõik asjaosalised oleksid paranemis-teadlikud.* *Kohtleme kõiki asjaosalisi nagu terveid, täiesti normaalseid inimesi.* (Lisa P, Lisa Q)
 
 Täielik tuum: `OPERATSIOON_PEEGEL_OPORD.md` — sektsioon **„MIKS? AJEND. EESMÄRK."**
 

@@ -14,6 +14,8 @@ Inimene ei ütle „WTF" ainult loogika pärast. Ta ütleb seda emotsiooni pära
 
 > *Me ei kustuta emotsiooni. Me loome ruumi, kus inimene saab jääda ausaks — enda ja teise suhtes.*
 
+> *Kohtleme kõiki asjaosalisi nagu terveid, täiesti normaalseid inimesi — mitte patsiente, mitte juhtumeid.*
+
 ---
 
 ## Turvalisus, mõistmine ja paranemis-teadlikkus
@@ -24,7 +26,9 @@ Operatsiooni koordinaator Renee Aluste sõnastab minimaalse standardi:
 
 > *„**Paranemine algab sellel hetkel, kui sa mõistad, et sa pole katki olnudki.**"*
 
-Me ei paranda katkist inimest. Me loome ruumi, kus inimene avastab, et ta **oli terviklik juba algusest** — liiga kaua kandis koormust, mida keegi teine ei näinud.
+> *„**Kohtleme kõiki asjaosalisi nagu terveid, täiesti normaalseid inimesi.**"*
+
+Me ei paranda katkist inimest. Me kohtleme igaüht — kodanikku, partnerit, skeptikut, demomeest — **nagu terve, täiesti normaalne inimene**. Inimene avastab, et ta **oli terviklik juba algusest**.
 
 See täiendab Lisa P valideerimist. Valideerimine on **samm**. Paranemis-teadlikkus on **keskkond**.
 

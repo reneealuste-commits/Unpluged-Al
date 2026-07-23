@@ -4,6 +4,8 @@ Eesti keeles koostatud viiepunktiline **paranemis-teekond** (OPORD-formaat) vast
 
 > *Paranemine algab sellel hetkel, kui sa mõistad, et sa pole katki olnudki.*
 
+> *Kohtleme kõiki asjaosalisi nagu terveid, täiesti normaalseid inimesi.*
+
 ## Failid
 
 | Fail | Kirjeldus |

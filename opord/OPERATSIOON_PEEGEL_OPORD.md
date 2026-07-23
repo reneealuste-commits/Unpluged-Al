@@ -11,6 +11,8 @@
 
 > *„**Paranemine algab sellel hetkel, kui sa mõistad, et sa pole katki olnudki.**" — Renee Aluste*
 
+> *„**Kohtleme kõiki asjaosalisi nagu terveid, täiesti normaalseid inimesi.**" — operatsiooni põhireegel*
+
 ---
 
 > *„Seltsimehed. Kodanikud. Liitlased.*
@@ -62,12 +64,15 @@ Renee Aluste sõnastab operatsiooni minimaalse standardi:
 
 > *„**Paranemine algab sellel hetkel, kui sa mõistad, et sa pole katki olnudki.**"*
 
-Me ei **paranda katkist** inimest. Me loome ruumi, kus inimene avastab, et ta **oli terviklik juba algusest** — liiga kaua kandis koormust, mida keegi teine ei näinud.
+> *„**Kohtleme kõiki asjaosalisi nagu terveid, täiesti normaalseid inimesi.**"*
+
+Me ei **paranda katkist** inimest. Me kohtleme igaüht — kodanikku, partnerit, skeptikut, demomeest, võrgustiku liiget — **nagu terve, täiesti normaalne inimene**. Mitte patsient. Mitte projekt. Mitte „case". Inimene avastab, et ta **oli terviklik juba algusest** — liiga kaua kandis koormust, mida keegi teine ei näinud.
 
 See ei ole erisoov. See on **operatsiooniline nõue**:
 
 | Põhimõte | Mida see tähendab |
 |----------|-------------------|
+| **Terve ja normaalne** | Iga asjaosaline on **terve, täiesti normaalne inimene** — enne kui ta on „probleem", „ohver" või „juhtum" |
 | **Turvalisus** | Füüsiline ja emotsionaalne — inimene ei pea kaitsepositsioonis vestlema |
 | **Keha enne mõistust** | Inimene reageerib **pre-verbaalselt** (van der Kolk) — alguses räägid kehaga, mitte loogikaga |
 | **Mõistmine** | Kuulamine enne õpetamist; valideerimine enne lahendust (Lisa P) |
@@ -682,7 +687,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 
 ### Renee Aluste rühm (koordineerimisüksus)
 1. **1-1 vestlused** — prioriteet: **paranemis-teadlikult**, turvalisuses ja mõistmises (läbipõlemise vastu; vt V-formatsioon Lisa I). Tööriist: **spordikommentaator** (Lisa P).
-2. **Turvalisuse standard** — kõik kontaktid: turvalisus → spordikommentaator → valideeri → ausus → valik (Lisa P). Side hääl ja GOTWA: **Lisa Q**.
+2. **Turvalisuse standard** — kõik kontaktid: turvalisus → spordikommentaator → valideeri → ausus → valik (Lisa P). Side hääl ja GOTWA: **Lisa Q**. **Kohtle iga asjaosalist nagu terve, täiesti normaalset inimest.**
 3. Sõnumite koordineerimine ja levitamine.
 4. Combat Ready koolituste korraldamine võrgustikule.
 5. Isiklike lugude jagamine (autentsus).

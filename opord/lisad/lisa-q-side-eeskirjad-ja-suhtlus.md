@@ -112,10 +112,13 @@ Vaikimisi **mänguline ja naljakas**. Kui olukord nõuab — vaheta režiimi. Ä
 
 ## 2. Vaikimisi austav keel (iga inimese SOP)
 
-See kehtib **kõigile** — demomehed, koordinaatorid, partnerid. See ei ole vormistus. See on **lugupidamine**.
+> *„**Kohtleme kõiki asjaosalisi nagu terveid, täiesti normaalseid inimesi.**"*
+
+See kehtib **kõigile** — demomehed, koordinaatorid, partnerid, kodanikud, skeptikud. See ei ole vormistus. See on **lugupidamine**. Me ei kohtle kedagi patsiidina, juhtumina ega „parandamisvajajana".
 
 | Põhimõte | Praktikas |
 |----------|-----------|
+| **Terve ja normaalne** | Iga inimene on **terve, täiesti normaalne** — enne kui ta on „probleem" või „case" |
 | **Teietamine** | Vaikimisi **Teie** — eriti esimene kontakt, vanemad inimesed, võõrad, ametlikum kontekst |
 | **Austav kehakeel** | Sama kõrgusel — istu, kui teine istub; ära seisa ülevalt alla |
 | **Mitte üleolev** | Ei õpeta alandavalt; ei naera kellegi valu üle; ei kiirusta „parandamisega" |
@@ -208,6 +211,7 @@ Operatsioonis kasutame ingliskeelset mäluabi **GOTWA** (5 punkti). Iga kord, ku
 ## 6. Kiirjuhend (üks lehekülg)
 
 ```
+PÕHIREEGEL: Kohtle kõiki asjaosalisi nagu terveid, täiesti normaalseid inimesi
 PARETO:  6 tööriisti = 80% tulemust (turvalisus · spordikommentaator · GOTWA · hääl · teietamine · valideerimine)
 HÄÄL:    Põhi = mänguline | ALT = FM-DJ | Kontingents = selge | Häda = vaikus, pööra ära
 KEEL:    Teietamine · austav keha · mitte üleolev

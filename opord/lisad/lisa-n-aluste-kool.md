@@ -23,6 +23,8 @@ Iga SOK liige on **demomees** — mitte teooria õpetaja, vaid inimene, kes elab
 
 > *Me ei ehita armastust emotsioonidega. Me kujundame seda käitumisega — austuse ja lugupidamise keeles.*
 
+> *Kohtleme kõiki asjaosalisi nagu terveid, täiesti normaalseid inimesi.*
+
 Kasuta seda nimekirja iga päev — üks punkt või kõik viis:
 
 | # | Põhimõte | Küsimus endale |

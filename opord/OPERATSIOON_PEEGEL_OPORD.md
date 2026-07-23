@@ -1,11 +1,13 @@
 # OPERATSIOON „PEEGEL“
-## Lahingukäsk — Kõrgetasemeline vastutegevus psühholoogilisele mõjutamisele
+## Traumateadlik teekond — Kõrgetasemeline vastutegevus psühholoogilisele mõjutamisele
 
 **Klassifikatsioon:** Avalik — Eesti rahvale  
 **Kuupäev:** 22. juuli 2026  
 **Käsu andja:** Renee Aluste, operatsiooni koordinaator  
 **Operatsiooni tase:** Strateegiline–taktikaline (mitmetasandiline)  
-**Viide:** Maakaitse käsiraamatu viiepunktiline lahingukäsu formaat (opiq.ee)
+**Viide:** Maakaitse käsiraamatu viiepunktiline OPORD-formaat (opiq.ee)
+
+> *Struktuur järgib OPORD-i (viis punkti: olukord, ülesanne, täideviimine, teenindus, juhtimine). Inimestele suunatud nimetus on **traumateadlik teekond** — mitte sõjaline käsk. Traumatiseeritud inimene reageerib pre-verbaalselt; sõna „käsk" võib triggerdada kaitsepositsiooni (Lisa P, van der Kolk).*
 
 ---
 
@@ -920,7 +922,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | **III (kütus)** | Uni 7–8h; liikumine 30 min/päev; **toit** — eelistada täisväärtuslikku, vähe töödeldud toitu (kohalik kala, liha, rasv koos); enne suuri dieedimuutusi perearst. Vt Lisa H (Renee saamise lugu, Stefanssoni viide) |
 | **V (laskemoon)** | Sõnad — kasuta neid mõistlikult. Iga sõnum on lask |
 | **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber; [narko.ee](https://www.narko.ee) chatbot/tugiliin (Renee alustas siit); [ohvriabi.ee](https://ohvriabi.ee) — koduvägivalla korral kuni 940 € psühholoogilise abi toetus 2 aasta jooksul (sh **EMDR** sessioonid); Märt Avandi lugu YouTube'is: [watch?v=nNuHGdQdrZY](https://www.youtube.com/watch?v=nNuHGdQdrZY) |
-| **Muu** | „Ava oma Silmad" taskuhääling; Combat Ready koolitused; Combat Ready Her Way; Laste Supermängud; see lahingukäsk |
+| **Muu** | „Ava oma Silmad" taskuhääling; Combat Ready koolitused; Combat Ready Her Way; Laste Supermängud; see traumateadlik teekond |
 
 ## c. Meditsiiniline evakueerimine
 - Depressiooni või kriisi korral: pöörduda kohe spetsialisti poole. **Lisa H** — kiirjuhend isale kriisis (loe Lisa F esimesena).
@@ -1316,7 +1318,7 @@ Traumateadlik tugi võrgustikus: **Kert Grünberg**, **Jure Biechonski**, **Prii
 
 **K: Kas Combat Ready teenib selle pealt raha? Kas see on turundus?**
 
-**V:** Combat Ready on ettevõte, mis pakub juhtimiskoolitusi. Jah, nad pakuvad koolitusi ka selle võrgustiku raames — nagu iga teine professionaalne organisatsioon. Aga operatsiooni tuum ei ole müük. Tuum on sõnum: võta vastutus. Kui sa ei taha koolitust osta, saad ikkagi kasutada seda lahingukäsku tasuta. See PDF, see sõnum — see on rahvale, mitte klientidele.
+**V:** Combat Ready on ettevõte, mis pakub juhtimiskoolitusi. Jah, nad pakuvad koolitusi ka selle võrgustiku raames — nagu iga teine professionaalne organisatsioon. Aga operatsiooni tuum ei ole müük. Tuum on sõnum: võta vastutus. Kui sa ei taha koolitust osta, saad ikkagi kasutada seda teekonda tasuta. See PDF, see sõnum — see on rahvale, mitte klientidele.
 
 *Minu küsimus sulle: Mida sina selle teadmisega täna teed — mitte homme?*
 ---
@@ -1367,7 +1369,7 @@ Traumateadlik tugi võrgustikus: **Kert Grünberg**, **Jure Biechonski**, **Prii
 
 **K: Mida ma täna, kohe, tegema peaksin?**
 
-**V:** Kolm asja. Esimene: loe see lahingukäsk lõpuni. Teine: vali üks harjumus — näiteks 15 minutit vaikust või üks ekraanivaba õhtu nädalas. Kolmas: räägi ühele inimesele, keda usaldad, mida sa mõtled. Alusta väikesest. Järjepidevus võidab.
+**V:** Kolm asja. Esimene: loe see teekond lõpuni. Teine: vali üks harjumus — näiteks 15 minutit vaikust või üks ekraanivaba õhtu nädalas. Kolmas: räägi ühele inimesele, keda usaldad, mida sa mõtled. Alusta väikesest. Järjepidevus võidab.
 
 *Minu küsimus sulle: Mida sina selle teadmisega täna teed — mitte homme?*
 ---
@@ -1475,9 +1477,9 @@ Traumateadlik tugi võrgustikus: **Kert Grünberg**, **Jure Biechonski**, **Prii
 *Minu küsimus sulle: Kas sa tervitad oma naabruses kedagi, kes on sinust erinev?*
 ---
 
-**K (Vaimse tervise vabatahtlik, Pealinna):** Kas te ei trivialiseeri depressiooni, öeldes „võta lihtsalt vastutus"? Inimene vajab mõnikord arsti, mitte lahingukäsku.
+**K (Vaimse tervise vabatahtlik, Pealinna):** Kas te ei trivialiseeri depressiooni, öeldes „võta lihtsalt vastutus"? Inimene vajab mõnikord arsti, mitte ühte PDF-i.
 
-**V:** Absoluutselt. Me ei asenda meditsiini. Renee Aluste räägib avameelselt, et ta võttis ravimeid ja pöördus abi poole — see päästis ta elu. Lahingukäsk on raamistik, mitte retsept. Kui sa oled põhjas — helista 655 8088 (Eluliin), 116 123 (kriisiabi) või pöördu arsti poole. Vastutus tähendab ka seda, et otsid abi, kui seda vajad. See on tugevus.
+**V:** Absoluutselt. Me ei asenda meditsiini. Renee Aluste räägib avameelselt, et ta võttis ravimeid ja pöördus abi poole — see päästis ta elu. Traumateadlik teekond on raamistik, mitte retsept. Kui sa oled põhjas — helista 655 8088 (Eluliin), 116 123 (kriisiabi) või pöördu arsti poole. Vastutus tähendab ka seda, et otsid abi, kui seda vajad. See on tugevus.
 
 *Minu küsimus sulle: Kas sa oled täna aus oma vaimse seisundiga — iseendale?*
 ---
@@ -1793,7 +1795,7 @@ Steiger ei paku väljamõeldud mudeleid. Ta kirjeldab igapäevast juhtimist, kus
 **Keel:** eesti (tõlge Strong Father Series alusel)  
 **Seotud:** Operatsioon „Peegel" — rahva taseme õppematerjal
 
-Need seitse köidet täiendavad käesolevat lahingukäsku. Iga köide on iseseisvalt loetav; koos moodustavad progressiivse tee manipulatsioonist teadlikkuse, vastutuseni, pere tugevdamiseni ja kogukonna juhtimiseni.
+Need seitse köidet täiendavad käesolevat traumateadlikku teekonda. Iga köide on iseseisvalt loetav; koos moodustavad progressiivse tee manipulatsioonist teadlikkuse, vastutuseni, pere tugevdamiseni ja kogukonna juhtimiseni.
 
 | Lisa | Köide | Fail | Teema |
 |------|-------|------|-------|

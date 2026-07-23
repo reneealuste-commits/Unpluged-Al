@@ -230,7 +230,7 @@ def add_header_footer(canvas, doc):
     canvas.line(2 * cm, A4[1] - 1.5 * cm, A4[0] - 2 * cm, A4[1] - 1.5 * cm)
     canvas.setFont("Helvetica-Bold", 8)
     canvas.setFillColor(colors.HexColor("#1a3a2a"))
-    canvas.drawString(2 * cm, A4[1] - 1.2 * cm, "OPERATSIOON PEEGEL — LAHINGUKÄSK (OPORD)")
+    canvas.drawString(2 * cm, A4[1] - 1.2 * cm, "OPERATSIOON PEEGEL — TRAUMATEADLIK TEEKOND (OPORD)")
     canvas.drawRightString(A4[0] - 2 * cm, A4[1] - 1.2 * cm, "AVALIK — EESTI RAHVALE")
     canvas.setFont("Helvetica", 7)
     canvas.drawString(2 * cm, 1 * cm, "22. juuli 2026 | Renee Aluste, operatsiooni koordinaator")

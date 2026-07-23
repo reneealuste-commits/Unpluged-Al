@@ -1,6 +1,6 @@
 # Operatsioon „Peegel" — OPORD
 
-Eesti keeles koostatud viiepunktiline lahingukäsk (OPORD) vastutegevuseks Vene psühholoogilisele mõjutamisele.
+Eesti keeles koostatud viiepunktiline **traumateadlik teekond** (OPORD-formaat) vastutegevuseks psühholoogilisele mõjutamisele.
 
 ## Failid
 

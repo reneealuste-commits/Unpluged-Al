@@ -31,6 +31,8 @@ Renee Aluste on Operatsioon „Peegel" eestvedaja ja peamine sõnumitooja. Ta ü
 
 Ta ei õpeta teooriat. Ta on elanud läbi selle, mida õpetab.
 
+**Kui keegi kahtleb või küsib „kes sa oled ja mis on taust":** loe **Lisa R** — `lisa-r-kes-ma-olen-ja-taust.md` (CV, teenistus, koolitused, avalikud meedialingid).
+
 ---
 
 ## Roll operatsioonis
@@ -124,6 +126,7 @@ See oli eluõppetund, mis jõudis Operatsiooni „Peegel" tuuma: dominants ei t�
 | Lisa F | `raamat-06-murra-ring.md` | Depressioon, taastumine |
 | Lisa G | `raamat-07-juhi-ja-voida.md` | Kogukonna juhtimine |
 | Lisa H | `lisa-h-kiirjuhend-kriisis-isale.md` | Kiirjuhend kriisis |
+| Lisa R | `lisa-r-kes-ma-olen-ja-taust.md` | Taust ja tõendid (kahtlus) |
 | Lisa O | `lisa-o-vaktsineerimine.md` | Vaktsineerimine — uuringud, aus hinnang |
 | Peamine käsk | `OPERATSIOON_PEEGEL_OPORD.md` | Täielik OPORD |
 

@@ -205,6 +205,15 @@ Lisa Q lisab: **GOTWA**, **mänguline hääl**, **teietamine** — koos kuus tö
 | **Vastus** | See on kodanikualgatus — vastutegevus infosõjale, mitte sõda relvadega. 60 sekundit: loe OPORD algust **„MIKS? AJEND. EESMÄRK."** Sa ei pea kedagi tundma, et alustada. |
 | **Küsimus** | *Mis sind täna kõige rohkem segab — vorm, nimed või sõnum?* |
 
+#### A1b. „Kes sa oled? Mis on su taust?"
+
+| | |
+|---|---|
+| **Emotsioon** | Kahtlus, legitiimsuse kontroll — „miks peaksin sind uskuma?" |
+| **Valideerimine** | *Loogiline küsida, kes räägib ja mis on ta taust. Sa ei pea kedagi usaldama ilma fakte kontrollimata.* |
+| **Vastus** | Lühike fakt + üks tõend: Renee Aluste — Kaitsevägi, Kaitseliit, Ranger School, Combat Ready. Täielik CV, koolituste maht ja meedialingid: **Lisa R**. Isiklik lugu: **Lisa H** / profiil. |
+| **Küsimus** | *Mida sa kontrollisid viimati ise — enne kui otsustasid, et keegi on usaldusväärne?* |
+
 #### A2. „Sa oled hulluks läinud / see on liiga isiklik"
 
 | | |

@@ -351,6 +351,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 - **Läbipõlemise õppetund:** Umbes **kolm aastat** tegi ta Sõdurioskuste kursuseid efektiivselt ja suurelt — tulemuseks olid **suured läbipõlemise ilmingud**. Operatsioon „Peegel" peab seda seekord tegema **targemini**: alusta **1-1 vestlustega** niipea kui võimalik, mitte ainult mass-koolitusega. Esimene samm on tehtud — **Rene Toomsega** on suhtlus alustatud; ukse lahti tehtud. (Vt V-formatsioon: Lisa I — üks ei veda igavesti.)
 - **Isiklik ajend (ausalt):** 37 aastat domineeriva juhtimise ja vägivalla all (*väikena ei kiusatud* — aga leivale suud, kõik ära, vastu tahtmist). Kolm last võõrandatud (Lily Käsper 14a, Rene Tilga 6a, Henry Käsper 11a). Oli ise kooli kiusaja. Taastus: Engel, Voss, van der Kolk, EMDR. Lahendus: **inimesekeskne juhtimine** (Kert + Steiger). Vt Q&A IV.
 - **Miks ta on siin:** Ta ei õpeta teooriat — ta on elanud läbi selle, mida õpetab. „Ma ei manipuleeri sind nõrkuseks. Ma aitan sul saada tugevaks."
+- **Kui kahtled — kes ta on:** **Lisa R** — `lisa-r-kes-ma-olen-ja-taust.md` (CV, teenistus, koolitused, meedia lingid)
 
 #### Priit Lilleväli — Rahva tase, juhtimis- ja psühholoogiline tugi
 
@@ -939,6 +940,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | **„Juhul kui…" (isa kriisis)** | Alusta Lisast F (*Murra ring*), siis A, D, E. Kiirjuhend: Lisa H. Kriis: Eluliin 655 8088. |
 | **„Juhul kui…" (juhtimine)** | Loe Lisa I (Steiger 1997). Küsi: kas ma juhin inimest või kontrollin teda? Anna inimesele **roll + eesmärk + konkreetne juhis** — siis ta tihti teebki seda. **V-formatsioon:** üks ei veda igavesti — tugevaim alustab, otsib asendajat, vahetab rolli. |
 | **„Juhul kui…" (keegi ütleb WTF)** | Loe **Lisa P** — **spordikommentaator** enne vastust: „Ma märkan, et see teeb mind kahtlevaks." |
+| **„Juhul kui…" (kes sa oled / kahtlus taustas)** | **Lisa R** — lühike fakt, üks meedialink, ära müü. Täielik profiil: `renee-aluste-profiil.md` |
 | **„Juhul kui…" (takistus / konflikt)** | Lisa P — 5 sammu: turvalisus → spordikommentaator → valideeri → ausus → valik. Ära ütle „ära ole tundlik". |
 | **„Juhul kui…" (trauma / trigger)** | **Keha enne mõistust** (van der Kolk): turvalisus → rahunemine → alles siis vestlus. Suust tulev sõna on signaal, mitte alati tõde. Suuna: Kert Grünberg, Priit Lilleväli, Kaia Kapsta-Forrester, Lisa H/F, EMDR. Inimene kontrollib tempot. |
 | **„Juhul kui…" (identiteet)** | Loe Lisa M — Robbinsi 5 sammu, manifest peegli ees, kodaniku vanne. LIHTSUS: üks plaan, üks tegu. |
@@ -960,7 +962,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Klass | Sisu |
 |-------|------|
 | **I (toit)** | Soe pere eine 1× nädalas — ilma ekraanideta |
-| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet), **Lisa N (Aluste_kool)**, **Lisa O (vaktsineerimine)**; Alar Ojastu *Ratsionaalne emotsionaalsus*; Tiit Trofimov *Lõpp on algus*; Liivamägi/Talpsepp/Vaarmets *Eraisiku rahandus*; Stefansson *Not by Bread Alone* / *The Fat of the Land*; McClellan & Du Bois (1929–1930, Bellevue lihadieet); „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee); Gordon (sinamina.ee); Imelised aastad (pk.ee); Papsid.ee; Starfish Academy; BMI Institute; BNI Eesti; Äripäev Investor Toomas (aripaev.ee/raadio); Rahakratt (rahakratt.rahajutud.ee); Marko Oolo Exceli tööriistad (oolomarko.ee); Blondcast (tasku.delfi.ee); **Sõduri käsiraamat + Kaitseväe sisemäärustik** (mil.ee) |
+| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet), **Lisa N (Aluste_kool)**, **Lisa O (vaktsineerimine)**, **Lisa P (takistused)**, **Lisa Q (side)**, **Lisa R (taust / kahtlus)**; Alar Ojastu *Ratsionaalne emotsionaalsus*; Tiit Trofimov *Lõpp on algus*; Liivamägi/Talpsepp/Vaarmets *Eraisiku rahandus*; Stefansson *Not by Bread Alone* / *The Fat of the Land*; McClellan & Du Bois (1929–1930, Bellevue lihadieet); „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee); Gordon (sinamina.ee); Imelised aastad (pk.ee); Papsid.ee; Starfish Academy; BMI Institute; BNI Eesti; Äripäev Investor Toomas (aripaev.ee/raadio); Rahakratt (rahakratt.rahajutud.ee); Marko Oolo Exceli tööriistad (oolomarko.ee); Blondcast (tasku.delfi.ee); **Sõduri käsiraamat + Kaitseväe sisemäärustik** (mil.ee) |
 | **III (kütus)** | Uni 7–8h; liikumine 30 min/päev; **toit** — eelistada täisväärtuslikku, vähe töödeldud toitu (kohalik kala, liha, rasv koos); enne suuri dieedimuutusi perearst. Vt Lisa H (Renee saamise lugu, Stefanssoni viide) |
 | **V (laskemoon)** | Sõnad — kasuta neid mõistlikult. Iga sõnum on lask |
 | **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber; [narko.ee](https://www.narko.ee) chatbot/tugiliin (Renee alustas siit); [ohvriabi.ee](https://ohvriabi.ee) — koduvägivalla korral kuni 940 € psühholoogilise abi toetus 2 aasta jooksul (sh **EMDR** sessioonid); Märt Avandi lugu YouTube'is: [watch?v=nNuHGdQdrZY](https://www.youtube.com/watch?v=nNuHGdQdrZY) |
@@ -1098,6 +1100,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Vaktsineerimine:** Lisa O — `lisad/lisa-o-vaktsineerimine.md` (uuringud, ühiskond, konspiratsioonid, aus hinnang)
 - **Takistused ja valideerimine:** Lisa P — `lisad/lisa-p-takistused-ja-valideerimine.md` (spordikommentaator, mis töötab / mis mitte, emotsioonide nägemine)
 - **Side eeskirjad:** Lisa Q — `lisad/lisa-q-side-eeskirjad-ja-suhtlus.md` (hääl, GOTWA, austav keel, demomeeste igapäevane standard)
+- **Kes ma olen (kahtlus / taust):** Lisa R — `lisad/lisa-r-kes-ma-olen-ja-taust.md` (CV, teenistus, koolitused, meedia tõendid)
 - **Koordinaatori profiil:** `lisad/renee-aluste-profiil.md` (eraldi leht)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
 - **Signaal OPERATSIOON TÄIDETUD:** Kui ühiskondlikud mõõdikud näitavad paranemist — üksikemade arv langeb, kiusamine väheneb, inimesed räägivad vastutusest.
@@ -1191,6 +1194,23 @@ Kui see kõlab liiga pikalt — loe dokumendi alguses sektsiooni **„MIKS? AJEN
 ---
 
 ## II. Skeptikud ja kriitikud
+
+**K: Kes sa oled? Mis on su taust? Miks peaksin sind uskuma?**
+
+**V (Renee Aluste):** Aus küsimus — ja õige, et sa küsid.
+
+- **Kes:** Renee Aluste. Operatsioon „Peegel" koordinaator.
+- **Taust:** Eesti Kaitsevägi 2008–2018 (erioperatsioonide grupp — operaator, sniprigrupi ülem, jaoülem). Kaitseliit Harju malev — kompaniiülem ja instruktor; SOK kursuste planeerimine ja läbiviimine. USA Army Ranger School (klass 07-22, 2022). Combat Ready juhtimisinstruktor alates 2023. Kaitseväe Ühendatud Õppeasutused — sõjaväeline juhtimine (2014).
+- **Mida ma ei ole:** Riigi esindaja. Erakonna esindaja. Ametlik Kaitseväe või Kaitseliidu sõnum.
+- **Tõendid:** Delfi Forte, Postimees, Kaitse Kodu, Combat Ready blogi, podcastid — kõik avalikud lingid **Lisa R-s**.
+
+Ma ei palu sul uskuda mind. Ma palun kontrollida. Kui faktid ei klapi — lahku rahus. Kui klapi — otsusta ise, kas see operatsioon on sinu jaoks.
+
+*Täielik CV-kokkuvõte, koolituste maht ja meedialingid: **Lisa R** — `lisad/lisa-r-kes-ma-olen-ja-taust.md`.*
+
+*Minu küsimus sulle: Mida sa kontrollisid viimati ise — enne kui sa otsustasid, et keegi on usaldusväärne või mitte?*
+
+---
 
 **K: See kõlab nagu järjekordne vandenõuteooria. Kuidas te tõestate, et Venemaa meid manipuleerib?**
 

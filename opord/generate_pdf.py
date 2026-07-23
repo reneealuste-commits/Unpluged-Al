@@ -42,6 +42,7 @@ BOOK_FILES = [
     "lisa-o-vaktsineerimine.md",
     "lisa-p-takistused-ja-valideerimine.md",
     "lisa-q-side-eeskirjad-ja-suhtlus.md",
+    "lisa-r-kes-ma-olen-ja-taust.md",
     "renee-aluste-profiil.md",
 ]
 

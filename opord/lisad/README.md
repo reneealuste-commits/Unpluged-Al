@@ -25,6 +25,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | O | [lisa-o-vaktsineerimine.md](lisa-o-vaktsineerimine.md) | **Vaktsineerimine** — uuringud, ühiskond, konspiratsioonid, aus hinnang |
 | P | [lisa-p-takistused-ja-valideerimine.md](lisa-p-takistused-ja-valideerimine.md) | **Takistused ja valideerimine** — spordikommentaator, paranemis-teadlikkus, turvalisus |
 | Q | [lisa-q-side-eeskirjad-ja-suhtlus.md](lisa-q-side-eeskirjad-ja-suhtlus.md) | **Side eeskirjad** — hääl, GOTWA (KOP5), austav keel, **Pareto 80/20**, demomehed |
+| R | [lisa-r-kes-ma-olen-ja-taust.md](lisa-r-kes-ma-olen-ja-taust.md) | **Kes ma olen? Taust ja tõendid** — CV, teenistus, koolitused, meedia (kahtlus) |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
 ---
@@ -52,7 +53,7 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 
 **Vaktsineerimine:** Lisa O (uuringud, ühiskond, konspiratsioonid, aus hinnang — Sotsiaalkaitse / Terviseamet / TAI).
 
-**Koordinaator:** [renee-aluste-profiil.md](renee-aluste-profiil.md).
+**Koordinaator / kahtlus taustas:** Lisa R (CV, meedia tõendid) + [renee-aluste-profiil.md](renee-aluste-profiil.md).
 
 ---
 

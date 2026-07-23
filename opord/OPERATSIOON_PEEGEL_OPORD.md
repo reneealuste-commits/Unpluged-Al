@@ -7,6 +7,10 @@
 **Operatsiooni tase:** Strateegiline–taktikaline (mitmetasandiline)  
 **Viide:** Maakaitse käsiraamatu viiepunktiline OPORD-formaat (opiq.ee)
 
+**Allalaadimine (PDF):** [github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_OPORD.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_OPORD.pdf)  
+**Allalaadimine (Markdown):** [github.com/.../OPERATSIOON_PEEGEL_OPORD.md](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_OPORD.md)  
+**Repo / PR:** [github.com/reneealuste-commits/Unpluged-Al/pull/1](https://github.com/reneealuste-commits/Unpluged-Al/pull/1)
+
 > *Struktuur järgib OPORD-i (viis punkti: olukord, ülesanne, täideviimine, teenindus, juhtimine). Inimestele suunatud nimetus on **paranemis-teekond** — mitte sõjaline käsk. Sõna „käsk" võib triggerdada kaitsepositsiooni (Lisa P, van der Kolk).*
 
 > *„**Paranemine algab sellel hetkel, kui sa mõistad, et sa pole katki olnudki.**" — Renee Aluste*

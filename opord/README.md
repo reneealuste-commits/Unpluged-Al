@@ -8,6 +8,14 @@ Eesti keeles koostatud viiepunktiline **paranemis-teekond** (OPORD-formaat) vast
 
 > *Kui inimesel on roll, eesmärk ja konkreetsed juhised — ta tihti teebki seda.*
 
+## Allalaadimine
+
+| Formaat | Link |
+|---------|------|
+| **PDF** (soovitatav) | [Laadi alla OPERATSIOON_PEEGEL_OPORD.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_OPORD.pdf) |
+| **Markdown** | [OPERATSIOON_PEEGEL_OPORD.md](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_OPORD.md) |
+| **Pull request** | [PR #1](https://github.com/reneealuste-commits/Unpluged-Al/pull/1) |
+
 ## Failid
 
 | Fail | Kirjeldus |

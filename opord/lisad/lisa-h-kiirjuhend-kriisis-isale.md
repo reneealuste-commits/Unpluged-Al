@@ -113,6 +113,7 @@ Lääne arstid ei uskunud, et inimene saab ainult lihast elada. **1928–1929** 
 - McClellan WS, Du Bois EF — *Prolonged Meat Diets With a Study of Kidney Function and Ketosis*, 1930 · [PDF](https://nutrire.ca/documents/Stefansson_study.pdf)
 - Lieb CW — *The Effects on Human Beings of a Twelve Months' Exclusive Meat Diet*, 1929 · [PDF](https://gwern.net/doc/biology/1929-lieb.pdf)
 - Stefansson — *Not by Bread Alone* / *The Fat of the Land*
+- **Täielik allikate pakett + avatud meele küsimused:** **Lisa U** — `lisad/lisa-u-rasv-avatud-meele-uuring.md` (PDF lingid Drive'i jaoks, 30 eneseanalüüsi küsimust)
 
 > *Me ei ehita armastust emotsioonidega. Me kujundame seda käitumisega — austuse ja lugupidamise keeles.*  
 > Sama kehtib keha kohta: hoolitsus toitumise eest on armastus, mis on nähtav.

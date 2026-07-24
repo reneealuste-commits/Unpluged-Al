@@ -47,6 +47,7 @@ BOOK_FILES = [
     "lisa-t-valitsuse-ipb-analuus.md",
     "lisa-u-rasv-avatud-meele-uuring.md",
     "lisa-v-uni-miks-me-magame.md",
+    "lisa-w-montessori-beebi-austus-algusest.md",
     "renee-aluste-profiil.md",
 ]
 

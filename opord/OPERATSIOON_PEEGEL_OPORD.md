@@ -668,7 +668,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 - **Roll operatsioonis:** Üleriigiline haridusvõrgustik — lapse **õppija-identiteet**, autonoomia ja austus lapse vastu algab varakult (Lisa M).
 - **Taust:** **Eesti Montessori Ühing** ([montessorieesti.ee](https://www.montessorieesti.ee)) koondab AMI juhendajatega lastehoiud, lasteaiarühmad ja kooliklassid üle Eesti. **Eesti Montessori Instituut** ([mariamontessori.ee](https://mariamontessori.ee)) koolitab AMI juhendajaid. Deviss: *„Aita mind seda ise teha!"* — 4 AMI kooliklassi (RaM Kool, Mahtra PK, Keila Kool, Tartu Forselius); lasteaiarühmad Harjumaal, Tartus, Pärnus, Haapsalus, Nõos ja mujal.
 - **Võtmeisikud:** **Ruth Maria Roosi-Ott** ja **Kerli-Kristi Allikvee** (AMI juhendajad, instituudi juhatus).
-- **Miks siin:** Montessori õpetab last **ise mõtlema** — mitte kuuletuma algoritmile. See on vastupanuvõime enne nutitelefoni. Kattub operatsiooni põhireegliga: terve, normaalne inimene algusest. Täielik nimekiri ja piirkondlikud MTÜ-d: **Lisa J §5**.
+- **Miks siin:** Montessori õpetab last **ise mõtlema** — mitte kuuletuma algoritmile. See on vastupanuvõime enne nutitelefoni. **Beebi eas** (0–3): austus algusest — *austus = armastus*, stressivaba vanemlus (**Lisa W**). Kattub operatsiooni põhireegliga: terve, normaalne inimene algusest. Täielik nimekiri ja piirkondlikud MTÜ-d: **Lisa J §5**.
 - **Kontakt:** info@mariamontessori.ee · [montessorieesti.ee/montessori-haridusasutused-eestis](https://www.montessorieesti.ee/montessori-haridusasutused-eestis/)
 
 #### Võrgustiku toetajad (taktikaline tase)
@@ -1099,7 +1099,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Klass | Sisu |
 |-------|------|
 | **I (toit)** | Soe pere eine 1× nädalas — ilma ekraanideta |
-| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet), **Lisa N (Aluste_kool)**, **Lisa O (vaktsineerimine)**, **Lisa P (takistused)**, **Lisa Q (side)**, **Lisa R (taust / kahtlus)**, **Lisa S (kiusamine, aju, trauma)**; Alar Ojastu *Ratsionaalne emotsionaalsus*; Tiit Trofimov *Lõpp on algus*; Liivamägi/Talpsepp/Vaarmets *Eraisiku rahandus*; Stefansson *Not by Bread Alone* / *The Fat of the Land*; McClellan & Du Bois (1929–1930, Bellevue lihadieet); „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee); Gordon (sinamina.ee); Imelised aastad (pk.ee); **Imeline Teadus** 11/2023 (kiusamine); Papsid.ee; Starfish Academy; BMI Institute; BNI Eesti; Äripäev Investor Toomas (aripaev.ee/raadio); Rahakratt (rahakratt.rahajutud.ee); Marko Oolo Exceli tööriistad (oolomarko.ee); Blondcast (tasku.delfi.ee); **Sõduri käsiraamat + Kaitseväe sisemäärustik** (mil.ee) |
+| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet), **Lisa N (Aluste_kool)**, **Lisa O (vaktsineerimine)**, **Lisa P (takistused)**, **Lisa Q (side)**, **Lisa R (taust / kahtlus)**, **Lisa S (kiusamine, aju, trauma)**, **Lisa V (uni, Walker)**, **Lisa W (Montessori beebi)**; Alar Ojastu *Ratsionaalne emotsionaalsus*; Tiit Trofimov *Lõpp on algus*; Liivamägi/Talpsepp/Vaarmets *Eraisiku rahandus*; Stefansson *Not by Bread Alone* / *The Fat of the Land*; McClellan & Du Bois (1929–1930, Bellevue lihadieet); „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee; Davies & Uzodike *The Montessori Baby*, Lisa W); Gordon (sinamina.ee); Imelised aastad (pk.ee); **Imeline Teadus** 11/2023 (kiusamine); Papsid.ee; Starfish Academy; BMI Institute; BNI Eesti; Äripäev Investor Toomas (aripaev.ee/raadio); Rahakratt (rahakratt.rahajutud.ee); Marko Oolo Exceli tööriistad (oolomarko.ee); Blondcast (tasku.delfi.ee); **Sõduri käsiraamat + Kaitseväe sisemäärustik** (mil.ee) |
 | **III (kütus)** | Uni 7–8h; liikumine 30 min/päev; **toit** — eelistada täisväärtuslikku, vähe töödeldud toitu (kohalik kala, liha, rasv koos); enne suuri dieedimuutusi perearst. Vt Lisa H (Renee saamise lugu, Stefanssoni viide) |
 | **V (laskemoon)** | Sõnad — kasuta neid mõistlikult. Iga sõnum on lask |
 | **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber; [narko.ee](https://www.narko.ee) chatbot/tugiliin (Renee alustas siit); [ohvriabi.ee](https://ohvriabi.ee) — koduvägivalla korral kuni 940 € psühholoogilise abi toetus 2 aasta jooksul (sh **EMDR** sessioonid); Märt Avandi lugu YouTube'is: [watch?v=nNuHGdQdrZY](https://www.youtube.com/watch?v=nNuHGdQdrZY) |
@@ -1243,6 +1243,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Valitsuse hetke-analüüs:** Lisa T — `lisad/lisa-t-valitsuse-ipb-analuus.md` (Ranger Handbook, KPI, 13 ministrit, show me the money)
 - **Rasv, Bellevue uuring, avatud meel:** Lisa U — `lisad/lisa-u-rasv-avatud-meele-uuring.md` (PDF allalaadimised, Drive'i kaust, küsimused endale)
 - **Uni, Why We Sleep, ava silmad:** Lisa V — `lisad/lisa-v-uni-miks-me-magame.md` (Matthew Walker, une teadus, 25 küsimust, uni enne ATH-silti)
+- **Montessori beebi, austus algusest:** Lisa W — `lisad/lisa-w-montessori-beebi-austus-algusest.md` (0–3, *austus = armastus*, stressivaba vanemlus)
 - **Koordinaatori profiil:** `lisad/renee-aluste-profiil.md` (eraldi leht)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
 - **Signaal OPERATSIOON TÄIDETUD:** Kui ühiskondlikud mõõdikud näitavad paranemist — üksikemade arv langeb, kiusamine väheneb, inimesed räägivad vastutusest.
@@ -1962,9 +1963,11 @@ Steiger ei paku väljamõeldud mudeleid. Ta kirjeldab igapäevast juhtimist, kus
 
 **K: Mis on Montessori võrgustik ja miks see operatsioonis on?**
 
-**V:** Eestis on **üleriigiline Montessori võrgustik** — AMI juhendajatega lastehoiud, lasteaiarühmad (3–6) ja kooliklassid (6–12) üle Eesti. **Eesti Montessori Ühing** ([montessorieesti.ee](https://www.montessorieesti.ee)) koondab asutused; **Eesti Montessori Instituut** ([mariamontessori.ee](https://mariamontessori.ee)) koolitab juhendajaid. Võtmeisikud: **Ruth Maria Roosi-Ott** ja **Kerli-Kristi Allikvee**. Deviss: *„Aita mind seda ise teha!"* — laps on õppija, mitte tühi nõu. Operatsioonis tähendab see: identiteet ja kriitiline mõtlemine algavad **enne** nutitelefoni. Kooliklassid: RaM Kool, Mahtra PK, Keila Kool, Tartu Forselius. Täielik nimekiri: **Lisa J §5**.
+**V:** Eestis on **üleriigiline Montessori võrgustik** — AMI juhendajatega lastehoiud, lasteaiarühmad (3–6) ja kooliklassid (6–12) üle Eesti. **Eesti Montessori Ühing** ([montessorieesti.ee](https://www.montessorieesti.ee)) koondab asutused; **Eesti Montessori Instituut** ([mariamontessori.ee](https://mariamontessori.ee)) koolitab juhendajaid. Võtmeisikud: **Ruth Maria Roosi-Ott** ja **Kerli-Kristi Allikvee**. Deviss: *„Aita mind seda ise teha!"* — laps on õppija, mitte tühi nõu.
 
-*Minu küsimus sulle: Kas su laps õpib koolis mõtlema — või ainult vastuseid pähe?*
+**Montessori beebi (0–3):** Renee Aluste sõnul olid Montessori beebi materjalid murrangulised: kui beebi koheldakse **austusega** juba vastsündinuna — aeglane hoolitsus, kohalolek, dialoog enne tegu — on tulemus **stressivaba** ja sa saad elu nautida. *Austus = armastus.* See ei nõua kallist lasteaeda: sama põhimõte töötab **kodus**. Täielik juhend: **Lisa W**. Koolid ja sõimerühmad: **Lisa J §5**.
+
+*Minu küsimus sulle: Kas sa kohtled oma last (või tulevast last) inimesena algusest — või alles siis, kui ta oskab vastata?*
 ---
 
 **K: Kes on Aigar Ojaots ja mis on MTÜ Pertinax?**
@@ -2128,6 +2131,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **T** | — | `lisad/lisa-t-valitsuse-ipb-analuus.md` | **Valitsuse hetke-analüüs** — IPB raamistik, KPI/OKR, 13 ministrit, ellujäämisrežiim, tagasiside puudumine |
 | **U** | — | `lisad/lisa-u-rasv-avatud-meele-uuring.md` | **Rasv ja avatud meel** — Bellevue uuring 1928–29, PDF lingid, 30 mõtlemisküsimust; **uurimustöö PDF:** `TOITUMINE_UURIMUSTOO.pdf` |
 | **V** | — | `lisad/lisa-v-uni-miks-me-magame.md` | **Uni** — Matthew Walker *Why We Sleep*; NREM/REM, uni ja aju, müüdid vs faktid, 25 avatud meele küsimust |
+| **W** | — | `lisad/lisa-w-montessori-beebi-austus-algusest.md` | **Montessori beebi** — austus algusest (0–3); *austus = armastus*; stressivaba vanemlus, kodus ja lasteaias |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

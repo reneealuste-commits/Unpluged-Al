@@ -30,6 +30,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | T | [lisa-t-valitsuse-ipb-analuus.md](lisa-t-valitsuse-ipb-analuus.md) | **Valitsuse hetke-analüüs** — IPB, PMESII-PT, 13 ministrit, show me the money |
 | U | [lisa-u-rasv-avatud-meele-uuring.md](lisa-u-rasv-avatud-meele-uuring.md) | **Rasv ja avatud meel** — Bellevue 1928–29; [uurimustöö PDF](../TOITUMINE_UURIMUSTOO.pdf) |
 | V | [lisa-v-uni-miks-me-magame.md](lisa-v-uni-miks-me-magame.md) | **Uni** — Matthew Walker *Why We Sleep*; ava silmad, 25 küsimust, uni enne ATH-silti |
+| W | [lisa-w-montessori-beebi-austus-algusest.md](lisa-w-montessori-beebi-austus-algusest.md) | **Montessori beebi** — austus algusest (0–3); *austus = armastus*; stressivaba vanemlus |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
 ---
@@ -64,6 +65,8 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 **Toitumine ja taastumine:** Lisa U + [TOITUMINE_UURIMUSTOO.pdf](../TOITUMINE_UURIMUSTOO.pdf) (Stefansson, Bellevue uuring).
 
 **Uni (ava silmad):** Lisa V — Matthew Walker *Why We Sleep* (ISBN 978-0-141-9835-6-9); uni enne silti, enne „võta kokku".
+
+**Montessori beebi (austus algusest):** Lisa W — 0–3 aastat; *austus = armastus*; stressivaba vanemlus kodus ja lasteaias (Lisa J §5).
 
 ---
 

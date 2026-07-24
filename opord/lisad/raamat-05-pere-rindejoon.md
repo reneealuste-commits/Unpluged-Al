@@ -17,6 +17,8 @@ Sõjaväes räägime rindejoontest — piiridest, mida sa kaitstad. Operatsioon 
 
 Kui pere on tugev, on laps vastupidavam manipulatsioonile. Kui pere on killustunud, otsib laps tähelepanu ja identiteeti mujalt — sageli internetist, sageli valedest kohtadest.
 
+**Pere rindejoon algab vastsündinust.** Montessori beebi materjalid õpetavad: kui beebi koheldakse **austusega** juba esimestest hetkedest — aeglane hoolitsus, kohalolek, lugupidav keel — on tulemus stressivaba vanemlus ja ruum elu nautimiseks. *Austus = armastus.* Täielik juhend: **Lisa W**.
+
 ---
 
 ## 1. peatükk — Miks pere on sihtmärk

@@ -209,12 +209,12 @@ Identiteet ei kasva vaakumis. Need inimesed ja organisatsioonid aitavad perel, l
 
 ### Eesti Montessori võrgustik — lapse identiteet
 
-*Täielik nimekiri koolidest ja lasteaedadest: **Lisa J §5**.*
+*Täielik nimekiri koolidest ja lasteaedadest: **Lisa J §5**. Montessori beebi (0–3), austus algusest: **Lisa W**.*
 
 - **Eesti Montessori Instituut** (mariamontessori.ee) — AMI juhendajate koolitus, kvaliteetne haridus.
 - **Eesti Montessori Ühing** (montessorieesti.ee) — võrgustik üle Eesti alates 2018.
 - **Võtmeinimesed:** Ruth Maria Roosi-Ott, Kerli-Kristi Allikvee (AMI juhendajad, instituudi juhatus); Jaanika Müürsepp, Janell Assmann (projektid).
-- **Roll operatsioonis:** Lapse autonoomia, õppija roll, austus lapse vastu — identiteet algab lapsepõlvest.
+- **Roll operatsioonis:** Lapse autonoomia, õppija roll, austus lapse vastu — identiteet algab **vastsündinuna** (Lisa W: *austus = armastus*).
 - **Ülesanne:** Toetada peresid ja koole, kus laps ei ole tühi nõu, vaid inimene, kes õpib ise mõtlema.
 
 ### Gordoni perekool — MTÜ Perekoolitusühing Sina ja Mina

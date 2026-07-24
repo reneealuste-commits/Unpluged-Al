@@ -377,6 +377,8 @@
 
 ### Montessori sõimerühmad (0–3 vanuserühm)
 
+> **Lisa W** — Montessori beebi: austus algusest. Renee Aluste sõnul olid Montessori beebi materjalid murrangulised: *kui beebi koheldakse austusega juba vastsündinuna, on tulemus stressivaba — ja sa saad elu nautida. Austus = armastus.* Täielik juhend kodus ja lasteaias: `lisa-w-montessori-beebi-austus-algusest.md`.
+
 | Asutus | Asukoht |
 |--------|---------|
 | Montessori Maja lastehoid | Tallinn, Pirita |
@@ -403,6 +405,7 @@
 | Laps on õppija, mitte objekt | *Sa pole katki* — terve, normaalne inimene algusest |
 | Iseõppimine, enesekontroll | Kriitiline mõtlemine — mitte ainult vastuse päheõppimine |
 | Austus lapse vastu | Lisa P valideerimine; turvalisus ja mõistmine |
+| **Austus beebile (0–3)** | **Lisa W** — austus algusest; *austus = armastus*; stressivaba vanemlus |
 | Käed-külge keskkond | Praktiline vastupanuvõime (nagu Techno TLN) |
 | Kogukond ja lapsevanemad | Pere rindejoon — vastutus algab kodus |
 

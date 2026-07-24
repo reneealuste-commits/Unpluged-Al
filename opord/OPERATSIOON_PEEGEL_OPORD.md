@@ -47,6 +47,7 @@
 | **Lisa V** — Matthew Walker *Why We Sleep* | Uni enne silti, enne „võta kokku" |
 | **Lisa U** + [TOITUMINE_UURIMUSTOO.pdf](TOITUMINE_UURIMUSTOO.pdf) | Toit, rasvad, avatud meel |
 | **Lisa Y** | ECS, CBD, toit, stress — mitte suitsetamise propageerimine |
+| **Lisa Z** | Linnad, tööstusmudel, partnerlus, ettevõtlus — reform Eestist |
 
 Täiendab **Epp Kärsin** teadlikku intiimsust (eppkarsin.com) ja pere rindejoont (Lisa E, Lisa W).
 
@@ -1280,6 +1281,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Montessori beebi, austus algusest:** Lisa W — `lisad/lisa-w-montessori-beebi-austus-algusest.md` (0–3, *austus = armastus*, stressivaba vanemlus)
 - **Taskukaardid, väljapoole suhtlemine:** Lisa X — `lisad/lisa-x-taskukaardid-valjasuhtlus.md` (OPSEC, 5 teemat, lendleht, märkmikku kirjutamine)
 - **Kanep, endokannabinoidsüsteem, CBD ja toit (mitte suitsetamine):** Lisa Y — `lisad/lisa-y-kanep-endokannabinoid-ja-ajalugu.md` (ECS, CBD, rasvad, case study'd, kriitiline mõtlemine)
+- **Linnad, tööstusühiskond ja partnerlus:** Lisa Z — `lisad/lisa-z-linnad-toostusuhiskond-ja-partnerlus.md` (suletud toad, isa eemal, ettevõtlus, reform Eestist)
 - **Koordinaatori profiil:** `lisad/renee-aluste-profiil.md` (eraldi leht)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
 - **Signaal OPERATSIOON TÄIDETUD:** Kui ühiskondlikud mõõdikud näitavad paranemist — üksikemade arv langeb, kiusamine väheneb, inimesed räägivad vastutusest.
@@ -1635,6 +1637,21 @@ Sinu kehas on **endokannabinoidsüsteem** — retseptorid ja molekulid (anandami
 Taastumise järjekord ei muutu: vaimne abi → uni, liikumine, toit → struktuur. **Lisa Y** — ECS, CBD, toit, ajalugu, case study'd. Kriisis: narko.ee **641 4110**, Eluliin **655 8088**.
 
 *Minu küsimus sulle: Kas sa teadsid, et sul on endokannabinoidsüsteem — enne kui lugesid seda?*
+
+---
+
+**K: Miks räägite linnadest ja tööstusühiskonnast? Mis see operatsiooniga seotud on?**
+
+**V (Renee Aluste):** Me elame linnades, mida ise ehitasime — suletud tubadega. Isa läheb perest ära raha teenima. Lapsed jäävad emaga. Kõik on õnnetud — mitte sellepärast, et inimesed on halvad, vaid **mudel on vale**.
+
+See mudel kestis Rockefelleri ja tööstusühiskonna ajastust: töö eraldi, pere eraldi, raha eraldi. Operatsioon ei ütle „kolige kõik maale". Operatsioon ütleb: **tagasipöördumine partnerluse ja ettevõtluse juurde** — pere kui üks laev, mitte isa laev = töö ja pere laev = kodu.
+
+**Mida saad teha:**
+1. **Lisa Z** — ajalugu, case study'd, Pühali, BNI, Starfish, valitsuse reform (Lisa L)
+2. **Lisa E** — pere rindejoon: isa kohal, ühine aeg
+3. **Lisa T** — anna tagasisidet perede KPI-de kohta — reform algab Eestist **seestpoolt**
+
+*Minu küsimus sulle: Mitu tundi täna olid lapsed sinuga kohal — mitte voodis telefoniga, vaid päriselt kohal?*
 
 ---
 
@@ -2188,6 +2205,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **W** | — | `lisad/lisa-w-montessori-beebi-austus-algusest.md` | **Montessori beebi** — austus algusest (0–3); *austus = armastus*; stressivaba vanemlus, kodus ja lasteaias |
 | **X** | — | `lisad/lisa-x-taskukaardid-valjasuhtlus.md` | **Taskukaardid** — väljapoole suhtlemine, OPSEC, 5 teemat, lendlehe tekst, demomehed |
 | **Y** | — | `lisad/lisa-y-kanep-endokannabinoid-ja-ajalugu.md` | **ECS, CBD, toit** — mitte suitsetamine; efekt stressist välja; case study'd; varimajandus |
+| **Z** | — | `lisad/lisa-z-linnad-toostusuhiskond-ja-partnerlus.md` | **Linnad ja tööstusmudel** — partnerlus, ettevõtlus, isa kohal; reform Eestist |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

@@ -50,6 +50,7 @@ BOOK_FILES = [
     "lisa-w-montessori-beebi-austus-algusest.md",
     "lisa-x-taskukaardid-valjasuhtlus.md",
     "lisa-y-kanep-endokannabinoid-ja-ajalugu.md",
+    "lisa-z-linnad-toostusuhiskond-ja-partnerlus.md",
     "renee-aluste-profiil.md",
 ]
 

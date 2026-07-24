@@ -1,227 +1,291 @@
-# Lisa Y — Kanep, THC ja endokannabinoidsüsteem
+# Lisa Y — ECS, CBD, toit ja stress (mitte suitsetamine)
 
-**Operatsioon „Peegel"** | Ava silmad — uurimustöö | Põhimõte: *küsi, miks see on keelatud — ja kes võidab*
+**Operatsioon „Peegel"** | Ava silmad — uurimustöö | Põhimõte: *kriitiline mõtlemine, mitte käsu täitmine*
 
-**Allikad:** Harvard Health (ECS); Mechoulam et al. (anandamiid, 1992); Hall W. (2026) *Addiction* — Marihuana Tax Act 1937; EMCDDA; Eesti NSPS. Seotud: **Lisa H** (taastumine, stress), **Lisa V** (uni, surve), **Lisa S** (trauma, aju), **Lisa U** (looduslik toit), **Lisa X** (OPSEC — ära avalda illegaalseid tegevusi).
+**Allikad:** Harvard Health (ECS); Ravimiamet (CBD, THC); Mechoulam et al. (anandamiid, 1992); Hall W. (2026) *Addiction*; EMCDDA; Eesti NSPS; PTA (uuendtoit). Seotud: **Lisa H** (taastumine), **Lisa V** (uni, surve), **Lisa S** (trauma), **Lisa U** (toit, rasvad), **Lisa X** (OPSEC).
 
-> *„Kui taim kasvab mullas ja inimesel on sellele retseptorid — miks me räägime sellest nii vähe koolis?"*
+> *?? **Ära usu mind. Kaitse eelkõige oma uskumusi ja veendumusi.** Uuri. Kaalu. Vali ise.*
 
-> *See ei ole kutse süüa ega suitsetada. See on kutse **mõelda**: mis on teadus, mis on ajalugu, kes võidab keeldumisega — ja mis on seadus Eestis täna.*
-
----
-
-## Miks see lisa on
-
-Paljud inimesed kogevad **ülekoormust** — surve tööl, kodus, meedias, algoritmides. Renee Aluste taastumislugu (Lisa H) näitab järjekorda: **vaimne abi esimesena**, siis uni, liikumine, toit. Aga küsimus jääb:
-
-> *Miks üks maailma vanimaid taimi on ühtaegu „looduslik" ja „kuritegu"? Miks inimesel on aju süsteem, mis taimest tulevaid molekule tunneb — aga kool ei räägi sellest?*
-
-See lisa ei ole dieedireklaam ega poliitiline manifest. See on **uurimustöö** — nagu Lisa U (toit) ja Lisa V (uni): ava silmad, loe allikaid, küsi endalt küsimusi.
-
-**Renee kontekst:** inimesed vajavad **rahu** survetest. Mõni leiab selle unest, liikumisest, teraapiast, hingamisest. Mõni otsib kanepit. Operatsioon ei ütle „pea kõik suitsetama". Operatsioon ütleb: **mõista juurt** — sümptomi kustutamine (tablett, alkohol, illegaalne aine, ost ilma teadmata) ei asenda struktuuri, abi ja ausat vestlust.
+> *See lisa **ei õhuta kanepi suitsetamist**. See räägib **CBD toodetest, toidust ja rasvadest**, mis sisaldavad rahustavaid aineid — ja **efektist**: inimene saab stressist välja, et langetada paremaid otsuseid. Mõni lõpetab hiljem teadlikult suitsetamise.*
 
 ---
 
-## 1. Endokannabinoidsüsteem — miks sul see üldse on
+## Renee positsioon — selgelt
 
-**Endokannabinoidsüsteem (ECS)** on sinu kehas olev signaalsüsteem — nagu närvikava või hormoonid, aga eraldi võrk. See avastati osaliselt **just kanepiuuringute** kaudu (THC isoleeriti 1964; retseptorid 1990. aastatel).
+| Mis see ON | Mis see EI OLE |
+|------------|----------------|
+| CBD tooted, kanepiseemneõli, toit, rasvad | Kutse suitsetada või kasvatada |
+| Efekt: stressist välja ? paremad otsused | „Pea kõik kanepit suitsetama" |
+| Kriitiline mõtlemine, case study'd | Käsu täitmine või mõtlemata järgimine |
+| Varimajanduse mõistmine | Seaduse rikkumise õigustamine |
+| Kaalutud valik iga inimese jaoks | Üks retsept kõigile |
 
-### Kolm osa
+**Loogika:**
 
-| Osa | Mida see teeb |
-|-----|---------------|
-| **Retseptorid** | **CB1** — peamiselt ajus (mälu, valu, ärevus, söögiisu). **CB2** — peamiselt immuunsüsteem, soolestik |
-| **Endokannabinoidid** | Sinu keha **toodab ise** molekule, mis neid retseptoreid aktiveerivad |
-| **Ensüümid** | Sünteesivad ja lagundavad signaale — täpne kontroll, mitte pidev „tõmbamine" |
+```
+Surve ? keha otsib rahu ? mõni läheb illegaalsele kanalile (suitsetamine, must turg)
+     ? efekt on lühiajaline ? otsused halvenevad ? sõltuvus süveneb
 
-### Peamised endokannabinoidid
-
-| Molekul | Mida teadus ütleb (üldine suund) |
-|---------|----------------------------------|
-| **Anandamiid** (AEA) | Nimi tuleneb sanskriti *ananda* — „õndsus". Meeleolu, valu, söögiisu |
-| **2-AG** | Rohkem ajus kui anandamiid; immuunfunktsioon, põletik |
-
-> *Vau, tõesti?* — Jah. Harvard Health: *„Kõigil meil on peas väikesed kanepitaolised molekulid."* ECS reguleerib **mälu, emotsioone, und, valu, põletikku, immuunsust** — see on **homeostaasi** (tasakaalu) süsteem.
-
-### Mida ECS **ei** tähenda
-
-| Ei | Jah |
-|----|-----|
-| „Sa pead suitsetama" | Sinu keha töötab **ilma** taime |
-| „Kanep on meditsiin kõigile" | ECS on **bioloogia** — mitte retsept |
-| „Keelustamine on alati vandenõu" | Ajalugu on **mitmekihtiline** (vt allpool) |
-
-**Seos Lisa V-ga:** uni ja stress reguleeritakse osaliselt samade võrkude kaudu. **Surve** ilma taastumiseta nõrgendab ECS-i tasakaalu — mitte ainult „iseloom".
-
-**Seos Lisa S-ga:** trauma elab kehas. ECS moduleerib **ärevust ja valu** — see ei asenda EMDR-i ega teraapiat.
+Alternatiiv:
+Surve ? uni + toit + liikumine + teraapia + (vajadusel) seaduslikud CBD/vahendid
+     ? efekt: rahunemine ? paremad otsused ? teadlikult ei suitseta enam
+```
 
 ---
 
-## 2. THC, CBD ja taim — lühidalt
+## 1. Endokannabinoidsüsteem — miks sul see on
 
-| Molekul | Mida see on |
-|---------|-------------|
-| **THC** (tetrahüdrokanabinool) | Psühoaktiivne — seob CB1-retseptoritega; eufooria, lõdvestus, ägedatel doosidel ka ärevus/paranoia võimalik |
-| **CBD** (kanabidiool) | Ei tekita „mõnu" nagu THC; uuritakse (epilepsia jms); ei ole OPORD-is soovitus |
-| **Cannabis sativa** | Taim; inimkond on kasutanud **tuhandeid aastaid** (kiud, seemned, meditsiinilised ekstraktid, suitsetamine) |
+**Endokannabinoidsüsteem (ECS)** on sinu kehas olev signaalsüsteem. See avastati osaliselt kanepiuuringute kaudu (THC 1964; retseptorid 1990ndad).
 
-**Kanep kasvab looduses** — see on fakt. *Cannabis sativa* on kohastunud mitmesse kliimasse („weed growing in the dirt"). See **ei tähenda**, et iga metsik taim on ohutu suitsetada (reostus, THC tase, seadus).
+| Osa | Funktsioon |
+|-----|------------|
+| **CB1** | Peamiselt ajus — mälu, valu, ärevus, söögiisu |
+| **CB2** | Peamiselt immuunsüsteem, soolestik |
+| **Anandamiid, 2-AG** | Sinu keha **toodab ise** — sanskriti *ananda* = „õndsus" |
+| **Ensüümid** | Sünteesivad ja lagundavad — täpne kontroll |
+
+ECS reguleerib **und, valu, põletikku, stressi, meeleolu** — homeostaasi (tasakaalu).
+
+**Oluline:** sul on see süsteem **ilma taime**. Taim ei ole vajalik. Aga mõned toidud ja rasvad **toetavad** ECS-i tööd (vt §3).
 
 ---
 
-## 3. Ajalugu — miks see sai keelatuks
+## 2. THC vs CBD — miks me räägime CBD-st, mitte suitsetamisest
 
-### Vanem ajalugu
+| Molekul | Mida see teeb | Operatsiooni seis |
+|---------|---------------|-------------------|
+| **THC** | Psühoaktiivne; seob CB1; eufooria, lõdvestus; suitsetamisel ka kopsukahju, sõltuvus | **Ei propageeri.** Eestis rekreaatsiooniline kasutamine keelatud |
+| **CBD** | Ei tekita „mõnu" nagu THC; uuritakse (epilepsia jms); toetab rahunemist ilma joobeta | **Fookus** — tooted, kosmeetika, toit (seaduslikkuse piires) |
+| **Kanepiseemneõli** | Omega-3/6, valgud; toidus seaduslik | **Lisa U** — rasvad ja toitumine |
+
+**Eesmärk on efekt, mitte aine.** Kui inimene saab stressist välja — uni, toit, teraapia, seaduslikud vahendid — saab ta **paremaid otsuseid** enda kohta. Mõni lõpetab teadlikult suitsetamise, kui elu on tasakaalus.
+
+---
+
+## 3. Toit, rasvad ja rahustavad ained — seaduslik tee
+
+### Kanepiseemned ja -õli (toidus)
+
+| Toode | Mida see annab | Seadus Eestis |
+|-------|----------------|---------------|
+| **Kanepiseemned** | Valgud, kiud, omega-3/6 | Toidus lubatud (madal THC) |
+| **Kanepiseemneõli** | GLA, omega-rasvhapped; toetab põletiku reguleerimist | Toidus lubatud |
+| **Chia, linaseemned, kala** | Omega-3 — ECS toetamine toiduga | Lisa U |
+
+**Seos Lisa U-ga:** Bellevue uuring ja Stefanssoni töö näitavad — **toit mõjutab aju ja meeleolu**. Rasvad ei ole vaenlane. Õiged rasvad toetavad närvisüsteemi.
+
+### CBD tooted — aus seaduslik reaalsus (2026)
+
+| Kategooria | Seis Eestis |
+|------------|-------------|
+| **Kosmeetika** (CBD õlid, kreemid) | Lubatud, kui vastab EL kosmeetikamäärusele; mitte terviseväited |
+| **Toidulisand / suukaudne CBD** | Uuendtoit — ilma EL autoriseerimiseta **ei tohi** toiduna müüa (PTA, Ravimiamet) |
+| **Ravim Epidyolex** | Retseptiravim (epilepsia); CBD meditsiiniliselt tõendatud |
+| **Suitsetamine, kasvatus, >7,5 g** | Keelatud / väärtegu / kriminaalne |
+
+**Hoiatus:** „Kosmeetikana müüdav õli suukaudseks" on hall tsoon — loe silti, ära usu müügijuttu. Konsulteeri perearstiga.
+
+### Muud rahustavad toidud (legaalsed, ilma kanepita)
+
+| Toit / aine | Mõju (üldine teaduslik suund) |
+|-------------|-------------------------------|
+| Magneesium (tumedad lehtköögiviljad, pähklid) | Lihaste lõdvestus, uni |
+| L-teaniin (roheline tee) | Rahunemine ilma uimasuseta |
+| Tryptofaani allikad (kalkun, munad, banaan) | Serotoniini eelkäija |
+| Fermenteeritud toidud (soolestik ? aju telg) | Lisa U, mikrobioom |
+
+---
+
+## 4. Miks keelustamine tekitas varimajanduse
+
+Keelustamine **ei lõpeta nõudlust**. See suunab nõudluse **illegaalsele turule**.
+
+| Keelustamise tulemus | Mida see tähendab inimesele |
+|----------------------|----------------------------|
+| **Must turg** | THC tase teadmata; võimalik reostus, synteetilised kannabinoidid (HHC jms) |
+| **Hinnakontroll kriminaalidel** | Kvaliteet ei ole garanteeritud |
+| **Noorte kaitsetus** | Müüja ei küsi ID-d; diiler ei hooli |
+| **Kriminaalne karistus** | ?7,5 g = trahv; rohkem = vangis |
+| **Varimajandus võidab** | Keegi teenib — mitte inimene, kes vajab rahu |
+
+> *„Inimesed võtsid ära, hakkasid kontrollima — et teha raha."* — Osaliselt tõsi: must turg, vanglad, testid, farma monopol. Keelustamine **ei kaitse** inimest — see **suunab** ta ohtlikumale kanalile.
+
+**Operatsioon ei õigusta seaduse rikkumist.** Operatsioon küsib: kas poliitika teenib inimest või ainult kontrolli ja varimajandust?
+
+---
+
+## 5. Ajalugu — lühidalt
 
 | Aeg | Sündmus |
 |-----|---------|
-| **~5000 aastat tagasi** | Kanepi kasutamise jäljed mitmes kultuuris (Harvard Health) |
-| **19.–20. sajand** | Kanep ravimina USA ja Euroopa farmakopöas (ekstraktid, tinktuurid) |
-| **1920** | **Mehhiko** keelab marihuaana rekreaatsiooni (17 aastat enne USA-d) |
-| **1937** | USA **Marihuana Tax Act** — föderaalne kontroll, litsentsimaksud |
-| **1940.–50ndad** | Kanep **eemaldatakse** USA farmakopöast; „marihuaana" = kuritegu narratiiv tugevneb |
-| **1961** | **ÜRO Ühtne narkootikumide konventsioon** — kanep Schedule I (rangeim) |
-| **1990ndad** | ECS avastus — teaduslik pööre |
-| **Eesti** | NSPS; kuni **7,5 g** isiklik kasutus = **väärtegu** (mitte kriminaalkuritegu); kasvatus ja müük = kriminaalne |
+| ~5000 aastat | Kanepi kasutus mitmes kultuuris |
+| 19.–20. sajand | Ekstraktid farmakopöas |
+| 1920 | Mehhiko keelab rekreaatsiooni |
+| 1937 | USA Marihuana Tax Act |
+| 1961 | ÜRO Ühtne konventsioon — Schedule I |
+| 1990ndad | ECS avastus |
+| Eesti 2026 | Rekreaatsioon keelatud; CBD tooted seaduslikkuse piires |
 
-### Miks keelati? — aus mitme faktori vastus
-
-Populaarne lugu: *„DuPont, Hearst ja Anslinger keelasid kanepi, et müüa nailoni ja paberit."* Uuem teadusajakirjandus (Hall, *Addiction* 2026) näitab: see **lihtsustatud** lugu on osaliselt **ekslik** — Anslinger ei olnud nii keskne; *Reefer Madness* tuli **pärast** 1937 seadust; kanepikiud **ei olnud** täielikult keelatud.
-
-**Aga see ei tähenda, et keelustamisel polnud poliitikat ega raha:**
-
-| Tegur | Mida allikad näitavad |
-|-------|----------------------|
-| **Moraalne paanika** | „Marihuaana teeb hulluks ja vägivalmseks" — korduv narratiiv (Anslinger, meedia) |
-| **Rassism ja sisserände hirm** | USA-s seoti marihuaana Mehhiko sisserändajatega — dokumenteeritud retoorika |
-| **Konventsioonid** | Rahvusvaheline „sõda narkootikumide vastu" — kanep samasse kategooriasse kui heroin (Schedule I) |
-| **Ravimist välja** | Farmakopöa eemaldas kanepi; farmaatsiatööstus eelistab **patenteeritavaid** molekule |
-| **Tööstuslik kanep** | Kiud vs psühoaktiivne taim segamini — „Hemp for Victory" WWII ajal (USA kutsus kasvatama), pärast sõda tagasi keelatud |
-| **Kaasaegne kontroll** | Must turg, vanglad, testid, litsentsid — **keegi võidab** keelu jätkumisest |
-
-> *„Inimesed võtsid ära, hakkasid kontrollima ja põletama — et teha raha."* — Osaliselt **tõsi kaasaegses süsteemis**: must turg, farma, vanglatööstus, alkoholi- ja retseptiravimite monopolid. Ajalugu ei ole üks vandenõu, aga **huvid on reaalsed**.
-
-### „Kui on päike, kasvab kanep" — mida see tähendab
-
-Taim **ei vaja** luba mullast kasvamiseks. Seadus **keelab inimese tegevuse** — kasvatamine, omamine, müük. See loob:
-
-- Musta turu (kvaliteet teadmata, noored kättesaadav)
-- Kriminaalset kontrolli (7,5 g Eestis = trahv; rohkem = vangis)
-- Hüpoteesi: kui inimene vajab **rahunemist** survetest, läheb ta **illegaalse** kanali kaudu — või alkoholi, tableti, ostetava „rahusti" juurde
-
-Operatsioon ei õigusta seaduse rikkumist. Operatsioon küsib: **kas poliitika teenib inimest või ainult kontrolli?**
+Hall (2026): lihtne „DuPont vandenõu" lugu on osaliselt ekslik — aga **huvid on reaalsed** (farma, vanglad, must turg).
 
 ---
 
-## 4. Surve, rahu ja „loomulik" — aus vestlus
+## 6. CASE STUDY'D — kaalutud valik, mitte propaganda
 
-### Mida inimesed sageli ütlevad
+> *Need on **komposiitnäited** — mitte ühe inimese lugu. Eesmärk: näidata valikuid ja tagajärgi. **Ära kopeeri. Kaalu oma olukorda.***
 
-> *„Inimene vajab rahu surve all. See on looduslik. Miks keelatakse?"*
+### Case 1 — „Märk": suitsetamisest teadliku valikuni
 
-| Tõsi osa | Ettevaatus |
-|----------|------------|
-| Surve on reaalne (Lisa V, Lisa S, KV muster) | Kanep **ei ole** ainus või parim lahendus |
-| ECS reguleerib stressi ja valu | Suitsetamine **ei asenda** teraapiat, und, liikumist |
-| Taim on vana partner inimkonnale | Tänapäeva THC kontsentratsioon ? vanaema „marihuaana" |
-| Keelustamine on poliitiline otsus | **Eestis on kasutamine endiselt keelatud** |
+| Etapp | Mis juhtus |
+|-------|------------|
+| **Algus** | KV stress, uni halb, ärevus. Sõber pakkus „marihuaana" — mustalt. |
+| **Lühiajaline efekt** | Rahunemine 1–2 tundi. |
+| **Pikaajaline** | Sõltuvus mustri; trahv 7,5 g eest; töö stress ei lahenenud. |
+| **Pööre** | Lisa H järjekord: perearst, uni (Lisa V), kanepiseemneõli toidus (Lisa U), teraapia. |
+| **Tulemus** | 8 kuud hiljem: teadlikult lõpetas suitsetamise. „Efekt tuli mujalt — suitsetamine oli kinnitus, mitte lahendus." |
 
-### Taastumise järjekord (Lisa H) — ei muutu
+**Õppetund:** suitsetamine kustutas sümptomi, mitte juurt. **Efekt** saadi uni + toit + abi kaudu.
 
-```
-1. Vaimne abi (ravimid kui vaja, teraapia, narko.ee, Eluliin)
-2. Keha (uni, liikumine, toit)
-3. Struktuur (roll, eesmärk, juhis, mentor)
-```
+### Case 2 — Dravet sündroom: CBD ravimina (teaduslik tõend)
 
-Kanep — kui keegi seda kasutab — on **mitte esimene samm**. Ja Eestis: **seaduslikult ainult meditsiiniline erand** (praktikas haruldane).
+| Fakt | Detail |
+|------|--------|
+| **Ravim** | Epidyolex (CBD) — retseptiravim |
+| **Näidustus** | Dravet, Lennox-Gastaut — epileptilised hoogud |
+| **Õppetund** | CBD **võib** olla meditsiiniliselt tõendatud — aga **retsepti ja järelevalvega**, mitte mustalt |
 
-**Alternatiivid rahule (legaalsed):** hingamine (URBN TIGER, Lisa H), uni (Lisa V), liikumine, EMDR, teraapia, aus vestlus (Lisa P), perede aeg ilma ekraanita.
+See ei õigusta rekreaatsiooni. See näitab: molekulil on roll — **kontekst ja annus loevad**.
+
+### Case 3 — Toit ja rasvad: kanepiseemneõli (seaduslik)
+
+| Fakt | Detail |
+|------|--------|
+| **Tegevus** | Lisa U järgi: kanepiseemneõli salatisse, omega-3 kala kõrvale |
+| **Efekt** | Põletiku vähenemine, parem uni (koos Lisa V harjumustega) |
+| **Õppetund** | **Toit toetab ECS-i** ilma suitsetamiseta. Seaduslik. Juurdepääsetav. |
+
+### Case 4 — Portugal 2001: dekriminaliseerimine ja varimajandus
+
+| Fakt | Detail |
+|------|--------|
+| **Poliitika** | Kõik uimastid dekriminaliseeritud; fookus tervishoiul, mitte vanglas |
+| **Tulemus** | HIV nakatumine langes; vanglate arv vähenes; kasutamine noorte seas ei tõusnud oluliselt (EMCDDA andmed) |
+| **Õppetund** | Keelustamine ? ainus mudel. **Alternatiiv** on võimalik — aga see on poliitiline valik, mitte „tee nii kodus". |
+
+### Case 5 — Must turg: kui „looduslik" on ohtlik
+
+| Fakt | Detail |
+|------|--------|
+| **Olukord** | Noor ostis „kanepi" — tegelikult sünteetiline kannabinoid (HHC või sarnane) |
+| **Tagajärg** | Ärevus, kiire pulss, haiglasse |
+| **Õppetund** | Varimajandus **ei garanteeri** kvaliteeti. „Looduslik" sildil ei ole tõendit. |
+
+### Case 6 — Surve ilma lahenduseta: alkohol vs kanep vs uni
+
+| Kanal | Lühiajaline | Pikaajaline |
+|-------|-------------|-------------|
+| Alkohol (legaalne) | Rahunemine | Sõltuvus, maksa, pere konfliktid |
+| Kanep (illegaalne) | Rahunemine | Trahv, must turg, sõltuvus |
+| Uni + liikumine + teraapia | Aeglasem | Püsivam, seaduslik |
+
+**Õppetund:** kõik kolm võivad olla **sümptomi kustutamine**. Juur on stress, trauma, uni — Lisa H, V, S.
 
 ---
 
-## 5. Eesti seis täna (2026)
+## 7. Eesti seadus täna (2026)
 
-| Tegevus | Seaduslikkus |
-|---------|--------------|
-| Rekreaatsiooniline kasutamine | **Keelatud** |
-| Kuni **7,5 g** isiklik omamine | **Väärtegu** (trahv kuni ~1200 € või kuni 30 päeva arest) |
-| Suurem kogus, müük, kasvatus | **Kriminaalkuritegu** (vangistus võimalik) |
-| **Ükski taim** kasvatamine | Kriminaalne |
-| Meditsiiniline kanep | Teoreetiliselt võimalik eriloaga; **praktikas peaaegu mitte kunagi** |
-| Autojuht THC-ga | Nulltolerants — trahv, luba |
-
-**Allikas:** Narkootiliste ja psühhotroopsete ainete seadus (NSPS); Riigi Teataja.
+| Tegevus | Seis |
+|---------|------|
+| Rekreaatsiooniline suitsetamine | **Keelatud** |
+| ?7,5 g isiklik omamine | **Väärtegu** (trahv ~1200 € või kuni 30 päeva arest) |
+| Kasvatus, müük | **Kriminaalne** |
+| Kanepiseemned, -õli toidus | **Lubatud** (madal THC) |
+| CBD kosmeetika | **Lubatud** (tingimustega) |
+| CBD toidulisand suukaudseks | **Ei tohi** ilma uuendtoidu loata |
+| Epidyolex | Retseptiravim |
 
 **Abi:** [narko.ee](https://www.narko.ee) · **641 4110** · Eluliin **655 8088**
 
 ---
 
-## 6. AVATUD MEEL — küsimused endale
+## 8. Taastumise järjekord — ei muutu (Lisa H)
 
-> *Sa ei pea neile vastama. Aga kui üks neist paneb sind peatuma — see on võit.*
+```
+1. Vaimne abi (ravimid kui vaja, teraapia, narko.ee, Eluliin)
+2. Keha (uni Lisa V, liikumine, toit Lisa U — sh kanepiseemneõli)
+3. Struktuur (roll, eesmärk, juhis, mentor)
+4. (Vajadusel) seaduslikud CBD/vahendid — perearstiga, mitte mustalt
+```
 
-### A. Teadus ja keha
-
-1. Kas sa teadsid, et sul on **endokannabinoidsüsteem** — enne kui lugesid seda?
-2. Mida ECS teeb sinu kehas (mälu, valu, uni, ärevus)?
-3. Kas „kanep on looduslik" ja „kanep on ohutu" on **sama väide**?
-4. Mis vahe on **anandamiidil** (sinu kehas) ja **THC-l** (taimes)?
-
-### B. Ajalugu ja poliitika
-
-5. Miks Mehhiko keelas marihuaana **17 aastat varem** kui USA?
-6. Mis juhtus kanepiga **teise maailmasõja** ajal USA-s? (*Hemp for Victory*)
-7. Kes võidab, kui kanep on **Schedule I** (nagu heroin)?
-8. Kas keelustamine on **ainult** vandenõu — või ka moraalne paanika + rahvusvahelised lepingud?
-9. Miks sa seda **koolis** ei õppinud — aga alkoholi reklaami näed igal pool?
-
-### C. Surve ja lahendused
-
-10. Kas sa otsid **rahu** surve all — ja mis on sinu **esimene** kanal (uni, alkohol, ekraan, kanep, teraapia)?
-11. Kas „vajan suitsetada, et püsida" on **sümptom** või **lahendus**?
-12. Kas sa oled rääkinud **perearstiga** või [narko.ee](https://www.narko.ee)-ga — enne kui otsustad?
-13. Mis juhtub, kui kanep on **illegaalne**, aga surve on **legaalne**?
-
-### D. Ausad „vau" küsimused
-
-14. Kui inimesel on retseptorid — **miks** keegi ütleb, et taim on „kurjus"?
-15. Kas must turg **kaitseb** noori — või **ohustab** neid?
-16. Kas „see on fake" (kontroll raha jaoks) on **osaliselt** tõsi — ja mis osa on **liialdus**?
-17. Kas sa jagaksid seda sõbraga — **mida sa temalt küsid**, mitte ei ütle?
+**Suitsetamine ei ole samm 1 ega 4.** Efekt tuleb juurest — mitte sümbolist.
 
 ---
 
-## 7. Mida see EI ole
+## 9. KRIITILINE MÕTLEMINE — küsimused endale
+
+> *Sa ei pea neile vastama. Aga kui üks paneb sind peatuma — see on võit. **Ära usu mind — kontrolli ise.***
+
+### A. Positsioon ja eesmärk
+
+1. Kas ma mõistan erinevust: **efekt** (stressist välja) vs **aine** (suitsetamine)?
+2. Kas ma otsin **kaalutud valikut** — või kiiret kinnitust?
+3. Kas ma olen lugenud **kogu** Lisa Y — või ainult ühte lõiku?
+
+### B. Seadus ja varimajandus
+
+4. Miks keelustamine **ei lõpeta** nõudlust — vaid suunab mustale turule?
+5. Kes võidab varimajandusest — inimene või diiler?
+6. Kas „looduslik" sildil mustalt ostes on **kvaliteedi garantii**?
+
+### C. Toit, CBD, alternatiivid
+
+7. Kas ma söön piisavalt **omega-rasvhappeid** (Lisa U) — enne kui otsin midagi muud?
+8. Kas ma magan piisavalt (Lisa V) — enne kui otsin „rahustit"?
+9. Mis vahe on **kanepiseemneõlil** toidus ja **suitsetamisel**?
+
+### D. Ausad küsimused
+
+10. Kas ma tahan **paremaid otsuseid** — või ainult lühiajalist rahu?
+11. Kas ma olen rääkinud **perearstiga** enne otsust?
+12. Kas ma kaitseksin **oma veendumusi** — või järgiksin käsku ilma mõtlemata?
+13. Kas ma olen lugenud **Intiimsuse atlasi** — et mõista, kuidas keha ja nauding töötavad?
+
+### E. Jagamine
+
+14. Kui jagaksin seda sõbraga — **mida ma temalt küsiksin**, mitte ei ütleks?
+15. Kas ma võin öelda: „Ma ei tea" — ja see on tugevus?
+
+---
+
+## 10. Mida see EI ole
 
 | Ei | Jah |
 |----|-----|
-| Kutse süüa/suitsetada/kasvatada | Kutse **mõelda** ja lugeda allikaid |
+| Kutse suitsetada/kasvatada | Kutse **mõelda** ja lugeda allikaid |
+| „CBD lahendab kõik" | Üks võimalik tööriist — kontekstis |
+| Asendab Lisa H, V, teraapiat | Täiendav kontekst |
 | Meditsiiniline nõuanne | Uurimustöö + seaduslik reaalsus |
-| Õigustus seaduse rikkumisele | **Lisa X OPSEC** — ära avalda illegaalseid tegevusi |
-| „Tabletid on kurjad, kanep hea" | Mõlemad võivad olla **sümptomi kustutamine** ilma juurta |
-| Asendab Lisa H, V, teraapiat | Täiendav **kontekst** stressi ja poliitika mõistmiseks |
+| Õigustus seaduse rikkumisele | Lisa X OPSEC |
 
 ---
 
-## 8. Lugemine ja allikad
+## 11. Lugemine ja allikad
 
 | Allikas | Mida see annab |
 |---------|----------------|
-| Harvard Health — *The endocannabinoid system* | ECS ülevaade (mälu, uni, valu, immuunsus) |
-| Mechoulam R. — anandamiid (1992) | Endokannabinoidide avastus |
-| Hall W. (2026) *Addiction* — MTA 1937 | Keelustamise ajaloo kriitiline ülevaade |
-| EMCDDA — Eesti kanepi statistika | Kasutuse levik, noored |
-| NSPS / Riigi Teataja | Eesti seadus |
-| Lisa H | Taastumine, narko.ee, kriisinumbrid |
-| Lisa V | Uni ja surve — legaalsed tööriistad |
-| Lisa U | „Ava silmad" — toitumise ja uskumuste uurimustöö |
+| Harvard Health — ECS | Retseptorid, homeostaas |
+| Ravimiamet — kanep, THC, CBD | Eesti seaduslik raamistik |
+| PTA — uuendtoit | CBD toidulisandite piirangud |
+| Hall W. (2026) *Addiction* | Keelustamise ajaloo kriitika |
+| EMCDDA — Portugal | Dekriminaliseerimise andmed |
+| Tom Walsberg — *Intiimsuse atlas* | Keha, nauding, suhted — kohustuslik |
+| Lisa H, V, U | Taastumine, uni, toit |
 
 ---
 
-## 9. Üks lause, mida võid jagada
+## 12. Üks lause, mida võid jagada
 
-> **„Sinu kehal on endokannabinoidsüsteem — see reguleerib und, valu ja stressi. Taim, mis seda retseptorit aktiveerib, on olnud inimkonna juures tuhandeid aastat. Miks me räägime sellest nii vähe — ja kes võidab, kui sa pead minema mustale turule?"**
+> **„Ma ei õhuta suitsetamist. Ma räägin efektist — stressist välja, et langetada paremaid otsuseid. Keelustamine tekitas varimajanduse. Uuri ise. Ära usu mind — kaitse oma veendumusi."**
 
 ---
 

@@ -32,7 +32,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | V | [lisa-v-uni-miks-me-magame.md](lisa-v-uni-miks-me-magame.md) | **Uni** — Matthew Walker *Why We Sleep*; ava silmad, 25 küsimust, uni enne ATH-silti |
 | W | [lisa-w-montessori-beebi-austus-algusest.md](lisa-w-montessori-beebi-austus-algusest.md) | **Montessori beebi** — austus algusest (0–3); *austus = armastus*; stressivaba vanemlus |
 | X | [lisa-x-taskukaardid-valjasuhtlus.md](lisa-x-taskukaardid-valjasuhtlus.md) | **Taskukaardid** — väljapoole suhtlemine, OPSEC, 5 teemat, lendlehe tekst, märkmikku kirjutamise juhend |
-| Y | [lisa-y-kanep-endokannabinoid-ja-ajalugu.md](lisa-y-kanep-endokannabinoid-ja-ajalugu.md) | **Kanep ja ECS** — endokannabinoidsüsteem, THC, keelustamise ajalugu, ava silmad |
+| Y | [lisa-y-kanep-endokannabinoid-ja-ajalugu.md](lisa-y-kanep-endokannabinoid-ja-ajalugu.md) | **ECS, CBD, toit** — mitte suitsetamine; efekt stressist välja; case study'd; kriitiline mõtlemine |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
 ---
@@ -72,7 +72,7 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 
 **Väljapoole suhtlemine (infooperatsioon):** Lisa X — taskukaardid rahakotti / märkmikku, lendlehe tekst, mida öelda ja millest mitte rääkida.
 
-**Kanep, ECS ja ajalugu (ava silmad):** Lisa Y — endokannabinoidsüsteem, THC, miks keelati, kes võidab; mitte meditsiiniline nõuanne.
+**Kanep, ECS, CBD ja toit (mitte suitsetamine):** Lisa Y — endokannabinoidsüsteem, CBD tooted, kanepiseemneõli, case study'd, varimajandus; kriitiline mõtlemine — ära usu, uuri ise.
 
 ---
 

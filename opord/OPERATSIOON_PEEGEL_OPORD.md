@@ -22,6 +22,38 @@
 
 ---
 
+## OPERATSIOONI PÕHIMÕTE — LOE ENNE KÕIKE MUU
+
+> *🫡 **Ära usu mind. Kaitse eelkõige oma uskumusi ja veendumusi.**  
+> See siin ei ole käsk täita. See on kutse **kriitiliselt mõelda** — uurida, kaaluda, valida ise.  
+> Sa ei saa mulle oma argumendiga peale lennata, kui sa pole tutvunud kogu olemasoleva infoga, mis on siin kokku pandud. **Tee kõik uuringud. Vaata fakte.***
+
+**Mida see tähendab praktikas:**
+
+| Ära tee seda | Tee seda |
+|--------------|----------|
+| Usu ühte inimest või ühte kanalit | Loe allikaid, küsi vastu, kontrolli |
+| Järgi käsku ilma mõtlemata | Kaalu — iga inimene, iga keha, iga olukord on erinev |
+| Võta vastu ilma uurimata | Uuri enne otsust — toit, uni, stress, intiimsus, seadus |
+| Lõpeta elu surve all | **Naudi seda, mis on veel võimalik** — tervis, lähedus, keha, mõistmine |
+
+**Elu naudingud on seotud teadmisega.** Kui sa mõistad, kuidas su keha töötab — uni, toit, hormoonid, närvisüsteem, stress — saad teha **paremaid otsuseid enda kohta**. See kehtib ka intiimsuse kohta: **teil kõigil on parem ja nauditavam seksuaalelu, kui teil on info, kuidas keha toimib.**
+
+**Kohustuslik kirjandus (kõigile, ilma erandita):**
+
+| Raamat | Miks |
+|--------|------|
+| **Tom Walsberg — *Intiimsuse atlas* (2024)** | Seksuaalsuse, naudingute ja suhete kompass; biokeemia, suhted, tabude murdmine ausa keelega. [teadlikseksuaalsus.ee](https://teadlikseksuaalsus.ee/intiimsuseatlas/) |
+| **Lisa V** — Matthew Walker *Why We Sleep* | Uni enne silti, enne „võta kokku" |
+| **Lisa U** + [TOITUMINE_UURIMUSTOO.pdf](TOITUMINE_UURIMUSTOO.pdf) | Toit, rasvad, avatud meel |
+| **Lisa Y** | ECS, CBD, toit, stress — mitte suitsetamise propageerimine |
+
+Täiendab **Epp Kärsin** teadlikku intiimsust (eppkarsin.com) ja pere rindejoont (Lisa E, Lisa W).
+
+> *See operatsioon kutsub sind **kaasa nautima** seda, mis on veel võimalik siin elus — endaga, peres, kehas. Mitte allumisega. **Teadlikkusega.***
+
+---
+
 ## HETKE-ANALÜÜS — MILLEGA ME RAHUL POLE
 
 > *Kui sa mõtled „miks see üldse vajalik on?" — **loe just seda**. Täpne analüüs, 13 ministri profiilid ja Ranger Handbooki detailplaan on **Lisa T**.*
@@ -1247,7 +1279,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Uni, Why We Sleep, ava silmad:** Lisa V — `lisad/lisa-v-uni-miks-me-magame.md` (Matthew Walker, une teadus, 25 küsimust, uni enne ATH-silti)
 - **Montessori beebi, austus algusest:** Lisa W — `lisad/lisa-w-montessori-beebi-austus-algusest.md` (0–3, *austus = armastus*, stressivaba vanemlus)
 - **Taskukaardid, väljapoole suhtlemine:** Lisa X — `lisad/lisa-x-taskukaardid-valjasuhtlus.md` (OPSEC, 5 teemat, lendleht, märkmikku kirjutamine)
-- **Kanep, endokannabinoidsüsteem, keelustamise ajalugu:** Lisa Y — `lisad/lisa-y-kanep-endokannabinoid-ja-ajalugu.md` (ECS, THC, miks keelati, avatud meel)
+- **Kanep, endokannabinoidsüsteem, CBD ja toit (mitte suitsetamine):** Lisa Y — `lisad/lisa-y-kanep-endokannabinoid-ja-ajalugu.md` (ECS, CBD, rasvad, case study'd, kriitiline mõtlemine)
 - **Koordinaatori profiil:** `lisad/renee-aluste-profiil.md` (eraldi leht)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
 - **Signaal OPERATSIOON TÄIDETUD:** Kui ühiskondlikud mõõdikud näitavad paranemist — üksikemade arv langeb, kiusamine väheneb, inimesed räägivad vastutusest.
@@ -1590,17 +1622,17 @@ Me ei ütle „mag 8 tundi või oled läbikukkuja". Me ütleme: **ava silmad**. 
 
 **K: Miks räägite kanepist? See on ju uimasti — miks see operatsioonis on?**
 
-**V (Renee Aluste):** Aus küsimus. Me ei ütle „suitseta". Me ütleme: **ava silmad**.
+**V (Renee Aluste):** Aus küsimus. Me **ei õhuta kanepi suitsetamist**. Me räägime **CBD toodetest, toidust ja rasvadest**, mis sisaldavad rahustavaid aineid — ja **efektist**: inimene saab stressist välja, et langetada **paremaid teadlikke otsuseid** enda kohta. Mõni lõpetab hiljem teadlikult suitsetamise, kui keha ja elu on tasakaalus.
 
-Sinu kehas on **endokannabinoidsüsteem** — retseptorid ja molekulid (anandamiid, 2-AG), mis reguleerivad und, valu, ärevust, immuunsust. See avastati osaliselt kanepiuuringute kaudu. Taim on olnud inimkonna juures **tuhandeid aastat**. Aga Eestis on rekreaatsiooniline kasutamine **endiselt keelatud** — ja me ei õigusta seaduse rikkumist.
+Sinu kehas on **endokannabinoidsüsteem** — retseptorid ja molekulid (anandamiid, 2-AG), mis reguleerivad und, valu, ärevust, immuunsust. See avastati osaliselt kanepiuuringute kaudu. Taim on olnud inimkonna juures **tuhandeid aastat**. Aga Eestis on rekreaatsiooniline suitsetamine **endiselt keelatud** — ja me ei õigusta seaduse rikkumist.
 
 **Miks see siin on:**
 
-1. **Surve on reaalne** — inimesed otsivad rahu (Lisa V, Lisa H). Mõni läheb illegaalse kanali kaudu. Operatsioon küsib: kas poliitika teenib inimest?
-2. **Keelustamise ajalugu on mitmekihtiline** — moraalne paanika, rahvusvahelised lepingud, farma monopol, must turg. Lihtne „DuPont vandenõu" lugu on osaliselt ekslik (Hall 2026), aga **huvid on reaalsed**.
-3. **Sümptomi kustutamine** — kanep, alkohol, tablett ilma juurta (uni, teraapia, struktuur) on sama muster, mida e-sliinil näeme.
+1. **Surve on reaalne** — inimesed otsivad rahu (Lisa V, Lisa H). Keelustamine on tekitanud **varimajanduse** — kvaliteet teadmata, noored kaitseta. Operatsioon küsib: kas poliitika teenib inimest?
+2. **Eesmärk on efekt, mitte aine** — CBD tooted, kanepiseemneõli, omega-rasvhapped, uni, teraapia. Suitsetamine on sümptomi kustutamine, mitte lahendus.
+3. **Kriitiline mõtlemine** — Lisa Y sisaldab case study'sid, et igaüks saaks teha **kaalutud valiku**. Ära usu mind — uuri ise.
 
-Taastumise järjekord ei muutu: vaimne abi → uni, liikumine, toit → struktuur. **Lisa Y** — ECS, ajalugu, 17 küsimust endale. Kriisis: narko.ee **641 4110**, Eluliin **655 8088**.
+Taastumise järjekord ei muutu: vaimne abi → uni, liikumine, toit → struktuur. **Lisa Y** — ECS, CBD, toit, ajalugu, case study'd. Kriisis: narko.ee **641 4110**, Eluliin **655 8088**.
 
 *Minu küsimus sulle: Kas sa teadsid, et sul on endokannabinoidsüsteem — enne kui lugesid seda?*
 
@@ -2155,7 +2187,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **V** | — | `lisad/lisa-v-uni-miks-me-magame.md` | **Uni** — Matthew Walker *Why We Sleep*; NREM/REM, uni ja aju, müüdid vs faktid, 25 avatud meele küsimust |
 | **W** | — | `lisad/lisa-w-montessori-beebi-austus-algusest.md` | **Montessori beebi** — austus algusest (0–3); *austus = armastus*; stressivaba vanemlus, kodus ja lasteaias |
 | **X** | — | `lisad/lisa-x-taskukaardid-valjasuhtlus.md` | **Taskukaardid** — väljapoole suhtlemine, OPSEC, 5 teemat, lendlehe tekst, demomehed |
-| **Y** | — | `lisad/lisa-y-kanep-endokannabinoid-ja-ajalugu.md` | **Kanep ja ECS** — endokannabinoidsüsteem, THC, keelustamise ajalugu, surve ja rahu |
+| **Y** | — | `lisad/lisa-y-kanep-endokannabinoid-ja-ajalugu.md` | **ECS, CBD, toit** — mitte suitsetamine; efekt stressist välja; case study'd; varimajandus |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

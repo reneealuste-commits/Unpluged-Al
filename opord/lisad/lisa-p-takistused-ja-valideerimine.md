@@ -184,6 +184,111 @@ Lisa Q lisab: **GOTWA**, **mänguline hääl**, **teietamine** — koos kuus tö
 
 ---
 
+## KRIITILINE REEGEL — trauma, teistsugune reaalsus ja koostöö
+
+> *See on üks operatsiooni **kõige kriitilisemaid** reegleid. Loe enne igat konflikti, iga perevestlust, iga „ma ei saa temaga koostööd teha" hetke.*
+
+### Traumatiseeritud inimesel on **täiesti teistsugune reaalsus**
+
+Trauma ei muuda ainult tundeid. See muudab **tajumist**:
+
+| Terve närvisüsteem | Trauma olekus |
+|--------------------|---------------|
+| Oht hinnatakse õigesti | **Iga liigutus** võib tunduda rünnakuna |
+| Sõnad on suhtlus | Sõnad on **ähvarduse eemaldamine** |
+| Koostöö on võimalik | **Tavaline koostöö on võimatu** — mitte tahtlikult, vaid füsioloogiliselt |
+| Loogika aitab | Loogika **triggerdab** veel rohkem |
+
+> *Sa ei saa „normaalselt" koostööd teha inimesega, kes on trauma olekus — nagu sa ei saa loogiliselt vestelda haukuva koeraga, kes arvab, et sa tuled teda lööma.*
+
+**See ei tähenda, et inimene on halb.** See tähendab, et **keha on veel relva äärel** — ja sina pead seda teadma.
+
+### Koera metafoor — kuidas trauma käitub
+
+Renee metafoor operatsioonis:
+
+```
+Traumatiseeritud inimene = haukuv koer trauma olekus
+```
+
+| Koer teeb | Trauma teeb |
+|-----------|-------------|
+| Iga samm tundub rünnak | Iga sõna, vaikus või žest tundub oht |
+| Haugub — isegi kui sa tuled head parand | Karjub, süüdistab, ähvardab — **mitte sündmuskoha tõttu** |
+| Ei tee seda „pahatahtlikult" | **Keha üritab eemaldada ähvardust** — mitte mõistus |
+
+**Mida SA ei tee:**
+- Ei vaidle haukumisega
+- Ei anna haukumisele **tasu** (tähelepanu, drama, võitlus, „sa oled õigel")
+- Ei oota kohe „normaalset koostööd"
+
+**Mida SA teed:**
+
+| Samm | Tegevus |
+|------|---------|
+| 1 | **Anna ruumi** — füüsiline ja emotsionaalne distants, kui vaja |
+| 2 | **Loo turvalisus** — mitte surve, mitte „räägi kohe" |
+| 3 | **Ignoreeri haukumist** — ära söö sisse provokatsiooni; **võta hapnik ära** (ära hoia tuld elus) |
+| 4 | **Eemalda tasu tsükkel** — reaktiivne käitumine ei tohi tuua tähelepanu, debatti ega drama |
+| 5 | **Anna uus tasu** — **vaikus = positiivne tähelepanu**; **hea käitumine = positiivne tähelepanu** |
+| 6 | **Halb käitumine = tähelepanu puudub** — mitte karistus, mitte loeng; lihtsalt **ei feedi** |
+
+> *Kui koer on rahulik — kiida. Kui koer haugub — ära vaata teda. Ära võitle. Oota, kuni närvisüsteem rahuneb. Alles siis on koostöö võimalik.*
+
+### Jeff Cooper — teadlikkus ja otsustusvõime
+
+**Jeff Cooper** (*Principles of Personal Defense*) õpetab **isiklikku kaitset** läbi **teadlikkuse**, mitte hirmu:
+
+| Cooperi tase | Tähendus operatsioonis |
+|--------------|------------------------|
+| **Condition White** | Sa ei märka, et teine on triggeris — **ohtlik** |
+| **Condition Yellow** | Relaxed alert — sa näed, et keha on pinges; sa ei üllatu |
+| **Condition Orange** | Konkreetne oht tajutud — sa valid plaani (ruum, vaikus, abi) |
+| **Condition Red** | Tegevus — kaitse end ja teisi; professionaalne abi kui vaja |
+
+**Cooperi reeglid (kohandatud suhtlusele):**
+- **Tea, mis on sinu selja taga** — mis triggerid, mis ajalugu, mis muster kordub
+- **Märka kõike, mis on paigast ära** — hääl, keha, vaikus, äkiline viha
+- **Ära ole üllatunud** — trauma võib „tulistada" **juhuslikult näiva** hetkena
+
+### Renee operatsiooniline tõlgendus (Cooperi mõtteviis)
+
+> *„All women are weapons. Especially traumatized women."*  
+> — Renee sõnastus operatsioonis (inglise keeles); **mitte süüdistus**, vaid **teadlikkuse** reegel.
+
+**Mida see TÄHENDAB:**
+
+| Ei tähenda | Tähendab |
+|------------|----------|
+| Naine on halb | Naine (või iga traumatiseeritud inimene) on **keha**, mis võib reageerida **enne mõistust** |
+| Sa pead kartma naisi | Sa pead olema **teadlik** — Cooperi Condition Yellow |
+| Sõnu saab usaldada | Suust tulev **trauma olekus** on sageli **ebatäpne, ülepaisutatud või „vale"** — see on **signaal**, mitte tõde |
+| Nad teevad seda tahtlikult | **Nad ei tee seda tahtlikult.** Keha üritab eemaldada ähvardust |
+
+**Eriti traumatiseeritud naine** — kelle keha on kogenud vägivalda, alandamist, hülgamist — võib reageerida **täiesti juhuslikul hetkel**. Mitte sest sa oled halb. Sest **trauma on teistsugune reaalsus**.
+
+> *Kõik, mis suust välja tuleb trauma olekus, on **ebaoluline** vestluse mõttes — see on trauma, mis püüab ähvardust eemaldada. **Ära võta seda sisse. Ära vaidle. Ära feedi.**
+
+### Koostöö — millal ja kuidas
+
+| Olukord | Mida teha |
+|---------|-----------|
+| **Inimene on triggeris** | **EI koostööd** tavalises mõttes — ruum, turvalisus, ignoreeri haukumist |
+| **Inimene rahuneb** | Alusta **väikest** positiivset tähelepanu — vaikust, rahulikku kohalolekut |
+| **Inimene käitub hästi** | Positiivne tähelepanu, kiitus, turvalisus |
+| **Inimene käitub halvasti** | **Ära anna tähelepanu** — mitte karmus, mitte loeng; eemalda tasu |
+| **Füüsiline oht** | **Turvalisus esmalt** — Eluliin **655 8088**, ohvriabi **116 006**, politsei **112** |
+
+**Alles kui närvisüsteem on rahul** — siis saab tulla spordikommentaator, valideerimine, aus vestlus (vt ülal).
+
+### Üks lause, mida meelde jätta
+
+> **„Trauma ei ole koostöö. Trauma on haukumine. Anna ruumi. Loo turvalisus. Ignoreeri haukumist. Tasusta rahulikku. Nad ei tee seda tahtlikult."**
+
+**Seosed:** Lisa S (miks) · Lisa H (kriis) · Lisa I (inimesekeskne juhtimine) · van der Kolk (keha enne mõistust)
+
+---
+
 ## Kuidas vastata (5 sammu — uuendatud)
 
 | Samm | Mida teed | Näide |

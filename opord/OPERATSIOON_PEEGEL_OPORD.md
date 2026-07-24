@@ -242,6 +242,7 @@ Täielik ahel: **Lisa S** (miks) → **Lisa V** (uni) → **Lisa I** (juhtimine)
 | **Keha enne mõistust** | Inimene reageerib **pre-verbaalselt** (van der Kolk) — alguses räägid kehaga, mitte loogikaga |
 | **Mõistmine** | Kuulamine enne õpetamist; valideerimine enne lahendust (Lisa P) |
 | **Paranemis-teadlikkus** | Arvestada keha-mälu, triggerite ja kaitse võimalust — **ilma sildistamata inimest katkiseks** |
+| **Lisa P § KRIITILINE** | Trauma = teistsugune reaalsus; koera metafoor; Cooperi teadlikkus; **ära feedi haukumist** |
 | **Valik** | Inimene kontrollib tempot; üks samm korraga; õigus öelda „mitte nüüd" |
 | **Ausus** | Mitte varjata kavatsust; mitte kasutada haavandit turunduseks |
 | **Roll + eesmärk + juhis** | Kui inimesel on **roll**, **eesmärk** ja **konkreetsed juhised** — ta tihti teebki seda |
@@ -1133,7 +1134,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | **„Juhul kui…" (keegi ütleb WTF)** | Loe **Lisa P** — **spordikommentaator** enne vastust: „Ma märkan, et see teeb mind kahtlevaks." |
 | **„Juhul kui…" (kes sa oled / kahtlus taustas)** | **Lisa R** — lühike fakt, üks meedialink, ära müü. Täielik profiil: `renee-aluste-profiil.md` |
 | **„Juhul kui…" (takistus / konflikt)** | Lisa P — 5 sammu: turvalisus → spordikommentaator → valideeri → ausus → valik. Ära ütle „ära ole tundlik". |
-| **„Juhul kui…" (trauma / trigger)** | **Keha enne mõistust** (van der Kolk): turvalisus → rahunemine → alles siis vestlus. Suust tulev sõna on signaal, mitte alati tõde. Suuna: Kert Grünberg, Priit Lilleväli, Kaia Kapsta-Forrester, Lisa H/F, EMDR. Inimene kontrollib tempot. |
+| **„Juhul kui…" (trauma / trigger)** | **Keha enne mõistust** (van der Kolk): turvalisus → rahunemine → alles siis vestlus. Suust tulev sõna on signaal, mitte alati tõde. **Lisa P KRIITILINE REEGEL:** ära vaidle trauma olekus; ignoreeri „haukumist"; tasusta rahulikku. Suuna: Kert Grünberg, Priit Lilleväli, Kaia Kapsta-Forrester, Lisa H/F, EMDR. Inimene kontrollib tempot. |
 | **„Juhul kui…" (identiteet)** | Loe Lisa M — Robbinsi 5 sammu, manifest peegli ees, kodaniku vanne. LIHTSUS: üks plaan, üks tegu. |
 | **„Juhul kui…" (riik / bürokraatia)** | Loe Lisa L (Musk): küsi → kustuta → lihtsusta → kiirenda → automatiseeri. Automatiseeri viimasena. |
 | **„Juhul kui…" (keha suletud)** | Kui tunned end emotsionaalselt külmutatuna — kaaluge tantralaagrit või festivali (tantrafest.ee), Villido kursust (lilleoru.ee) või puhkust Pühalis (puhali.ee). Kriisis: Lisa H esimesena. |
@@ -1291,7 +1292,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Ministeeriumid ja TAI:** Lisa L — `lisad/lisa-l-ministeeriumid-ja-tai.md` (Muski 5-astmeline algoritm)
 - **Kodaniku identiteet:** Lisa M — `lisad/lisa-m-kodaniku-identiteet-ja-vanne.md` (Robbins 5 sammu, manifest, vanne, LIHTSUS)
 - **Vaktsineerimine:** Lisa O — `lisad/lisa-o-vaktsineerimine.md` (uuringud, ühiskond, konspiratsioonid, aus hinnang)
-- **Takistused ja valideerimine:** Lisa P — `lisad/lisa-p-takistused-ja-valideerimine.md` (spordikommentaator, mis töötab / mis mitte, emotsioonide nägemine)
+- **Takistused ja valideerimine:** Lisa P — `lisad/lisa-p-takistused-ja-valideerimine.md` (spordikommentaator, **KRIITILINE REEGEL: trauma ja koostöö**, Cooper, van der Kolk)
 - **Side eeskirjad:** Lisa Q — `lisad/lisa-q-side-eeskirjad-ja-suhtlus.md` (hääl, GOTWA, austav keel, demomeeste igapäevane standard)
 - **Kes ma olen (kahtlus / taust):** Lisa R — `lisad/lisa-r-kes-ma-olen-ja-taust.md` (CV, teenistus, koolitused, meedia tõendid)
 - **Valitsuse hetke-analüüs:** Lisa T — `lisad/lisa-t-valitsuse-ipb-analuus.md` (Ranger Handbook, KPI, 13 ministrit, show me the money)
@@ -2317,7 +2318,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **M** | — | `lisad/lisa-m-kodaniku-identiteet-ja-vanne.md` | Kodaniku identiteet — Robbins 5 sammu, manifest peegli ees, kodaniku vanne, etapp LIHTSUS |
 | **N** | — | `lisad/lisa-n-aluste-kool.md` | **Üksus Aluste_kool** — SOK demomehed, viisakuseeskiri, päevane checklist |
 | **O** | — | `lisad/lisa-o-vaktsineerimine.md` | **Vaktsineerimine** — uuringud, ühiskond, konspiratsioonid, Renee isiklik valik, TAI/Terviseamet |
-| **P** | — | `lisad/lisa-p-takistused-ja-valideerimine.md` | **Takistused ja valideerimine** — spordikommentaator, van der Kolk, paranemis-teadlikkus |
+| **P** | — | `lisad/lisa-p-takistused-ja-valideerimine.md` | **Takistused ja valideerimine** — spordikommentaator, **KRIITILINE trauma-reegel**, Cooper, van der Kolk |
 | **Q** | — | `lisad/lisa-q-side-eeskirjad-ja-suhtlus.md` | **Side eeskirjad** — hääl, GOTWA, austav keel, Pareto 80/20, demomehed |
 | **S** | — | `lisad/lisa-s-kiusamine-aju-ja-trauma.md` | **Kiusamine, aju ja trauma** — *Imeline Teadus*, miks inimesed käituvad nii, Body Keeps the Score |
 | **T** | — | `lisad/lisa-t-valitsuse-ipb-analuus.md` | **Valitsuse hetke-analüüs** — IPB raamistik, KPI/OKR, 13 ministrit, ellujäämisrežiim, tagasiside puudumine |

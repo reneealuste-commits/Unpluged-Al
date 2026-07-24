@@ -8,6 +8,8 @@
 
 > *„Sa ei saa alguses rääkida mõistusega. Sa saad alguses rääkida ainult kehaga."* — van der Kolk (vt Lisa P)
 
+**Lisa P KRIITILINE REEGEL:** traumatiseeritud inimesel on **teistsugune reaalsus** — tavaline koostöö on trauma olekus võimatu. Koera metafoor: ruum, turvalisus, ignoreeri haukumist, tasusta rahulikku. Cooperi teadlikkus. **Nad ei tee seda tahtlikult.**
+
 ---
 
 ## Miks see lisa on

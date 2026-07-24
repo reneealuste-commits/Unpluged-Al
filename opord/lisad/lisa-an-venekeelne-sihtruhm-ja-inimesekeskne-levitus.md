@@ -160,11 +160,68 @@ Huber päringus küsida **eraldi**:
 | # | Tegevus | Vastutaja |
 |---|---------|-----------|
 | 1 | Helile saada §8 kinnitus | Renee |
-| 2 | Otsi **venekeelne kanalijuht** (tõlkija, õpetaja, CR instruktor) | Renee + Remo |
+| 2 | Vestlus **Mihhail Ušakoviga** (kickbox Balti hõbe, Kalaranna) | Renee |
 | 3 | Kirjuta **1 lk tuum** vene keeles (trauma-teadlik) | Kanalijuht + Lisa P |
 | 4 | Huber päringusse RU-õiguste rida (Lisa AM täiendus) | Heli |
 | 5 | Lisa AN viide OPORD-i ja Lisa AL-i | Repo |
 
 ---
 
-*Lisa AN — Operatsioon „Peegel“. Venekeelne sihtrühm ilma Heli piiride murdmata. Viimati uuendatud: 2026-07-24.*
+---
+
+## 10. Kandidaat: Mihhail Ušakov (venekeelne demomees)
+
+**Allikas:** Renee kontakt (2026-07-24)  
+**Staatus:** EELKANDIDAAT — vestlus enne aktiveerimist
+
+### Taust (kinnitatud / teada)
+
+| Fakt | Detail |
+|------|--------|
+| **Nimi** | Mihhail Ušakov (ka *Usakov* / *Uzakov*) |
+| **Sünd** | 21.07.1989 |
+| **Elukoht** | Eesti resident |
+| **Restoran** | **Kalaranna Cafe Resto**, Kalaranna tn 8, Põhja-Tallinn (Kalamaja/Kalaranna piirkond) |
+| **Ettevõte** | K-Kalaranna OÜ — juhatuse liige, 50% osanik (vend Roman Ušakov = peakokk) |
+| **Sport** | **Kickboxing — Balti hõbemedal** (WAKO Baltic Open tasemel; aasta/kategooria kinnitada vestlusel) |
+| **Keeled** | Vene (emakeel), eesti (tõenäoliselt igapäev) |
+
+### Miks ta sobib Lisa AN Kiht 0-le
+
+| Kriteerium | Ušakov |
+|------------|---------|
+| Venekeelne, Eesti-põhine kodanik | ✓ |
+| Kogukonna ankur (kohalik restoran) | ✓ |
+| Distsipliin / keha / enesekontroll (kickboxing) | ✓ — üldine keel, mitte vägivald |
+| Mitte poliitik (erineb Nils Ušakovsist) | ✓ — aga **perekonnanimi** võib segadust tekitada; tutvustus selgelt |
+| Heli rada eraldi | ✓ — ta ei kirjasta raamatut |
+
+### Mida kinnitada esimesel kohtumisel
+
+1. **Kickboxing:** millal, mis kategooria, milline turniir (WAKO Baltic Open aasta)?
+2. Kas ta räägib eesti keelt piisavalt demomehe rolliks?
+3. Kas ta on valmis **lühivormi** jaoks (1 lk / 3 min video) — mitte raamat?
+4. Kas restorani avalik nägu lubab seda rolli (poliitiline tundlikkus)?
+5. Mis talle **motiveerib** — pere, kogukond, noored?
+
+### Roll (kui nõustub)
+
+| Roll | Mitte |
+|------|-------|
+| RU kanal **peer-educator** (Lisa AN §4 Kiht 0) | Steigeri kirjastaja |
+| Kohalik usaldusisik Põhja-Tallinnis | OPORD ametlik esindaja |
+| Eeskuju: distsipliin + pere + allikakontroll | Poliitiline kõneleja |
+
+### Vestluse avaus (mustand)
+
+> Misha, ma mõtlen ühele asjale. Heli teeb eestikeelse raamatu. Mina otsin inimest, kes aitaks **sama tuuma** vene keeles kogukonda viia — lühidalt, inimlikult, sinu sõnadega. Mitte poliitikat. Pere, usaldus, üks praktiline samm. Sa elad siin, juhid kohalikku kohta, oled sportlane — kas sa kuuled mind?
+
+### Lisa N demomehe reeglid (kohustuslik enne aktiveerimist)
+
+- Loe Lisa N checklist (Austa, Kuula, Usalda)
+- Loe Lisa P trauma-reegel (mitte süüdistav keel)
+- **Eeskuju enne sõna** — mitte OPORD reklaam
+
+---
+
+*Lisa AN — Operatsioon „Peegel“. Venekeelne sihtrühm ilma Heli piiride murdmata. Viimati uuendatud: 2026-07-24 (M. Ušakov kandidaat).*

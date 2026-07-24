@@ -209,6 +209,8 @@ Identiteet ei kasva vaakumis. Need inimesed ja organisatsioonid aitavad perel, l
 
 ### Eesti Montessori võrgustik — lapse identiteet
 
+*Täielik nimekiri koolidest ja lasteaedadest: **Lisa J §5**.*
+
 - **Eesti Montessori Instituut** (mariamontessori.ee) — AMI juhendajate koolitus, kvaliteetne haridus.
 - **Eesti Montessori Ühing** (montessorieesti.ee) — võrgustik üle Eesti alates 2018.
 - **Võtmeinimesed:** Ruth Maria Roosi-Ott, Kerli-Kristi Allikvee (AMI juhendajad, instituudi juhatus); Jaanika Müürsepp, Janell Assmann (projektid).

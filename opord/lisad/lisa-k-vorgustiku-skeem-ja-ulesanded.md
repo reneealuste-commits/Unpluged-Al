@@ -28,7 +28,7 @@
 │ KOORDINEERIMINE  │   │ COMBAT READY OÜ      │   │ VANGLATEENISTUS  │   │ HARIDUSTASE         │   │ TEADVUSTUS       │
 │ Renee Aluste     │   │ Remo Ojaste (CEO)    │   │ Ain Anslan       │   │ (vt Lisa J)         │   │ Lucas, Villido   │
 │ (vt eraldi prof) │   │ Martin Jõesaar       │   │ Viru vangla      │   │ Techno TLN, KVA,    │   │ tantra, Pühali   │
-└────────┬─────────┘   │ Priit, Renee, Eerik  │   └──────────────────┘   │ RaM Kool            │   └────────┬─────────┘
+└────────┬─────────┘   │ Priit, Renee, Eerik  │   └──────────────────┘   │ RaM, TVW Waldorf   │   └────────┬─────────┘
          │             │ Elmar, Louis, Robert │                            └─────────┬─────────┘            │
          │             ├──────────────────────┤                                      │                      │
          │             │ Her Way (naised)     │                                      │                      │
@@ -518,6 +518,8 @@
 | Helin Vaher | RaM Kool | Lapsevanem, kommunikatsioon |
 | **Ave Osa** | **TVW Waldorf** | **Võtmeisik, holistiline tugi** |
 | Kristina Šanin | TVW Waldorf | Kooli juhataja |
+| Ruth Maria Roosi-Ott | Montessori võrgustik | AMI juhendaja, instituudi juhatus |
+| Kerli-Kristi Allikvee | Montessori võrgustik | AMI juhendaja, võrgustiku sidumine |
 
 *Täielikud profiilid ja fotod: **Lisa J***
 
@@ -629,8 +631,8 @@
 | Kert Grünberg | Holistiline regressiooniterapeut | Trauma, TRE, kaassõltuvus (hingamistuba.ee) |
 | Jure Biechonski | Transpersonaalne psühhhoterapeut | THA, hüpnoteraapia (teadlikmina.ee) |
 | Andres Põhjala | Judotreener, Spordiklubi Do | Noored, distsipliin, Tartu (do.ee) |
-| Ruth Maria Roosi-Ott | AMI Montessori juhendaja | Lapse õppija-identiteet (Eesti Montessori Instituut) |
-| Kerli-Kristi Allikvee | AMI Montessori juhendaja | Montessori võrgustik Eestis |
+| Ruth Maria Roosi-Ott | AMI Montessori juhendaja | Instituudi juhatus; lapse õppija-identiteet (Lisa J §5) |
+| Kerli-Kristi Allikvee | AMI Montessori juhendaja | Montessori võrgustik üle Eesti (Lisa J §5) |
 | Sina ja Mina (Gordon) | Lapsevanemate koolitus | Gordoni suhtlustreening (sinamina.ee) |
 | Tallinna Perekeskus | „Imelised aastad" | Vanemlusprogramm 3–8-aastaste laste vanematele (pk.ee) |
 | PAPSID.EE | Illimar Pilt, Kristo Tuurmann | Tugevate isade kasvatamine; koolitused, töötoad; **Papside laager** (papsid.ee/papside-laager) |

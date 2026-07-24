@@ -202,6 +202,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 │ KVA juhtkond       │   │ (vt Lisa J)         │
 │ RaM Kool (Vaher)   │   │                     │
 │ TVW Waldorf (Osa)  │   │                     │
+│ Montessori võrg.   │   │                     │
 └─────────┬──────────┘   └─────────┬──────────┘
           │                        │
           └────────────┬───────────┘
@@ -558,6 +559,14 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 - **Miks ta on siin:** Waldorf õpetab terviklikku inimest — mitte ainult teste. Operatsioon ütleb: *sa pole katki*. Ave sidestab koolipere holistilise toe ja ausa vestluse kultuuriga (Lisa P). Täiendab Kert Grünbergi ja teadlikkuse võrgustikku. Täielik kooli profiil: **Lisa J**.
 - **Kontakt:** +372 5690 4407 · [waldorf.ee](https://waldorf.ee) · [holistika.ee](https://holistika.ee/teraapia/terapeudid/)
 
+#### Eesti Montessori võrgustik — koolid ja lasteaiad
+
+- **Roll operatsioonis:** Üleriigiline haridusvõrgustik — lapse **õppija-identiteet**, autonoomia ja austus lapse vastu algab varakult (Lisa M).
+- **Taust:** **Eesti Montessori Ühing** ([montessorieesti.ee](https://www.montessorieesti.ee)) koondab AMI juhendajatega lastehoiud, lasteaiarühmad ja kooliklassid üle Eesti. **Eesti Montessori Instituut** ([mariamontessori.ee](https://mariamontessori.ee)) koolitab AMI juhendajaid. Deviss: *„Aita mind seda ise teha!"* — 4 AMI kooliklassi (RaM Kool, Mahtra PK, Keila Kool, Tartu Forselius); lasteaiarühmad Harjumaal, Tartus, Pärnus, Haapsalus, Nõos ja mujal.
+- **Võtmeisikud:** **Ruth Maria Roosi-Ott** ja **Kerli-Kristi Allikvee** (AMI juhendajad, instituudi juhatus).
+- **Miks siin:** Montessori õpetab last **ise mõtlema** — mitte kuuletuma algoritmile. See on vastupanuvõime enne nutitelefoni. Kattub operatsiooni põhireegliga: terve, normaalne inimene algusest. Täielik nimekiri ja piirkondlikud MTÜ-d: **Lisa J §5**.
+- **Kontakt:** info@mariamontessori.ee · [montessorieesti.ee/montessori-haridusasutused-eestis](https://www.montessorieesti.ee/montessori-haridusasutused-eestis/)
+
 #### Võrgustiku toetajad (taktikaline tase)
 - **Tegusad ettevõtjad (hajutatud võrgustik)** — Martin Plaser, Nils Ratt, Priit Uuemaa, Sverre Puustusmaa, Marko Kaseleht, Kaido Raudvere; tegutsevad sõltumatult, ilma tsentraalse käsuta — igaüks oma piirkonnas ja valdkonnas.
 - **Robert Käsper** — tegutseb **hajutatult omal maastikul**: meedik (18D), veteran, Delfi „Eriväelase jutud"; kaitse ja meditsiin.
@@ -569,7 +578,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 - **Kert Grünberg** — trauma ja hingamine (hingamistuba.ee); holistiline regressioon, TRE, kaassõltuvus; taastumine.
 - **Jure Biechonski** — transpersonaalne psühhhoteraapia (teadlikmina.ee); THA, hüpnoteraapia, psühhosomaatika.
 - **Andres Põhjala** — judo ja noored (do.ee); Spordiklubi Do, Tartu; füüsiline distsipliin ja kogukond.
-- **Eesti Montessori võrgustik** — Eesti Montessori Instituut ja Ühing; AMI juhendajad (sh Ruth Maria Roosi-Ott, Kerli-Kristi Allikvee); lapse õppija-identiteet.
+- **Eesti Montessori võrgustik** — vt ülal **Lisa J §5**; AMI juhendajad Ruth Maria Roosi-Ott, Kerli-Kristi Allikvee.
 - **MTÜ Perekoolitusühing Sina ja Mina** — Gordoni perekooli suhtlustreeningud lapsevanematele (TAI hinnang: VÄGA HEA).
 - **Tallinna Perekeskus** — programm „Imelised aastad" (3–8-aastaste vanematele); tõenduspõhine vanemlusabi.
 - **PAPSID.EE** — Illimar Pilt ja Kristo Tuurmann; missioon: rohkem õnnelikke lapsi, vähem lahutatud peresid; **Papside laager** (3-päevane isade kogemuslaager, [papsid.ee/papside-laager](https://papsid.ee/papside-laager/)); tugevate ja kohalolevate isade kasvatamine.
@@ -647,7 +656,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 | Taktikaline | Combat Ready (+ Her Way, Youth/Supermängud, Pertinax) | Juhtimiskoolitus, ülim vastutus — aktiivne |
 | Avalik sektor | Ain Anslan (Viru vangla) | Juhtimiskultuur, kriisivalmidus — aktiivne (Lisa K) |
 | Strateegiline kommunikatsioon | Taavi Karotamme, Arvo Jõesalu | Kaitseväe ja Kaitseliidu strateegiline kommunikatsioon — aktiivne |
-| Haridus | Techno TLN (Ott Pärna), KVA juhtkond, RaM Kool (Elmar Vaher), **Tallinna Vaba Waldorfkool (Ave Osa)** | Kutse-, juhtimis-, väärtus- ja waldorfharidus — aktiivne (Lisa J) |
+| Haridus | Techno TLN (Ott Pärna), KVA juhtkond, RaM Kool (Elmar Vaher), **Tallinna Vaba Waldorfkool (Ave Osa)**, **Montessori võrgustik (Roosi-Ott, Allikvee)** | Kutse-, juhtimis-, väärtus-, waldorf- ja Montessori-haridus — aktiivne (Lisa J) |
 | Kohalik | Peeter Järvsoo (Noorte Kotkad), Andrei Ambros (Harku), Andres Põhjala (Tartu Do) | Noored ja piirkondlik vastupanuvõime — aktiivne |
 | Rahva tase | Operatsioon „Peegel" võrgustik | KÄIVITATUD — see käsk |
 | Toetus | Remo Ojaste / Combat Ready | Extreme Ownership, äriline juhtimine — aktiivne |
@@ -809,6 +818,11 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 1. Sidestada Waldorfkooli kogukond operatsiooni turvalisuse ja mõistmise standardiga (Lisa P).
 2. Toetada lapsevanemaid holistilise regressiooniteraapia ja ausa vestluse kaudu — mitte sildistades.
 3. Ehita sild waldorfpedagoogika (terviklik inimene) ja paranemis-teekonna vahel.
+
+### Eesti Montessori võrgustik (haridustase, vt Lisa J §5)
+1. Toetada lapse õppija-identiteeti — laps õpib ise mõtlema, mitte ainult kuuletuma (Lisa M).
+2. Levitada teadlikkust AMI-standardiga Montessori haridusest peredele ja koolidele.
+3. Sidestada Montessori lasteaiad ja kooliklassid operatsiooni pere- ja infosõja-vastase sõnumiga.
 
 ### Marge Sillaste (tugiteenused, inimeste juhtimine)
 1. Supervisioon ja coaching juhtidele, mentoritele ja tugispetsialistidele — inimeste juhtimine, mitte protsesside kontroll.
@@ -1050,6 +1064,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Haridus | Ott Pärna / Techno TLN | techno.ee (Lisa J — täielik juhtkond) |
 | Haridus | Rocca al Mare Kool | ramkool.edu.ee (Lisa J — juhtkond + Vaherid) |
 | Haridus | Tallinna Vaba Waldorfkool | waldorf.ee (Lisa J — Ave Osa, võtmeisik) |
+| Haridus | Montessori võrgustik | montessorieesti.ee · mariamontessori.ee (Lisa J §5) |
 | Akadeemiline tugi | Aarne Ermus | Kaitseväe Akadeemia |
 | Tervis / ennetus | Tervise Arengu Instituut (TAI) | tai.ee (vt Lisa L, **Lisa O**) |
 | Immuniseerimine | Terviseamet + Sotsiaalkaitseministeerium | terviseamet.ee (vt **Lisa O**) |
@@ -1111,7 +1126,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Taastumine looduses:** puhali.ee (Pühali Hea Elu Keskus, Urmas Sõõrumaa)
 - **Kriis (isad):** Lisa H — `lisad/lisa-h-kiirjuhend-kriisis-isale.md`
 - **Juhtimine (SOP):** Lisa I — `lisad/lisa-i-inimesekeskne-juhtimine.md` (Steiger 1997 + V-formatsiooni rotatsioon, ISBN 9985901274)
-- **Koolijuhtkonnad:** Lisa J — `lisad/lisa-j-haridusasutuste-juhtkonnad.md` (Techno TLN, KVA, Rocca al Mare Kool, **Tallinna Vaba Waldorfkool**)
+- **Koolijuhtkonnad:** Lisa J — `lisad/lisa-j-haridusasutuste-juhtkonnad.md` (Techno TLN, KVA, Rocca al Mare Kool, **Tallinna Vaba Waldorfkool**, **Montessori koolid ja lasteaiad**)
 - **Võrgustiku skeem:** Lisa K — `lisad/lisa-k-vorgustiku-skeem-ja-ulesanded.md` (kõik osalised, CR statistika, podcast)
 - **Ministeeriumid ja TAI:** Lisa L — `lisad/lisa-l-ministeeriumid-ja-tai.md` (Muski 5-astmeline algoritm)
 - **Kodaniku identiteet:** Lisa M — `lisad/lisa-m-kodaniku-identiteet-ja-vanne.md` (Robbins 5 sammu, manifest, vanne, LIHTSUS)
@@ -1754,6 +1769,13 @@ Steiger ei paku väljamõeldud mudeleid. Ta kirjeldab igapäevast juhtimist, kus
 *Minu küsimus sulle: Kas su lapse kool toetab terviklikku inimest — või ainult tulemust?*
 ---
 
+**K: Mis on Montessori võrgustik ja miks see operatsioonis on?**
+
+**V:** Eestis on **üleriigiline Montessori võrgustik** — AMI juhendajatega lastehoiud, lasteaiarühmad (3–6) ja kooliklassid (6–12) üle Eesti. **Eesti Montessori Ühing** ([montessorieesti.ee](https://www.montessorieesti.ee)) koondab asutused; **Eesti Montessori Instituut** ([mariamontessori.ee](https://mariamontessori.ee)) koolitab juhendajaid. Võtmeisikud: **Ruth Maria Roosi-Ott** ja **Kerli-Kristi Allikvee**. Deviss: *„Aita mind seda ise teha!"* — laps on õppija, mitte tühi nõu. Operatsioonis tähendab see: identiteet ja kriitiline mõtlemine algavad **enne** nutitelefoni. Kooliklassid: RaM Kool, Mahtra PK, Keila Kool, Tartu Forselius. Täielik nimekiri: **Lisa J §5**.
+
+*Minu küsimus sulle: Kas su laps õpib koolis mõtlema — või ainult vastuseid pähe?*
+---
+
 **K: Kes on Aigar Ojaots ja mis on MTÜ Pertinax?**
 
 **V:** Aigar Ojaots on ettevõtja ja MTÜ Team Pertinax kaasasutaja. Pertinax on mereväe vaimsuse ja distsipliiniga seotud meeskond — juba umbes 20 liiget, kes treenivad koos, et olla tugevad ja eneseteadlikud. Mitte teooria, vaid treening: juhtimine, meeskond, füüsiline ja vaimne vastupidavus. Renee treenib nendega koos. Operatsioonis tähendab see: kodanik, kes on treeninud end tugevaks, murrab infosõja mõju kergemini.
@@ -1903,7 +1925,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **G** | 7/7 | `lisad/raamat-07-juhi-ja-voida.md` | Juhi ja võida — kogukond ja kutse |
 | **H** | — | `lisad/lisa-h-kiirjuhend-kriisis-isale.md` | Kiirjuhend kriisis isale — kriisiteekond ja lugemisjärjekord |
 | **I** | — | `lisad/lisa-i-inimesekeskne-juhtimine.md` | Inimesekeskne juhtimine (Steiger 1997, Kert eessõna) — domineeriva juhtimise vastu, 6 sammast, V-formatsioon |
-| **J** | — | `lisad/lisa-j-haridusasutuste-juhtkonnad.md` | Haridusasutuste juhtkonnad — Techno TLN, KVA, RaM Kool, **Tallinna Vaba Waldorfkool** (Ave Osa) |
+| **J** | — | `lisad/lisa-j-haridusasutuste-juhtkonnad.md` | Haridusasutused — Techno TLN, KVA, RaM Kool, TVW Waldorf, **Montessori koolid ja lasteaiad** |
 | **K** | — | `lisad/lisa-k-vorgustiku-skeem-ja-ulesanded.md` | Võrgustiku skeem — kõik osalised, allüksuste ülesanded, CR statistika, podcasti külalised |
 | **L** | — | `lisad/lisa-l-ministeeriumid-ja-tai.md` | Ministeeriumid ja TAI — Muski 5-astmeline protsessijuhtimine (küsi → kustuta → lihtsusta → kiirenda → automatiseeri) |
 | **M** | — | `lisad/lisa-m-kodaniku-identiteet-ja-vanne.md` | Kodaniku identiteet — Robbins 5 sammu, manifest peegli ees, kodaniku vanne, etapp LIHTSUS |

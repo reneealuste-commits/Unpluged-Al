@@ -1,7 +1,7 @@
 # Lisa J — Haridusasutuste juhtkonnad
 
 **Seotud:** Operatsioon „Peegel" — haridustase  
-**Eesmärk:** Täielik meeskondade nimekiri, taust ja operatsioonis rollid koolide juhtidel, kes toetavad noorte vastupanuvõimet, praktilist haridust ja inimesekeskset juhtimist. Hõlmab Techno TLN, Kaitseväe Akadeemia, Rocca al Mare Kooli ja **Tallinna Vaba Waldorfkooli**.
+**Eesmärk:** Täielik meeskondade nimekiri, taust ja operatsioonis rollid koolide juhtidel, kes toetavad noorte vastupanuvõimet, praktilist haridust ja inimesekeskset juhtimist. Hõlmab Techno TLN, Kaitseväe Akadeemia, Rocca al Mare Kooli, **Tallinna Vaba Waldorfkooli** ja **Montessori koole ning lasteaedu** (üle Eesti).
 
 > *Kool on esimene riiklik struktuur, kuhu laps jõuab peale kodu. Kui koolijuht juhib inimesi — mitte ainult protsesse — on see operatsiooni võit.*
 
@@ -326,19 +326,101 @@
 
 ---
 
-## 5. Ühised ülesanded (haridustase)
+## 5. Montessori koolid ja lasteaiad (Eesti võrgustik)
+
+**Veeb:** [montessorieesti.ee](https://www.montessorieesti.ee) · [mariamontessori.ee](https://mariamontessori.ee)  
+**Kontakt:** info@mariamontessori.ee · [montessorieesti.ee/montessori-haridusasutused-eestis](https://www.montessorieesti.ee/montessori-haridusasutused-eestis/)  
+**Taust:** Eestis tegutseb **üleriigiline Montessori võrgustik** — AMI (Association Montessori Internationale) juhendajatega lastehoiud, lasteaiarühmad ja kooliklassid. **Eesti Montessori Ühing** (alates 2018) koondab asutused; **Eesti Montessori Instituut** koolitab ja toetab AMI juhendajaid. Deviss: *„Aita mind seda ise teha!"* — laps on **õppija**, mitte tühi nõu; täiskasvanu juhib, mitte sunnib.
+
+**Operatsioonis roll:** Haridustase — lapse **identiteet ja autonoomia** algab varakult (Lisa M). Montessori austab last inimesena — see kattub operatsiooni põhireegliga: *kohtleme kõiki asjaosalisi nagu terveid, täiesti normaalseid inimesi*. Koolid ja lasteaiad on **vastupanuvõime kantsid** enne algoritmi — laps õpib ise mõtlema, mitte ainult vastuseid pähe. Toetab Faas II (tugevdamine) ja Faas III (peegeldamine).
+
+### Võtmeisikud (võrgustiku tuum)
+
+#### Ruth Maria Roosi-Ott — AMI Montessori juhendaja, Eesti Montessori Instituudi juhatus
+
+- **Roll operatsioonis:** Montessori hariduse kvaliteedi ja lapse õppija-identiteedi eestvedaja Eestis.
+- **Taust:** AMI Montessori juhendaja; Eesti Montessori Instituudi juhatuse liige. Instituut koolitab AMI juhendajaid, korraldab seminare, tõlgib ja levitab Montessori kirjandust.
+- **Kontakt:** [mariamontessori.ee](https://mariamontessori.ee) · info@mariamontessori.ee
+- **Ülesanne operatsioonis:**
+  1. Toetada peresid ja koole, kus laps õpib **ise mõtlema** — mitte ainult kuuletuma.
+  2. Sidestada Montessori pedagoogika operatsiooni kodaniku identiteedi tööriistadega (Lisa M).
+  3. Tagada AMI standard — autentne Montessori, mitte bränd ilma sisuta.
+
+#### Kerli-Kristi Allikvee — AMI Montessori juhendaja, Eesti Montessori Instituudi juhatus
+
+- **Roll operatsioonis:** Montessori võrgustiku sidumine üle Eesti; juhendajate kogukonna toetamine.
+- **Taust:** AMI Montessori juhendaja; Eesti Montessori Instituudi juhatuse liige. Projektid: Jaanika Müürsepp, Janell Assmann (instituudi projektijuhid).
+- **Kontakt:** [mariamontessori.ee](https://mariamontessori.ee) · [montessorieesti.ee](https://www.montessorieesti.ee)
+- **Ülesanne operatsioonis:**
+  1. Koordineerida koostööd Montessori lasteaedade, kooliklasside ja lapsevanemate MTÜ-de vahel.
+  2. Levitada teadlikkust Montessori meetodist — eriti infosõja ajastul, kus lapse tähelepanu on rünnaku sihtmärk.
+  3. Toetada uute rühmade ja klasside teket (Keila, Tartu, Kiili, Jõelähtme jt).
+
+### AMI juhendajaga kooliklassid (6–12 vanuserühm)
+
+| Asutus | Asukoht | Märkus |
+|--------|---------|--------|
+| **Rocca al Mare Kooli Montessori klass** | Tallinn (Haabersti, Kadriorg) | RaM Kool — väärtuskool + Montessori |
+| **Tallinna Mahtra Põhikooli Montessori klass** | Tallinn, Lasnamäe | Avalik kool + Montessori rühm |
+| **Keila Kooli Montessori klass** | Keila | MTÜ Keila Montessori; Pargi tn 2 |
+| **Tartu Forseliuse Kooli Montessori klass** | Tartu, Ülejõe | Avatud 2024; MTÜ Tartu Montessori Kodu |
+
+*Tartu teine Montessori klass plaanis 2026. a.* — [tartumontessorikodu.ee](https://tartumontessorikodu.ee)
+
+### Montessori lasteaiarühmad ja lastehoiud (3–6 vanuserühm)
+
+**Harjumaa:** „7 kassi" lastehoid (Mustamäe), EluPuu Lasteaed (Rae), Kalli-kalli Uus-Veerenni (Kesklinn), Liisu lastehoid (Põhja-Tallinn), Maria Maja (Põhja-Tallinn), Montessori lapsed (Kesklinn), Montessori Maja (Pirita), Padise LA rühm, Pangapealse LA rühm (Harku), Rukkilille LA rühm (Keila), Endla LA rühm (Kesklinn), Väike Päike Viimsi (Viimsi)
+
+**Muud maakondad:** Haapsalu Montessori Keskus · Pärnu Pöialpoiss (Mai) · Nõo Krõll · Väike Päike Tartu (Väikesed Teadlased)
+
+*Täielik nimekiri uuendatakse: [montessorieesti.ee](https://www.montessorieesti.ee/montessori-haridusasutused-eestis/)*
+
+### Montessori sõimerühmad (0–3 vanuserühm)
+
+| Asutus | Asukoht |
+|--------|---------|
+| Montessori Maja lastehoid | Tallinn, Pirita |
+| Väike Päike Mustamäe Montessori Lastehoid | Tallinn, Mustamäe |
+| Kes Keda Kasvat | (vt montessorieesti.ee) |
+| Montessori Lastehoid | Harku vald, Tabasalu |
+
+### Piirkondlikud kogukonnad ja MTÜ-d
+
+| MTÜ / kogukond | Piirkond | Eesmärk |
+|----------------|----------|---------|
+| **Keila Montessori MTÜ** | Keila | 6–12 kooliklass; uued 3–6 rühmad — [keilamontessori.ee](https://keilamontessori.ee) |
+| **Tartu Montessori Kodu** | Tartu | Forseliuse kooliklass, juhendajakoolitus, kogukond — [tartumontessorikodu.ee](https://tartumontessorikodu.ee) |
+| **MTÜ Jõelähtme Montessori** | Jõelähtme | Uute rühmade ja klasside eeldused |
+| **Kiili Montessori** (kavandamisel) | Kiili vald | Esimene Montessori lasteaiarühm plaanis |
+| **Pärnu Montessori MTÜ / Keskus** | Pärnu | 3–6 rühmad |
+| **Lõuna-Eesti Montessori Keskus** | Võru | 3–6 rühm |
+| **Montessori Lastekeskus** (Tark Laps) | Tallinn, Mustamäe | Lastehoid alates 2006 — [tarklaps.ee](https://www.tarklaps.ee/est/lapsehoid.html) |
+
+### Miks Montessori operatsioonis?
+
+| Montessori põhimõte | Operatsiooni seos |
+|--------------------|-------------------|
+| Laps on õppija, mitte objekt | *Sa pole katki* — terve, normaalne inimene algusest |
+| Iseõppimine, enesekontroll | Kriitiline mõtlemine — mitte ainult vastuse päheõppimine |
+| Austus lapse vastu | Lisa P valideerimine; turvalisus ja mõistmine |
+| Käed-külge keskkond | Praktiline vastupanuvõime (nagu Techno TLN) |
+| Kogukond ja lapsevanemad | Pere rindejoon — vastutus algab kodus |
+
+---
+
+## 6. Ühised ülesanded (haridustase)
 
 Kõik ülalnimetatud juhtkonnad:
 
 1. **Infohügieen koolis** — õpetada noort kontrollima allikaid ja emotsioone digikanalites.
 2. **Eeskuju** — juht ise on see, mida ta ootab õpilaselt ja õpetajalt.
 3. **Praktiline vastupanuvõime** — oskused, mis töötavad nii koolis, tööl kui kriisis.
-4. **Koostöö** — Techno TLN ↔ RaM Kool ↔ **Tallinna Vaba Waldorfkool** ↔ Combat Ready Youth ↔ Noorte Kotkad ↔ KVA juhtimismudelid.
+4. **Koostöö** — Techno TLN ↔ RaM Kool ↔ **Tallinna Vaba Waldorfkool** ↔ **Montessori võrgustik** ↔ Combat Ready Youth ↔ Noorte Kotkad ↔ KVA juhtimismudelid.
 5. **Inimesed enne protsesse** — Steigeri SOP (Lisa I) kehtib ka koolijuhi kabinetis.
 
 ---
 
-## 6. Kontaktide kokkuvõte
+## 7. Kontaktide kokkuvõte
 
 | Asutus | Juht / võtmeisik | Veeb | E-post |
 |--------|------------------|------|--------|
@@ -356,6 +438,8 @@ Kõik ülalnimetatud juhtkonnad:
 | RaM Kool | Helin Vaher (lapsevanem) | agendapr.ee | helin.vaher@agendapr.ee |
 | **TVW Waldorf** | **Ave Osa (võtmeisik)** | waldorf.ee | tallinn@waldorf.ee |
 | TVW Waldorf | Kristina Šanin (juhataja) | waldorf.ee | kristina.sanin@waldorf.ee |
+| **Montessori** | **Ruth Maria Roosi-Ott** | mariamontessori.ee | info@mariamontessori.ee |
+| Montessori | Kerli-Kristi Allikvee | montessorieesti.ee | info@mariamontessori.ee |
 
 ---
 

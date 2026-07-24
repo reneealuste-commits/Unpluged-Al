@@ -180,7 +180,7 @@ Renee Aluste ei alustanud teooriast. Ta alustas oma elust:
 1. **Ta elas läbi murde.** Depressioon, infosõja mõju, isolatsioon, ekraan, lootusetus — ja taastumine (Lisa H). **37 aastat** domineeriva juhtimise ja vägivalla all (*mind ei kiusatud väikena* — aga leivale suud, kõik ära, vastu tahtmist). Kolm last võõrandatud. Oli ise kooli kiusaja. *Ma elasin üle surma.* Lahendus: **inimesekeskne juhtimine** (Kert + Steiger, Lisa I).
 2. **Ta põles läbi.** Umbes kolm aastat Sõdurioskuste kursuseid — efektiivselt, suurelt — kuni läbipõlemise ilmingud sundisid peatuma. Seekord tehakse **targemalt**: 1-1 vestlused, rotatsioon, mitte üks mees kogu aeg ees.
 3. **Riik teeb tööd, aga sõnum ei jõua igasse peresse.** Kaitsevägi, Kaitseliit, KAPO — head. Siiski tabavad algoritmid (TikTok, Telegram, võõrkeelsed kanalid) inimesi enne, kui nad aru saavad.
-4. **Liibanon õpetas.** Dominants ei tööta inimeste peal pikas mängus. Ausus ja usaldus töötavad paremini kui reeglid, mida kõik teavad, et on vale.
+4. **Üks veteran õpetas.** Dominants ei tööta inimeste peal pikas mängus. Ausus ja usaldus töötavad paremini kui reeglid, mida kõik teavad, et on vale. (Vt allpool — lugu ilma nimeta.)
 5. **Valitsuse tulemused ei teeni peresid.** Sündide langus, usalduse kriis, laste vaesus — vt **Hetke-analüüs** (dokumendi algus) ja **Lisa T** (täielik IPB-analüüs).
 
 **Esimene ukse lahti tegemine:** 1-1 vestlus **Rene Toomsega** on alustatud.
@@ -314,7 +314,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 
 **Võidu mõõdik:** Iga lapse elus on tugev, kohalolev isa- või eeskujufiguur. Üksikemade arvu vähenemine. Koolikiusamise vähenemine. Raha ja tähelepanu suunamine peredele, mitte hävitavatele mustritele.
 
-**Uus suund — Avastuspäev:** Operatsioon liigub edasi arenenud ühiskonna suunas: läbipaistvus domineerimise asemel, inimesekeskne juhtimine formaalse kontrolli asemel. Me ei ehita vanglaid, mida ise valvame, ja ei palka politseid neid reegleid jõustama — see on nõukogude kultuuri jäänuk. Parem tee on ausus, vastastikune austus ja põhjus-tagajärg: *mida külvad, seda lõikad.* (Vt Lisa I — Steiger 1997; õppetund Liibanonist allpool.)
+**Uus suund — Avastuspäev:** Operatsioon liigub edasi arenenud ühiskonna suunas: läbipaistvus domineerimise asemel, inimesekeskne juhtimine formaalse kontrolli asemel. Me ei ehita vanglaid, mida ise valvame, ja ei palka politseid neid reegleid jõustama — see on nõukogude kultuuri jäänuk. Parem tee on ausus, vastastikune austus ja põhjus-tagajärg: *mida külvad, seda lõikad.* (Vt Lisa I — Steiger 1997; veteranide jutt allpool.)
 
 ---
 
@@ -885,9 +885,11 @@ Operatsioon „Peegel" põhineb peegelneuronitel — ajus mehhanismil, mille abi
 
 **Põhipingutus:** Iga üksiku inimese otsus võtta vastutus oma perekonna ja mõtlemise eest.
 
-### Õppetund Liibanonist (Estpla-21, 2015)
+### Õppetund rahvusvahelisest laagrist (ühe veteranide jutu järgi)
 
-Renee Aluste teenis Estpla-21 raames UNIFIL-i Liibanonis Soome-Iiri pataljoni koosseisus umbes seitse kuud. Laagri reegel: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my first!"* Iiri laud oli täis pudelid. Reeglid loodi loogikaga; pärast kahte õlut mõtles emotsioon — sa ei olnud enam sama inimene. Terve laager oli rahulik ainult siis, kui eelmisel õhtul oli joodud palju. See oli eluõppetund: dominants ei tööta inimeste peal pikas mängus. Mänguteooria ütleb: tit-for-tat on parim. Eestikeeles: *mida külvad, seda lõikad.* Parem tee on ausus, usaldus ja inimesekeskne juhtimine — mitte vanglad, mida ehitame ise, ja politsei, kes neid valvab.
+*Alljärgnev on kokkuvõte loost, mida üks rahuvalvemissioonil teeninud veteran hiljem jagas — ilma missiooni, üksuse ega nimedeta.*
+
+Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my first!"* Ühel õhtul oli ühe riigi meeste laud täis pudelid. Reeglid loodi loogikaga; pärast kahte õlut mõtles emotsioon — sa ei olnud enam sama inimene. Terve laager oli rahulik ainult siis, kui eelmisel õhtul oli joodud palju. See oli eluõppetund: dominants ei tööta inimeste peal pikas mängus. Mänguteooria ütleb: tit-for-tat on parim. Eestikeeles: *mida külvad, seda lõikad.* Parem tee on ausus, usaldus ja inimesekeskne juhtimine — mitte vanglad, mida ehitame ise, ja politsei, kes neid valvab.
 
 ## b. Ülesanded lahinguüksustele
 
@@ -1138,7 +1140,7 @@ Renee Aluste teenis Estpla-21 raames UNIFIL-i Liibanonis Soome-Iiri pataljoni ko
 | **„Juhul kui…" (tahad olla tugevam isa)** | Loe Lisa D (*Tugev isa*). Kaaluge [papsid.ee](https://papsid.ee) koolitusi või **Papside laagrit** ([papsid.ee/papside-laager](https://papsid.ee/papside-laager/)) — 3 päeva isadele, praktilised tööriistad pere jaoks. |
 | **Lahingureeglid** | Ei ründa. Ei laima. Ei vihka. Ei manipuleeri. Peegeldame tervist, mitte haigust. |
 | **„Juhul kui…" (keegi palub nime eemaldada)** | **Lisa AJ** — kuldne taganemistee: eemalda nimi kõigist dokumentidest; kinnita austavalt; ära avalda. |
-| **Levitamine käsus nimetatud isikutele** | Lisa AJ — isiklik link või kuller + vahapitsat; lugemiskinnitus; vt `kommunikatsioon/vastus-taavi-karotamm.md` näidis. |
+| **Levitamine käsus nimetatud isikutele** | Lisa AJ — isiklik link või kuller + vahapitsat; lugemiskinnitus; vt `kommunikatsioon/vastus-kuldne-taganemine.md` näidis. |
 | **Tagasiside** | Igakuine tagasiside võrgustikule: mis töötab, mis mitte. Kanal: operatsiooni koordinaator. |
 
 ---
@@ -2214,7 +2216,7 @@ Koos **Lisa AA** (*Intiimsuse atlas*) — mehe keha teadlikult, ilma porri kui �
 
 ## X. Juhtimine, Avastuspäev ja inimesekeskne ühiskond
 
-*Stsenaarium: Ohvitser, ettevõtja ja kodanik küsivad uue suuna, Steigeri raamatu ja Liibanonist õpitu kohta.*
+*Stsenaarium: Ohvitser, ettevõtja ja kodanik küsivad uue suuna, Steigeri raamatu ja veteranide jutu kohta.*
 
 ---
 
@@ -2225,9 +2227,9 @@ Koos **Lisa AA** (*Intiimsuse atlas*) — mehe keha teadlikult, ilma porri kui �
 *Minu küsimus sulle: Millise reegli järgi sa elad, mida sa ise ei usu?*
 ---
 
-**K: Mis oli see lugu Liibanonist kahe õllega?**
+**K: Mis oli see lugu laagrist kahe õllega?**
 
-**V:** Estpla-21, 2015. Teenisin UNIFIL-is umbes seitse kuud. Reegel: kaks õlut. Kui keegi küsis — SOP vastus: „This is my first!" Iiri laud täis pudelid. Reeglid loodi loogikaga; pärast kahte õlut mõtles emotsioon. Laager oli rahulik ainult siis, kui eelmisel õhtul oli joodud palju. See ei olnud jätkusuutlik. Õppetund: dominants ei tööta inimeste peal pikas mängus. Inimesekeskne juhtimine — ausus, usaldus — on tõhusam.
+**V:** Üks veteran rääkis seda hiljem — rahuvalvemissioon, laager, kus reegel oli kaks õlut. Kui keegi küsis, SOP vastus: „This is my first!" Ühel laual pudelid täis. Reeglid paberil; pärast kahte õlut emotsioon. Laager oli rahulik ainult siis, kui eelmisel õhtul oli joodud palju. See ei olnud jätkusuutlik. Õppetund: dominants ei tööta inimeste peal pikas mängus. Inimesekeskne juhtimine — ausus, usaldus — on tõhusam. Kes, kus ja millal — see pole oluline. Oluline on õppetund.
 
 *Minu küsimus sulle: Kas sa juhid teisi reeglitega, mida sa ise ei järgi?*
 ---

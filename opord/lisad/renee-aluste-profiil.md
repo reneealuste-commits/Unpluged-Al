@@ -132,9 +132,9 @@ Umbes **kolm aastat** tegi Renee Sõdurioskuste kursuseid efektiivselt ja suurel
 
 ---
 
-## Õppetund Liibanonist
+## Õppetund veteranide jutust
 
-Renee teenis Estpla-21 raames Liibanonis. Laagri reegel: kaks õlut. SOP vastus küsimusele: *„This is my first!"* Reeglid loodi loogikaga; pärast kahte õlut mõtles emotsioon. Laager oli rahulik ainult siis, kui eelmisel õhtul oli joodud palju.
+Operatsiooni tuum on üks lugu, mida Renee kuulis ühelt rahuvalvemissioonil teeninud veteranilt — mitte oma missioonist, vaid kellegi teise kogemusest. Laagri reegel: kaks õlut. SOP vastus küsimusele: *„This is my first!"* Reeglid loodi loogikaga; pärast kahte õlut mõtles emotsioon. Laager oli rahulik ainult siis, kui eelmisel õhtul oli joodud palju.
 
 See oli eluõppetund, mis jõudis Operatsiooni „Peegel" tuuma: dominants ei tööta inimeste peal pikas mängus. Parem tee on ausus, usaldus ja inimesekeskne juhtimine — mitte vanglad, mida ehitame ise, ja politsei, kes neid valvab. (Vt Lisa I — Steiger 1997.)
 

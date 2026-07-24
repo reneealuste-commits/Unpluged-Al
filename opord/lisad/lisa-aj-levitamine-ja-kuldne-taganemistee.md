@@ -126,4 +126,4 @@ Hoia tabel (Google Sheets või Notion): Nimi | Kanal | Saadetud | Avatud | Kinni
 
 ---
 
-*Lisa AJ - Operatsioon „Peegel“. Viimati uuendatud: 2026-07-24 (Taavi Karotamme ja Arvo Jõesalu nimed eemaldatud nende palvel - kuldne taganemistee rakendatud).*
+*Lisa AJ - Operatsioon „Peegel“. Viimati uuendatud: 2026-07-24 (kuldne taganemistee rakendatud — nimed eemaldatud kõigist dokumentidest).*

@@ -132,7 +132,7 @@ Hoia tabel (Google Sheets v\u00f5i Notion): Nimi | Kanal | Saadetud | Avatud | K
 
 ---
 
-*Lisa AJ - Operatsioon \u201ePeegel\u201c. Viimati uuendatud: 2026-07-24 (Taavi Karotamme ja Arvo J\u00f5esalu nimed eemaldatud nende palvel - kuldne taganemistee rakendatud).*
+*Lisa AJ - Operatsioon \u201ePeegel\u201c. Viimati uuendatud: 2026-07-24 (kuldne taganemistee rakendatud \u2014 nimed eemaldatud k\u00f5igist dokumentidest).*
 """
 
 OUT.write_text(CONTENT, encoding="utf-8")

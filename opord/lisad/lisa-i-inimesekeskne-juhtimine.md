@@ -398,9 +398,11 @@ Steigeri raamatu (*Menschenorientierte Führung*) tuum tsiviil- ja sõjaväejuht
 
 ---
 
-## Seos Liibanoniga
+## Veteranide jutt (ilma nimeta)
 
-Renee Aluste teenis Estpla-21 raames UNIFIL-i Liibanonis (2015, ~7 kuud). Laagri reegel: kaks õlut. SOP vastus küsimusele: *„This is my first!"* Iiri laud täis pudelid. Reeglid loodi loogikaga; pärast kahte õlut mõtles emotsioon. Laager oli rahulik ainult siis, kui eelmisel õhtul oli joodud palju — see ei olnud jätkusuutlik.
+*Alljärgnev on kokkuvõte loost, mida üks rahuvalvemissioonil teeninud veteran hiljem jagas — ilma missiooni, üksuse ega nimedeta.*
+
+Laagri reegel oli: kaks õlut. SOP vastus küsimusele: *„This is my first!"* Ühel õhtul oli ühe riigi meeste laud täis pudelid. Reeglid loodi loogikaga; pärast kahte õlut mõtles emotsioon. Laager oli rahulik ainult siis, kui eelmisel õhtul oli joodud palju — see ei olnud jätkusuutlik.
 
 **Õppetund:** Dominants ei tööta inimeste peal pikas mängus. Inimesekeskne juhtimine — ausus, usaldus, vastastikune austus — on tõhusam kui formaalne kontroll, mis kõik teavad, et on vale.
 

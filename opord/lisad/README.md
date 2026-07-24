@@ -33,7 +33,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | W | [lisa-w-montessori-beebi-austus-algusest.md](lisa-w-montessori-beebi-austus-algusest.md) | **Montessori beebi** — austus algusest (0–3); *austus = armastus*; stressivaba vanemlus |
 | X | [lisa-x-taskukaardid-valjasuhtlus.md](lisa-x-taskukaardid-valjasuhtlus.md) | **Taskukaardid** — väljapoole suhtlemine, OPSEC, 5 teemat, lendlehe tekst, märkmikku kirjutamise juhend |
 | Y | [lisa-y-kanep-endokannabinoid-ja-ajalugu.md](lisa-y-kanep-endokannabinoid-ja-ajalugu.md) | **ECS, CBD, toit** — mitte suitsetamine; efekt stressist välja; case study'd; kriitiline mõtlemine |
-| Z | [lisa-z-linnad-toostusuhiskond-ja-partnerlus.md](lisa-z-linnad-toostusuhiskond-ja-partnerlus.md) | **Linnad ja tööstusmudel** — isa eemal, partnerlus, ettevõtlus; reform Eestist |
+| Z | [lisa-z-linnad-toostusuhiskond-ja-partnerlus.md](lisa-z-linnad-toostusuhiskond-ja-partnerlus.md) | **Linnad ja tööstusmudel** — vanglad, politsei kui süsteem; Steiger 1997 vastus |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
 ---

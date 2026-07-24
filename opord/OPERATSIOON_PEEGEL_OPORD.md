@@ -48,6 +48,7 @@
 | **Lisa U** + [TOITUMINE_UURIMUSTOO.pdf](TOITUMINE_UURIMUSTOO.pdf) | Toit, rasvad, avatud meel |
 | **Lisa Y** | ECS, CBD, toit, stress — mitte suitsetamise propageerimine |
 | **Lisa Z** | Linnad, tööstusmudel, partnerlus, ettevõtlus — reform Eestist |
+| **Lisa I** | Steiger 1997 — *Inimesekeskne juhtimine*; vastus dominantsele süsteemile |
 
 Täiendab **Epp Kärsin** teadlikku intiimsust (eppkarsin.com) ja pere rindejoont (Lisa E, Lisa W).
 
@@ -1655,6 +1656,26 @@ See mudel kestis Rockefelleri ja tööstusühiskonna ajastust: töö eraldi, per
 
 ---
 
+**K: Te ütlete, et linnad on vanglad ja politsei on valvurid. Kas te olete vastu politseile?**
+
+**V (Renee Aluste):** Ei. Me oleme vastu **mudelile**, mitte inimestele.
+
+Me **ehitasime** linnad suletud tubadega — korterid, kontorid, koolid eraldi. See on vangla, mida me ise loome. Politsei on **vangla valvur** selles süsteemis — mitte sellepärast, et iga politseinik on halb, vaid sellepärast, et **dominantne süsteem** vajab jõustajaid. Me **maksame** nende eest — maksumaksjana. Ja juhid **ei järgi** ise neid seadusi, mida lõime „rahva jaoks". See on kontroll, mitte teenimine.
+
+**Parem tee leiti 1997:** Rudolf Steiger, *Inimesekeskne juhtimine* (Fontes; ISBN 9985901274). Eesti kaitseväe juhid võtsid selle SOP-iks. Kindral Johannes Kert: ülestõus domineeriva juhtimise vastu. Mitte nõrkus — **tõhusus inimeste kaudu**: kuulamine, dialoog, mõistmine, palk enda silmas.
+
+| Vana | Uus (Lisa I) |
+|------|--------------|
+| Sund ja kontroll | Roll + eesmärk + juhis |
+| Reegel enne inimest | Inimene enne protsessi |
+| Vanglad ja valvurid | Ausus ja vabatahtlik vastutus |
+
+Täielik juhend: **Lisa I**. Linnad ja tööstusmudel: **Lisa Z**. Ära usu mind — loe Steigerit ise.
+
+*Minu küsimus sulle: Kas sa juhid teisi nii, nagu sa tahaksid, et sind juhiks — või nagu vangla valvur?*
+
+---
+
 **K: Mul on raske peresituatsioon. Kas see operatsioon aitab mind?**
 
 **V:** Me ei ole perekonnaterapeudid — aga me suuname abi poole. Kui sul on kriis, helista Eluliinile 655 8088 või pöördu spetsialisti poole. Operatsioon aitab selles mõttes, et sa tead: sa ei ole üksi. Paljud inimesed on läbi elanud sarnase. Mina ise olen olnud põhjas — depressioonis, manipuleerituna. Taastumine on võimalik. Abi otsimine on tugevus.
@@ -2205,7 +2226,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **W** | — | `lisad/lisa-w-montessori-beebi-austus-algusest.md` | **Montessori beebi** — austus algusest (0–3); *austus = armastus*; stressivaba vanemlus, kodus ja lasteaias |
 | **X** | — | `lisad/lisa-x-taskukaardid-valjasuhtlus.md` | **Taskukaardid** — väljapoole suhtlemine, OPSEC, 5 teemat, lendlehe tekst, demomehed |
 | **Y** | — | `lisad/lisa-y-kanep-endokannabinoid-ja-ajalugu.md` | **ECS, CBD, toit** — mitte suitsetamine; efekt stressist välja; case study'd; varimajandus |
-| **Z** | — | `lisad/lisa-z-linnad-toostusuhiskond-ja-partnerlus.md` | **Linnad ja tööstusmudel** — partnerlus, ettevõtlus, isa kohal; reform Eestist |
+| **Z** | — | `lisad/lisa-z-linnad-toostusuhiskond-ja-partnerlus.md` | **Linnad = vanglad** — dominantne süsteem; Steiger 1997 vastus; partnerlus |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

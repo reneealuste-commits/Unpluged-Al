@@ -8,7 +8,23 @@
 
 Eesti kaitseväe esimesed juhid võtsid Steigeri raamatu oma juhtimise SOP-iks. Raamat on olnud Kaitseväe Akadeemia ja Kaitseliidu õppekavades viidatud allikas. Operatsioon „Peegel" ütleb: aeg on rakendada seda, mida me juba teeme — mitte ainult paberil.
 
-**Märkus:** See lisa on põhimõtete kokkuvõte avalikust kirjeldusest ja operatsiooni kontekstist. Täisteksti saab hankida raamatuna (ISBN 9985901274) või kasutada Renee Aluste eksemplari, kui täiendav tõendusmaterjal on vaja.
+**Renee hüpotees (seos Lisa Z-ga):**
+
+> *Me oleme ehitanud endale vangla — nimega **linnad**. Me palkame vangla valvureid — nimega **politsei**. Me **maksame** nende eest. Ja me **ei järgi** ise neid seadusi, mida lõime „rahva jaoks". See on **dominantne süsteem** — kontroll, mitte teenimine.*
+
+**Parem tee leiti juba 1997:** Rudolf Steiger, *Inimesekeskne juhtimine. Juhiseid tsiviil- ja sõjaväejuhtidele* (Fontes; ISBN 9985901274). Mitte uus ideoloogia — **Eesti kaitseväe juhtide SOP** alates 1990ndatest. Kindral **Johannes Kert** kirjutas uustrüki eessõna (2011): ülestõus domineeriva juhtimise vastu.
+
+| Dominantne süsteem | Inimesekeskne juhtimine (Steiger) |
+|--------------------|-----------------------------------|
+| Linn = vangla, politsei = valvur | Vabatahtlik vastutus, ausus |
+| Reegel tähtsam kui inimene | **Inimene** enne protsessi |
+| Sund ja kontroll | Kuulamine, dialoog, mõistmine |
+| Me maksame kontrolli eest | Me **investeerime** usaldusse |
+| Seadused „rahva jaoks", mida juhid ei järgi | **Palk enda silmas** — juht tunnistab oma vigu |
+
+> *🫡 Ära usu mind. Loe Steigerit ise. ISBN 9985901274.*
+
+**Märkus:** See lisa on põhimõtete kokkuvõte avalikust kirjeldusest ja operatsiooni kontekstist. Täisteksti saab hankida raamatuna või kasutada Renee Aluste eksemplari, kui täiendav tõendusmaterjal on vaja.
 
 ---
 

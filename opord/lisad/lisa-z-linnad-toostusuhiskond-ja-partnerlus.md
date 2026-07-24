@@ -2,7 +2,7 @@
 
 **Operatsioon „Peegel"** | Ava silmad — uurimustöö | Põhimõte: *kriitiline mõtlemine, mitte nostalgia*
 
-**Allikad:** ajalooline tööstusühiskonna kirjandus; Lisa E (pere rindejoon); Lisa L (valitsus); Lisa T (IPB); Starfish Academy; BNI; Pühali (Urmas Sõõrumaa). Seotud: **Lisa W** (beebi austus), **Lisa H** (isa kriisis), **Lisa M** (identiteet).
+**Allikad:** ajalooline tööstusühiskonna kirjandus; **Lisa I** (Steiger 1997); Lisa E (pere rindejoon); Lisa L (valitsus); Lisa T (IPB); Starfish Academy; BNI; Pühali (Urmas Sõõrumaa). Seotud: **Lisa W** (beebi austus), **Lisa H** (isa kriisis), **Lisa M** (identiteet).
 
 > *🫡 **Ära usu mind. Kaitse eelkõige oma uskumusi ja veendumusi.** Uuri. Kaalu. Vali ise.*
 

@@ -1,0 +1,480 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""Generate participant email list and customized per-person instructions."""
+import csv
+from pathlib import Path
+
+OUT_DIR = Path(__file__).resolve().parents[1] / "kommunikatsioon"
+CSV_FILE = OUT_DIR / "osalejate-emailid.csv"
+KASK_FILE = OUT_DIR / "osalejate-kohandatud-kask.md"
+KIRJAD_DIR = OUT_DIR / "kirjad"
+
+# Each entry: name, email, org, roll, eesmark, ulesanded (list), kaitumine, pakett, kanal, märkus
+PARTICIPANTS = [
+    {
+        "name": "Remo Ojaste",
+        "email": "remo.ojaste@combatready.eu",
+        "org": "Combat Ready O\u00dc",
+        "roll": "\u00c4ri/taktika juht; Echelon Front partner Euroopas",
+        "eesmark": "Extreme Ownership igap\u00e4evaelus \u2014 praktiline juhtimine ettev\u00f5tetele ja kogukondadele",
+        "ulesanded": [
+            "Paku kontrollitud lugemiskeskkonda (DocSend / CR keskkond) \u2014 Lisa AJ",
+            "Koordineeri juhtimiskoolitused v\u00f5rgustikule (Priit, Louis)",
+            "Anna isiklik link P1-F-JUHT v\u00f5i P2-TAIS ainult p\u00e4rast vestlust",
+            "J\u00e4lgi lugemiskinnitust \u2014 \u00fcks vastus p\u00e4rast tutvumist",
+        ],
+        "kaitumine": "M\u00e4nguline h\u00e4\u00e4l (Lisa Q). GOTWA enne koosolekut. \u00c4ra saada masspostina \u2014 isiklik e-kiri.",
+        "pakett": "P1-F-JUHT / P2-TAIS",
+        "kanal": "E-kiri isiklikult",
+        "markus": "Lisa K \u00a74.3",
+    },
+    {
+        "name": "Priit Lillev\u00e4li",
+        "email": "priit.lillevali@combatready.eu",
+        "org": "Combat Ready O\u00dc",
+        "roll": "Juhtimiskoolitaja; Aasta koolitaja 2023",
+        "eesmark": "Vastutus ja taastumine ilma ohvriidentiteedita",
+        "ulesanded": [
+            "Juhi 1-1 vestlusi \u2014 mitte masskoolitus ilma kontaktita (Renee kogemus)",
+            "Kasuta Lisa P trauma-reeglit enne debatti",
+            "Soovita PEEGEL_TEE_D demomeestele, kellele suunad",
+            "Kinnita lugemine \u00fcks lausega p\u00e4rast tutvumist",
+        ],
+        "kaitumine": "FM-DJ h\u00e4\u00e4l rahustamisel. Valideeri enne loogikat. Spordikommentaator.",
+        "pakett": "P1-F-JUHT",
+        "kanal": "E-kiri + kohtumine",
+        "markus": "800+ juhendamistundi",
+    },
+    {
+        "name": "Tanel J\u00e4ppinen",
+        "email": "tanel.jappinen@combatready.eu",
+        "org": "Combat Ready Youth O\u00dc",
+        "roll": "Noorte- ja peretasandi juht; Laste Superm\u00e4ngud",
+        "eesmark": "Noorte praktiline vastutus enne algoritmi",
+        "ulesanded": [
+            "Integreeri PEEGEL_TEE_C (pere) noorte programmidesse kui sobib",
+            "Vanemate mentorlus: \u00fcks tegu p\u00e4evas, mitte loeng",
+            "Suuna kriisis olevad isad Lisa H-le (PEEGEL_TEE_A)",
+            "Anna tagasiside: mis t\u00f6\u00f6tab 7\u201312-aastastega",
+        ],
+        "kaitumine": "M\u00e4nguline, soe. Lapsed = turvalisus enne sisu. \u00c4ra suru.",
+        "pakett": "P1-C-PERE + P1-A-KRIIS (suunamine)",
+        "kanal": "E-kiri / kohtumine",
+        "markus": "Lisa K \u00a74.5",
+    },
+    {
+        "name": "Marge Sillaste",
+        "email": "margemargarethe@gmail.com",
+        "org": "Supervisioon / tervishoid",
+        "roll": "Juhtide supervisioon ja coaching",
+        "eesmark": "Inimeste juhtimine, mitte protsesside kontroll",
+        "ulesanded": [
+            "Loe Lisa I (Steiger) ja Lisa P (trauma) enne juhtidega t\u00f6\u00f6d",
+            "Peegelda juhtidele: turvalisus enne tulemust",
+            "Anna tagasiside Reneele supervisiooni vajaduste kohta",
+            "Kasuta kuldset taganemisteed kui keegi soovib nime eemaldada",
+        ],
+        "kaitumine": "Rahulik FM-DJ. Kuula ilma parandamiseta. Konfidentsiaalsus.",
+        "pakett": "P1-F-JUHT",
+        "kanal": "E-kiri privaatne",
+        "markus": "Lisa K \u00a73.11",
+    },
+    {
+        "name": "Ott P\u00e4rna",
+        "email": "info@techno.ee",
+        "org": "Techno TLN",
+        "roll": "Direktor; haridustaseme strateegiline partner",
+        "eesmark": "Kutse- ja tehnoloogiaharidus noorte vastupanuv\u00f5imes",
+        "ulesanded": [
+            "Tutvu PEEGEL_TEE_F (juht/koolitus) \u2014 isiklik link",
+            "Hinda: kas Steigeri p\u00f5him\u00f5tted sobivad \u00f5ppekavaga (Lisa I)",
+            "Suuna kriisiteemad koolips\u00fchholoogile, mitte debatile",
+            "Vastus \u00fcks lausega: kas ja kuidas edasi",
+        ],
+        "kaitumine": "Austav keel (teietamine). Ametlik toon. Ei propaganda.",
+        "pakett": "P1-F-JUHT",
+        "kanal": "Ametlik e-kiri",
+        "markus": "Lisa J; isiklik email puudub repos",
+    },
+    {
+        "name": "Kristel Bankier",
+        "email": "kristel.bankier@techno.ee",
+        "org": "Techno TLN",
+        "roll": "Finants / partnerlus",
+        "eesmark": "Siduda haridus ja kogukonna partnerid",
+        "ulesanded": [
+            "Loe Lisa AM (realistlik maht) enne partnerluse otsust",
+            "Hinda koost\u00f6\u00f6v\u00f5imalusi ilma ulmeliste numbriteta",
+            "Suuna tehnilised k\u00fcsimused Ott P\u00e4rnale",
+        ],
+        "kaitumine": "Professionaalne, faktip\u00f5hine. \u00c4ra v\u00e4lju kontekstist.",
+        "pakett": "P0-TUUM",
+        "kanal": "E-kiri",
+        "markus": "Lisa J",
+    },
+    {
+        "name": "Kristel Martis",
+        "email": "kristel.martis@techno.ee",
+        "org": "Techno TLN",
+        "roll": "Turundus / kogukond",
+        "eesmark": "Kogukonna sidumine ja aus kommunikatsioon",
+        "ulesanded": [
+            "Tutvu Lisa Q (side SOP) enne mis tahes levitust",
+            "Mitte masspostitus \u2014 ainult opt-in kanalid",
+            "Soovita P0-TUUM esimene kontakt",
+        ],
+        "kaitumine": "M\u00e4nguline h\u00e4\u00e4l v\u00e4ljas, mitte sarkasm haava peal.",
+        "pakett": "P0-TUUM",
+        "kanal": "E-kiri",
+        "markus": "Lisa J",
+    },
+    {
+        "name": "Johan-Elias Seljamaa",
+        "email": "johan-elias.seljamaa@mil.ee",
+        "org": "Kaitsev\u00e4e Akadeemia",
+        "roll": "Rektor",
+        "eesmark": "Juhtide areng ja kriitiline m\u00f5tlemine",
+        "ulesanded": [
+            "Loe Lisa I + Lisa P (trauma kriisis)",
+            "Hinda: kas materjal sobib akadeemilisele kontekstile",
+            "Suuna Aarne Ermusile akadeemiline tagasiside",
+            "Kuldne taganemistee kehtib ka ametlikul tasemel",
+        ],
+        "kaitumine": "Austav, struktureeritud. L\u00fchikesed laused kriisis.",
+        "pakett": "P1-F-JUHT",
+        "kanal": "Ametlik e-kiri @mil.ee",
+        "markus": "Lisa J",
+    },
+    {
+        "name": "Rainek Kuura",
+        "email": "rainek.kuura@mil.ee",
+        "org": "Kaitsev\u00e4e Akadeemia",
+        "roll": "\u00d5ppeosakonna \u00fclem",
+        "eesmark": "\u00d5ppekava ja juhtimiskultuuri sidumine",
+        "ulesanded": [
+            "Tutvu PEEGEL_TEE_F",
+            "Anna tagasiside: mis sobiks kadettidele vs juhtidele",
+            "Trauma-teadlikkus (Lisa P) enne \u00f5ppetundi",
+        ],
+        "kaitumine": "Selge, assertiivne kui vaja. Mitte dominants.",
+        "pakett": "P1-F-JUHT",
+        "kanal": "Ametlik e-kiri",
+        "markus": "Lisa J",
+    },
+    {
+        "name": "Sirje Toomla-\u00d5ige",
+        "email": "sirje.toomla@ramkool.edu.ee",
+        "org": "Rocca al Mare Kool",
+        "roll": "Direktor",
+        "eesmark": "Kooli kriisivalmidus ja pere tugi",
+        "ulesanded": [
+            "Loe Lisa H (kriis isale) ja Lisa W (Montessori austus)",
+            "Jaga P1-C-PERE lapsevanematele ainult vabatahtlikult",
+            "Suuna kriis Eluliinile / koolips\u00fchholoogile",
+            "Koosk\u00f5lasta Helin Vaheriga (lapsevanem)",
+        ],
+        "kaitumine": "Turvalisus enne loogikat. Ei s\u00fc\u00fcdista vanemaid.",
+        "pakett": "P1-C-PERE",
+        "kanal": "E-kiri kool",
+        "markus": "Lisa J; Elmar Vaher lapsevanem",
+    },
+    {
+        "name": "Kristina \u0160anin",
+        "email": "kristina.sanin@waldorf.ee",
+        "org": "Tallinna Vaba Waldorfkool",
+        "roll": "Kooli juhataja",
+        "eesmark": "Holistiline tugi ja kogukonna sidumine",
+        "ulesanded": [
+            "Tutvu Ave Osaga (v\u00f5tmeisik) enne otsust",
+            "Loe PEEGEL_TEE_C ja Lisa W",
+            "Anna tagasiside: kas materjal sobib Waldorfi konteksti",
+        ],
+        "kaitumine": "Austav, aeglane tempo. Laps-keskne keel.",
+        "pakett": "P1-C-PERE",
+        "kanal": "E-kiri",
+        "markus": "Lisa J",
+    },
+    {
+        "name": "Ave Osa",
+        "email": "tallinn@waldorf.ee",
+        "org": "Tallinna Vaba Waldorfkool",
+        "roll": "V\u00f5tmeisik; holistiline tugi",
+        "eesmark": "Sidestada kogukond ja paranemis-teadlik tugi",
+        "ulesanded": [
+            "Loe Lisa AI (Epp K\u00e4rsin) ja Lisa W kontekstis",
+            "Hinda P1-C-PERE sobivust kogukonnale",
+            "Suuna intiimsuse teemad Epp K\u00e4rsinile (Lisa AA)",
+            "Kontakt telefon: +372 5690 4407",
+        ],
+        "kaitumine": "Soe, mitte survav. Vabatahtlikkus.",
+        "pakett": "P1-C-PERE",
+        "kanal": "E-kiri + telefon",
+        "markus": "Lisa J; org email",
+    },
+    {
+        "name": "Ruth Maria Roosi-Ott",
+        "email": "info@mariamontessori.ee",
+        "org": "Montessori v\u00f5rgustik",
+        "roll": "AMI juhendaja; instituudi juhatus",
+        "eesmark": "Austus lapse vastu algusest (0\u20133)",
+        "ulesanded": [
+            "Loe Lisa W ja Lisa M (identiteet)",
+            "Jaga P1-C-PERE Montessori \u00f5petajatele vabatahtlikult",
+            "Anna tagasiside: mis t\u00f6\u00f6tab lasteaias",
+        ],
+        "kaitumine": "Rahulik, austav. Laps ei ole projekt.",
+        "pakett": "P1-C-PERE",
+        "kanal": "E-kiri info@",
+        "markus": "Lisa J",
+    },
+    {
+        "name": "Epp K\u00e4rsin",
+        "email": "epood@eppkarsin.com",
+        "org": "Amare Luna / teadlik intiimsus",
+        "roll": "Intiimsuse koolitaja",
+        "eesmark": "H\u00e4bist vabanemine; stress kehast v\u00e4lja",
+        "ulesanded": [
+            "Tutvu Lisa AA ja Lisa AI",
+            "Suuna huvilised eppkarsin.com \u2014 pane end kirja",
+            "Anna tagasiside: kas Peegel ja sinu t\u00f6\u00f6 klapivad",
+        ],
+        "kaitumine": "Aus, soe. Mitte tabu murdmine ilma turvalisuseta.",
+        "pakett": "P1-C-PERE (t\u00e4iendus)",
+        "kanal": "E-kiri / Instagram @epp.karsin",
+        "markus": "Tel 5362 8568",
+    },
+    {
+        "name": "Jelena Pribylski",
+        "email": "jelena.pribylski@pk.ee",
+        "org": "PK (pereteraapia)",
+        "roll": "Koordinaator",
+        "eesmark": "Pereteraapia v\u00f5rgustiku sidumine",
+        "ulesanded": [
+            "Tutvu Lisa P ja Lisa H (kriis)",
+            "Hinda suunamise v\u00f5imalust peredele",
+            "Trauma-teadlik suunamine \u2014 mitte diagnoosimine",
+        ],
+        "kaitumine": "Professionaalne konfidentsiaalsus. Valideerimine.",
+        "pakett": "P1-A-KRIIS (suunamine)",
+        "kanal": "E-kiri",
+        "markus": "Lisa M",
+    },
+    {
+        "name": "Tiit Trofimov",
+        "email": "info@tiittrofimov.ee",
+        "org": "Eneseareng",
+        "roll": "Emotsioonide ja teadlikkuse t\u00f6\u00f6",
+        "eesmark": "Meeste ringid; taastumine p\u00e4rast p\u00f5hja",
+        "ulesanded": [
+            "Loe Lisa H ja raamat F (murra ring)",
+            "Suuna mehi, kes on p\u00f5hjas, PEEGEL_TEE_A-sse",
+            "Anna tagasiside: mis t\u00f6\u00f6tab meeste ringis",
+        ],
+        "kaitumine": "Aus, mitte \u00fcleolev. Keha enne m\u00f5istust.",
+        "pakett": "P1-A-KRIIS",
+        "kanal": "E-kiri / tel +372 5626 2454",
+        "markus": "Lisa M",
+    },
+]
+
+# Additional emails from Lisa J table (org-level or secondary contacts)
+EXTRA_EMAILS = [
+    ("Techno TLN", "info@techno.ee", "info@techno.ee", "Techno TLN", "Organisatsiooni postkast", "P0-TUUM", "Lisa J"),
+    ("Techno TLN", "sisseastumine@techno.ee", "sisseastumine@techno.ee", "Techno TLN", "Sisseastumine", "P0-TUUM", "Lisa J"),
+    ("Toivo P\u00e4rnpuu", "toivo.parnpuu@techno.ee", "Techno TLN", "IT", "P0-TUUM", "Lisa J"),
+    ("Mari Vavulski", "mari.vavulski@techno.ee", "Techno TLN", "Muudatuste projektijuht", "P0-TUUM", "Lisa J"),
+    ("Birgit Vilgats", "birgit.vilgats@techno.ee", "Techno TLN", "\u00d5ppejuht", "P1-F-JUHT", "Lisa J"),
+    ("Andra Piirsalu", "andra.piirsalu@techno.ee", "Techno TLN", "Personalijuht", "P1-F-JUHT", "Lisa J"),
+    ("Ander Sile", "ander.sile@techno.ee", "Techno TLN", "Inseneriharidus", "P1-F-JUHT", "Lisa J"),
+    ("T\u00f5nu Armulik", "tonu.armulik@techno.ee", "Techno TLN", "Arendusdirektor", "P1-F-JUHT", "Lisa J"),
+    ("Indrek Ojasoo", "indrek.ojasoo@mil.ee", "KVA", "Akadeemia veebel", "P1-F-JUHT", "Lisa J"),
+    ("RaM Kool", "info@ramkool.edu.ee", "RaM Kool", "Info", "P1-C-PERE", "Lisa J"),
+    ("Rein Rebane", "rein.rebane@ramkool.edu.ee", "RaM Kool", "Direktor emeeritus", "P1-C-PERE", "Lisa J"),
+    ("Katrin Rodi", "katrin.rodi@ramkool.edu.ee", "RaM Kool", "Pearaamatupidaja", "P0-TUUM", "Lisa J"),
+    ("Maarika Eha-M\u00fcller", "maarika.eha@ramkool.edu.ee", "RaM Kool", "Personalijuht", "P1-C-PERE", "Lisa J"),
+    ("Anneli Paat", "anneli.paat@ramkool.edu.ee", "RaM Kool", "Infojuht", "P0-TUUM", "Lisa J"),
+    ("Peep Valjaste", "peep.valjaste@ramkool.edu.ee", "RaM Kool", "Juhtkond", "P0-TUUM", "Lisa J"),
+    ("Rivo Raaper", "rivo.raaper@ramkool.edu.ee", "RaM Kool", "Juhtkond", "P0-TUUM", "Lisa J"),
+    ("Helin Vaher", "helin.vaher@agendapr.ee", "RaM Kool", "Lapsevanem, kommunikatsioon", "P1-C-PERE", "Lisa J"),
+    ("Kairi J\u00e4rvik-Elvisto", "kairi.jarvik-elvisto@waldorf.ee", "TVW Waldorf", "Tugiteenused", "P1-C-PERE", "Lisa J"),
+    ("Waldorf selts", "selts@waldorf.ee", "TVW Waldorf", "Selts", "P0-TUUM", "Lisa J"),
+    ("Combat Ready", "info@combatready.ee", "Combat Ready", "\u00dcldinfo", "P1-D-DEMO", "Lisa R"),
+    ("Helin Vaher", "helin.vaher@agendapr.ee", "RaM Kool", "Kommunikatsioon", "P1-C-PERE", "Lisa J"),
+]
+
+NO_EMAIL = [
+    ("Riho \u00dchtegi", "Strateegiline juht", "Avalik kanal", "Lisa K \u00a74.1"),
+    ("Rene Toomse", "Riigi tase", "Avalik kanal", "Lisa K \u00a74.1"),
+    ("Eerik Heldna", "Kriisireguleerimine", "PPA / Combat Ready", "Lisa K \u00a74.1"),
+    ("Elmar Vaher", "RKIK", "kaitseinvesteeringud.ee", "Lisa K \u00a74.1"),
+    ("Heli Illipe-Sootak", "Steiger peakirjastaja", "Messenger / otsing", "kommunikatsioon/vastus-heli-illipe-sootak.md"),
+    ("Mihhail U\u0161akov", "RU peer-educator (kandidaat)", "Isiklik kohtumine", "kommunikatsioon/kandidaat-mihhail-usakov.md"),
+    ("Ain Anslan", "Viru vangla", "Vanglateenistus", "Lisa K \u00a74.7"),
+    ("Aigar Ojaots", "Pertinax", "MT\u00dc reg 80634291", "Lisa K \u00a74.6"),
+    ("Peeter J\u00e4rvsoo", "Noorte Kotkad", "nooredkotkad.ee", "Lisa K \u00a73.10"),
+    ("Andrei Ambros", "Harku judo", "estjutsu.ee", "Lisa K \u00a73.10"),
+    ("Eero Kinnunen", "Veteranid", "ekvv.ee", "Lisa K \u00a73.11"),
+    ("Margus L\u00f5oke", "KV mustri tunnistaja", "Isiklik kontakt Renee", "Lisa K \u00a73.2b"),
+]
+
+
+def write_csv():
+    rows = []
+    seen = set()
+    for p in PARTICIPANTS:
+        key = p["email"].lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        rows.append({
+            "nimi": p["name"],
+            "email": p["email"],
+            "organisatsioon": p["org"],
+            "roll": p["roll"],
+            "sidepakk": p["pakett"],
+            "kanal": p["kanal"],
+            "kask_valmis": "jah",
+            "markus": p["markus"],
+        })
+    for item in EXTRA_EMAILS:
+        if len(item) == 7:
+            name, email, org, roll, pakett, markus = item[0], item[1], item[2], item[3], item[4], item[5]
+            kanal = item[6] if len(item) > 6 else "E-kiri"
+        else:
+            name, email, org, roll, pakett, markus = item
+            kanal = "E-kiri"
+        key = email.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        rows.append({
+            "nimi": name,
+            "email": email,
+            "organisatsioon": org,
+            "roll": roll,
+            "sidepakk": pakett,
+            "kanal": kanal,
+            "kask_valmis": "l\u00fchike",
+            "markus": markus,
+        })
+    for name, roll, kanal, markus in NO_EMAIL:
+        rows.append({
+            "nimi": name,
+            "email": "",
+            "organisatsioon": "",
+            "roll": roll,
+            "sidepakk": "",
+            "kanal": kanal,
+            "kask_valmis": "ei",
+            "markus": f"Email puudub \u2014 {markus}",
+        })
+    rows.sort(key=lambda r: (r["kask_valmis"] != "jah", r["nimi"]))
+    with CSV_FILE.open("w", encoding="utf-8", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=list(rows[0].keys()))
+        w.writeheader()
+        w.writerows(rows)
+    print(f"Wrote {CSV_FILE} ({len(rows)} rida)")
+
+
+def write_kask_md():
+    lines = [
+        "# Osalejate kohandatud k\u00e4sk\n\n",
+        "**Eesm\u00e4rk:** Iga osaleja saab oma rolli, eesm\u00e4rgi ja k\u00e4itumisjuhise.  \n",
+        "**Seotud:** Lisa K, Lisa Q, Lisa AJ, Lisa AQ  \n",
+        "**Kuup\u00e4ev:** 24. juuli 2026  \n",
+        "**Koordinaator:** Renee Aluste\n\n",
+        "> **Reegel:** Isiklik e-kiri, mitte masspost. Iga saaja = isiklik link (Lisa AJ).  \n",
+        "> **Kuldne taganemistee:** \u201eT\u00e4nan, palun eemalda minu nimi.\u201c \u2014 ilma surveta.\n\n",
+        "---\n\n",
+        "## \u00dclevaade\n\n",
+        f"| Kategooria | Arv |\n",
+        f"|------------|-----|\n",
+        f"| Kohandatud k\u00e4sk valmis | {len(PARTICIPANTS)} |\n",
+        f"| Email CSV-s kokku | vaata `osalejate-emailid.csv` |\n",
+        f"| Email puudub (vaja otsida) | {len(NO_EMAIL)} |\n\n",
+        "---\n\n",
+    ]
+    for i, p in enumerate(PARTICIPANTS, 1):
+        lines.append(f"## {i}. {p['name']}\n\n")
+        lines.append(f"| | |\n|---|---|\n")
+        lines.append(f"| **E-post** | `{p['email']}` |\n")
+        lines.append(f"| **Organisatsioon** | {p['org']} |\n")
+        lines.append(f"| **Roll** | {p['roll']} |\n")
+        lines.append(f"| **Eesm\u00e4rk** | {p['eesmark']} |\n")
+        lines.append(f"| **Sidepakk** | {p['pakett']} |\n")
+        lines.append(f"| **Kanal** | {p['kanal']} |\n\n")
+        lines.append("### Sinu \u00fclesanded\n\n")
+        for u in p["ulesanded"]:
+            lines.append(f"1. {u}\n" if u == p["ulesanded"][0] else f"{p['ulesanded'].index(u)+1}. {u}\n")
+        # fix numbering
+        lines = lines[:-len(p["ulesanded"])]
+        for j, u in enumerate(p["ulesanded"], 1):
+            lines.append(f"{j}. {u}\n")
+        lines.append(f"\n### K\u00e4itumisjuhis\n\n{p['kaitumine']}\n\n")
+        lines.append("### E-kirja avamine (mustand)\n\n")
+        lines.append(
+            f"> Tere {p['name'].split()[0]},\n>\n"
+            f"> Jagame sulle Operatsioon \u201ePeegel\u201c materjali \u2014 mitte k\u00e4sk, vaid paranemis-teekond. "
+            f"Sinu roll: **{p['roll'].split(';')[0]}**.\n>\n"
+            f"> Isiklik link: [PEEGEL_TUUM / vastav tee PDF]\n>\n"
+            f"> Kui soovid mitte osaleda \u2014 \u00fcks lause piisab. Austan seda.\n>\n"
+            f"> Renee Aluste\n\n"
+        )
+        lines.append("---\n\n")
+    lines.append("## Osalejad ilma e-postita (repos)\n\n")
+    lines.append("| Nimi | Roll | Kuidas \u00fchenduda |\n|------|------|----------------|\n")
+    for name, roll, kanal, markus in NO_EMAIL:
+        lines.append(f"| {name} | {roll} | {kanal} |\n")
+    lines.append("\n---\n\n*Lisa: kommunikatsioon/osalejate-kohandatud-kask.md*\n")
+    KASK_FILE.write_text("".join(lines), encoding="utf-8")
+    print(f"Wrote {KASK_FILE}")
+
+
+def write_individual_letters():
+    KIRJAD_DIR.mkdir(parents=True, exist_ok=True)
+    for p in PARTICIPANTS:
+        slug = p["name"].lower().replace(" ", "-").replace("\u00e4", "a").replace("\u00f6", "o").replace("\u00fc", "u").replace("\u0161", "s").replace("\u00f5", "o").replace("\u00e4", "a")
+        slug = "".join(c for c in slug if c.isalnum() or c == "-")
+        fname = KIRJAD_DIR / f"kask-{slug}.md"
+        body = [
+            f"# Kohandatud k\u00e4sk: {p['name']}\n\n",
+            f"**Saaja:** {p['email']}  \n",
+            f"**Sidepakk:** {p['pakett']}\n\n",
+            "---\n\n",
+            f"## Sinu roll\n\n{p['roll']}\n\n",
+            f"## Sinu eesm\u00e4rk\n\n{p['eesmark']}\n\n",
+            "## Konkreetsed \u00fclesanded\n\n",
+        ]
+        for j, u in enumerate(p["ulesanded"], 1):
+            body.append(f"{j}. {u}\n")
+        body.append(f"\n## K\u00e4itumisjuhis\n\n{p['kaitumine']}\n\n")
+        body.append("## E-kiri (kopeeri ja saada)\n\n")
+        body.append("```\n")
+        body.append(f"Teema: Operatsioon Peegel \u2014 sinu roll: {p['roll'].split(';')[0]}\n\n")
+        body.append(f"Tere {p['name'].split()[0]},\n\n")
+        body.append(
+            "Jagan sulle isiklikult Operatsioon \u201ePeegel\u201c materjali. "
+            "See ei ole k\u00e4sk ega propaganda \u2014 see on kutse kriitiliselt m\u00f5elda ja valida ise.\n\n"
+        )
+        body.append(f"Sinu roll selles v\u00f5rgustikus: {p['roll']}.\n\n")
+        body.append(f"Sinu eesm\u00e4rk: {p['eesmark']}.\n\n")
+        body.append("Konkreetselt sinult:\n")
+        for u in p["ulesanded"]:
+            body.append(f"- {u}\n")
+        body.append(
+            f"\nMaterjal: [lisa isiklik link \u2014 {p['pakett']}]\n\n"
+            "Kui sa ei soovi osaleda v\u00f5i soovid nime eemaldada \u2014 "
+            "\u00fcks lause piisab. T\u00e4nan aususe eest.\n\n"
+            "Renee Aluste\n"
+            "Operatsiooni koordinaator\n"
+        )
+        body.append("```\n")
+        fname.write_text("".join(body), encoding="utf-8")
+    print(f"Wrote {len(PARTICIPANTS)} letters to {KIRJAD_DIR}/")
+
+
+if __name__ == "__main__":
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
+    write_csv()
+    write_kask_md()
+    write_individual_letters()

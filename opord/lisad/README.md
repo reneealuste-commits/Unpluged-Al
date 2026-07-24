@@ -31,6 +31,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | U | [lisa-u-rasv-avatud-meele-uuring.md](lisa-u-rasv-avatud-meele-uuring.md) | **Rasv ja avatud meel** — Bellevue 1928–29; [uurimustöö PDF](../TOITUMINE_UURIMUSTOO.pdf) |
 | V | [lisa-v-uni-miks-me-magame.md](lisa-v-uni-miks-me-magame.md) | **Uni** — Matthew Walker *Why We Sleep*; ava silmad, 25 küsimust, uni enne ATH-silti |
 | W | [lisa-w-montessori-beebi-austus-algusest.md](lisa-w-montessori-beebi-austus-algusest.md) | **Montessori beebi** — austus algusest (0–3); *austus = armastus*; stressivaba vanemlus |
+| X | [lisa-x-taskukaardid-valjasuhtlus.md](lisa-x-taskukaardid-valjasuhtlus.md) | **Taskukaardid** — väljapoole suhtlemine, OPSEC, 5 teemat, lendlehe tekst, märkmikku kirjutamise juhend |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
 ---
@@ -67,6 +68,8 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 **Uni (ava silmad):** Lisa V — Matthew Walker *Why We Sleep* (ISBN 978-0-141-9835-6-9); uni enne silti, enne „võta kokku".
 
 **Montessori beebi (austus algusest):** Lisa W — 0–3 aastat; *austus = armastus*; stressivaba vanemlus kodus ja lasteaias (Lisa J §5).
+
+**Väljapoole suhtlemine (infooperatsioon):** Lisa X — taskukaardid rahakotti / märkmikku, lendlehe tekst, mida öelda ja millest mitte rääkida.
 
 ---
 

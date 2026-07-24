@@ -48,6 +48,7 @@ BOOK_FILES = [
     "lisa-u-rasv-avatud-meele-uuring.md",
     "lisa-v-uni-miks-me-magame.md",
     "lisa-w-montessori-beebi-austus-algusest.md",
+    "lisa-x-taskukaardid-valjasuhtlus.md",
     "renee-aluste-profiil.md",
 ]
 

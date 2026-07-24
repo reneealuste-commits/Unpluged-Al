@@ -1245,6 +1245,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Rasv, Bellevue uuring, avatud meel:** Lisa U — `lisad/lisa-u-rasv-avatud-meele-uuring.md` (PDF allalaadimised, Drive'i kaust, küsimused endale)
 - **Uni, Why We Sleep, ava silmad:** Lisa V — `lisad/lisa-v-uni-miks-me-magame.md` (Matthew Walker, une teadus, 25 küsimust, uni enne ATH-silti)
 - **Montessori beebi, austus algusest:** Lisa W — `lisad/lisa-w-montessori-beebi-austus-algusest.md` (0–3, *austus = armastus*, stressivaba vanemlus)
+- **Taskukaardid, väljapoole suhtlemine:** Lisa X — `lisad/lisa-x-taskukaardid-valjasuhtlus.md` (OPSEC, 5 teemat, lendleht, märkmikku kirjutamine)
 - **Koordinaatori profiil:** `lisad/renee-aluste-profiil.md` (eraldi leht)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
 - **Signaal OPERATSIOON TÄIDETUD:** Kui ühiskondlikud mõõdikud näitavad paranemist — üksikemade arv langeb, kiusamine väheneb, inimesed räägivad vastutusest.
@@ -2133,6 +2134,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **U** | — | `lisad/lisa-u-rasv-avatud-meele-uuring.md` | **Rasv ja avatud meel** — Bellevue uuring 1928–29, PDF lingid, 30 mõtlemisküsimust; **uurimustöö PDF:** `TOITUMINE_UURIMUSTOO.pdf` |
 | **V** | — | `lisad/lisa-v-uni-miks-me-magame.md` | **Uni** — Matthew Walker *Why We Sleep*; NREM/REM, uni ja aju, müüdid vs faktid, 25 avatud meele küsimust |
 | **W** | — | `lisad/lisa-w-montessori-beebi-austus-algusest.md` | **Montessori beebi** — austus algusest (0–3); *austus = armastus*; stressivaba vanemlus, kodus ja lasteaias |
+| **X** | — | `lisad/lisa-x-taskukaardid-valjasuhtlus.md` | **Taskukaardid** — väljapoole suhtlemine, OPSEC, 5 teemat, lendlehe tekst, demomehed |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

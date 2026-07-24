@@ -156,7 +156,7 @@ Tsiviilis kasutatav versioon — ilma teatrita, aga selgusega:
 | Demomeeste ring | SOK läbinud (omavaheline) | Aus tagasiside — ilma avaliku nimekirjata |
 | Tugi juhtimisel | Priit Lilleväli / Combat Ready | Kui checklist tõstab traumat või kriisi |
 
-**Side SOP kõigile demomeestele:** **Lisa Q** — häälerežiimid, GOTWA (KOP5), austav keel, igapäevased näited.
+**Side SOP kõigile demomeestele:** **Lisa Q** — häälerežiimid, GOTWA (KOP5), austav keel, igapäevased näited. **Lisa X** — taskukaardid väljapoole suhtlemiseks (kirjuta märkmikku, hoia taskus).
 
 ---
 

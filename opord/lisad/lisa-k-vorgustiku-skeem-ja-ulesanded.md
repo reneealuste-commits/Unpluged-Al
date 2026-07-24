@@ -19,7 +19,6 @@
                               │  Rene Toomse — riigi/valitsuse tase, infosõda       │
                               │  Eerik Heldna — kriisireguleerimine                 │
                               │  Elmar Vaher — RKIK, kaitseinvesteeringud           │
-                              │  Taavi Karotamme, Arvo Jõesalu — StratKom           │
                               └──────────────────────────┬──────────────────────────┘
                                                          │
          ┌───────────────────────┬───────────────────────┼───────────────────────┬───────────────────────┐
@@ -273,22 +272,6 @@
 - **Roll:** RKIK peadirektor; Combat Ready instruktor; RaM Kool lapsevanem
 - **Eesmärk:** Riiklik võimekus ja kodaniku vastutus ühes narratiivis
 - **Ülesanne:** RKIK investeeringuloogika; kooli kriisivalmidus (vt Lisa J)
-
-#### Taavi Karotamme — Strateegiline kommunikatsioon
-
-![Taavi Karotamme](images/profiles/taavi-karotamme.jpg)
-
-- **Roll:** Kaitseväe peastaabi pressijaoskonna ülem
-- **Eesmärk:** Sõnumite selgus ja ausus
-- **Ülesanne:** Kriisikommunikatsioon; infosõja vastane sõnumitöö
-
-#### Arvo Jõesalu — Strateegiline kommunikatsioon
-
-![Arvo Jõesalu](images/profiles/arvo-joesalu.jpg)
-
-- **Roll:** Kaitseliidu StratKom osakonna ülem
-- **Eesmärk:** Kodanikuni jõudev sõnum
-- **Ülesanne:** Meediaoperatsioonid; väärinfo vastane töö
 
 ---
 

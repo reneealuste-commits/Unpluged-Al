@@ -55,8 +55,8 @@
 | Periood | Organisatsioon | Roll |
 |---------|----------------|------|
 | **2008–2018** | Eesti Kaitsevägi | Erioperatsioonide grupi (EOG) operaator, sniprigrupi ülem, jaoülem. Taktikaline väljaõpe, relvaõpe, meeskonnajuhtimine, operatsioonide planeerimine |
-| **2009–2010** | Vahipataljon (ajateenistus) | Koos Taavi Karotammeaga |
-| **2015** | Estpla-21, UNIFIL Liibanon | ~7 kuud Soome-Iiri pataljoni koosseisus (koos Karotammeaga) |
+| **2009–2010** | Vahipataljon (ajateenistus) | — |
+| **2015** | Estpla-21, UNIFIL Liibanon | ~7 kuud Soome-Iiri pataljoni koosseisus |
 | **2018–…** | Kaitseliit, Harju malev | Kompaniiülem ja instruktor. Sõdurioskuste kursuse (SOK) planeerimine, läbiviimine ja hindamine |
 | **2022** | USA Army Ranger School | Klass 07-22 — juhtimine surve all, meeskonnatöö, vastupidavus |
 | **2023–…** | Combat Ready OÜ | Juhtimisinstruktor ja koolitaja. FTX, lahingmatkad, juhtimisprogrammid |

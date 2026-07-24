@@ -331,7 +331,6 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
                     │  Rene Toomse — riigi/valitsuse tase      │
                     │  Eerik Heldna — kriisireguleerimine     │
                     │  Elmar Vaher — kaitseinvesteeringud      │
-                    │  Karotamme, Jõesalu — StratKom           │
                     └──────────────────┬───────────────────────┘
                                        │
           ┌────────────────────────────┼────────────────────────────┐
@@ -508,7 +507,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 
 ![Renee Aluste](images/profiles/renee-aluste.jpg)
 - **Roll operatsioonis:** Operatsiooni eestvedaja ja peamine sõnumitooja; ühendab isikliku kogemuse sõjalise distsipliiniga.
-- **Taust:** Combat Ready instruktor; Kaitseliidu juhtimisinstruktor. Endine erioperatsioonide grupi operaator; üks vähestest eestlastest, kes on läbinud USA Army Ranger Schooli. Arborist (TreeDoc/Kaks Arboristi). Ajateenistus Vahipataljonis (2009–2010, koos Taavi Karotammeaga); erioperatsioonide grupp; laevakaitseüksus; rahuvalvemissioon Liibanonis Estpla-21 (2015, ~7 kuud koos Karotammeaga).
+- **Taust:** Combat Ready instruktor; Kaitseliidu juhtimisinstruktor. Endine erioperatsioonide grupi operaator; üks vähestest eestlastest, kes on läbinud USA Army Ranger Schooli. Arborist (TreeDoc/Kaks Arboristi). Ajateenistus Vahipataljonis (2009–2010); erioperatsioonide grupp; laevakaitseüksus; rahuvalvemissioon Liibanonis Estpla-21 (2015, ~7 kuud UNIFIL-i Soome-Iiri pataljoni koosseisus).
 - **Isiklik motivatsioon:** Aluste on ise kogenud depressiooni ja mõistnud, kuidas pikaajaline infosõja ja manipulatsioon võib inimest murda. Ta on taastunud — ravimid, professionaalne abi, [narko.ee](https://www.narko.ee) tugiliin — ja võtnud vastutuse keha eest: uni, liikumine, toitumine. Ta viitab Vilhjalmur Stefanssoni arktika-kogemusele ja Bellevue uuringule (1928–1929) kui tõendile, et rasvarikas loomne toit (kala, mererasv) võib keha tervendada, kui vaim on juba abi saanud. Täielik lugu: **Lisa H**.
 - **Läbipõlemise õppetund:** Umbes **kolm aastat** tegi ta Sõdurioskuste kursuseid efektiivselt ja suurelt — tulemuseks olid **suured läbipõlemise ilmingud**. Operatsioon „Peegel" peab seda seekord tegema **targemini**: alusta **1-1 vestlustega** niipea kui võimalik, mitte ainult mass-koolitusega. Esimene samm on tehtud — **Rene Toomsega** on suhtlus alustatud; ukse lahti tehtud. (Vt V-formatsioon: Lisa I — üks ei veda igavesti.)
 - **Isiklik ajend (ausalt):** 37 aastat domineeriva juhtimise ja vägivalla all (*väikena ei kiusatud* — aga leivale suud, kõik ära, vastu tahtmist). Kolm last võõrandatud (Lily Käsper 14a, Rene Tilga 6a, Henry Käsper 11a). Oli ise kooli kiusaja. Taastus: Engel, Voss, van der Kolk, EMDR. Lahendus: **inimesekeskne juhtimine** (Kert + Steiger). Vt Q&A IV.
@@ -618,20 +617,6 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 - **Taust:** **Teadlik Mina** kooli asutaja ja juhataja ([teadlikmina.ee](https://teadlikmina.ee)); THA (Transpersonaalne Hüpnoanalüüs) looja. 40+ aastat praktikat; Eesti Transpersonaalse Psühholoogia Ühingu president; ETPA ja EUROTAS juhtrollid. Õpingud: hüpnoteraapia (UK), NLP, psühhodraama, pereteraapia, psühhoneuroimmunoloogia. Doktoriõpe (Canterbury, UK) — vähkkogemuse emotsionaalne ja spirituaalne dimensioon.
 - **Mõjuala:** **Sügav taastumine ja teadlikkus** — alateadlikud mustrid, trauma kehas, psühhosomaatika. Täiendab Villidot, Trofimovit, Kert Grünbergit.
 - **Miks ta on siin:** Operatsioon ütleb: vaenlane tabab seestpoolt. Biechonski töötab alateadliku tasandiga — seal, kus manipulatsioon ja trauma sageli peituvad. Ta ei asenda arsti, aga aitab inimesel mõista, miks keha ja vaim haigestuvad koos.
-
-#### Taavi Karotamme — Strateegiline kommunikatsioon
-
-![Taavi Karotamme](images/profiles/taavi-karotamme.jpg)
-- **Roll operatsioonis:** Strateegilise kommunikatsiooni eestvedaja; sõnumite selgus, kriisikommunikatsioon ja avalik usaldus.
-- **Taust:** Major, Kaitseväe peastaabi pressijaoskonna ülem. Pikaaegne kaitseväe kommunikatsioonispetsialist; juhib meeskonda, planeerib kommunikatsioonitegevusi ja kriisistsenaariume. Kogemus koostöös riiklike ja rahvusvaheliste partneritega. Renee Aluste ajateenistuse kaaslane Vahipataljonist (2009–2010); kohtusid uuesti Estpla-21 raames UNIFIL-i Liibanonis (2015) — töötasid koos umbes seitse kuud Soome-Iiri pataljoni koosseisus.
-- **Miks ta on siin:** Karotamme mõistab, et kommunikatsioon on osa lahinguplaanist — mitte ainult tegevuste kajastamine, vaid ka sõjaline ja ühiskondlik mõju. Operatsioon „Peegel" vajab inimest, kes oskab rääkida nii kodanikule kui juhile — ausalt, ilma propaganda keeleta.
-
-#### Arvo Jõesalu — Strateegiline kommunikatsioon
-
-![Arvo Jõesalu](images/profiles/arvo-joesalu.jpg)
-- **Roll operatsioonis:** Strateegilise kommunikatsiooni eestvedaja; infosõja vastane sõnumitöö ja meediaoperatsioonide kogemus.
-- **Taust:** Major, Kaitseliidu peastaabi strateegilise kommunikatsiooni osakonna ülem. Endine Kaitseväe teavituskeskuse (StratKomKe eelkäija) ülem (2011). Kogemus meediaoperatsioonides, teavitustöös ja reservväelaste teavitusõppustes. Aktiivne aruteludes väärinfo ja julgeoleku teemadel (sh Arvamusfestival 2025).
-- **Miks ta on siin:** Jõesalu on üks neist inimestest, kellega Renee Aluste on istunud laua taga ja arutanud, kuidas Eesti sõnum jõuab kodanikuni — ja kuidas vastane seda lõhub. Strateegiline kommunikatsioon ei ole turundus. See on riigi julgeolek kodaniku köögis.
 
 #### Eerik Heldna — Kriisireguleerimine (üleriigiline koordineerimine)
 
@@ -832,7 +817,6 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 | Operatiivne | Kaitseväe Akadeemia, Kaitseliit | Juhtide koolitus, kogukonna kaitse — tugev |
 | Taktikaline | Combat Ready (+ Her Way, Youth/Supermängud, Pertinax) | Juhtimiskoolitus, ülim vastutus — aktiivne |
 | Avalik sektor | Ain Anslan (Viru vangla) | Juhtimiskultuur, kriisivalmidus — aktiivne (Lisa K) |
-| Strateegiline kommunikatsioon | Taavi Karotamme, Arvo Jõesalu | Kaitseväe ja Kaitseliidu strateegiline kommunikatsioon — aktiivne |
 | Haridus | Techno TLN (Ott Pärna), KVA juhtkond, RaM Kool (Elmar Vaher), **Tallinna Vaba Waldorfkool (Ave Osa)**, **Montessori võrgustik (Roosi-Ott, Allikvee)** | Kutse-, juhtimis-, väärtus-, waldorf- ja Montessori-haridus — aktiivne (Lisa J) |
 | Kohalik | Peeter Järvsoo (Noorte Kotkad), Andrei Ambros (Harku), Andres Põhjala (Tartu Do) | Noored ja piirkondlik vastupanuvõime — aktiivne |
 | Rahva tase | Operatsioon „Peegel" võrgustik | KÄIVITATUD — see käsk |
@@ -868,7 +852,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 
 ## c. Tugevdused ja vähendused
 
-- **Tugevused:** Renee Aluste (isiklik kogemus + sõjaline väljaõpe); Combat Ready meeskond (sh Her Way, Youth, Pertinax); Ain Anslan (avaliku sektori juhtimiskultuur); Riho Ühtegi rahvuslik autoriteet; Rene Toomse strateegiline nägemus; Eerik Heldna kriisireguleerimine; Elmar Vaher kaitseinvesteeringute ja juhtimiskogemus; Taavi Karotamme ja Arvo Jõesalu strateegilise kommunikatsiooni kogemus; Steigeri inimesekeskne juhtimine kui SOP (Lisa I); teadlikkuse võrgustik (Lucas, Villido, Trofimov, tantralaagrid, Pühali); veteranid (Kinnunen); kohalikud allüksused (Järvsoo, Ambros); inimeste juhtimine (Sillaste).
+- **Tugevused:** Renee Aluste (isiklik kogemus + sõjaline väljaõpe); Combat Ready meeskond (sh Her Way, Youth, Pertinax); Ain Anslan (avaliku sektori juhtimiskultuur); Riho Ühtegi rahvuslik autoriteet; Rene Toomse strateegiline nägemus; Eerik Heldna kriisireguleerimine; Elmar Vaher kaitseinvesteeringute ja juhtimiskogemus; Steigeri inimesekeskne juhtimine kui SOP (Lisa I); teadlikkuse võrgustik (Lucas, Villido, Trofimov, tantralaagrid, Pühali); veteranid (Kinnunen); kohalikud allüksused (Järvsoo, Ambros); inimeste juhtimine (Sillaste).
 - **Vähendused:** Puuduv ametlik riiklik volitus (kodanikualgatus); piiratud eelarve; sõltuvus vabatahtlikust osalusest.
 
 ---
@@ -903,7 +887,7 @@ Operatsioon „Peegel" põhineb peegelneuronitel — ajus mehhanismil, mille abi
 
 ### Õppetund Liibanonist (Estpla-21, 2015)
 
-Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pataljoni koosseisus umbes seitse kuud. Laagri reegel: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my first!"* Iiri laud oli täis pudelid. Reeglid loodi loogikaga; pärast kahte õlut mõtles emotsioon — sa ei olnud enam sama inimene. Terve laager oli rahulik ainult siis, kui eelmisel õhtul oli joodud palju. See oli eluõppetund: dominants ei tööta inimeste peal pikas mängus. Mänguteooria ütleb: tit-for-tat on parim. Eestikeeles: *mida külvad, seda lõikad.* Parem tee on ausus, usaldus ja inimesekeskne juhtimine — mitte vanglad, mida ehitame ise, ja politsei, kes neid valvab.
+Renee Aluste teenis Estpla-21 raames UNIFIL-i Liibanonis Soome-Iiri pataljoni koosseisus umbes seitse kuud. Laagri reegel: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my first!"* Iiri laud oli täis pudelid. Reeglid loodi loogikaga; pärast kahte õlut mõtles emotsioon — sa ei olnud enam sama inimene. Terve laager oli rahulik ainult siis, kui eelmisel õhtul oli joodud palju. See oli eluõppetund: dominants ei tööta inimeste peal pikas mängus. Mänguteooria ütleb: tit-for-tat on parim. Eestikeeles: *mida külvad, seda lõikad.* Parem tee on ausus, usaldus ja inimesekeskne juhtimine — mitte vanglad, mida ehitame ise, ja politsei, kes neid valvab.
 
 ## b. Ülesanded lahinguüksustele
 
@@ -949,7 +933,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 ### Eerik Heldna (kriisireguleerimine)
 1. Üleriigiline kriisireguleerimise koordineerimine operatsiooni raames — rolliselgus kodanikule ja juhtidele.
 2. Õppuste ja stsenaariumide loogika toomine tsiviilkanalisse (PPA kriisideks valmisoleku kogemus).
-3. Kriisikommunikatsiooni standardid koos Karotamme ja Jõesaluga; hädaolukorra reeglite teadlikkus.
+3. Kriisikommunikatsiooni standardid lähtuvalt Lisa I põhimõtetest; hädaolukorra reeglite teadlikkus.
 
 ### Elmar Vaher (RKIK / kaitseinvesteeringud, RaM Kool lapsevanem, vt Lisa J)
 1. Siduda riiklik kaitsevalmidus ja koolielu — lapsevanemana Rocca al Mare Koolis.
@@ -1128,12 +1112,6 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 2. Ürituste ja praktikate korraldamine, mis toetavad keha-vaimu tasakaalu.
 3. Võimalus lahkuda digitaalsest müra keskkonnast ja laadida end looduses — enne kui jätkad operatsiooni koduses rindejoones.
 
-### Taavi Karotamme / Arvo Jõesalu (strateegiline kommunikatsioon)
-1. Operatsiooni sõnumite selgus ja läbipaistvus — ilma propaganda keeleta.
-2. Kriisikommunikatsiooni standardid kodanikualgatusele (vt Lisa I).
-3. Infosõja vastane sõnumitöö: faktid, mitte hirm; ausus, mitte dominants.
-4. Ühendavad narratiivid, mis ei lõhu, vaid ehitavad — riigi ja kodaniku vahel.
-
 ## c. Ülesanded lahingutoetusüksustele
 
 - **Kaitseväe Akadeemia (Aarne Ermus):** Juhtimismudelite jagamine; kvak.ee rollikirjelduste põhimõtete levitamine tsiviilkogukonnale.
@@ -1159,6 +1137,8 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | **„Juhul kui…" (keha suletud)** | Kui tunned end emotsionaalselt külmutatuna — kaaluge tantralaagrit või festivali (tantrafest.ee), Villido kursust (lilleoru.ee) või puhkust Pühalis (puhali.ee). Kriisis: Lisa H esimesena. |
 | **„Juhul kui…" (tahad olla tugevam isa)** | Loe Lisa D (*Tugev isa*). Kaaluge [papsid.ee](https://papsid.ee) koolitusi või **Papside laagrit** ([papsid.ee/papside-laager](https://papsid.ee/papside-laager/)) — 3 päeva isadele, praktilised tööriistad pere jaoks. |
 | **Lahingureeglid** | Ei ründa. Ei laima. Ei vihka. Ei manipuleeri. Peegeldame tervist, mitte haigust. |
+| **„Juhul kui…" (keegi palub nime eemaldada)** | **Lisa AJ** — kuldne taganemistee: eemalda nimi kõigist dokumentidest; kinnita austavalt; ära avalda. |
+| **Levitamine käsus nimetatud isikutele** | Lisa AJ — isiklik link või kuller + vahapitsat; lugemiskinnitus; vt `kommunikatsioon/vastus-taavi-karotamm.md` näidis. |
 | **Tagasiside** | Igakuine tagasiside võrgustikule: mis töötab, mis mitte. Kanal: operatsiooni koordinaator. |
 
 ---
@@ -1228,8 +1208,6 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Tantra / laagrid | Margus Sarmet | tantratants.ee / tantrafest.ee |
 | Tantra / laagrid | Kristiina Saul | kristiinasaul.ee / tantrafest.ee |
 | Heaolu / loodus | Urmas Sõõrumaa | puhali.ee (Pühali Hea Elu Keskus) |
-| Strateegiline kommunikatsioon | Taavi Karotamme | mil.ee (Kaitsevägi) |
-| Strateegiline kommunikatsioon | Arvo Jõesalu | Kaitseliit |
 | Kriisireguleerimine | Eerik Heldna | PPA / Combat Ready |
 | Kaitseinvesteeringud | Elmar Vaher | kaitseinvesteeringud.ee |
 | Naiste kanal | Combat Ready Her Way | combatreadyherway.eu |
@@ -2249,7 +2227,7 @@ Koos **Lisa AA** (*Intiimsuse atlas*) — mehe keha teadlikult, ilma porri kui �
 
 **K: Mis oli see lugu Liibanonist kahe õllega?**
 
-**V:** Estpla-21, 2015. Taavi Karotamme ja mina teenisime koos UNIFIL-is umbes seitse kuud. Reegel: kaks õlut. Kui keegi küsis — SOP vastus: „This is my first!" Iiri laud täis pudelid. Reeglid loodi loogikaga; pärast kahte õlut mõtles emotsioon. Laager oli rahulik ainult siis, kui eelmisel õhtul oli joodud palju. See ei olnud jätkusuutlik. Õppetund: dominants ei tööta inimeste peal pikas mängus. Inimesekeskne juhtimine — ausus, usaldus — on tõhusam.
+**V:** Estpla-21, 2015. Teenisin UNIFIL-is umbes seitse kuud. Reegel: kaks õlut. Kui keegi küsis — SOP vastus: „This is my first!" Iiri laud täis pudelid. Reeglid loodi loogikaga; pärast kahte õlut mõtles emotsioon. Laager oli rahulik ainult siis, kui eelmisel õhtul oli joodud palju. See ei olnud jätkusuutlik. Õppetund: dominants ei tööta inimeste peal pikas mängus. Inimesekeskne juhtimine — ausus, usaldus — on tõhusam.
 
 *Minu küsimus sulle: Kas sa juhid teisi reeglitega, mida sa ise ei järgi?*
 ---
@@ -2285,9 +2263,9 @@ Steiger ei paku väljamõeldud mudeleid. Ta kirjeldab igapäevast juhtimist, kus
 *Minu küsimus sulle: Mida sa täna külvad — ja mida sa tahad lõigata?*
 ---
 
-**K: Kas Taavi Karotamme ja Arvo Jõesalu toetavad seda ametlikult?**
+**K: Kas keegi ametlikult toetab seda operatsiooni?**
 
-**V:** Nad on operatsiooni strateegilise kommunikatsiooni eestvedajad oma kogemuse ja partnerluse kaudu. See ei ole Kaitseväe ega Kaitseliidu ametlik käsk — me ütleme seda selgelt. Aga nende töö riigis on ju see sama: aus sõnum, kriitiline mõtlemine, kodaniku usaldus. Me täiendame, mitte ei asenda.
+**V:** See ei ole Kaitseväe ega riigi ametlik käsk — kodanikualgatus. Osalisi nimetatakse kogemuse ja partnerluse tõttu; igaühel on õigus öelda „ei" või paluda oma nime eemaldamist (**Lisa AJ — kuldne taganemistee**). Me täiendame, mitte ei asenda riiklikku kaitset.
 
 *Minu küsimus sulle: Kas sa usaldad juhti, kes räägib ainult võitu — mitte ka vigu?*
 ---
@@ -2503,6 +2481,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **AG** | — | `lisad/lisa-ag-rollid-partnerlus-ja-nl-skeem.md` | **Rollid, kapten, Taraban** — mehe SOP, NL-skeem, *The Value of Others* |
 | **AH** | — | `lisad/lisa-ah-leelo-vahersalu-taust.md` | **Leelo Vahersalu** — puutöö klient, presidendi tunnustus, PERH Paldiski mnt 52, noorte vaimne tervis |
 | **AI** | — | `lisad/lisa-ai-epp-karsin-armastus-paabstab-maailma.md` | **Armastus päästab maailma** — Epp Kärsin kaart tanklas; avalik postitus |
+| **AJ** | — | `lisad/lisa-aj-levitamine-ja-kuldne-taganemistee.md` | **Levitamine** — kontrollitud lugemine, kuldne taganemistee, lugemiskinnitus, kuller + vahapitsat |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

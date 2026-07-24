@@ -43,6 +43,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | AG | [lisa-ag-rollid-partnerlus-ja-nl-skeem.md](lisa-ag-rollid-partnerlus-ja-nl-skeem.md) | **Rollid ja NL-skeem** — mehe roll, naise juhised, tunnustamine |
 | AH | [lisa-ah-leelo-vahersalu-taust.md](lisa-ah-leelo-vahersalu-taust.md) | **Leelo Vahersalu** — puutöö klient, presidendi tunnustus, noorte vaimne tervis |
 | AI | [lisa-ai-epp-karsin-armastus-paabstab-maailma.md](lisa-ai-epp-karsin-armastus-paabstab-maailma.md) | **Armastus päästab maailma** — Epp Kärsin, tankla hetk, avalik postitus |
+| AJ | [lisa-aj-levitamine-ja-kuldne-taganemistee.md](lisa-aj-levitamine-ja-kuldne-taganemistee.md) | **Levitamine** — kontrollitud lugemine, kuldne taganemistee, lugemiskinnitus, kuller + vahapitsat |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
 ---
@@ -97,6 +98,8 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 **Intiimsus (kohustuslik):** Lisa AA — Tom Walsberg *Intiimsuse atlas*; mees/naise erinevus; orgasmid; vibraatori ajalugu; **pane end kirja** Epp Kärsini yoni koolitusele ([eppkarsin.com](https://www.eppkarsin.com), tel 5362 8568).
 
 **Armastus päästab maailma:** Lisa AI — Epp Kärsin kaart tanklas; avalik postitus ([@epp.karsin](https://www.instagram.com/epp.karsin/)).
+
+**Levitamine käsus nimetatud isikutele:** Lisa AJ — kontrollitud lugemine, kuldne taganemistee, lugemiskinnitus, kuller + vahapitsat.
 
 **Leelo Vahersalu (kodaniku toetus):** Lisa AH — puutöö klient, presidendi tunnustus, PERH, noorte vaimne tervis.
 

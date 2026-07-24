@@ -80,9 +80,9 @@ Täielik sõnastus OPORD-is: sektsioon **„MIKS RENEE?"**
 - **Kaitseliidu juhtimisinstruktor** — praktiline juhtimine tsiviilkanalil.
 - **Endine erioperatsioonide grupi operaator** — Eesti erivägede kogemus.
 - **USA Army Ranger School** — üks vähestest eestlastest, kes on selle kooli läbinud.
-- **Ajateenistus** Vahipataljonis (2009–2010), koos Taavi Karotammeaga.
+- **Ajateenistus** Vahipataljonis (2009–2010).
 - **Erioperatsioonide grupp** ja **laevakaitseüksus**.
-- **Rahuvalvemissioon Liibanonis** — Estpla-21 (2015), ~7 kuud UNIFIL-i Soome-Iiri pataljoni koosseisus koos Karotammeaga.
+- **Rahuvalvemissioon Liibanonis** — Estpla-21 (2015), ~7 kuud UNIFIL-i Soome-Iiri pataljoni koosseisus.
 
 ### Tsiviil ja kutse
 
@@ -134,7 +134,7 @@ Umbes **kolm aastat** tegi Renee Sõdurioskuste kursuseid efektiivselt ja suurel
 
 ## Õppetund Liibanonist
 
-Renee ja Taavi Karotamme teenisid koos Estpla-21 raames Liibanonis. Laagri reegel: kaks õlut. SOP vastus küsimusele: *„This is my first!"* Reeglid loodi loogikaga; pärast kahte õlut mõtles emotsioon. Laager oli rahulik ainult siis, kui eelmisel õhtul oli joodud palju.
+Renee teenis Estpla-21 raames Liibanonis. Laagri reegel: kaks õlut. SOP vastus küsimusele: *„This is my first!"* Reeglid loodi loogikaga; pärast kahte õlut mõtles emotsioon. Laager oli rahulik ainult siis, kui eelmisel õhtul oli joodud palju.
 
 See oli eluõppetund, mis jõudis Operatsiooni „Peegel" tuuma: dominants ei tööta inimeste peal pikas mängus. Parem tee on ausus, usaldus ja inimesekeskne juhtimine — mitte vanglad, mida ehitame ise, ja politsei, kes neid valvab. (Vt Lisa I — Steiger 1997.)
 

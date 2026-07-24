@@ -60,6 +60,7 @@ BOOK_FILES = [
     "lisa-ag-rollid-partnerlus-ja-nl-skeem.md",
     "lisa-ah-leelo-vahersalu-taust.md",
     "lisa-ai-epp-karsin-armastus-paabstab-maailma.md",
+    "lisa-aj-levitamine-ja-kuldne-taganemistee.md",
     "renee-aluste-profiil.md",
 ]
 

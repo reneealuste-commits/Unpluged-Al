@@ -25,7 +25,7 @@ Eesti keeles koostatud viiepunktiline **paranemis-teekond** (OPORD-formaat) vast
 - `OPERATSIOON_PEEGEL_OPORD.md` + `.pdf` (kõik lisad PDF-is, sh Lisa AH ja AI)
 - `TOITUMINE_UURIMUSTOO.pdf` + `lisad/toitumine-uurimustoo.md`
 - **Lisa A–G** — Tugeva Isa seeria (7 köidet)
-- **Lisa H–AI** — kõik lisad (kiirjuhend, juhtimine, võrgustik, Leelo, Epp Kärsin jne)
+- **Lisa H–AJ** — kõik lisad (kiirjuhend, juhtimine, võrgustik, Leelo, Epp Kärsin, levitamine jne)
 - `images/` — profiilipildid ja koolide fotod
 - `generate_pdf.py`, `generate_toidu_pdf.py`
 

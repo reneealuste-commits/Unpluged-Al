@@ -13,6 +13,7 @@ Eesti keeles koostatud viiepunktiline **paranemis-teekond** (OPORD-formaat) vast
 | Formaat | Link |
 |---------|------|
 | **PDF** (soovitatav) | [Laadi alla OPERATSIOON_PEEGEL_OPORD.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_OPORD.pdf) |
+| **Toidu uurimustöö (PDF)** | [Laadi alla TOITUMINE_UURIMUSTOO.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/TOITUMINE_UURIMUSTOO.pdf) |
 | **Markdown** | [OPERATSIOON_PEEGEL_OPORD.md](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_OPORD.md) |
 | **Pull request** | [PR #1](https://github.com/reneealuste-commits/Unpluged-Al/pull/1) |
 
@@ -29,6 +30,7 @@ Eesti keeles koostatud viiepunktiline **paranemis-teekond** (OPORD-formaat) vast
 ```bash
 cd opord
 python3 generate_pdf.py
+python3 generate_toidu_pdf.py   # Lisa T — toidu uurimustöö
 ```
 
 ## Struktuur

@@ -27,6 +27,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | Q | [lisa-q-side-eeskirjad-ja-suhtlus.md](lisa-q-side-eeskirjad-ja-suhtlus.md) | **Side eeskirjad** — hääl, GOTWA (KOP5), austav keel, **Pareto 80/20**, demomehed |
 | R | [lisa-r-kes-ma-olen-ja-taust.md](lisa-r-kes-ma-olen-ja-taust.md) | **Kes ma olen? Taust ja tõendid** — CV, teenistus, koolitused, meedia (kahtlus) |
 | S | [lisa-s-kiusamine-aju-ja-trauma.md](lisa-s-kiusamine-aju-ja-trauma.md) | **Kiusamine, aju ja trauma** — *Imeline Teadus*, miks inimesed käituvad nii, Body Keeps the Score |
+| U | [lisa-u-rasv-avatud-meele-uuring.md](lisa-u-rasv-avatud-meele-uuring.md) | **Rasv ja avatud meel** — Bellevue 1928–29; [uurimustöö PDF](../TOITUMINE_UURIMUSTOO.pdf) |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
 ---
@@ -57,6 +58,8 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 **Koordinaator / kahtlus taustas:** Lisa R (CV, meedia tõendid) + [renee-aluste-profiil.md](renee-aluste-profiil.md).
 
 **Kiusamine ja trauma (miks inimesed käituvad nii):** Lisa S (*Imeline Teadus* 11/2023 + van der Kolk *Body Keeps the Score*).
+
+**Toitumine ja taastumine:** Lisa U + [TOITUMINE_UURIMUSTOO.pdf](../TOITUMINE_UURIMUSTOO.pdf) (Stefansson, Bellevue uuring).
 
 ---
 

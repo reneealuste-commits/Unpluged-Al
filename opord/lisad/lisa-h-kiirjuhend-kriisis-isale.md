@@ -120,6 +120,8 @@ Lääne arstid ei uskunud, et inimene saab ainult lihast elada. **1928–1929** 
 
 **Oluline:** see ei ole retsept „kõik peavad sööma nagu inuitid". See on tõend, et **tööstuslik toit ja ühekülgne süsivesikute üleküllus** võivad keha kurnata — eriti siis, kui vaim on juba põhjas. Enne suuri toitumismuutusi: **perearst või toitumisnõustaja**. Ravimid ja teraapia jäävad esikohale.
 
+**Täielik uurimustöö (PDF):** `TOITUMINE_UURIMUSTOO.pdf` · `toitumine-uurimustoo.md` · **Lisa U** (avatud meel, küsimused)
+
 ### Riigi roll (vt Lisa L)
 
 | Haldusala | Asutus | Ülesanne |

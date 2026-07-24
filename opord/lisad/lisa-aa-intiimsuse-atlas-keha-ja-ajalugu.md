@@ -205,6 +205,126 @@ Aeg + turvalisus + teadlikkus = päris nauding mõlemale
 
 ---
 
+---
+
+## 9. Elukogemus — Hi on Life festival, Pühali (Renee Aluste)
+
+> *See ei ole propaganda. See on **tunnistus** — nagu Lisa H. Ava silmad.*
+
+### Stseen
+
+**Koht:** [Pühali Hea Elu Keskus](https://puhali.ee) (Raplamaa) — **Hi on Life** ühenduse festival.
+
+**Ruum:** PVC telk — pikk ristkülik. Telgi **keskel lava**, kaunistatud rahulike, inimestele sõbralike värvitoonidega. Põrand madratsitel; inimesed selili (väga soe). Lapsed, beebid, valge pikakarvaline koer jookseb ringi — sõbralik, rahulik. **~18 inimest** (või rohkem) — kogu saal täis, vaikne, kuulav.
+
+**Renee:** lava ees, selili. Maria ja laps Il kõrval. Vaatab üles — **Epp Kärsin** laval.
+
+### Esimene hetk — padjuke kukla alla
+
+Renee märkas: **kukka ei saa maha panna** — pidi hoidma pead kätega üleval.
+
+Keegi **tagant**, ootamatult — **tundmatu inimene** — pani padja kukla alla.
+
+| Mida see tähendas | Mida see EI tähendanud |
+|-------------------|------------------------|
+| Keegi **jälgis** | „Nad on mu sõbrad" |
+| Keegi **hoolis** | Formaalne teenindus |
+| Võõrad võivad olla **inimesed** | Kõik peavad olema tuttavad |
+
+> *Lisa W: austus = armastus käitumise kaudu. Padjuke on väike asi — aga kehas tajutakse **turvalisust** (Lisa P, van der Kolk).*
+
+### Epp Kärsin — esitlus lavalt
+
+Renee vaatas terve esitluse — **algusest lõpuni põnev**, sest Epp on **siiras**.
+
+**Eppi lugu (esitluse tuum):**
+- Oli **kehalises ja vaimses kohas** — enese vastu vägivaldne käitumine
+- Pisendas ennast, rääkis end väiksemaks ja „koledamaks"
+- **Depressioon**, piiride puudumine, alkohol
+- Lähedal **enesetapu ääre**
+- **Pööre:** hakkas käituma teisiti — mõtleb, kuidas **tema keha** tunneb ja elab
+- Kõnnib **paljajalu** — ei ela enam teiste hinnangu järgi
+- Täna: siiras, avatud, aitab teisi (yoni koolitused, Lisa AA)
+
+**Renee tunnistus:** *ma tunnen seda teed — Lisa H. Enese vastu vägivald, depressioon, alkohol. Epp näitas, et **välja on võimalik tulla** — mitte häbiga, vaid keha ja aususega.*
+
+### Ühendus operatsiooniga
+
+| Element | Lisa |
+|---------|------|
+| Pühali, loodus, festival | Urmas Sõõrumaa, Lisa Z |
+| Epp intiimsus | Lisa AA, eppkarsin.com |
+| Turvalisus, padjuke | Lisa P, Lisa W |
+| Taastumine | Lisa H, Lisa V |
+| Paljajalu, jalanõud | vt §10 allpool |
+
+---
+
+## 10. Paljajalu kõndimine, jalanõud ja linna planeerimine
+
+> *Epp kõndis paljajalu. Renee ütleb: tee **uurimustöö** jalanõude kohta — lapsele ja täiskasvanule.*
+
+### Miks see loeb
+
+| Asfalt / kontor / king | Muru / mets / paljajalu |
+|------------------------|-------------------------|
+| Jalg on **kapsel** kingades 8–12 h | Jalg **tunneb** maad |
+| Laste jalad kasvavad **vales** kingas | Laste jalad vajavad **liikumist** ja maad |
+| Linn = kõva pind kõikjal | Linn = **muru väljakud** puuduvad |
+
+**Uurimisküsimused (ava silmad):**
+1. Kuidas kitsad kingad mõjutavad laste jalaarengut?
+2. Miks inimesed kurdavad valu — aga ei võta kingi maha?
+3. Miks asfalt on „norm" — aga muru on „eraldi park"?
+4. Kas **paljajalu kõndimine** murul võib olla osa stressi väljumisest (Lisa Y — efekt kehas)?
+
+### Linna planeerimine — üks võtmeülesanne (Lisa Z)
+
+```
+Täna:  asfalt → auto → king → stress → keha kinni
+Homme: muruväljak → paljajalu / kerged jalatsid → keha tunneb maad → rahunemine
+```
+
+**Ettepanek omavalitsustele ja planeerijatele (Lisa L):**
+- **Muru väljakud** igas linnaosas — mitte ainult üks park kesklinnas
+- Jalakäijate **pehme** pind (murukattega teed, kergkate)
+- Koolide ja lasteaedade **paljasjalu alad** (liiv, muru, puit)
+- Pühali mudel: loodus **lähedal** — mitte ainult ekraan
+
+**Seos Hi on Life'iga:** festival Pühalis oli **prototüüp** — kuidas linn võiks tunda: pehme põrand, rahulikud värvid, inimesed selili, lapsed ja koer vabad, keegi paneb padja kukla alla.
+
+---
+
+## 11. Mida teha pärast seda lugu
+
+| Samm | Tegevus |
+|------|---------|
+| 1 | Loe **Lisa H** — kui tunned end Eppi või Renee loos ära |
+| 2 | Loe **Intiimsuse atlas** + **Lisa AA** |
+| 3 | **Pane end kirja** [Epp Kärsin](https://www.eppkarsin.com) koolitusele |
+| 4 | Mine **Pühalisse** või järgmisele Hi on Life üritusele — [puhali.ee](https://puhali.ee) |
+| 5 | Uuri **jalanõude** mõju — küsi perearstilt, loe allikaid |
+| 6 | Kõnni **murul paljajalu** — alusta 5 minutit |
+| 7 | Küsi omavalitsuselt: **kus on meie muruväljak?** (Lisa Z, Lisa L) |
+
+---
+
+## 12. AVATUD MEEL — festivali ja keha küsimused
+
+1. Kas ma olen kunagi tundnud, et **võõras inimene** hoolib — nagu padjuke?
+2. Kas ma pisendan end — nagu Epp enne pööret?
+3. Kas ma tean, kuidas **minu keha** tunneb — või ainult, mida teised arvavad?
+4. Millal ma viimati kõndisin **paljajalu murul**?
+5. Kas minu linnas on **muru väljak** — või ainult asfalt?
+6. Kas ma paneksin **padja** kellelegi teisele — ilma et ta paluks?
+
+---
+
+## 13. Üks lause (uuendatud)
+
+> **„Pühali telgis pani võõras mulle padja kukla alla. Epp rääkis ausalt lavalt. Murul paljajalu kõndimine ja muruväljakud linnas — see ei ole luksus. See on keha kodu."**
+
+
 ## 8. Üks lause, mida võid jagada
 
 > **„Loe Intiimsuse atlasi. Mõista, kui erinevad me oleme. Orgasmi ajalugu on kontrolli ajalugu. Pane end kirja Epp Kärsini koolitusele — ja räägi partneriga ausalt."**

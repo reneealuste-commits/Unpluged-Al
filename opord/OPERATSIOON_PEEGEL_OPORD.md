@@ -542,6 +542,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 - **Mõjuala:** **Pere rindejoon ja lähedus** — tugev pere vajab ka füüsilist ja emotsionaalset intiimsust; paljud lahutused ja kriisid algavad vaikimisest ja häbist. Epp murrab tabu, et paarid saaksid rääkida ausalt. Täiendab tantravõrgustikku (Earthchild, Skalkina, Sarmet) **konkreetsema kehakeelse haridusega**; seob operatsiooni põhimõttega *austus = armastus käitumise kaudu*.
 - **Miks ta on siin:** Infosõda tabab ka magamistoa — häbi, võõrutus, pornograafia sõltuvus. Operatsioon „Peegel" ütleb: tugev isa ja ema on ka lähedased partnerid. Epp pakub turvalist ruumi, kus intiimsus ei ole tabu ega müügitoode, vaid teadlik hoolitsus.
 - **Yoni massaaži koolitus (pane end kirja):** [Naine, tunne oma keha](https://www.eppkarsin.com/et/koolitused/naine-tunne-oma-keha-ehk-yoni-massaazi-koolitus-naistele/8) · [Yoni massaaž meestele](https://www.eppkarsin.com/et/koolitused/yoni-massaazi-koolitus/5) · Stuudio Paldiski mnt 21-1, Tallinn · **5362 8568** · Täielik juhend: **Lisa AA**
+- **Hi on Life @ Pühali:** esinemine Pühali Hea Elu Keskuses (PVC telk, lava) — Renee Aluste tunnistus: siirus, taastumine, padjuke kukla alla (Lisa AA §9)
 
 #### Igor Earthchild — Tantra ja teadlik ühendus
 
@@ -576,7 +577,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 ![Urmas Sõõrumaa](images/profiles/urmas-soorumaa.jpg)
 - **Roll operatsioonis:** Heaolu- ja puhkekeskuse eestvedaja; looduslik keskkond keha ja vaimu taastamiseks; ürituste ja praktikate korraldamine.
 - **Taust:** Ettevõtja, Pühali Hea Elu Keskuse (endine Adila heaolu- ja puhkekeskus) asutaja ja omanik. Keskus asub Pihali külas (Kohila vald, Raplamaa) — saunad, spordiväljakud, majutus, rabamets ja Pühali Hiis. Sõõrumaa seostab koha oma esivanemate ajalooga (vähemalt 12 põlvkonda) ja missiooniga taastada küla elujõudu. Korraldab üritusi, puhkust ja keha-vaimu praktikaid looduses.
-- **Miks ta on siin:** Infosõja väsimus ei ole ainult vaimne — see on ka kehaline. Pühali pakub ruumi, kus inimene saab väljuda algoritmist: sauna, rabas jalutada, hiies vaikida, hingetõmmata. See on operatsiooni „ava silmad" missioon looduse ja hea elu kaudu.
+- **Miks ta on siin:** Infosõja väsimus ei ole ainult vaimne — see on ka kehaline. Pühali pakub ruumi, kus inimene saab väljuda algoritmist: sauna, rabas jalutada, hiies vaikida, hingetõmmata. **Hi on Life** ühenduse festivalid (PVC telk, lava, madratsid) — seal esines **Epp Kärsin**; Renee Aluste tunnistus padjukest ja siirusest: **Lisa AA §9**. See on operatsiooni „ava silmad" missioon looduse ja hea elu kaudu.
 
 #### Jure Biechonski — Transpersonaalne psühholoogia ja hüpnoteraapia
 
@@ -1691,7 +1692,21 @@ Täielik juhend: **Lisa I**. Linnad ja tööstusmudel: **Lisa Z**. Ära usu mind
 
 See ei ole porr. See on **teadlikkus** — nagu uni (Lisa V) või toit (Lisa U). Häbi on infosõja relv. Me võtame relva ära.
 
-*Minu küsimus sulle: Kas sa oled lugenud *Intiimsuse atlasi* — ja kas sa oled end kirja pannud Epp Kärsini koolitusele?*
+*Minu küsimus sulle: Kas sa oled lugenud Intiimsuse atlasi — ja kas sa oled end kirja pannud Epp Kärsini koolitusele?*
+
+---
+
+**K: Renee, sa rääkisid Pühalist ja Epp Kärsini esitlusest. Mis see oli?**
+
+**V (Renee Aluste):** **Hi on Life** festival Pühali Hea Elu Keskuses. PVC telk — keskel lava, ümber madratsid, soe, rahulikud värvid. Inimesed selili, lapsed, beebid, valge koer jookseb ringi. **Epp Kärsin** laval — siiras algusest lõpuni.
+
+Ma olin lava ees selili — Maria ja Il kõrval. Kukka ei saanud maha panna. **Keegi võõras** pani mulle padja kukla alla. See oli väike asi — aga kehas tajusin: keegi jälgib, keegi hoolib.
+
+Epp rääkis oma teest: enese vastu vägivald, depressioon, alkohol, enesetapu ääre — ja kuidas ta tuli välja. Kõnnib **paljajalu**. Mõtleb, kuidas **tema keha** tunneb.
+
+**Lisa AA §9–10** — täielik tunnistus + jalanõude uurimustöö + **muruväljakud linnas** (Lisa Z). Mine Pühalisse. Pane end kirja Eppule. Kõnni murul.
+
+*Minu küsimus sulle: Millal sa viimati kõndisid paljajalu murul — mitte asfaldil?*
 
 ---
 

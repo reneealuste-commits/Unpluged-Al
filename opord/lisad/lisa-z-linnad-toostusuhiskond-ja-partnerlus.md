@@ -159,6 +159,9 @@ Eesti on väike. **Küla, vald, linn** saavad teha rohkem kui oodata:
 - Pereklubid, isa-grupid (Lisa H)
 - Kooli koostöö vanematega (Lisa J, N)
 - Pühali-tüüpi keskused — **töö + pere + loodus**
+- **Muru väljakud** igas linnaosas — paljajalu alad, pehme pind (Lisa AA §10; Hi on Life festival Pühalis kui prototüüp)
+
+**Jalanõud ja asfalt:** linn planeerib auto ja kõva pinna jaoks. Keha vajab **murdu** — eriti laste jalad. Uurimustöö jalanõude mõju kohta: Lisa AA. **Paljajalu kõndimine murul** peab tagasi tulema — mitte ainult üksik festival Pühalis.
 
 > *Alustada saab Eestist — sest me oleme väikesed, paindlikud ja digitaalsed. Aga ainult kui **valitsus kuuleb** — Lisa T, Lisa P, Lisa X (tagasiside).*
 

@@ -9,6 +9,38 @@
 
 ---
 
+## 0. Kommentaar Facebookis — täpne sõnastus (juuli 2026)
+
+Renee Aluste postitas Facebookis video ja lingi dokumendile **„Eesti rahva taastamise OPERATSIOON PEEGEL OPORD"** (Google Drive PDF). Postituse alla kommenteeris **Leelo Vahersalu**:
+
+> **„Ma arvasin kohe, et Sa saad kõigega hakkama, väga tubli tüüp! 😊"**
+
+| Sõna / fraas | Mida see Renee jaoks tähendab |
+|--------------|-------------------------------|
+| **„Ma arvasin kohe"** | Usuk enne tõestust. Mitte „nüüd kui kõik näevad", vaid **algusest peale**. |
+| **„et Sa saad kõigega hakkama"** | Kompetentsi valideerimine. Vastupidine sõnumile: *sa oled liiga palju, sa ei jaksa, see on liiga suur*. |
+| **„väga tubli tüüp"** | Lihtne, inimlik, soe — mitte ametlik, mitte poliitiline, mitte kaitsepositsioonis. |
+| **😊** | Soojus. Mitte ironia. Mitte „edu sulle, aga…" |
+
+### Miks just see kommentaar, just selle postituse alla
+
+1. **Renee jagas OPORD-i avalikult** — see on haavatav samm. Paljud vaatavad, vähesed kommenteerivad. Leelo kommenteeris **avalikult**.
+2. **Ta ei küsinud „mis see on?"** — ta **toetas inimest**, mitte ei nõudnud selgitust. See on usaldus.
+3. **„Kõigega hakkama"** kattub operatsiooni tuumaga: infosõda, taastumine, võrgustik, julgus — mitte üks teema, vaid **kõik koos**.
+4. **Üks kommentaar postituse all**, kus on 14 reaktsiooni ja 2 kommentaari — väike arv, aga **kvaliteet üle kvantiteedi**. Renee operatsioon ütleb: *demomees enne massi* — Leelo on see esimene peegel.
+
+### NVC tõlgendus (Lisa P)
+
+| | |
+|---|---|
+| **Tunne (arvatav)** | Soov toetada, usk, soojus |
+| **Vajadus (arvatav)** | Et inimene, keda ta austab, ei jääks üksi |
+| **Palve (tegelik)** | „Jätka. Ma nägin sind juba enne. Sa oled tubli." |
+
+> *See ei ole hüpotees, et tema toetus on oluline. See on **tõend**: ta võttis aja, kirjutas avalikult, ja sõnad valis ta ise.*
+
+---
+
 ## 1. Kes on Leelo Vahersalu? (avalik OSINT)
 
 | Väli | Andmed | Allikas |
@@ -99,7 +131,7 @@ Infosõjas võidab see, kes tekitab **üksildust** ja **häbi**. Üks kommentaar
 |---------|---------|
 | Täpne elukoht Põhja-Tallinnas | Avalikult pole täpset aadressi — ainult linnaosa |
 | Kas ta on Kopli vabatahtliku päästekomando liige | **Kinnitamata** avalikes allikates — võib olla, aga me ei väida |
-| Täpne sõnastus tema kommentaarist | Isiklik vestlus — lisada Renee poolt, kui soovitakse |
+| Täpne sõnastus tema kommentaarist | **Jah** — vt sektsioon 0: *„Ma arvasin kohe, et Sa saad kõigega hakkama, väga tubli tüüp!"* (Facebook, OPORD-postitus) |
 | Poliitiline kuuluvus | OSINT ei näita — **kodanik**, mitte erakond |
 
 > *Me ei ehita inimest üles. Me tunnustame seda, mis on avalikult tehtud — ja seda, mida tema sõnad Renee jaoks tähendavad.*

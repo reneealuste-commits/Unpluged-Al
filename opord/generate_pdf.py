@@ -53,6 +53,7 @@ BOOK_FILES = [
     "lisa-z-linnad-toostusuhiskond-ja-partnerlus.md",
     "lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md",
     "lisa-ab-paljajalu-ja-rippumine-linnas.md",
+    "lisa-ac-magamistuba-voim-ja-revolutsioon.md",
     "renee-aluste-profiil.md",
 ]
 

@@ -285,7 +285,7 @@ Traumatiseeritud inimene = haukuv koer trauma olekus
 
 > **„Trauma ei ole koostöö. Trauma on haukumine. Anna ruumi. Loo turvalisus. Ignoreeri haukumist. Tasusta rahulikku. Nad ei tee seda tahtlikult."**
 
-**Seosed:** Lisa S (miks) · Lisa H (kriis) · Lisa I (inimesekeskne juhtimine) · van der Kolk (keha enne mõistust)
+**Seosed:** Lisa S (miks) · Lisa H (kriis) · Lisa I (inimesekeskne juhtimine) · Lisa AC (magamistuba, revolutsioon, näita teed) · van der Kolk (keha enne mõistust)
 
 ---
 

@@ -25,6 +25,8 @@ OPORD manifest ütleb: **Intiimsuse atlas on kohustuslik kirjandus kõigile, ilm
 
 **Praktiline järg:** loe raamat → pane end kirja **Epp Kärsin** koolitusele (yoni massaaž, keha tundmine).
 
+**Revolutsioon magamistoas:** **Lisa AC** — võim, manipulatsioon, mehe ownership, näita teed (koos Lisa P trauma-reegliga).
+
 ---
 
 ## 1. Kui erinevad me oleme — naine ja mees

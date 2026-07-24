@@ -35,7 +35,8 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | Y | [lisa-y-kanep-endokannabinoid-ja-ajalugu.md](lisa-y-kanep-endokannabinoid-ja-ajalugu.md) | **ECS, CBD, toit** — mitte suitsetamine; efekt stressist välja; case study'd; kriitiline mõtlemine |
 | Z | [lisa-z-linnad-toostusuhiskond-ja-partnerlus.md](lisa-z-linnad-toostusuhiskond-ja-partnerlus.md) | **Linnad ja tööstusmudel** — vanglad, politsei kui süsteem; Steiger 1997 vastus |
 | AA | [lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md](lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md) | **Intiimsuse atlas** — orgasmid, vibraatori ajalugu, Epp Kärsin yoni koolitus |
-| AB | [lisa-ab-paljajalu-ja-rippumine-linnas.md](lisa-ab-paljajalu-ja-rippumine-linnas.md) | **Paljajalu linnas** + **Vanja Moves meeskond** — rippumine 90 sek/päev, tasuta mobility |
+| AB | [lisa-ab-paljajalu-ja-rippumine-linnas.md](lisa-ab-paljajalu-ja-rippumine-linnas.md) | **Paljajalu linnas** + **Vanja Moves meeskond** — riippumine 90 sek/päev, tasuta mobility |
+| AC | [lisa-ac-magamistuba-voim-ja-revolutsioon.md](lisa-ac-magamistuba-voim-ja-revolutsioon.md) | **Magamistuba ja revolutsioon** — võim, ownership, näita teed |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
 ---

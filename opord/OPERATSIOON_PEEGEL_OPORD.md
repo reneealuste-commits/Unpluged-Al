@@ -1319,6 +1319,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Linnad, tööstusühiskond ja partnerlus:** Lisa Z — `lisad/lisa-z-linnad-toostusuhiskond-ja-partnerlus.md` (suletud toad, isa eemal, ettevõtlus, reform Eestist)
 - **Intiimsuse atlas, keha, orgasmid, yoni koolitus:** Lisa AA — `lisad/lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md` (Walsberg 2024, vibraatori ajalugu, **Epp Kärsin** — pane end kirja: eppkarsin.com)
 - **Paljajalu kohandamine ja rippumine linnas:** Lisa AB — `lisad/lisa-ab-paljajalu-ja-rippumine-linnas.md` (muruväljakud, Korea mudel, **90 sek rippumist päevas**, Vanja Moves / schoolofmobility.com)
+- **Magamistuba, võim ja revolutsioon:** Lisa AC — `lisad/lisa-ac-magamistuba-voim-ja-revolutsioon.md` (naised ei ole kurjad; mehe ownership; näita teed — Epp, Intiimsuse atlas)
 - **Koordinaatori profiil:** `lisad/renee-aluste-profiil.md` (eraldi leht)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
 - **Signaal OPERATSIOON TÄIDETUD:** Kui ühiskondlikud mõõdikud näitavad paranemist — üksikemade arv langeb, kiusamine väheneb, inimesed räägivad vastutusest.
@@ -1638,6 +1639,25 @@ Täielik alus: **Lisa I** (Steiger) + **Lisa P** (van der Kolk, spordikommentaat
 **Faktorite analüüs (Lisa I, lk 32):** enne süüdistamist küsi — oskamatus või tahtetus? Kas juht ise on tulemust määrav faktor? **Mõista ≠ nõustu** (lk 35–37): neli sammu — aruta, küsi, seleta, otsi ühist lahendust.
 
 *Minu küsimus sulle: Kas sa oled kunagi proovinud kedagi „parandada" loogikaga — kui ta vajas esmalt turvalisust?*
+
+---
+
+**K: Magamistuba on võimuvõitlus. Kas naised on kurjad? Mida mees peab tegema?**
+
+**V (Renee Aluste):** **Lisa AC** — revolutsiooniline dokument. Loe see täielikult.
+
+**Naised EI OLE kurjad.** Kell kaks öösel — nad ei ole kurjuse tegelased. Nad on **pimestatud**, ülekoormatud, trauma poolt laetud. Ühiskond **müüs** neile müra: osta see, ole see, tee nii. Kõik üritavad ellu jääda.
+
+**Magamistuba** on paljudel naistel **ainuke koht**, kus nad tunnevad kontrolli. Seetõttu toimub seal võimuvõitlus — mitte kurjuse pärast.
+
+**Mees ei planeeri naist maha.** Meest pole õpetatud. Ühiskond ütles: „võta kokku", tööta, ära tunne. **Mees peab avama silmad** ja ütlema: *see on välja kontrolli. Mina võtan ownership.*
+
+**Revolutsioon:**
+1. **Lisa P** öösel — ruum, turvalisus, ignoreeri haukumist, ära feedi
+2. **Hommikul** — näita teed: *Intiimsuse atlas*, pane end kirja **Epp Kärsinile**, partnerlus (Lisa Z, E)
+3. **Ära võida manipulatsiooni manipulatsiooniga** — näita teed
+
+*Minu küsimus sulle: Kas sa oled võtnud ownership — või ootad, et tema muutub esimesena?*
 
 ---
 

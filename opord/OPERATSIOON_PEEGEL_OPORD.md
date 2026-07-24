@@ -49,8 +49,9 @@
 | **Lisa Y** | ECS, CBD, toit, stress — mitte suitsetamise propageerimine |
 | **Lisa Z** | Linnad, tööstusmudel, partnerlus, ettevõtlus — reform Eestist |
 | **Lisa I** | Steiger 1997 — *Inimesekeskne juhtimine*; peakirjastaja **Heli Illipe-Sootak** |
+| **Lisa AA** | *Intiimsuse atlas*, orgasmid, vibraatori ajalugu, **Epp Kärsin** yoni koolitus |
 
-Täiendab **Epp Kärsin** teadlikku intiimsust (eppkarsin.com) ja pere rindejoont (Lisa E, Lisa W).
+Täiendab **Epp Kärsin** teadlikku intiimsust — **pane end kirja:** [eppkarsin.com](https://www.eppkarsin.com) · yoni koolitus naistele ja meestele · Paldiski mnt 21-1, Tallinn · **5362 8568**
 
 > *See operatsioon kutsub sind **kaasa nautima** seda, mis on veel võimalik siin elus — endaga, peres, kehas. Mitte allumisega. **Teadlikkusega.***
 
@@ -540,6 +541,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 - **Taust:** Amare Luna OÜ tegevjuht; koolitaja alates 2015 ([eppkarsin.com](https://www.eppkarsin.com)). Tartu Ülikooli kehakultuuri teaduskond; holistika, Hiina meditsiin, tantra-alased kursused. Koolitused: paaridele, naistele, meestele, noortele („Seksist ilha häbita"); ettevõtetele. Raamat *Ennast raiskame võõrastes voodites* (koos Mihkel Rauaga). Avalik eesmärk: reformida seksuaalharidust Eesti koolides — ilma tabu ja häbita.
 - **Mõjuala:** **Pere rindejoon ja lähedus** — tugev pere vajab ka füüsilist ja emotsionaalset intiimsust; paljud lahutused ja kriisid algavad vaikimisest ja häbist. Epp murrab tabu, et paarid saaksid rääkida ausalt. Täiendab tantravõrgustikku (Earthchild, Skalkina, Sarmet) **konkreetsema kehakeelse haridusega**; seob operatsiooni põhimõttega *austus = armastus käitumise kaudu*.
 - **Miks ta on siin:** Infosõda tabab ka magamistoa — häbi, võõrutus, pornograafia sõltuvus. Operatsioon „Peegel" ütleb: tugev isa ja ema on ka lähedased partnerid. Epp pakub turvalist ruumi, kus intiimsus ei ole tabu ega müügitoode, vaid teadlik hoolitsus.
+- **Yoni massaaži koolitus (pane end kirja):** [Naine, tunne oma keha](https://www.eppkarsin.com/et/koolitused/naine-tunne-oma-keha-ehk-yoni-massaazi-koolitus-naistele/8) · [Yoni massaaž meestele](https://www.eppkarsin.com/et/koolitused/yoni-massaazi-koolitus/5) · Stuudio Paldiski mnt 21-1, Tallinn · **5362 8568** · Täielik juhend: **Lisa AA**
 
 #### Igor Earthchild — Tantra ja teadlik ühendus
 
@@ -1060,9 +1062,10 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 3. Raamat *Lõpp on algus. Julgus elada iseendana* — elulugu põhjast taastumisest; soovitus neile, kes on kaotanud kõik ja otsivad uut algust.
 
 ### Epp Kärsin (teadlik intiimsus)
-1. Koolitused paaridele, naistele ja meestele — aus intiimsus ilma häbita ([eppkarsin.com](https://www.eppkarsin.com)).
-2. Noorte loeng „Seksist ilma häbita" — seksuaalharidus, mida koolis sageli ei anta.
-3. Täiendab pere rindejoont (Lisa E) ja tantravõrgustikku — intiimsus kui armastuse kehakeel.
+1. **Pane end kirja** yoni massaaži koolitusele — naistele ja meestele ([eppkarsin.com](https://www.eppkarsin.com)) · **5362 8568** · Lisa AA.
+2. Koolitused paaridele, naistele ja meestele — aus intiimsus ilma häbita; stressi vabastamine kehas teadliku puudutuse kaudu.
+3. Noorte loeng „Seksist ilma häbita" — seksuaalharidus, mida koolis sageli ei anta.
+4. Täiendab *Intiimsuse atlasi* (Walsberg) ja pere rindejoont (Lisa E) — intiimsus kui armastuse kehakeel.
 
 ### Kaia Kapsta-Forrester (pere ja paar)
 1. IMAGO ja PREP suhtekoolitused — mustrite teadvustamine, autentsus, lähedus ([kaiakapsta.com](https://kaiakapsta.com)).
@@ -1283,6 +1286,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Taskukaardid, väljapoole suhtlemine:** Lisa X — `lisad/lisa-x-taskukaardid-valjasuhtlus.md` (OPSEC, 5 teemat, lendleht, märkmikku kirjutamine)
 - **Kanep, endokannabinoidsüsteem, CBD ja toit (mitte suitsetamine):** Lisa Y — `lisad/lisa-y-kanep-endokannabinoid-ja-ajalugu.md` (ECS, CBD, rasvad, case study'd, kriitiline mõtlemine)
 - **Linnad, tööstusühiskond ja partnerlus:** Lisa Z — `lisad/lisa-z-linnad-toostusuhiskond-ja-partnerlus.md` (suletud toad, isa eemal, ettevõtlus, reform Eestist)
+- **Intiimsuse atlas, keha, orgasmid, yoni koolitus:** Lisa AA — `lisad/lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md` (Walsberg 2024, vibraatori ajalugu, **Epp Kärsin** — pane end kirja: eppkarsin.com)
 - **Koordinaatori profiil:** `lisad/renee-aluste-profiil.md` (eraldi leht)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
 - **Signaal OPERATSIOON TÄIDETUD:** Kui ühiskondlikud mõõdikud näitavad paranemist — üksikemade arv langeb, kiusamine väheneb, inimesed räägivad vastutusest.
@@ -1673,6 +1677,21 @@ Me **ehitasime** linnad suletud tubadega — korterid, kontorid, koolid eraldi. 
 Täielik juhend: **Lisa I**. Linnad ja tööstusmudel: **Lisa Z**. Ära usu mind — loe Steigerit ise.
 
 *Minu küsimus sulle: Kas sa juhid teisi nii, nagu sa tahaksid, et sind juhiks — või nagu vangla valvur?*
+
+---
+
+**K: Miks räägite *Intiimsuse atlasest* ja yoni massaažist? See on ju intiimne teema.
+
+**V (Renee Aluste):** Sest **teil on parem intiimsus, kui teate, kuidas keha töötab** — mitte ainult mida filmid näitavad.
+
+**Lisa AA** (kohustuslik):
+1. **Tom Walsberg — *Intiimsuse atlas* (2024)** — mees ja naine on **erinevad**; erinevad orgasmid on võimalikud; biokeemia ja suhted
+2. **Vibraatori ajalugu** — arstid, „hüsteeria", stressi vabastamine kehas (Maines 1999 + kriitiline ülevaade — ava silmad)
+3. **Epp Kärsin** — yoni massaaži **juhend ja koolitus** operatsiooni partnerilt. **Pane end kirja:** [eppkarsin.com](https://www.eppkarsin.com) · naistele: [Naine, tunne oma keha](https://www.eppkarsin.com/et/koolitused/naine-tunne-oma-keha-ehk-yoni-massaazi-koolitus-naistele/8) · meestele: [Yoni massaaž](https://www.eppkarsin.com/et/koolitused/yoni-massaazi-koolitus/5) · **5362 8568** · Paldiski mnt 21-1, Tallinn
+
+See ei ole porr. See on **teadlikkus** — nagu uni (Lisa V) või toit (Lisa U). Häbi on infosõja relv. Me võtame relva ära.
+
+*Minu küsimus sulle: Kas sa oled lugenud *Intiimsuse atlasi* — ja kas sa oled end kirja pannud Epp Kärsini koolitusele?*
 
 ---
 
@@ -2227,6 +2246,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **X** | — | `lisad/lisa-x-taskukaardid-valjasuhtlus.md` | **Taskukaardid** — väljapoole suhtlemine, OPSEC, 5 teemat, lendlehe tekst, demomehed |
 | **Y** | — | `lisad/lisa-y-kanep-endokannabinoid-ja-ajalugu.md` | **ECS, CBD, toit** — mitte suitsetamine; efekt stressist välja; case study'd; varimajandus |
 | **Z** | — | `lisad/lisa-z-linnad-toostusuhiskond-ja-partnerlus.md` | **Linnad = vanglad** — dominantne süsteem; Steiger 1997 vastus; partnerlus |
+| **AA** | — | `lisad/lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md` | **Intiimsuse atlas** — mees/naise erinevus, orgasmid, vibraatori ajalugu, Epp Kärsin yoni koolitus |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

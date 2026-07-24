@@ -34,6 +34,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | X | [lisa-x-taskukaardid-valjasuhtlus.md](lisa-x-taskukaardid-valjasuhtlus.md) | **Taskukaardid** — väljapoole suhtlemine, OPSEC, 5 teemat, lendlehe tekst, märkmikku kirjutamise juhend |
 | Y | [lisa-y-kanep-endokannabinoid-ja-ajalugu.md](lisa-y-kanep-endokannabinoid-ja-ajalugu.md) | **ECS, CBD, toit** — mitte suitsetamine; efekt stressist välja; case study'd; kriitiline mõtlemine |
 | Z | [lisa-z-linnad-toostusuhiskond-ja-partnerlus.md](lisa-z-linnad-toostusuhiskond-ja-partnerlus.md) | **Linnad ja tööstusmudel** — vanglad, politsei kui süsteem; Steiger 1997 vastus |
+| AA | [lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md](lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md) | **Intiimsuse atlas** — orgasmid, vibraatori ajalugu, Epp Kärsin yoni koolitus |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
 ---
@@ -76,6 +77,8 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 **Kanep, ECS, CBD ja toit (mitte suitsetamine):** Lisa Y — endokannabinoidsüsteem, CBD tooted, kanepiseemneõli, case study'd, varimajandus; kriitiline mõtlemine — ära usu, uuri ise.
 
 **Linnad, tööstusühiskond, partnerlus:** Lisa Z — suletud toad, isa eemal raha teenimas, Rockefelleri ajastu mudel; tagasipöördumine ettevõtluse ja pere-partnerluse juurde; reform Eestist seestpoolt valitsust.
+
+**Intiimsus (kohustuslik):** Lisa AA — Tom Walsberg *Intiimsuse atlas*; mees/naise erinevus; orgasmid; vibraatori ajalugu; **pane end kirja** Epp Kärsini yoni koolitusele ([eppkarsin.com](https://www.eppkarsin.com), tel 5362 8568).
 
 ---
 

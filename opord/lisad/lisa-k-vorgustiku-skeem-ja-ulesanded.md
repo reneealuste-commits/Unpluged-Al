@@ -374,6 +374,12 @@
 - **Eesmärk:** Hoida Steigeri raamat elus — et inimesekeskne juhtimine jõuaks igasse juhini, mitte ainult Kaitseväe riiulile
 - **Ülesanne:** Raamatu peakirjastamine operatsioonis; seos Lisa I, Lisa Z (dominantse süsteemi vastu); ISBN 9985901274
 
+#### Epp Kärsin — Teadlik intiimsus
+
+- **Roll:** Yoni massaaži ja intiimsuse koolitaja; **Lisa AA** praktiline juhend
+- **Eesmärk:** Häbist vabanemine; stressi vabastamine kehas; päris orgasmid, mitte teesklmine
+- **Ülesanne:** [eppkarsin.com](https://www.eppkarsin.com) — **pane end kirja** yoni koolitusele (naised + mehed); tel **5362 8568**
+
 #### Kristjan Liivamägi — Aasta investor 2022
 
 - **Roll:** TalTech vanemlektor; KML Invest; ELi rahatarkuse saadik
@@ -655,7 +661,7 @@
 | Peep Vain | Koolitaja (Vain & Partners) | Juhtimine, motivatsioon, enesemääramine |
 | Alar Ojastu | Koolitaja, autor | *Ratsionaalne emotsionaalsus*; emotsioonid ja juhtimine |
 | Tiit Trofimov | Enesearengu teejuht | Emotsioonid, meeste ring, meditatsioon (tiittrofimov.ee) |
-| Epp Kärsin | Teadliku intiimsuse koolitaja | Seksuaalharidus, paarid, noored (eppkarsin.com) |
+| Epp Kärsin | Amare Luna / eppkarsin.com | Yoni koolitus, intiimsus — **Lisa AA**; pane end kirja |
 | Kaia Kapsta-Forrester | Pere- ja paaripsühholoog | IMAGO, PREP, raseduskriis (kaiakapsta.com) |
 | Kert Grünberg | Holistiline regressiooniterapeut | Trauma, TRE, kaassõltuvus (hingamistuba.ee) |
 | Jure Biechonski | Transpersonaalne psühhhoterapeut | THA, hüpnoteraapia (teadlikmina.ee) |

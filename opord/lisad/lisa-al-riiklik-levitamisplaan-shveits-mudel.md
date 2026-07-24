@@ -4,7 +4,9 @@
 
 **Põhimõte:** Avaldame **oma inimeste** kaudu. Riik **ostab ja jagab**; rahvas **kirjastab ja hoiab**.
 
-**Seotud:** Lisa AK (taskuraamat), Lisa AJ (levitamine), Lisa I (Steiger), Maakaitse käsiraamat (Toomse 2021)
+**Seotud:** Lisa AK (taskuraamat), Lisa AJ (levitamine), Lisa AM (õigused ja realistlik maht), Lisa I (Steiger), Maakaitse käsiraamat (Toomse 2021)
+
+**Realistlik esimene samm:** vt **Lisa AM** (õigused Huberilt, trükk 2 000–5 000, müük 5 000–10 000). See dokument on pika mängu visioon.
 
 > *„Me ei ehita vanglaid, mida ise valvame. Me anname igale inimesele taskusse raamatu, mis õpetab juhtima inimest - mitte kontrollima teda."*
 
@@ -159,7 +161,7 @@ Kodaniku Raamat MTÜ  ???  õigused (Hermes + Steiger)
 | Samm | Tegevus | Vastutaja |
 |------|---------|----------|
 | 1 | Asutada **Kodaniku Raamat MTÜ** | Renee + Heli + Remo |
-| 2 | Õiguste läbirääkimised (Hermes, tõlkija, Steiger) | Heli |
+| 2 | Õiguste päring Huber Verlagilt (vt Lisa AM) | Heli |
 | 3 | K0 käsikiri valmis (240 lk) | Renee + Heli |
 | 4 | Proovitrükk **1 000 tk** | Printon |
 | 5 | **Eeltellimus** 7 - - combatready.eu | Remo |
@@ -212,9 +214,9 @@ Kodaniku Raamat MTÜ  ???  õigused (Hermes + Steiger)
 
 | Samm | Kellelt | Tulemus |
 |------|--------|--------|
-| 1 | **Kirjastus Hermes** | Kirjalik litsents eesti tõlkele |
-| 2 | **Piret Liivamägi** (tõlkija) | Nõusolek |
-| 3 | **Steigeri pärijad / Huber Verlag** | Tõlkeõigus |
+| 1 | **Huber Verlag / Steigeri pärijad** | Originaali õigused (mitte Fontes) |
+| 2 | **Piret Liivamägi** (tõlkija) | Nõusolek olemasolevale tõlkele |
+| 3 | **Kirjastus Hermes** | Informatiivne — eksklusiivne eesti litsents?
 | 4 | **KVA / Kerti pärand** | 2011 eessõna (valikuline) |
 | 5 | **Kodaniku Raamat MTÜ** | Uus ISBN |
 

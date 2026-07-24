@@ -63,6 +63,7 @@ BOOK_FILES = [
     "lisa-aj-levitamine-ja-kuldne-taganemistee.md",
     "lisa-ak-kodaniku-taskuraamat-peegel.md",
     "lisa-al-riiklik-levitamisplaan-shveits-mudel.md",
+    "lisa-am-oigused-ja-realistlik-maht.md",
     "renee-aluste-profiil.md",
 ]
 

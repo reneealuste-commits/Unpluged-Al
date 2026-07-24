@@ -39,6 +39,8 @@
 
 **Elu naudingud on seotud teadmisega.** Kui sa mõistad, kuidas su keha töötab — uni, toit, hormoonid, närvisüsteem, stress — saad teha **paremaid otsuseid enda kohta**. See kehtib ka intiimsuse kohta: **teil kõigil on parem ja nauditavam seksuaalelu, kui teil on info, kuidas keha toimib.**
 
+**Inimesed õpivad lugude kaudu** — mitte ainult tabelitest. Epp Kärsin Pühalis: *To heal is to feel.*
+
 **Kohustuslik kirjandus (kõigile, ilma erandita):**
 
 | Raamat | Miks |
@@ -541,7 +543,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 - **Roll operatsioonis:** Teadliku seksuaalsuse ja intiimsuse koolitaja; häbistatud teemade avamine ausa keele kaudu — paaridele, naistele, meestele ja noortele.
 - **Taust:** Amare Luna OÜ tegevjuht; koolitaja alates 2015 ([eppkarsin.com](https://www.eppkarsin.com)). Tartu Ülikooli kehakultuuri teaduskond; holistika, Hiina meditsiin, tantra-alased kursused. Koolitused: paaridele, naistele, meestele, noortele („Seksist ilha häbita"); ettevõtetele. Raamat *Ennast raiskame võõrastes voodites* (koos Mihkel Rauaga). Avalik eesmärk: reformida seksuaalharidust Eesti koolides — ilma tabu ja häbita.
 - **Mõjuala:** **Pere rindejoon ja lähedus** — tugev pere vajab ka füüsilist ja emotsionaalset intiimsust; paljud lahutused ja kriisid algavad vaikimisest ja häbist. Epp murrab tabu, et paarid saaksid rääkida ausalt. Täiendab tantravõrgustikku (Earthchild, Skalkina, Sarmet) **konkreetsema kehakeelse haridusega**; seob operatsiooni põhimõttega *austus = armastus käitumise kaudu*.
-- **Miks ta on siin:** Infosõda tabab ka magamistoa — häbi, võõrutus, pornograafia sõltuvus. Operatsioon „Peegel" ütleb: tugev isa ja ema on ka lähedased partnerid. Epp pakub turvalist ruumi, kus intiimsus ei ole tabu ega müügitoode, vaid teadlik hoolitsus.
+- **Miks ta on siin:** Infosõda tabab ka magamistoa — häbi, võõrutus, pornograafia sõltuvus. Operatsioon „Peegel" ütleb: tugev isa ja ema on ka lähedased partnerid. Epp pakub turvalist ruumi, kus intiimsus ei ole tabu ega müügitoode, vaid teadlik hoolitsus. **Põhimõte:** *To heal is to feel* — suhtlus kehaga nõuab traumast tervenemist ja tunde välja lasemist (Lisa AA §9).
 - **Yoni massaaži koolitus (pane end kirja):** [Naine, tunne oma keha](https://www.eppkarsin.com/et/koolitused/naine-tunne-oma-keha-ehk-yoni-massaazi-koolitus-naistele/8) · [Yoni massaaž meestele](https://www.eppkarsin.com/et/koolitused/yoni-massaazi-koolitus/5) · Stuudio Paldiski mnt 21-1, Tallinn · **5362 8568** · Täielik juhend: **Lisa AA**
 - **Hi on Life @ Pühali:** esinemine Pühali Hea Elu Keskuses (PVC telk, lava) — Renee Aluste tunnistus: siirus, taastumine, padjuke kukla alla (Lisa AA §9)
 
@@ -1066,8 +1068,9 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 ### Epp Kärsin (teadlik intiimsus)
 1. **Pane end kirja** yoni massaaži koolitusele — naistele ja meestele ([eppkarsin.com](https://www.eppkarsin.com)) · **5362 8568** · Lisa AA.
 2. Koolitused paaridele, naistele ja meestele — aus intiimsus ilma häbita; stressi vabastamine kehas teadliku puudutuse kaudu.
-3. Noorte loeng „Seksist ilma häbita" — seksuaalharidus, mida koolis sageli ei anta.
-4. Täiendab *Intiimsuse atlasi* (Walsberg) ja pere rindejoont (Lisa E) — intiimsus kui armastuse kehakeel.
+3. **To heal is to feel** — suhtlus oma kehaga algab traumast tervenemisest ja tunde välja laskest (Lisa AA §9; Lisa S, Lisa H).
+4. Noorte loeng „Seksist ilma häbita" — seksuaalharidus, mida koolis sageli ei anta.
+5. Täiendab *Intiimsuse atlasi* (Walsberg) ja pere rindejoont (Lisa E) — intiimsus kui armastuse kehakeel.
 
 ### Kaia Kapsta-Forrester (pere ja paar)
 1. IMAGO ja PREP suhtekoolitused — mustrite teadvustamine, autentsus, lähedus ([kaiakapsta.com](https://kaiakapsta.com)).
@@ -1704,11 +1707,11 @@ See ei ole porr. See on **teadlikkus** — nagu uni (Lisa V) või toit (Lisa U).
 
 Ma olin lava ees selili — Maria ja Il kõrval. Kukka ei saanud maha panna. **Keegi võõras** pani mulle padja kukla alla. See oli väike asi — aga kehas tajusin: keegi jälgib, keegi hoolib.
 
-Epp rääkis oma teest: enese vastu vägivald, depressioon, alkohol, enesetapu ääre — ja kuidas ta tuli välja. Kõnnib **paljajalu**. Mõtleb, kuidas **tema keha** tunneb.
+Epp rääkis oma teest: enese vastu vägivald, depressioon, alkohol, enesetapu ääre — ja kuidas ta tuli välja. Kõnnib **paljajalu**. Mõtleb, kuidas **tema keha** tunneb. Eppi sõnum: **suhtlus kehaga** nõuab traumast tervenemist — ja tunde **välja lasemist**. *To heal is to feel.*
 
-**Lisa AA §9–10** — täielik tunnistus + jalanõude uurimustöö + **muruväljakud linnas** (Lisa Z). **Lisa AB** — paljajalu kohandamise võimalused + **rippumine 90 sek päevas** (Vanja Moves: schoolofmobility.com). Mine Pühalisse. Pane end kirja Eppule. Kõnni murul. Rippu.
+**Lisa AA §9–10** — täielik tunnistus + **To heal is to feel** + jalanõude uurimustöö + **muruväljakud linnas** (Lisa Z). **Lisa AB** — paljajalu kohandamise võimalused + **rippumine 90 sek päevas** (Vanja Moves: schoolofmobility.com). Mine Pühalisse. Pane end kirja Eppule. Kõnni murul. Rippu.
 
-*Minu küsimus sulle: Millal sa viimati kõndisid paljajalu murul — mitte asfaldil? Ja kas sa rippusid täna vähemalt 90 sekundit?*
+*Minu küsimus sulle: Millal sa viimati **lubasid end tunda** — mitte ainult mõelda?*
 
 ---
 
@@ -1725,6 +1728,20 @@ Epp rääkis oma teest: enese vastu vägivald, depressioon, alkohol, enesetapu �
 Lisa Z (planeerimine), Lisa L (omavalitsus), Lisa J (koolid).
 
 *Minu küsimus sulle: Kas sinu linnas on muruväljak ja rippumisribad — või ainult asfalt ja tool?*
+
+---
+
+**K: Mida Epp Kärsin mõtles kehaga suhtlemise all? „To heal is to feel"?**
+
+**V (Renee Aluste):** Epp tõi tähelepanu **oma kehaga suhtlusele**. See ei tule loosungist. See tuleb **traumast tervenemisest** — ja sellest, et sa lased tunde **endast välja lihtsalt tunda**, ilma et sa neid kohe maha surud.
+
+> **To heal is to feel.** Tervenemine on tundmine.
+
+Inimesed **õpivad lugude kaudu**. Epp ei rääkinud teooriat Pühalis — ta rääkis, kuidas ta hakkas **oma keha kuulama**. Enne seda: enese vastu vägivald, depressioon, alkohol. Pärast seda: paljajalu, ausus, yoni teadlikkus.
+
+**Lisa AA §9** — padjuke, Pühali, täielik lugu. **Lisa S** + van der Kolk — trauma elab kehas. **Lisa H** — kui tunned end ära. See ei asenda teraapiat — see ütleb, kuhu tee viib.
+
+*Minu küsimus sulle: Kas sa lubad end täna **tunda** — või ainult mõelda ja suruda maha?*
 
 ---
 

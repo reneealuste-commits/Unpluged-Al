@@ -248,6 +248,27 @@ Renee vaatas terve esitluse — **algusest lõpuni põnev**, sest Epp on **siira
 
 **Renee tunnistus:** *ma tunnen seda teed — Lisa H. Enese vastu vägivald, depressioon, alkohol. Epp näitas, et **välja on võimalik tulla** — mitte häbiga, vaid keha ja aususega.*
 
+### Eppi põhimõte — suhtlus kehaga
+
+Epp tõi tähelepanu **oma kehaga suhtlusele**. See ei tule loosungist. See tuleb **traumast tervenemisest** — ja sellest, et sa lased tunde **endast välja lihtsalt tunda**, ilma et sa neid kohe maha surud.
+
+| Enne | Pärast |
+|------|--------|
+| Keha on vaenlane või märkamatu | Keha on **partner** |
+| Tundeid hoitakse sees (alkohol, enese vastu vägivald) | Tundeid **tuntakse** — ja lastakse läbi |
+| „Võta kokku" | **Tervenemine = tundmine** |
+
+> **To heal is to feel.**  
+> *Tervenemine on tundmine.*
+
+**Mida see tähendab praktikas:**
+1. Sa ei saa **mõista**, kuidas keha tunneb — kui sa ei luba tal **tunda**
+2. Trauma elab kehas (van der Kolk — Lisa S, Lisa P) — seega tervenemine **läbib keha**, mitte ainult pead
+3. Paljajalu kõndimine, yoni teadlikkus, padjuke kukla alla — kõik on **keha keel**: turvalisus, maad tunda, ausus
+4. See ei asenda teraapiat (Lisa H, Kert Grünberg) — see **toetab** seda
+
+**Renee:** *Inimesed õpivad lugude kaudu. Epp ei rääkinud teooriat — ta rääkis, kuidas ta **hakkas oma keha kuulama**. Sellest algas kõik muu.*
+
 ### Ühendus operatsiooniga
 
 | Element | Lisa |
@@ -256,6 +277,7 @@ Renee vaatas terve esitluse — **algusest lõpuni põnev**, sest Epp on **siira
 | Epp intiimsus | Lisa AA, eppkarsin.com |
 | Turvalisus, padjuke | Lisa P, Lisa W |
 | Taastumine | Lisa H, Lisa V |
+| Trauma kehas | Lisa S, Lisa P, van der Kolk |
 | Paljajalu, jalanõud | vt §10 allpool |
 
 ---
@@ -324,7 +346,7 @@ Homme: muruväljak → paljajalu / kerged jalatsid → keha tunneb maad → rahu
 
 ## 13. Üks lause (uuendatud)
 
-> **„Pühali telgis pani võõras mulle padja kukla alla. Epp rääkis ausalt lavalt. Murul paljajalu kõndimine ja muruväljakud linnas — see ei ole luksus. See on keha kodu."**
+> **„Pühali telgis pani võõras mulle padja kukla alla. Epp rääkis ausalt lavalt. To heal is to feel — tervenemine on tundmine. Murul paljajalu kõndimine ja muruväljakud linnas — see ei ole luksus. See on keha kodu."**
 
 
 ## 8. Üks lause, mida võid jagada

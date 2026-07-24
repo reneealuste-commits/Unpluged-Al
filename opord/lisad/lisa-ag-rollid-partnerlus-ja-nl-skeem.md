@@ -129,7 +129,7 @@ UKS · KOTID · KOHTING · KUULA · KOHAL
 
 ### Kohustuslik kirjandus
 
-**Orion Taraban — *The Value of Others: Understanding the Economic Model of Relationships*** (PsycHacks, 2024, ~432 lk, ISBN **979-8990069510**). Kliiniline psühholoog; PsycHacks podcast.
+**Orion Taraban** — *The Value of Others: Understanding the Economic Model of Relationships* (PsycHacks, 2024, ~432 lk, ISBN 979-8990069510). Kliiniline psühholoog; PsycHacks podcast.
 
 | Miks OPORD-is | Mida see annab |
 |---------------|----------------|

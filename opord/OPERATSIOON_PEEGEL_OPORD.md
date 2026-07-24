@@ -2,7 +2,7 @@
 ## Paranemis-teekond — Kõrgetasemeline vastutegevus psühholoogilisele mõjutamisele
 
 **Klassifikatsioon:** Avalik — Eesti rahvale  
-**Kuupäev:** 22. juuli 2026  
+**Kuupäev:** 24. juuli 2026  
 **Käsu andja:** Renee Aluste, operatsiooni koordinaator  
 **Operatsiooni tase:** Strateegiline–taktikaline (mitmetasandiline)  
 **Viide:** Maakaitse käsiraamatu viiepunktiline OPORD-formaat (opiq.ee)
@@ -16,6 +16,51 @@
 > *„**Paranemine algab sellel hetkel, kui sa mõistad, et sa pole katki olnudki.**" — Renee Aluste*
 
 > *„**Kohtleme kõiki asjaosalisi nagu terveid, täiesti normaalseid inimesi.**" — operatsiooni põhireegel*
+
+---
+
+## VASTASANALÜÜS — MILLEGA ME RAHUL POLE
+
+> *Kui sa mõtled „miks see üldse vajalik on?" — **loe just seda**. Täpne analüüs, 13 ministri profiilid ja Ranger Handbooki detailplaan on **Lisa T**.*
+
+See operatsioon ei sünni teooriast. See sündis sellest, et **tulemused räägivad iseenda eest** — ja need tulemused ei teeni enam Eesti peresid, vaid numbreid.
+
+Me **ei süüdi** ühtegi ministrit ega poliitikut isiklikult. Nad on valitud, nad on inimesed, nad võivad olla stressis, üksildased ja trauma-teadmatud (vt Lisa S, Lisa I). Aga **me ei saa ignoreerida tulemusi**, sest tulemused on meie laste ja perede tulevik.
+
+### Mis meid rahulolematuks teeb — mitte kavatsus, vaid tulemus
+
+| KPI | Tulemus praegu | Mida see tähendab perele |
+|-----|----------------|--------------------------|
+| **Sünde arv** | 9 240 (2025) — **−30%** võrreldes 2010–2021 keskmisega | Noored ei sünni lapsi — majanduslik ja emotsionaalne surve |
+| **Sündimuskordaja** | **1,16** (asendustase 2,1) | Eesti iive ei jätku — demograafiline kriis |
+| **Rahvaarv** | **−9 250** inimest (2025) | Teine aastat järjest kahanemine |
+| **Valitsuse usaldus** | **30%** | Rahvas ei usalda otsustajaid |
+| **PM heakskiit** | **21%** heakskiit, **67%** valitsus „halb" | Legitiimsuse kriis |
+| **Laste absoluutne vaesus** | **4,5%** (2023: 2,4%) | Lapsed kannatavad — toetused ei jõua |
+| **Üksikvanemate vaesus** | **38%** suhtelises vaesuses | Üksikemad ei saa hakkama |
+| **Eluaseme hinnad** | **+5–6%** aastas | Noored pered ei saa kodu — lapsed jäävad sündimata |
+| **Riigivõlg** | **24,1% SKP** (10 mlrd €) | Tulevased põlved maksavad |
+| **Kaitsekulutused** | **3,4% SKP** → plaan **5%+** | Raha kaitsele — pered teisejärgulised |
+
+### Mida me konkreetselt kritiseerime (süsteemi, mitte inimeste tasandil)
+
+1. **Numbrid enne inimesi.** Eelarve, SKP ja kaitseprotsent paranevad statistikas; perede KPI-d halvenevad.
+2. **Dominants juhtimine on tagasi.** Inimesekeskne juhtimine (Kert + Steiger 1997, Lisa I) on kadunud — nii riigis kui Kaitseväes. Otsused tunduvad traumatiseeritud, mitte teadlikud.
+3. **Tagasiside ei jõua üleval.** „Üleval on üksildane" — keegi ei ütle ausalt, et tulemused on valed.
+4. **Kiusamine ja ärapanemine.** Internetis, tööl, ühiskonnas — valitsus ei paku terviklikku vastust (Lisa S).
+5. **AI teeb administratiivse töö ära** — inimene on vaja seal, kus on vaja emotsiooni, eeskuju ja usaldust. Praegu puudub mõlemad.
+
+### Meie positsioon (NVC)
+
+- **Tunded:** mure, valus, pettumus — mitte viha üksikute inimeste vastu.
+- **Vajadus:** ausus, turvalisus, perede tulevik, vastutus tulemuste eest.
+- **Palve:** loe see dokument; anna tagasisidet; mõtle perede KPI-de peale, mitte ainult koalitsiooni säilitamise peale.
+
+### Tuleviku nõue
+
+Iga valitsusliige peaks enne ametisse astumist läbima **traumateadlikkuse baaskursuse** ja **mõttevigade kursuse** — mitte süüdistamiseks, vaid selleks, et otsused ei tuleks kaitsepositsioonist. Detailid: **Lisa T §11**.
+
+**Täielik analüüs (IPB, PMESII-PT, ASCOPE, 13 ministri profiilid, show me the money, hüpoteesid):** **Lisa T** — `lisad/lisa-t-valitsuse-ipb-analuus.md`
 
 ---
 
@@ -73,6 +118,7 @@ Renee Aluste ei alustanud teooriast. Ta alustas oma elust:
 2. **Ta põles läbi.** Umbes kolm aastat Sõdurioskuste kursuseid — efektiivselt, suurelt — kuni läbipõlemise ilmingud sundisid peatuma. Seekord tehakse **targemalt**: 1-1 vestlused, rotatsioon, mitte üks mees kogu aeg ees.
 3. **Riik teeb tööd, aga sõnum ei jõua igasse peresse.** Kaitsevägi, Kaitseliit, KAPO — head. Siiski tabavad algoritmid (TikTok, Telegram, võõrkeelsed kanalid) inimesi enne, kui nad aru saavad.
 4. **Liibanon õpetas.** Dominants ei tööta inimeste peal pikas mängus. Ausus ja usaldus töötavad paremini kui reeglid, mida kõik teavad, et on vale.
+5. **Valitsuse tulemused ei teeni peresid.** Sündide langus, usalduse kriis, laste vaesus — vt **Vastasanalüüs** (dokumendi algus) ja **Lisa T** (täielik IPB-analüüs).
 
 **Esimene ukse lahti tegemine:** 1-1 vestlus **Rene Toomsega** on alustatud.
 
@@ -1188,6 +1234,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Takistused ja valideerimine:** Lisa P — `lisad/lisa-p-takistused-ja-valideerimine.md` (spordikommentaator, mis töötab / mis mitte, emotsioonide nägemine)
 - **Side eeskirjad:** Lisa Q — `lisad/lisa-q-side-eeskirjad-ja-suhtlus.md` (hääl, GOTWA, austav keel, demomeeste igapäevane standard)
 - **Kes ma olen (kahtlus / taust):** Lisa R — `lisad/lisa-r-kes-ma-olen-ja-taust.md` (CV, teenistus, koolitused, meedia tõendid)
+- **Valitsuse IPB-analüüs:** Lisa T — `lisad/lisa-t-valitsuse-ipb-analuus.md` (Ranger Handbook, KPI, 13 ministrit, show me the money)
 - **Koordinaatori profiil:** `lisad/renee-aluste-profiil.md` (eraldi leht)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
 - **Signaal OPERATSIOON TÄIDETUD:** Kui ühiskondlikud mõõdikud näitavad paranemist — üksikemade arv langeb, kiusamine väheneb, inimesed räägivad vastutusest.
@@ -2052,6 +2099,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **P** | — | `lisad/lisa-p-takistused-ja-valideerimine.md` | **Takistused ja valideerimine** — spordikommentaator, van der Kolk, paranemis-teadlikkus |
 | **Q** | — | `lisad/lisa-q-side-eeskirjad-ja-suhtlus.md` | **Side eeskirjad** — hääl, GOTWA, austav keel, Pareto 80/20, demomehed |
 | **S** | — | `lisad/lisa-s-kiusamine-aju-ja-trauma.md` | **Kiusamine, aju ja trauma** — *Imeline Teadus*, miks inimesed käituvad nii, Body Keeps the Score |
+| **T** | — | `lisad/lisa-t-valitsuse-ipb-analuus.md` | **Valitsuse IPB-analüüs** — Ranger Handbook, KPI/OKR, 13 ministrit, hüpoteesid, traumateadlikkuse nõue |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

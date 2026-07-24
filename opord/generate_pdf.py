@@ -55,6 +55,7 @@ BOOK_FILES = [
     "lisa-ab-paljajalu-ja-rippumine-linnas.md",
     "lisa-ac-magamistuba-voim-ja-revolutsioon.md",
     "lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md",
+    "lisa-ae-ohk-liikumine-ja-komplimendid.md",
     "renee-aluste-profiil.md",
 ]
 

@@ -38,6 +38,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | AB | [lisa-ab-paljajalu-ja-rippumine-linnas.md](lisa-ab-paljajalu-ja-rippumine-linnas.md) | **Paljajalu linnas** + **Vanja Moves meeskond** — riippumine 90 sek/päev, tasuta mobility |
 | AC | [lisa-ac-magamistuba-voim-ja-revolutsioon.md](lisa-ac-magamistuba-voim-ja-revolutsioon.md) | **Magamistuba ja revolutsioon** — võim, ownership, näita teed |
 | AD | [lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md](lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md) | **Lood ja konversioon** — 7-sammu checklist, taskukaardid, mida öelda kui keegi vastu hakkab |
+| AE | [lisa-ae-ohk-liikumine-ja-komplimendid.md](lisa-ae-ohk-liikumine-ja-komplimendid.md) | **Õhk, liikumine, komplimendid** — niiskus korteris, rippumine, mitte-seksuaalne SOP tänaval |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
 ---
@@ -78,6 +79,8 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 **Väljapoole suhtlemine (infooperatsioon):** Lisa X — taskukaardid rahakotti / märkmikku, lendlehe tekst, mida öelda ja millest mitte rääkida.
 
 **Lood ja sõnumi edastamine (kohustuslik praktika):** Lisa AD — inimesed mõistavad maailma läbi lugude; **konversiooni loo checklist** (7 sammu), taskukaardid igale kodanikule, mida öelda kui keegi vastu hakkab. Prindi: `LOO_CHECKLIST_PRINT.pdf`, `LOO_TASKUKAARDID_PRINT.pdf`.
+
+**Õhk, liikumine, komplimendid (elu kvaliteet):** Lisa AE — korteri **õhu niiskuse** mõõtmine ja reguleerimine, rippumine (Lisa AB), **mitte-seksuaalne komplimendi SOP** võõrastele; blokk 0: omamine („minu mees"). Prindi: `KOMPLIMENT_SOP_PRINT.pdf`.
 
 **Kanep, ECS, CBD ja toit (mitte suitsetamine):** Lisa Y — endokannabinoidsüsteem, CBD tooted, kanepiseemneõli, case study'd, varimajandus; kriitiline mõtlemine — ära usu, uuri ise.
 

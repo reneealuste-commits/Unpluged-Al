@@ -20,12 +20,12 @@ Eesti keeles koostatud viiepunktiline **paranemis-teekond** (OPORD-formaat) vast
 | **Markdown** | [OPERATSIOON_PEEGEL_OPORD.md](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_OPORD.md) |
 | **Pull request** | [PR #1](https://github.com/reneealuste-commits/Unpluged-Al/pull/1) |
 
-### ZIP-paketi sisu (81 faili)
+### ZIP-paketi sisu (59 faili)
 
-- `OPERATSIOON_PEEGEL_OPORD.md` + `.pdf` (kõik lisad PDF-is)
+- `OPERATSIOON_PEEGEL_OPORD.md` + `.pdf` (kõik lisad PDF-is, sh Lisa AH ja AI)
 - `TOITUMINE_UURIMUSTOO.pdf` + `lisad/toitumine-uurimustoo.md`
 - **Lisa A–G** — Tugeva Isa seeria (7 köidet)
-- **Lisa H–W** — kõik lisad (kiirjuhend, juhtimine, võrgustik, Montessori beebi, uni jne)
+- **Lisa H–AI** — kõik lisad (kiirjuhend, juhtimine, võrgustik, Leelo, Epp Kärsin jne)
 - `images/` — profiilipildid ja koolide fotod
 - `generate_pdf.py`, `generate_toidu_pdf.py`
 

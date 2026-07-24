@@ -41,6 +41,8 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | AE | [lisa-ae-ohk-liikumine-ja-komplimendid.md](lisa-ae-ohk-liikumine-ja-komplimendid.md) | **Õhk, liikumine, olukorra teadlikkus** — treening, enesega kontakt |
 | AF | [lisa-af-meeste-erektsioon-ja-rela-hooldus.md](lisa-af-meeste-erektsioon-ja-rela-hooldus.md) | **Meeste erektsioon** — füsioloogia, Sterling Cooper, „relva puhastamine" SOP |
 | AG | [lisa-ag-rollid-partnerlus-ja-nl-skeem.md](lisa-ag-rollid-partnerlus-ja-nl-skeem.md) | **Rollid ja NL-skeem** — mehe roll, naise juhised, tunnustamine |
+| AH | [lisa-ah-leelo-vahersalu-taust.md](lisa-ah-leelo-vahersalu-taust.md) | **Leelo Vahersalu** — puutöö klient, presidendi tunnustus, noorte vaimne tervis |
+| AI | [lisa-ai-epp-karsin-armastus-paabstab-maailma.md](lisa-ai-epp-karsin-armastus-paabstab-maailma.md) | **Armastus päästab maailma** — Epp Kärsin, tankla hetk, avalik postitus |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
 ---
@@ -93,6 +95,10 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 **Linnad, tööstusühiskond, partnerlus:** Lisa Z — suletud toad, isa eemal raha teenimas, Rockefelleri ajastu mudel; tagasipöördumine ettevõtluse ja pere-partnerluse juurde; reform Eestist seestpoolt valitsust.
 
 **Intiimsus (kohustuslik):** Lisa AA — Tom Walsberg *Intiimsuse atlas*; mees/naise erinevus; orgasmid; vibraatori ajalugu; **pane end kirja** Epp Kärsini yoni koolitusele ([eppkarsin.com](https://www.eppkarsin.com), tel 5362 8568).
+
+**Armastus päästab maailma:** Lisa AI — Epp Kärsin kaart tanklas; avalik postitus ([@epp.karsin](https://www.instagram.com/epp.karsin/)).
+
+**Leelo Vahersalu (kodaniku toetus):** Lisa AH — puutöö klient, presidendi tunnustus, PERH, noorte vaimne tervis.
 
 ---
 

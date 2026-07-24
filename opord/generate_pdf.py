@@ -58,6 +58,8 @@ BOOK_FILES = [
     "lisa-ae-ohk-liikumine-ja-komplimendid.md",
     "lisa-af-meeste-erektsioon-ja-rela-hooldus.md",
     "lisa-ag-rollid-partnerlus-ja-nl-skeem.md",
+    "lisa-ah-leelo-vahersalu-taust.md",
+    "lisa-ai-epp-karsin-armastus-paabstab-maailma.md",
     "renee-aluste-profiil.md",
 ]
 

@@ -12,6 +12,8 @@ Inimene ei ütle „WTF" ainult loogika pärast. Ta ütleb seda emotsiooni pära
 
 **Uus muster (Lisa I + Voss + van der Kolk):** **valideeri enne** — ja kasuta **spordikommentaatorit**: kirjelda hetke, nagu sa seda näed ja tunned. Alles siis vasta. Nii tunneb inimene end **nähtuna**, mitte parandatuna.
 
+**Miks traumateadlikkus esimene?** Steiger: enesetunnetus → inimese tundmine → inimesekeskne juhtimine. van der Kolk: turvalisus → keha → mõistus. Ilma selleta muutub vastutus uueks sundimiseks. Täielik järjekord: **Lisa I** § „Miks traumateadlikkus?" + **Lisa S**.
+
 > *Me ei kustuta emotsiooni. Me loome ruumi, kus inimene saab jääda ausaks — enda ja teise suhtes.*
 
 > *Kohtleme kõiki asjaosalisi nagu terveid, täiesti normaalseid inimesi — mitte patsiente, mitte juhtumeid.*

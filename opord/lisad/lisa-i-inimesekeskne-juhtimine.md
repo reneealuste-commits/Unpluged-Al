@@ -85,7 +85,111 @@ Operatsioonis: loe Lisa I → rakenda Lisa Q (side) → Lisa N (demomehed) → L
 
 ---
 
-Inimesekeskses juhtimises on võtmeroll inimesel — mõtlemises, tunnetes ja tegutsemises. See ei ole väljamõeldud mudel. See on igapäevane, kaastöötajale orienteeritud juhtimine.
+## Miks traumateadlikkus? Miks me sealt alustame?
+
+See on operatsiooni **järjekorra** küsimus. Miks mitte alustada vastutusest, distsipliinist või Extreme Ownershipist? Sest **ilma turvalisuse ja mõistmiseta** need muutuvad uueks sundimiseks — ja inimene ei võta vastutust keskkonnas, kus teda alandatakse või ta on triggeris.
+
+Steiger ja van der Kolk ütlevad sama eri keeles:
+
+| Steiger (Lisa I) | van der Kolk (Lisa P, Lisa S) |
+|----------------|-------------------------------|
+| **Enesetunnetus** viib inimese tundmiseni | Trauma elab **kehas** — mitte ainult peas |
+| Inimesekeskne juhtimine algab **iseennast tundmast** | **Turvalisus enne mõistust** — keha enne loogikat |
+| Juht peab tundma **inimest ametikoha taga** | Pre-verbaalne reaktsioon — signaal, mitte „vale" |
+| **Palk enda silmas** — oma vigu tunnistada | Paranemine: *sa pole katki olnudki* — sa vajad ruumi |
+
+> *„**Enesetunnetus viib inimese tundmiseni, mis omakorda on inimesekeskse juhtimise aluseks!**"* — Steiger, peatükk 2
+
+**Miks sealt alustame:**
+
+```
+1. TURVALISUS + MÕISTMINE (traumateadlikkus, Lisa P)
+        ↓
+2. INIMENE NÄHTAV (Steiger: nimede taga on inimesed)
+        ↓
+3. JUHT TUNNISTAB ENDA PALGI (Steiger: lk 30–31)
+        ↓
+4. INIMESEKESKNE JUHTIMINE (Lisa I)
+        ↓
+5. VASTUTUS — kõik teevad oma osa (Extreme Ownership)
+```
+
+Kui hüppad otse sammule 5 ilma sammudeta 1–4, saad **sümptomite kustutamise** — ATH sildi, tableti, „võta ennast kokku" — mitte juure lahendust. Renee nägi seda Kaitseväes: koormus langeb neile, kes töötavad; teised ei tee oma osa; kiusamine jätkub. **Lisa S** näitab, miks inimesed käituvad nii (aju, trauma). **Lisa I** näitab, mida juht peab tegema teisiti. **Lisa P** näitab, kuidas vestleda nii, et keha saaks rahuneda.
+
+---
+
+## 2. Iseennast ja kaastöötajaid tundma õppida (Steiger, lk 26–29)
+
+Juhtimine toimub nii **tsiviil- kui sõjaväelistes organisatsioonides**. Juht peab tundma mitte ainult juhtimismeetodeid — vaid **juhitavaid inimesi**.
+
+### Realistlik enesehinnang
+
+Juht, kes arvab, et tal on **täielik kontroll** ka iseenda üle, elab illusioonis. Meie käitumine, tunded ja hirmud võivad meile endalegi tunduda võõrad. Sokratese sõnad: *„Ma tean, et ma midagi ei tea."* Apolloni templi kirjutus: **„Tunne iseennast."**
+
+Enesetundmine ei nõua tingimata aastaid psühhoanalüüsi. See algab **ausatest küsimustest**.
+
+### Juhi eneserefleksiooni küsimused (Steiger, lk 27)
+
+Iga juht — ka sõjaväes — peaks endalt küsima:
+
+- Kuidas ma juhin oma kaastöötajaid — ja **miks ma ei tee seda teisiti**?
+- Kuidas mõjutab minu juhtimiskäitumine kaastöötajaid?
+- Kui tähtis on mulle **iga üksik inimene** juhtimistegevuses?
+- Millistes olukordades ja kellega suheldes **kaotan enesekontrolli**?
+- Kas ma räägin juhtimisest nii tihti, sest **ma ei tea, kuidas ma iseennast juhin**?
+- Kas **mina ise** täidan nõudmisi, mida ootan alluvatelt?
+- Kas negatiivne tööõhkkond on **põhjus või tagajärg** minu taltsutamata ja meeleolukast käitumisest?
+- Kas olen valmis oma „esmamuljeid" **ümber hindama**, kui tuleb uut teadmist?
+- **Kuidas ma reageeriks**, kui mu ülemus oleks nagu mina?
+
+> *Iga juht, kes tahab ennast paremini tunda, peaks seda kataloogi laiendama — ja siis **vastama ise**.*
+
+**Operatsiooni tõlge:** enne kui nõuad, et Kaitseväes „kõik vastutaksid" — vasta neile küsimustele. **Palk enda silmas.**
+
+### Nimede taga on inimesed
+
+Kui küsida „Kes sa oled?", vastab enamik nimega. Kui „Mida sa teed?", ametiga. Paljud juhid arvavad ekslikult, et nad **tunnevad** kaastöötajaid.
+
+Šveitsi uuring *Šveitsi juhtimismaastik* (Werner R. Müller, Basel): ülemusi kirjeldatakse detailselt — alluvad jäävad sageli **halliks massiks**. Parimal juhul on nad **„kliiniline juhtum"**, mida tuleb „ravida".
+
+Inimesekeskse juhtimise vaatenurgast on see šokeeriv — ja tuttav. ATH silt, tablett, „probleemne sõdur" — **kliiniline juhtum**, mitte inimene.
+
+**Tõeline tundmine** nõuab **huvi ja aega** — mitte ainult CV-d:
+
+- omadused ja võimed
+- perekondlikud suhted ja hobid
+- kutsealased ja isiklikud huvid
+- elamistingimused ja tulevikusoovid
+- **mured, vajadused ja kartused**
+- väärtushinnangud ja ootused juhile ja juhtimisstiilile
+
+> *„See, kes tahab juhtida tõeliselt inimesekesksetest põhimõtetest lähtudes, peab **iseennast ja oma lähemaid kaastöötajaid hästi tundma!**"* — Steiger, lk 29
+
+**Seos traumateadlikkusega:** kui sa ei tea inimese muredest, kartustest ja kehast — sa juhid **ametikohta**, mitte inimest. Lisa S näitab, mida see teeb ajule. Lisa P näitab, kuidas vestleda, kui keha on veel üleval.
+
+---
+
+## 3. Palk enda silmas (Steiger, lk 30–31)
+
+> *„**Oma vigade äratundmine ja tunnistamine teeb meid usutavaks ja äratab usaldust!**"*
+
+Uus Testament: miks näed sa **pindu** venna silmas, aga **palki** enda silmas ei tunnista? Enne kui tõmbad pindu välja, tõmba välja **oma palk**.
+
+Tihti kritiseerime kaastöötajate väikseimaid vigu — ja ei märka, et ise teeme **raskemate tagajärgedega** vigu. Ainus, mida me tihti ei tunnista: **palk enda silmas**.
+
+**Superjuhtide** ajastu läheb mööda. Edukas juhtimine algab **õigest enesehinnangust** (Ernst Mühlemann). Mitte nartsissistlikult — vaid tugevuste ja nõrkuste avastamisena.
+
+**Kaspar Villiger** (Šveitsi föderaalnõukogu liige, 1993):
+
+> *„Kes tunnistab vigu, selle suu usutakse ka siis, kui ta räägib headest uudistest."*
+
+Juht, kes vabandab tehtud vigade pärast, **ei kaota autoriteeti** — ta **võidab usaldust**.
+
+**Renee lugu:** ta oli kiusaja. Ta tunnistas seda. See tegi ta **usutavaks** — mitte nõrgaks. Traumateadlikkus tähendab sama: **näha enda pulki**, enne kui parandad teisi. Alles siis on vastutus päris.
+
+---
+
+## Põhimõte See ei ole väljamõeldud mudel. See on igapäevane, kaastöötajale orienteeritud juhtimine.
 
 **Miks see töötab paremini:** me juhime **inimese pärast** — mitte protsessi, seaduse, reegli või „nii on alati tehtud" pärast. Steiger ütleb: *„See, kes on olnud juht, teab liigagi hästi, kui kõlbmatuks võivad osutuda reeglid ja retseptid."* Seepärast on need juhised praktilised tõukejõud — ruum individuaalseks kohandamiseks.
 

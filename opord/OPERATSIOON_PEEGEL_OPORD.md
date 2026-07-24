@@ -135,7 +135,13 @@ Renee Aluste sõnastab operatsiooni minimaalse standardi:
 
 Me ei **paranda katkist** inimest. Me kohtleme igaüht — kodanikku, partnerit, skeptikut, demomeest, võrgustiku liiget — **nagu terve, täiesti normaalne inimene**. Mitte patsient. Mitte projekt. Mitte „case". Inimene avastab, et ta **oli terviklik juba algusest** — liiga kaua kandis koormust, mida keegi teine ei näinud.
 
-See ei ole erisoov. See on **operatsiooniline nõue**:
+See ei ole erisoov. See on **operatsiooniline nõue** — ja see on **esimene samm**, mitte viimane:
+
+> *Enne vastutust peab olema turvalisus. Enne distsipliini peab olema mõistmine. Enne Extreme Ownershipi peab juht tundma inimest — ja omaenda pulki.*
+
+**Miks traumateadlikkus?** Sest inimene reageerib **pre-verbaalselt** (van der Kolk). Kiusamine ja alandamine **muudavad aju** (Lisa S). Ilma traumateadlikkuseta juhid **sümptomeid** — ATH silti, tabletti, „võta kokku" — mitte juurt. Steiger: nimede taga on inimesed, mitte kliinilised juhtumid.
+
+Täielik ahel: **Lisa S** (miks) → **Lisa I** (juhtimine) → **Lisa P** (vestlus) → vastutus.
 
 | Põhimõte | Mida see tähendab |
 |----------|-------------------|
@@ -1472,6 +1478,34 @@ Ma tean, miltä tundub, kui keegi vastab loogikaga, aga sa vajad, et sind **näh
 Paranemis-teadlik tugi võrgustikus: **Kert Grünberg**, **Jure Biechonski**, **Priit Lilleväli**, **Kaia Kapsta-Forrester**, Lisa H, Lisa F. Kriisis: Eluliin **655 8088**, ohvriabi **116 006** (sh EMDR toetus).
 
 *Minu küsimus sulle: Kas sa täna tunned end turvaliselt ja mõistetuna — või pead end veel kaitsema?*
+---
+
+**K: Miks traumateadlikkus? Miks te alustate sealt — mitte vastutusest või distsipliinist?**
+
+**V (Renee Aluste):** See on õige järjekord — ja paljud eksivad siin.
+
+**Extreme Ownership** ja „kõik teevad oma osa" on tõsi. Aga kui sa nõuad vastutust keskkonnas, kus inimest **kiusatakse**, **alandatakse** või ta on **triggeris** — sa ei saa vastutust. Sa saad **allumise** või **lahkumise**. Seda nägin Kaitseväes: koormus langes neile, kes töötasid; teised ei teinud oma osa; parimad põlesid läbi ja lahkusid.
+
+**Miks traumateadlikkus?** Kolm põhjust:
+
+1. **Keha enne mõistust** (van der Kolk, *The Body Keeps the Score*). Inimene reageerib pre-verbaalselt. Loogika triggeris ei tervenda. Kiusamine muudab aju (Lisa S — *Imeline Teadus*). Sa pead esmalt looma **turvalise ruumi** — siis keha rahuneb — alles siis mõistus.
+
+2. **Inimene, mitte kliiniline juhtum** (Steiger, Lisa I). Juht, kes näeb ainult ametikohta või ATH silti, juhib protsessi — mitte inimest. Traumateadlikkus tähendab: näha muresid, kartusi, keha — mitte ainult „probleemi".
+
+3. **Palk enda silmas** (Steiger, lk 30). Enne kui parandad teisi — tunnista oma pulk. Mina olin kiusaja. Ma tunnistasin seda. See tegi mind usutavaks. Juht, kes vabandab, **ei kaota autoriteeti** — ta võidab usaldust (Kaspar Villiger).
+
+**Miks sealt alustame:**
+
+```
+Turvalisus + mõistmine → inimene nähtav → juht tunnistab enda pulki → inimesekeskne juhtimine → vastutus
+```
+
+Kui hüppad otse vastutusele, kustutad **sümptomeid** — mitte juurt. See on see, mida e-sliinil tehakse liiga tihti.
+
+Täielik alus: **Lisa I** (Steiger) + **Lisa P** (van der Kolk, spordikommentaator) + **Lisa S** (kiusamine, aju).
+
+*Minu küsimus sulle: Kas sa oled kunagi proovinud kedagi „parandada" loogikaga — kui ta vajas esmalt turvalisust?*
+
 ---
 
 **K: Mul on raske peresituatsioon. Kas see operatsioon aitab mind?**

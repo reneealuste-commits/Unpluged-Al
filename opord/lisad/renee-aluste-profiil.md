@@ -49,7 +49,7 @@ Renee on Kaitseväes näinud mustrit, mis kordub ka tsiviilis:
 - **Kogu süsteem kannatab** — raskus langeb neile, kes töötavad päriselt
 - Need inimesed on **läbipõlenud ja katki** — ja **lahkuvad kiiresti**
 - **Lahendus:** kui **kõik** vastutaksid ja teeksid oma osa, paraneks **kõigi** olukord
-- **Eeldus:** et inimesed saaksid aru, mis valesti on, peab lõppema **kiusamine** ja vana **juhtimismeetodite ja -stiili** ajastu — vastutus ei tule survetundest (Lisa I: inimesekeskne juhtimine). **Miks inimesed käituvad nii:** Lisa S (*Imeline Teadus* + *Body Keeps the Score*)
+- **Eeldus:** et inimesed saaksid aru, mis valesti on, peab lõppema **kiusamine** ja vana **juhtimismeetodite ja -stiili** ajastu. **Lahendus: inimesekeskne juhtimine** (Lisa I — Steiger). Miks inimesed käituvad nii: Lisa S (*Imeline Teadus* + *Body Keeps the Score*)
 
 > *Kui probleem on lihtne lahendada ja tööriist on olemas — on ebamõistlik mitte vähemalt proovida.*
 

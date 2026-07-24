@@ -26,7 +26,64 @@ Eesti kaitseväe esimesed juhid võtsid Steigeri raamatu oma juhtimise SOP-iks. 
 
 ---
 
-## Põhimõte
+## Lahendus: inimesekeskne juhtimine — tsiviilile ja sõjaväele
+
+> *„Aga nüüd tõstatub küsimus, kellele on need soovitused mõeldud."* — Steiger, lk 16
+
+### Kellele see on mõeldud?
+
+Steiger vastab otse: **tsiviil- ja sõjaväelistele juhtidele**. Mõni lugeja võib imestada — kas üks raamat saab katta mõlemat? Steiger ütleb: **jah**, sest see raamat ei käsitle juhtimisõpetust ega juhtimismudeleid. See käsitleb **inimesekeskset juhtimist**.
+
+| Tsiviil | Sõjavägi | Ühine |
+|---------|----------|-------|
+| Ettevõttesse astumine on **vabatahtlik**; sealt saab reeglina igal ajal lahkuda | Armeed võib iseloomustada kui **sundühendust**; juhtimisfunktsiooni ülevõtmine võib olla kohustuslik | **Inimesed on samad** — teksapükste või välivormi all |
+| Juhi võim piirdub enamasti ettevõttega | Sõjaväeline käsk, eriti eriolukorras, toob kaasa **vastuvaidlematu täitmise** kohustuse | **Inimesekeskne juhtimine** kehtib mõlemas |
+
+Steiger sõnastab tuuma:
+
+> *„See raamat ei käsitle juhtimisõpetust ega juhtimismudeleid, vaid **inimesekeskset juhtimist**. Seetõttu oleks siinkohal vale näha olulisi erinevusi tsiviil- ja sõjaväelises valdkonnas. Inimesekeskne juhtimine pole muud kui inimesele suunatud juhtimine. Sest just *Militarmee's* töötavad samasugused inimesed, nagu kõikides teisteski riigiasutustes."*
+
+**90-ndate aastate noori ei saa enam, nagu nende isasid, sõjaväeteenistuses kohelda ja juhtida teisiti kui tsiviilelus.**
+
+See on operatsiooni tuum, kui räägime Kaitseväest, kiusamisest ja vastutusest (Lisa S, OPORD „MIKS RENEE?"):
+
+| Probleem | Vana stiil | Lahendus (Steiger) |
+|----------|------------|-------------------|
+| Inimesed ei tee ametikoha juhendi järgi | Dominants, alandamine, „nagu isaajal" | **Roll + eesmärk + juhis** — selgus ilma sundimata |
+| Koormus langeb vähestele; läbipõlemine | Üks juht kannab kõike; emotsioon ei loe | **Kuulamine, dialoog, V-formatsioon** |
+| Kiusamine ja vana juhtimisstiil | „Nii on alati tehtud" | **Inimene enne protsessi** — turvalisus, siis vastutus |
+| ATH-sildid, sümptomite kustutamine | Reegel tähtsam kui inimene | **Juure lahendus:** keskkond, uni, struktuur, austus |
+
+### Teksad või välivorm — inimene on sama
+
+Steigeri juhised on mõeldud selleks, et juht saaks oma kaastöötajaid juhtida **inimesekeskselt** — olenemata sellest, kas alluvad kannavad **teksaseid või välivormi**. Erinevate riiete all on inimesed **põhimõtteliselt samasugused**.
+
+Operatsioon „Peegel" ütleb sama: Combat Ready koolitused, Kaitsevägi, kool, pere, kodanik — **üks inimloomus**, üks juhtimisvajadus. Extreme Ownership (vastutus) ja inimesekeskne juhtimine (austus) ei ole vastandlikud — **austus on eeldus**, vastutus on tulemus.
+
+### Mis see raamat on — ja mis mitte
+
+Steiger hoiatab metoodiliste juhiste all:
+
+| See raamat **ei ole** | See raamat **on** |
+|----------------------|-------------------|
+| Õpik | **Kaaslane** igapäevases juhtimistegevuses |
+| Käsiraamat, mida saab lühidalt „õppida" | Stimuleeriv juhend — **mitte alati mugav**, aga vajalik |
+| Juhtimismudelite kataloog | **Inimesekeskne juhtimine** — praktilised tõukejõud |
+
+> *„Inimesekeskses juhtimises ei saa inimest juhtida nii lühidalt, nagu seda saab teha juhtimismudelite abil."*
+
+**Operatsiooni tõlge:** Lisa I, Lisa P, Lisa Q, Lisa N — need ei ole dogmad. Need on **tööriistad**, mida kohandad oma keskkonnas. Steiger: *„Ettepanekud on tõukejõuks mõtetele ja mõtted hakkavad liikuma."*
+
+### Kuidas raamatuga töötada
+
+Steiger soovitab tsiviil- ja sõjaväeliste **juhtimisalaste seminaride** kogemusel:
+
+1. **Individuaalne lugemine või peatükkide tutvustamine** — paksus kirjas esitlus võib olla keskne tees
+2. **Individuaalne või rühmatöö** — järelülesanded konkreetse sõjaväelise või tsiviilse olukorraga
+
+Operatsioonis: loe Lisa I → rakenda Lisa Q (side) → Lisa N (demomehed) → Lisa P (valideerimine). Üks samm korraga.
+
+---
 
 Inimesekeskses juhtimises on võtmeroll inimesel — mõtlemises, tunnetes ja tegutsemises. See ei ole väljamõeldud mudel. See on igapäevane, kaastöötajale orienteeritud juhtimine.
 

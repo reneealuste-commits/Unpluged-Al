@@ -100,7 +100,9 @@ Paljud inimesed **ei tee seda, mida nad peaksid tegema ametikoha juhendi järgi*
 
 **Lahendus on lihtne mõttes:** kui **kõik** hakkaksid vastutama — teeksid seda, mida nad peaksid tegema — **kõigi olukord paraneb**. Extreme Ownership. Roll + eesmärk + juhis. Mitte üks kangelane, kes kannab kõike.
 
-Aga et inimesed **saaksid aru, mis üldse valesti on**, peab lõppema **kiusamine** ja vana **juhtimismeetodite ja -stiili** ajastu. Inimene ei võta vastutust keskkonnas, kus teda alandatakse, hirmutatakse või surutakse alla. Ta ei näe juurt — ta näeb ainult survet. Seetõttu on operatsiooni tuum ka **inimesekeskne juhtimine** (Lisa I — Steiger, Kert Grünberg): austus, turvalisus, mõistmine — ja alles siis vastutus.
+Aga et inimesed **saaksid aru, mis üldse valesti on**, peab lõppema **kiusamine** ja vana **juhtimismeetodite ja -stiili** ajastu. Inimene ei võta vastutust keskkonnas, kus teda alandatakse, hirmutatakse või surutakse alla. Ta ei näe juurt — ta näeb ainult survet.
+
+**Lahendus on inimesekeskne juhtimine** (Lisa I — Steiger 1997, Kert eessõna 2011): *„90-ndate aastate noori ei saa enam, nagu nende isasid, sõjaväeteenistuses kohelda ja juhtida teisiti kui tsiviilelus."* Sama inimesed — teksad või välivorm. Austus, turvalisus, mõistmine — ja alles siis vastutus.
 
 **Miks inimesed käituvad nii, nagu nad käituvad:** kiusamine ei ole ainult „halb iseloom". *Imeline Teadus* (11/2023) näitab: kiusamine **muudab aju anatoomiat ja keemiat** — virgatsained ja võrgustikud lähevad tasakaalust välja. Kiusaja kujuneb geenide ja keskkonna mõjul; kiusatu kannab arme **täiskasvanueasse**. Bessel van der Kolk (*The Body Keeps the Score*, ISBN 978-0-141-97861-1) selgitab, kuidas trauma **elab kehas** — pre-verbaalne reaktsioon, triggerid, kaitsepositsioon. Täielik teaduslik alus: **Lisa S**.
 

@@ -182,7 +182,7 @@ LAHENDUS: turvalisus + keha + mõistus (Lisa P) + vastutus + uus juhtimisstiil (
 3. **Leia hierarhias mõjukad õpilased** — julgusta neid **koos** kiusamist taunima
 4. **Soe õhkkond:** sõbralikkus, austus, ruum kõigile — siis kiusamist tavaliselt ei teki
 
-**Operatsiooni tõlge täiskasvanutele:** Lisa I (inimesekeskne juhtimine), Lisa N (demomehed, viisakus), **kõik teevad oma osa** (Extreme Ownership) — aga **alles pärast** kiusamise ja vana stiili lõppu.
+**Operatsiooni tõlge täiskasvanutele:** **Lahendus on inimesekeskne juhtimine** (Lisa I — Steiger: tsiviil- ja sõjaväejuhtidele; *90-ndate noori ei saa juhtida nagu isaajal*), Lisa N (demomehed, viisakus), **kõik teevad oma osa** (Extreme Ownership) — aga **alles pärast** kiusamise ja vana stiili lõppu.
 
 ---
 

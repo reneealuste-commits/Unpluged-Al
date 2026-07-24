@@ -367,6 +367,13 @@
 - **Eesmärk:** Finantsvabadus ausalt ja humoorikalt
 - **Ülesanne:** Blogi, Investor Toomas, kogukond ([rahakratt.rahajutud.ee](https://rahakratt.rahajutud.ee))
 
+#### Heli Illipe-Sootak — Peakirjastaja, *Inimesekeskne juhtimine*
+
+- **Roll:** Peakirjastaja — Rudolf Steiger, *Inimesekeskne juhtimine* (Operatsioon „Peegel" juhtimis-SOP)
+- **Taust:** Raudhammas OÜ juhatuse liige; bioloogiaõpetaja (Audentes School); kirjastustegevuse kogemus
+- **Eesmärk:** Hoida Steigeri raamat elus — et inimesekeskne juhtimine jõuaks igasse juhini, mitte ainult Kaitseväe riiulile
+- **Ülesanne:** Raamatu peakirjastamine operatsioonis; seos Lisa I, Lisa Z (dominantse süsteemi vastu); ISBN 9985901274
+
 #### Kristjan Liivamägi — Aasta investor 2022
 
 - **Roll:** TalTech vanemlektor; KML Invest; ELi rahatarkuse saadik
@@ -665,6 +672,7 @@
 | Julian Maier | URBN TIGER (Saksamaa) | Breathwork, vaimne fitness (urbntiger.com) |
 | Äripäev | Investor Toomas, börsitoimetus | Investeerimisraadio, Aasta investor, Parim juht (aripaev.ee/raadio) |
 | Rahakratt | Rahablogi | Finantsvabadus, aus blogi (rahakratt.rahajutud.ee) |
+| Heli Illipe-Sootak | Raudhammas OÜ | Peakirjastaja — *Inimesekeskne juhtimine* (Steiger, Lisa I) |
 | Kristjan Liivamägi | TalTech, KML Invest | Aasta investor 2022, rahatarkus (rahaedu.ee) |
 | Marko Oolo | Investor, Excel | Aasta investor 2024, portfellitööriistad (oolomarko.ee) |
 | Katri Teller | Blondcast | Aasta investor 2023, taskuhääling (tasku.delfi.ee) |

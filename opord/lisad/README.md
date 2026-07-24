@@ -16,7 +16,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | 6/7 | [raamat-06-murra-ring.md](raamat-06-murra-ring.md) | **Murra ring** — depressioon, manipulatsiooni tsükkel, abi otsimine |
 | 7/7 | [raamat-07-juhi-ja-voida.md](raamat-07-juhi-ja-voida.md) | **Juhi ja võida** — kogukonna juhtimine, Operatsioon „Peegel" kutse |
 | H | [lisa-h-kiirjuhend-kriisis-isale.md](lisa-h-kiirjuhend-kriisis-isale.md) | **Kiirjuhend kriisis isale** — kriisiteekond, lugemisjärjekord |
-| I | [lisa-i-inimesekeskne-juhtimine.md](lisa-i-inimesekeskne-juhtimine.md) | **Inimesekeskne juhtimine** — Steiger 1997, SOP, Liibanonist õppetund |
+| I | [lisa-i-inimesekeskne-juhtimine.md](lisa-i-inimesekeskne-juhtimine.md) | **Inimesekeskne juhtimine** — Steiger 1997; peakirjastaja **Heli Illipe-Sootak**; SOP |
 | J | [lisa-j-haridusasutuste-juhtkonnad.md](lisa-j-haridusasutuste-juhtkonnad.md) | **Haridusasutused** — Techno TLN, KVA, RaM Kool, TVW Waldorf, **Montessori** |
 | K | [lisa-k-vorgustiku-skeem-ja-ulesanded.md](lisa-k-vorgustiku-skeem-ja-ulesanded.md) | **Võrgustiku skeem** — kõik osalised, CR statistika, podcasti külalised |
 | L | [lisa-l-ministeeriumid-ja-tai.md](lisa-l-ministeeriumid-ja-tai.md) | **Ministeeriumid ja TAI** — Muski 5-astmeline protsessijuhtimine |

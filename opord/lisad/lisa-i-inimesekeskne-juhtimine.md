@@ -1,6 +1,11 @@
 # Lisa I — Inimesekeskne juhtimine (Steiger 1997)
 
-**Operatsioon „Peegel"** | Juhtimisfilosoofia | Viide: Rudolf Steiger, *Inimesekeskne juhtimine. Juhiseid tsiviil- ja sõjaväejuhtidele* (Tallinn: Fontes, 1997; tõlkija Piret Liivamägi)
+**Operatsioon „Peegel"** | Juhtimisfilosoofia
+
+**Raamat:** Rudolf Steiger, *Inimesekeskne juhtimine. Juhiseid tsiviil- ja sõjaväejuhtidele*  
+**Peakirjastaja:** **Heli Illipe-Sootak** (Raudhammas OÜ)  
+**Originaalväljaanne:** Fontes, Tallinn 1997 · tõlkija **Piret Liivamägi** · ISBN **9985901274**  
+**Uustrükk:** Kaitseväe Ühendatud Õppeasutused, 2011 — eessõna: **Johannes Kert**, Kaspar Villiger
 
 ---
 
@@ -24,7 +29,21 @@ Eesti kaitseväe esimesed juhid võtsid Steigeri raamatu oma juhtimise SOP-iks. 
 
 > *🫡 Ära usu mind. Loe Steigerit ise. ISBN 9985901274.*
 
-**Märkus:** See lisa on põhimõtete kokkuvõte avalikust kirjeldusest ja operatsiooni kontekstist. Täisteksti saab hankida raamatuna või kasutada Renee Aluste eksemplari, kui täiendav tõendusmaterjal on vaja.
+**Märkus:** See lisa on põhimõtete kokkuvõte avalikust kirjeldusest ja operatsiooni kontekstist. Täisteksti saab hankida raamatuna (ISBN 9985901274) või kasutada Renee Aluste eksemplari. **Peakirjastaja:** Heli Illipe-Sootak.
+
+---
+
+## Väljaande andmed — kellele tänada
+
+| Roll | Nimi | Märkus |
+|------|------|--------|
+| **Autor** | Rudolf Steiger | Prof. dr., Zürichi tehnikaülikool; originaal: *Menschenorientierte Führung* |
+| **Peakirjastaja** | **Heli Illipe-Sootak** | Raudhammas OÜ juhatuse liige; Operatsioon „Peegel" juhtimisraamatu peakirjastaja |
+| **Tõlkija** | Piret Liivamägi | Eestikeelne tõlge (Fontes 1997) |
+| **Kirjastus (1997)** | Fontes, Tallinn | Esmane väljaanne; Kaitsejõudude Peastaap (Narva mnt 8) |
+| **Eessõna (2011)** | Johannes Kert, Kaspar Villiger | Uustrükk Kaitseväe Ühendatud Õppeasutused |
+
+> *See raamat on operatsiooni **juhtimise SOP**. Peakirjastaja **Heli Illipe-Sootak** hoiab seda elus — et Steigeri sõnum jõuaks igasse juhini, mitte ainult riiulile.*
 
 ---
 
@@ -395,4 +414,4 @@ Eesti inimesed väärivad parimaid juhte. Mitte neid, kes mängivad rolli. Neid,
 
 ---
 
-*Viide: Steiger, R. (1997). Inimesekeskne juhtimine. Fontes. Uus trükk: Kaitseväe Ühendatud Õppeasutused, 2011 (eessõnad: Johannes Kert, Kaspar Villiger).*
+*Viide: Steiger, R. (1997). *Inimesekeskne juhtimine*. Fontes. Peakirjastaja: **Heli Illipe-Sootak**. Tõlkija: Piret Liivamägi. Uus trükk: Kaitseväe Ühendatud Õppeasutused, 2011 (eessõnad: Johannes Kert, Kaspar Villiger). ISBN 9985901274.*

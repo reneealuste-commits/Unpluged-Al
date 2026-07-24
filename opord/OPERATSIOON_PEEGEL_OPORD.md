@@ -48,7 +48,7 @@
 | **Lisa U** + [TOITUMINE_UURIMUSTOO.pdf](TOITUMINE_UURIMUSTOO.pdf) | Toit, rasvad, avatud meel |
 | **Lisa Y** | ECS, CBD, toit, stress — mitte suitsetamise propageerimine |
 | **Lisa Z** | Linnad, tööstusmudel, partnerlus, ettevõtlus — reform Eestist |
-| **Lisa I** | Steiger 1997 — *Inimesekeskne juhtimine*; vastus dominantsele süsteemile |
+| **Lisa I** | Steiger 1997 — *Inimesekeskne juhtimine*; peakirjastaja **Heli Illipe-Sootak** |
 
 Täiendab **Epp Kärsin** teadlikku intiimsust (eppkarsin.com) ja pere rindejoont (Lisa E, Lisa W).
 
@@ -1267,7 +1267,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Tantralaagrid:** tantrafest.ee, tantratants.ee, kristiinasaul.ee
 - **Taastumine looduses:** puhali.ee (Pühali Hea Elu Keskus, Urmas Sõõrumaa)
 - **Kriis (isad):** Lisa H — `lisad/lisa-h-kiirjuhend-kriisis-isale.md`
-- **Juhtimine (SOP):** Lisa I — `lisad/lisa-i-inimesekeskne-juhtimine.md` (Steiger 1997 + V-formatsiooni rotatsioon, ISBN 9985901274)
+- **Juhtimine (SOP):** Lisa I — `lisad/lisa-i-inimesekeskne-juhtimine.md` (Steiger 1997; peakirjastaja **Heli Illipe-Sootak**; ISBN 9985901274)
 - **Koolijuhtkonnad:** Lisa J — `lisad/lisa-j-haridusasutuste-juhtkonnad.md` (Techno TLN, KVA, Rocca al Mare Kool, **Tallinna Vaba Waldorfkool**, **Montessori koolid ja lasteaiad**)
 - **Võrgustiku skeem:** Lisa K — `lisad/lisa-k-vorgustiku-skeem-ja-ulesanded.md` (kõik osalised, CR statistika, podcast)
 - **Ministeeriumid ja TAI:** Lisa L — `lisad/lisa-l-ministeeriumid-ja-tai.md` (Muski 5-astmeline algoritm)
@@ -1989,7 +1989,7 @@ Täielik juhend: **Lisa I**. Linnad ja tööstusmudel: **Lisa Z**. Ära usu mind
 
 **K: Mis on Steigeri „Inimesekeskne juhtimine" ja miks see on teie SOP?**
 
-**V:** Rudolf Steigeri raamat (*Menschenorientierte Führung*, tõlge Fontes 1997, ISBN 9985901274) oli Eesti kaitseväe esimese juhtkonna juhtimise SOP — aga seda pole täielikult rakendatud. **Kindral Johannes Kert** kirjutas uustrükile (Kaitseväe Ühendatud Õppeasutused, 2011) eessõna — see on sõjaväeliste ja tsiviiljuhtide **ülestõus** domineeriva juhtimise vastu.
+**V:** Rudolf Steigeri raamat (*Menschenorientierte Führung*, tõlge Fontes 1997, ISBN 9985901274) oli Eesti kaitseväe esimese juhtkonna juhtimise SOP — aga seda pole täielikult rakendatud. **Peakirjastaja Operatsioonis „Peegel": Heli Illipe-Sootak** (Raudhammas OÜ). **Kindral Johannes Kert** kirjutas uustrükile (Kaitseväe Ühendatud Õppeasutused, 2011) eessõna — see on sõjaväeliste ja tsiviiljuhtide **ülestõus** domineeriva juhtimise vastu.
 
 Steiger ei paku väljamõeldud mudeleid. Ta kirjeldab igapäevast juhtimist, kus:
 
@@ -2210,7 +2210,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **F** | 6/7 | `lisad/raamat-06-murra-ring.md` | Murra ring — depressioon ja taastumine |
 | **G** | 7/7 | `lisad/raamat-07-juhi-ja-voida.md` | Juhi ja võida — kogukond ja kutse |
 | **H** | — | `lisad/lisa-h-kiirjuhend-kriisis-isale.md` | Kiirjuhend kriisis isale — kriisiteekond ja lugemisjärjekord |
-| **I** | — | `lisad/lisa-i-inimesekeskne-juhtimine.md` | Inimesekeskne juhtimine (Steiger 1997, Kert eessõna) — domineeriva juhtimise vastu, 6 sammast, V-formatsioon |
+| **I** | — | `lisad/lisa-i-inimesekeskne-juhtimine.md` | Inimesekeskne juhtimine (Steiger 1997); peakirjastaja **Heli Illipe-Sootak**; Kert eessõna |
 | **J** | — | `lisad/lisa-j-haridusasutuste-juhtkonnad.md` | Haridusasutused — Techno TLN, KVA, RaM Kool, TVW Waldorf, **Montessori koolid ja lasteaiad** |
 | **K** | — | `lisad/lisa-k-vorgustiku-skeem-ja-ulesanded.md` | Võrgustiku skeem — kõik osalised, allüksuste ülesanded, CR statistika, podcasti külalised |
 | **L** | — | `lisad/lisa-l-ministeeriumid-ja-tai.md` | Ministeeriumid ja TAI — Muski 5-astmeline protsessijuhtimine (küsi → kustuta → lihtsusta → kiirenda → automatiseeri) |

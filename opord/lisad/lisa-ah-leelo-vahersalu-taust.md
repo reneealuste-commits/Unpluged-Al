@@ -57,7 +57,7 @@ See on oluline erinevus:
 - **Meedia** toetab sageli loo pärast.
 - **Leelo** tuli esmalt **kliendina** — ta nägi Renee tööd enne, kui ta nägi Renee missiooni.
 
-Kui selline inimene hiljem kirjutab Facebookis *„Ma arvasin kohe, et Sa saad kõigega hakkama"* — siis see ei ole juhuslik kompliment. See on inimene, kes on **juba kord näinud**, et Renee teeb asju lõpuni.
+Kui selline inimene hiljem kirjutab Facebookis *„Ma arvasin kohe, et Sa saad kõigega hakkama"* — siis see ei ole juhuslik kiitus. See on inimene, kes on **juba kord näinud**, et Renee teeb asju lõpuni.
 
 > *Riigikaitse algab kodus. Leelo tuli esmalt kodu kaudu — puutöö kaudu — ja alles siis avalik toetus.*
 

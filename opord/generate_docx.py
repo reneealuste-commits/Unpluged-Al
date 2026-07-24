@@ -43,7 +43,7 @@ LISA_FILES = [
     "lisa-ab-paljajalu-ja-rippumine-linnas.md",
     "lisa-ac-magamistuba-voim-ja-revolutsioon.md",
     "lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md",
-    "lisa-ae-ohk-liikumine-ja-komplimendid.md",
+    "lisa-ae-ohk-liikumine-ja-kiitus.md",
     "lisa-af-meeste-erektsioon-ja-rela-hooldus.md",
     "lisa-ag-rollid-partnerlus-ja-nl-skeem.md",
     "lisa-ah-leelo-vahersalu-taust.md",

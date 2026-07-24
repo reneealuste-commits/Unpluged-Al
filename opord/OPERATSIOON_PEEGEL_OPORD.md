@@ -1308,7 +1308,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 - **Lood, konversiooni checklist, taskukaardid:** Lisa AD — `lisad/lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md` (7 sammu, prinditav checklist, mida öelda kui keegi vastu hakkab)
 - **Meeste erektsioon ja relva hooldus:** Lisa AF — `lisad/lisa-af-meeste-erektsioon-ja-rela-hooldus.md` (füsioloogia, dis-ease, hügieen, uni, stress)
 - **Rollid, juhised, kapten, Taraban:** Lisa AG — `lisad/lisa-ag-rollid-partnerlus-ja-nl-skeem.md` (mehe SOP, kapteni metafoor, Orion Taraban *The Value of Others*, NL-skeem)
-- **Õhk, liikumine, olukorra teadlikkus (treening):** Lisa AE — `lisad/lisa-ae-ohk-liikumine-ja-komplimendid.md` (niiskus korteris, rippumine, **olukorra teadlikkuse treening** — enesega kontakt; blokk 0: omamine)
+- **Õhk, liikumine, olukorra teadlikkus (treening):** Lisa AE — `lisad/lisa-ae-ohk-liikumine-ja-kiitus.md` (niiskus korteris, rippumine, **olukorra teadlikkuse treening** — enesega kontakt; blokk 0: omamine)
 - **Koordinaatori profiil:** `lisad/renee-aluste-profiil.md` (eraldi leht)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
 - **Signaal OPERATSIOON TÄIDETUD:** Kui ühiskondlikud mõõdikud näitavad paranemist — üksikemade arv langeb, kiusamine väheneb, inimesed räägivad vastutusest.
@@ -2479,7 +2479,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **AB** | — | `lisad/lisa-ab-paljajalu-ja-rippumine-linnas.md` | **Paljajalu linnas** + **rippumine 90 sek/päev** — Vanja Moves, schoolofmobility.com, omavalitsuse checklist |
 | **AC** | — | `lisad/lisa-ac-magamistuba-voim-ja-revolutsioon.md` | **Magamistuba ja revolutsioon** — võim, ownership, naised ei ole kurjad, näita teed |
 | **AD** | — | `lisad/lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md` | **Lood ja konversioon** — 7-sammu checklist, taskukaardid, mida öelda kui keegi vastu hakkab |
-| **AE** | — | `lisad/lisa-ae-ohk-liikumine-ja-komplimendid.md` | **Õhk, liikumine, olukorra teadlikkus** — treening, enesega kontakt |
+| **AE** | — | `lisad/lisa-ae-ohk-liikumine-ja-kiitus.md` | **Õhk, liikumine, olukorra teadlikkus** — treening, enesega kontakt |
 | **AF** | — | `lisad/lisa-af-meeste-erektsioon-ja-rela-hooldus.md` | **Meeste erektsioon** — füsioloogia, Sterling Cooper, relva hooldus SOP |
 | **AG** | — | `lisad/lisa-ag-rollid-partnerlus-ja-nl-skeem.md` | **Rollid, kapten, Taraban** — mehe SOP, NL-skeem, *The Value of Others* |
 | **AH** | — | `lisad/lisa-ah-leelo-vahersalu-taust.md` | **Leelo Vahersalu** — puutöö klient, presidendi tunnustus, PERH Paldiski mnt 52, noorte vaimne tervis |

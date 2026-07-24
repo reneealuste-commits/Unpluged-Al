@@ -38,7 +38,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | AB | [lisa-ab-paljajalu-ja-rippumine-linnas.md](lisa-ab-paljajalu-ja-rippumine-linnas.md) | **Paljajalu linnas** + **Vanja Moves meeskond** — riippumine 90 sek/päev, tasuta mobility |
 | AC | [lisa-ac-magamistuba-voim-ja-revolutsioon.md](lisa-ac-magamistuba-voim-ja-revolutsioon.md) | **Magamistuba ja revolutsioon** — võim, ownership, näita teed |
 | AD | [lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md](lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md) | **Lood ja konversioon** — 7-sammu checklist, taskukaardid, mida öelda kui keegi vastu hakkab |
-| AE | [lisa-ae-ohk-liikumine-ja-komplimendid.md](lisa-ae-ohk-liikumine-ja-komplimendid.md) | **Õhk, liikumine, olukorra teadlikkus** — treening, enesega kontakt |
+| AE | [lisa-ae-ohk-liikumine-ja-kiitus.md](lisa-ae-ohk-liikumine-ja-kiitus.md) | **Õhk, liikumine, olukorra teadlikkus** — treening, enesega kontakt |
 | AF | [lisa-af-meeste-erektsioon-ja-rela-hooldus.md](lisa-af-meeste-erektsioon-ja-rela-hooldus.md) | **Meeste erektsioon** — füsioloogia, Sterling Cooper, „relva puhastamine" SOP |
 | AG | [lisa-ag-rollid-partnerlus-ja-nl-skeem.md](lisa-ag-rollid-partnerlus-ja-nl-skeem.md) | **Rollid ja NL-skeem** — mehe roll, naise juhised, tunnustamine |
 | AH | [lisa-ah-leelo-vahersalu-taust.md](lisa-ah-leelo-vahersalu-taust.md) | **Leelo Vahersalu** — puutöö klient, presidendi tunnustus, noorte vaimne tervis |

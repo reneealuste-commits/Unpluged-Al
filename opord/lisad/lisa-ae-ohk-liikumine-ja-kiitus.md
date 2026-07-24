@@ -8,7 +8,7 @@
 
 > *Sa ei saa mõelda selgelt halvas õhus, liikumatu kehaga ja üksilduses. See ei ole pehmus — see on **füsioloogia**.*
 
-> *Me ei kutsu seda enam **komplimendiks**. Me kutsume seda **olukorra teadlikkuseks** — see on **treening**. Väike isiklik ülesanne **enesega kontakti** saavutamiseks.*
+> *Me ei kutsu seda enam **kiituseks**. Me kutsume seda **olukorra teadlikkuseks** — see on **treening**. Väike isiklik ülesanne **enesega kontakti** saavutamiseks.*
 
 ---
 
@@ -18,7 +18,7 @@
 |------------|----------------|
 | Korteri **õhu niiskuse** mõõtmine ja reguleerimine | Meditsiiniline diagnoos |
 | **Liikumine + riippumine** igapäevaselt (Lisa AB) | Veel üks fitness-trend |
-| **Olukorra teadlikkus** — treening, väike isiklik ülesanne | Kompliment, flirt, pickup, „müük" |
+| **Olukorra teadlikkus** — treening, väike isiklik ülesanne | Kiitus, flirt, pickup, „müük" |
 | Enesega kontakt **enne** sõna teistele | Teiste heakskiidu otsimine |
 | SOP eestlastele — mida märkida ja kuidas väljendada | Sunne kedagi rääkima |
 | Aus blokk: **omamise** muster („minu mees") | Naiste või meeste süüdistamine |
@@ -138,11 +138,11 @@ Lisa AA (keha, intiimsus) · Lisa V (uni taastumiseks) · Lisa AB (meeste 90 sek
 
 ---
 
-## 3. Olukorra teadlikkus — treening (mitte „kompliment")
+## 3. Olukorra teadlikkus — treening (mitte „kiitus")
 
 ### Mis see on
 
-| Kompliment (vana mõte) | Olukorra teadlikkus (uus mõte) |
+| Kiitus (vana mõte) | Olukorra teadlikkus (uus mõte) |
 |------------------------|--------------------------------|
 | „Ma pean kedagi ilusaks tegema" | „Ma **märkan**, mis toimub — ja olen **kontaktis iseendaga**" |
 | Väljund on eesmärk | **Treening** on eesmärk; väljund on valikuline |
@@ -197,7 +197,7 @@ Lisa AA (keha, intiimsus) · Lisa V (uni taastumiseks) · Lisa AB (meeste 90 sek
 
 Uuendamine: `python3 generate_olukorda_teadlikkus_pdf.py`
 
-*Vanad failinimed (`KOMPLIMENT_*.pdf`) on asendatud — sama sisu, uus nimetus.*
+*Vanad failinimed (`KOMPLIMENT_*.pdf`, `komplimendid`) on asendatud — sama sisu, uus nimetus (kiitus / olukorra teadlikkus).*
 
 ---
 
@@ -325,7 +325,7 @@ Uuendamine: `python3 generate_olukorda_teadlikkus_pdf.py`
 
 ## 8. Üks lause kogu Lisa AE kohta
 
-> *Mõõda õhu niiskust kodus, ripu 90 sekundit, ventileeri — ja tee **üks olukorra teadlikkuse treening** päevas: enesega kontakt, üks tõeline märkam, valikuline lause. See ei ole kompliment. See on **väike isiklik ülesanne**, et saaksid paremini otsustada — enda jaoks.*
+> *Mõõda õhu niiskust kodus, ripu 90 sekundit, ventileeri — ja tee **üks olukorra teadlikkuse treening** päevas: enesega kontakt, üks tõeline märkam, valikuline lause. See ei ole kiitus. See on **väike isiklik ülesanne**, et saaksid paremini otsustada — enda jaoks.*
 
 ---
 

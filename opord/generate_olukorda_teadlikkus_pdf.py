@@ -17,8 +17,8 @@ SOP_PDF = BASE / "OLUKORDA_TEADLIKKUS_SOP_PRINT.pdf"
 MINI_PDF = BASE / "OLUKORDA_TEADLIKKUS_TASKUKAARDID_RAHAKOTT.pdf"
 
 # Legacy names (same content, backward links)
-LEGACY_SOP = BASE / "KOMPLIMENT_SOP_PRINT.pdf"
-LEGACY_MINI = BASE / "KOMPLIMENT_TASKUKAARDID_RAHAKOTT.pdf"
+LEGACY_SOP = BASE / "KIITUS_SOP_PRINT.pdf"
+LEGACY_MINI = BASE / "KIITUS_TASKUKAARDID_RAHAKOTT.pdf"
 
 
 def draw_header(c, x, y, w, h, title, subtitle=""):
@@ -49,7 +49,7 @@ def draw_lines(c, x, y, lines, size=7, lead=9):
 
 SOP_LINES = [
     "## Olukorra teadlikkus - TREENING (Lisa AE)",
-    "EI kompliment. JAH vaike isiklik ulesanne.",
+    "EI kiitus. JAH vaike isiklik ulesanne.",
     "1. STOP - kus ma olen?",
     "2. KEHA - hingamine, jalad (enesega kontakt)",
     "3. MARKA - uks konkreetne detail",
@@ -67,7 +67,7 @@ SOP_LINES = [
     "Niiskus 40-60%, vent 10 min, rippu 90 sek (Lisa AB)",
 ]
 
-MINI1 = ["STOP. KEHA. MARKA.", "Enesega kontakt.", "Treening, mitte kompliment."]
+MINI1 = ["STOP. KEHA. MARKA.", "Enesega kontakt.", "Treening, mitte kiitus."]
 MINI2 = ["Oo: niiskus 40-60%", "Vent 10 min", "Rippu 90 sek"]
 MINI3 = ["LOGI: mida ma enda kohta?", "Valikuline: 1 lause", "Lisa AE | Peegel"]
 
@@ -81,10 +81,10 @@ def build_sop_pdf(path):
     c.drawString(m, ph - m, "OPERATSIOON PEEGEL - Olukorra teadlikkus (Lisa AE)")
     c.setFont("Helvetica", 8)
     c.setFillColor(GRAY)
-    c.drawString(m, ph - m - 5 * mm, "Treening enesega kontakti jaoks - mitte kompliment")
+    c.drawString(m, ph - m - 5 * mm, "Treening enesega kontakti jaoks - mitte kiitus")
     draw_lines(c, m, ph - m - 12 * mm, SOP_LINES, 8, 10)
     c.setFont("Helvetica-Oblique", 7)
-    c.drawCentredString(pw / 2, m, "lisa-ae-ohk-liikumine-ja-komplimendid.md")
+    c.drawCentredString(pw / 2, m, "lisa-ae-ohk-liikumine-ja-kiitus.md")
     c.save()
 
 

@@ -52,6 +52,7 @@ BOOK_FILES = [
     "lisa-y-kanep-endokannabinoid-ja-ajalugu.md",
     "lisa-z-linnad-toostusuhiskond-ja-partnerlus.md",
     "lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md",
+    "lisa-ab-paljajalu-ja-rippumine-linnas.md",
     "renee-aluste-profiil.md",
 ]
 

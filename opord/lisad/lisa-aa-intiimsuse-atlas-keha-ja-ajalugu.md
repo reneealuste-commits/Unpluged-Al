@@ -291,6 +291,8 @@ Homme: muruväljak → paljajalu / kerged jalatsid → keha tunneb maad → rahu
 - Koolide ja lasteaedade **paljasjalu alad** (liiv, muru, puit)
 - Pühali mudel: loodus **lähedal** — mitte ainult ekraan
 
+**Täpsem uurimustöö:** **Lisa AB** — paljajalu kohandamise võimalused linnaruumis (Korea mudel, materjalid, jalapesu) + **rippumine 90 sek päevas** (Vanja Moves, schoolofmobility.com) ja rippumisribad linnas.
+
 **Seos Hi on Life'iga:** festival Pühalis oli **prototüüp** — kuidas linn võiks tunda: pehme põrand, rahulikud värvid, inimesed selili, lapsed ja koer vabad, keegi paneb padja kukla alla.
 
 ---

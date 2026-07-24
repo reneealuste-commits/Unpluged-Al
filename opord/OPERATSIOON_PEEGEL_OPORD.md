@@ -50,6 +50,7 @@
 | **Lisa Z** | Linnad, tööstusmudel, partnerlus, ettevõtlus — reform Eestist |
 | **Lisa I** | Steiger 1997 — *Inimesekeskne juhtimine*; peakirjastaja **Heli Illipe-Sootak** |
 | **Lisa AA** | *Intiimsuse atlas*, orgasmid, vibraatori ajalugu, **Epp Kärsin** yoni koolitus |
+| **Lisa AB** | **Paljajalu linnas** + **rippumine 90 sek/päev** — Vanja Moves, schoolofmobility.com |
 
 Täiendab **Epp Kärsin** teadlikku intiimsust — **pane end kirja:** [eppkarsin.com](https://www.eppkarsin.com) · yoni koolitus naistele ja meestele · Paldiski mnt 21-1, Tallinn · **5362 8568**
 
@@ -1288,6 +1289,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Kanep, endokannabinoidsüsteem, CBD ja toit (mitte suitsetamine):** Lisa Y — `lisad/lisa-y-kanep-endokannabinoid-ja-ajalugu.md` (ECS, CBD, rasvad, case study'd, kriitiline mõtlemine)
 - **Linnad, tööstusühiskond ja partnerlus:** Lisa Z — `lisad/lisa-z-linnad-toostusuhiskond-ja-partnerlus.md` (suletud toad, isa eemal, ettevõtlus, reform Eestist)
 - **Intiimsuse atlas, keha, orgasmid, yoni koolitus:** Lisa AA — `lisad/lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md` (Walsberg 2024, vibraatori ajalugu, **Epp Kärsin** — pane end kirja: eppkarsin.com)
+- **Paljajalu kohandamine ja rippumine linnas:** Lisa AB — `lisad/lisa-ab-paljajalu-ja-rippumine-linnas.md` (muruväljakud, Korea mudel, **90 sek rippumist päevas**, Vanja Moves / schoolofmobility.com)
 - **Koordinaatori profiil:** `lisad/renee-aluste-profiil.md` (eraldi leht)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
 - **Signaal OPERATSIOON TÄIDETUD:** Kui ühiskondlikud mõõdikud näitavad paranemist — üksikemade arv langeb, kiusamine väheneb, inimesed räägivad vastutusest.
@@ -1704,9 +1706,25 @@ Ma olin lava ees selili — Maria ja Il kõrval. Kukka ei saanud maha panna. **K
 
 Epp rääkis oma teest: enese vastu vägivald, depressioon, alkohol, enesetapu ääre — ja kuidas ta tuli välja. Kõnnib **paljajalu**. Mõtleb, kuidas **tema keha** tunneb.
 
-**Lisa AA §9–10** — täielik tunnistus + jalanõude uurimustöö + **muruväljakud linnas** (Lisa Z). Mine Pühalisse. Pane end kirja Eppule. Kõnni murul.
+**Lisa AA §9–10** — täielik tunnistus + jalanõude uurimustöö + **muruväljakud linnas** (Lisa Z). **Lisa AB** — paljajalu kohandamise võimalused + **rippumine 90 sek päevas** (Vanja Moves: schoolofmobility.com). Mine Pühalisse. Pane end kirja Eppule. Kõnni murul. Rippu.
 
-*Minu küsimus sulle: Millal sa viimati kõndisid paljajalu murul — mitte asfaldil?*
+*Minu küsimus sulle: Millal sa viimati kõndisid paljajalu murul — mitte asfaldil? Ja kas sa rippusid täna vähemalt 90 sekundit?*
+
+---
+
+**K: Mis on need paljajalu ja rippumise võimalused linnas? Miks 90 sekundit?**
+
+**V (Renee Aluste):** Inimene ei ole loodud ainult asfaldil ja toolil. Me vajame **murdu jalge all** ja **rippumist** õhus — ahv kehas.
+
+**Lisa AB** (uurimustöö):
+1. **Paljajalu linnaruumis** — muruväljakud igas linnaosas; Korea mudel (paljajalu teed savist/liivast, jalapesu, kingariiul); kooliõued pehme pinnaga; pehmed kõnniteed
+2. **Rippumine** — **vähemalt 90 sekundit päevas** (kogumis, mitte korraga alguses); õlad, haare, selg
+3. **Vanja Moves** — [schoolofmobility.com](https://schoolofmobility.com) · Mobility & Injury Prevention Training; progressioon: abiga 5–10 sek → 20–40 sek → 90 sek+ päevas
+4. **Linn peab ehitama** — kõrged rippumisribad, tõmbekangid väljas, kooliõued avatud; muruväljak + rippumisala **ühes sõlmes**
+
+Lisa Z (planeerimine), Lisa L (omavalitsus), Lisa J (koolid).
+
+*Minu küsimus sulle: Kas sinu linnas on muruväljak ja rippumisribad — või ainult asfalt ja tool?*
 
 ---
 
@@ -2262,6 +2280,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **Y** | — | `lisad/lisa-y-kanep-endokannabinoid-ja-ajalugu.md` | **ECS, CBD, toit** — mitte suitsetamine; efekt stressist välja; case study'd; varimajandus |
 | **Z** | — | `lisad/lisa-z-linnad-toostusuhiskond-ja-partnerlus.md` | **Linnad = vanglad** — dominantne süsteem; Steiger 1997 vastus; partnerlus |
 | **AA** | — | `lisad/lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md` | **Intiimsuse atlas** — mees/naise erinevus, orgasmid, vibraatori ajalugu, Epp Kärsin yoni koolitus |
+| **AB** | — | `lisad/lisa-ab-paljajalu-ja-rippumine-linnas.md` | **Paljajalu linnas** + **rippumine 90 sek/päev** — Vanja Moves, schoolofmobility.com, omavalitsuse checklist |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

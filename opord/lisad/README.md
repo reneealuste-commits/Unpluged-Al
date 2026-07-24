@@ -27,6 +27,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | Q | [lisa-q-side-eeskirjad-ja-suhtlus.md](lisa-q-side-eeskirjad-ja-suhtlus.md) | **Side eeskirjad** — hääl, GOTWA (KOP5), austav keel, **Pareto 80/20**, demomehed |
 | R | [lisa-r-kes-ma-olen-ja-taust.md](lisa-r-kes-ma-olen-ja-taust.md) | **Kes ma olen? Taust ja tõendid** — CV, teenistus, koolitused, meedia (kahtlus) |
 | S | [lisa-s-kiusamine-aju-ja-trauma.md](lisa-s-kiusamine-aju-ja-trauma.md) | **Kiusamine, aju ja trauma** — *Imeline Teadus*, miks inimesed käituvad nii, Body Keeps the Score |
+| T | [lisa-t-valitsuse-ipb-analuus.md](lisa-t-valitsuse-ipb-analuus.md) | **Valitsuse hetke-analüüs** — IPB, PMESII-PT, 13 ministrit, show me the money |
 | U | [lisa-u-rasv-avatud-meele-uuring.md](lisa-u-rasv-avatud-meele-uuring.md) | **Rasv ja avatud meel** — Bellevue 1928–29; [uurimustöö PDF](../TOITUMINE_UURIMUSTOO.pdf) |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 

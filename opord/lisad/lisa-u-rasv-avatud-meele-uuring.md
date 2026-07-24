@@ -5,6 +5,8 @@
 **Kuupäev:** 24. juuli 2026  
 **Seotud:** Lisa H (taastumine), Lisa L (ministeeriumid), Lisa S (keha ja trauma)
 
+**Täielik uurimustöö (PDF):** [TOITUMINE_UURIMUSTOO.pdf](../TOITUMINE_UURIMUSTOO.pdf) · [markdown](toitumine-uurimustoo.md) — Stefansson, Bellevue 1928–29, praktiline loogika taastumise kontekstis
+
 > *See ei ole käsk, mida süüa. See on kutse **mõelda**. Loed, vaatad allikaid, küsid endalt küsimusi — ja otsustad ise.*
 
 ---
@@ -155,6 +157,7 @@ Kopeeri see koos lingiga:
 3. Vali **3 küsimust** ülalt — kirjuta vastused üles (mitte kellegi jaoks, ainult endale).
 4. Kui tahad rääkida — perearst, toitumisnõustaja, usaldusväärne sõber.
 5. Kui tahad jagada — saada kausta link, mitte käsku.
+6. **Täielik uurimustöö:** [TOITUMINE_UURIMUSTOO.pdf](../TOITUMINE_UURIMUSTOO.pdf) — Bellevue uuring, allikad, Eesti kontekst, taastumise järjekord (Lisa H).
 
 ---
 

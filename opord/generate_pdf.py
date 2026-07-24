@@ -44,6 +44,8 @@ BOOK_FILES = [
     "lisa-q-side-eeskirjad-ja-suhtlus.md",
     "lisa-r-kes-ma-olen-ja-taust.md",
     "lisa-s-kiusamine-aju-ja-trauma.md",
+    "lisa-t-valitsuse-ipb-analuus.md",
+    "lisa-u-rasv-avatud-meele-uuring.md",
     "renee-aluste-profiil.md",
 ]
 

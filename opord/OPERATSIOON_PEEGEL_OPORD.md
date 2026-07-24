@@ -41,6 +41,20 @@
 
 **Inimesed õpivad lugude kaudu** — mitte ainult tabelitest. Epp Kärsin Pühalis: *To heal is to feel.*
 
+### KRIITILINE REEGEL — loe enne kõike muud (Lisa P)
+
+> *Traumatiseeritud inimesel on **täiesti teistsugune reaalsus**. Sa ei saa temaga **tavaliselt koostööd** teha — nagu haukuva koeraga, kes arvab, et sa tuled teda lööma.*
+
+| Tee | Ära tee |
+|-----|---------|
+| **Anna ruumi** ja **turvalisus** | Ära vaidle trauma olekus |
+| **Ignoreeri haukumist** — võta hapnik ära | Ära feedi drama ega provokatsiooni |
+| **Tasusta rahulikku** — vaikus ja hea käitumine = positiivne tähelepanu | Ära anna halvale käitumisele tähelepanu |
+
+**Jeff Cooper** (teadlikkus): ole valmis, ära üllatu. Renee operatsiooniline tõlgendus: *„All women are weapons. Especially traumatized women."* — **mitte süüdistus**. Keha võib reageerida **enne mõistust**. Suust tulev trauma olekus on **signaal**, mitte tõde — sageli ebatäpne või „vale". **Nad ei tee seda tahtlikult.**
+
+Täielik juhend: **Lisa P § KRIITILINE REEGEL** · Lisa S (miks) · Lisa H (kriis)
+
 **Kohustuslik kirjandus (kõigile, ilma erandita):**
 
 | Raamat | Miks |
@@ -51,6 +65,7 @@
 | **Lisa Y** | ECS, CBD, toit, stress — mitte suitsetamise propageerimine |
 | **Lisa Z** | Linnad, tööstusmudel, partnerlus, ettevõtlus — reform Eestist |
 | **Lisa I** | Steiger 1997 — *Inimesekeskne juhtimine*; peakirjastaja **Heli Illipe-Sootak** |
+| **Lisa P** | **KRIITILINE trauma-reegel** — teistsugune reaalsus, koera metafoor, Cooper, ära feedi haukumist |
 | **Lisa AA** | *Intiimsuse atlas*, orgasmid, vibraatori ajalugu, **Epp Kärsin** yoni koolitus |
 | **Lisa AB** | **Paljajalu linnas** + **rippumine 90 sek/päev** — Vanja Moves, schoolofmobility.com |
 
@@ -1623,6 +1638,28 @@ Täielik alus: **Lisa I** (Steiger) + **Lisa P** (van der Kolk, spordikommentaat
 **Faktorite analüüs (Lisa I, lk 32):** enne süüdistamist küsi — oskamatus või tahtetus? Kas juht ise on tulemust määrav faktor? **Mõista ≠ nõustu** (lk 35–37): neli sammu — aruta, küsi, seleta, otsi ühist lahendust.
 
 *Minu küsimus sulle: Kas sa oled kunagi proovinud kedagi „parandada" loogikaga — kui ta vajas esmalt turvalisust?*
+
+---
+
+**K: Traumatiseeritud inimesega ei saa koostööd teha. Mida see tähendab?**
+
+**V (Renee Aluste):** Jah. Ma saan aru. See on üks operatsiooni **kõige kriitilisemaid** reegleid. **Lisa P — KRIITILINE REEGEL.**
+
+**Traumatiseeritud inimesel on täiesti teistsugune reaalsus.** Iga liigutus võib tunduda rünnakuna. **Sa ei saa tavaliselt koostööd teha** — mitte sest inimene on halb, vaid sest keha on **trauma olekus**.
+
+**Nagu haukuv koer:**
+- Koer arvab, et sa tuled teda lööma — **isegi kui sa tuled head parand**
+- **Anna ruumi. Loo turvalisus. Ignoreeri haukumist.** Võta hapnik ära — ära feedi drama
+- **Vaikus ja hea käitumine = positiivne tähelepanu.** Halb käitumine = tähelepanu **puudub**
+- Sa pead koera **traumast välja tooma** — mitte haukumisega võitlema
+
+**Jeff Cooper:** ole **teadlik** (Condition Yellow) — ära ole üllatunud. *„All women are weapons. Especially traumatized women."* — **mitte süüdistus**. Keha võib reageerida **juhuslikul hetkel**, sest trauma on kehas. **Kõik, mis suust tuleb trauma olekus, on ebaoluline vestluse mõttes** — see on trauma, mis üritab ähvardust eemaldada. Sageli vale või ülepaisutatud. **Ära võta seda sisse. Ära vaidle.**
+
+**Nad ei tee seda tahtlikult.**
+
+Alles kui närvisüsteem rahuneb — spordikommentaator, valideerimine, aus vestlus. Füüsiline oht: **112**, Eluliin **655 8088**.
+
+*Minu küsimus sulle: Kas sa oled kunagi feedinud „haukumist" — või andnud tähelepanu rahulikule käitumisele?*
 
 ---
 

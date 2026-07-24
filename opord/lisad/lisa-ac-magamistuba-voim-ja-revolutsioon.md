@@ -245,7 +245,7 @@ Lisa Z kirjeldab tööstusmudelit: isa ära, ema ülekoormatud, lapsed mujal, li
 | **I** | Inimesekeskne juhtimine — näita teed, mitte korda |
 | **H** | Kriis — kui ohtlik, abi kohe |
 | **W** | Austus algusest — ka suhtes |
-| **AE** | Omamine tänaval — blokk 0 enne komplimente; õhk kodus |
+| **AE** | Omamine tänaval — blokk 0 enne olukorra teadlikkuse treeningut; õhk kodus |
 
 ---
 

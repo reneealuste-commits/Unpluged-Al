@@ -326,4 +326,4 @@ Renee positsioon operatsioonis:
 *Lisa AB — Operatsioon „Peegel". Uurimustöö ja ettepanekud, mitte meditsiiniline juhend. Enne treeningut: arsti konsultatsioon, kui on vigastus. Kriisis: Lisa H. Vanja Moves: vanjamoves.com · movesmethod.com · schoolofmobility.com.*
 
 
-**Seotud:** Lisa AE — õhu niiskus korteris, komplimendi SOP tänaval.
+**Seotud:** Lisa AE — õhu niiskus korteris, olukorra teadlikkuse treening tänaval.

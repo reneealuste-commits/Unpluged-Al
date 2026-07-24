@@ -1,12 +1,14 @@
-# Lisa AE — Õhk, liikumine ja komplimendid (elu kvaliteet)
+# Lisa AE — Õhk, liikumine ja olukorra teadlikkus (treening)
 
-**Operatsioon „Peegel"** | Elu kvaliteet | Põhimõte: *paremad otsused algavad sellest, mida sa hingad, kuidas sa hingad ja kas sa oled ühenduses teiste inimestega.*
+**Operatsioon „Peegel"** | Elu kvaliteet | Põhimõte: *paremad otsused algavad sellest, mida sa hingad, kuidas sa hingad — ja kas sa oled **kontaktis iseendaga**.*
 
 **Seotud:** Lisa AB (rippumine 90 sek, Vanja Moves), Lisa V (uni), Lisa AD (lood ja vestlus), Lisa X (väljapoole suhtlemine), Lisa P (valideerimine), Lisa AC (partnerlus, „minu mees" blokk)
 
 > *🫡 **Ära usu mind. Kaitse eelkõige oma uskumusi ja veendumusi.** Uuri. Kaalu. Vali ise.*
 
 > *Sa ei saa mõelda selgelt halvas õhus, liikumatu kehaga ja üksilduses. See ei ole pehmus — see on **füsioloogia**.*
+
+> *Me ei kutsu seda enam **komplimendiks**. Me kutsume seda **olukorra teadlikkuseks** — see on **treening**. Väike isiklik ülesanne **enesega kontakti** saavutamiseks.*
 
 ---
 
@@ -15,42 +17,43 @@
 | Mis see ON | Mis see EI OLE |
 |------------|----------------|
 | Korteri **õhu niiskuse** mõõtmine ja reguleerimine | Meditsiiniline diagnoos |
-| **Liikumine + rippumine** igapäevaselt (Lisa AB) | Veel üks fitness-trend |
-| **Konkreetsed, mitte-seksuaalsed** komplimendid võõrastele | Flirt, pickup, „müük" |
-| SOP eestlastele — mida öelda ja kuidas | Sunne kedagi rääkima |
+| **Liikumine + riippumine** igapäevaselt (Lisa AB) | Veel üks fitness-trend |
+| **Olukorra teadlikkus** — treening, väike isiklik ülesanne | Kompliment, flirt, pickup, „müük" |
+| Enesega kontakt **enne** sõna teistele | Teiste heakskiidu otsimine |
+| SOP eestlastele — mida märkida ja kuidas väljendada | Sunne kedagi rääkima |
 | Aus blokk: **omamise** muster („minu mees") | Naiste või meeste süüdistamine |
 
 **Üks lause:**
 
-> *Paranda õhk kodus, liiguta keha väljas ja ütle üks **täpne** hea sõna võõrale — ilma ootuseta. See tõstab sinu ja tema päeva. See ei nõua loa.*
+> *Paranda õhk kodus, liiguta keha väljas — ja tee **üks väike treening**: ole olukorras teadlik, saavuta kontakt iseendaga, märgi üks tõeline detail. Kui sobib, jaga seda ühe lausega. See ei nõua loa ega vastutasu.*
 
 ---
 
-## 0. Esimene blokk — „minu mees" ja omamine (loe enne komplimente)
+## 0. Esimene blokk — „minu mees" ja omamine (loe enne treeningut)
 
-> *Enne kui me räägime komplimentidest tänaval — peame näha **blokki kodus ja suhtes**.*
+> *Enne kui me räägime **olukorra teadlikkuse treeningust** tänaval — peame näha **blokki kodus ja suhtes**.*
 
 ### Mis juhtub
 
 | Muster | Kuidas see näeb välja |
 |--------|----------------------|
 | **„See on minu mees"** | Naine (või mees) **ei lase** teistel naistel/meestel partnerile läheneda — isegi neutraalselt |
-| **Kadedus kui värav** | Partner ei tohi saada komplimenti, naeratust või vestlust ilma draamata |
+| **Kadedus kui värav** | Partner ei tohi saada tähelepanu, naeratust või vestlust ilma draamata |
 | **Teised naised = oht** | Iga võõras naine on „konkurent", mitte inimene |
 | **Mees ei lase lahti** | Kontroll, GPS, sõnumite lugemine — „kaitse", mis on tegelikult **omamine** |
 
-**See ei ole armastus. See on hirm ja omamine.** Lisa AC ja Lisa P: trauma, kontroll, „relv" käitumine — sageli **teadmatult**, mitte kurjusest.
+**See ei ole armastus. See on hirm ja omamine.** Lisa AC ja Lisa P: trauma, kontroll — sageli **teadmatult**, mitte kurjusest.
 
 ### Mida mees ja naine saavad teha
 
 | Tee | Ära tee |
 |-----|---------|
 | **Räägi ausalt** — kas mul on õigus rääkida teistega? | Ära vaidle „sa ei usalda mind" ringis |
-| **Üks reegel:** kompliment võõrale ≠ reetmine | Ära keela partneril inimlikkust |
-| **Mees näitab teed** — rahulikult, ilma omamiseta | Ära kasuta komplimente teistele kui relva kadeduses |
+| **Üks reegel:** inimlikkus võõrale ≠ reetmine | Ära keela partneril inimlikkust |
+| **Mees näitab teed** — rahulikult, ilma omamiseta | Ära kasuta teiste tähelepanu kui relva kadeduses |
 | **Naine lubab partneril olla inimene** avalikus ruumis | Ära blokeeri teisi naisi „tema ümber" |
 
-> *Kui sa ei saa kodus lubada, et partner saab naeratada võõrale — sa ei ole valmis komplimentide SOP-iks tänaval. Alusta **omamise** lahti harutamisest.*
+> *Kui sa ei saa kodus lubada, et partner on inimene avalikus ruumis — sa ei ole valmis **olukorra teadlikkuse treeninguks**. Alusta **omamise** lahti harutamisest.*
 
 **Lisa AC** — magamistuba, võim, ownership. **Lisa P** — trauma, ära feedi drama.
 
@@ -110,49 +113,72 @@
 
 ---
 
-## 3. Miks rääkida võõrastega — komplimendid
+## 3. Olukorra teadlikkus — treening (mitte „kompliment")
 
-### Kasu (teaduslik ja praktiline)
+### Mis see on
 
-| Mida see teeb | Kellele |
-|---------------|---------|
-| **Tõstab tuju** mõneks tunniks | Sõnale saajale |
-| **Aktiveerib sotsiaalset aju** | Sulle — vähem üksildust |
-| **Õpetab tähelepanelikkust** | Sa hakkad **nägema** inimesi, mitte ekraani |
-| **Ehitab ühiskonda** | Väike usaldus — ilma poliitikata |
-| **Ei nõua vastust** | Üks lause, naeratus, edasi |
+| Kompliment (vana mõte) | Olukorra teadlikkus (uus mõte) |
+|------------------------|--------------------------------|
+| „Ma pean kedagi ilusaks tegema" | „Ma **märkan**, mis toimub — ja olen **kontaktis iseendaga**" |
+| Väljund on eesmärk | **Treening** on eesmärk; väljund on valikuline |
+| Teise heakskiit | **Enda** keha ja tähelepanu tagasitulek |
+| Üks kord „õnnestus" | **Korduv** väike isiklik ülesanne |
 
-**See ei ole flirt.** See on **inimlikkus** avalikus ruumis — nagu vanasti külas, kus kõik teadsid üksteist.
+> *See on nagu kordused jõusaalis — mitte üks võidukas hetk. Iga päev **üks kord**: ole olukorras teadlik.*
 
-### Komplimendi meetod — SOP (üks lause)
+### Miks see on oluline väike isiklik ülesanne
+
+| Samm | Mida see annab |
+|------|----------------|
+| **1. Enesega kontakt** | Hingamine, jalad maas — *kus ma olen? mida ma tunnen?* (Lisa AD, Epp: *to heal is to feel*) |
+| **2. Olukorra lugemine** | Mis on päriselt toimumas — mitte telefonis, mitte peas mängus |
+| **3. Üks tõeline detail** | Konkreetne märkamine — riietus, kõnd, hoolivus, töö |
+| **4. Valikuline jagamine** | Üks lause, kui turvaline — mitte kohustus |
+| **5. Päevik** | *Mida ma täna enda kohta märkasin?* — see on treeningu **tulemus** |
+
+**Esimene kasusaaja oled sina.** Teine inimene võib saada kingituse — aga bez treeningut sina ei „müü" midagi.
+
+### Treeningu meetod — SOP (4 sammu + valikuline lause)
+
+| # | Samm | Küsimus endale |
+|---|------|----------------|
+| **1** | **STOP** | Kus ma olen? Kas ma olen kiirustamas või päriselt siin? |
+| **2** | **KEHA** | Mida ma tunnen — hingamine, õlad, jalad? (enesega kontakt) |
+| **3** | **MÄRKA** | Üks **konkreetne** detail olukorras (inimene, ruum, hetk) |
+| **4** | **VALI** | Kas ma jagan seda ühe lausega — või jätan ainult endale? |
+| **5** | **LOGI** | Üks lause päevikus: *mida ma enda kohta täna õppisin?* |
+
+**Reeglid, kui jagan (valikuline lause):**
 
 | Reegel | Selgitus |
 |--------|----------|
-| **1. Konkreetne** | Mitte „sa oled ilus" — vaid *mida sa täpselt märkasid* |
-| **2. Mitte-seksuaalne** | Riietus, käimine, hoolivus, energia — **mitte keha, mitte „sexy"* |
-| **3. Üks lause** | „Ma tõesti…" — ja **lõpp**. Ära seleta, ära jää kinni. |
-| **4. Aus** | Ära ütle, mida sa ei mõtle. Parem vaikus kui vale. |
-| **5. Avalik kontekst** | Tänav, pood, lift — mitte ööklubi või üksildane park öösel |
-| **6. Ei oota tasu** | Ei numbrit, ei vestlust, ei „jätkame". Naeratus piisab. |
-| **7. Valideeri tagasi** | Kui keegi ütleb „aitäh" — *„Palun."* ja edasi (Lisa P) |
+| **Konkreetne** | Mitte „sa oled ilus" — vaid *mida sa täpselt märkasid* |
+| **Mitte-seksuaalne** | Riietus, käimine, hoolivus, energia — **mitte keha, mitte „sexy"* |
+| **Üks lause** | ja **lõpp** — ära seleta, ära jää kinni |
+| **Aus** | Ära ütle, mida sa ei mõtle |
+| **Avalik kontekst** | Tänav, pood — mitte ööklubi või üksildane park öösel |
+| **Ei oota tasu** | Ei numbrit, ei vestlust — treening on juba toimunud |
 
-**Vale kompliment** tundub nagu müük. **Õige kompliment** tundub nagu *„ma nägin sind ühe sekundi inimesena"*.
+**Vale väljund** tundub nagu müük. **Õige väljund** tundub nagu *„ma nägin ühe sekundi päriselt"* — aga **isegi ilma sõnata** on treening toiminud, kui sa said **enesega kontakti**.
 
 ---
-
 
 **Prindifailid:**
 
 | Fail | Kasutus | Link |
 |------|---------|------|
-| **KOMPLIMENT_SOP_PRINT.pdf** | A4 — SOP + nimekiri | [laadi alla](../KOMPLIMENT_SOP_PRINT.pdf) |
-| **KOMPLIMENT_TASKUKAARDID_RAHAKOTT.pdf** | 6 mini-kaarti (85×55 mm) | [laadi alla](../KOMPLIMENT_TASKUKAARDID_RAHAKOTT.pdf) |
+| **OLUKORDA_TEADLIKKUS_SOP_PRINT.pdf** | A4 — treeningu SOP + nimekiri | [laadi alla](../OLUKORDA_TEADLIKKUS_SOP_PRINT.pdf) |
+| **OLUKORDA_TEADLIKKUS_TASKUKAARDID_RAHAKOTT.pdf** | 6 mini-kaarti (85×55 mm) | [laadi alla](../OLUKORDA_TEADLIKKUS_TASKUKAARDID_RAHAKOTT.pdf) |
 
-Uuendamine: `python3 generate_komplimendid_pdf.py`
+Uuendamine: `python3 generate_olukorda_teadlikkus_pdf.py`
 
-## 4. Mida öelda — nimekiri eestlastele (mitte-seksuaalne)
+*Vanad failinimed (`KOMPLIMENT_*.pdf`) on asendatud — sama sisu, uus nimetus.*
 
-*Vali **üks** rida. Kohanda. Ütle. Mine edasi.*
+---
+
+## 4. Mida öelda — näited (kui valid jagada)
+
+*Need on **valikulised laused** pärast treeningut — mitte kohustus. Vali **üks** või kirjuta oma.*
 
 ### A. Riietus ja stiil
 
@@ -166,19 +192,19 @@ Uuendamine: `python3 generate_komplimendid_pdf.py`
 
 | # | Näide |
 |---|--------|
-| 4 | „Ma märkasin su **kindlat kõndi** — see näeb välja enesekindlalt. Meeldib vaadata." |
+| 4 | „Ma märkasin su **kindlat kõndi** — see näeb välja enesekindlalt." |
 | 5 | „Sul on hea energia — jäi silma." |
-| 6 | „Näen, et sa hoolid endast — see on tore." / „I appreciate that you take care of yourself." |
+| 6 | „Näen, et sa hoolid endast — see on tore." |
 
 ### C. Vanemlus ja hoolivus (kui kontekst sobib)
 
 | # | Näide |
 |---|--------|
-| 7 | „Ilus pere hetk — teil on hea vaade." (lapsega, mitte kritiseerides) |
+| 7 | „Ilus pere hetk — teil on hea vaade." |
 | 8 | „Näen, et sa oled lapsega kannatlik — see on haruldane ja ilus." |
 | 9 | „Head vanemad on näha — aitäh, et sa seda teed." |
 
-### D. Töö ja pingutus (pood, teenindus, käsitöö)
+### D. Töö ja pingutus
 
 | # | Näide |
 |---|--------|
@@ -192,9 +218,9 @@ Uuendamine: `python3 generate_komplimendid_pdf.py`
 |---|--------|
 | 13 | „Ilus päev — soovin sulle head jätku." |
 | 14 | „Naeratus teeb päeva paremaks — aitäh." |
-| 15 | „Hea meel, et sa siin oled." (kohalik pood, naaber) |
+| 15 | „Hea meel, et sa siin oled." |
 
-### F. Meestele (naised või mehed ütlevad — neutraalne)
+### F. Meestele (neutraalne)
 
 | # | Näide |
 |---|--------|
@@ -202,55 +228,58 @@ Uuendamine: `python3 generate_komplimendid_pdf.py`
 | 17 | „Näen, et sa oled **liikvel** — see on hea." |
 | 18 | „Rahulik olek — see on meeldiv." |
 
-### Mida **EI** ütle (mitte kunagi võõrale tänaval)
+### Mida **EI** ütle
 
 | ❌ Mitte | Miks |
 |---------|------|
-| „Sa oled nii sexy / hot" | Seksuaalne — OPSEC ja turvalisus |
-| „Mis su number on?" | Ootus, mitte kompliment |
+| „Sa oled nii sexy / hot" | Seksuaalne |
+| „Mis su number on?" | Ootus, mitte teadlikkus |
 | „Sa peaksid naeratama" | Kontroll |
-| Keha osad (rind, tagumik, jalad) | Seksuaalne |
-| „Sa näed välja nagu mu eks" | Võõristav |
-| Kompliment + 30 sek monoloog | Müük |
+| Keha osad | Seksuaalne |
+| Monoloog pärast ühte lauset | Müük — treening on juba läbi |
 
 ---
 
-## 5. SOP — üks kompliment päevas (demomehe checklist)
+## 5. Treeningu checklist — üks kord päevas
 
-**Lisa N** + **Lisa AD** (lugu võib olla: „ma ütlesin ühe lause ja läksin edasi").
+**Lisa N** + **Lisa AD** (lugu võib olla: „ma märkasin, tundsin, ja ütlesin ühe lause").
 
-### Enne
+### Enne (enesega kontakt)
 
 - [ ] **Blokk 0** — kas kodus on omamise teema lahendamata? (Lisa AC)
-- [ ] **Üks** lause valitud (ülevalt nimekirjast või oma)
-- [ ] **Kontekst** avalik, päevane
-- [ ] Partner teab (GOTWA — Lisa Q): „Täna ütlen ühe komplimendi võõrale — see on SOP, mitte reetmine"
+- [ ] **STOP + keha** — 3 hingetõmmet, jalad maa peal
+- [ ] **Üks** detail valitud märkamiseks (või ainult märkad, ei jaga)
+- [ ] Partner teab (GOTWA — Lisa Q): „Täna teen olukorra teadlikkuse treeningu — see on isiklik ülesanne, mitte reetmine"
 
 ### Käigus
 
-1. **Märka** midagi konkreetset (10 sek vaatamist)
-2. **Lähene** rahulikult, 1–2 m distants
-3. **Ütle** üks lause — naeratus
-4. **Lõpeta** — „Head päeva" või lihtsalt edasi
-5. **Ära seleta** operatsiooni ega usku
+1. **Ole kohal** — ära kiirusta
+2. **Märka** üks konkreetne detail (10 sek)
+3. **Tunne** — mida see minus tekitas? (enesega kontakt)
+4. **Valikuline:** üks lause väljas — naeratus — edasi
+5. **Ära seleta** operatsiooni
 
-### Pärast
+### Pärast (treeningu logi)
 
-- [ ] Üks lause päevikus: mida ma tundsin?
-- [ ] Kas keegi reageeris halvasti? (Lisa P — ära võta isiklikult, ära jätka)
+- [ ] **Üks lause päevikus:** mida ma enda kohta täna märkasin?
+- [ ] Kas sain **enesega kontakti** — isegi kui ma ei rääkinud kellegagi?
+- [ ] Kas keegi reageeris halvasti? (Lisa P — ära võta isiklikult)
+
+> *Treening on **õnnestunud**, kui sa kirjutasid päevikusse ühe tõelise lause **enda** kohta — sõltumata sellest, kas sa üldse rääkisid.*
 
 ---
 
-## 6. Mehe erijuhend — kompliment naisele tänaval
+## 6. Mehe erijuhend — olukorra teadlikkus naise suhtes
 
 | Tee | Ära tee |
 |-----|---------|
-| Lühike, avalik, päevane | Öine jälitamine |
+| Esmalt **enesega kontakt** | Kohe „proovin öelda midagi" |
+| Lühike, avalik, päevane — kui jagan | Öine jälitamine |
 | Riietus / käimine / energia | Keha, flirt |
-| Kui kahtled — **ära ütle** | „Proovin ära" |
+| Kui kahtled — **ainult märka, ära jaga** | „Proovin ära" |
 | Kui ta kõrvale vaatab — **lõpeta kohe** | „Kuule veel" |
 
-**Eesmärk:** inimlikkus, mitte tutvumine. Kui sa tahad tutvuda — ole aus ja küsi eraldi, mitte komplimendi maski all.
+**Eesmärk:** treening ja teadlikkus — mitte tutvumine.
 
 ---
 
@@ -260,18 +289,19 @@ Uuendamine: `python3 generate_komplimendid_pdf.py`
 |------|------|
 | **AB** | Rippumine 90 sek, liikumine, õhk väljas |
 | **V** | Uni, õhk magamistoas |
-| **AD** | Loo checklist — kompliment võib olla üks „HELK" lugu |
+| **AD** | Loo checklist — olukorra teadlikkus võib olla „HELK" |
 | **X** | OPSEC — ära avalda teiste andmeid |
 | **P** | Valideerimine, spordikommentaator |
 | **AC** | Omamine, „minu mees", partnerlus |
 | **Q** | GOTWA — ütle partnerile, mida teed |
+| **AA** | *To heal is to feel* — enesega kontakt enne teisi |
 
 ---
 
 ## 8. Üks lause kogu Lisa AE kohta
 
-> *Mõõda õhu niiskust kodus, ripu 90 sekundit, ventileeri — ja ütle tänaval **üks konkreetne, mitte-seksuaalne** hea sõna võõrale. Alusta sellest, et kodus ei blokeerita partnerit „omamisega". See tõstab elu kvaliteeti — sinu otsuseid, mitte ainult tuju.*
+> *Mõõda õhu niiskust kodus, ripu 90 sekundit, ventileeri — ja tee **üks olukorra teadlikkuse treening** päevas: enesega kontakt, üks tõeline märkam, valikuline lause. See ei ole kompliment. See on **väike isiklik ülesanne**, et saaksid paremini otsustada — enda jaoks.*
 
 ---
 
-*Lisa AE — Operatsioon „Peegel". Õhk, liikumine, komplimendid. Avalik — jagamine lubatud.*
+*Lisa AE — Operatsioon „Peegel". Õhk, liikumine, olukorra teadlikkus (treening). Avalik — jagamine lubatud.*

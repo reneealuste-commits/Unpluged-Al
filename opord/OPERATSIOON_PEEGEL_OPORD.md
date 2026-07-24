@@ -13,7 +13,7 @@
 **Kogu pakett (ZIP):** [Operatsioon-Peegel-kogu-pakett.zip](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/Operatsioon-Peegel-kogu-pakett.zip) — kõik lisad, PDF-id, pildid  
 **Taskukaardid (Lisa X):** [TASKUKAARDID_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/TASKUKAARDID_PRINT.pdf) · [rahakott 85×55mm](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/TASKUKAARDID_RAHAKOTT.pdf) · [LENDLEHT_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/LENDLEHT_PRINT.pdf)  
 **Lood ja konversioon (Lisa AD):** [LOO_CHECKLIST_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/LOO_CHECKLIST_PRINT.pdf) · [LOO_TASKUKAARDID_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/LOO_TASKUKAARDID_PRINT.pdf) · [LOO_TASKUKAARDID_RAHAKOTT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/LOO_TASKUKAARDID_RAHAKOTT.pdf)  
-**Õhk ja komplimendid (Lisa AE):** [KOMPLIMENT_SOP_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/KOMPLIMENT_SOP_PRINT.pdf) · [KOMPLIMENT_TASKUKAARDID_RAHAKOTT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/KOMPLIMENT_TASKUKAARDID_RAHAKOTT.pdf)  
+**Õhk ja olukorra teadlikkus (Lisa AE):** [OLUKORDA_TEADLIKKUS_SOP_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OLUKORDA_TEADLIKKUS_SOP_PRINT.pdf) · [OLUKORDA_TEADLIKKUS_TASKUKAARDID_RAHAKOTT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OLUKORDA_TEADLIKKUS_TASKUKAARDID_RAHAKOTT.pdf)  
 **Repo / PR:** [github.com/reneealuste-commits/Unpluged-Al/pull/1](https://github.com/reneealuste-commits/Unpluged-Al/pull/1)
 
 > *Struktuur järgib OPORD-i (viis punkti: olukord, ülesanne, täideviimine, teenindus, juhtimine). Inimestele suunatud nimetus on **paranemis-teekond** — mitte sõjaline käsk. Sõna „käsk" võib triggerdada kaitsepositsiooni (Lisa P, van der Kolk).*
@@ -1325,7 +1325,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Magamistuba, võim ja revolutsioon:** Lisa AC — `lisad/lisa-ac-magamistuba-voim-ja-revolutsioon.md` (naised ei ole kurjad; mehe ownership; näita teed — Epp, Intiimsuse atlas)
 - **Lood, konversiooni checklist, taskukaardid:** Lisa AD — `lisad/lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md` (7 sammu, prinditav checklist, mida öelda kui keegi vastu hakkab)
 - **Meeste erektsioon ja relva hooldus:** Lisa AF — `lisad/lisa-af-meeste-erektsioon-ja-rela-hooldus.md` (füsioloogia, dis-ease, hügieen, uni, stress)
-- **Õhk, liikumine, komplimendid:** Lisa AE — `lisad/lisa-ae-ohk-liikumine-ja-komplimendid.md` (niiskus korteris, rippumine, mitte-seksuaalne komplimendi SOP; blokk 0: omamine)
+- **Õhk, liikumine, olukorra teadlikkus (treening):** Lisa AE — `lisad/lisa-ae-ohk-liikumine-ja-komplimendid.md` (niiskus korteris, rippumine, **olukorra teadlikkuse treening** — enesega kontakt; blokk 0: omamine)
 - **Koordinaatori profiil:** `lisad/renee-aluste-profiil.md` (eraldi leht)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
 - **Signaal OPERATSIOON TÄIDETUD:** Kui ühiskondlikud mõõdikud näitavad paranemist — üksikemade arv langeb, kiusamine väheneb, inimesed räägivad vastutusest.
@@ -1841,19 +1841,29 @@ Lisa X ütleb *mida* öelda. Lisa AD ütleb *kuidas* — loo kaudu.
 
 ---
 
-**K: Kuidas parandada elu kvaliteeti õhu, liikumise ja võõrastega rääkimise kaudu?**
+**K: Kuidas parandada elu kvaliteeti õhu, liikumise ja inimeste märkamise kaudu?**
 
-**V (Renee Aluste):** Paremad otsused algavad sellest, **mida sa hingad ja kuidas sa hingad**. Korteris: **mõõda õhu niiskust** (hügromeeter), siht **40–60%**, ventileeri 10–15 min päevas, vaata filtreid. Liiga kuiv talveõhk = halvem uni ja keskendumine (Lisa V). Liiga niiske = hallitus.
+**V (Renee Aluste):** Paremad otsused algavad sellest, **mida sa hingad ja kuidas sa hingad**. Korteris: **mõõda õhu niiskust** (hügromeeter), siht **40–60%**, ventileeri 10–15 min päevas.
 
-Teiseks: **liigu ja ripu** — **90 sekundit päevas** (Lisa AB, Vanja Moves). Keha väljas, mitte ainult nelja seina vahel.
+Teiseks: **liigu ja ripu** — **90 sekundit päevas** (Lisa AB, Vanja Moves).
 
-Kolmandaks: **räägi võõrastega** — mitte flirt, vaid **üks konkreetne, mitte-seksuaalne kompliment** päevas. Näiteks: *„Mulle meeldib su kindel kõnd"* või *„Näen, et sa hoolid endast — see on tore."* Meetod: **üks lause, aus, lõpeta, mine edasi.**
+Kolmandaks: **olukorra teadlikkuse treening** — me ei kutsu seda enam komplimendiks. See on **väike isiklik ülesanne** **enesega kontakti** saavutamiseks:
 
-**Lisa AE** annab täieliku SOP eestlastele — mida öelda, mida mitte, ja **blokk 0**: kodus ei blokeerita partnerit omamisega („minu mees" — teised naised ei tohi läheneda). Kui see blokk on lahti, saab tänaval olla inimlik ilma draamata.
+| Samm | Mida |
+|------|------|
+| **STOP** | Kus ma olen? |
+| **KEHA** | Hingamine, jalad — *mida ma tunnen?* |
+| **MÄRKA** | Üks konkreetne detail |
+| **VALI** | Jagada ühe lausega või ainult endale? |
+| **LOGI** | Päevikus: *mida ma enda kohta täna õppisin?* |
 
-Prindi: `KOMPLIMENT_SOP_PRINT.pdf` · taskukaardid rahakotti.
+Näited, kui jagan: *„Mulle meeldib su kindel kõnd"* või *„Näen, et sa hoolid endast."* — aga **treening on õnnestunud ka ilma sõnata**, kui said kontakti iseendaga.
 
-*Minu küsimus sulle: Millal sa viimati mõõtsid korteri niiskust — või ütlesid võõrale ühe **täpse** head sõna?*
+**Lisa AE** — täielik SOP. **Blokk 0:** kodus ei blokeerita partnerit omamisega („minu mees").
+
+Prindi: `OLUKORDA_TEADLIKKUS_SOP_PRINT.pdf`
+
+*Minu küsimus sulle: Kas sa täna tegid **ühe treeningu** — või ootasid, et keegi teine sind märkaks?*
 
 ---
 
@@ -2453,7 +2463,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **AB** | — | `lisad/lisa-ab-paljajalu-ja-rippumine-linnas.md` | **Paljajalu linnas** + **rippumine 90 sek/päev** — Vanja Moves, schoolofmobility.com, omavalitsuse checklist |
 | **AC** | — | `lisad/lisa-ac-magamistuba-voim-ja-revolutsioon.md` | **Magamistuba ja revolutsioon** — võim, ownership, naised ei ole kurjad, näita teed |
 | **AD** | — | `lisad/lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md` | **Lood ja konversioon** — 7-sammu checklist, taskukaardid, mida öelda kui keegi vastu hakkab |
-| **AE** | — | `lisad/lisa-ae-ohk-liikumine-ja-komplimendid.md` | **Õhk, liikumine, komplimendid** — niiskus, rippumine, mitte-seksuaalne SOP |
+| **AE** | — | `lisad/lisa-ae-ohk-liikumine-ja-komplimendid.md` | **Õhk, liikumine, olukorra teadlikkus** — treening, enesega kontakt |
 | **AF** | — | `lisad/lisa-af-meeste-erektsioon-ja-rela-hooldus.md` | **Meeste erektsioon** — füsioloogia, Sterling Cooper, relva hooldus SOP |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 

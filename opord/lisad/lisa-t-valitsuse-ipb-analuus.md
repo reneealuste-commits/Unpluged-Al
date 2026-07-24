@@ -1,13 +1,13 @@
-# Lisa T — Valitsuse IPB-analüüs
+# Lisa T — Valitsuse hetke-analüüs
 
-**Operatsioon „Peegel"** | Ranger Handbook (FM 3-21.76) | Põhimõte: *me ei süüdi inimesi — me mõõdame tulemusi ja küsime miks*
+**Operatsioon „Peegel"** | Ranger Handbook (FM 3-21.76) — IPB raamistik | Põhimõte: *me ei süüdi inimesi — me mõõdame tulemusi ja küsime miks*
 
 **Kuupäev:** 24. juuli 2026  
 **Siht:** Kristen Michali valitsus (54. valitsus), 13 ministrit  
-**Lühikokkuvõte:** OPORD alguses — sektsioon „Vastasanalüüs"  
+**Lühikokkuvõte:** OPORD alguses — sektsioon „Hetke-analüüs"  
 **Seotud:** **Lisa I** (inimesekeskne juhtimine), **Lisa S** (trauma), **Lisa P** (NVC, valideerimine), **Lisa L** (ministeeriumid)
 
-## „Vabariigi Viletsus" — rahva teenijate tegevuse analüüs Ranger Handbooki meetodil
+## Hetke-analüüs — rahva teenijate tegevuse kaardistamine Ranger Handbooki meetodil
 
 **Klassifikatsioon:** Avalik — Eesti kodanikele  
 **Analüüsi tüüp:** Kodanikualgatuslik IPB (Intelligence Preparation of the Battlefield)  
@@ -17,7 +17,7 @@
 
 > *„Me ei süüdi ühtegi neist inimestest. Me võtame vastutuse enda kanda ja suhtleme läbi mittevägivalse kommunikatsiooni: miks te need otsused teete? Mis on teie kavatsus? Võib-olla oli see hea. Võib-olla halb. Me ei tea. Aga me küsime."*
 
-> *„Üleval on üksildane. Võib-olla keegi ei anna neile tagasisidet."*
+> *„Üleval on üksildane. Võib-olla keegi ei anna neile tagasisidet — ja nad tegelevad ellujäämisega, mitte pahatahtlikkusega."*
 
 ---
 
@@ -28,7 +28,7 @@
 3. [Ranger Handbooki raamistik](#3-ranger-handbooki-raamistik)
 4. [PMESII-PT analüüs](#4-pmesii-pt-analüüs)
 5. [ASCOPE — tsiviilkaalutlused](#5-ascope--tsiviilkaalutlused)
-6. [Vastase analüüs (IPB samm 2–4)](#6-vastase-analüüs-ipb-samm-24)
+6. [Hetke-analüüs (IPB samm 2–4)](#6-hetke-analüüs-ipb-samm-24)
 7. [Show me the money](#7-show-me-the-money)
 8. [Hüpoteeside testimine](#8-hüpoteeside-testimine)
 9. [Ministrite profiilid (13)](#9-ministrite-profiilid-13)
@@ -46,16 +46,36 @@
 |----|-----|
 | Kriminaaluurimine | Avalik OSINT + statistika |
 | Isiklik rünnak | Süsteemi ja tulemuste analüüs |
-| Sõjaline „vaenlase" mõiste inimeste suhtes | **Häiritud muster** — kaugel rahvast, numbrites elamine, trauma-teadmatu juhtimine |
+| Sõjaline „vaenlase" mõiste inimeste suhtes | **Hetke-analüüs** — mis on praegu, mitte kellelegi sildi kleepimine |
 | Kindlad süüdistused | **Hüpoteesid** — märgistatud kui *võib-olla* |
+
+### Hetke-analüüs vs vastase-analüüs
+
+Ranger Handbook (sõjaväes) kasutab terminit **vastase analüüs** (*enemy analysis*). Me **ei rakenda** seda terminit valitsuse liikmete suhtes.
+
+| | Vastase-analüüs (Ranger Handbook) | Hetke-analüüs (meie) |
+|---|-----------------------------------|----------------------|
+| **Kelle kohta** | Sõjaline vastane lahinguväljal | Praegune valitsus — **inimesed, mitte vaenlased** |
+| **Eesmärk** | Võit lahingus | Tulemuste mõistmine ja tagasiside |
+| **Hoiak** | Neutralne luure | NVC — *miks sa seda tegid? mis sul vaja on?* |
+
+**Valitsuse liikmed ei ole vaenlased.** Nad:
+- tegelevad **ellujäämisega** (ajasurve, koalitsioon, kriis, meedia);
+- tegid iga hetk otsused, mis tol hetkel tundusid **mõistlikud**;
+- said **liiga vähe infot** perede tegeliku olukorra kohta;
+- **ei saanud adekvaatset tagasisidet** tulemuste kohta — ja seetõttu ei muutnud kurssi;
+- võivad olla trauma-teadmatud ja ei tea, mida nende keha teeb (vt Lisa S).
+
+Me analüüsime **tulemusi**, mitte kavatsusi. Kavatsus võis olla hea. Tulemus on see, mis loeb.
 
 ### Meie põhimõtted
 
-1. **Iga minister on terve, normaalne inimene** — võib olla stressis, ülekoormatud, isolatsioonis.
-2. **Kavatsus ≠ tulemus** — hea kavatsus võib anda halva tulemuse.
+1. **Iga minister on terve, normaalne inimene** — ellujäämisrežiimis, mitte pahatahtlik.
+2. **Kavatsus ≠ tulemus** — hea kavatsus võib anda halva tulemuse; infopuudujääk võib mõjutada otsust.
 3. **Keha enne mõistust** — poliitikud võivad olla trauma-teadmatud ja ei pruugi teadvustada, miks nad teevad seda, mida teevad.
-4. **NVC küsimus:** *Mis vajadus on selle otsuse taga? Mida sa tunned? Mida sa vajad?*
-5. **AI teeb ära administratiivse töö** — inimene on vaja seal, kus on vaja emotsiooni, eeskuju ja usaldust.
+4. **Tagasiside puudumine** — kui tulemusi ei peegeldata tagasi, ei saa kurssi muuta.
+5. **NVC küsimus:** *Mis vajadus on selle otsuse taga? Mida sa tunned? Mida sa vajad?*
+6. **AI teeb ära administratiivse töö** — inimene on vaja seal, kus on vaja emotsiooni, eeskuju ja usaldust.
 
 ### Sõnastus „Vabariigi Viletsus"
 
@@ -112,18 +132,18 @@ Sotsiaalmeedia postituses kasutatud sõna *Viletsus* (paralleel *Vabariigi Valit
 
 ## 3. RANGER HANDBOOKI RAAMISTIK
 
-Ranger Handbook (FM 3-21.76) nõuab patrulli juhilt **täielikku vastase analüüsi** enne tegevust. Me kohandame seda kodaniku vaatenurgast:
+Ranger Handbook (FM 3-21.76) nõuab patrulli juhilt **täielikku olukorra kaardistamist** enne tegevust. Sõjaväes nimetatakse seda *vastase analüüsiks* — meie kasutame sama **IPB struktuuri**, aga nimetame seda **hetke-analüüsiks**, sest valitsuse liikmed ei ole vaenlased.
 
-| Ranger Handbook | Meie kohandus |
-|-----------------|---------------|
-| **Enemy** (vaenlane) | **Häiritud juhtimismuster** — kaugel rahvast, numbrites, trauma-teadmatu |
+| Ranger Handbook (sõjavägi) | Meie hetke-analüüs |
+|-----------------------------|-------------------|
+| **Enemy analysis** (vastase analüüs) | **Hetke-analüüs** — koosseis, paigutus, tugevus, tegevused, võimekused, tõenäolised käigud |
 | **Composition** | 13 ministrit, 2 erakonda (Ref + E200), 52/101 kohta |
-| **Disposition** | Stenbocki maja — kaitsepositsioon, klaasist loss |
-| **Strength** | Tugev: riigikord, digiriik, NATO. Nõrk: usaldus, demograafia |
+| **Disposition** | Stenbocki maja — füüsiline distants; ellujäämisrežiim |
+| **Strength** | Tugev: riigikord, digiriik, NATO. Nõrk: usaldus, demograafia, tagasiside |
 | **Recent Activities** | „Valitsuse remont" (märts 2025), SDE väljavisataamine |
 | **Capabilities** | Seadusandlus, eelarve, meedia, ametkonnad |
-| **Most Likely COA** | Paremäärmuslik majandus, kaitsekulutuste tõus, perede ignoreerimine |
-| **Most Dangerous COA** | Demograafiline kollaps + ühiskonna lõhenemine + võõrandunud eliit |
+| **Most Likely COA** | Paremäärmuslik majandus, kaitsekulutuste tõus — *tol hetkel mõistlikuna tunduv kurss* |
+| **Most Dangerous COA** | Demograafiline kollaps + ühiskonna lõhenemine — *tulemus, mida tagasiside pole ära hoidnud* |
 
 ### SALUTE-raport (kohandatud)
 
@@ -203,9 +223,9 @@ Ranger Handbook (FM 3-21.76) nõuab patrulli juhilt **täielikku vastase analü�
 
 ---
 
-## 6. VASTASE ANALÜÜS (IPB SAMM 2–4)
+## 6. HETKE-ANALÜÜS (IPB SAMM 2–4)
 
-> *Siin „vastane" = häiritud juhtimismuster, mitte inimesed.*
+> *See ei ole vastase analüüs. See on hetke pilt: mis on, mis tulemused on, miks muutust ei ole tulnud (infopuudujääk + tagasiside puudumine + ellujäämisrežiim).*
 
 ### 6.1 Composition (koosseis)
 
@@ -238,7 +258,7 @@ Ranger Handbook (FM 3-21.76) nõuab patrulli juhilt **täielikku vastase analü�
 
 ### 6.2 Disposition (paigutus)
 
-- **Kaitsepositsioon:** Stenbocki maja — füüsiline ja psühholoogiline distants rahvast.
+- **Kaitsepositsioon:** Stenbocki maja — füüsiline distants rahvast; ellujäämisrežiim, mitte pahatahtlikkus.
 - **Reservid:** Ametkonnad (kantslerid) teevad tööd, kui ministrid vahetuvad.
 - **Nõrk külg:** Demograafia, usaldus, üksikvanemad.
 
@@ -349,17 +369,18 @@ Ranger Handbook (FM 3-21.76) nõuab patrulli juhilt **täielikku vastase analü�
 |-------|---|
 | TFR, sündide arv ignoreeritud | KPI-d ei parane |
 | Koalitsiooni toetus 14% vs opositsioon 76% | Legitiimsuse kriis |
-| „Valitsuse remont" — SDE välja | Poliitiline arvutus |
-| **Hinnang** | **Tõenäoline** — numbrid (eelarve, SKP, kaitse %) prioriteedid; rahva emotsioon teisejärguline. |
+| „Valitsuse remont" — SDE välja | Poliitiline arvutus ellujäämiseks |
+| **Hinnang** | **Tõenäoline** — numbrid (eelarve, SKP, kaitse %) on see, mida nad näevad; perede tegelik elu võib jääda infopuudujääki. *Mitte pahatahtlikkus — fookus.* |
 
-### H4: „Nad on traumatiseeritud ja teadmatud"
+### H4: „Nad on traumatiseeritud, teadmatud ja ellujäämisrežiimis"
 
 | Tõend | |
 |-------|---|
 | Dominants juhtimine (Kert 1997 inimesekeskne kadunud) | Kaitseväe ja riigi muster |
-| Kiired otsused ilma kuulamiseta | SDE väljavisataamine |
-| „Üleval on üksildane" | Tagasiside puudub |
-| **Hinnang** | **Hüpotees** — ei saa tõestada, aga trauma-teadlik vaade selgitab käitumist ilma süüdistamiseta. |
+| Kiired otsused ilma kuulamiseta | SDE väljavisataamine — *tol hetkel mõistlikuna tunduv* |
+| „Üleval on üksildane" | **Tagasiside ei jõua** — kurssi ei muudeta |
+| Liiga vähe infot perede kohta | KPI-d ei jõua otsustajateni |
+| **Hinnang** | **Hüpotees** — selgitab käitumist ilma süüdistamiseta. Nad tegelevad ellujäämisega, mitte ründamisega. |
 
 ### H5: „AI teeb juba valitsuse töö ära"
 

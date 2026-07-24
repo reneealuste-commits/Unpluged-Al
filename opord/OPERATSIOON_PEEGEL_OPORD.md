@@ -19,13 +19,15 @@
 
 ---
 
-## VASTASANALÜÜS — MILLEGA ME RAHUL POLE
+## HETKE-ANALÜÜS — MILLEGA ME RAHUL POLE
 
 > *Kui sa mõtled „miks see üldse vajalik on?" — **loe just seda**. Täpne analüüs, 13 ministri profiilid ja Ranger Handbooki detailplaan on **Lisa T**.*
 
+> *Ranger Handbook kasutab sõjaväes terminit **vastase analüüs**. Me **ei kasuta** seda inimeste kohta. Meie analüüs on **hetke-analüüs**: mis on praegu, mis tulemused on, mis infopuudujääke võib olla.*
+
 See operatsioon ei sünni teooriast. See sündis sellest, et **tulemused räägivad iseenda eest** — ja need tulemused ei teeni enam Eesti peresid, vaid numbreid.
 
-Me **ei süüdi** ühtegi ministrit ega poliitikut isiklikult. Nad on valitud, nad on inimesed, nad võivad olla stressis, üksildased ja trauma-teadmatud (vt Lisa S, Lisa I). Aga **me ei saa ignoreerida tulemusi**, sest tulemused on meie laste ja perede tulevik.
+Me **ei süüdi** ühtegi ministrit ega poliitikut isiklikult. Nad **ei ole vaenlased**. Nad on valitud inimesed, kes tegelevad **ellujäämisega** — ajasurve, koalitsiooni hoidmine, kriisid. Iga hetk on nad teinud seda, mis tol hetkel tundus **mõistlik**. Neil on liiga vähe infot perede tegeliku olukorra kohta — ja nad **ei ole saanud adekvaatset tagasisidet**, et oma tegevust muuta. Nad võivad olla stressis, üksildased ja trauma-teadmatud (vt Lisa S, Lisa I). Aga **me ei saa ignoreerida tulemusi**, sest tulemused on meie laste ja perede tulevik.
 
 ### Mis meid rahulolematuks teeb — mitte kavatsus, vaid tulemus
 
@@ -42,13 +44,14 @@ Me **ei süüdi** ühtegi ministrit ega poliitikut isiklikult. Nad on valitud, n
 | **Riigivõlg** | **24,1% SKP** (10 mlrd €) | Tulevased põlved maksavad |
 | **Kaitsekulutused** | **3,4% SKP** → plaan **5%+** | Raha kaitsele — pered teisejärgulised |
 
-### Mida me konkreetselt kritiseerime (süsteemi, mitte inimeste tasandil)
+### Mida me konkreetselt märkame (tulemused, mitte inimeste süü)
 
 1. **Numbrid enne inimesi.** Eelarve, SKP ja kaitseprotsent paranevad statistikas; perede KPI-d halvenevad.
-2. **Dominants juhtimine on tagasi.** Inimesekeskne juhtimine (Kert + Steiger 1997, Lisa I) on kadunud — nii riigis kui Kaitseväes. Otsused tunduvad traumatiseeritud, mitte teadlikud.
-3. **Tagasiside ei jõua üleval.** „Üleval on üksildane" — keegi ei ütle ausalt, et tulemused on valed.
-4. **Kiusamine ja ärapanemine.** Internetis, tööl, ühiskonnas — valitsus ei paku terviklikku vastust (Lisa S).
-5. **AI teeb administratiivse töö ära** — inimene on vaja seal, kus on vaja emotsiooni, eeskuju ja usaldust. Praegu puudub mõlemad.
+2. **Tagasiside ei jõua üleval.** „Üleval on üksildane" — tulemusi ei peegeldata tagasi, kurssi ei muudeta.
+3. **Infopuudujääk.** Perede tegelik olukord (kodu, sündide langus, üksikvanemad) ei pruugi jõuda otsustajateni.
+4. **Ellujäämisrežiim.** Koalitsiooni hoidmine ja kriisid sunnivad kiireid otsuseid — need tundusid tol hetkel mõistlikud.
+5. **Kiusamine ja ärapanemine.** Internetis, tööl, ühiskonnas — terviklik vastus puudub (Lisa S).
+6. **AI teeb administratiivse töö ära** — inimene on vaja seal, kus on vaja emotsiooni, eeskuju ja usaldust.
 
 ### Meie positsioon (NVC)
 
@@ -118,7 +121,7 @@ Renee Aluste ei alustanud teooriast. Ta alustas oma elust:
 2. **Ta põles läbi.** Umbes kolm aastat Sõdurioskuste kursuseid — efektiivselt, suurelt — kuni läbipõlemise ilmingud sundisid peatuma. Seekord tehakse **targemalt**: 1-1 vestlused, rotatsioon, mitte üks mees kogu aeg ees.
 3. **Riik teeb tööd, aga sõnum ei jõua igasse peresse.** Kaitsevägi, Kaitseliit, KAPO — head. Siiski tabavad algoritmid (TikTok, Telegram, võõrkeelsed kanalid) inimesi enne, kui nad aru saavad.
 4. **Liibanon õpetas.** Dominants ei tööta inimeste peal pikas mängus. Ausus ja usaldus töötavad paremini kui reeglid, mida kõik teavad, et on vale.
-5. **Valitsuse tulemused ei teeni peresid.** Sündide langus, usalduse kriis, laste vaesus — vt **Vastasanalüüs** (dokumendi algus) ja **Lisa T** (täielik IPB-analüüs).
+5. **Valitsuse tulemused ei teeni peresid.** Sündide langus, usalduse kriis, laste vaesus — vt **Hetke-analüüs** (dokumendi algus) ja **Lisa T** (täielik IPB-analüüs).
 
 **Esimene ukse lahti tegemine:** 1-1 vestlus **Rene Toomsega** on alustatud.
 
@@ -1234,7 +1237,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Takistused ja valideerimine:** Lisa P — `lisad/lisa-p-takistused-ja-valideerimine.md` (spordikommentaator, mis töötab / mis mitte, emotsioonide nägemine)
 - **Side eeskirjad:** Lisa Q — `lisad/lisa-q-side-eeskirjad-ja-suhtlus.md` (hääl, GOTWA, austav keel, demomeeste igapäevane standard)
 - **Kes ma olen (kahtlus / taust):** Lisa R — `lisad/lisa-r-kes-ma-olen-ja-taust.md` (CV, teenistus, koolitused, meedia tõendid)
-- **Valitsuse IPB-analüüs:** Lisa T — `lisad/lisa-t-valitsuse-ipb-analuus.md` (Ranger Handbook, KPI, 13 ministrit, show me the money)
+- **Valitsuse hetke-analüüs:** Lisa T — `lisad/lisa-t-valitsuse-ipb-analuus.md` (Ranger Handbook, KPI, 13 ministrit, show me the money)
 - **Koordinaatori profiil:** `lisad/renee-aluste-profiil.md` (eraldi leht)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
 - **Signaal OPERATSIOON TÄIDETUD:** Kui ühiskondlikud mõõdikud näitavad paranemist — üksikemade arv langeb, kiusamine väheneb, inimesed räägivad vastutusest.
@@ -2099,7 +2102,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **P** | — | `lisad/lisa-p-takistused-ja-valideerimine.md` | **Takistused ja valideerimine** — spordikommentaator, van der Kolk, paranemis-teadlikkus |
 | **Q** | — | `lisad/lisa-q-side-eeskirjad-ja-suhtlus.md` | **Side eeskirjad** — hääl, GOTWA, austav keel, Pareto 80/20, demomehed |
 | **S** | — | `lisad/lisa-s-kiusamine-aju-ja-trauma.md` | **Kiusamine, aju ja trauma** — *Imeline Teadus*, miks inimesed käituvad nii, Body Keeps the Score |
-| **T** | — | `lisad/lisa-t-valitsuse-ipb-analuus.md` | **Valitsuse IPB-analüüs** — Ranger Handbook, KPI/OKR, 13 ministrit, hüpoteesid, traumateadlikkuse nõue |
+| **T** | — | `lisad/lisa-t-valitsuse-ipb-analuus.md` | **Valitsuse hetke-analüüs** — IPB raamistik, KPI/OKR, 13 ministrit, ellujäämisrežiim, tagasiside puudumine |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

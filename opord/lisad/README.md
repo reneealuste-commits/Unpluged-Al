@@ -45,6 +45,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | AI | [lisa-ai-epp-karsin-armastus-paabstab-maailma.md](lisa-ai-epp-karsin-armastus-paabstab-maailma.md) | **Armastus päästab maailma** — Epp Kärsin, tankla hetk, avalik postitus |
 | AJ | [lisa-aj-levitamine-ja-kuldne-taganemistee.md](lisa-aj-levitamine-ja-kuldne-taganemistee.md) | **Levitamine** — kontrollitud lugemine, kuldne taganemistee, lugemiskinnitus, kuller + vahapitsat |
 | AK | [lisa-ak-kodaniku-taskuraamat-peegel.md](lisa-ak-kodaniku-taskuraamat-peegel.md) | **Kodaniku taskuraamat** — Ranger Handbooki mõõt, eelarve, bushcraft, ohtlikkus (side quest) |
+| AL | [lisa-al-riiklik-levitamisplaan-shveits-mudel.md](lisa-al-riiklik-levitamisplaan-shveits-mudel.md) | **Riiklik levitamisplaan** — Šveitsi mudel, iga kodanik, MTÜ, riigihanke, kihtide trükk |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
 ---

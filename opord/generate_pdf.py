@@ -62,6 +62,7 @@ BOOK_FILES = [
     "lisa-ai-epp-karsin-armastus-paabstab-maailma.md",
     "lisa-aj-levitamine-ja-kuldne-taganemistee.md",
     "lisa-ak-kodaniku-taskuraamat-peegel.md",
+    "lisa-al-riiklik-levitamisplaan-shveits-mudel.md",
     "renee-aluste-profiil.md",
 ]
 

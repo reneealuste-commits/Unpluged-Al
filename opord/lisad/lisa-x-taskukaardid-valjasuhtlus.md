@@ -4,7 +4,7 @@
 
 > *Kui sa ei kirjuta seda ise märkmikku — see ei jää meelde. Taskukaart on **alguspunkt**, mitte šabloon mällu.*
 
-**Seotud:** Lisa Q (side, GOTWA, hääl), Lisa P (valideerimine, spordikommentaator), Lisa M (identiteet), Lisa N (demomehed)
+**Seotud:** Lisa Q (side, GOTWA, hääl), Lisa P (valideerimine, spordikommentaator), Lisa M (identiteet), Lisa N (demomehed), **Lisa AD** (lood — *kuidas* sõnumit edastada)
 
 ---
 
@@ -206,6 +206,7 @@ Pärast kohtumist:
 | **P** | Spordikommentaator, valideerimine, trigger |
 | **M** | Identiteet, kodaniku vanne — *kes ma olen, kui räägin* |
 | **N** | Demomeeste igapäevane standard |
+| **AD** | Loo checklist — *kuidas* sõnumit edastada (Lisa X = *mida*) |
 | **H** | Kriisinumbrid — anna, ära „ravi" ise |
 
 ---

@@ -12,6 +12,7 @@
 **Toidu uurimustöö (PDF):** [TOITUMINE_UURIMUSTOO.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/TOITUMINE_UURIMUSTOO.pdf) · [markdown](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/lisad/toitumine-uurimustoo.md) · Lisa U  
 **Kogu pakett (ZIP):** [Operatsioon-Peegel-kogu-pakett.zip](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/Operatsioon-Peegel-kogu-pakett.zip) — kõik lisad, PDF-id, pildid  
 **Taskukaardid (Lisa X):** [TASKUKAARDID_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/TASKUKAARDID_PRINT.pdf) · [rahakott 85×55mm](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/TASKUKAARDID_RAHAKOTT.pdf) · [LENDLEHT_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/LENDLEHT_PRINT.pdf)  
+**Lood ja konversioon (Lisa AD):** [LOO_CHECKLIST_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/LOO_CHECKLIST_PRINT.pdf) · [LOO_TASKUKAARDID_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/LOO_TASKUKAARDID_PRINT.pdf) · [LOO_TASKUKAARDID_RAHAKOTT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/LOO_TASKUKAARDID_RAHAKOTT.pdf)  
 **Repo / PR:** [github.com/reneealuste-commits/Unpluged-Al/pull/1](https://github.com/reneealuste-commits/Unpluged-Al/pull/1)
 
 > *Struktuur järgib OPORD-i (viis punkti: olukord, ülesanne, täideviimine, teenindus, juhtimine). Inimestele suunatud nimetus on **paranemis-teekond** — mitte sõjaline käsk. Sõna „käsk" võib triggerdada kaitsepositsiooni (Lisa P, van der Kolk).*
@@ -39,7 +40,7 @@
 
 **Elu naudingud on seotud teadmisega.** Kui sa mõistad, kuidas su keha töötab — uni, toit, hormoonid, närvisüsteem, stress — saad teha **paremaid otsuseid enda kohta**. See kehtib ka intiimsuse kohta: **teil kõigil on parem ja nauditavam seksuaalelu, kui teil on info, kuidas keha toimib.**
 
-**Inimesed õpivad lugude kaudu** — mitte ainult tabelitest. Epp Kärsin Pühalis: *To heal is to feel.*
+**Inimesed õpivad lugude kaudu** — mitte ainult tabelitest. See on alati olnud info edasiandmise meetod. Kasuta võimalusel **alati** lugu. See pole midagi muud kui **checklisti järgimine** — **Lisa AD** (konversiooni loo 7 sammu, prinditav checklist, taskukaardid, mida öelda kui keegi vastu hakkab). Epp Kärsin Pühalis: *To heal is to feel.*
 
 ### KRIITILINE REEGEL — loe enne kõike muud (Lisa P)
 
@@ -1320,6 +1321,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Intiimsuse atlas, keha, orgasmid, yoni koolitus:** Lisa AA — `lisad/lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md` (Walsberg 2024, vibraatori ajalugu, **Epp Kärsin** — pane end kirja: eppkarsin.com)
 - **Paljajalu kohandamine ja rippumine linnas:** Lisa AB — `lisad/lisa-ab-paljajalu-ja-rippumine-linnas.md` (muruväljakud, Korea mudel, **90 sek rippumist päevas**, Vanja Moves / schoolofmobility.com)
 - **Magamistuba, võim ja revolutsioon:** Lisa AC — `lisad/lisa-ac-magamistuba-voim-ja-revolutsioon.md` (naised ei ole kurjad; mehe ownership; näita teed — Epp, Intiimsuse atlas)
+- **Lood, konversiooni checklist, taskukaardid:** Lisa AD — `lisad/lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md` (7 sammu, prinditav checklist, mida öelda kui keegi vastu hakkab)
 - **Koordinaatori profiil:** `lisad/renee-aluste-profiil.md` (eraldi leht)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
 - **Signaal OPERATSIOON TÄIDETUD:** Kui ühiskondlikud mõõdikud näitavad paranemist — üksikemade arv langeb, kiusamine väheneb, inimesed räägivad vastutusest.
@@ -1811,6 +1813,27 @@ Inimesed **õpivad lugude kaudu**. Epp ei rääkinud teooriat Pühalis — ta r�
 **Lisa AA §9** — padjuke, Pühali, täielik lugu. **Lisa S** + van der Kolk — trauma elab kehas. **Lisa H** — kui tunned end ära. See ei asenda teraapiat — see ütleb, kuhu tee viib.
 
 *Minu küsimus sulle: Kas sa lubad end täna **tunda** — või ainult mõelda ja suruda maha?*
+
+---
+
+**K: Miks rääkida lugusid, mitte ainult fakte? Kas see on manipulatsioon?**
+
+**V (Renee Aluste):** Inimesed **mõistavad maailma läbi lugude** — see on alati olnud info edasiandmise meetod. See ei ole trikk. See on **checklist**, nagu demomehe päevane nimekiri (Lisa N) või OPORD-i viis punkti.
+
+**Lisa AD** annab:
+
+| Tööriist | Mida see teeb |
+|----------|---------------|
+| **7-sammu checklist** | KOHAL → AEG → INIMENE → ENNE → HELK → TUNNE → SILD |
+| **Prinditav leht** | `LOO_CHECKLIST_PRINT.pdf` — täida enne vestlust |
+| **3 taskukaarti** | Loo skeem · kuidas alustada · **mida öelda kui keegi vastu hakkab** |
+| **Näidis** | Epp (padjuke), kõnd + ässitaja (ära debatti — üks küsimus) |
+
+**Manipulatsioon** on siis, kui sa valetad või surud. **Lugu** on siis, kui sa järgid checklisti, validideerid (Lisa P) ja lõpetad **ühe küsimusega** — mitte „sa pead uskuma".
+
+Lisa X ütleb *mida* öelda. Lisa AD ütleb *kuidas* — loo kaudu.
+
+*Minu küsimus sulle: Millal sa viimati rääkisid **ühe hetke** loo — mitte loengut?*
 
 ---
 
@@ -2387,6 +2410,8 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **Z** | — | `lisad/lisa-z-linnad-toostusuhiskond-ja-partnerlus.md` | **Linnad = vanglad** — dominantne süsteem; Steiger 1997 vastus; partnerlus |
 | **AA** | — | `lisad/lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md` | **Intiimsuse atlas** — mees/naise erinevus, orgasmid, vibraatori ajalugu, Epp Kärsin yoni koolitus |
 | **AB** | — | `lisad/lisa-ab-paljajalu-ja-rippumine-linnas.md` | **Paljajalu linnas** + **rippumine 90 sek/päev** — Vanja Moves, schoolofmobility.com, omavalitsuse checklist |
+| **AC** | — | `lisad/lisa-ac-magamistuba-voim-ja-revolutsioon.md` | **Magamistuba ja revolutsioon** — võim, ownership, naised ei ole kurjad, näita teed |
+| **AD** | — | `lisad/lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md` | **Lood ja konversioon** — 7-sammu checklist, taskukaardid, mida öelda kui keegi vastu hakkab |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

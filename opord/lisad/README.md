@@ -37,6 +37,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | AA | [lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md](lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md) | **Intiimsuse atlas** — orgasmid, vibraatori ajalugu, Epp Kärsin yoni koolitus |
 | AB | [lisa-ab-paljajalu-ja-rippumine-linnas.md](lisa-ab-paljajalu-ja-rippumine-linnas.md) | **Paljajalu linnas** + **Vanja Moves meeskond** — riippumine 90 sek/päev, tasuta mobility |
 | AC | [lisa-ac-magamistuba-voim-ja-revolutsioon.md](lisa-ac-magamistuba-voim-ja-revolutsioon.md) | **Magamistuba ja revolutsioon** — võim, ownership, näita teed |
+| AD | [lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md](lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md) | **Lood ja konversioon** — 7-sammu checklist, taskukaardid, mida öelda kui keegi vastu hakkab |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
 ---
@@ -75,6 +76,8 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 **Montessori beebi (austus algusest):** Lisa W — 0–3 aastat; *austus = armastus*; stressivaba vanemlus kodus ja lasteaias (Lisa J §5).
 
 **Väljapoole suhtlemine (infooperatsioon):** Lisa X — taskukaardid rahakotti / märkmikku, lendlehe tekst, mida öelda ja millest mitte rääkida.
+
+**Lood ja sõnumi edastamine (kohustuslik praktika):** Lisa AD — inimesed mõistavad maailma läbi lugude; **konversiooni loo checklist** (7 sammu), taskukaardid igale kodanikule, mida öelda kui keegi vastu hakkab. Prindi: `LOO_CHECKLIST_PRINT.pdf`, `LOO_TASKUKAARDID_PRINT.pdf`.
 
 **Kanep, ECS, CBD ja toit (mitte suitsetamine):** Lisa Y — endokannabinoidsüsteem, CBD tooted, kanepiseemneõli, case study'd, varimajandus; kriitiline mõtlemine — ära usu, uuri ise.
 

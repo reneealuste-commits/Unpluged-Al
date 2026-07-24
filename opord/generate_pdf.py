@@ -54,6 +54,7 @@ BOOK_FILES = [
     "lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md",
     "lisa-ab-paljajalu-ja-rippumine-linnas.md",
     "lisa-ac-magamistuba-voim-ja-revolutsioon.md",
+    "lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md",
     "renee-aluste-profiil.md",
 ]
 

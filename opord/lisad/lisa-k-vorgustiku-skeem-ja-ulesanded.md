@@ -380,6 +380,13 @@
 - **Eesmärk:** Häbist vabanemine; stressi vabastamine kehas; päris orgasmid, mitte teesklmine
 - **Ülesanne:** [eppkarsin.com](https://www.eppkarsin.com) — **pane end kirja** yoni koolitusele (naised + mehed); tel **5362 8568**
 
+#### Vanja Moves meeskond — Liikuvus ja vigastuste ennetus
+
+- **Roll:** Mobility, rippumine 90 sek/päev, vigastuste ennetus — **Lisa AB**
+- **Meeskond:** Vanja Moves · Moves Method · Moves Labs · Josh Fear + treenerid · [schoolofmobility.com](https://schoolofmobility.com)
+- **Eesmärk:** *Stretching master is a surgeon without a knife* — liigu enne operatsiooni; alusta **tasuta** (YouTube, podcast, Skool)
+- **Ülesanne:** Vaata @Movesmethod · Liitu skool.com/movesmethod · Rippu 90 sek päevas · Küsi linnalt rippumisribasid
+
 #### Kristjan Liivamägi — Aasta investor 2022
 
 - **Roll:** TalTech vanemlektor; KML Invest; ELi rahatarkuse saadik
@@ -573,6 +580,7 @@
 | Kristiina Saul | Naiste ringid | Vaimne ärkamine | Töötoad, teraapia |
 | Urmas Sõõrumaa | Pühali | Taastumine looduses | Puhkus, üritused |
 | Epp Kärsin | Teadlik intiimsus | Häbist vabanemine, paaride lähedus | Koolitused, noorte loengud (eppkarsin.com) |
+| Vanja Moves meeskond | Mobility, rippumine | Vigastuste ennetus, 90 sek/päev | YouTube @Movesmethod, schoolofmobility.com — **Lisa AB** |
 | Kaia Kapsta-Forrester | Pere- ja paariteraapia | Tugev pere, kriis ennetus | IMAGO, PREP, raseduskriis (kaiakapsta.com) |
 | Kert Grünberg | Trauma, hingamine | Keha taastumine, kaassõltuvus | TRE, regressioon (hingamistuba.ee) |
 | Jure Biechonski | Transpersonaalne teraapia | Alateadlikud mustrid, psühhosomaatika | THA, hüpnoteraapia (teadlikmina.ee) |
@@ -662,6 +670,7 @@
 | Alar Ojastu | Koolitaja, autor | *Ratsionaalne emotsionaalsus*; emotsioonid ja juhtimine |
 | Tiit Trofimov | Enesearengu teejuht | Emotsioonid, meeste ring, meditatsioon (tiittrofimov.ee) |
 | Epp Kärsin | Amare Luna / eppkarsin.com | Yoni koolitus, intiimsus — **Lisa AA**; pane end kirja |
+| Vanja Moves meeskond | vanjamoves.com / movesmethod.com | Mobility, rippumine 90 sek — **Lisa AB**; tasuta YouTube |
 | Kaia Kapsta-Forrester | Pere- ja paaripsühholoog | IMAGO, PREP, raseduskriis (kaiakapsta.com) |
 | Kert Grünberg | Holistiline regressiooniterapeut | Trauma, TRE, kaassõltuvus (hingamistuba.ee) |
 | Jure Biechonski | Transpersonaalne psühhhoterapeut | THA, hüpnoteraapia (teadlikmina.ee) |

@@ -2,9 +2,9 @@
 
 **Operatsioon „Peegel"** | Ava silmad — uurimustöö | Põhimõte: *keha vajab maad ja õhku*
 
-**Allikad:** Lisa AA §10 (jalanõud, muruväljakud); Lisa Z (linna planeerimine); Lisa L (omavalitsused); Lisa J (koolid); **Vanja Moves** — [schoolofmobility.com](https://schoolofmobility.com) · [vanjamoves.com](https://vanjamoves.com); Uijeongbu / Hanam (Korea) paljajalu teede mudel; Women's Health (Vanja Moves intervjuu).
+**Allikad:** Lisa AA §10 (jalanõud, muruväljakud); Lisa Z (linna planeerimine); Lisa L (omavalitsused); Lisa J (koolid); **Vanja Moves meeskond** — [schoolofmobility.com](https://schoolofmobility.com) · [vanjamoves.com](https://vanjamoves.com) · [movesmethod.com](https://movesmethod.com); Uijeongbu / Hanam (Korea) paljajalu teede mudel; Women's Health (Vanja Moves intervjuu).
 
-> *?? **Ära usu mind. Kaitse eelkõige oma uskumusi ja veendumusi.** Uuri. Kaalu. Vali ise.*
+> *🫡 **Ära usu mind. Kaitse eelkõige oma uskumusi ja veendumusi.** Uuri. Kaalu. Vali ise.*
 
 > *Inimene ei ole loodud ainult asfaldil ja kontoris toolil. Me oleme ahvid — me vajame **murdu jalge all** ja **rippumist** õhus. Linn planeerib auto ja kõva pinna jaoks. Keha vajab midagi muud.*
 
@@ -21,7 +21,7 @@
 
 **Üks lause:**
 
-> *Linn peab tagama pehme pinnad jalgele ja rippumiskohad kätele — mitte ainult asfaldi ja tooli. Inimene vajab **90 sekundit rippumist päevas**. Seda õpetab **Vanja Moves** (schoolofmobility.com).*
+> *Linn peab tagama pehme pinnad jalgele ja rippumiskohad kätele — mitte ainult asfaldi ja tooli. Inimene vajab **90 sekundit rippumist päevas**. Seda õpetab **Vanja Moves meeskond** (schoolofmobility.com).*
 
 ---
 
@@ -100,7 +100,53 @@ Kui linnas pole veel muruväljakut:
 
 ---
 
-## 3. Rippumine — 90 sekundit päevas
+## 3. Vanja Moves meeskond — mobility ilma noata
+
+> *Üks miljardär on kunagi öelnud: **„A stretching master is a surgeon without a knife."**  
+> Venitamise / liikuvuse meister on kirurg ilma noata. — Renee mäletab; täpne allikas uurimiseks.*
+
+**Renee positsioon:** *Kõik on tasuta — ma ütlen sulle. Alusta tasuta. Ära oota operatsiooni, kui saad liigutada.*
+
+Liikuvus ja vigastuste ennetus ei pea algama operatsioonist ega lõputust füsioterapeudi ahelast. **Vanja Moves meeskond** õpetab: liiguta **õigesti**, **järk-järgult**, **iga päev** — ja keha hakkab ise paranema.
+
+### Kes on meeskond?
+
+| Osaleja | Roll | Link |
+|---------|------|------|
+| **Vanja Moves** | Asutaja, liikumise õpetaja; endine prof.tennisist; sporditeadus + toitumine | [vanjamoves.com](https://vanjamoves.com) |
+| **Moves Method** | Lipulaev — Mobility Toolkit, 200 000+ õpilast, 45+ riiki | [movesmethod.com](https://movesmethod.com) |
+| **Moves Labs** | Uurimine, tööriistad, laiendused | [movesmethodlabs.com](https://www.movesmethodlabs.com) |
+| **schoolofmobility.com** | **Mobility & Injury Prevention Training** — Vanja Moves kursus | [schoolofmobility.com](https://schoolofmobility.com) |
+| **Josh Fear** + meeskond | Skooli kogukond, juhendajad, klienditugi (191k+ liiget Skoolis) | [skool.com/movesmethod](https://www.skool.com/movesmethod) |
+| **1:1 coaching** | Vanja + Moves Method treenerid (kõrgeim tase) | [movesmethod.com/applynow](https://movesmethod.com/applynow) |
+
+**Filosoofia:** liikuvus ei ole passiivne venitamine — see on **teenitud tugevus** täises ulatuses. Rippumine, kükki, roomamine — põhiliikumised, mida inimkeha vajab.
+
+### Mis on tasuta? (Renee rõhutab)
+
+| Tasuta | Kirjeldus |
+|--------|-----------|
+| **YouTube @Movesmethod** | 680 000+ tellijat; iganädalased õpetused, mobility flow'd, rippumine, kükki |
+| **Making Moves podcast** | Vanja Moves — liikumine, longevity, närvisüsteem |
+| **Instagram / sotsiaalmeedia** | Lühivideod, igapäevased liikumised |
+| **Skooli kogukond** | Ligipääs teadmisele ja kogukonnale — alusta siit |
+| **Kõnnid murul, rippumine platsil** | Linn + keha — ei maksa midagi |
+
+> *Sa ei pea ootama arsti või kirurgi. Alusta **täna** — 90 sekundit rippumist, 5 minutit murul. Tasuta.*
+
+**Tasuline (valikuline):** Mobility Toolkit lipulaev, 1:1 coaching — kui tahad sügavamat struktuuri. Aga **algus on tasuta**.
+
+### Tsitaat operatsioonis
+
+```
+Kirurg lõikab.
+Venitamise / liikuvuse meister parandab ilma noata.
+Mida varem sa liigutad — seda vähem sa vajad noa all olla.
+```
+
+---
+
+## 4. Rippumine — 90 sekundit päevas
 
 ### Miks rippumine?
 
@@ -112,7 +158,7 @@ Inimene on **ahv** — meie eellased rippusid ja ronisid. Tänapäeva linn eemal
 | Selg „laptopi kumer" | Selja dekompressioon **aktiivse** rippumise kaudu |
 | Haare nõrgeneb (vanus) | Haare tugevus — **pikaealisuse** indikaator (uuringud) |
 
-**Vanja Moves** (Moves Method, schoolofmobility.com) õpetab: rippumine ei ole „venitamine pärast trenni" — see on **põhiliikumine**, mida tuleb **teenida** järk-järgulise koormusega.
+**Vanja Moves meeskond** õpetab: rippumine ei ole „venitamine pärast trenni" — see on **põhiliikumine**, mida tuleb **teenida** järk-järgulise koormusega.
 
 ### 90 sekundit päevas — miinimum
 
@@ -143,7 +189,7 @@ Renee positsioon operatsioonis:
 
 ---
 
-## 4. Rippumisvõimalused linnaruumis — suurendada ja lisada
+## 5. Rippumisvõimalused linnaruumis — suurendada ja lisada
 
 ### Mida linnas praegu tihti on (ja mida pole)
 
@@ -169,8 +215,8 @@ Renee positsioon operatsioonis:
 ### Näide — „keha sõlm" linnaosas
 
 ```
-[ Muruväljak / paljajalu tee ]  ??  [ Rippumisribad + tõmbekang ]
-         ?                                    ?
+[ Muruväljak / paljajalu tee ]  <-  [ Rippumisribad + tõmbekang ]
+         ^                                    ^
     jalad tunnevad maad                  käed 90 sek päevas
 ```
 
@@ -184,13 +230,13 @@ Renee positsioon operatsioonis:
 
 ---
 
-## 5. Case study'd — mudelid
+## 6. Case study'd — mudelid
 
 ### Case 1 — Uijeongbu (Korea): 36 paljajalu / metsateed
 
 | | |
 |--|--|
-| **Mudel** | Tühjad krundid kortermajade kõrval ? paljajalu teed + metsarajad |
+| **Mudel** | Tühjad krundid kortermajade kõrval -> paljajalu teed + metsarajad |
 | **Tulemus** | Kodanik käib **enne/pärast tööd** — ei pea autoga minema |
 | **Õppetund** | Planeeritud käsiraamat + visuaalne identiteet = skaleeritav |
 
@@ -210,7 +256,15 @@ Renee positsioon operatsioonis:
 | **Mõne nädala pärast** | 30 sekundit iseseisvalt |
 | **Õppetund** | **90 sek päevas** on võimalik — aga järk-järgult |
 
-### Case 4 — Eesti omavalitsus (hypothetical)
+### Case 4 — „Kirurg ilma noata"
+
+| | |
+|--|--|
+| **Mudel** | Igapäevane liikuvus (rippumine, kükki) — mitte oodata operatsiooni |
+| **Tulemus** | Õlad, puusad, selg — ilma lõiketa |
+| **Õppetund** | *Stretching master is a surgeon without a knife* — alusta tasuta YouTube'ist |
+
+### Case 5 — Eesti omavalitsus (hypothetical)
 
 | | |
 |--|--|
@@ -221,50 +275,52 @@ Renee positsioon operatsioonis:
 
 ---
 
-## 6. Mida sa saad teha täna
+## 7. Mida sa saad teha täna
 
 | Samm | Tegevus |
 |------|---------|
 | 1 | Loe **Lisa AA §10** ja **Lisa Z** — kontekst |
 | 2 | Kõnni **murul paljajalu** 5 min — või leia lähim muruväljak |
 | 3 | **Rippu** — alusta tooli abiga; eesmärk **90 sek** kogumis päevas |
-| 4 | Uuri **Vanja Moves**: [schoolofmobility.com](https://schoolofmobility.com) · [vanjamoves.com](https://vanjamoves.com) |
-| 5 | Kirjuta omavalitsusele: **muruväljak + rippumisribad** — Lisa L muster |
-| 6 | Kooli juhtkonnale (Lisa J): avatud õu, rippumisribad |
-| 7 | Mine **Pühalisse** — prototüüp pehme pinnaga (puhali.ee) |
+| 4 | Vaata **tasuta**: [YouTube @Movesmethod](https://www.youtube.com/@Movesmethod) · [vanjamoves.com](https://vanjamoves.com) · [schoolofmobility.com](https://schoolofmobility.com) |
+| 5 | Liitu kogukonnaga: [skool.com/movesmethod](https://www.skool.com/movesmethod) |
+| 6 | Kirjuta omavalitsusele: **muruväljak + rippumisribad** — Lisa L muster |
+| 7 | Kooli juhtkonnale (Lisa J): avatud õu, rippumisribad |
+| 8 | Mine **Pühalisse** — prototüüp pehme pinnaga (puhali.ee) |
 
 ---
 
-## 7. AVATUD MEEL — küsimused endale
+## 8. AVATUD MEEL — küsimused endale
 
 1. Kas minu linnas on **muruväljak** — või ainult asfalt?
 2. Millal ma viimati kõndisin **paljajalu murul**?
 3. Kas ma rippusin **täna** — kui mitte, miks mitte?
 4. Kas mul on kodus või tööl **rippumiskoht**?
-5. Kas lähim mänguväljak on **lastele** — aga mitte minu õlalaiusele?
-6. Kas ma tean, et **haare tugevus** seondub pikaealisusega?
+5. Kas ma tean, et **liikuvus võib asendada noa** — kui alustan varakult?
+6. Kas ma olen vaadanud **Vanja Moves tasuta** sisu — või ootan „ideaalset aega"?
 7. Kas ma olen valmis küsima omavalitsuselt **keha infrastruktuuri** — mitte ainult parkla?
 
 ---
 
-## 8. Seosed teiste lisadega
+## 9. Seosed teiste lisadega
 
 | Lisa | Seos |
 |------|------|
-| **AA §9–10** | Epp paljajalu; jalanõude uurimustöö; muruväljakud |
+| **AA §9–10** | Epp paljajalu; jalanõude uurimustöö; muruväljakud; *To heal is to feel* |
 | **Z** | Linna planeerimine, omavalitsused |
-| **L** | Ministeeriumid, planeerimine, Muski lihtsustamine |
+| **L** | Ministeeriumid, planeerimine |
 | **J** | Kooliõued, rippumisribad |
 | **V** | Uni ja taastumine — keha tervik |
 | **H** | Isa kriisis — keha liikumine abiks |
 | **P** | Turvaline progressioon — ära tee liiga palju korraga |
+| **K** | Võrgustiku skeem — Vanja Moves meeskond |
 
 ---
 
-## 9. Üks lause, mida võid jagada
+## 10. Üks lause, mida võid jagada
 
-> **„Inimene on ahv — ta vajab muru jalge all ja 90 sekundit rippumist päevas. Linn peab seda võimaldama. Vanja Moves õpetab, kuidas. Omavalitsus peab ehitama."**
+> **„Stretching master is a surgeon without a knife. Inimene on ahv — ta vajab muru jalge all ja 90 sekundit rippumist päevas. Vanja Moves meeskond õpetab tasuta. Linn peab ehitama."**
 
 ---
 
-*Lisa AB — Operatsioon „Peegel". Uurimustöö ja ettepanekud, mitte meditsiiniline juhend. Enne treeningut: arsti konsultatsioon, kui on vigastus. Kriisis: Lisa H. Vanja Moves: schoolofmobility.com.*
+*Lisa AB — Operatsioon „Peegel". Uurimustöö ja ettepanekud, mitte meditsiiniline juhend. Enne treeningut: arsti konsultatsioon, kui on vigastus. Kriisis: Lisa H. Vanja Moves: vanjamoves.com · movesmethod.com · schoolofmobility.com.*

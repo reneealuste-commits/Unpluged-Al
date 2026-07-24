@@ -547,6 +547,16 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 - **Yoni massaaži koolitus (pane end kirja):** [Naine, tunne oma keha](https://www.eppkarsin.com/et/koolitused/naine-tunne-oma-keha-ehk-yoni-massaazi-koolitus-naistele/8) · [Yoni massaaž meestele](https://www.eppkarsin.com/et/koolitused/yoni-massaazi-koolitus/5) · Stuudio Paldiski mnt 21-1, Tallinn · **5362 8568** · Täielik juhend: **Lisa AA**
 - **Hi on Life @ Pühali:** esinemine Pühali Hea Elu Keskuses (PVC telk, lava) — Renee Aluste tunnistus: siirus, taastumine, padjuke kukla alla (Lisa AA §9)
 
+#### Vanja Moves meeskond — Liikuvus, vigastuste ennetus, rippumine
+
+- **Roll operatsioonis:** Igapäevane liikuvus ja **vigastuste ennetus** — rippumine 90 sek/päev, kükki, täisulatuses tugevus; **kirurg ilma noata** (mobility enne operatsiooni).
+- **Meeskond:** **Vanja Moves** (asutaja) · **Moves Method** (lipulaev, 200 000+ õpilast) · **Moves Labs** · **Josh Fear** + treenerid (Skooli kogukond) · [schoolofmobility.com](https://schoolofmobility.com) — Mobility & Injury Prevention Training.
+- **Taust:** Endine prof.tennisist; sporditeadus ja toitumine; 2M+ kogukond; YouTube @Movesmethod 680K+; *Making Moves* podcast. Filosoofia: **antifragile human** — liikuvus on teenitud tugevus, mitte passiivne venitamine.
+- **Mõjuala:** **Keha linnaruumis** (Lisa AB) — rippumisribad, muruväljakud, 90 sek päevas; täiendab Combat Ready liikumist, Lisa V (uni), Lisa H (taastumine).
+- **Miks ta on siin:** Linn ehitab tooli ja asfaldi, aga mitte rippumiskohti. Inimene on ahv — ta vajab rippumist. Operatsioon ütleb: **alusta tasuta** — YouTube, podcast, Skool — enne kui ootad operatsiooni või lõputut füsioteraapiat.
+- **Tsitaat (Renee mäletab):** *„A stretching master is a surgeon without a knife."* — üks miljardär on seda öelnud; venitamise / liikuvuse meister parandab ilma noata.
+- **Tasuta alustus:** [YouTube @Movesmethod](https://www.youtube.com/@Movesmethod) · [vanjamoves.com](https://vanjamoves.com) · [skool.com/movesmethod](https://www.skool.com/movesmethod) · Täielik juhend: **Lisa AB**
+
 #### Igor Earthchild — Tantra ja teadlik ühendus
 
 ![Igor Earthchild](images/profiles/igor-earthchild.jpg)
@@ -1722,12 +1732,13 @@ Epp rääkis oma teest: enese vastu vägivald, depressioon, alkohol, enesetapu �
 **Lisa AB** (uurimustöö):
 1. **Paljajalu linnaruumis** — muruväljakud igas linnaosas; Korea mudel (paljajalu teed savist/liivast, jalapesu, kingariiul); kooliõued pehme pinnaga; pehmed kõnniteed
 2. **Rippumine** — **vähemalt 90 sekundit päevas** (kogumis, mitte korraga alguses); õlad, haare, selg
-3. **Vanja Moves** — [schoolofmobility.com](https://schoolofmobility.com) · Mobility & Injury Prevention Training; progressioon: abiga 5–10 sek → 20–40 sek → 90 sek+ päevas
-4. **Linn peab ehitama** — kõrged rippumisribad, tõmbekangid väljas, kooliõued avatud; muruväljak + rippumisala **ühes sõlmes**
+3. **Vanja Moves meeskond** — Vanja · Moves Method · Moves Labs · Josh Fear + treenerid; [schoolofmobility.com](https://schoolofmobility.com) · [YouTube @Movesmethod](https://www.youtube.com/@Movesmethod) — **tasuta alustus**
+4. **„Stretching master is a surgeon without a knife"** — liigu enne operatsiooni; progressioon: abiga 5–10 sek → 20–40 sek → 90 sek+ päevas
+5. **Linn peab ehitama** — kõrged rippumisribad, tõmbekangid väljas, kooliõued avatud; muruväljak + rippumisala **ühes sõlmes**
 
-Lisa Z (planeerimine), Lisa L (omavalitsus), Lisa J (koolid).
+Lisa Z (planeerimine), Lisa L (omavalitsus), Lisa J (koolid), Lisa K (võrgustik).
 
-*Minu küsimus sulle: Kas sinu linnas on muruväljak ja rippumisribad — või ainult asfalt ja tool?*
+*Minu küsimus sulle: Kas sa oled vaadanud Vanja Moves tasuta sisu — või ootad „ideaalset aega"?*
 
 ---
 
@@ -1742,6 +1753,26 @@ Inimesed **õpivad lugude kaudu**. Epp ei rääkinud teooriat Pühalis — ta r�
 **Lisa AA §9** — padjuke, Pühali, täielik lugu. **Lisa S** + van der Kolk — trauma elab kehas. **Lisa H** — kui tunned end ära. See ei asenda teraapiat — see ütleb, kuhu tee viib.
 
 *Minu küsimus sulle: Kas sa lubad end täna **tunda** — või ainult mõelda ja suruda maha?*
+
+---
+
+**K: Kes on Vanja Moves meeskond? Miks „stretching master is a surgeon without a knife"?**
+
+**V (Renee Aluste):** **Vanja Moves meeskond** — liikuvus ja vigastuste ennetus ilma noata:
+
+| Osaleja | Roll |
+|---------|------|
+| **Vanja Moves** | Asutaja, liikumise õpetaja |
+| **Moves Method** | Lipulaev — 200 000+ õpilast |
+| **Moves Labs** | Tööriistad ja uurimine |
+| **Josh Fear** + treenerid | Skooli kogukond, juhendamine |
+| **schoolofmobility.com** | Mobility & Injury Prevention Training |
+
+Üks miljardär on öelnud: **„A stretching master is a surgeon without a knife."** Venitamise / liikuvuse meister on kirurg ilma noata. **Kõik on tasuta** — ma ütlen sulle. Alusta YouTube'ist (@Movesmethod), podcastist, Skoolist. Ära oota operatsiooni, kui saad liigutada.
+
+**Lisa AB §3** — täielik meeskond, tasuta ressursid, 90 sek rippumist päevas.
+
+*Minu küsimus sulle: Millal sa viimati rippusid 90 sekundit — ja kas sa teadsid, et see võib olla tasuta?*
 
 ---
 

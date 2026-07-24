@@ -14,13 +14,23 @@
 |------|------|-----|
 | **1. Sisu** | See dokument — kaks taskukaarti + lendlehe tekst | Valmis (Lisa X) |
 | **2. Ümber kirjutamine** | Iga osaleja **kirjutab käsitsi** oma märkmikku või taskukaardi tühjale paberile | **Sina** — enne esimest kontakti |
-| **3. Prindi failid** | Sina annad disaini (PDF/Canva); me hoiame **teksti** siin repos uuendatuna | Sina prindid |
+| **3. Prindi failid** | Prindi PDF-id allpool; **kirjuta seejärel märkmikku** | Valmis repos |
 | **4. Demomehed** | Üks taskukaart taskus + üks lause päevas päris vestluses | Lisa N üksus |
 | **5. Lendlehed** | Jaotamine kohtumistel, BNI, koolides — **mitte** tänaval ründavalt | Koordineeritud |
 
 **Miks käsitsi?** Sõdurikaart Kevadtormis töötab samuti: sa **tead**, mis seal on, sest sa oled seda läbi mõelnud. Kopeeritud plastik ei jää.
 
-**Formaat rahakotti:** prindi A4, lõika **2× kaheks** (neli väikest kaarti lehelt) või voldi üks A6 pooleks. Soovituslik lõplik suurus: **~85 × 55 mm** (nagu pangakaart).
+**Formaat rahakotti:** prindi `TASKUKAARDID_RAHAKOTT.pdf` — lõika **85 × 55 mm** (8 kaarti A4-l). Loetavam versioon: `TASKUKAARDID_PRINT.pdf` (A4, lõika pooleks).
+
+### Prindifailid (PDF)
+
+| Fail | Kasutus | Link |
+|------|---------|------|
+| **TASKUKAARDID_PRINT.pdf** | 2 kaarti + märkmiku leht (loetav) | [laadi alla](../TASKUKAARDID_PRINT.pdf) |
+| **TASKUKAARDID_RAHAKOTT.pdf** | 8 mini-kaarti (85×55 mm, rahakott) | [laadi alla](../TASKUKAARDID_RAHAKOTT.pdf) |
+| **LENDLEHT_PRINT.pdf** | A5 lendleht jaotamiseks | [laadi alla](../LENDLEHT_PRINT.pdf) |
+
+Uuendamine: `python3 generate_taskukaardid_pdf.py`
 
 ---
 

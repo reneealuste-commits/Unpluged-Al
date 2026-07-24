@@ -13,6 +13,8 @@ Eesti keeles koostatud viiepunktiline **paranemis-teekond** (OPORD-formaat) vast
 | Formaat | Link |
 |---------|------|
 | **ZIP — kogu pakett** (kõik lisad + PDF-id + pildid) | [Laadi alla Operatsioon-Peegel-kogu-pakett.zip](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/Operatsioon-Peegel-kogu-pakett.zip) |
+| **Taskukaardid (prindi)** | [TASKUKAARDID_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/TASKUKAARDID_PRINT.pdf) · [rahakott](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/TASKUKAARDID_RAHAKOTT.pdf) |
+| **Lendleht (prindi)** | [LENDLEHT_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/LENDLEHT_PRINT.pdf) |
 | **PDF** (soovitatav) | [Laadi alla OPERATSIOON_PEEGEL_OPORD.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_OPORD.pdf) |
 | **Toidu uurimustöö (PDF)** | [Laadi alla TOITUMINE_UURIMUSTOO.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/TOITUMINE_UURIMUSTOO.pdf) |
 | **Markdown** | [OPERATSIOON_PEEGEL_OPORD.md](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_OPORD.md) |
@@ -40,7 +42,8 @@ Eesti keeles koostatud viiepunktiline **paranemis-teekond** (OPORD-formaat) vast
 ```bash
 cd opord
 python3 generate_pdf.py
-python3 generate_toidu_pdf.py   # Lisa T — toidu uurimustöö
+python3 generate_toidu_pdf.py    # toidu uurimustöö PDF
+python3 generate_taskukaardid_pdf.py  # Lisa X taskukaardid + lendleht
 ```
 
 ## Struktuur

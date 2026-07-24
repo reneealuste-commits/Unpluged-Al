@@ -2482,6 +2482,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **AH** | — | `lisad/lisa-ah-leelo-vahersalu-taust.md` | **Leelo Vahersalu** — puutöö klient, presidendi tunnustus, PERH Paldiski mnt 52, noorte vaimne tervis |
 | **AI** | — | `lisad/lisa-ai-epp-karsin-armastus-paabstab-maailma.md` | **Armastus päästab maailma** — Epp Kärsin kaart tanklas; avalik postitus |
 | **AJ** | — | `lisad/lisa-aj-levitamine-ja-kuldne-taganemistee.md` | **Levitamine** — kontrollitud lugemine, kuldne taganemistee, lugemiskinnitus, kuller + vahapitsat |
+| **AK** | — | `lisad/lisa-ak-kodaniku-taskuraamat-peegel.md` | **Kodaniku taskuraamat** — Ranger Handbooki mõõt, eelarve, bushcraft, ohtlikkus (side quest) |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

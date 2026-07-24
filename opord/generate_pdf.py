@@ -61,6 +61,7 @@ BOOK_FILES = [
     "lisa-ah-leelo-vahersalu-taust.md",
     "lisa-ai-epp-karsin-armastus-paabstab-maailma.md",
     "lisa-aj-levitamine-ja-kuldne-taganemistee.md",
+    "lisa-ak-kodaniku-taskuraamat-peegel.md",
     "renee-aluste-profiil.md",
 ]
 

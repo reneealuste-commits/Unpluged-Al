@@ -1247,6 +1247,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Uni, Why We Sleep, ava silmad:** Lisa V — `lisad/lisa-v-uni-miks-me-magame.md` (Matthew Walker, une teadus, 25 küsimust, uni enne ATH-silti)
 - **Montessori beebi, austus algusest:** Lisa W — `lisad/lisa-w-montessori-beebi-austus-algusest.md` (0–3, *austus = armastus*, stressivaba vanemlus)
 - **Taskukaardid, väljapoole suhtlemine:** Lisa X — `lisad/lisa-x-taskukaardid-valjasuhtlus.md` (OPSEC, 5 teemat, lendleht, märkmikku kirjutamine)
+- **Kanep, endokannabinoidsüsteem, keelustamise ajalugu:** Lisa Y — `lisad/lisa-y-kanep-endokannabinoid-ja-ajalugu.md` (ECS, THC, miks keelati, avatud meel)
 - **Koordinaatori profiil:** `lisad/renee-aluste-profiil.md` (eraldi leht)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
 - **Signaal OPERATSIOON TÄIDETUD:** Kui ühiskondlikud mõõdikud näitavad paranemist — üksikemade arv langeb, kiusamine väheneb, inimesed räägivad vastutusest.
@@ -1584,6 +1585,24 @@ Matthew Walker (*Why We Sleep*, ISBN 978-0-141-9835-6-9) kogus teaduse, mida koo
 Me ei ütle „mag 8 tundi või oled läbikukkuja". Me ütleme: **ava silmad**. Mõõda. Küsi endalt — kas su ärrituvus, nälg või halvad otsused on seotud unega? Räägi perearstiga. Loe **Lisa V** — 25 küsimust endale.
 
 *Minu küsimus sulle: Mitu tundi sa tõesti magasid viimased seitse ööd — mitte voodis, vaid magades?*
+
+---
+
+**K: Miks räägite kanepist? See on ju uimasti — miks see operatsioonis on?**
+
+**V (Renee Aluste):** Aus küsimus. Me ei ütle „suitseta". Me ütleme: **ava silmad**.
+
+Sinu kehas on **endokannabinoidsüsteem** — retseptorid ja molekulid (anandamiid, 2-AG), mis reguleerivad und, valu, ärevust, immuunsust. See avastati osaliselt kanepiuuringute kaudu. Taim on olnud inimkonna juures **tuhandeid aastat**. Aga Eestis on rekreaatsiooniline kasutamine **endiselt keelatud** — ja me ei õigusta seaduse rikkumist.
+
+**Miks see siin on:**
+
+1. **Surve on reaalne** — inimesed otsivad rahu (Lisa V, Lisa H). Mõni läheb illegaalse kanali kaudu. Operatsioon küsib: kas poliitika teenib inimest?
+2. **Keelustamise ajalugu on mitmekihtiline** — moraalne paanika, rahvusvahelised lepingud, farma monopol, must turg. Lihtne „DuPont vandenõu" lugu on osaliselt ekslik (Hall 2026), aga **huvid on reaalsed**.
+3. **Sümptomi kustutamine** — kanep, alkohol, tablett ilma juurta (uni, teraapia, struktuur) on sama muster, mida e-sliinil näeme.
+
+Taastumise järjekord ei muutu: vaimne abi → uni, liikumine, toit → struktuur. **Lisa Y** — ECS, ajalugu, 17 küsimust endale. Kriisis: narko.ee **641 4110**, Eluliin **655 8088**.
+
+*Minu küsimus sulle: Kas sa teadsid, et sul on endokannabinoidsüsteem — enne kui lugesid seda?*
 
 ---
 
@@ -2136,6 +2155,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **V** | — | `lisad/lisa-v-uni-miks-me-magame.md` | **Uni** — Matthew Walker *Why We Sleep*; NREM/REM, uni ja aju, müüdid vs faktid, 25 avatud meele küsimust |
 | **W** | — | `lisad/lisa-w-montessori-beebi-austus-algusest.md` | **Montessori beebi** — austus algusest (0–3); *austus = armastus*; stressivaba vanemlus, kodus ja lasteaias |
 | **X** | — | `lisad/lisa-x-taskukaardid-valjasuhtlus.md` | **Taskukaardid** — väljapoole suhtlemine, OPSEC, 5 teemat, lendlehe tekst, demomehed |
+| **Y** | — | `lisad/lisa-y-kanep-endokannabinoid-ja-ajalugu.md` | **Kanep ja ECS** — endokannabinoidsüsteem, THC, keelustamise ajalugu, surve ja rahu |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

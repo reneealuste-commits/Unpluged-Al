@@ -2489,6 +2489,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **AL** | — | `lisad/lisa-al-riiklik-levitamisplaan-shveits-mudel.md` | **Riiklik levitamisplaan** — Šveitsi mudel, iga kodanik, MTÜ, riigihanke, kihtide trükk |
 | **AM** | — | `lisad/lisa-am-oigused-ja-realistlik-maht.md` | **Õigused ja realistlik maht** — Huber päring, turu matemaatika, kaks rada (Heli tagasiside) |
 | **AN** | — | `lisad/lisa-an-venekeelne-sihtruhm-ja-inimesekeskne-levitus.md` | **Venekeelne sihtrühm** — Heli piir, eraldi kanal, trauma-teadlik levitus, lihtsus |
+| **AO** | — | `lisad/lisa-ao-ultimate-power-kokkuvote.md` | **Ultimate Power kokkuvõte** — Buffalmano, Peegli filter, demomehe tööriistakast |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

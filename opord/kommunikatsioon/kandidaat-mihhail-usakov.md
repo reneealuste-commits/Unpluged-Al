@@ -1,6 +1,6 @@
 # Kandidaat: Mihhail Ušakov — venekeelne demomees
 
-**Seotud:** Lisa AN §10, Lisa N (demomehed)
+**Seotud:** Lisa AN §10, Lisa N (demomehed), **Lisa AO** (Ultimate Power — grit/confidence demomehele)
 
 ---
 
@@ -42,5 +42,6 @@
 ## Kui ta ütleb jah
 
 1. Saada Lisa N checklist (vene keeles kokkuvõte)
-2. Üks 3-min lugu tema sõnadega (audio)
-3. Mitte avalik press — esmalt 10 inimest tema ringkonnas
+2. Lisa AO §5 üks lause (RU) + grit/kickbox seos
+3. Üks 3-min lugu tema sõnadega (audio)
+4. Mitte avalik press — esmalt 10 inimest tema ringkonnas

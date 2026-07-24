@@ -48,6 +48,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | AL | [lisa-al-riiklik-levitamisplaan-shveits-mudel.md](lisa-al-riiklik-levitamisplaan-shveits-mudel.md) | **Riiklik levitamisplaan** — Šveitsi mudel, iga kodanik, MTÜ, riigihanke, kihtide trükk |
 | AM | [lisa-am-oigused-ja-realistlik-maht.md](lisa-am-oigused-ja-realistlik-maht.md) | **Õigused ja realistlik maht** — Huber päring, turu matemaatika, kaks rada (Heli tagasiside) |
 | AN | [lisa-an-venekeelne-sihtruhm-ja-inimesekeskne-levitus.md](lisa-an-venekeelne-sihtruhm-ja-inimesekeskne-levitus.md) | **Venekeelne sihtrühm** — Heli piir, eraldi kanal, trauma-teadlik levitus, lihtsus |
+| AO | [lisa-ao-ultimate-power-kokkuvote.md](lisa-ao-ultimate-power-kokkuvote.md) | **Ultimate Power kokkuvõte** — Buffalmano, Peegli filter, demomehe tööriistakast |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
 ---

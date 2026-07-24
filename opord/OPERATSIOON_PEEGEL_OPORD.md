@@ -40,6 +40,21 @@
 | Võta vastu ilma uurimata | Uuri enne otsust — toit, uni, stress, intiimsus, seadus |
 | Lõpeta elu surve all | **Naudi seda, mis on veel võimalik** — tervis, lähedus, keha, mõistmine |
 
+### Lugejateed — alusta õigest kohast (Lisa AP)
+
+Sa ei pea lugema kõike. Vali **üks tee** oma olukorra jaoks:
+
+| Tee | Kellele | Alusta siit |
+|-----|---------|-------------|
+| **A** Isa kriisis | Pere kriis, kiire abi | Lisa **H** → raamat **F** → Lisa **P** |
+| **B** Skeptik | Ei usu kohe, tahad fakte | See põhimõte → Lisa **R** → Lisa **T** |
+| **C** Pere | Tugevdada kodu ja last | Raamat **A** → **D** → **E** → Lisa **M** |
+| **D** Demomees | SOK, eeskuju kogukonnas | Lisa **N** → **I** → **Q** |
+| **E** Venekeelne | RU kodanik Eestis | `kiht0-ru-tuum-1-leht.md` → Lisa **AN** |
+| **F** Juht / koolitus | KV, kool, organisatsioon | Lisa **I** → **P** → **L** |
+
+Täielik SWOT ja lugeja-audit: **Lisa AP**. Auditi skoor (2026-07-24): **6,9/10** — valmis piiratud levituseks demomeestele.
+
 **Elu naudingud on seotud teadmisega.** Kui sa mõistad, kuidas su keha töötab — uni, toit, hormoonid, närvisüsteem, stress — saad teha **paremaid otsuseid enda kohta**. See kehtib ka intiimsuse kohta: **teil kõigil on parem ja nauditavam seksuaalelu, kui teil on info, kuidas keha toimib.**
 
 **Inimesed õpivad lugude kaudu** — mitte ainult tabelitest. See on alati olnud info edasiandmise meetod. Kasuta võimalusel **alati** lugu. See pole midagi muud kui **checklisti järgimine** — **Lisa AD** (konversiooni loo 7 sammu, prinditav checklist, taskukaardid, mida öelda kui keegi vastu hakkab). Epp Kärsin Pühalis: *To heal is to feel.*
@@ -2490,6 +2505,8 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **AM** | — | `lisad/lisa-am-oigused-ja-realistlik-maht.md` | **Õigused ja realistlik maht** — Huber päring, turu matemaatika, kaks rada (Heli tagasiside) |
 | **AN** | — | `lisad/lisa-an-venekeelne-sihtruhm-ja-inimesekeskne-levitus.md` | **Venekeelne sihtrühm** — Heli piir, eraldi kanal, trauma-teadlik levitus, lihtsus |
 | **AO** | — | `lisad/lisa-ao-ultimate-power-kokkuvote.md` | **Ultimate Power kokkuvõte** — Buffalmano, Peegli filter, demomehe tööriistakast |
+| **AP** | — | `lisad/lisa-ap-swot-ja-lugeja-audit.md` | **SWOT ja lugeja-audit** — lugejale orienteeritud, teed A–F, 10-punkti audit |
+| — | — | `lisad/kiht0-ru-tuum-1-leht.md` | **Kiht 0 RU** — 1 lk venekeelne tuum (Lisa AN) |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

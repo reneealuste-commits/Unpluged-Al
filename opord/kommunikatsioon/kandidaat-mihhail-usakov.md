@@ -21,6 +21,7 @@
 - [ ] Kehakaal / kategooria
 - [ ] Kas ta teab, miks sa helistad (soe tutvus vs külm)
 - [ ] Kas vend Roman on kaasatud või eraldi
+- [ ] Lisa AP audit: kas RU tekst läbib 10 punkti?
 
 ---
 

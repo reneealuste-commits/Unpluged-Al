@@ -163,7 +163,7 @@ Huber päringus küsida **eraldi**:
 | 2 | Vestlus **Mihhail Ušakoviga** (kickbox Balti hõbe, Kalaranna) | Renee |
 | 3 | Kirjuta **1 lk tuum** vene keeles (trauma-teadlik) | Kanalijuht + Lisa P |
 | 4 | Huber päringusse RU-õiguste rida (Lisa AM täiendus) | Heli |
-| 5 | Lisa AN viide OPORD-i ja Lisa AL-i | Repo |
+| 5 | Lisa AP + Kiht 0 RU mustand kinnitada | Renee + Mihhail |
 
 ---
 

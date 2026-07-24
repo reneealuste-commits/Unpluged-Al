@@ -66,6 +66,8 @@ BOOK_FILES = [
     "lisa-am-oigused-ja-realistlik-maht.md",
     "lisa-an-venekeelne-sihtruhm-ja-inimesekeskne-levitus.md",
     "lisa-ao-ultimate-power-kokkuvote.md",
+    "lisa-ap-swot-ja-lugeja-audit.md",
+    "kiht0-ru-tuum-1-leht.md",
     "renee-aluste-profiil.md",
 ]
 

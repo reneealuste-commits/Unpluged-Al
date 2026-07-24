@@ -1,5 +1,10 @@
 # Lisa Q — Side eeskirjad: kuidas me suhtleme
 
+> **Lugeja saab:** hääle, GOTWA ja austava keele SOP.  
+> **Loe seda kui:** suhtled iga päev inimestega (demomees).  
+> **Ära loe kui:** pole veel Lisa P trauma-reeglit lugenud.
+
+
 **Operatsioon „Peegel"** | Side SOP | Kehtib: kõik asjaosalised, eriti **demomehed** (Üksus Aluste_kool)
 
 ---

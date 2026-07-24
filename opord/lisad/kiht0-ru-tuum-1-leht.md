@@ -1,5 +1,10 @@
 # Kiht 0 — Üks leht vene keeles (RU tuum)
 
+> **Lugeja saab:** 1-leheküljeline venekeelne tuum.  
+> **Loe seda kui:** oled venekeelne kodanik Eestis (tee E).  
+> **Ära loe kui:** eesti keel on sulle piisav.
+
+
 **Siht:** Eesti venekeelne kodanik — lühike, praktiline, mitte poliitiline  
 **Seotud:** Lisa AN, Lisa AO, Lisa N, Lisa AP tee E  
 **Kasutus:** Mihhail Ušakov või teine peer-educator; trükk / PDF / audio

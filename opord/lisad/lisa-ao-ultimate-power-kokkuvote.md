@@ -1,5 +1,10 @@
 # Lisa AO — Ultimate Power kokkuvõte (Peegli filter)
 
+> **Lugeja saab:** Buffalmano filtreeritud kokkuvõtte demomehele.  
+> **Loe seda kui:** oled demomees või sportlane (tee D).  
+> **Ära loe kui:** otsid trauma-teadlikku peresuhtlust — alusta Lisa P.
+
+
 **Allikas:** Lucio Buffalmano, *Ultimate Power* (The Power Moves, © 2018) — 85 lk kokkuvõte enesearengu kirjandusest  
 **Eesmärk:** Tööriistakasti lisa demomeestele; **mitte** OPORD tuum ega Steigeri asendus  
 **Seotud:** Lisa M (identiteet), Lisa I (inimesekeskne juhtimine), Lisa P (trauma), Lisa AN (RU demomees), Lisa AK

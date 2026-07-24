@@ -1,5 +1,10 @@
 # Lisa T — Valitsuse hetke-analüüs
 
+> **Lugeja saab:** hetke-analüüsi, KPI ja ministrite profiilid.  
+> **Loe seda kui:** tahad fakte ja konteksti (tee B/F, K3).  
+> **Ära loe kui:** otsid lihtsat igapäevategu — alusta TUUM-ist.
+
+
 **Operatsioon „Peegel"** | Ranger Handbook (FM 3-21.76) — IPB raamistik | Põhimõte: *me ei süüdi inimesi — me mõõdame tulemusi ja küsime miks*
 
 **Kuupäev:** 24. juuli 2026  

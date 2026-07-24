@@ -1,5 +1,10 @@
 # Lisa AK — Kodaniku taskuraamat „Peegel“
 
+> **Lugeja saab:** taskuraamatu trüki plaani ja formaadi.  
+> **Loe seda kui:** planeerid füüsilist trüki (side quest).  
+> **Ära loe kui:** piisab digitaalsest TUUM-ist.
+
+
 **Side quest:** trükiväljaanne OPORD-i põhjal  
 **Vorm:** taskuraamat (Ranger Handbooki mõõt)  
 **Keel:** eesti  

@@ -1,5 +1,10 @@
 # Lisa I — Inimesekeskne juhtimine (Steiger 1997)
 
+> **Lugeja saab:** Steigeri inimesekeskse juhtimise raamistiku.  
+> **Loe seda kui:** juhid inimesi või koolitad (tee D/F).  
+> **Ära loe kui:** otsid kiiret kriisiabi — alusta Lisa H.
+
+
 **Operatsioon „Peegel"** | Juhtimisfilosoofia
 
 **Raamat:** Rudolf Steiger, *Inimesekeskne juhtimine. Juhiseid tsiviil- ja sõjaväejuhtidele*  

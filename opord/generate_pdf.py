@@ -67,9 +67,48 @@ BOOK_FILES = [
     "lisa-an-venekeelne-sihtruhm-ja-inimesekeskne-levitus.md",
     "lisa-ao-ultimate-power-kokkuvote.md",
     "lisa-ap-swot-ja-lugeja-audit.md",
+    "lisa-aq-sidepakkide-jaotus-skeem.md",
     "kiht0-ru-tuum-1-leht.md",
     "renee-aluste-profiil.md",
 ]
+
+# Tiered PDF packages (K0–K1). K2 = full OPORD; K3 = on-demand lisas.
+PACKAGE_PDFS = {
+    "PEEGEL_TUUM.pdf": [BASE / "PEEGEL_TUUM.md"],
+    "PEEGEL_TEE_A.pdf": [
+        LISAD_DIR / "lisa-h-kiirjuhend-kriisis-isale.md",
+        LISAD_DIR / "raamat-06-murra-ring.md",
+        LISAD_DIR / "lisa-p-takistused-ja-valideerimine.md",
+        LISAD_DIR / "lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md",
+    ],
+    "PEEGEL_TEE_B.pdf": [
+        BASE / "PEEGEL_TUUM.md",
+        LISAD_DIR / "lisa-r-kes-ma-olen-ja-taust.md",
+        LISAD_DIR / "lisa-t-valitsuse-ipb-analuus.md",
+    ],
+    "PEEGEL_TEE_C.pdf": [
+        LISAD_DIR / "raamat-01-unplugged-ava-silmad.md",
+        LISAD_DIR / "raamat-04-tugev-isa.md",
+        LISAD_DIR / "raamat-05-pere-rindejoon.md",
+        LISAD_DIR / "lisa-m-kodaniku-identiteet-ja-vanne.md",
+    ],
+    "PEEGEL_TEE_D.pdf": [
+        LISAD_DIR / "lisa-n-aluste-kool.md",
+        LISAD_DIR / "lisa-i-inimesekeskne-juhtimine.md",
+        LISAD_DIR / "lisa-q-side-eeskirjad-ja-suhtlus.md",
+        LISAD_DIR / "lisa-ao-ultimate-power-kokkuvote.md",
+        LISAD_DIR / "lisa-x-taskukaardid-valjasuhtlus.md",
+    ],
+    "PEEGEL_RU_KIHT0.pdf": [
+        LISAD_DIR / "kiht0-ru-tuum-1-leht.md",
+        LISAD_DIR / "lisa-an-venekeelne-sihtruhm-ja-inimesekeskne-levitus.md",
+    ],
+    "PEEGEL_TEE_F.pdf": [
+        LISAD_DIR / "lisa-i-inimesekeskne-juhtimine.md",
+        LISAD_DIR / "lisa-p-takistused-ja-valideerimine.md",
+        LISAD_DIR / "lisa-l-ministeeriumid-ja-tai.md",
+    ],
+}
 
 
 def build_styles():
@@ -249,20 +288,26 @@ def parse_table(lines: list[str]) -> Table | None:
     return t
 
 
-def add_header_footer(canvas, doc):
-    canvas.saveState()
-    canvas.setStrokeColor(colors.HexColor("#1a3a2a"))
-    canvas.setLineWidth(1)
-    canvas.line(2 * cm, A4[1] - 1.5 * cm, A4[0] - 2 * cm, A4[1] - 1.5 * cm)
-    canvas.setFont("Helvetica-Bold", 8)
-    canvas.setFillColor(colors.HexColor("#1a3a2a"))
-    canvas.drawString(2 * cm, A4[1] - 1.2 * cm, "OPERATSIOON PEEGEL — PARANEMIS-TEEKOND (OPORD)")
-    canvas.drawRightString(A4[0] - 2 * cm, A4[1] - 1.2 * cm, "AVALIK — EESTI RAHVALE")
-    canvas.setFont("Helvetica", 7)
-    canvas.drawString(2 * cm, 1 * cm, "22. juuli 2026 | Renee Aluste, operatsiooni koordinaator")
-    canvas.drawRightString(A4[0] - 2 * cm, 1 * cm, f"Lehekülg {doc.page}")
-    canvas.line(2 * cm, 1.3 * cm, A4[0] - 2 * cm, 1.3 * cm)
-    canvas.restoreState()
+def make_header_footer(header_left: str, header_right: str = "AVALIK — EESTI RAHVALE"):
+    def add_header_footer(canvas, doc):
+        canvas.saveState()
+        canvas.setStrokeColor(colors.HexColor("#1a3a2a"))
+        canvas.setLineWidth(1)
+        canvas.line(2 * cm, A4[1] - 1.5 * cm, A4[0] - 2 * cm, A4[1] - 1.5 * cm)
+        canvas.setFont("Helvetica-Bold", 8)
+        canvas.setFillColor(colors.HexColor("#1a3a2a"))
+        canvas.drawString(2 * cm, A4[1] - 1.2 * cm, header_left)
+        canvas.drawRightString(A4[0] - 2 * cm, A4[1] - 1.2 * cm, header_right)
+        canvas.setFont("Helvetica", 7)
+        canvas.drawString(2 * cm, 1 * cm, "24. juuli 2026 | Renee Aluste, operatsiooni koordinaator")
+        canvas.drawRightString(A4[0] - 2 * cm, 1 * cm, f"Lehekülg {doc.page}")
+        canvas.line(2 * cm, 1.3 * cm, A4[0] - 2 * cm, 1.3 * cm)
+        canvas.restoreState()
+
+    return add_header_footer
+
+
+add_header_footer = make_header_footer("OPERATSIOON PEEGEL — PARANEMIS-TEEKOND (OPORD)")
 
 
 def build_story(md_text: str, styles) -> list:
@@ -400,29 +445,68 @@ def build_story(md_text: str, styles) -> list:
     return story
 
 
-if __name__ == "__main__":
+def generate_pdf_from_files(
+    output_path: Path,
+    md_files: list[Path],
+    title: str,
+    header_left: str,
+) -> None:
     global doc_width
     doc_width = A4[0] - 4 * cm
-
-    md = MD_FILE.read_text(encoding="utf-8")
     styles = build_styles()
+    story: list = []
+    header_fn = make_header_footer(header_left)
+
+    for idx, md_path in enumerate(md_files):
+        if not md_path.exists():
+            print(f"  SKIP missing: {md_path}")
+            continue
+        if idx > 0:
+            story.append(PageBreak())
+        story.extend(build_story(md_path.read_text(encoding="utf-8"), styles))
 
     doc = SimpleDocTemplate(
-        str(PDF_FILE),
+        str(output_path),
         pagesize=A4,
         leftMargin=2 * cm,
         rightMargin=2 * cm,
         topMargin=2 * cm,
         bottomMargin=2 * cm,
-        title="OPERATSIOON PEEGEL — OPORD",
+        title=title,
         author="Renee Aluste",
     )
+    doc.build(story, onFirstPage=header_fn, onLaterPages=header_fn)
+    print(f"Generated: {output_path}")
 
-    story = build_story(md, styles)
-    for book in BOOK_FILES:
-        book_path = LISAD_DIR / book
-        if book_path.exists():
-            story.append(PageBreak())
-            story.extend(build_story(book_path.read_text(encoding="utf-8"), styles))
-    doc.build(story, onFirstPage=add_header_footer, onLaterPages=add_header_footer)
-    print(f"Generated: {PDF_FILE}")
+
+def generate_full_opord() -> None:
+    generate_pdf_from_files(
+        PDF_FILE,
+        [MD_FILE] + [LISAD_DIR / book for book in BOOK_FILES],
+        "OPERATSIOON PEEGEL — OPORD",
+        "OPERATSIOON PEEGEL — PARANEMIS-TEEKOND (OPORD)",
+    )
+
+
+def generate_tiered_pdfs() -> None:
+    headers = {
+        "PEEGEL_TUUM.pdf": "PEEGEL TUUM — K0 ESIMENE KONTAKT",
+        "PEEGEL_TEE_A.pdf": "PEEGEL TEE A — ISA KRIISIS",
+        "PEEGEL_TEE_B.pdf": "PEEGEL TEE B — SKEPTIK",
+        "PEEGEL_TEE_C.pdf": "PEEGEL TEE C — PERE",
+        "PEEGEL_TEE_D.pdf": "PEEGEL TEE D — DEMOMEES",
+        "PEEGEL_RU_KIHT0.pdf": "PEEGEL KIHT 0 — VENEKEELNE TUUM",
+        "PEEGEL_TEE_F.pdf": "PEEGEL TEE F — JUHT / KOOLITUS",
+    }
+    for pdf_name, md_files in PACKAGE_PDFS.items():
+        generate_pdf_from_files(
+            BASE / pdf_name,
+            md_files,
+            pdf_name.replace(".pdf", "").replace("_", " "),
+            headers.get(pdf_name, "OPERATSIOON PEEGEL"),
+        )
+
+
+if __name__ == "__main__":
+    generate_full_opord()
+    generate_tiered_pdfs()

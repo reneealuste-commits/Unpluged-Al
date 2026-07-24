@@ -1,4 +1,4 @@
-# Operatsioon „Peegel" — OPORD
+# Operatsioon „Peegel“ — OPORD
 
 Eesti keeles koostatud viiepunktiline **paranemis-teekond** (OPORD-formaat) vastutegevuseks psühholoogilisele mõjutamisele.
 
@@ -10,42 +10,65 @@ Eesti keeles koostatud viiepunktiline **paranemis-teekond** (OPORD-formaat) vast
 
 ## Allalaadimine
 
+### Esimene kontakt (K0 — soovitatav)
+
 | Formaat | Link |
 |---------|------|
-| **DOCX — Google Docs** (OPORD + kõik lisad, üks fail) | [Laadi alla OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx) |
-| **ZIP — kogu pakett** (kõik lisad + PDF-id + pildid) | [Laadi alla Operatsioon-Peegel-kogu-pakett.zip](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/Operatsioon-Peegel-kogu-pakett.zip) |
-| **Taskukaardid (prindi)** | [TASKUKAARDID_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/TASKUKAARDID_PRINT.pdf) · [rahakott](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/TASKUKAARDID_RAHAKOTT.pdf) |
-| **Lendleht (prindi)** | [LENDLEHT_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/LENDLEHT_PRINT.pdf) |
-| **PDF** (soovitatav) | [Laadi alla OPERATSIOON_PEEGEL_OPORD.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_OPORD.pdf) |
-| **Toidu uurimustöö (PDF)** | [Laadi alla TOITUMINE_UURIMUSTOO.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/TOITUMINE_UURIMUSTOO.pdf) |
-| **Markdown** | [OPERATSIOON_PEEGEL_OPORD.md](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_OPORD.md) |
+| **PEEGEL TUUM (PDF)** | [PEEGEL_TUUM.pdf](PEEGEL_TUUM.pdf) |
+| **PEEGEL TUUM (Markdown)** | [PEEGEL_TUUM.md](PEEGEL_TUUM.md) |
+| **Sidepakkide ZIP** | [Operatsioon-Peegel-sidepakkid.zip](Operatsioon-Peegel-sidepakkid.zip) |
+
+### Lugejateed (K1)
+
+| Tee | PDF |
+|-----|-----|
+| A — Isa kriisis | [PEEGEL_TEE_A.pdf](PEEGEL_TEE_A.pdf) |
+| B — Skeptik | [PEEGEL_TEE_B.pdf](PEEGEL_TEE_B.pdf) |
+| C — Pere | [PEEGEL_TEE_C.pdf](PEEGEL_TEE_C.pdf) |
+| D — Demomees | [PEEGEL_TEE_D.pdf](PEEGEL_TEE_D.pdf) |
+| E — Venekeelne | [PEEGEL_RU_KIHT0.pdf](PEEGEL_RU_KIHT0.pdf) |
+| F — Juht | [PEEGEL_TEE_F.pdf](PEEGEL_TEE_F.pdf) |
+
+Skeem: [Lisa AQ](lisad/lisa-aq-sidepakkide-jaotus-skeem.md)
+
+### Täielik pakett (K2)
+
+| Formaat | Link |
+|---------|------|
+| **DOCX** | [OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx](OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx) |
+| **ZIP — kogu pakett** | [Operatsioon-Peegel-kogu-pakett.zip](Operatsioon-Peegel-kogu-pakett.zip) |
+| **PDF (täielik OPORD)** | [OPERATSIOON_PEEGEL_OPORD.pdf](OPERATSIOON_PEEGEL_OPORD.pdf) |
+| **Markdown** | [OPERATSIOON_PEEGEL_OPORD.md](OPERATSIOON_PEEGEL_OPORD.md) |
 | **Pull request** | [PR #1](https://github.com/reneealuste-commits/Unpluged-Al/pull/1) |
 
-### ZIP-paketi sisu (59 faili)
+### Prinditavad tööriistad
 
-- `OPERATSIOON_PEEGEL_OPORD.md` + `.pdf` (kõik lisad PDF-is, sh Lisa AH ja AI)
-- `TOITUMINE_UURIMUSTOO.pdf` + `lisad/toitumine-uurimustoo.md`
-- **Lisa A–G** — Tugeva Isa seeria (7 köidet)
-- **Lisa H–AJ** — kõik lisad (kiirjuhend, juhtimine, võrgustik, Leelo, Epp Kärsin, levitamine jne)
-- `images/` — profiilipildid ja koolide fotod
-- `generate_pdf.py`, `generate_toidu_pdf.py`
-
-## Failid
-
-| Fail | Kirjeldus |
-|------|-----------|
-| `OPERATSIOON_PEEGEL_OPORD.md` | Täielik OPORD lähtetekst (Google Docs'i kopeerimiseks) |
-| `OPERATSIOON_PEEGEL_OPORD.pdf` | Valmis PDF-vormingus dokument |
-| `generate_pdf.py` | PDF genereerimise skript |
+| Tööriist | Link |
+|----------|------|
+| Taskukaardid | [TASKUKAARDID_PRINT.pdf](TASKUKAARDID_PRINT.pdf) · [rahakott](TASKUKAARDID_RAHAKOTT.pdf) |
+| Lendleht | [LENDLEHT_PRINT.pdf](LENDLEHT_PRINT.pdf) |
+| Toidu uurimustöö | [TOITUMINE_UURIMUSTOO.pdf](TOITUMINE_UURIMUSTOO.pdf) |
 
 ## PDF uuendamine
 
 ```bash
 cd opord
-python3 generate_pdf.py
-python3 generate_toidu_pdf.py    # toidu uurimustöö PDF
-python3 generate_taskukaardid_pdf.py  # Lisa X taskukaardid + lendleht
+python3 generate_pdf.py          # K0, teed A–F + täielik OPORD
+python3 generate_packages.py     # sidepakkide ZIP
+python3 generate_toidu_pdf.py
+python3 generate_taskukaardid_pdf.py
 ```
+
+## Kihtide arhitektuur (Lisa AQ)
+
+| Kiht | Mis see on |
+|------|------------|
+| **K0** | PEEGEL_TUUM — esimene kontakt |
+| **K1** | Tee PDF-id A–F |
+| **K2** | Täielik OPERATSIOON_PEEGEL_OPORD.pdf |
+| **K3** | Spetsialist (Lisa T, AL, AA jne) — nõudmisel |
+
+Auditi skoor: **7,8/10** (Lisa AP). Valmis piiratud levituseks demomeestele.
 
 ## Struktuur
 
@@ -57,6 +80,4 @@ Dokument järgib Maakaitse käsiraamatu viiepunktilist OPORD-formaati:
 4. Lahinguteenindus
 5. Juhtimine ja side
 
-Eelnevalt: ülesande koosseis (osalajate profiilid), tegutsemisala piirid, info-keskkonna kirjeldus.
-
-Lõpus: küsimused ja vastused (44 tagasiküsimust) + Lisa A–G: Tugeva Isa seeria (7 köidet).
+Lisa A–AQ: Tugeva Isa seeria, lisad, SWOT, sidepakkide skeem.

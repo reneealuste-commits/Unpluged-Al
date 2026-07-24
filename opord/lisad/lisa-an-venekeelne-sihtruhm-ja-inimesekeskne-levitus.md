@@ -1,5 +1,10 @@
 # Lisa AN — Venekeelne sihtrühm, Heli piir ja inimesekeskne levitus
 
+> **Lugeja saab:** venekeelse kanali loogika ja levitamise reeglid.  
+> **Loe seda kui:** töötad RU auditooriumiga (tee E).  
+> **Ära loe kui:** oled ainult eestikeelne lugeja.
+
+
 **Kontekst:** Heli Illipe-Sootak (2026-07-24): *„Sry, ma venekeelseid raamatuid ei kirjasta. Eriti veel praegu.“*  
 **Renee küsimus:** Kuidas mitte lõigata inimesi infost lahti? Kuidas täita **2. lahingureeglit (lihtsus)** — kui meeskond ei tea plaani, ei saa seda täita?  
 **Seotud:** Lisa AM, Lisa I, Lisa M, Lisa P, OPORD Q&A venekeelse ajakirjaniku kohta

@@ -1,5 +1,10 @@
 # Lisa P — Takistused ja emotsioonide valideerimine
 
+> **Lugeja saab:** trauma-reegli ja valideerimise tööriistad.  
+> **Loe seda kui:** suhtled kellelegi, kes on ärevuses või kriisis.  
+> **Ära loe kui:** pole valmis kehakesksele lähenemisele.
+
+
 **Operatsioon „Peegel"** | Suhtlusjuhend | Põhimõte: *enne vastamist — näe inimest*
 
 ---

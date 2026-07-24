@@ -1,5 +1,10 @@
 # Lisa N — Üksus „Aluste_kool“ (SOK)
 
+> **Lugeja saab:** demomehe päevase checklisti ja SOK ülesanded.  
+> **Loe seda kui:** oled või tahad saada demomeheks (tee D).  
+> **Ära loe kui:** oled esimene kord — alusta PEEGEL_TUUM.pdf.
+
+
 **Operatsioon „Peegel"** | Kodaniku demomeeste üksus | Aktiveerija: Renee Aluste  
 **Staatus:** AKTIVEERITUD  
 **Üksuse kood:** `Aluste_kool`

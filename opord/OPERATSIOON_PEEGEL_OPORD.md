@@ -9,6 +9,8 @@
 
 **Allalaadimine (DOCX — Google Docs):** [OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx) — OPORD + kõik lisad ühes failis  
 **Allalaadimine (PDF):** [github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_OPORD.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_OPORD.pdf)  
+**K0 TUUM (soovitatav esimene):** [PEEGEL_TUUM.pdf](PEEGEL_TUUM.pdf) · [markdown](PEEGEL_TUUM.md)  
+**Sidepakkide ZIP:** [Operatsioon-Peegel-sidepakkid.zip](Operatsioon-Peegel-sidepakkid.zip) — P0–P3 paketid (Lisa AQ)  
 **Allalaadimine (Markdown):** [github.com/.../OPERATSIOON_PEEGEL_OPORD.md](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_OPORD.md)  
 **Toidu uurimustöö (PDF):** [TOITUMINE_UURIMUSTOO.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/TOITUMINE_UURIMUSTOO.pdf) · [markdown](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/lisad/toitumine-uurimustoo.md) · Lisa U  
 **Kogu pakett (ZIP):** [Operatsioon-Peegel-kogu-pakett.zip](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/Operatsioon-Peegel-kogu-pakett.zip) — kõik lisad, PDF-id, pildid  
@@ -53,7 +55,7 @@ Sa ei pea lugema kõike. Vali **üks tee** oma olukorra jaoks:
 | **E** Venekeelne | RU kodanik Eestis | `kiht0-ru-tuum-1-leht.md` → Lisa **AN** |
 | **F** Juht / koolitus | KV, kool, organisatsioon | Lisa **I** → **P** → **L** |
 
-Täielik SWOT ja lugeja-audit: **Lisa AP**. Auditi skoor (2026-07-24): **6,9/10** — valmis piiratud levituseks demomeestele.
+Täielik SWOT ja lugeja-audit: **Lisa AP**. Auditi skoor (2026-07-24): **7,8/10** — valmis piiratud levituseks (K0 TUUM + tee PDF-id). Skeem: **Lisa AQ**.
 
 **Elu naudingud on seotud teadmisega.** Kui sa mõistad, kuidas su keha töötab — uni, toit, hormoonid, närvisüsteem, stress — saad teha **paremaid otsuseid enda kohta**. See kehtib ka intiimsuse kohta: **teil kõigil on parem ja nauditavam seksuaalelu, kui teil on info, kuidas keha toimib.**
 
@@ -2506,6 +2508,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **AN** | — | `lisad/lisa-an-venekeelne-sihtruhm-ja-inimesekeskne-levitus.md` | **Venekeelne sihtrühm** — Heli piir, eraldi kanal, trauma-teadlik levitus, lihtsus |
 | **AO** | — | `lisad/lisa-ao-ultimate-power-kokkuvote.md` | **Ultimate Power kokkuvõte** — Buffalmano, Peegli filter, demomehe tööriistakast |
 | **AP** | — | `lisad/lisa-ap-swot-ja-lugeja-audit.md` | **SWOT ja lugeja-audit** — lugejale orienteeritud, teed A–F, 10-punkti audit |
+| **AQ** | — | `lisad/lisa-aq-sidepakkide-jaotus-skeem.md` | **Sidepakkide jaotus** — K0–K3 kihtide arhitektuur, paketid P0–P3, kanalid, levitamise reeglid |
 | — | — | `lisad/kiht0-ru-tuum-1-leht.md` | **Kiht 0 RU** — 1 lk venekeelne tuum (Lisa AN) |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 

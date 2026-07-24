@@ -2,7 +2,11 @@
 
 **Põhimõte:** Iga dokument peab vastama küsimusele: **mida LUGEJA saab — mitte mida autor teab.**  
 **Eesmärk:** Aus enesehinnang enne levitamist; täiendused põhinevad lugeja kogemusel  
-**Seotud:** Lisa P, Lisa M (LIHTSUS), Lisa AD (lood), Lisa AM, Lisa AN, Lisa AO
+**Seotud:** Lisa P, Lisa M (LIHTSUS), Lisa AD (lood), Lisa AM, Lisa AN, Lisa AO, **Lisa AQ**
+
+> **Lugeja saab:** ausa enesehinnangu — kas materjal on valmis levitamiseks.  
+> **Loe seda kui:** tahad näha SWOT-i ja auditi skoori.  
+> **Ära loe kui:** otsid praktilist igapäevategu — alusta PEEGEL_TUUM.pdf.
 
 ---
 
@@ -27,7 +31,7 @@
 | Tugevus | Lugeja kasu | Lisa |
 |---------|-------------|------|
 | **Paranemis-teekond**, mitte käsk | Ei triggerda militaarkaitsepositsiooni | OPORD, Lisa P |
-| **Progressiivne rada** A→G + H kriisiks | Ei pea kõike korraga | README |
+| **Kihtide arhitektuur K0–K3** | Ei pea kõike korraga | Lisa AQ, PEEGEL_TUUM |
 | **Trauma-teadlik suhtlus** | Turvaline vestlus peres | Lisa P, S, H |
 | **Praktilised checklistid** | Üks tegu täna | Lisa N, AD, X, AO |
 | **Lood, mitte ainult teooria** | Inimene mõistab loo kaudu | Lisa AD, AI |
@@ -36,16 +40,16 @@
 | **Realistlik raamat/plaan** | Usaldusväärne maht | Lisa AM |
 | **Venekeelne rada eraldi** | ~300k ei jää ilma | Lisa AN |
 | **Demomehe orgaaniline mudel** | Ei tundu massreklaam | Lisa N, AJ |
+| **Lugeja-sildid** | „Loe seda kui…“ igal pealisel | Lisa AQ §3 |
 
 ### W — Nõrkused (mida lugeja kogeb)
 
 | Nõrkus | Lugeja risk | Parandus |
 |--------|-------------|----------|
-| **Maht ülekoormav** (~40+ lisa) | Dropout, hirm | Lisa AP §4 lugejateed |
-| **Segateemad** | „Mis see üldse on?“ | Silt: „loe seda, kui…“ |
+| **K2 endiselt suur** | Dropout kui annad liiga palju | K0 vaikimisi (Lisa AQ) |
+| **Segateemad K2-s** | „Mis see üldse on?“ | Kihtide jaotus |
 | **Autori usaldus** | „Kes see on?“ | Lisa R + töö tulemustega |
-| **Varasemad ulmelised numbrid** | Kaotab usaldust | Lisa AM korrigeerib |
-| **Puudub RU tekst valmis** | Pool auditooriumit väljas | `kiht0-ru-tuum-1-leht.md` |
+| **RU tekst vajab kinnitust** | Pool auditooriumit väljas | Kiht 0 RU + Mihhail |
 | **Steiger õigused lahtised** | „Kas legaalne?“ | Lisa AM Huber |
 | **Intiimsuse osa tabu** | Trigger | Lisa AA silt |
 
@@ -55,7 +59,7 @@
 |----------|-------------|
 | Steigeri uustrükk 2–10k | Käepärane raamat |
 | M. Ušakov RU peer-educator | Usaldus vene kogukonnas |
-| Taskukaardid | Pocketsize igapäev | Lisa X, AD |
+| Sidepakkide ZIP | Üks klikk õige paketiga | Lisa AQ |
 | Peegel taskuraamat | Ilma litsentsita kohe | Lisa AK |
 | Ultimate Power filter | Sportlane/ettevõtja keel | Lisa AO |
 
@@ -75,24 +79,28 @@
 
 | # | Tegevus | Vastutaja | Staatus |
 |---|---------|-----------|--------|
-| 1 | Lugejateed OPORD-i | Renee | Lisa AP |
+| 1 | Lugejateed OPORD-i | Renee | Tehtud |
 | 2 | Kiht 0 RU 1 lk | Mihhail/Renee | Mustand valmis |
-| 3 | 100 demomeest pilot | Renee | Lisa N |
-| 4 | Huber päring | Heli | Ootel |
-| 5 | Iga lisa: „lugeja saab…“ rida | Kõik | Reegel |
+| 3 | Sidepakkide skeem + ZIP | Skript | **Tehtud** (Lisa AQ) |
+| 4 | PEEGEL_TUUM + tee PDF-id | Skript | **Tehtud** |
+| 5 | Lugeja-sildid peamistele lisadele | Skript | **Tehtud** |
+| 6 | 100 demomehe pilot P0 | Renee | Lisa N |
+| 7 | Huber päring | Heli | Ootel |
 
 ---
 
 ## 4. Lugejateed (vali üks)
 
-| Tee | Kellele | Alusta |
-|-----|---------|--------|
-| **A** Isa kriisis | Isa, peres kriis | Lisa H → F → P |
-| **B** Skeptik | Ei usu kohe | OPORD põhimõte → R → T |
-| **C** Pere | Tugevdada kodu | A → D → E → M |
-| **D** Demomees | SOK / Aluste_kool | N → I → Q → AO |
-| **E** Venekeelne | RU kodanik | Kiht 0 RU → AN |
-| **F** Juht | Koolitus, KV | I → P → L |
+| Tee | Kellele | PDF |
+|-----|---------|-----|
+| **A** Isa kriisis | Isa, peres kriis | `PEEGEL_TEE_A.pdf` |
+| **B** Skeptik | Ei usu kohe | `PEEGEL_TEE_B.pdf` |
+| **C** Pere | Tugevdada kodu | `PEEGEL_TEE_C.pdf` |
+| **D** Demomees | SOK / Aluste_kool | `PEEGEL_TEE_D.pdf` |
+| **E** Venekeelne | RU kodanik | `PEEGEL_RU_KIHT0.pdf` |
+| **F** Juht | Koolitus, KV | `PEEGEL_TEE_F.pdf` |
+
+Esimene kontakt alati: **`PEEGEL_TUUM.pdf`** (K0). Skeem: **Lisa AQ**.
 
 ---
 
@@ -115,29 +123,29 @@
 
 ---
 
-## 6. Auditi tulemus (2026-07-24)
+## 6. Auditi tulemus (2026-07-24, pärast kihtide jaotust)
 
-| Valdkond | Hinne |
-|----------|-------|
-| Kriitiline mõtlemine | 9/10 |
-| Trauma-teadlikkus | 8/10 |
-| Lihtsus / lugejateed | 6/10 → parandatud |
-| Maht / fookus | 5/10 |
-| Usaldus / OPSEC | 7/10 |
-| Venekeelne | 5/10 → Kiht 0 |
-| Praktilised tööriistad | 9/10 |
+| Valdkond | Enne | Pärast |
+|----------|------|--------|
+| Kriitiline mõtlemine | 9/10 | 9/10 |
+| Trauma-teadlikkus | 8/10 | 8/10 |
+| Lihtsus / lugejateed | 6/10 | **8/10** |
+| Maht / fookus | 5/10 | **8/10** |
+| Usaldus / OPSEC | 7/10 | 7/10 |
+| Venekeelne | 5/10 | **6/10** (mustand) |
+| Praktilised tööriistad | 9/10 | 9/10 |
 
-**Kokku: 6,9/10** — valmis **piiratud levituseks** (demomehed), mitte mass enne 100 demomehe tagasisidet.
+**Kokku: 6,9/10 → 7,8/10** — valmis **piiratud levituseks** demomeestele (P0-TUUM + tee PDF). Mass enne 100 demomehe tagasisidet.
 
 ---
 
 ## 7. Järgmised ettepanekud
 
-1. OPORD avalehele lugejateede tabel  
-2. Kiht 0 RU trükk (kinnita emakeelekõnele)  
-3. Iga uue lisa algus: *„Lugeja: loe seda, kui…“*  
-4. Heli kinnitus RU kanal  
-5. Huber vastus enne Steigeri RU tekstis  
+1. Kiht 0 RU trükk (kinnita emakeelekõnele)  
+2. 100 demomehe pilot P0-TUUM  
+3. Heli kinnitus RU kanal  
+4. Huber vastus enne Steigeri RU tekstis  
+5. Tagasiside 30 päeva pärast — uuenda audit
 
 ---
 

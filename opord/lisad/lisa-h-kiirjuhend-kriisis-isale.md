@@ -1,5 +1,10 @@
 # Lisa H — Kiirjuhend kriisis isale
 
+> **Lugeja saab:** kiire abi ja turvalisuse sammud kriisis.  
+> **Loe seda kui:** oled põhjas või peres on kriis.  
+> **Ära loe kui:** oled rahulik skeptik — alusta TUUM-ist (tee B).
+
+
 **Operatsioon „Peegel"** | Kriisiteekond | Autor: Renee Aluste
 
 ---

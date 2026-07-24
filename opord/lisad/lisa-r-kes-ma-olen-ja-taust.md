@@ -1,5 +1,10 @@
 # Lisa R — Kes ma olen? Taust ja tõendid
 
+> **Lugeja saab:** koordinaatori tausta ja usaldusväärsuse fakte.  
+> **Loe seda kui:** kahtled, kes see inimene on (tee B).  
+> **Ära loe kui:** usaldus on juba olemas — vali oma tee.
+
+
 **Operatsioon „Peegel"** | Kui keegi kahtleb või küsib: *kes sa oled ja mis on su taust?*  
 **Allikas:** Renee Aluste ametlik CV (kutse taotleja, täiskasvanute koolitaja tase 8) — Google Docs, 2026  
 **Täiendab:** [renee-aluste-profiil.md](renee-aluste-profiil.md), OPORD Q&A II

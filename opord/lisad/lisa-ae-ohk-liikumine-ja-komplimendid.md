@@ -111,6 +111,31 @@
 
 > *Sa parandad õhku kodus **ja** lähed õue hingama. Mõlemad.*
 
+### Naistele — liikumise SOP (suur mõju, minimaalne aeg)
+
+> *Meestele: **90 sek rippumist** päevas (Lisa AB). Naistele: **neli harjutust** — suur mõju kehale, hormoonidele ja enesetundele. Alusta väikselt.*
+
+| # | Harjutus | Kuidas | Mõju |
+|---|----------|--------|------|
+| **1** | **Kükid** | Jalad õlgade laiusel, puusad taha, rind püsti. Alusta 5–10 kordust. | Jalad, tuhar, tuum, vereringe |
+| **2** | **Lamades rinnalt surumine** | Põrandal või pingil — suru rinnalt üles (käed või kerged raskused). Alusta 5–10 kordust. | Rind, õlad, käed, enesekindlus kehas |
+| **3** | **Puusatõsted** | Selg pingil või põrandal, õlad maas, tõsta puusi üles. Alusta 8–12 kordust. | Tuhar, puusaliiges, alaselg, intiimsus (Lisa AA) |
+| **4** | **Plank** | **30 sekundit päevas** — käed või küünarnukid, keha sirge. Hoia. | Tuum, selg, kogu keha stabiliteet |
+
+**Miinimum päevas (naistele):**
+
+```
+[ ] Kükid — vähemalt mõned korrad
+[ ] Lamades rinnalt surumine — vähemalt mõned korrad
+[ ] Puusatõsted — vähemalt mõned korrad
+[ ] Plank — 30 sekundit (kasvata järk-järgult)
+```
+
+**Üks lause:** *Kükid, rind, puusad, plank — 30 sek plank on põrand. Ülejäänu võtab minuteid. Suur mõju.*
+
+Lisa AA (keha, intiimsus) · Lisa V (uni taastumiseks) · Lisa AB (meeste 90 sek rippumine — pere mõlemad liiguvad).
+
+
 ---
 
 ## 3. Olukorra teadlikkus — treening (mitte „kompliment")

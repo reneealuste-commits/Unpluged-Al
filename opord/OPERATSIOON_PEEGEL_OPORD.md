@@ -1847,7 +1847,7 @@ Lisa X ütleb *mida* öelda. Lisa AD ütleb *kuidas* — loo kaudu.
 
 **V (Renee Aluste):** Paremad otsused algavad sellest, **mida sa hingad ja kuidas sa hingad**. Korteris: **mõõda õhu niiskust** (hügromeeter), siht **40–60%**, ventileeri 10–15 min päevas.
 
-Teiseks: **liigu ja ripu** — **90 sekundit päevas** (Lisa AB, Vanja Moves).
+Teiseks: **liigu** — meestele **90 sek rippumist** päevas (Lisa AB). **Naistele:** kükid, lamades rinnalt surumine, puusatõsted ja **plank 30 sekundit päevas** — suur mõju, minimaalne aeg (Lisa AE §2).
 
 Kolmandaks: **olukorra teadlikkuse treening** — me ei kutsu seda enam komplimendiks. See on **väike isiklik ülesanne** **enesega kontakti** saavutamiseks:
 

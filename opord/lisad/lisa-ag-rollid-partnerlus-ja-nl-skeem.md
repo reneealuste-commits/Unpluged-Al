@@ -229,7 +229,7 @@ Kui **suund on paigas** ja **oskus kohaneda** teekonnal on olemas:
 | 3 | **Ära blokeeri** meest „minu mees" omamisega | AE, AC |
 | 4 | **Räägi** — mida vajad; ära oota loetlemist | P, Q |
 | 5 | **Toeta** mehe vastutust — ära alanda ega kontrolli GPS-iga | AC |
-| 6 | **Hoolitse endast** — uni, liikumine, õhk (Lisa AE) | AE, V |
+| 6 | **Liikumine** — kükid, rinnalt surumine, puusatõsted, plank **30 sek/päev** (Lisa AE) | AE, V, AA |
 | 7 | **Trauma** — kui triggeris, ütle; ära lase kehal laskma (Lisa P) | P |
 | 8 | **Lapsed** — austus algusest; Montessori beebi (Lisa W) | W |
 | 9 | **Ära võrdle** meest teistega — sotsiaalmeedia | Z |

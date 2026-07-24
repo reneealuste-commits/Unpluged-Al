@@ -82,7 +82,7 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 
 **Lood ja sõnumi edastamine (kohustuslik praktika):** Lisa AD — inimesed mõistavad maailma läbi lugude; **konversiooni loo checklist** (7 sammu), taskukaardid igale kodanikule, mida öelda kui keegi vastu hakkab. Prindi: `LOO_CHECKLIST_PRINT.pdf`, `LOO_TASKUKAARDID_PRINT.pdf`.
 
-**Õhk, liikumine, olukorra teadlikkus (treening):** Lisa AE — korteri **õhu niiskus**, rippumine (Lisa AB), **olukorra teadlikkuse treening** — väike isiklik ülesanne enesega kontakti jaoks (mitte „kompliment"); blokk 0: omamine. Prindi: `OLUKORDA_TEADLIKKUS_SOP_PRINT.pdf`.
+**Õhk, liikumine, olukorra teadlikkus (treening):** Lisa AE — õhu niiskus; meestele 90 sek rippumist (AB); **naistele kükid, rinnalt surumine, puusatõsted, plank 30 sek/päev**; olukorra teadlikkuse treening.
 
 **Meestele — erektsioon (kohustuslik teadmine):** Lisa AF — kuidas erektsioon töötab, Sterling Cooper / krooniline dis-ease, **„puhasta relva"** hügieeni ja eluviisi SOP; koos Lisa AA ja Lisa AC.
 

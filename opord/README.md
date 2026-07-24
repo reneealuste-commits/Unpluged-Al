@@ -12,6 +12,7 @@ Eesti keeles koostatud viiepunktiline **paranemis-teekond** (OPORD-formaat) vast
 
 | Formaat | Link |
 |---------|------|
+| **DOCX — Google Docs** (OPORD + kõik lisad, üks fail) | [Laadi alla OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx) |
 | **ZIP — kogu pakett** (kõik lisad + PDF-id + pildid) | [Laadi alla Operatsioon-Peegel-kogu-pakett.zip](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/Operatsioon-Peegel-kogu-pakett.zip) |
 | **Taskukaardid (prindi)** | [TASKUKAARDID_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/TASKUKAARDID_PRINT.pdf) · [rahakott](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/TASKUKAARDID_RAHAKOTT.pdf) |
 | **Lendleht (prindi)** | [LENDLEHT_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/LENDLEHT_PRINT.pdf) |

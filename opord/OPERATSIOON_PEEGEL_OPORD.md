@@ -7,6 +7,7 @@
 **Operatsiooni tase:** Strateegiline–taktikaline (mitmetasandiline)  
 **Viide:** Maakaitse käsiraamatu viiepunktiline OPORD-formaat (opiq.ee)
 
+**Allalaadimine (DOCX — Google Docs):** [OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx) — OPORD + kõik lisad ühes failis  
 **Allalaadimine (PDF):** [github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_OPORD.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_OPORD.pdf)  
 **Allalaadimine (Markdown):** [github.com/.../OPERATSIOON_PEEGEL_OPORD.md](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_OPORD.md)  
 **Toidu uurimustöö (PDF):** [TOITUMINE_UURIMUSTOO.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/TOITUMINE_UURIMUSTOO.pdf) · [markdown](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/lisad/toitumine-uurimustoo.md) · Lisa U  

@@ -1,7 +1,7 @@
 # Lisa J — Haridusasutuste juhtkonnad
 
 **Seotud:** Operatsioon „Peegel" — haridustase  
-**Eesmärk:** Täielik meeskondade nimekiri, taust ja operatsioonis rollid koolide juhtidel, kes toetavad noorte vastupanuvõimet, praktilist haridust ja inimesekeskset juhtimist. Hõlmab Techno TLN, Kaitseväe Akadeemia ja Rocca al Mare Kooli.
+**Eesmärk:** Täielik meeskondade nimekiri, taust ja operatsioonis rollid koolide juhtidel, kes toetavad noorte vastupanuvõimet, praktilist haridust ja inimesekeskset juhtimist. Hõlmab Techno TLN, Kaitseväe Akadeemia, Rocca al Mare Kooli ja **Tallinna Vaba Waldorfkooli**.
 
 > *Kool on esimene riiklik struktuur, kuhu laps jõuab peale kodu. Kui koolijuht juhib inimesi — mitte ainult protsesse — on see operatsiooni võit.*
 
@@ -289,22 +289,59 @@
 
 ---
 
-## 4. Ühised ülesanded (haridustase)
+## 4. Tallinna Vaba Waldorfkool (TVW)
+
+**Veeb:** [waldorf.ee](https://waldorf.ee)  
+**Asukoht:** Tuulemaa 12, 10312 Tallinn (Pelguranna)  
+**Kontakt:** tallinn@waldorf.ee | 601 6504 | selts@waldorf.ee  
+**Pidaja:** MTÜ Haridus- ja Kultuuriselts Tuulemaa (reg 80000675)  
+**Taust:** 2001. aastal lapsevanemate initsiatiivil loodud waldorfpedagoogikat järgiv üldhariduskool (eelkool, põhikool, gümnaasium, 1.–12. klass). ~110+ õpilast, ~30 õpetajat. Kooli visioon: **vaba inimene** — võtab vastutuse oma elu eest, hoolib kogukonnast ja loodusest, on avatud uutele ideedele. Missioon: sotsiaalse ja füüsilise keskkonna loomine tervikliku inimese kujunemise toetamiseks.
+
+**Operatsioonis roll:** Haridustase — väärtuspõhine, kogukondlik kool, kus laps kasvab **terviklikult** (hingeline, vaimne, füüsiline), mitte ainult testitulemuste jaoks. Waldorfi kogukonnatunne ja lapsevanemate kaasatus sobivad operatsiooni pere- ja paranemis-teadliku sõnumiga. Toetab Faas II (tugevdamine) ja Faas III (peegeldamine koolides).
+
+**Ametlik juht:** kooli juhataja **Kristina Šanin** (kristina.sanin@waldorf.ee | 514 7054).
+
+### Võtmeisik operatsioonis
+
+#### Ave Osa — Võtmeisik (Waldorfkool + holistiline tugi)
+
+- **Roll operatsioonis:** Tallinna Vaba Waldorfkooli **võtmeisik** operatsiooni võrgustikus; sidestab koolipere, lapsevanemad ja paranemis-teadlikku tuge.
+- **Taust:** Holistiline regressiooniterapeut (kutsetunnistus TAM-0059, tase 6; kehtib kuni 18.03.2026). Holistika Instituudi koolitus; HORETES (Holistilise Regressiooniteraapia Selts) liige. Täiendab operatsiooni taastumis- ja teadlikkuse võrgustikku (Kert Grünberg, Lisa P, Lisa H).
+- **Kontakt:** +372 5690 4407 · [holistika.ee/teraapia/terapeudid](https://holistika.ee/teraapia/terapeudid/) · [tamregister.ee](https://tamregister.ee/kutseregister/ave-osa/)
+- **Ülesanne operatsioonis:**
+  1. Sidestada Waldorfkooli kogukond operatsiooni **turvalisuse ja mõistmise** standardiga (Lisa P).
+  2. Toetada lapsevanemaid ja koolipere liikmeid — holistiline regressiooniteraapia ja aus vestlus, mitte sildistamine.
+  3. Ehita sild waldorfpedagoogika (terviklik inimene) ja paranemis-teekonna (sa pole katki) vahel.
+  4. Koordineerida koostööd kooli juhataja ja tugiteenuste juhiga (vt allpool).
+
+### Kooli tugistruktuur (viide)
+
+| Roll | Nimi | Kontakt |
+|------|------|---------|
+| Kooli juhataja | Kristina Šanin | kristina.sanin@waldorf.ee |
+| Tugiteenuste juht, sotsiaalpedagoog-perenõustaja | Kairi Järvik-Elvisto | kairi.jarvik-elvisto@waldorf.ee |
+| Õpioskused, psühholoogia | Kairi Järvik-Elvisto | kairi.jarvik-elvisto@waldorf.ee |
+
+*Täielik õpetajate ja personali nimekiri: [waldorf.ee/kontaktid](https://waldorf.ee/kontaktid/)*
+
+---
+
+## 5. Ühised ülesanded (haridustase)
 
 Kõik ülalnimetatud juhtkonnad:
 
 1. **Infohügieen koolis** — õpetada noort kontrollima allikaid ja emotsioone digikanalites.
 2. **Eeskuju** — juht ise on see, mida ta ootab õpilaselt ja õpetajalt.
 3. **Praktiline vastupanuvõime** — oskused, mis töötavad nii koolis, tööl kui kriisis.
-4. **Koostöö** — Techno TLN ↔ RaM Kool ↔ Combat Ready Youth ↔ Noorte Kotkad ↔ KVA juhtimismudelid.
+4. **Koostöö** — Techno TLN ↔ RaM Kool ↔ **Tallinna Vaba Waldorfkool** ↔ Combat Ready Youth ↔ Noorte Kotkad ↔ KVA juhtimismudelid.
 5. **Inimesed enne protsesse** — Steigeri SOP (Lisa I) kehtib ka koolijuhi kabinetis.
 
 ---
 
-## 5. Kontaktide kokkuvõte
+## 6. Kontaktide kokkuvõte
 
-| Asutus | Juht | Veeb | E-post |
-|--------|------|------|--------|
+| Asutus | Juht / võtmeisik | Veeb | E-post |
+|--------|------------------|------|--------|
 | Techno TLN | Ott Pärna | techno.ee | info@techno.ee |
 | Techno TLN | Birgit Vilgats | techno.ee | birgit.vilgats@techno.ee |
 | Techno TLN | Andra Piirsalu | techno.ee | andra.piirsalu@techno.ee |
@@ -317,6 +354,8 @@ Kõik ülalnimetatud juhtkonnad:
 | RaM Kool | Hannes Tamjärv | ramkool.edu.ee | ramkool.edu.ee |
 | RaM Kool | Elmar Vaher (lapsevanem) | kaitseinvesteeringud.ee | — |
 | RaM Kool | Helin Vaher (lapsevanem) | agendapr.ee | helin.vaher@agendapr.ee |
+| **TVW Waldorf** | **Ave Osa (võtmeisik)** | waldorf.ee | tallinn@waldorf.ee |
+| TVW Waldorf | Kristina Šanin (juhataja) | waldorf.ee | kristina.sanin@waldorf.ee |
 
 ---
 

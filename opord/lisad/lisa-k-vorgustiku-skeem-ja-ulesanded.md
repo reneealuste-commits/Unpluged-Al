@@ -516,6 +516,8 @@
 | Maarika Eha-Müller | RaM Kool | Personalijuht |
 | Anneli Paat | RaM Kool | Infojuht |
 | Helin Vaher | RaM Kool | Lapsevanem, kommunikatsioon |
+| **Ave Osa** | **TVW Waldorf** | **Võtmeisik, holistiline tugi** |
+| Kristina Šanin | TVW Waldorf | Kooli juhataja |
 
 *Täielikud profiilid ja fotod: **Lisa J***
 

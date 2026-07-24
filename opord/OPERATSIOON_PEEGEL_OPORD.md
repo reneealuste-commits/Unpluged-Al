@@ -201,6 +201,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 │ Techno TLN (Pärna) │   │ Järvsoo, Ambros     │
 │ KVA juhtkond       │   │ (vt Lisa J)         │
 │ RaM Kool (Vaher)   │   │                     │
+│ TVW Waldorf (Osa)  │   │                     │
 └─────────┬──────────┘   └─────────┬──────────┘
           │                        │
           └────────────┬───────────┘
@@ -550,6 +551,13 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 - **Taust:** PhD, ettevõtja, TU majandusteaduskonna külalisprofessor. Techno TLN direktor — nelja kutsekooli ühendamisel riigi suurim tehnoloogiakolledž (~6000 õppijat). Eesmärk: muuta rakenduslik keskharidus noorte esimeseks valikuks.
 - **Miks ta on siin:** Kool on koht, kus laps veedab suure osa päevast pärast kodu. Kui kool õpetab praktilist oskust, kriitilist mõtlemist ja vastutust — infosõda ei saa teda nii kergesti murda. Täielik Techno TLN juhtkond: **Lisa J**.
 
+#### Tallinna Vaba Waldorfkool — Ave Osa (võtmeisik)
+
+- **Roll operatsioonis:** Waldorfkooli võtmeisik operatsiooni võrgustikus; sidestab kogukonna, lapsevanemad ja paranemis-teadlikku tuge.
+- **Taust:** Holistiline regressiooniterapeut (TAM kutsetunnistus, tase 6; Holistika Instituut, HORETES). Tallinna Vaba Waldorfkool (TVW) — 2001. aastal lapsevanemate initsiatiivil loodud waldorfpedagoogiat järgiv kool (Tuulemaa 12, ~110+ õpilast). Visioon: **vaba inimene** — vastutab oma elu eest, hoolib kogukonnast, on avatud uutele ideedele.
+- **Miks ta on siin:** Waldorf õpetab terviklikku inimest — mitte ainult teste. Operatsioon ütleb: *sa pole katki*. Ave sidestab koolipere holistilise toe ja ausa vestluse kultuuriga (Lisa P). Täiendab Kert Grünbergi ja teadlikkuse võrgustikku. Täielik kooli profiil: **Lisa J**.
+- **Kontakt:** +372 5690 4407 · [waldorf.ee](https://waldorf.ee) · [holistika.ee](https://holistika.ee/teraapia/terapeudid/)
+
 #### Võrgustiku toetajad (taktikaline tase)
 - **Tegusad ettevõtjad (hajutatud võrgustik)** — Martin Plaser, Nils Ratt, Priit Uuemaa, Sverre Puustusmaa, Marko Kaseleht, Kaido Raudvere; tegutsevad sõltumatult, ilma tsentraalse käsuta — igaüks oma piirkonnas ja valdkonnas.
 - **Robert Käsper** — tegutseb **hajutatult omal maastikul**: meedik (18D), veteran, Delfi „Eriväelase jutud"; kaitse ja meditsiin.
@@ -639,7 +647,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 | Taktikaline | Combat Ready (+ Her Way, Youth/Supermängud, Pertinax) | Juhtimiskoolitus, ülim vastutus — aktiivne |
 | Avalik sektor | Ain Anslan (Viru vangla) | Juhtimiskultuur, kriisivalmidus — aktiivne (Lisa K) |
 | Strateegiline kommunikatsioon | Taavi Karotamme, Arvo Jõesalu | Kaitseväe ja Kaitseliidu strateegiline kommunikatsioon — aktiivne |
-| Haridus | Techno TLN (Ott Pärna), KVA juhtkond, RaM Kool (Elmar Vaher) | Kutse-, juhtimis- ja väärtusharidus — aktiivne (Lisa J) |
+| Haridus | Techno TLN (Ott Pärna), KVA juhtkond, RaM Kool (Elmar Vaher), **Tallinna Vaba Waldorfkool (Ave Osa)** | Kutse-, juhtimis-, väärtus- ja waldorfharidus — aktiivne (Lisa J) |
 | Kohalik | Peeter Järvsoo (Noorte Kotkad), Andrei Ambros (Harku), Andres Põhjala (Tartu Do) | Noored ja piirkondlik vastupanuvõime — aktiivne |
 | Rahva tase | Operatsioon „Peegel" võrgustik | KÄIVITATUD — see käsk |
 | Toetus | Remo Ojaste / Combat Ready | Extreme Ownership, äriline juhtimine — aktiivne |
@@ -796,6 +804,11 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 1. Viia kutsehariduse sõnum noorteni: praktiline oskus on vastupanuvõime osa.
 2. Luua koostöö Combat Ready Youth, Laste Supermängud ja tööstusega.
 3. Koordineerida Techno TLN juhtkonna (9 liiget) operatsiooni Faas II–III ülesannetega.
+
+### Ave Osa / Tallinna Vaba Waldorfkool (haridustase, vt Lisa J)
+1. Sidestada Waldorfkooli kogukond operatsiooni turvalisuse ja mõistmise standardiga (Lisa P).
+2. Toetada lapsevanemaid holistilise regressiooniteraapia ja ausa vestluse kaudu — mitte sildistades.
+3. Ehita sild waldorfpedagoogika (terviklik inimene) ja paranemis-teekonna vahel.
 
 ### Marge Sillaste (tugiteenused, inimeste juhtimine)
 1. Supervisioon ja coaching juhtidele, mentoritele ja tugispetsialistidele — inimeste juhtimine, mitte protsesside kontroll.
@@ -1036,6 +1049,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Supervisioon | Marge Sillaste | margemargarethe@gmail.com |
 | Haridus | Ott Pärna / Techno TLN | techno.ee (Lisa J — täielik juhtkond) |
 | Haridus | Rocca al Mare Kool | ramkool.edu.ee (Lisa J — juhtkond + Vaherid) |
+| Haridus | Tallinna Vaba Waldorfkool | waldorf.ee (Lisa J — Ave Osa, võtmeisik) |
 | Akadeemiline tugi | Aarne Ermus | Kaitseväe Akadeemia |
 | Tervis / ennetus | Tervise Arengu Instituut (TAI) | tai.ee (vt Lisa L, **Lisa O**) |
 | Immuniseerimine | Terviseamet + Sotsiaalkaitseministeerium | terviseamet.ee (vt **Lisa O**) |
@@ -1097,7 +1111,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Taastumine looduses:** puhali.ee (Pühali Hea Elu Keskus, Urmas Sõõrumaa)
 - **Kriis (isad):** Lisa H — `lisad/lisa-h-kiirjuhend-kriisis-isale.md`
 - **Juhtimine (SOP):** Lisa I — `lisad/lisa-i-inimesekeskne-juhtimine.md` (Steiger 1997 + V-formatsiooni rotatsioon, ISBN 9985901274)
-- **Koolijuhtkonnad:** Lisa J — `lisad/lisa-j-haridusasutuste-juhtkonnad.md` (Techno TLN, KVA, Rocca al Mare Kool)
+- **Koolijuhtkonnad:** Lisa J — `lisad/lisa-j-haridusasutuste-juhtkonnad.md` (Techno TLN, KVA, Rocca al Mare Kool, **Tallinna Vaba Waldorfkool**)
 - **Võrgustiku skeem:** Lisa K — `lisad/lisa-k-vorgustiku-skeem-ja-ulesanded.md` (kõik osalised, CR statistika, podcast)
 - **Ministeeriumid ja TAI:** Lisa L — `lisad/lisa-l-ministeeriumid-ja-tai.md` (Muski 5-astmeline algoritm)
 - **Kodaniku identiteet:** Lisa M — `lisad/lisa-m-kodaniku-identiteet-ja-vanne.md` (Robbins 5 sammu, manifest, vanne, LIHTSUS)
@@ -1733,6 +1747,13 @@ Steiger ei paku väljamõeldud mudeleid. Ta kirjeldab igapäevast juhtimist, kus
 *Minu küsimus sulle: Kas su lapse kool õpetab teda kontrollima allikaid — või ainult õppima vastuseid pähe?*
 ---
 
+**K: Mis on Tallinna Vaba Waldorfkool ja kes on Ave Osa?**
+
+**V:** Tallinna Vaba Waldorfkool (TVW) on 2001. aastal lapsevanemate initsiatiivil loodud waldorfpedagoogiat järgiv kool Pelgurannas (Tuulemaa 12). Eelkool, põhikool, gümnaasium — visioon on **vaba inimene**, kes võtab vastutuse oma elu eest ja hoolib kogukonnast. Operatsioonis tähendab see: kool, kus laps kasvab terviklikult — mitte ainult testide jaoks. **Ave Osa** on kooli **võtmeisik** operatsiooni võrgustikus — holistiline regressiooniterapeut, kes sidestab Waldorfkooli kogukonna paranemis-teadliku toe ja ausa vestluse kultuuriga (Lisa P). Ametlik kooli juht on Kristina Šanin. Täielik profiil: **Lisa J**.
+
+*Minu küsimus sulle: Kas su lapse kool toetab terviklikku inimest — või ainult tulemust?*
+---
+
 **K: Kes on Aigar Ojaots ja mis on MTÜ Pertinax?**
 
 **V:** Aigar Ojaots on ettevõtja ja MTÜ Team Pertinax kaasasutaja. Pertinax on mereväe vaimsuse ja distsipliiniga seotud meeskond — juba umbes 20 liiget, kes treenivad koos, et olla tugevad ja eneseteadlikud. Mitte teooria, vaid treening: juhtimine, meeskond, füüsiline ja vaimne vastupidavus. Renee treenib nendega koos. Operatsioonis tähendab see: kodanik, kes on treeninud end tugevaks, murrab infosõja mõju kergemini.
@@ -1882,7 +1903,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **G** | 7/7 | `lisad/raamat-07-juhi-ja-voida.md` | Juhi ja võida — kogukond ja kutse |
 | **H** | — | `lisad/lisa-h-kiirjuhend-kriisis-isale.md` | Kiirjuhend kriisis isale — kriisiteekond ja lugemisjärjekord |
 | **I** | — | `lisad/lisa-i-inimesekeskne-juhtimine.md` | Inimesekeskne juhtimine (Steiger 1997, Kert eessõna) — domineeriva juhtimise vastu, 6 sammast, V-formatsioon |
-| **J** | — | `lisad/lisa-j-haridusasutuste-juhtkonnad.md` | Haridusasutuste juhtkonnad — Techno TLN, KVA ja Rocca al Mare Kool meeskonnad profiilipiltidega |
+| **J** | — | `lisad/lisa-j-haridusasutuste-juhtkonnad.md` | Haridusasutuste juhtkonnad — Techno TLN, KVA, RaM Kool, **Tallinna Vaba Waldorfkool** (Ave Osa) |
 | **K** | — | `lisad/lisa-k-vorgustiku-skeem-ja-ulesanded.md` | Võrgustiku skeem — kõik osalised, allüksuste ülesanded, CR statistika, podcasti külalised |
 | **L** | — | `lisad/lisa-l-ministeeriumid-ja-tai.md` | Ministeeriumid ja TAI — Muski 5-astmeline protsessijuhtimine (küsi → kustuta → lihtsusta → kiirenda → automatiseeri) |
 | **M** | — | `lisad/lisa-m-kodaniku-identiteet-ja-vanne.md` | Kodaniku identiteet — Robbins 5 sammu, manifest peegli ees, kodaniku vanne, etapp LIHTSUS |

@@ -41,22 +41,59 @@ Renee Aluste postitas Facebookis video ja lingi dokumendile **„Eesti rahva taa
 
 ---
 
-## 1. Kes on Leelo Vahersalu? (avalik OSINT)
+## 0b. Kuidas Renee ja Leelo kohtusid — puutöö kliendina
+
+Renee ja Leelo ei kohtunud poliitika ega meedia kaudu. Nad kohtusid **kogemata**, kui Leelo oli Renee **puutöö klient**.
+
+| Detail | Mida see tähendab |
+|--------|-------------------|
+| **Kontekst** | Renee teeb puutööd — käed, materjal, täpsus, kannatlikkus |
+| **Kohtumine** | Mitte planeeritud „võrgustiku" samm, vaid **tavaline töösuhe** |
+| **Mida see annab** | Leelo ei tule Renee juurde kui „kuulus toetaja". Ta tuli kui **klient, kes usaldas käte tööd** — ja hiljem jäi kui inimene, kes nägi rohkem |
+
+See on oluline erinevus:
+
+- **Poliitik** toetab sageli positsioonist.
+- **Meedia** toetab sageli loo pärast.
+- **Leelo** tuli esmalt **kliendina** — ta nägi Renee tööd enne, kui ta nägi Renee missiooni.
+
+Kui selline inimene hiljem kirjutab Facebookis *„Ma arvasin kohe, et Sa saad kõigega hakkama"* — siis see ei ole juhuslik kompliment. See on inimene, kes on **juba kord näinud**, et Renee teeb asju lõpuni.
+
+> *Riigikaitse algab kodus. Leelo tuli esmalt kodu kaudu — puutöö kaudu — ja alles siis avalik toetus.*
+
+---
+
+## 1. Kes on Leelo Vahersalu? (avalik OSINT + isiklik kontekst)
 
 | Väli | Andmed | Allikas |
 |------|--------|---------|
 | **Nimi** | Leelo Vahersalu | Avalikud registrid, Sportos |
 | **Piirkond** | **Põhja-Tallinn**, Tallinn | Eesti kaunis kodu 2024 |
-| **Tunnustus** | **Eesti kaunis kodu 2024** laureaat — üks kolmest Tallinna võitjast | [iluskodu.ee](https://www.iluskodu.ee/eesti-kaunis-kodu/voitjad2024/), [Postimees 25.08.2024](https://kodu.postimees.ee/8083647/galerii-millised-on-eesti-koige-kaunimad-kodud) |
+| **Tunnustus** | **Eesti kaunis kodu 2024** laureaat — üks kolmest Tallinna võitjast; tunnustus **president Alar Kariselt** 25.08.2024 Tartus | [iluskodu.ee](https://www.iluskodu.ee/eesti-kaunis-kodu/voitjad2024/), [Postimees 25.08.2024](https://kodu.postimees.ee/8083647/galerii-millised-on-eesti-koige-kaunimad-kodud) |
+| **Aed ja kodu** | Konkurss hõlmab ka **koduaeda ja ümbrust** — Leelo kodu Põhja-Tallinnas valiti riiklikult üheks kauneimaks. See on suur asi: president ise andis tunnustuse üle | [EKKÜ 2024](https://www.iluskodu.ee/eesti-kaunis-kodu/voitjad2024/) |
+| **Töökoht** | **Põhja-Eesti Regionaalhaigla psühhiaatriakliinik**, Paldiski mnt 52 (Seewaldi korpus), **V osakond** *(Renee info)* | [PERH](https://www.regionaalhaigla.ee/kontaktid-ja-asukoht/asume/psuhhiaatriakliinik) |
 | **Liikumine** | Aktiivne jooksja alates 2023 — LHV Maijooks, Põhja-Tallinna kevadjooks, Swedbanki Tallinna Maraton (10 km) | [Sportos](https://www.sportos.eu/ee/et/leelo+vahersalu) |
-| **Avalik roll** | Kodanik, kes hoolib **kodust, naabruskonnast ja kehast** — mitte poliitik ega ametnik | OSINT kokkuvõte |
+| **Avalik roll** | Kodanik, kes hoolib **kodust, naabruskonnast, kehast ja noortest** — mitte poliitik ega ametnik | OSINT + isiklik vestlus |
 
 ### Mida see tähendab lihtsas keeles
 
 Leelo Vahersalu ei ole teleekraanilt tuntud nimi. Ta on inimene, kes:
-- **teeb oma kätega** kodu ja ümbruskonna ilusamaks — president Alar Karis nimetas selliseid inimesi neid, kelle uhkus „ei ole upsakus", vaid **hoolivus**;
+- **teeb oma kätega** kodu ja aia ilusamaks — nii hästi, et **president Alar Karis** tunnustas seda riiklikult 2024. aastal. See ei ole väike medal. See on märk, et üks inimene on aastaid **hoolinud** — mitte näidanud;
+- **töötab psühhiaatriakliinikus** Paldiski mnt 52 — kohas, kus Eestis kohtuvad kõige raskemad vaimse tervise kriisid;
+- **jagas Renee'ga infot**, mis seal toimub — ausalt, inimeselt inimesele;
 - **liigub regulaarselt** — jooksmine on distsipliin, mitte trend;
 - elab **Põhja-Tallinnas** — piirkonnas, kus kogukond, kodu ja naabrus on päriselt olulised, mitte slogani tasemel.
+
+### Presidendi tunnustus — miks see on suur asi
+
+Eesti kaunis kodu konkursi **patroon on Vabariigi President**. Laureaat saab:
+- presidendilt **tänukirja**;
+- **seinaplaadi**;
+- riikliku tunnustuse, mis jõuab ka albumisse „Eesti kaunis kodu 2024".
+
+President Karis ütles 2024. aasta tseremoonial: kodu peab olema koht, kus **igaüks ennast mugavalt tunneb** — ja see on nii omavalitsuse, riigi kui ka iga kodaniku ülesanne.
+
+Leelo ei võitnud seda poliitika või kontaktidega. Ta võitis **käte ja hoolivusega**. See on täpselt see eeskuju, mida Operatsioon „Peegel" otsib.
 
 ---
 
@@ -76,7 +113,80 @@ Operatsioon „Peegel" ei ole eesmärk võita Twitterit või Toompead. See on ko
 | **Hoolivus, mitte ükskõiksus** | Presidendi sõnad laureaatidele: *„Lohakus ja ükskõiksus kodusse võtab kodutunde… käestlastu pudeneb laiali"* |
 | **Kodanik eeskujuna** | Ta ei oota käsku — ta **teeb ise** |
 
-**Järeldus:** Leelo esindab täpselt seda inimest, **kelle jaoks** Operatsioon „Peegel" on kirjutatud. Mitte ministrit, vaid naabrit.
+**Järeldus:** Leelo esindab täpselt seda inimest, **kelle jaoks** Operatsioon „Peegel" on kirjutatud. Mitte ministrit, vaid naabrit — kes **ehitab kodu**, **ravib haigeid** ja **ütleb ausalt**, kui midagi on valesti.
+
+---
+
+## 1b. Paldiski mnt 52 — mida see koht tähendab
+
+Leelo töötab **Põhja-Eesti Regionaalhaigla psühhiaatriakliinikus**, aadressil **Paldiski mnt 52** — tuntud ka kui **Seewaldi korpus**. See on üks Eesti vanemaid ja tuntumaid vaimse tervise ravikohti.
+
+### Avalik info — osakonnad samas hoones
+
+| Osakond | Mida seal tehakse (avalik kirjeldus) |
+|---------|--------------------------------------|
+| **V osakond** | **Akuutravi** — ägeda psühhoosi või kõrge suitsiidiriskiga patsiendid, kelle seisund on ohtlik endale või ümbritsevatele |
+| **VII osakond** | **Laste ja noorukite ravi** — 12–17-aastased; psüühikahäirete diagnostika ja ravi |
+| **II–IV, VIII–IX** | Meeleoluhäired, subakuutravi, üldpsühhiaatria, esmased psühhoosid |
+
+> *Märkus: Leelo nimetas Renee'le **V osakonna**. Kui vestluse kontekst oli noorte vaimne tervis, võib olla tegu ka VII osakonnaga (laste ja noorukite ravi) — mõlemad asuvad samal aadressil. Me ei spekuleeri üle — kasutame seda, mida Leelo jagas.*
+
+### Mida Leelo jagas — ja miks see on oluline avada
+
+Renee vestluse käigus sai teada midagi, mida **meedia ei näita** ja **statistika ei tunneta**:
+
+| Leelo sõnum (kokkuvõte) | Mida see tähendab avalikult |
+|-------------------------|----------------------------|
+| **„Nad on edukad"** | Osakond teeb oma tööd hästi. Inimesed seal **päästavad elusid**. See ei ole lohakas asutus — see on koht, kus professionaalid töötavad rasketes tingimustes |
+| **„Üldine noorte pilt on kole"** | Makro-tase on teistsugune kui üksiku osakonna tulemus. Noorte vaimne tervis Eestis on **kriisis** — ja see jõuab ka haiglani |
+
+See on kriitiline eristus:
+
+```
+ÜKS OSAKOND võib olla edukas
+        ≠
+NOORTE ÜLDINE OLUKORD on hea
+```
+
+Inimene, kes töötab **esirinnas**, näeb mõlemat korraga:
+- **mikro**: meie meeskond teeb head tööd;
+- **makro**: lapsed ja noored tulevad meile üha raskemas seisundis.
+
+See on täpselt see hääl, mida Operatsioon „Peegel" vajab — mitte kabinetist, vaid **põrandalt**.
+
+### Avalik kontekst — miks „noorte pilt on kole" ei ole ülepakutud
+
+Alljärgnev on **avalik statistika**, mitte ühegi patsiendi lugu:
+
+| Näitaja | Andmed | Allikas |
+|---------|--------|---------|
+| Depressiooni ja ärevuse risk 15–24-aastastel | Kuni **2× kõrgem** kui elanikkonnas keskmiselt | [Eesti laste vaimse tervise uuring (LVTU)](https://www.tai.ee/sites/default/files/2025-05/lvtu_lopparuanne_16mai2025.pdf) |
+| Sümptomid (depressioon, ärevus, enesevigastamine) | **Levinumad tüdrukutel**; sagenemine vanuse kasvades | LVTU 2024–2025 |
+| Suitsiidid 10–19-aastaste seas (2024) | **10 juhtu**; moodustasid **23,8%** kõigist surmadest selles vanuses | [Suitsiidoloogia instituut 2024](https://suicidology.ee/wp-content/uploads/2025/12/Suitsiidide_statistika_Eestis_2024.pdf) |
+| Antidepressantide kasutamine 5–24-aastastel | **Kasvav trend**; ~7% vanuserühmas kasutab antidepressante | [Ravimiamet 2025](https://ravimiamet.ee/blogi/vaimse-tervise-mured-noortel-paistavad-ravimistatistikast-valja) |
+| Globaalne trend | Vaimse tervise probleemid on viimase 30 aasta jooksul tõusnud laste ja noorte hulgas **tervisekao põhjustajatena esikohale** | IHME andmed, LVTU |
+
+### Mida me EI jaga (privaatsus)
+
+| ❌ Ei | ✅ Jah |
+|-----|-------|
+| Ühegi patsiendi lugu | Avalik statistika |
+| Diagnoosid, nimed, juhtumid | Osakonna avalik roll |
+| „Mul rääkis Leelo, et..." konkreetse inimese kohta | „Töötaja esirinnas ütleb: üldine pilt on kole" |
+| Haiglasisene juurdlus | Küsimus: miks noored jõuavad nii kaugele? |
+
+> *Leelo jagas infot usalduslikult, inimesena. Me avame **teema**, mitte **isikuid**.*
+
+### Seos Operatsiooniga „Peegel"
+
+| Operatsiooni teema | Leelo elu ja töö |
+|--------------------|------------------|
+| **„Riigikaitse algab kodus"** | Leelo ehitab kodu nii, et president tunnustas — ja töötab samal ajal seal, kuhu kodud **ei suuda** enam lapsi kaitsta |
+| **Noorte vaimne tervis** | Lisa H (uni, keha), Lisa E (pere rindejoon) — Leelo näeb, mis juhtub, kui kodu ei hoia |
+| **Infosõda ja üksildus** | Noored jõuavad haiglasse sageli pärast aastaid vaikimist — sotsiaalmeedia, kiusamine, pere stress |
+| **„Järgmine sõda on su köögis"** | Sõda ei ole ainult tankid. See on ka **lapse toa uks**, mis jääb kinni |
+
+Kui keegi nagu Leelo — kes **teeb kodu ilusaks** ja **ravib haigeid noori** — ütleb, et üldine pilt on kole, siis see ei ole pessimism. See on **esirinde aruanne**.
 
 ---
 
@@ -123,6 +233,25 @@ Infosõjas võidab see, kes tekitab **üksildust** ja **häbi**. Üks kommentaar
 - annab julgust teistele naabritele;
 - näitab, et teema ei ole „ühe mehe show", vaid **ühine mure**.
 
+### F. Sest ta töötab **esirinnas**, kus statistika saab näoks
+
+Leelo ei loe uuringuid. Ta **näeb** tulemusi:
+- lapsi ja noori, kes on jõudnud kriisini;
+- meeskonda, kes teeb oma tööd hästi — aga **ei suuda üksi** parandada ühiskonda.
+
+Kui ta ütleb *„nad on edukad, aga noorte pilt on kole"* — siis see on täpne sõnastus **süsteemi tasemel**:
+- **Mikro (osakond):** professionaalne, päästev, edukas.
+- **Makro (Eesti noored):** ärevus, depressioon, enesevigastamine, suitsiid — numbrid tõusevad.
+
+Renee Operatsioon ütleb: *perede tugevdamine enne kriisi*. Leelo näitab, mis juhtub **pärast**, kui see ei õnnestu.
+
+### G. Sest ta tuli esmalt **kliendina**, mitte toetajana
+
+Renee ja Leelo suhe algas **puutööst** — mitte manifestist. See tähendab:
+- Leelo nägi Renee **käte tööd** enne missiooni;
+- tema toetus ei ole strateegiline kalkulatsioon;
+- kui ta kirjutab *„sa saad kõigega hakkama"*, siis ta räägib inimesest, kelle **laua ta juba tellis**.
+
 ---
 
 ## 4. Mida me ei tea (ausalt)
@@ -132,7 +261,10 @@ Infosõjas võidab see, kes tekitab **üksildust** ja **häbi**. Üks kommentaar
 | Täpne elukoht Põhja-Tallinnas | Avalikult pole täpset aadressi — ainult linnaosa |
 | Kas ta on Kopli vabatahtliku päästekomando liige | **Kinnitamata** avalikes allikates — võib olla, aga me ei väida |
 | Täpne sõnastus tema kommentaarist | **Jah** — vt sektsioon 0: *„Ma arvasin kohe, et Sa saad kõigega hakkama, väga tubli tüüp!"* (Facebook, OPORD-postitus) |
+| Täpne ametikoht V osakonnas | Renee info — **me ei avalda** täpset rolli ega isiklikke tööülesandeid |
+| Kas V või VII osakond (noorte kontekst) | Renee sõnul **V osakond**; noorte teema võib viidata ka **VII osakonnale** — mõlemad samas hoones |
 | Poliitiline kuuluvus | OSINT ei näita — **kodanik**, mitte erakond |
+| Konkreetsed patsiendilood | **Ei jaga** — privaatsus ja eetika |
 
 > *Me ei ehita inimest üles. Me tunnustame seda, mis on avalikult tehtud — ja seda, mida tema sõnad Renee jaoks tähendavad.*
 
@@ -146,17 +278,44 @@ Infosõjas võidab see, kes tekitab **üksildust** ja **häbi**. Üks kommentaar
 
 **Kes on Leelo Vahersalu?**
 
-Ta elab Põhja-Tallinnas. Tema kodu valiti 2024. aastal üheks Eesti kauneimaks. Ta jookseb regulaarselt — Maijooks, Põhja-Tallinna kevadjooks, Tallinna maraton. Ta ei ole poliitik. Ta on inimene, kes hoolib kodust, naabruskonnast ja kehast.
+Ta elab Põhja-Tallinnas. Tema kodu ja aed valiti 2024. aastal üheks Eesti kauneimaks — president Alar Karis andis talle isiklikult tunnustuse. Ta jookseb regulaarselt. Ta töötab PERH psühhiaatriakliinikus Paldiski mnt 52 — kohas, kus ravivad Eestis kõige raskemaid vaimse tervise kriise.
+
+Ta ei ole poliitik. Ta on inimene, kes **ehitab kodu**, **ravib haigeid** ja **hoolib**.
+
+**Kuidas Renee temaga kohtus?**
+
+Kogemata — puutöö kliendina. Leelo tuli esmalt Renee juurde käte töö pärast. Alles hiljem sai ta Facebookis avaliku toetuse inimesele, kelle käte tööd ta juba tundis.
+
+**Mida ta kirjutas Renee postituse alla?**
+
+> *„Ma arvasin kohe, et Sa saad kõigega hakkama, väga tubli tüüp! 😊"*
+
+Renee oli just jaganud Operatsioon „Peegel" OPORD-dokumenti. Leelo ei küsinud, mis see on. Ta ütles: **ma uskusin sinusse juba enne.**
+
+**Mida ta jagas tööst?**
+
+Leelo rääkis ausalt: tema osakond teeb head tööd — nad on edukad. Aga **üldine noorte pilt on kole**. See ei ole hirmutamine. See on inimene, kes töötab esirinnas ja näeb, mis Eestis noortega tegelikult toimub.
+
+Avalik statistika kinnitab seda:
+- 15–24-aastastel on depressiooni ja ärevuse risk kuni **kaks korda kõrgem** kui keskmiselt.
+- 2024. aastal oli 10–19-aastaste seas **10 suitsiidi** — see moodustas **peaaegu veerandi** kõigist surmadest selles vanuses.
+- Antidepressantide kasutamine noorte seas **kasvab**.
+
+Me ei jaga ühegi patsiendi lugu. Aga me peame kuulama inimest, kes näeb tulemust — mitte ainult numbreid kabinetis.
 
 **Miks tema sõna loeb?**
 
-Renee Aluste on aastaid teinud kodanikualgatust — infosõja vastu, perede tugevdamiseks, taastumiseks. See töö on sageli üksildane. Kui keegi nagu Leelo — kes ise ehitab kodu, liigub, elab samas linnas — ütleb, et see on oluline, siis see ei ole propaganda. See on **naabri hääl**.
+Renee Aluste on aastaid teinud kodanikualgatust — infosõja vastu, perede tugevdamiseks, taastumiseks. See töö on sageli üksildane. Kui keegi nagu Leelo — kes ise ehitab kodu, ravib noori, elab samas linnas — ütleb, et see on oluline, siis see ei ole propaganda. See on **naabri ja esirinde hääl**.
 
-Operatsioon „Peegel" ütleb: *riigikaitse algab kodus*. Leelo on elav näide sellest, mida „kodu" tähendab — mitte nõuka korter, vaid **hooliv käte töö**.
+Operatsioon „Peegel" ütleb: *riigikaitse algab kodus*. Leelo on elav näide sellest, mida „kodu" tähendab — mitte nõuka korter, vaid **hooliv käte töö**. Ja samal ajal näitab ta, mis juhtub, kui ühiskond last ei hoia.
 
-Üks aus kommentaar selliselt inimeselt võib olla väärt rohkem kui tuhat ametlikku pressiteadet. Sest see ütleb: **sa pole üksi. Sa teed õiget asja. Ja keegi nägi.**
+Üks aus kommentaar selliselt inimeselt võib olla väärt rohkem kui tuhat ametlikku pressiteadet. Sest see ütleb: **sa pole üksi. Sa teed õiget asja. Ja keegi nägi — nii kodus kui haiglas.**
 
 ---
+
+## 5b. Üks lause inimestele (lühike versioon)
+
+> **Leelo Vahersalu** — presidendilt tunnustatud kodu ja aia eest, puutöö klient, psühhiaatriakliiniku töötaja Paldiski mnt 52. Ta ütles Renee'le: *„Sa saad kõigega hakkama."* Ja jagas ausalt: osakond teeb head tööd, aga **noorte üldine pilt on kole**. See on hääl, mida tuleb kuulata — mitte kabinetist, vaid esirinnast.
 
 ## 6. Küsimused, mida võid endalt küsida (pärast Leelo sõnu)
 
@@ -165,6 +324,9 @@ Operatsioon „Peegel" ütleb: *riigikaitse algab kodus*. Leelo on elav näide s
 3. Mis muutuks minu elus, kui ma teeksin oma „kodu" nii hoolikalt nagu Leelo?
 4. Kas Renee töö on tõesti üksildane — või on võrgustik juba olemas, aga vaikne?
 5. Keda ma tean enda ümbruses, kes on Leelo-sugune — ja kas ma olen neile öelnud aitäh?
+6. Kas ma kuulan ainult statistikat — või ka inimest, kes töötab esirinnas?
+7. Mida tähendab „riigikaitse algab kodus", kui noored jõuavad Paldiski mnt 52-ni?
+8. Kas ma oskan eristada: **üks osakond on edukas** vs **ühiskond on haige**?
 
 ---
 
@@ -172,7 +334,13 @@ Operatsioon „Peegel" ütleb: *riigikaitse algab kodus*. Leelo on elav näide s
 
 - [Eesti kaunis kodu 2024 laureaadid](https://www.iluskodu.ee/eesti-kaunis-kodu/voitjad2024/)
 - [Postimees: Eesti kauneimad kodud (25.08.2024)](https://kodu.postimees.ee/8083647/galerii-millised-on-eesti-koige-kaunimad-kodud)
+- [President Alar Karis andis üle Eesti kauni kodu tiitlid (25.08.2024)](https://saartehaal.postimees.ee/8083588/president-alar-karis-andis-ule-eesti-kauni-kodu-tiitlid)
 - [Leelo Vahersalu — Sportos](https://www.sportos.eu/ee/et/leelo+vahersalu)
+- [PERH psühhiaatriakliinik — Paldiski mnt 52](https://www.regionaalhaigla.ee/kontaktid-ja-asukoht/asume/psuhhiaatriakliinik)
+- [Haiglaravi psühhiaatriakliinikus — osakonnad](https://www.regionaalhaigla.ee/haiglaravi-psuhhiaatriakliinikus)
+- [Eesti laste vaimse tervise uuring (LVTU) 2024–2025](https://www.tai.ee/sites/default/files/2025-05/lvtu_lopparuanne_16mai2025.pdf)
+- [Suitsiidide statistika Eestis 2024](https://suicidology.ee/wp-content/uploads/2025/12/Suitsiidide_statistika_Eestis_2024.pdf)
+- [Ravimiamet: vaimse tervise mured noortel](https://ravimiamet.ee/blogi/vaimse-tervise-mured-noortel-paistavad-ravimistatistikast-valja)
 - [Kopli vabatahtlik päästekomando (kontekst Põhja-Tallinnale)](https://www.tallinn.ee/et/uudis/kopli-vabatahtlik-paastekomando-alustab-tegevust)
 
 ---

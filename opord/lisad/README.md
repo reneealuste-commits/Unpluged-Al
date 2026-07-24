@@ -47,6 +47,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | AK | [lisa-ak-kodaniku-taskuraamat-peegel.md](lisa-ak-kodaniku-taskuraamat-peegel.md) | **Kodaniku taskuraamat** — Ranger Handbooki mõõt, eelarve, bushcraft, ohtlikkus (side quest) |
 | AL | [lisa-al-riiklik-levitamisplaan-shveits-mudel.md](lisa-al-riiklik-levitamisplaan-shveits-mudel.md) | **Riiklik levitamisplaan** — Šveitsi mudel, iga kodanik, MTÜ, riigihanke, kihtide trükk |
 | AM | [lisa-am-oigused-ja-realistlik-maht.md](lisa-am-oigused-ja-realistlik-maht.md) | **Õigused ja realistlik maht** — Huber päring, turu matemaatika, kaks rada (Heli tagasiside) |
+| AN | [lisa-an-venekeelne-sihtruhm-ja-inimesekeskne-levitus.md](lisa-an-venekeelne-sihtruhm-ja-inimesekeskne-levitus.md) | **Venekeelne sihtrühm** — Heli piir, eraldi kanal, trauma-teadlik levitus, lihtsus |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
 ---

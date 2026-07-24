@@ -2488,6 +2488,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **AK** | — | `lisad/lisa-ak-kodaniku-taskuraamat-peegel.md` | **Kodaniku taskuraamat** — Ranger Handbooki mõõt, eelarve, bushcraft, ohtlikkus (side quest) |
 | **AL** | — | `lisad/lisa-al-riiklik-levitamisplaan-shveits-mudel.md` | **Riiklik levitamisplaan** — Šveitsi mudel, iga kodanik, MTÜ, riigihanke, kihtide trükk |
 | **AM** | — | `lisad/lisa-am-oigused-ja-realistlik-maht.md` | **Õigused ja realistlik maht** — Huber päring, turu matemaatika, kaks rada (Heli tagasiside) |
+| **AN** | — | `lisad/lisa-an-venekeelne-sihtruhm-ja-inimesekeskne-levitus.md` | **Venekeelne sihtrühm** — Heli piir, eraldi kanal, trauma-teadlik levitus, lihtsus |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

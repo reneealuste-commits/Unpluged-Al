@@ -37,3 +37,7 @@
 | 1 | Huber Verlagile õiguste päring (Lisa AM §3 kiri) | Heli |
 | 2 | Rada B: Peegel taskuraamat (Lisa AK) — paralleelselt | Renee |
 | 3 | Lisa AL jääb pika mängu visiooniks; esimene samm Lisa AM | Kõik |
+
+---
+
+**Lisa:** venekeelne kanal ja Heli piir — vt `lisad/lisa-an-venekeelne-sihtruhm-ja-inimesekeskne-levitus.md` §8.

@@ -64,6 +64,7 @@ BOOK_FILES = [
     "lisa-ak-kodaniku-taskuraamat-peegel.md",
     "lisa-al-riiklik-levitamisplaan-shveits-mudel.md",
     "lisa-am-oigused-ja-realistlik-maht.md",
+    "lisa-an-venekeelne-sihtruhm-ja-inimesekeskne-levitus.md",
     "renee-aluste-profiil.md",
 ]
 

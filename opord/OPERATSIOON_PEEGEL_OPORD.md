@@ -102,6 +102,8 @@ Paljud inimesed **ei tee seda, mida nad peaksid tegema ametikoha juhendi järgi*
 
 Aga et inimesed **saaksid aru, mis üldse valesti on**, peab lõppema **kiusamine** ja vana **juhtimismeetodite ja -stiili** ajastu. Inimene ei võta vastutust keskkonnas, kus teda alandatakse, hirmutatakse või surutakse alla. Ta ei näe juurt — ta näeb ainult survet. Seetõttu on operatsiooni tuum ka **inimesekeskne juhtimine** (Lisa I — Steiger, Kert Grünberg): austus, turvalisus, mõistmine — ja alles siis vastutus.
 
+**Miks inimesed käituvad nii, nagu nad käituvad:** kiusamine ei ole ainult „halb iseloom". *Imeline Teadus* (11/2023) näitab: kiusamine **muudab aju anatoomiat ja keemiat** — virgatsained ja võrgustikud lähevad tasakaalust välja. Kiusaja kujuneb geenide ja keskkonna mõjul; kiusatu kannab arme **täiskasvanueasse**. Bessel van der Kolk (*The Body Keeps the Score*, ISBN 978-0-141-97861-1) selgitab, kuidas trauma **elab kehas** — pre-verbaalne reaktsioon, triggerid, kaitsepositsioon. Täielik teaduslik alus: **Lisa S**.
+
 Need probleemid on käsitletud selles **rahva taastamise juhises** (see dokument ja Tugeva Isa seeria). Ja need on **väga lihtsasti lahendatavad lihtsate tööriistadega** — uni, liikumine, toit, aus vestlus, mentor, 1-1 kontakt, roll + eesmärk + juhis. Mitte raketiteadus. Mitte miljardiprojekt.
 
 > *Kui probleem on lihtne lahendada ja tööriist on olemas — on ebamõistlik mitte vähemalt proovida.*
@@ -148,7 +150,7 @@ See ei ole erisoov. See on **operatsiooniline nõue**:
 
 **1-1 vestlused** (prioriteet) toimuvad ainult selles raamis. Mass-koolitus ilma kontaktita ei asenda seda.
 
-**Paranemis-teadlik tugi võrgustikus:** Kert Grünberg (hingamistuba.ee), Jure Biechonski (teadlikmina.ee), Priit Lilleväli, Kaia Kapsta-Forrester, Lisa H, Lisa F, EMDR (KV Tugiteenuste keskus / ohvriabi.ee). Peamine raamat: van der Kolk, *The Body Keeps the Score* (ISBN 978-0-141-97861-1). Täielik valideerimise juhend: **Lisa P**.
+**Paranemis-teadlik tugi võrgustikus:** Kert Grünberg (hingamistuba.ee), Jure Biechonski (teadlikmina.ee), Priit Lilleväli, Kaia Kapsta-Forrester, Lisa H, Lisa F, EMDR (KV Tugiteenuste keskus / ohvriabi.ee). Peamine raamat: van der Kolk, *The Body Keeps the Score* (ISBN 978-0-141-97861-1). Kiusamine ja aju: **Lisa S** (*Imeline Teadus* + trauma). Täielik valideerimise juhend: **Lisa P**.
 
 > *Inimene reageerib pre-verbaalselt. Alguses ei räägi mõistusega — räägib kehaga. Alusta turvalisusest. Sa pole katki — sa vajad ruumi paranemiseks.*
 
@@ -1037,7 +1039,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 | Klass | Sisu |
 |-------|------|
 | **I (toit)** | Soe pere eine 1× nädalas — ilma ekraanideta |
-| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet), **Lisa N (Aluste_kool)**, **Lisa O (vaktsineerimine)**, **Lisa P (takistused)**, **Lisa Q (side)**, **Lisa R (taust / kahtlus)**; Alar Ojastu *Ratsionaalne emotsionaalsus*; Tiit Trofimov *Lõpp on algus*; Liivamägi/Talpsepp/Vaarmets *Eraisiku rahandus*; Stefansson *Not by Bread Alone* / *The Fat of the Land*; McClellan & Du Bois (1929–1930, Bellevue lihadieet); „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee); Gordon (sinamina.ee); Imelised aastad (pk.ee); Papsid.ee; Starfish Academy; BMI Institute; BNI Eesti; Äripäev Investor Toomas (aripaev.ee/raadio); Rahakratt (rahakratt.rahajutud.ee); Marko Oolo Exceli tööriistad (oolomarko.ee); Blondcast (tasku.delfi.ee); **Sõduri käsiraamat + Kaitseväe sisemäärustik** (mil.ee) |
+| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet), **Lisa N (Aluste_kool)**, **Lisa O (vaktsineerimine)**, **Lisa P (takistused)**, **Lisa Q (side)**, **Lisa R (taust / kahtlus)**, **Lisa S (kiusamine, aju, trauma)**; Alar Ojastu *Ratsionaalne emotsionaalsus*; Tiit Trofimov *Lõpp on algus*; Liivamägi/Talpsepp/Vaarmets *Eraisiku rahandus*; Stefansson *Not by Bread Alone* / *The Fat of the Land*; McClellan & Du Bois (1929–1930, Bellevue lihadieet); „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee); Gordon (sinamina.ee); Imelised aastad (pk.ee); **Imeline Teadus** 11/2023 (kiusamine); Papsid.ee; Starfish Academy; BMI Institute; BNI Eesti; Äripäev Investor Toomas (aripaev.ee/raadio); Rahakratt (rahakratt.rahajutud.ee); Marko Oolo Exceli tööriistad (oolomarko.ee); Blondcast (tasku.delfi.ee); **Sõduri käsiraamat + Kaitseväe sisemäärustik** (mil.ee) |
 | **III (kütus)** | Uni 7–8h; liikumine 30 min/päev; **toit** — eelistada täisväärtuslikku, vähe töödeldud toitu (kohalik kala, liha, rasv koos); enne suuri dieedimuutusi perearst. Vt Lisa H (Renee saamise lugu, Stefanssoni viide) |
 | **V (laskemoon)** | Sõnad — kasuta neid mõistlikult. Iga sõnum on lask |
 | **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber; [narko.ee](https://www.narko.ee) chatbot/tugiliin (Renee alustas siit); [ohvriabi.ee](https://ohvriabi.ee) — koduvägivalla korral kuni 940 € psühholoogilise abi toetus 2 aasta jooksul (sh **EMDR** sessioonid); Märt Avandi lugu YouTube'is: [watch?v=nNuHGdQdrZY](https://www.youtube.com/watch?v=nNuHGdQdrZY) |
@@ -1302,6 +1304,24 @@ Ma olen tuvastanud probleemid, mida käsitleb see **rahva taastamise juhis** —
 Ma ei palu sul uskuda mind. Ma palun vaadata, kas need tööriistad aitavad **sul** — üks samm korraga.
 
 *Minu küsimus sulle: Kas sa oled kunagi näinud probleemi, mida kõik ümberringi „parandavad" — aga keegi ei vaata juurt?*
+
+---
+
+**K: Miks inimesed käituvad nii — kiusavad, põlevad läbi, lahkuvad? Kas see on lihtsalt „halb iseloom"?**
+
+**V (Renee Aluste):** Ei. See on üks olulisemaid küsimusi, mida see operatsioon vastab.
+
+*Imeline Teadus* (11/2023) näitab: **kiusamine ajab aju virgatsainete ja võrgustike tasakaalu paigast**. See ei jäta ainult „psüühilisi arme" — MRI-uuringud näitavad, et teatud ajupiirkonnad **suurenevad või kahanevad**. Stressikeskused ülekoormuvad; reguleerivad piirkonnad nõrgenevad. Tagajärjed võivad ulatuda **täiskasvanueasse** — isegi kui kius on ununenud.
+
+**Miks kiusaja kiusab?** Enamasti mitte puhtast kurjusest. Geenid, keskkond, hierarhia, hirm välja jääda. Mõni kiusatu hakkab ise teisi kiusama. Mina olin koolis kiusaja — ma mõistsin alles hiljem, miks. Väärkohtlemine ja surve **muudavad aju**.
+
+**Bessel van der Kolk** (*The Body Keeps the Score*, ISBN 978-0-141-97861-1) selgitab teist poolt: trauma **ei ela ainult peas**. See elab **kehas**. Täiskasvanu reageerib **pre-verbaalselt** — enne loogikat. Seetõttu ei aita „võta ennast kokku" ega argument. Aitab **turvalisus**, keha, mõistmine — alles siis vastutus.
+
+Kaitseväes olen näinud sama mustrit: kui kiusamine ja vana juhtimisstiil jätkuvad, ei võta inimesed vastutust. Kõik koormus langeb neile, kes töötavad — nad põlevad läbi ja lahkuvad. Lahendus: lõpeta kiusamine, loo turvaline keskkond (Lisa I), siis **kõik teevad oma osa**.
+
+Täielik teaduslik alus: **Lisa S**. Praktiline suhtlus: **Lisa P**.
+
+*Minu küsimus sulle: Kas sa oled kunagi mõelnud, et kellegi „halb käitumine" võib olla keha kaitse — mitte iseloom?*
 
 ---
 
@@ -1993,6 +2013,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **O** | — | `lisad/lisa-o-vaktsineerimine.md` | **Vaktsineerimine** — uuringud, ühiskond, konspiratsioonid, Renee isiklik valik, TAI/Terviseamet |
 | **P** | — | `lisad/lisa-p-takistused-ja-valideerimine.md` | **Takistused ja valideerimine** — spordikommentaator, van der Kolk, paranemis-teadlikkus |
 | **Q** | — | `lisad/lisa-q-side-eeskirjad-ja-suhtlus.md` | **Side eeskirjad** — hääl, GOTWA, austav keel, Pareto 80/20, demomehed |
+| **S** | — | `lisad/lisa-s-kiusamine-aju-ja-trauma.md` | **Kiusamine, aju ja trauma** — *Imeline Teadus*, miks inimesed käituvad nii, Body Keeps the Score |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

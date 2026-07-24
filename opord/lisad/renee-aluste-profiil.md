@@ -49,7 +49,7 @@ Renee on Kaitseväes näinud mustrit, mis kordub ka tsiviilis:
 - **Kogu süsteem kannatab** — raskus langeb neile, kes töötavad päriselt
 - Need inimesed on **läbipõlenud ja katki** — ja **lahkuvad kiiresti**
 - **Lahendus:** kui **kõik** vastutaksid ja teeksid oma osa, paraneks **kõigi** olukord
-- **Eeldus:** et inimesed saaksid aru, mis valesti on, peab lõppema **kiusamine** ja vana **juhtimismeetodite ja -stiili** ajastu — vastutus ei tule survetundest (Lisa I: inimesekeskne juhtimine)
+- **Eeldus:** et inimesed saaksid aru, mis valesti on, peab lõppema **kiusamine** ja vana **juhtimismeetodite ja -stiili** ajastu — vastutus ei tule survetundest (Lisa I: inimesekeskne juhtimine). **Miks inimesed käituvad nii:** Lisa S (*Imeline Teadus* + *Body Keeps the Score*)
 
 > *Kui probleem on lihtne lahendada ja tööriist on olemas — on ebamõistlik mitte vähemalt proovida.*
 
@@ -153,6 +153,7 @@ See oli eluõppetund, mis jõudis Operatsiooni „Peegel" tuuma: dominants ei t�
 | Lisa G | `raamat-07-juhi-ja-voida.md` | Kogukonna juhtimine |
 | Lisa H | `lisa-h-kiirjuhend-kriisis-isale.md` | Kiirjuhend kriisis |
 | Lisa R | `lisa-r-kes-ma-olen-ja-taust.md` | Taust ja tõendid (kahtlus) |
+| Lisa S | `lisa-s-kiusamine-aju-ja-trauma.md` | Kiusamine, aju, trauma — *Imeline Teadus* + van der Kolk |
 | Lisa O | `lisa-o-vaktsineerimine.md` | Vaktsineerimine — uuringud, aus hinnang |
 | Peamine käsk | `OPERATSIOON_PEEGEL_OPORD.md` | Täielik OPORD |
 

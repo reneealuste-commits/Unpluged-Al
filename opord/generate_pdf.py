@@ -43,6 +43,7 @@ BOOK_FILES = [
     "lisa-p-takistused-ja-valideerimine.md",
     "lisa-q-side-eeskirjad-ja-suhtlus.md",
     "lisa-r-kes-ma-olen-ja-taust.md",
+    "lisa-s-kiusamine-aju-ja-trauma.md",
     "renee-aluste-profiil.md",
 ]
 

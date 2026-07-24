@@ -36,6 +36,8 @@ See täiendab Lisa P valideerimist. Valideerimine on **samm**. Paranemis-teadlik
 
 **Peamine viide:** Bessel van der Kolk, *The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma* (Penguin Psychology, ISBN 978-0-141-97861-1).
 
+**Miks inimesed käituvad nii (kiusamine, triggerid, täiskasvanu mustrid):** *Imeline Teadus* 11/2023 + van der Kolk täiskasvanu mõju — täielik alus **Lisa S** (kiusamine, aju anatoomia, trauma kehas). Lisa P on **praktika**; Lisa S on **mõistmine**.
+
 Inimene kaitsepositsioonis ei reageeri esmalt loogikaga. Ta reageerib **pre-verbaalselt** — keha ja närvisüsteem enne mõistust. Kui keegi on triggeris, hirmus või kaitsepositsioonis, on tema **mõistus veel üleval** — aga see ei ole koht, kuhu alustada vestlust.
 
 > *Sa ei saa alguses rääkida mõistusega. Sa saad alguses rääkida ainult kehaga.*

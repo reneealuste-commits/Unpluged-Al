@@ -1504,6 +1504,8 @@ Kui hüppad otse vastutusele, kustutad **sümptomeid** — mitte juurt. See on s
 
 Täielik alus: **Lisa I** (Steiger) + **Lisa P** (van der Kolk, spordikommentaator) + **Lisa S** (kiusamine, aju).
 
+**Faktorite analüüs (Lisa I, lk 32):** enne süüdistamist küsi — oskamatus või tahtetus? Kas juht ise on tulemust määrav faktor? **Mõista ≠ nõustu** (lk 35–37): neli sammu — aruta, küsi, seleta, otsi ühist lahendust.
+
 *Minu küsimus sulle: Kas sa oled kunagi proovinud kedagi „parandada" loogikaga — kui ta vajas esmalt turvalisust?*
 
 ---

@@ -52,7 +52,7 @@ See on operatsiooni tuum, kui räägime Kaitseväest, kiusamisest ja vastutusest
 | Inimesed ei tee ametikoha juhendi järgi | Dominants, alandamine, „nagu isaajal" | **Roll + eesmärk + juhis** — selgus ilma sundimata |
 | Koormus langeb vähestele; läbipõlemine | Üks juht kannab kõike; emotsioon ei loe | **Kuulamine, dialoog, V-formatsioon** |
 | Kiusamine ja vana juhtimisstiil | „Nii on alati tehtud" | **Inimene enne protsessi** — turvalisus, siis vastutus |
-| ATH-sildid, sümptomite kustutamine | Reegel tähtsam kui inimene | **Juure lahendus:** keskkond, uni, struktuur, austus |
+| ATH-sildid, sümptomite kustutamine | Reegel tähtsam kui inimene | **Faktorite analüüs** (lk 32) — juur enne silti |
 
 ### Teksad või välivorm — inimene on sama
 
@@ -189,7 +189,93 @@ Juht, kes vabandab tehtud vigade pärast, **ei kaota autoriteeti** — ta **või
 
 ---
 
-## Põhimõte See ei ole väljamõeldud mudel. See on igapäevane, kaastöötajale orienteeritud juhtimine.
+## 4. Faktorite analüüs (Steiger, lk 32–34)
+
+> *„**Inimesekeskse juhtimise puhul on faktoritel, mis määravad tulemuse, suurem tähtsus kui tulemusel enesel!**"* — Steiger, lk 32
+
+Paljud juhid ütlevad: *„Minu tasandil loeb ainult tulemus — kuidas see saavutati, mind ei huvita."* Või: *„Otsustava tähtsusega ei ole mitte see, kuidas ja millise hinnaga, vaid ainult eesmärk."*
+
+Steiger nimetab seda **lühinägelikuks ja pealiskaudseks suhtumiseks**. Kui inimestevahelised tegurid situatsioonijuhtimises ignoreeritakse, tekivad **inimestevahelised pinged** — usalduskriis, ülekoormus, alandlik käitumine, lahkumine.
+
+**Operatsiooni tõlge:** Kaitseväes, kui vaadata ainult „tulemust" (ülesanne tehtud / mitte tehtud) ilma faktorite analüüsita, sildistatakse inimene — ATH, laiskus, tahtetus. **Juure küsimus jääb vastamata.**
+
+### Faktorite analüüsi küsimused (Steiger, lk 32–33)
+
+Enne süüdistamist või sildi panemist — küsi:
+
+| Küsimus | Mida see avab |
+|---------|---------------|
+| Kas kaadrialased raskused on **põhjus või tagajärg**? | Süsteem vs inimene |
+| Kas ülesanne jäi täitmata **ajanappuse, vahendite või tahtmatuse** tõttu? | Keskkond vs isik |
+| Kas kolleeg hoiatas, sest **ei tahtnud riskida** — või on tal **salajast infot**? | Suhtlus vs intriig |
+| Kas keskendumisraskused on **isiklikud või tööalased**? | Lisa S / trauma vs koormus |
+| Kas ülekoormatusest räägitakse **alles pärast edutamist** — või me ei pannud varem tähele? | Juhi tähelepanematus |
+| Kui kaua ja **miks** räägivad kõik usalduskriisist ja juhtimisprobleemidest? | Süsteemne muster |
+| Kas alandlik käitumine on **vana muster** — või **uue ülemuse stiilist**? | Juhtimisstiil |
+
+### Oskamatus vs tahtetus
+
+Iga saavutamata eesmärgi puhul küsi: kas kaastöötaja **ei suutnud** või **ei tahtnud**?
+
+| Põhjus | Juhi vastus |
+|--------|-------------|
+| **Oskamatus** | Aita. Hoolitsevalt vahele astu. Koolita. Anna roll + eesmärk + juhis. |
+| **Tahtetus** | Manitsus, laitus või karmimad abinõud — **alles pärast** faktorite analüüsi |
+
+**Oluline:** juhid kuuluvad tihti **ise tulemust määravate faktorite hulka**. Kui pärast käsku tuleb palju küsimusi — võib põhjus olla **ebaselge sõnastus** või juhi tähelepanematus. Analüüsi faktoreid — **unustamata iseennast**.
+
+### Analüüsi ka siis, kui kõik töötab
+
+Faktorite analüüsi tehakse tihti ainult **negatiivse tulemuse** puhul. Steiger soovitab analüüsida ka **rõõmustavaid tulemusi** ja häid suhteid — et teada, **miks** üks grupp töötab hoogsalt, eesmärgipäraselt ja harmooniliselt. Siis saab positiivseid jõude **teadlikult tugevdada**.
+
+Nii tsiviilelus kui sõjaväes viivad läbi olukorra koguanalüüse finantsides ja erialades. **Inimeste juhtimisel ja inimsuhetes** on põhjuste analüüs raskem — aga **mitte vähem tähtis ja samavõrd abistav**.
+
+**Seos Lisa S ja KV mustriga:** kui kõik „kustutavad sümptomeid" ilma faktorite analüüsita, jääb koormus vähestele. Faktorite analüüs on **lihtne tööriist** — küsimused, mitte miljardiprojekt.
+
+---
+
+## 5. Mõista ei tähenda alati nõustuda (Steiger, lk 35–37)
+
+> *„**Inimesekeskse juhtimise puhul püüame oma kaastöötajaid mõista ka siis, kui me nendega ei nõustu!**"* — Steiger, lk 35
+
+Enesetundmine ja inimeste tundmine on alus. Nooremad kaastöötajad hindavad eriti seda, et neid **mõistetakse** — nende mõtteid, tundeid ja tegusid — mitte ainult „tuntakse".
+
+Levinud eksiarvamus: mõista inimest = **nõustuda** temaga. See ei kehti. Vanem, õpetaja või juht võib **mõista** teismelise käitumist — ja siiski **mitte heaks kiita**. Juht peab püüdma mõista ka siis, kui ta ei saa soove täita ega nõustu seisukohtadega.
+
+### Näited (Steiger, lk 35–36)
+
+- **Personalijuht** mõistab, et loov insener tunneb end häirituna tööaja jälgimisest — aga ei anna praegu erandluba.
+- **Osakonnajuhataja** teab, et kaastöötaja tahab eramu ehitust jälgida — peab siiski saatma välislähetusse.
+- **Sõjakooli ülem** saab aru, et üksuse juht tahab puhkust lastega — instruktoritepuuduse tõttu saab ainult **osaliselt** vastu tulla.
+- **Direktor** mõistab kolleegi pettumust ametikõrgenduse pärast — usub siiski, et edutamine oleks veelgi suurema ülekoormuse tõttu olnud vale otsus.
+- **Ülemus** mõistab perekondlikku kriisi ja kontsentreerumisraskust — negatiivne mõju teistele on aga enam talumatu.
+
+**Küsimus:** mis loeb kaastöötajale ülemuse mõistmine, kui soove ei saa täita?
+
+**Vastus:** **väga palju.**
+
+Nii tsiviil- kui sõjaväelised kaastöötajad hindavad ühtviisi seda, et nad leiavad **mõistmist** oma küsimustes, palvetes ja muredes — isegi kui ülemus hindab asja teisiti või seab erinevaid prioriteete.
+
+**Seos Lisa P:** mõistmine = **valideerimine** — „ma näen, et see on sulle raske" — mitte „sa oled õigel". Spordikommentaator enne otsust.
+
+### Inimesekeskne juhtimine praktikas (Steiger, lk 37)
+
+Kui juht ei saa palvele vastu tulla, valib ta järgmise toimimisviisi:
+
+1. **Arutan** kaastöötajaga palved läbi — annan teada, et **mõistan** teda ja tema muresid
+2. **Vajan** vajadusel lisainfot — et paremini tunda tema hetkeolukorda
+3. **Seletan**, miks ma **mõistmisest hoolimata** hetkel vastu tulla ei saa või ei taha
+4. **Ühiselt otsime** lahendust, mis oleks mõlemale vastuvõetav
+
+> *See ongi **inimesekeskne juhtimine**.*
+
+**Operatsiooni reegel:** see on täpselt see, mida **1-1 vestlus** paranemis-teadlikult tähendab (Lisa P). Turvalisus → mõistmine → aus selgitus → ühine lahendus. Mitte: käsk → allumine → läbipõlemine.
+
+---
+
+## Põhimõte
+
+See ei ole väljamõeldud mudel. See on igapäevane, kaastöötajale orienteeritud juhtimine.
 
 **Miks see töötab paremini:** me juhime **inimese pärast** — mitte protsessi, seaduse, reegli või „nii on alati tehtud" pärast. Steiger ütleb: *„See, kes on olnud juht, teab liigagi hästi, kui kõlbmatuks võivad osutuda reeglid ja retseptid."* Seepärast on need juhised praktilised tõukejõud — ruum individuaalseks kohandamiseks.
 

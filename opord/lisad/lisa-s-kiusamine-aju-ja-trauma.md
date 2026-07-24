@@ -207,6 +207,7 @@ LAHENDUS: turvalisus + keha + mõistus (Lisa P) + vastutus + uus juhtimisstiil (
 | Lisa P | Valideerimine, spordikommentaator, mis töötab / mis mitte |
 | Lisa I | Inimesekeskne juhtimine — Steiger, Kert Grünberg |
 | Lisa H | Kriis, kiirjuhend isale |
+| Lisa V | Uni — Walker *Why We Sleep*; uni puudus tugevdab mandeltuumareaktsiooni (ATH enne silti) |
 | EMDR | Kaitseväe Tugiteenuste keskus; ohvriabi.ee (kuni 940 € toetus) |
 | *Imeline Teadus* 11/2023 | Kiusamine, aju, teadlaste nõuanded (selle lisa põhiallikas) |
 

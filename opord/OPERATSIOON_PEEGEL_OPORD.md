@@ -156,6 +156,8 @@ Aga et inimesed **saaksid aru, mis üldse valesti on**, peab lõppema **kiusamin
 
 **Miks inimesed käituvad nii, nagu nad käituvad:** kiusamine ei ole ainult „halb iseloom". *Imeline Teadus* (11/2023) näitab: kiusamine **muudab aju anatoomiat ja keemiat** — virgatsained ja võrgustikud lähevad tasakaalust välja. Kiusaja kujuneb geenide ja keskkonna mõjul; kiusatu kannab arme **täiskasvanueasse**. Bessel van der Kolk (*The Body Keeps the Score*, ISBN 978-0-141-97861-1) selgitab, kuidas trauma **elab kehas** — pre-verbaalne reaktsioon, triggerid, kaitsepositsioon. Täielik teaduslik alus: **Lisa S**.
 
+**Miks uni on esimene tööriist:** Matthew Walker (*Why We Sleep*, ISBN 978-0-141-9835-6-9) näitab: üks öö piisavast unest ilma jätmine **tugevdab mandeltuumareaktsiooni** ja **nõrgendab impulssikontrolli** — sama mehhanism, mida trauma juba süvendab. Uni puudus imiteerib ATH-t, halvendab mälu ja otsuseid. Enne silti ja „võta kokku" — **vaata und**. Täielik alus: **Lisa V**.
+
 Need probleemid on käsitletud selles **rahva taastamise juhises** (see dokument ja Tugeva Isa seeria). Ja need on **väga lihtsasti lahendatavad lihtsate tööriistadega** — uni, liikumine, toit, aus vestlus, mentor, 1-1 kontakt, roll + eesmärk + juhis. Mitte raketiteadus. Mitte miljardiprojekt.
 
 > *Kui probleem on lihtne lahendada ja tööriist on olemas — on ebamõistlik mitte vähemalt proovida.*
@@ -191,7 +193,7 @@ See ei ole erisoov. See on **operatsiooniline nõue** — ja see on **esimene sa
 
 **Miks traumateadlikkus?** Sest inimene reageerib **pre-verbaalselt** (van der Kolk). Kiusamine ja alandamine **muudavad aju** (Lisa S). Ilma traumateadlikkuseta juhid **sümptomeid** — ATH silti, tabletti, „võta kokku" — mitte juurt. Steiger: nimede taga on inimesed, mitte kliinilised juhtumid.
 
-Täielik ahel: **Lisa S** (miks) → **Lisa I** (juhtimine) → **Lisa P** (vestlus) → vastutus.
+Täielik ahel: **Lisa S** (miks) → **Lisa V** (uni) → **Lisa I** (juhtimine) → **Lisa P** (vestlus) → vastutus.
 
 | Põhimõte | Mida see tähendab |
 |----------|-------------------|
@@ -208,7 +210,7 @@ Täielik ahel: **Lisa S** (miks) → **Lisa I** (juhtimine) → **Lisa P** (vest
 
 **1-1 vestlused** (prioriteet) toimuvad ainult selles raamis. Mass-koolitus ilma kontaktita ei asenda seda.
 
-**Paranemis-teadlik tugi võrgustikus:** Kert Grünberg (hingamistuba.ee), Jure Biechonski (teadlikmina.ee), Priit Lilleväli, Kaia Kapsta-Forrester, Lisa H, Lisa F, EMDR (KV Tugiteenuste keskus / ohvriabi.ee). Peamine raamat: van der Kolk, *The Body Keeps the Score* (ISBN 978-0-141-97861-1). Kiusamine ja aju: **Lisa S** (*Imeline Teadus* + trauma). Täielik valideerimise juhend: **Lisa P**.
+**Paranemis-teadlik tugi võrgustikus:** Kert Grünberg (hingamistuba.ee), Jure Biechonski (teadlikmina.ee), Priit Lilleväli, Kaia Kapsta-Forrester, Lisa H, Lisa F, EMDR (KV Tugiteenuste keskus / ohvriabi.ee). Peamine raamat: van der Kolk, *The Body Keeps the Score* (ISBN 978-0-141-97861-1). Kiusamine ja aju: **Lisa S** (*Imeline Teadus* + trauma). Uni ja aju: **Lisa V** (Matthew Walker, *Why We Sleep*, ISBN 978-0-141-9835-6-9). Täielik valideerimise juhend: **Lisa P**.
 
 > *Inimene reageerib pre-verbaalselt. Alguses ei räägi mõistusega — räägib kehaga. Alusta turvalisusest. Sa pole katki — sa vajad ruumi paranemiseks.*
 
@@ -1240,6 +1242,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Kes ma olen (kahtlus / taust):** Lisa R — `lisad/lisa-r-kes-ma-olen-ja-taust.md` (CV, teenistus, koolitused, meedia tõendid)
 - **Valitsuse hetke-analüüs:** Lisa T — `lisad/lisa-t-valitsuse-ipb-analuus.md` (Ranger Handbook, KPI, 13 ministrit, show me the money)
 - **Rasv, Bellevue uuring, avatud meel:** Lisa U — `lisad/lisa-u-rasv-avatud-meele-uuring.md` (PDF allalaadimised, Drive'i kaust, küsimused endale)
+- **Uni, Why We Sleep, ava silmad:** Lisa V — `lisad/lisa-v-uni-miks-me-magame.md` (Matthew Walker, une teadus, 25 küsimust, uni enne ATH-silti)
 - **Koordinaatori profiil:** `lisad/renee-aluste-profiil.md` (eraldi leht)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
 - **Signaal OPERATSIOON TÄIDETUD:** Kui ühiskondlikud mõõdikud näitavad paranemist — üksikemade arv langeb, kiusamine väheneb, inimesed räägivad vastutusest.
@@ -1554,11 +1557,29 @@ Turvalisus + mõistmine → inimene nähtav → juht tunnistab enda pulki → in
 
 Kui hüppad otse vastutusele, kustutad **sümptomeid** — mitte juurt. See on see, mida e-sliinil tehakse liiga tihti.
 
-Täielik alus: **Lisa I** (Steiger) + **Lisa P** (van der Kolk, spordikommentaator) + **Lisa S** (kiusamine, aju).
+Täielik alus: **Lisa I** (Steiger) + **Lisa P** (van der Kolk, spordikommentaator) + **Lisa S** (kiusamine, aju) + **Lisa V** (uni, Walker).
 
 **Faktorite analüüs (Lisa I, lk 32):** enne süüdistamist küsi — oskamatus või tahtetus? Kas juht ise on tulemust määrav faktor? **Mõista ≠ nõustu** (lk 35–37): neli sammu — aruta, küsi, seleta, otsi ühist lahendust.
 
 *Minu küsimus sulle: Kas sa oled kunagi proovinud kedagi „parandada" loogikaga — kui ta vajas esmalt turvalisust?*
+
+---
+
+**K: Miks räägite unest? See on ju lihtne — maga rohkem ja kõik.**
+
+**V (Renee Aluste):** Just seepärast, et see **ei ole** lihtne — ja me ei ole seda kunagi õpetanud.
+
+Matthew Walker (*Why We Sleep*, ISBN 978-0-141-9835-6-9) kogus teaduse, mida kool ei räägi: uni ei ole laiskus. See on **aju aktiivne töö** — mälu, immuunsus, emotsioonide töötlemine, otsused. Üks öö piisavast unest ilma jätmine tugevdab mandeltuumareaktsiooni ja nõrgendab impulssikontrolli — sama mehhanism, mida trauma juba süvendab (Lisa S, van der Kolk).
+
+**Miks see on Operatsioonis:**
+
+1. **„Võta kokku" ei tööta unetule inimesele** — see on füsioloogia, mitte iseloom (Lisa I, faktorite analüüs).
+2. **ATH-silt ilma une uurimiseta** — uni puudus imiteerib tähelepanuhäiret. Margus Lõoke tähelepanek KV-st klapib: struktuur ja uni puuduvad, silt tuleb liiga kiiresti.
+3. **Taastumise järjekord (Lisa H):** vaimne abi → **uni, liikumine, toit** → struktuur. Uni on teine samm — mitte esimene plastik, aga kriitiline.
+
+Me ei ütle „mag 8 tundi või oled läbikukkuja". Me ütleme: **ava silmad**. Mõõda. Küsi endalt — kas su ärrituvus, nälg või halvad otsused on seotud unega? Räägi perearstiga. Loe **Lisa V** — 25 küsimust endale.
+
+*Minu küsimus sulle: Mitu tundi sa tõesti magasid viimased seitse ööd — mitte voodis, vaid magades?*
 
 ---
 
@@ -2106,6 +2127,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **S** | — | `lisad/lisa-s-kiusamine-aju-ja-trauma.md` | **Kiusamine, aju ja trauma** — *Imeline Teadus*, miks inimesed käituvad nii, Body Keeps the Score |
 | **T** | — | `lisad/lisa-t-valitsuse-ipb-analuus.md` | **Valitsuse hetke-analüüs** — IPB raamistik, KPI/OKR, 13 ministrit, ellujäämisrežiim, tagasiside puudumine |
 | **U** | — | `lisad/lisa-u-rasv-avatud-meele-uuring.md` | **Rasv ja avatud meel** — Bellevue uuring 1928–29, PDF lingid, 30 mõtlemisküsimust; **uurimustöö PDF:** `TOITUMINE_UURIMUSTOO.pdf` |
+| **V** | — | `lisad/lisa-v-uni-miks-me-magame.md` | **Uni** — Matthew Walker *Why We Sleep*; NREM/REM, uni ja aju, müüdid vs faktid, 25 avatud meele küsimust |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

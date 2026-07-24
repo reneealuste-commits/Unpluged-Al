@@ -46,6 +46,7 @@ BOOK_FILES = [
     "lisa-s-kiusamine-aju-ja-trauma.md",
     "lisa-t-valitsuse-ipb-analuus.md",
     "lisa-u-rasv-avatud-meele-uuring.md",
+    "lisa-v-uni-miks-me-magame.md",
     "renee-aluste-profiil.md",
 ]
 

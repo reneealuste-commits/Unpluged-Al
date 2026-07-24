@@ -3,7 +3,7 @@
 
 **Operatsioon „Peegel"** | Mitte dieedireklaam — **mõtlemise avamine**  
 **Kuupäev:** 24. juuli 2026  
-**Seotud:** Lisa H (taastumine), Lisa L (ministeeriumid), Lisa S (keha ja trauma)
+**Seotud:** Lisa H (taastumine), Lisa L (ministeeriumid), Lisa S (keha ja trauma), **Lisa V** (uni)
 
 **Täielik uurimustöö (PDF):** [TOITUMINE_UURIMUSTOO.pdf](../TOITUMINE_UURIMUSTOO.pdf) · [markdown](toitumine-uurimustoo.md) — Stefansson, Bellevue 1928–29, praktiline loogika taastumise kontekstis
 

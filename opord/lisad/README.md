@@ -29,6 +29,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | S | [lisa-s-kiusamine-aju-ja-trauma.md](lisa-s-kiusamine-aju-ja-trauma.md) | **Kiusamine, aju ja trauma** — *Imeline Teadus*, miks inimesed käituvad nii, Body Keeps the Score |
 | T | [lisa-t-valitsuse-ipb-analuus.md](lisa-t-valitsuse-ipb-analuus.md) | **Valitsuse hetke-analüüs** — IPB, PMESII-PT, 13 ministrit, show me the money |
 | U | [lisa-u-rasv-avatud-meele-uuring.md](lisa-u-rasv-avatud-meele-uuring.md) | **Rasv ja avatud meel** — Bellevue 1928–29; [uurimustöö PDF](../TOITUMINE_UURIMUSTOO.pdf) |
+| V | [lisa-v-uni-miks-me-magame.md](lisa-v-uni-miks-me-magame.md) | **Uni** — Matthew Walker *Why We Sleep*; ava silmad, 25 küsimust, uni enne ATH-silti |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
 ---
@@ -61,6 +62,8 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 **Kiusamine ja trauma (miks inimesed käituvad nii):** Lisa S (*Imeline Teadus* 11/2023 + van der Kolk *Body Keeps the Score*).
 
 **Toitumine ja taastumine:** Lisa U + [TOITUMINE_UURIMUSTOO.pdf](../TOITUMINE_UURIMUSTOO.pdf) (Stefansson, Bellevue uuring).
+
+**Uni (ava silmad):** Lisa V — Matthew Walker *Why We Sleep* (ISBN 978-0-141-9835-6-9); uni enne silti, enne „võta kokku".
 
 ---
 

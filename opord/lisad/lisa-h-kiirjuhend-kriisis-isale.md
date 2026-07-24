@@ -95,7 +95,21 @@ Hingamine on tööriist, mida saad kasutada kohe. See täiendab Lisa F/H taastum
 
 Renee Aluste ei räägi taastumisest teooriana. Ta on läbi elanud ringi: infosõja ja manipulatsioon → isolatsioon → depressioon → ekraan → veel sügavam ring. **Pööre** algas siis, kui ta lõpetas vaikimise: ravimid, professionaalne abi, [narko.ee](https://www.narko.ee) chatbot ja tugiliin — esimene samm ilma häbita.
 
-Vaimne taastumine ei piisanud. Keha oli kurnatud. Renee hakkas uuesti vaatama, **mida ta sisse paneb** — mitte dieedirežiimina, vaid austusena oma keha vastu: uni, liikumine, **toidu kvaliteet**. Sõjaväelase distsipliin õpetas teda juba varem: struktuur hoiab elus. Taastumine tõi sama loogika toidulauale.
+Vaimne taastumine ei piisanud. Keha oli kurnatud. Renee hakkas uuesti vaatama, **mida ta sisse paneb** — mitte dieedirežiimina, vaid austusena oma keha vastu: **uni**, liikumine, **toidu kvaliteet**. Sõjaväelase distsipliin õpetas teda juba varem: struktuur hoiab elus. Taastumine tõi sama loogika magamistoale ja toidulauale.
+
+### Uni — miks see on esimene (Matthew Walker, *Why We Sleep*)
+
+Enne toitu ja enne uut dieeti tuli **uni**. Matthew Walker (UC Berkeley) kogus teadusliku tõendi: uni ei ole laiskus — see on **aju aktiivne töö**. Üks öö piisavast unest ilma jätmine tugevdab mandeltuumareaktsiooni ja nõrgendab impulssikontrolli — sama mehhanism, mida trauma juba süvendab (vt Lisa S, Lisa P).
+
+| Mida uni teeb | Miks see on taastumises oluline |
+|---------------|----------------------------------|
+| **REM-uni** | Töötleb emotsioone — ilma selleta jäävad stress ja ärritus „lahti" |
+| **Sügav uni (NREM)** | Taastab keha; puhastab aju; tugevdab mälu |
+| **7–9 tundi** (enamik täiskasvanuid) | Uni puudus imiteerib ATH-t, halvendab otsuseid, süvendab depressiooni |
+
+> *„Magu vähem, tee rohkem" on vale sõnum. Uni on investeering — mitte nõrkus.*
+
+**Täielik alus + 25 küsimust endale:** **Lisa V** — `lisad/lisa-v-uni-miks-me-magame.md` (Walker, ISBN 978-0-141-9835-6-9). Kui uneprobleem on krooniline — perearst või unespetsialist, mitte ainult eneseabi.
 
 ### Vilhjalmur Stefansson — mida arktika õpetas (teaduslik viide)
 

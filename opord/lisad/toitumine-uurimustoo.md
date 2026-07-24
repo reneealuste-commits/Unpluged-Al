@@ -1,7 +1,7 @@
 # Toitumine ja taastumine — uurimustöö
 
 **Operatsioon „Peegel"** | Toidu-uurimustöö (PDF: `TOITUMINE_UURIMUSTOO.pdf`) | Autor: Renee Aluste  
-**Seotud:** Lisa H, Lisa L, **Lisa U** (avatud meel, küsimused), Lisa F, Lisa S  
+**Seotud:** Lisa H, Lisa L, **Lisa U** (avatud meel, küsimused), **Lisa V** (uni, Walker), Lisa F, Lisa S  
 **Kuupäev:** 24. juuli 2026
 
 > *See ei ole dieedireklaam. See on **uurimustöö** — teaduslikud viited, praktiline loogika ja aus hoiatus: enne suuri muutusi perearst või toitumisnõustaja.*
@@ -217,6 +217,7 @@ Stefanssoni ja Bellevue viide kinnitas intuitsiooni: **rasvarikas loomne toit** 
 | 5 | Lisa H — `lisa-h-kiirjuhend-kriisis-isale.md` | Renee saamise lugu |
 | 6 | Lisa L — `lisa-l-ministeeriumid-ja-tai.md` | TAI / ministeeriumide ülesanded |
 | 7 | Lisa U — `lisa-u-rasv-avatud-meele-uuring.md` | Avatud meel, küsimused |
+| 8 | Lisa V — `lisa-v-uni-miks-me-magame.md` | Walker *Why We Sleep*; uni ja taastumine |
 
 ---
 

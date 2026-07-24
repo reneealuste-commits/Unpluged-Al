@@ -70,6 +70,7 @@ Täielik juhend: **Lisa P § KRIITILINE REEGEL** · Lisa S (miks) · Lisa H (kri
 | **Lisa P** | **KRIITILINE trauma-reegel** — teistsugune reaalsus, koera metafoor, Cooper, ära feedi haukumist |
 | **Lisa AA** | *Intiimsuse atlas*, orgasmid, vibraatori ajalugu, **Epp Kärsin** yoni koolitus |
 | **Lisa AF** | **Meestele:** erektsioon — kuidas töötab, Sterling Cooper / dis-ease, „relva puhastamine" SOP |
+| **Lisa AG** + **Orion Taraban** — *The Value of Others* (2024) | **Kapten ja laev** — mehe SOP (uks, kotid, kohting), realistlik partnerlus; ISBN 979-8990069510 |
 | **Lisa AB** | **Paljajalu linnas** + **rippumine 90 sek/päev** — Vanja Moves, schoolofmobility.com |
 
 Täiendab **Epp Kärsin** teadlikku intiimsust — **pane end kirja:** [eppkarsin.com](https://www.eppkarsin.com) · yoni koolitus naistele ja meestele · Paldiski mnt 21-1, Tallinn · **5362 8568**
@@ -1325,7 +1326,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Magamistuba, võim ja revolutsioon:** Lisa AC — `lisad/lisa-ac-magamistuba-voim-ja-revolutsioon.md` (naised ei ole kurjad; mehe ownership; näita teed — Epp, Intiimsuse atlas)
 - **Lood, konversiooni checklist, taskukaardid:** Lisa AD — `lisad/lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md` (7 sammu, prinditav checklist, mida öelda kui keegi vastu hakkab)
 - **Meeste erektsioon ja relva hooldus:** Lisa AF — `lisad/lisa-af-meeste-erektsioon-ja-rela-hooldus.md` (füsioloogia, dis-ease, hügieen, uni, stress)
-- **Rollid, juhised ja NL-skeem:** Lisa AG — `lisad/lisa-ag-rollid-partnerlus-ja-nl-skeem.md` (mehe roll, naise juhised, tunnustamine, pragmaatiline partnerlus)
+- **Rollid, juhised, kapten, Taraban:** Lisa AG — `lisad/lisa-ag-rollid-partnerlus-ja-nl-skeem.md` (mehe SOP, kapteni metafoor, Orion Taraban *The Value of Others*, NL-skeem)
 - **Õhk, liikumine, olukorra teadlikkus (treening):** Lisa AE — `lisad/lisa-ae-ohk-liikumine-ja-komplimendid.md` (niiskus korteris, rippumine, **olukorra teadlikkuse treening** — enesega kontakt; blokk 0: omamine)
 - **Koordinaatori profiil:** `lisad/renee-aluste-profiil.md` (eraldi leht)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
@@ -1876,11 +1877,32 @@ Ausalt: see meenutab **Nõukogude Liidu pere-skeemi** — rollid selged, mees ja
 
 > *Võib-olla on see **hetkel parim lahendus** — sest Eestis on NL jäljed alles ja „kõik on vabad" ei tähenda, et keegi vastutab.*
 
-**Lisa AG** — täielik tabel: mida tunnustame mehel ja naisel, ühine leping ilma riigita.
+**Lisa AG** — täielik tabel: mida tunnustame mehel ja naisel, meeste SOP (uks, kotid, kohting), **kapteni metafoor**, Taraban.
 
 *Minu küsimus sulle: Kas teie peres on rollid **selged** — või kõik ootavad, et teine arvab?*
 
 ---
+
+**K: Mis on kapteni metafoor? Miks uks, kotid ja Taraban?**
+
+**V (Renee Aluste):** **Orion Taraban** — *The Value of Others* (2024): suhted on **realistlikud** — kapten (juht) ja reisija (valija). Mees **demonstrerib juhtimisomadusi**: võtab naise **kohtingule**, juhib laeva kokkulepitud suunas.
+
+**Renee isiklik meeste SOP:** avan naisele **alati ukse** (sisse ja välja), tassin **kogu võimaliku kraami**. Väike käitumine — suur sõnum.
+
+| Olukord | Tähendus |
+|---------|----------|
+| Laev liigub, mees juhib | **Pole probleemi** |
+| Torm — kapten leiab uue asimuudi | Ownership, abi, õppimine |
+| **Mässamine** — rooli ei keerata tagasi | Naine võib võtta üle, nähes karpi |
+| Sihtkoht | Naine otsustab: järgmine etapp **selle kapteniga** või uus reis |
+
+Kaptenid karastatakse **tormisel merel**. Loe Taraban — ole realist. **Lisa AG §2b–2c.**
+
+*Minu küsimus sulle: Kas sa täna juhid rooli — või ootad, et keegi teine karile ei sõidaks?*
+
+---
+
+**K: Miks räägite Sterling Cooperist ja „relva puhastamisest"? Kuidas erektsioon töötab?**
 
 **V (Renee Aluste):** Meestel on krooniline **dis-ease** erektsiooniga — mitte alati haigus, vaid **häbi, teadmatus ja vale surve**. *Mad Men* reklaamiagentuur **Sterling Cooper** sümboliseerib tööstust, mis müüs jõudlust ja tablette, mitte anatoomiat.
 
@@ -2478,7 +2500,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **AD** | — | `lisad/lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md` | **Lood ja konversioon** — 7-sammu checklist, taskukaardid, mida öelda kui keegi vastu hakkab |
 | **AE** | — | `lisad/lisa-ae-ohk-liikumine-ja-komplimendid.md` | **Õhk, liikumine, olukorra teadlikkus** — treening, enesega kontakt |
 | **AF** | — | `lisad/lisa-af-meeste-erektsioon-ja-rela-hooldus.md` | **Meeste erektsioon** — füsioloogia, Sterling Cooper, relva hooldus SOP |
-| **AG** | — | `lisad/lisa-ag-rollid-partnerlus-ja-nl-skeem.md` | **Rollid ja NL-skeem** — mehe roll, naise juhised, tunnustamine |
+| **AG** | — | `lisad/lisa-ag-rollid-partnerlus-ja-nl-skeem.md` | **Rollid, kapten, Taraban** — mehe SOP, NL-skeem, *The Value of Others* |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

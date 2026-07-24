@@ -86,7 +86,7 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 
 **Meestele — erektsioon (kohustuslik teadmine):** Lisa AF — kuidas erektsioon töötab, Sterling Cooper / krooniline dis-ease, **„puhasta relva"** hügieeni ja eluviisi SOP; koos Lisa AA ja Lisa AC.
 
-**Rollid, juhised, NL-skeem (partnerlus):** Lisa AG — tunnustame käitumisi, mis toovad tagasi **mehe rolli**; **naine saab samuti juhised**; aus sõnastus: see meenutab **NL pere-skeemi** — võib-olla parim lahendus praegu.
+**Rollid, juhised, NL-skeem (partnerlus):** Lisa AG — mehe roll, naise juhised, **meeste SOP** (uks, kotid, kohting), **kapteni metafoor**, **Orion Taraban** *The Value of Others* (2024).
 
 **Kanep, ECS, CBD ja toit (mitte suitsetamine):** Lisa Y — endokannabinoidsüsteem, CBD tooted, kanepiseemneõli, case study'd, varimajandus; kriitiline mõtlemine — ära usu, uuri ise.
 

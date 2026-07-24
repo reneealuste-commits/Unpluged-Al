@@ -1325,6 +1325,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Magamistuba, võim ja revolutsioon:** Lisa AC — `lisad/lisa-ac-magamistuba-voim-ja-revolutsioon.md` (naised ei ole kurjad; mehe ownership; näita teed — Epp, Intiimsuse atlas)
 - **Lood, konversiooni checklist, taskukaardid:** Lisa AD — `lisad/lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md` (7 sammu, prinditav checklist, mida öelda kui keegi vastu hakkab)
 - **Meeste erektsioon ja relva hooldus:** Lisa AF — `lisad/lisa-af-meeste-erektsioon-ja-rela-hooldus.md` (füsioloogia, dis-ease, hügieen, uni, stress)
+- **Rollid, juhised ja NL-skeem:** Lisa AG — `lisad/lisa-ag-rollid-partnerlus-ja-nl-skeem.md` (mehe roll, naise juhised, tunnustamine, pragmaatiline partnerlus)
 - **Õhk, liikumine, olukorra teadlikkus (treening):** Lisa AE — `lisad/lisa-ae-ohk-liikumine-ja-komplimendid.md` (niiskus korteris, rippumine, **olukorra teadlikkuse treening** — enesega kontakt; blokk 0: omamine)
 - **Koordinaatori profiil:** `lisad/renee-aluste-profiil.md` (eraldi leht)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
@@ -1867,7 +1868,19 @@ Prindi: `OLUKORDA_TEADLIKKUS_SOP_PRINT.pdf`
 
 ---
 
-**K: Miks räägite Sterling Cooperist ja „relva puhastamisest"? Kuidas erektsioon töötab?**
+**K: Miks räägite mehe rollist ja „NL-skeemist"? Kas see ei ole tagasiminek?**
+
+**V (Renee Aluste):** Me **tunnustame üldises plaanis** käitumisi, mis toovad tagasi **mehe rolli ja ülesanded** — toitja, isa kohal, suuna näitaja, ownership (Lisa AC). **Naine saab samuti juhised** — Intiimsuse atlas, Epp, AE blokk 0, partnerlus. See ei ole ühepoolne käsk.
+
+Ausalt: see meenutab **Nõukogude Liidu pere-skeemi** — rollid selged, mees ja naine oma kohas. Me **ei** võta NL-ist represseerimist, riigi sundi ega häbi varjamist. Me võtame **selguse**, kui lääne individualism ja tööstuslik eraldatus (Lisa Z) on pere lõhkunud.
+
+> *Võib-olla on see **hetkel parim lahendus** — sest Eestis on NL jäljed alles ja „kõik on vabad" ei tähenda, et keegi vastutab.*
+
+**Lisa AG** — täielik tabel: mida tunnustame mehel ja naisel, ühine leping ilma riigita.
+
+*Minu küsimus sulle: Kas teie peres on rollid **selged** — või kõik ootavad, et teine arvab?*
+
+---
 
 **V (Renee Aluste):** Meestel on krooniline **dis-ease** erektsiooniga — mitte alati haigus, vaid **häbi, teadmatus ja vale surve**. *Mad Men* reklaamiagentuur **Sterling Cooper** sümboliseerib tööstust, mis müüs jõudlust ja tablette, mitte anatoomiat.
 
@@ -2465,6 +2478,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **AD** | — | `lisad/lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md` | **Lood ja konversioon** — 7-sammu checklist, taskukaardid, mida öelda kui keegi vastu hakkab |
 | **AE** | — | `lisad/lisa-ae-ohk-liikumine-ja-komplimendid.md` | **Õhk, liikumine, olukorra teadlikkus** — treening, enesega kontakt |
 | **AF** | — | `lisad/lisa-af-meeste-erektsioon-ja-rela-hooldus.md` | **Meeste erektsioon** — füsioloogia, Sterling Cooper, relva hooldus SOP |
+| **AG** | — | `lisad/lisa-ag-rollid-partnerlus-ja-nl-skeem.md` | **Rollid ja NL-skeem** — mehe roll, naise juhised, tunnustamine |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

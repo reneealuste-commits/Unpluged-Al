@@ -57,6 +57,7 @@ BOOK_FILES = [
     "lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md",
     "lisa-ae-ohk-liikumine-ja-komplimendid.md",
     "lisa-af-meeste-erektsioon-ja-rela-hooldus.md",
+    "lisa-ag-rollid-partnerlus-ja-nl-skeem.md",
     "renee-aluste-profiil.md",
 ]
 

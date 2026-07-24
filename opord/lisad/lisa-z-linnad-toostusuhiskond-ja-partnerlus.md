@@ -292,3 +292,6 @@ Eesti on väike. **Küla, vald, linn** saavad teha rohkem kui oodata:
 ---
 
 *Lisa Z — Operatsioon „Peegel". Uurimustöö, mitte poliitiline manifest. Kriisis: Lisa H.*
+
+
+**Seotud:** **Lisa AG** — rollid, NL-skeem, mehe roll ja naise juhised (pragmaatiline partnerlus).

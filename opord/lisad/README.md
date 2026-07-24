@@ -40,6 +40,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | AD | [lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md](lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md) | **Lood ja konversioon** — 7-sammu checklist, taskukaardid, mida öelda kui keegi vastu hakkab |
 | AE | [lisa-ae-ohk-liikumine-ja-komplimendid.md](lisa-ae-ohk-liikumine-ja-komplimendid.md) | **Õhk, liikumine, olukorra teadlikkus** — treening, enesega kontakt |
 | AF | [lisa-af-meeste-erektsioon-ja-rela-hooldus.md](lisa-af-meeste-erektsioon-ja-rela-hooldus.md) | **Meeste erektsioon** — füsioloogia, Sterling Cooper, „relva puhastamine" SOP |
+| AG | [lisa-ag-rollid-partnerlus-ja-nl-skeem.md](lisa-ag-rollid-partnerlus-ja-nl-skeem.md) | **Rollid ja NL-skeem** — mehe roll, naise juhised, tunnustamine |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
 ---
@@ -84,6 +85,8 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 **Õhk, liikumine, olukorra teadlikkus (treening):** Lisa AE — korteri **õhu niiskus**, rippumine (Lisa AB), **olukorra teadlikkuse treening** — väike isiklik ülesanne enesega kontakti jaoks (mitte „kompliment"); blokk 0: omamine. Prindi: `OLUKORDA_TEADLIKKUS_SOP_PRINT.pdf`.
 
 **Meestele — erektsioon (kohustuslik teadmine):** Lisa AF — kuidas erektsioon töötab, Sterling Cooper / krooniline dis-ease, **„puhasta relva"** hügieeni ja eluviisi SOP; koos Lisa AA ja Lisa AC.
+
+**Rollid, juhised, NL-skeem (partnerlus):** Lisa AG — tunnustame käitumisi, mis toovad tagasi **mehe rolli**; **naine saab samuti juhised**; aus sõnastus: see meenutab **NL pere-skeemi** — võib-olla parim lahendus praegu.
 
 **Kanep, ECS, CBD ja toit (mitte suitsetamine):** Lisa Y — endokannabinoidsüsteem, CBD tooted, kanepiseemneõli, case study'd, varimajandus; kriitiline mõtlemine — ära usu, uuri ise.
 

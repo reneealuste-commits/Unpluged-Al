@@ -44,7 +44,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | AH | [lisa-ah-leelo-vahersalu-taust.md](lisa-ah-leelo-vahersalu-taust.md) | **Leelo Vahersalu** — puutöö klient, presidendi tunnustus, noorte vaimne tervis |
 | AI | [lisa-ai-epp-karsin-armastus-paabstab-maailma.md](lisa-ai-epp-karsin-armastus-paabstab-maailma.md) | **Armastus päästab maailma** — Epp Kärsin, tankla hetk, avalik postitus |
 | AJ | [lisa-aj-levitamine-ja-kuldne-taganemistee.md](lisa-aj-levitamine-ja-kuldne-taganemistee.md) | **Levitamine** — kontrollitud lugemine, kuldne taganemistee, lugemiskinnitus, kuller + vahapitsat |
-| AK | [lisa-ak-kodaniku-taskuraamat-peegel.md](lisa-ak-kodaniku-taskuraamat-peegel.md) | **Kodaniku taskuraamat** — Ranger Handbooki m\u00f5\u00f5t, eelarve, bushcraft, ohtlikkus (side quest) |
+| AK | [lisa-ak-kodaniku-taskuraamat-peegel.md](lisa-ak-kodaniku-taskuraamat-peegel.md) | **Kodaniku taskuraamat** — Ranger Handbooki mõõt, eelarve, bushcraft, ohtlikkus (side quest) |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
 ---

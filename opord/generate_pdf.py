@@ -56,6 +56,7 @@ BOOK_FILES = [
     "lisa-ac-magamistuba-voim-ja-revolutsioon.md",
     "lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md",
     "lisa-ae-ohk-liikumine-ja-komplimendid.md",
+    "lisa-af-meeste-erektsioon-ja-rela-hooldus.md",
     "renee-aluste-profiil.md",
 ]
 

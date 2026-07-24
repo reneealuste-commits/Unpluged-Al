@@ -39,6 +39,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | AC | [lisa-ac-magamistuba-voim-ja-revolutsioon.md](lisa-ac-magamistuba-voim-ja-revolutsioon.md) | **Magamistuba ja revolutsioon** — võim, ownership, näita teed |
 | AD | [lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md](lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md) | **Lood ja konversioon** — 7-sammu checklist, taskukaardid, mida öelda kui keegi vastu hakkab |
 | AE | [lisa-ae-ohk-liikumine-ja-komplimendid.md](lisa-ae-ohk-liikumine-ja-komplimendid.md) | **Õhk, liikumine, komplimendid** — niiskus korteris, rippumine, mitte-seksuaalne SOP tänaval |
+| AF | [lisa-af-meeste-erektsioon-ja-rela-hooldus.md](lisa-af-meeste-erektsioon-ja-rela-hooldus.md) | **Meeste erektsioon** — füsioloogia, Sterling Cooper, „relva puhastamine" SOP |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
 ---
@@ -81,6 +82,8 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 **Lood ja sõnumi edastamine (kohustuslik praktika):** Lisa AD — inimesed mõistavad maailma läbi lugude; **konversiooni loo checklist** (7 sammu), taskukaardid igale kodanikule, mida öelda kui keegi vastu hakkab. Prindi: `LOO_CHECKLIST_PRINT.pdf`, `LOO_TASKUKAARDID_PRINT.pdf`.
 
 **Õhk, liikumine, komplimendid (elu kvaliteet):** Lisa AE — korteri **õhu niiskuse** mõõtmine ja reguleerimine, rippumine (Lisa AB), **mitte-seksuaalne komplimendi SOP** võõrastele; blokk 0: omamine („minu mees"). Prindi: `KOMPLIMENT_SOP_PRINT.pdf`.
+
+**Meestele — erektsioon (kohustuslik teadmine):** Lisa AF — kuidas erektsioon töötab, Sterling Cooper / krooniline dis-ease, **„puhasta relva"** hügieeni ja eluviisi SOP; koos Lisa AA ja Lisa AC.
 
 **Kanep, ECS, CBD ja toit (mitte suitsetamine):** Lisa Y — endokannabinoidsüsteem, CBD tooted, kanepiseemneõli, case study'd, varimajandus; kriitiline mõtlemine — ära usu, uuri ise.
 

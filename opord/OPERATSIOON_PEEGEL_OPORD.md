@@ -69,6 +69,7 @@ Täielik juhend: **Lisa P § KRIITILINE REEGEL** · Lisa S (miks) · Lisa H (kri
 | **Lisa I** | Steiger 1997 — *Inimesekeskne juhtimine*; peakirjastaja **Heli Illipe-Sootak** |
 | **Lisa P** | **KRIITILINE trauma-reegel** — teistsugune reaalsus, koera metafoor, Cooper, ära feedi haukumist |
 | **Lisa AA** | *Intiimsuse atlas*, orgasmid, vibraatori ajalugu, **Epp Kärsin** yoni koolitus |
+| **Lisa AF** | **Meestele:** erektsioon — kuidas töötab, Sterling Cooper / dis-ease, „relva puhastamine" SOP |
 | **Lisa AB** | **Paljajalu linnas** + **rippumine 90 sek/päev** — Vanja Moves, schoolofmobility.com |
 
 Täiendab **Epp Kärsin** teadlikku intiimsust — **pane end kirja:** [eppkarsin.com](https://www.eppkarsin.com) · yoni koolitus naistele ja meestele · Paldiski mnt 21-1, Tallinn · **5362 8568**
@@ -1323,6 +1324,7 @@ Renee Aluste ja Taavi Karotamme teenisid koos UNIFIL-i Liibanonis Soome-Iiri pat
 - **Paljajalu kohandamine ja rippumine linnas:** Lisa AB — `lisad/lisa-ab-paljajalu-ja-rippumine-linnas.md` (muruväljakud, Korea mudel, **90 sek rippumist päevas**, Vanja Moves / schoolofmobility.com)
 - **Magamistuba, võim ja revolutsioon:** Lisa AC — `lisad/lisa-ac-magamistuba-voim-ja-revolutsioon.md` (naised ei ole kurjad; mehe ownership; näita teed — Epp, Intiimsuse atlas)
 - **Lood, konversiooni checklist, taskukaardid:** Lisa AD — `lisad/lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md` (7 sammu, prinditav checklist, mida öelda kui keegi vastu hakkab)
+- **Meeste erektsioon ja relva hooldus:** Lisa AF — `lisad/lisa-af-meeste-erektsioon-ja-rela-hooldus.md` (füsioloogia, dis-ease, hügieen, uni, stress)
 - **Õhk, liikumine, komplimendid:** Lisa AE — `lisad/lisa-ae-ohk-liikumine-ja-komplimendid.md` (niiskus korteris, rippumine, mitte-seksuaalne komplimendi SOP; blokk 0: omamine)
 - **Koordinaatori profiil:** `lisad/renee-aluste-profiil.md` (eraldi leht)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
@@ -1852,6 +1854,27 @@ Kolmandaks: **räägi võõrastega** — mitte flirt, vaid **üks konkreetne, mi
 Prindi: `KOMPLIMENT_SOP_PRINT.pdf` · taskukaardid rahakotti.
 
 *Minu küsimus sulle: Millal sa viimati mõõtsid korteri niiskust — või ütlesid võõrale ühe **täpse** head sõna?*
+
+---
+
+**K: Miks räägite Sterling Cooperist ja „relva puhastamisest"? Kuidas erektsioon töötab?**
+
+**V (Renee Aluste):** Meestel on krooniline **dis-ease** erektsiooniga — mitte alati haigus, vaid **häbi, teadmatus ja vale surve**. *Mad Men* reklaamiagentuur **Sterling Cooper** sümboliseerib tööstust, mis müüs jõudlust ja tablette, mitte anatoomiat.
+
+**Lisa AF** õpetab:
+
+| Teema | Sisu |
+|-------|------|
+| **Füsioloogia** | Veri sisse + lämmastikoksiid; testosteroon = libiido, mitte lüliti |
+| **Närvisüsteem** | Parasümpaatiline (turvalisus) = sobib; sümpaatiline (stress) = blokeerib (Lisa P) |
+| **„Puhasta relva"** | Hügieen + uni (Lisa V) + liikumine (Lisa AB) + õhk (Lisa AE) + aus suhe (Lisa AC) |
+| **Mitte müüt** | „Mees peab alati tahtma" — vale. Keha räägib tõde. |
+
+See **ei asenda arsti**. Kui probleem on krooniline — perearst või uroloog.
+
+Koos **Lisa AA** (*Intiimsuse atlas*) — mehe keha teadlikult, ilma porri kui õpetajata.
+
+*Minu küsimus sulle: Kas sa tead, mis režiimis su närvisüsteem öösel magamistoas on — turvalisus või võitlus?*
 
 ---
 
@@ -2430,6 +2453,8 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **AB** | — | `lisad/lisa-ab-paljajalu-ja-rippumine-linnas.md` | **Paljajalu linnas** + **rippumine 90 sek/päev** — Vanja Moves, schoolofmobility.com, omavalitsuse checklist |
 | **AC** | — | `lisad/lisa-ac-magamistuba-voim-ja-revolutsioon.md` | **Magamistuba ja revolutsioon** — võim, ownership, naised ei ole kurjad, näita teed |
 | **AD** | — | `lisad/lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md` | **Lood ja konversioon** — 7-sammu checklist, taskukaardid, mida öelda kui keegi vastu hakkab |
+| **AE** | — | `lisad/lisa-ae-ohk-liikumine-ja-komplimendid.md` | **Õhk, liikumine, komplimendid** — niiskus, rippumine, mitte-seksuaalne SOP |
+| **AF** | — | `lisad/lisa-af-meeste-erektsioon-ja-rela-hooldus.md` | **Meeste erektsioon** — füsioloogia, Sterling Cooper, relva hooldus SOP |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

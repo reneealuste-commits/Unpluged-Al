@@ -25,6 +25,8 @@ OPORD manifest ütleb: **Intiimsuse atlas on kohustuslik kirjandus kõigile, ilm
 
 **Praktiline järg:** loe raamat → pane end kirja **Epp Kärsin** koolitusele (yoni massaaž, keha tundmine).
 
+**Meestele (erektsioon, füsioloogia, relva hooldus):** **Lisa AF** — Sterling Cooper vs teadmine; kuidas erektsioon töötab; „puhasta relva" SOP.
+
 **Revolutsioon magamistoas:** **Lisa AC** — võim, manipulatsioon, mehe ownership, näita teed (koos Lisa P trauma-reegliga).
 
 ---

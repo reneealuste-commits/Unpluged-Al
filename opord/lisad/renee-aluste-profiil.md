@@ -41,6 +41,16 @@ Renee ei räägi kaugelt. Ta on olnud **kaevikus** — **e-sliinil**, kus ta suh
 
 Renee-l on **suur vaade** kogu olukorrale. Ta on tuvastanud probleemid, mida käsitleb see **rahva taastamise juhis** (OPORD ja Tugeva Isa seeria). Need probleemid on **väga lihtsasti lahendatavad lihtsate tööriistadega** — uni, liikumine, toit, aus vestlus, mentorlus, 1-1 kontakt, roll + eesmärk + juhis.
 
+### Mida Kaitseväes on näha — vastutus ja koormus
+
+Renee on Kaitseväes näinud mustrit, mis kordub ka tsiviilis:
+
+- Paljud inimesed **ei tee seda, mida ametikoha juhend nõuab**
+- **Kogu süsteem kannatab** — raskus langeb neile, kes töötavad päriselt
+- Need inimesed on **läbipõlenud ja katki** — ja **lahkuvad kiiresti**
+- **Lahendus:** kui **kõik** vastutaksid ja teeksid oma osa, paraneks **kõigi** olukord
+- **Eeldus:** et inimesed saaksid aru, mis valesti on, peab lõppema **kiusamine** ja vana **juhtimismeetodite ja -stiili** ajastu — vastutus ei tule survetundest (Lisa I: inimesekeskne juhtimine)
+
 > *Kui probleem on lihtne lahendada ja tööriist on olemas — on ebamõistlik mitte vähemalt proovida.*
 
 **Margus Lõoke** on Reneele öelnud, et **Kaitseväes töötavate inimeste hulgas on suur osa diagnoositud ATH-ga** (tähelepanu- ja hüperaktiivsushäire). See on **tema isiklik tähelepanek**, mitte ametlik epidemioloogiline uuring — aga Renee kinnitab seda kuulnud olevat ja see klapib e-sliini mustriga: struktuur, uni ja roll on sageli puudu, silt ja tablet on liiga sageli esimene vastus.

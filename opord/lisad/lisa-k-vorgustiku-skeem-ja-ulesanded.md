@@ -110,6 +110,7 @@
 | 4 | Mõõdikute jälgimine (tagasiside kogukonnast) |
 | 5 | **E-sliin** — suhtlus erinevate üksustega, kes parandavad olukorda (sageli sümptomite kaudu); ühendab **suure pildi** ja igapäevased tööriistad |
 | 6 | Tuvastatud probleemide käsitlemine rahva taastamise juhises — lihtsad lahendused enne keerukaid |
+| 7 | **KV muster:** vastutuse puudumine → koormus vähestele → läbipõlemine ja lahkumine; lahendus = kõik teevad oma osa + kiusamise ja vana juhtimisstiili lõpp (Lisa I) |
 
 *Täielik profiil: [renee-aluste-profiil.md](renee-aluste-profiil.md)*
 
@@ -299,7 +300,7 @@
 
 - **Roll:** Eestvedaja ja peamine sõnumitooja; **e-sliin** — suur pilt üksuste vahel
 - **Eesmärk:** Ühendada isiklik kogemus ja sõjaline distsipliin; viia juure lahendused sinna, kus sümptomeid kustutatakse
-- **Ülesanne:** Koordineerimine, autentsus, võrgustiku juhtimine; tuvastatud probleemid → lihtsad tööriistad (see juhis)
+- **Ülesanne:** Koordineerimine, autentsus, võrgustiku juhtimine; tuvastatud probleemid → lihtsad tööriistad (see juhis); KV tähelepanek: vastutus, koormus, läbipõlemine, juhtimisstiil
 - **Eraldi leht:** [renee-aluste-profiil.md](renee-aluste-profiil.md)
 
 #### Margus Lõoke — Kaitseväe mustri tunnistaja

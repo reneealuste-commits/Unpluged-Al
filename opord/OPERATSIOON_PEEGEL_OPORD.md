@@ -88,6 +88,20 @@ Renee-l on **suur vaade** kogu olukorrale. Ta näeb mustreid, mida üksik üksus
 | Teine üksus parandab suhtlust | Pere ja uni jäävad lahendamata |
 | Kolmas üksus annab struktuuri | Inimene ei tea, mida kodus teha |
 
+**Mida Renee Kaitseväes on näinud** — see on üks põhjus, miks ta räägib:
+
+Paljud inimesed **ei tee seda, mida nad peaksid tegema ametikoha juhendi järgi**. Mitte kõik — aga piisavalt paljud, et **kannataks kogu süsteem**. Kogu raskus langeb nendele, kes **teevad tööd päriselt**. Nemad on **läbipõlenud ja katki** — ja **lahkuvad süsteemist kiiresti**. See ei ole ainult inimeste probleem. See on **juhtimise ja vastutuse** probleem.
+
+| Mis juhtub | Mida see tähendab |
+|------------|-------------------|
+| Keegi ei tee oma osa | Teised peavad kompenseerima |
+| Koormus koondub vähestele | Läbipõlemine, lahkumine |
+| Süsteem kaotab parimad | Jäävad need, kes „põlevad läbi" või lahkuvad |
+
+**Lahendus on lihtne mõttes:** kui **kõik** hakkaksid vastutama — teeksid seda, mida nad peaksid tegema — **kõigi olukord paraneb**. Extreme Ownership. Roll + eesmärk + juhis. Mitte üks kangelane, kes kannab kõike.
+
+Aga et inimesed **saaksid aru, mis üldse valesti on**, peab lõppema **kiusamine** ja vana **juhtimismeetodite ja -stiili** ajastu. Inimene ei võta vastutust keskkonnas, kus teda alandatakse, hirmutatakse või surutakse alla. Ta ei näe juurt — ta näeb ainult survet. Seetõttu on operatsiooni tuum ka **inimesekeskne juhtimine** (Lisa I — Steiger, Kert Grünberg): austus, turvalisus, mõistmine — ja alles siis vastutus.
+
 Need probleemid on käsitletud selles **rahva taastamise juhises** (see dokument ja Tugeva Isa seeria). Ja need on **väga lihtsasti lahendatavad lihtsate tööriistadega** — uni, liikumine, toit, aus vestlus, mentor, 1-1 kontakt, roll + eesmärk + juhis. Mitte raketiteadus. Mitte miljardiprojekt.
 
 > *Kui probleem on lihtne lahendada ja tööriist on olemas — on ebamõistlik mitte vähemalt proovida.*
@@ -378,6 +392,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 - **Isiklik ajend (ausalt):** 37 aastat domineeriva juhtimise ja vägivalla all (*väikena ei kiusatud* — aga leivale suud, kõik ära, vastu tahtmist). Kolm last võõrandatud (Lily Käsper 14a, Rene Tilga 6a, Henry Käsper 11a). Oli ise kooli kiusaja. Taastus: Engel, Voss, van der Kolk, EMDR. Lahendus: **inimesekeskne juhtimine** (Kert + Steiger). Vt Q&A IV.
 - **Miks ta on siin:** Ta ei õpeta teooriat — ta on elanud läbi selle, mida õpetab. „Ma ei manipuleeri sind nõrkuseks. Ma aitan sul saada tugevaks."
 - **E-sliin ja suur pilt:** Renee on olnud **kaevikus** — digitaalsel rindejoonel, kus ta suhtleb erinevate üksustega, kes püüavad olukorda parandada, kuid sageli **sümptomite kustutamisega**. Tal on **suur vaade** kogu olukorrale: ta on tuvastanud probleemid, mida see juhis käsitleb — ja need on **lahendatavad lihtsate tööriistadega** (uni, liikumine, toit, mentorlus, 1-1 vestlus). Ebamõistlik on mitte vähemalt proovida. Täpsemalt: sektsioon **„MIKS RENEE?"** ülal.
+- **Kaitseväe muster (Renee tähelepanek):** Paljud **ei tee seda, mida ametikoha juhend nõuab** — kogu raskus langeb neile, kes töötavad; nemad põlevad läbi, lähevad katki ja lahkuvad kiiresti. Lahendus: **kõik vastutavad** — aga selleks peab lõppema **kiusamine** ja vana juhtimisstiil (Lisa I). Kui kõik teeksid oma osa, paraneks kõigi olukord.
 - **Kaitseväe ATH-muster (tähelepanek):** **Margus Lõoke** on Reneele öelnud, et Kaitseväes töötavate inimeste hulgas on **suur osa diagnoositud ATH-ga**. Isiklik vaatlus, mitte ametlik statistika — aga see toetab e-sliini mustrit: struktuur, uni ja roll on sageli puudu, silt ja tablet on liiga sageli esimene vastus.
 - **Kui kahtled — kes ta on:** **Lisa R** — `lisa-r-kes-ma-olen-ja-taust.md` (CV, teenistus, koolitused, meedia lingid)
 
@@ -1277,6 +1292,8 @@ Ma ei palu sul uskuda mind. Ma palun kontrollida. Kui faktid ei klapi — lahku 
 **K: Miks just sina? Miks sa peaksid midagi ütlema — kes sa oled, et rääkida kogu rahvale?**
 
 **V (Renee Aluste):** Õige küsimus. Ma ei ole poliitik ega ametlik Kaitseväe esindaja. Ma olen olnud **kaevikus** — **e-sliinil**, kus ma suhtlen erinevate üksustega, kes teevad oma tööd ja püüavad olukorda parandada. Enamik neist tegeleb **sümptomite kustutamisega** — ja see on vajalik. Aga minul on **suur pilt**: ma näen mustreid, mida üksik üksus oma rindejoone pealt ei näe.
+
+**Kaitseväes** olen näinud seda: paljud inimesed **ei tee seda, mida ametikoha juhend nõuab**. Kogu süsteem kannatab. Kogu raskus langeb nendele, kes **teevad tööd päriselt** — nemad on **läbipõlenud ja katki** ja **lahkuvad kiiresti**. Kui **kõik** hakkaksid vastutama ja teeksid oma osa, paraneks **kõigi** olukord. Aga et inimesed saaksid aru, mis valesti on, peab lõppema **kiusamine** ja vana **juhtimismeetodite ja -stiili** ajastu. Vastutus ei tule survetundest — see tuleb turvalisest ja austavast keskkonnast (Lisa I).
 
 Ma olen tuvastanud probleemid, mida käsitleb see **rahva taastamise juhis** — uni, liikumine, toit, aus vestlus, mentor, roll ja eesmärk. Need on **lihtsad tööriistad**. Kui probleem on lahendatav ja tööriist on olemas, on **ebamõistlik mitte vähemalt proovida**.
 

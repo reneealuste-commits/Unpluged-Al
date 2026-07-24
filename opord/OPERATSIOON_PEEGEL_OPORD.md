@@ -2488,6 +2488,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **Q** | — | `lisad/lisa-q-side-eeskirjad-ja-suhtlus.md` | **Side eeskirjad** — hääl, GOTWA, austav keel, Pareto 80/20, demomehed |
 | **S** | — | `lisad/lisa-s-kiusamine-aju-ja-trauma.md` | **Kiusamine, aju ja trauma** — *Imeline Teadus*, miks inimesed käituvad nii, Body Keeps the Score |
 | **T** | — | `lisad/lisa-t-valitsuse-ipb-analuus.md` | **Valitsuse hetke-analüüs** — IPB raamistik, KPI/OKR, 13 ministrit, ellujäämisrežiim, tagasiside puudumine |
+<<<<<<< HEAD
 | **U** | — | `lisad/lisa-u-rasv-avatud-meele-uuring.md` | **Rasv ja avatud meel** — Bellevue uuring 1928–29, PDF lingid, 30 mõtlemisküsimust; **uurimustöö PDF:** `TOITUMINE_UURIMUSTOO.pdf` |
 | **V** | — | `lisad/lisa-v-uni-miks-me-magame.md` | **Uni** — Matthew Walker *Why We Sleep*; NREM/REM, uni ja aju, müüdid vs faktid, 25 avatud meele küsimust |
 | **W** | — | `lisad/lisa-w-montessori-beebi-austus-algusest.md` | **Montessori beebi** — austus algusest (0–3); *austus = armastus*; stressivaba vanemlus, kodus ja lasteaias |
@@ -2501,6 +2502,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **AE** | — | `lisad/lisa-ae-ohk-liikumine-ja-komplimendid.md` | **Õhk, liikumine, olukorra teadlikkus** — treening, enesega kontakt |
 | **AF** | — | `lisad/lisa-af-meeste-erektsioon-ja-rela-hooldus.md` | **Meeste erektsioon** — füsioloogia, Sterling Cooper, relva hooldus SOP |
 | **AG** | — | `lisad/lisa-ag-rollid-partnerlus-ja-nl-skeem.md` | **Rollid, kapten, Taraban** — mehe SOP, NL-skeem, *The Value of Others* |
+| **AH** | — | `lisad/lisa-ah-leelo-vahersalu-taust.md` | **Leelo Vahersalu** — taustauuring; miks kodaniku toetus loeb |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |
 
 **Soovitatud lugemisjärjekord (tavapärane):** A → B → C → D → E → F → G (või vastavalt faasidele: Faas I = A–B, Faas II = C–F, Faas III = G).

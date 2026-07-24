@@ -1,4 +1,4 @@
-# Lisa V — Leelo Vahersalu: taustauuring ja miks tema toetus loeb
+# Lisa AH — Leelo Vahersalu: taustauuring ja miks tema toetus loeb
 
 **Operatsioon „Peegel"** | Kodaniku profiil — *mitte kuulsus, vaid naaber*  
 **Kuupäev:** 24. juuli 2026  

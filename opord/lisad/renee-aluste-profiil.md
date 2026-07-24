@@ -35,6 +35,22 @@ Ta ei õpeta teooriat. Ta on elanud läbi selle, mida õpetab.
 
 ---
 
+## Miks mina? — e-sliin ja suur pilt
+
+Renee ei räägi kaugelt. Ta on olnud **kaevikus** — **e-sliinil**, kus ta suhtleb erinevate üksustega, kes teevad oma tööd ja püüavad olukorda parandada. Enamik neist tegeleb **sümptomite kustutamisega**: kriis, ravim, üks juhtum korraga. See on vajalik — aga see ei näita kogu pilti.
+
+Renee-l on **suur vaade** kogu olukorrale. Ta on tuvastanud probleemid, mida käsitleb see **rahva taastamise juhis** (OPORD ja Tugeva Isa seeria). Need probleemid on **väga lihtsasti lahendatavad lihtsate tööriistadega** — uni, liikumine, toit, aus vestlus, mentorlus, 1-1 kontakt, roll + eesmärk + juhis.
+
+> *Kui probleem on lihtne lahendada ja tööriist on olemas — on ebamõistlik mitte vähemalt proovida.*
+
+**Margus Lõoke** on Reneele öelnud, et **Kaitseväes töötavate inimeste hulgas on suur osa diagnoositud ATH-ga** (tähelepanu- ja hüperaktiivsushäire). See on **tema isiklik tähelepanek**, mitte ametlik epidemioloogiline uuring — aga Renee kinnitab seda kuulnud olevat ja see klapib e-sliini mustriga: struktuur, uni ja roll on sageli puudu, silt ja tablet on liiga sageli esimene vastus.
+
+Seetõttu on Renee õige inimene seda sõnumit viima: ta on **nii kaevikus kui ka üleval** — ühendab need, kes sümptomeid kustutavad, nendega, kes vajavad juurt ja igapäevast tööriista.
+
+Täielik sõnastus OPORD-is: sektsioon **„MIKS RENEE?"**
+
+---
+
 ## Roll operatsioonis
 
 | Element | Kirjeldus |

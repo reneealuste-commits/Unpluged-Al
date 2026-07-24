@@ -29,7 +29,7 @@
 │ Renee Aluste     │   │ Remo Ojaste (CEO)    │   │ Ain Anslan       │   │ (vt Lisa J)         │   │ Lucas, Villido   │
 │ (vt eraldi prof) │   │ Martin Jõesaar       │   │ Viru vangla      │   │ Techno TLN, KVA,    │   │ tantra, Pühali   │
 └────────┬─────────┘   │ Priit, Renee, Eerik  │   └──────────────────┘   │ RaM, TVW Waldorf   │   └────────┬─────────┘
-         │             │ Elmar, Louis, Robert │                            └─────────┬─────────┘            │
+         │             │ Elmar, Louis, Robert │   Montessori võrg.     └─────────┬─────────┘            │
          │             ├──────────────────────┤                                      │                      │
          │             │ Her Way (naised)     │                                      │                      │
          │             │ Youth / Supermängud  │                                      │                      │
@@ -108,8 +108,22 @@
 | 2 | Combat Ready koolituste korraldamine võrgustikule |
 | 3 | Isiklike lugude jagamine (autentsus) |
 | 4 | Mõõdikute jälgimine (tagasiside kogukonnast) |
+| 5 | **E-sliin** — suhtlus erinevate üksustega, kes parandavad olukorda (sageli sümptomite kaudu); ühendab **suure pildi** ja igapäevased tööriistad |
+| 6 | Tuvastatud probleemide käsitlemine rahva taastamise juhises — lihtsad lahendused enne keerukaid |
 
 *Täielik profiil: [renee-aluste-profiil.md](renee-aluste-profiil.md)*
+
+### 3.2b Margus Lõoke — Kaitseväe mustri tunnistaja
+
+**Eesmärk:** Toomine Kaitseväe sisemise vaate operatsiooni planeeringusse — ilma ametliku statistikata, ausa tähelepanekuna.
+
+| Ülesanne | Kirjeldus |
+|----------|-----------|
+| 1 | Jagada Reneelega tähelepanekut: **suur osa Kaitseväes töötavatest inimestest on diagnoositud ATH-ga** |
+| 2 | Kinnitada e-sliini mustrit — struktuur, uni ja roll vs ainult sümptomi kustutamine |
+| 3 | Toetada sõnumit: lihtsad tööriistad (Lisa H, Lisa I, Lisa P) enne keerukaid lahendusi |
+
+> *Isiklik vaatlus, mitte epidemioloogiline väide. Renee dokumenteerib, sest see klapib suure pildiga.*
 
 ### 3.3 Combat Ready OÜ
 
@@ -219,6 +233,7 @@
 | Marko Kaseleht | Kohalik tegija | Piirkondlik tegevus |
 | Kaido Raudvere | Tegus ettevõtja | Hajutatud võrgustik |
 | Robert Käsper | Meedik (18D), veteran | Kaitse, meditsiin, „Eriväelase jutud" |
+| Margus Lõoke | Kaitseväe mustri tunnistaja | ATH-muster KV-s (isiklik tähelepanek); e-sliini tugi |
 
 ---
 
@@ -282,10 +297,16 @@
 
 ![Renee Aluste](images/profiles/renee-aluste.jpg)
 
-- **Roll:** Eestvedaja ja peamine sõnumitooja
-- **Eesmärk:** Ühendada isiklik kogemus ja sõjaline distsipliin
-- **Ülesanne:** Koordineerimine, autentsus, võrgustiku juhtimine
+- **Roll:** Eestvedaja ja peamine sõnumitooja; **e-sliin** — suur pilt üksuste vahel
+- **Eesmärk:** Ühendada isiklik kogemus ja sõjaline distsipliin; viia juure lahendused sinna, kus sümptomeid kustutatakse
+- **Ülesanne:** Koordineerimine, autentsus, võrgustiku juhtimine; tuvastatud probleemid → lihtsad tööriistad (see juhis)
 - **Eraldi leht:** [renee-aluste-profiil.md](renee-aluste-profiil.md)
+
+#### Margus Lõoke — Kaitseväe mustri tunnistaja
+
+- **Roll:** Usalduslik teealune hääl; Kaitseväe sisemise mustri vaatleja
+- **Eesmärk:** Toomine ATH-mustri tähelepanek operatsiooni konteksti (isiklik vaatlus)
+- **Ülesanne:** Kinnitada Reneele: suur osa KV personalist on diagnoositud ATH-ga; toetada sõnumit, et lihtsad tööriistad on proovimist väärt
 
 ---
 
@@ -647,6 +668,7 @@
 | Marko Oolo | Investor, Excel | Aasta investor 2024, portfellitööriistad (oolomarko.ee) |
 | Katri Teller | Blondcast | Aasta investor 2023, taskuhääling (tasku.delfi.ee) |
 | Robert Käsper | Meedik (18D), veteran; hajutatult | Eriväelase jutud; kaitse ja meditsiin |
+| Margus Lõoke | KV mustri tunnistaja | ATH-diagnostika muster KV-s (isiklik tähelepanek); e-sliini tugi |
 
 ---
 

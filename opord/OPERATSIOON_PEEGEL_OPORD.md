@@ -76,6 +76,26 @@ Renee Aluste ei alustanud teooriast. Ta alustas oma elust:
 
 **Esimene ukse lahti tegemine:** 1-1 vestlus **Rene Toomsega** on alustatud.
 
+### MIKS RENEE? — e-sliin, suur pilt ja lihtsad tööriistad
+
+Renee ei räägi laua tagant teooriat. Ta on olnud **kaevikus** — **e-sliinil**, kus ta suhtleb erinevate üksustega, kes teevad oma tööd ja püüavad olukorda parandada. Enamik neist tegeleb **sümptomite kustutamisega**: kriis, ravim, lühiajaline lahendus, üks juhtum korraga. See on vajalik töö — aga see ei näita kogu pilti.
+
+Renee-l on **suur vaade** kogu olukorrale. Ta näeb mustreid, mida üksik üksus oma rindejoone pealt ei näe:
+
+| Mis e-sliinil juhtub | Mida suur pilt näitab |
+|----------------------|------------------------|
+| Üks üksus kustutab ärevust | Infosõja ja elurütmi probleem jääb alles |
+| Teine üksus parandab suhtlust | Pere ja uni jäävad lahendamata |
+| Kolmas üksus annab struktuuri | Inimene ei tea, mida kodus teha |
+
+Need probleemid on käsitletud selles **rahva taastamise juhises** (see dokument ja Tugeva Isa seeria). Ja need on **väga lihtsasti lahendatavad lihtsate tööriistadega** — uni, liikumine, toit, aus vestlus, mentor, 1-1 kontakt, roll + eesmärk + juhis. Mitte raketiteadus. Mitte miljardiprojekt.
+
+> *Kui probleem on lihtne lahendada ja tööriist on olemas — on ebamõistlik mitte vähemalt proovida.*
+
+**Margus Lõoke** on üks neist inimestest, kes seda mustrit näeb. Ta on Reneele öelnud, et **Kaitseväes töötavate inimeste hulgas on suur osa diagnoositud ATH-ga** (tähelepanu- ja hüperaktiivsushäire). See ei ole ametlik epidemioloogiline uuring — see on **tema isiklik tähelepanek**, mida Renee kinnitab kuulnud olevat. Aga see klapib sellega, mida e-sliinil kordub: inimesed, kes vajavad struktuuri, und ja selget rolli — mitte ainult sildi ja tabletti.
+
+Seetõttu on Renee õige inimene seda sõnumit viima: ta on **nii kaevikus kui ka üleval** — ühendab need, kes sümptomeid kustutavad, nendega, kes vajavad juurt ja igapäevast tööriista.
+
 ### MIKS — miks Operatsioon „Peegel"?
 
 - Sest **järgmine sõda on su köögis** — mitte ainult tankidega piiril.
@@ -357,7 +377,14 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 - **Läbipõlemise õppetund:** Umbes **kolm aastat** tegi ta Sõdurioskuste kursuseid efektiivselt ja suurelt — tulemuseks olid **suured läbipõlemise ilmingud**. Operatsioon „Peegel" peab seda seekord tegema **targemini**: alusta **1-1 vestlustega** niipea kui võimalik, mitte ainult mass-koolitusega. Esimene samm on tehtud — **Rene Toomsega** on suhtlus alustatud; ukse lahti tehtud. (Vt V-formatsioon: Lisa I — üks ei veda igavesti.)
 - **Isiklik ajend (ausalt):** 37 aastat domineeriva juhtimise ja vägivalla all (*väikena ei kiusatud* — aga leivale suud, kõik ära, vastu tahtmist). Kolm last võõrandatud (Lily Käsper 14a, Rene Tilga 6a, Henry Käsper 11a). Oli ise kooli kiusaja. Taastus: Engel, Voss, van der Kolk, EMDR. Lahendus: **inimesekeskne juhtimine** (Kert + Steiger). Vt Q&A IV.
 - **Miks ta on siin:** Ta ei õpeta teooriat — ta on elanud läbi selle, mida õpetab. „Ma ei manipuleeri sind nõrkuseks. Ma aitan sul saada tugevaks."
+- **E-sliin ja suur pilt:** Renee on olnud **kaevikus** — digitaalsel rindejoonel, kus ta suhtleb erinevate üksustega, kes püüavad olukorda parandada, kuid sageli **sümptomite kustutamisega**. Tal on **suur vaade** kogu olukorrale: ta on tuvastanud probleemid, mida see juhis käsitleb — ja need on **lahendatavad lihtsate tööriistadega** (uni, liikumine, toit, mentorlus, 1-1 vestlus). Ebamõistlik on mitte vähemalt proovida. Täpsemalt: sektsioon **„MIKS RENEE?"** ülal.
+- **Kaitseväe ATH-muster (tähelepanek):** **Margus Lõoke** on Reneele öelnud, et Kaitseväes töötavate inimeste hulgas on **suur osa diagnoositud ATH-ga**. Isiklik vaatlus, mitte ametlik statistika — aga see toetab e-sliini mustrit: struktuur, uni ja roll on sageli puudu, silt ja tablet on liiga sageli esimene vastus.
 - **Kui kahtled — kes ta on:** **Lisa R** — `lisa-r-kes-ma-olen-ja-taust.md` (CV, teenistus, koolitused, meedia lingid)
+
+#### Margus Lõoke — Kaitseväe mustri tunnistaja
+
+- **Roll operatsioonis:** Usalduslik teealune hääl; toob Kaitseväe sisemise vaate operatsiooni planeeringusse.
+- **Miks ta on siin:** Ta on **Margus Lõoke** — ettevõtja ja inimene, kes näeb Kaitseväe personali mustreid oma töö ja suhtluse kaudu. Ta on Reneele öelnud, et **suur osa Kaitseväes töötavatest inimestest on diagnoositud ATH-ga**. See ei ole epidemioloogiline väide — see on **tema tähelepanek**, mida Renee dokumenteerib, sest see kinnitab: probleem on laialt levinud, aga lahendus võib olla lihtne (struktuur, uni, liikumine, roll — mitte ainult sümptomi kustutamine). Täielik võrgustiku kirje: **Lisa K**.
 
 #### Priit Lilleväli — Rahva tase, juhtimis- ja psühholoogiline tugi
 
@@ -570,6 +597,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 #### Võrgustiku toetajad (taktikaline tase)
 - **Tegusad ettevõtjad (hajutatud võrgustik)** — Martin Plaser, Nils Ratt, Priit Uuemaa, Sverre Puustusmaa, Marko Kaseleht, Kaido Raudvere; tegutsevad sõltumatult, ilma tsentraalse käsuta — igaüks oma piirkonnas ja valdkonnas.
 - **Robert Käsper** — tegutseb **hajutatult omal maastikul**: meedik (18D), veteran, Delfi „Eriväelase jutud"; kaitse ja meditsiin.
+- **Margus Lõoke** — Kaitseväe mustri tunnistaja; jagas Reneelega tähelepanekut ATH-diagnostika mustrist KV personalis (isiklik vaatlus, mitte ametlik statistika).
 - **Peep Vain** — koolitaja ja kõneleja (Vain & Partners); juhtimine, motivatsioon ja enesemääramine.
 - **Alar Ojastu** — juhtide ja meeskondade koolitaja (Eesti parim koolitaja 2018); autor *Ratsionaalne emotsionaalsus* — emotsioonide ja inimlikkuse silmaringi avaja.
 - **Tiit Trofimov** — enesearengu teejuht (tiittrofimov.ee); emotsioonide töö, meeste ringid, meditatsioon; autor *Lõpp on algus*; taastumine pärast 2009. aasta kriisi.
@@ -671,6 +699,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 | Toetus | Marko Oolo | Exceli tööriistad, portfellihaldus — aktiivne |
 | Toetus | Katri Teller / Blondcast | Taskuhääling, rahatarkus — aktiivne |
 | Toetus | Robert Käsper | Meedik (18D), Eriväelase jutud — hajutatult — aktiivne |
+| Toetus | Margus Lõoke | KV ATH-muster (isiklik tähelepanek); e-sliini tugi — aktiivne |
 | Demomehed | Üksus Aluste_kool (SOK) | Viisakus, checklist, demomehed — aktiveeritud |
 | Toetus | Katrin Lucas / „Ava oma Silmad" | Teadlikkuse kanal — aktiivne |
 | Toetus | Ingvar Villido / Practical Consciousness | Teadliku muutuse kunst — aktiivne |
@@ -1242,6 +1271,20 @@ Ma ei palu sul uskuda mind. Ma palun kontrollida. Kui faktid ei klapi — lahku 
 *Täielik CV-kokkuvõte, koolituste maht ja meedialingid: **Lisa R** — `lisad/lisa-r-kes-ma-olen-ja-taust.md`.*
 
 *Minu küsimus sulle: Mida sa kontrollisid viimati ise — enne kui sa otsustasid, et keegi on usaldusväärne või mitte?*
+
+---
+
+**K: Miks just sina? Miks sa peaksid midagi ütlema — kes sa oled, et rääkida kogu rahvale?**
+
+**V (Renee Aluste):** Õige küsimus. Ma ei ole poliitik ega ametlik Kaitseväe esindaja. Ma olen olnud **kaevikus** — **e-sliinil**, kus ma suhtlen erinevate üksustega, kes teevad oma tööd ja püüavad olukorda parandada. Enamik neist tegeleb **sümptomite kustutamisega** — ja see on vajalik. Aga minul on **suur pilt**: ma näen mustreid, mida üksik üksus oma rindejoone pealt ei näe.
+
+Ma olen tuvastanud probleemid, mida käsitleb see **rahva taastamise juhis** — uni, liikumine, toit, aus vestlus, mentor, roll ja eesmärk. Need on **lihtsad tööriistad**. Kui probleem on lahendatav ja tööriist on olemas, on **ebamõistlik mitte vähemalt proovida**.
+
+**Margus Lõoke** on mulle öelnud, et Kaitseväes töötavate inimeste hulgas on **suur osa diagnoositud ATH-ga**. See on tema isiklik tähelepanek — mitte ametlik uuring. Aga see klapib sellega, mida ma e-sliinil näen: inimesed vajavad struktuuri ja igapäevast tööriista, mitte ainult silti.
+
+Ma ei palu sul uskuda mind. Ma palun vaadata, kas need tööriistad aitavad **sul** — üks samm korraga.
+
+*Minu küsimus sulle: Kas sa oled kunagi näinud probleemi, mida kõik ümberringi „parandavad" — aga keegi ei vaata juurt?*
 
 ---
 

@@ -131,6 +131,11 @@ SILDID = {
         "**Loe seda kui:** oled v\u00f5rgustiku liige, koordinaator v\u00f5i demomees.  \n",
         "**\u00c4ra loe kui:** alles K0/TUUM faasis.\n",
     ),
+    "lisa-bf-kuningas-raagib-rahvaga.md": (
+        "**Lugeja saab:** otse dialoogi p\u00f5him\u00f5tte \u2014 juht r\u00e4\u00e4gib rahvaga, mitte tornist.  \n",
+        "**Loe seda kui:** juhid inimesi, peret v\u00f5i meeskonda.  \n",
+        "**\u00c4ra loe kui:** otsid monarhistlikku poliitikat \u2014 see on metafoor.\n",
+    ),
 }
 
 MARKER = "**Lugeja saab:**"

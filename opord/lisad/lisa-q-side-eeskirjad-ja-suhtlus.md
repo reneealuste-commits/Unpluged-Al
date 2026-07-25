@@ -283,8 +283,9 @@ Kui inimene teab, et **keegi tuleb** — et ta ei pea partnerit alt vedama, et h
 | **Lisa AT** | LIHTSUS — kui kinni jäid |
 | **Lisa BD** | NVC taskukaardid kodanikule — OFNR igapäevaseks suhtluseks (`NVC_TASKUKAARDID_PRINT.pdf`) |
 | **Lisa BE** | **1-1 võrgustikus** — ~80% sisemisest tööst; nädala/päeva standard; demonstreeri, ära sunni |
+| **Lisa BF** | **Kuningas räägib rahvaga** — otse dialoog; kuula enne avalikku sõnumit |
 
-**Lisa X** = väljapoole jagamine. **Lisa BD** = kodaniku igapäev. **Lisa BE** = võrgustiku 1-1 tuum.
+**Lisa X** = väljapoole jagamine. **Lisa BD** = kodaniku igapäev. **Lisa BE** = võrgustiku 1-1 tuum. **Lisa BF** = juht tuleb tornist alla.
 
 ---
 

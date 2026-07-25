@@ -197,6 +197,8 @@ Vaadates sinu poole — ma näen, et sinu seas on inimesi, kes sobivad sellesse 
 
 > *Enne kui oled juht, mentor või eeskuju — oled õppija. Õpi ennast tundma. See on pikk mäng. Teisel pool on armastust täis väärtuslik elu.*
 
+**Juhtimise põhimõte:** *kuningas räägib rahvaga* — mitte tornist, mitte ainult ekraanile. Täielik SOP: **Lisa BF**.
+
 ---
 
 ## MIKS? AJEND. EESMÄRK.
@@ -1079,7 +1081,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 
 ### Riho Ühtegi / Rene Toomse (strateegiline tase)
 1. Avalik sõnum: riigikaitse algab kodus.
-2. Poliitiline ja ühiskondlik dialoog perede toetusest.
+2. Poliitiline ja ühiskondlik dialoog perede toetusest — **rahvaga**, mitte ainult rahale (Lisa BF).
 3. Ühendavad narratiivid, mis ei lõhu, vaid ehitavad.
 
 ### Starfish Academy (Vallo Arumäe)
@@ -1372,6 +1374,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 - **Side eeskirjad:** Lisa Q — `lisad/lisa-q-side-eeskirjad-ja-suhtlus.md` (hääl, GOTWA, austav keel, **kata ja liigu**, demomeeste igapäevane standard)
 - **NVC taskukaardid (kodanik):** Lisa BD — `lisad/lisa-bd-nvc-taskukaardid-kodanikule.md` (OFNR igapäevaseks suhtluseks; alus Lisa Q)
 - **1-1 võrgustikus:** Lisa BE — `lisad/lisa-be-1-1-vestlus-vorgustikus.md` (~80% sisemisest tööst; igapäevane standard; demonstreeri, ära sunni)
+- **Kuningas räägib rahvaga:** Lisa BF — `lisad/lisa-bf-kuningas-raagib-rahvaga.md` (otse dialoog; kuula enne avalikku sõnumit)
 - **LIHTSUS / kui kinni jäid:** Lisa AT — `lisad/lisa-at-lihtsus-kui-kinni-jaid.md` (otsuspuu, üks järgmine samm)
 - **Kes ma olen (kahtlus / taust):** Lisa R — `lisad/lisa-r-kes-ma-olen-ja-taust.md` (CV, teenistus, koolitused, meedia tõendid)
 - **Valitsuse hetke-analüüs:** Lisa T — `lisad/lisa-t-valitsuse-ipb-analuus.md` (Ranger Handbook, KPI, 13 ministrit, show me the money)
@@ -2594,6 +2597,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **BC** | — | `lisad/lisa-bc-digitaalne-detoks-ja-nuputelefon.md` | **Digitaalne detoks** — nuputelefon pärast 17:00, ankrupaik, valge nimekiri; töö pärast tundi ei ole OK |
 | **BD** | — | `lisad/lisa-bd-nvc-taskukaardid-kodanikule.md` | **NVC taskukaardid** — OFNR kodanikule; igapäevane suhtlus (Lisa Q alus); 4 kaarti + rahakott |
 | **BE** | — | `lisad/lisa-be-1-1-vestlus-vorgustikus.md` | **1-1 võrgustikus** — ~80% sisemisest tööst; igapäevane standard; demonstreeri protsessi, ära sunni |
+| **BF** | — | `lisad/lisa-bf-kuningas-raagib-rahvaga.md` | **Kuningas räägib rahvaga** — otse dialoog torni asemel; kuula enne õpetamist |
 | **AQ** | — | `lisad/lisa-aq-sidepakkide-jaotus-skeem.md` | **Sidepakkide jaotus** — K0–K3 kihtide arhitektuur, paketid P0–P3, kanalid, levitamise reeglid |
 | — | — | `lisad/kiht0-ru-tuum-1-leht.md` | **Kiht 0 RU** — 1 lk venekeelne tuum (Lisa AN) |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |

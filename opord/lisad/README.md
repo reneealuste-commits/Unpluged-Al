@@ -62,6 +62,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | BC | [lisa-bc-digitaalne-detoks-ja-nuputelefon.md](lisa-bc-digitaalne-detoks-ja-nuputelefon.md) | **Digitaalne detoks** — nuputelefon pärast 17:00, ankrupaik, valge nimekiri; töö pärast tundi ei ole OK |
 | BD | [lisa-bd-nvc-taskukaardid-kodanikule.md](lisa-bd-nvc-taskukaardid-kodanikule.md) | **NVC taskukaardid** — OFNR igapäevaseks suhtluseks; alus Lisa Q; 4 kaarti + rahakott |
 | BE | [lisa-be-1-1-vestlus-vorgustikus.md](lisa-be-1-1-vestlus-vorgustikus.md) | **1-1 võrgustikus** — ~80% sisemisest tööst; igapäevane standard; demonstreeri, ära sunni |
+| BF | [lisa-bf-kuningas-raagib-rahvaga.md](lisa-bf-kuningas-raagib-rahvaga.md) | **Kuningas räägib rahvaga** — otse dialoog, mitte torn; juht kuulab enne õpetamist |
 | — | [kiht0-ru-tuum-1-leht.md](kiht0-ru-tuum-1-leht.md) | **Kiht 0 RU** — 1 lk venekeelne tuum (Lisa AN tee E) |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
@@ -141,6 +142,8 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 **NVC taskukaardid (kodanik):** Lisa BD — OFNR (tähelepanek, tunne, vajadus, palve) igapäevaseks suhtluseks; alus Lisa Q side eeskirjad. Prindi `NVC_TASKUKAARDID_PRINT.pdf` või rahakott.
 
 **1-1 võrgustikus:** Lisa BE — ~80% sisemisest tööst on 1-1 vestlus; konkreetne nädala/päeva standard; vabatahtlik, demonstreeritud protsess. Prindi `1_1_VESTLUS_TASKUKAART.pdf`.
+
+**Kuningas räägib rahvaga:** Lisa BF — juht räägib *rahvaga*, mitte ainult *rahale*; kuula enne avalikku sõnumit; torn vs dialoog.
 
 **Venekeelne 1 lk:** [kiht0-ru-tuum-1-leht.md](kiht0-ru-tuum-1-leht.md) — Lisa AN tee E.
 

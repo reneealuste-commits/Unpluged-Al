@@ -69,6 +69,7 @@ LISA_FILES = [
     "lisa-bc-digitaalne-detoks-ja-nuputelefon.md",
     "lisa-bd-nvc-taskukaardid-kodanikule.md",
     "lisa-be-1-1-vestlus-vorgustikus.md",
+    "lisa-bf-kuningas-raagib-rahvaga.md",
     "renee-aluste-profiil.md",
 ]
 

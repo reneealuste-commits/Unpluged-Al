@@ -650,6 +650,7 @@ Iga valitsusliige peab enne ametisse astumist läbima:
 2. **Mõttevigade kursus** — kinnisidee, kinnitushäire, gruppthink, anchoring
 3. **NVC baaskursus** — vajadused, tunded, palved
 4. **Demograafia ja pere KPI-de seminar** — TFR, sündide arv, vaesus
+5. **Mini-kursis K0** — `kursid/K0-ava-silmad-mini-en.md` (inglise keeles videod; Lisa AY esimene manööver)
 
 ### „Valik" — kriteeriumid
 

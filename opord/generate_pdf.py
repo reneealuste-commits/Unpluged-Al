@@ -74,6 +74,7 @@ BOOK_FILES = [
     "lisa-av-peegel-hindamisvorm.md",
     "lisa-aw-motlemine-kiiresti-ja-aeglaselt.md",
     "lisa-ax-demo-perekond-ja-eeskujud.md",
+    "lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md",
     "kiht0-ru-tuum-1-leht.md",
     "renee-aluste-profiil.md",
 ]

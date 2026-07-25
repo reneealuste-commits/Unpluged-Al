@@ -96,6 +96,11 @@ SILDID = {
         "**Loe seda kui:** otsid perev\u00e4\u00e4rtuste promijaid v\u00f5i valid eeskujusid.  \n",
         "**\u00c4ra loe kui:** pole veel Lisa N demomehe reeglit lugenud.\n",
     ),
+    "lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md": (
+        "**Lugeja saab:** kuldse silla doktriini ja valitsuse esimest man\u00f6\u00f6vrit.  \n",
+        "**Loe seda kui:** m\u00f5tled reformi, vastutust v\u00f5i juhtide vahetust.  \n",
+        "**\u00c4ra loe kui:** otsid kiiret perelahendust \u2014 alusta Lisa H.\n",
+    ),
 }
 
 MARKER = "**Lugeja saab:**"

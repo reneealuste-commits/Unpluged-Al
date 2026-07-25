@@ -158,7 +158,7 @@ Me **ei süüdi** ühtegi ministrit ega poliitikut isiklikult. Nad **ei ole vaen
 
 ### Tuleviku nõue
 
-Iga valitsusliige peaks enne ametisse astumist läbima **traumateadlikkuse baaskursuse** ja **mõttevigade kursuse** — mitte süüdistamiseks, vaid selleks, et otsused ei tuleks kaitsepositsioonist. Detailid: **Lisa T §11**.
+Iga valitsusliige peaks enne ametisse astumist läbima **traumateadlikkuse baaskursuse** ja **mõttevigade kursuse** — mitte süüdistamiseks, vaid selleks, et otsused ei tuleks kaitsepositsioonist. **Esimene manööver:** mini-kursus K0 (inglise keeles videod) + **Lisa AY** (kuldne sild). Detailid: **Lisa T §11**, **Lisa AY**.
 
 **Täielik analüüs (IPB, PMESII-PT, ASCOPE, 13 ministri profiilid, show me the money, hüpoteesid):** **Lisa T** — `lisad/lisa-t-valitsuse-ipb-analuus.md`
 

@@ -55,6 +55,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | AV | [lisa-av-peegel-hindamisvorm.md](lisa-av-peegel-hindamisvorm.md) | **Peegli hindamisvorm** — pere, meeskond, SOK; prindi `PEEGEL_HINDAMISVORM_PRINT.pdf` |
 | AW | [lisa-aw-motlemine-kiiresti-ja-aeglaselt.md](lisa-aw-motlemine-kiiresti-ja-aeglaselt.md) | **Mõtlemine kiiresti ja aeglaselt** — Kahneman; System 1/2, mõttevead, stress, kelnerilaua lugu |
 | AX | [lisa-ax-demo-perekond-ja-eeskujud.md](lisa-ax-demo-perekond-ja-eeskujud.md) | **Demo-perekond** — pereväärtuste promijad, eeskujude välja toomine, värbamisoskus |
+| AY | [lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md](lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md) | **Kuldne sild** — Sun Tzu + Art of the Deal; esimene manööver; AI; juhtide kutse |
 | — | [kiht0-ru-tuum-1-leht.md](kiht0-ru-tuum-1-leht.md) | **Kiht 0 RU** — 1 lk venekeelne tuum (Lisa AN tee E) |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
@@ -120,6 +121,8 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 **Aju ja otsused (haridus):** Lisa AW — Daniel Kahneman *Thinking, Fast and Slow*; miks stressis „kuuleme" teist asja; kelnerilaua lugu; 15 küsimust endale. Seos Lisa P (valideerimine enne vaidlust).
 
 **Demo-perekond ja eeskujud:** Lisa AX — pereväärtuste promijad, kriteeriumid, eeskujude välja toomise SOP (märka → valideeri → too lugu välja); täiendab Lisa N demomeest.
+
+**Valitsuse uuendus (kuldne sild):** Lisa AY — Sun Tzu + *Art of the Deal*; esimene manööver (ava silmad); tõendid ja vastutus; juhtide avatud kutse; AI (Lisa L). Mini-kursus: [`kursid/K0-ava-silmad-mini-en.md`](../kursid/K0-ava-silmad-mini-en.md).
 
 **Venekeelne 1 lk:** [kiht0-ru-tuum-1-leht.md](kiht0-ru-tuum-1-leht.md) — Lisa AN tee E.
 

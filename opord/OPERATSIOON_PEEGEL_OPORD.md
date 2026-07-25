@@ -528,6 +528,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 
 #### Üksus „Aluste_kool" — SOK demomehed (aktiveeritud)
 
+- **Sõjakooli deviis:** **EE · Sõnaga mõõga vastu** — *Verbo contra gladium* (ka *Verbum gladio fortius*: sõna on mõõgast tugevam).
 - **Roll operatsioonis:** Kodaniku demomeeste üksus — katsetavad päriselus, mis töötab; eeskuju lugupidavas suhtluses.
 - **Aktiveerija:** Renee Aluste (`Aluste_kool`).
 - **Liikmed:** SOK läbinud — **tunnevad ennast ise ära**. Nimekirja avalikult ei avaldata.

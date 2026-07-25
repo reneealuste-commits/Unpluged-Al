@@ -21,7 +21,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | K | [lisa-k-vorgustiku-skeem-ja-ulesanded.md](lisa-k-vorgustiku-skeem-ja-ulesanded.md) | **Võrgustiku skeem** — kõik osalised, CR statistika, podcasti külalised |
 | L | [lisa-l-ministeeriumid-ja-tai.md](lisa-l-ministeeriumid-ja-tai.md) | **Ministeeriumid ja TAI** — Muski 5-astmeline protsessijuhtimine |
 | M | [lisa-m-kodaniku-identiteet-ja-vanne.md](lisa-m-kodaniku-identiteet-ja-vanne.md) | **Kodaniku identiteet** — Robbins 5 sammu, manifest, vanne, LIHTSUS |
-| N | [lisa-n-aluste-kool.md](lisa-n-aluste-kool.md) | **Üksus Aluste_kool** — SOK demomehed, viisakuseeskiri, päevane checklist |
+| N | [lisa-n-aluste-kool.md](lisa-n-aluste-kool.md) | **Üksus Aluste_kool** — SOK demomehed; deviis *EE · Sõnaga mõõga vastu* / *Verbo contra gladium*; viisakuseeskiri, päevane checklist |
 | O | [lisa-o-vaktsineerimine.md](lisa-o-vaktsineerimine.md) | **Vaktsineerimine** — uuringud, ühiskond, konspiratsioonid, aus hinnang |
 | P | [lisa-p-takistused-ja-valideerimine.md](lisa-p-takistused-ja-valideerimine.md) | **Takistused ja valideerimine** — spordikommentaator, **KRIITILINE trauma-reegel**, Cooper, turvalisus |
 | Q | [lisa-q-side-eeskirjad-ja-suhtlus.md](lisa-q-side-eeskirjad-ja-suhtlus.md) | **Side eeskirjad** — hääl, GOTWA (KOP5), austav keel, **kata ja liigu**, Pareto 80/20, demomehed |

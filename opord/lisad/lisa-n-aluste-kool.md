@@ -9,6 +9,15 @@
 **Staatus:** AKTIVEERITUD  
 **Üksuse kood:** `Aluste_kool`
 
+### Sõjakooli deviis
+
+**EE · Sõnaga mõõga vastu**  
+*Verbo contra gladium*
+
+> Ladina traditsioonis ka: *Verbum gladio fortius* — „sõna on mõõgast tugevam".
+
+Me ei võida vägivallaga — võidame **selge keele**, **lugupidava sõna** ja **demomehe eeskujuga**. Sõduriõpik õpetab distsipliini; Aluste_kool õpetab, et **sõna** tuleb enne **mõõka** — Lisa Q enne relva, Lisa N enne kampaaniat, eeskuju enne monoloogi.
+
 ---
 
 ## 1. Aktiveerimiskäsk

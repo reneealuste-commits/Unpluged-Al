@@ -29,7 +29,7 @@ PACKAGES = {
     },
     "P1-TEE-D-DEMO": {
         "pdfs": ["PEEGEL_TEE_D.pdf"],
-        "readme": "Tee D \u2014 demomees (Aluste_kool).\n",
+        "readme": "Tee D \u2014 demomees (Aluste_kool).\nS\u00f5jakooli deviis: EE \u00b7 S\u00f5naga m\u00f5\u00f5ga vastu \u2014 Verbo contra gladium.\n",
     },
     "P1-TEE-E-RU": {
         "pdfs": ["PEEGEL_RU_KIHT0.pdf"],

@@ -211,7 +211,7 @@
 
 ### 3.12 Üksus Aluste_kool (SOK — demomehed) — AKTIVEERITUD
 
-**Aktiveerija:** Renee Aluste · **Kood:** `Aluste_kool` · **Täielik juhend:** Lisa N
+**Aktiveerija:** Renee Aluste · **Kood:** `Aluste_kool` · **Deviis:** *EE · Sõnaga mõõga vastu* / *Verbo contra gladium* · **Täielik juhend:** Lisa N
 
 | Ülesanne | Kirjeldus |
 |----------|-----------|

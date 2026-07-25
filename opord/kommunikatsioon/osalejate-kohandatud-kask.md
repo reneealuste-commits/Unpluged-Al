@@ -146,10 +146,10 @@ Mänguline, soe. Lapsed = turvalisus enne sisu. Ära suru.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
 >
-> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
-> Kui su roll on laste ja pere kaitse — see episood on sinu jaoks esimene valikuline kuulamine enne PEEGEL_TEE_C-d.  
-> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
-> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
+> **Valikuline kuulamine:** Papsid.ee Podcast  
+> Isa kriisis — Lisa H kontekstis  
+> Kuula: [https://papsid.ee/podcast/](https://papsid.ee/podcast/) · [Apple Podcasts](https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452)  
+> Täpsem: `kommunikatsioon/soovitus-papsid-podcast.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >
@@ -430,10 +430,10 @@ Turvalisus enne loogikat. Ei süüdista vanemaid.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
 >
-> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
-> Kui su roll on laste ja pere kaitse — see episood on sinu jaoks esimene valikuline kuulamine enne PEEGEL_TEE_C-d.  
-> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
-> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
+> **Valikuline kuulamine:** Papsid.ee Podcast  
+> Isa / pere rinne — Lisa H, Lisa D, PEEGEL_TEE_C  
+> Kuula: [https://papsid.ee/podcast/](https://papsid.ee/podcast/) · [Apple Podcasts](https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452)  
+> Täpsem: `kommunikatsioon/soovitus-papsid-podcast.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >
@@ -470,10 +470,10 @@ Austav, aeglane tempo. Laps-keskne keel.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
 >
-> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
-> Kui su roll on laste ja pere kaitse — see episood on sinu jaoks esimene valikuline kuulamine enne PEEGEL_TEE_C-d.  
-> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
-> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
+> **Valikuline kuulamine:** Papsid.ee Podcast  
+> Isa / pere rinne — Lisa H, Lisa D, PEEGEL_TEE_C  
+> Kuula: [https://papsid.ee/podcast/](https://papsid.ee/podcast/) · [Apple Podcasts](https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452)  
+> Täpsem: `kommunikatsioon/soovitus-papsid-podcast.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >
@@ -511,10 +511,10 @@ Soe, mitte survav. Vabatahtlikkus.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
 >
-> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
-> Kui su roll on laste ja pere kaitse — see episood on sinu jaoks esimene valikuline kuulamine enne PEEGEL_TEE_C-d.  
-> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
-> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
+> **Valikuline kuulamine:** Papsid.ee Podcast  
+> Isa / pere rinne — Lisa H, Lisa D, PEEGEL_TEE_C  
+> Kuula: [https://papsid.ee/podcast/](https://papsid.ee/podcast/) · [Apple Podcasts](https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452)  
+> Täpsem: `kommunikatsioon/soovitus-papsid-podcast.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >
@@ -551,10 +551,10 @@ Rahulik, austav. Laps ei ole projekt.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
 >
-> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
-> Kui su roll on laste ja pere kaitse — see episood on sinu jaoks esimene valikuline kuulamine enne PEEGEL_TEE_C-d.  
-> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
-> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
+> **Valikuline kuulamine:** Papsid.ee Podcast  
+> Isa / pere rinne — Lisa H, Lisa D, PEEGEL_TEE_C  
+> Kuula: [https://papsid.ee/podcast/](https://papsid.ee/podcast/) · [Apple Podcasts](https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452)  
+> Täpsem: `kommunikatsioon/soovitus-papsid-podcast.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >
@@ -591,10 +591,10 @@ Aus, soe. Mitte tabu murdmine ilma turvalisuseta.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
 >
-> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
-> Kui su roll on laste ja pere kaitse — see episood on sinu jaoks esimene valikuline kuulamine enne PEEGEL_TEE_C-d.  
-> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
-> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
+> **Valikuline kuulamine:** Papsid.ee Podcast  
+> Isa / pere rinne — Lisa H, Lisa D, PEEGEL_TEE_C  
+> Kuula: [https://papsid.ee/podcast/](https://papsid.ee/podcast/) · [Apple Podcasts](https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452)  
+> Täpsem: `kommunikatsioon/soovitus-papsid-podcast.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >
@@ -631,10 +631,10 @@ Professionaalne konfidentsiaalsus. Valideerimine.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
 >
-> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
-> Kui oled ise ellujäämisrežiimis — episood aitab mõista, miks lapsed (ja sina) vajavad kõigepealt turvalisust, mitte loogikat.  
-> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
-> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
+> **Valikuline kuulamine:** Papsid.ee Podcast  
+> Isa kriisis — Lisa H kontekstis  
+> Kuula: [https://papsid.ee/podcast/](https://papsid.ee/podcast/) · [Apple Podcasts](https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452)  
+> Täpsem: `kommunikatsioon/soovitus-papsid-podcast.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >
@@ -671,10 +671,10 @@ Aus, mitte üleolev. Keha enne mõistust.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
 >
-> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
-> Kui oled ise ellujäämisrežiimis — episood aitab mõista, miks lapsed (ja sina) vajavad kõigepealt turvalisust, mitte loogikat.  
-> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
-> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
+> **Valikuline kuulamine:** Papsid.ee Podcast  
+> Isa kriisis — Lisa H kontekstis  
+> Kuula: [https://papsid.ee/podcast/](https://papsid.ee/podcast/) · [Apple Podcasts](https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452)  
+> Täpsem: `kommunikatsioon/soovitus-papsid-podcast.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >

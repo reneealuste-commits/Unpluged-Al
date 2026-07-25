@@ -43,19 +43,19 @@ Konkreetselt sinult:
 
 Materjal: [lisa isiklik link — P1-A-KRIIS]
 
-Enne kui materjaliga edasi lähed — üks valikuline soovitus (~1h 20 min):
+Enne kui materjaliga edasi lähed — üks valikuline soovitus (isa / pere):
 
-KUULA: Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“
+KUULA: Papsid.ee Podcast — Kristo Tuurmann & Illimar Pilt
 
-Kui oled ise ellujäämisrežiimis — episood aitab mõista, miks lapsed (ja sina) vajavad kõigepealt turvalisust, mitte loogikat.
+Kui oled isa ja oled raske kohas — ausad lood ja tööriistad ilma moraliseerimiseta (Lisa H kontekstis).
 
-Kus süsteem tabab kõige enne lapsi — ja miks täiskasvanud ellujäämisrežiimis ei märka seda. Turvalisus. Kohalolu. Kaitse. Extreme Ownershipi vaimus: mitte ainult süüdistada süsteemi, vaid näha, kus sina saad ise muutust luua — pere, meeskonna või enda sees.
+Extreme Ownership, aus suhtlus (NVC) ja Body Keeps the Score loogikaga haakuv sisu. Pärast episoodi üks küsimus: „Mida ma õppisin ja mida teen täna teisiti?“
 
-Kuula: https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm
-Apple Podcasts: https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084
-YouTube (video, AJULOPUTUS kanal): https://www.youtube.com/@AJULOPUTUS — otsi „Maatriksi Lapsed“
+Kuula: https://papsid.ee/podcast/
+Apple Podcasts: https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452
+Papside laager (3 päeva): https://papsid.ee/papside-laager/
 
-See ei ole käsk. See on kutse avada silmad ja valida ise.
+See ei ole käsk. Väike samm täna on tugevam kui täiuslik plaan homme.
 
 Kui sa ei soovi osaleda või soovid nime eemaldada — üks lause piisab. Tänan aususe eest.
 

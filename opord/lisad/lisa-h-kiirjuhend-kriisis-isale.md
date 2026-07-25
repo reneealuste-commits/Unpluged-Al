@@ -210,6 +210,7 @@ Kriisis loe **mitte** järjekorras 1→7. Alusta siit:
 | Tahad struktuuri | **PEEGEL_TEE_A.pdf** või Lisa **AT** |
 | Aitad kedagi teist | Lisa **Q** §4 (kata ja liigu) → Lisa **P** |
 | Kinni jäid / upud | **Lisa AT** — vali üks rida, tee see |
+| **Isa / pere podcast** | [Papsid.ee Podcast](https://papsid.ee/podcast/) — valikuline; üks episood, üks tegu täna |
 
 ---
 

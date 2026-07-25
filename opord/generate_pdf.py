@@ -68,6 +68,7 @@ BOOK_FILES = [
     "lisa-ao-ultimate-power-kokkuvote.md",
     "lisa-ap-swot-ja-lugeja-audit.md",
     "lisa-aq-sidepakkide-jaotus-skeem.md",
+    "lisa-ar-vooglaid-ja-paal-demonstraatorid.md",
     "kiht0-ru-tuum-1-leht.md",
     "renee-aluste-profiil.md",
 ]

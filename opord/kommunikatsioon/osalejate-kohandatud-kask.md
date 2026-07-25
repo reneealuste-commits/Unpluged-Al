@@ -14,7 +14,7 @@
 
 | Kategooria | Arv |
 |------------|-----|
-| Kohandatud käsk valmis | 16 |
+| Kohandatud käsk valmis | 18 |
 | Email CSV-s kokku | vaata `osalejate-emailid.csv` |
 | Email puudub (vaja otsida) | 12 |
 
@@ -579,6 +579,76 @@ Aus, mitte üleolev. Keha enne mõistust.
 > Tere Tiit,
 >
 > Jagame sulle Operatsioon „Peegel“ materjali — mitte käsk, vaid paranemis-teekond. Sinu roll: **Emotsioonide ja teadlikkuse töö**.
+>
+> Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
+>
+> Kui soovid mitte osaleda — üks lause piisab. Austan seda.
+>
+> Renee Aluste
+
+---
+
+## 17. Ülo Vooglaid
+
+| | |
+|---|---|
+| **E-post** | `ylo@vooglaid.org` |
+| **Organisatsioon** | Sihtasutus Ülo Vooglaiu mõttepärand |
+| **Roll** | Kodaniku-mõtleja eeskuju; demonstraator |
+| **Eesmärk** | Näidata, et elanikust kodanikuks on Eestis juba kirjas |
+| **Sidepakk** | P1-B-SKEPTIK (vooglaid tuum) |
+| **Kanal** | E-kiri isiklik / sihtasutus@vooglaid.org |
+
+### Sinu ülesanded
+
+1. Soovita *Elanikust kodanikuks* enne OPORD-i (tee B)
+2. Anna tagasiside: kas Peegel ja Vooglaid klapivad
+3. Jaga ainult vabatahtlikult — mitte surve all
+
+### Käitumisjuhis
+
+Rahulik, kriitiline. Austa autonoomiat. Lisa P teiste suhtes.
+
+### E-kirja avamine (mustand)
+
+> Tere Ülo,
+>
+> Jagame sulle Operatsioon „Peegel“ materjali — mitte käsk, vaid paranemis-teekond. Sinu roll: **Kodaniku-mõtleja eeskuju**.
+>
+> Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
+>
+> Kui soovid mitte osaleda — üks lause piisab. Austan seda.
+>
+> Renee Aluste
+
+---
+
+## 18. Indrek Paal
+
+| | |
+|---|---|
+| **E-post** | `sihtasutus@vooglaid.org` |
+| **Organisatsioon** | Ülo Vooglaiu Kirjastus / Vana-Viru Kaubaveod |
+| **Roll** | Praktiline demonstraator; mõttepäranda hoidja |
+| **Eesmärk** | Tuua Vooglaidi tuum kätte — raamat, vestlus |
+| **Sidepakk** | P0-TUUM + Lisa AR |
+| **Kanal** | E-kiri / tel 667 0111 |
+
+### Sinu ülesanded
+
+1. Levita *Vanaisa uued lood* (2025) sobivates ringkondades
+2. Siduda sihtasutus ja Peegel ainult Vooglaidi nõusolekul
+3. Anna tagasiside: mis formaat töötab
+
+### Käitumisjuhis
+
+Asjatundlik, praktiline. Lisa Q austav keel. Mitte masspostitus.
+
+### E-kirja avamine (mustand)
+
+> Tere Indrek,
+>
+> Jagame sulle Operatsioon „Peegel“ materjali — mitte käsk, vaid paranemis-teekond. Sinu roll: **Praktiline demonstraator**.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
 >

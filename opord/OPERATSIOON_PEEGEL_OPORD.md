@@ -514,6 +514,24 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 - **Põhimõte:** Rivi eeskiri õpetab, *mis sa ütled ja millal* — austus konkreetse keele kaudu, mitte üldise „ole kena" sloganina. *Me ei ehita armastust emotsioonidega. Me kujundame seda käitumisega — austuse ja lugupidamise keeles.*
 - **Täielik ülesanne:** **Lisa N** — `lisa-n-aluste-kool.md`
 
+#### Võtmetegijad — demonstraatorid (kodaniku mõte)
+
+##### Ülo Vooglaid — Kodaniku-mõtleja eeskuju
+
+- **Roll operatsioonis:** Võtmetegija-demonstraator; filosoofiline tuum *elanikust kodanikuks*.
+- **Taust:** Emeriitprofessor, sotsiaalteadlane (sünd 1935). Sihtasutus Ülo Vooglaiu mõttepärand.
+- **Peamised raamatud:** **Elanikust kodanikuks** (2019); *Aeg & Vaim*; *Sõna on Jõud*; *Vanaisa uued lood* (2025).
+- **Kontakt:** ylo@vooglaid.org · sihtasutus@vooglaid.org
+- **Miks ta on siin:** Õpetab seda, mida Peegel ütleb: **ära ole tarbija — ole kodanik**. Tee B, Lisa M.
+- **Täielik profiil:** **Lisa AR**
+
+##### Indrek Paal — Praktiline demonstraator
+
+- **Roll operatsioonis:** Mõttepäranda praktiline levitaja ja kirjastaja.
+- **Taust:** Vana-Viru Kaubaveod OÜ; Ülo Vooglaiu Kirjastus; sihtasutuse juhatuse liige.
+- **Kontakt:** Vana-Lõuna 39/1, Tallinn · tel 667 0111 · sihtasutus@vooglaid.org
+- **Miks ta on siin:** Kannab Vooglaidi tuuma trükis ja igapäevatöös. **Lisa AR**
+
 #### Martin Jõesaar — Euroopa tase (Combat Ready kaasasutaja)
 
 ![Martin Jõesaar](images/profiles/martin-joesaar.jpg)
@@ -1214,6 +1232,8 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 | Taskuhääling | Katri Teller / Blondcast | tasku.delfi.ee |
 | Meedik / veteran | Robert Käsper | Eriväelase jutud (hajutatult) |
 | Demomehed (SOK) | Üksus Aluste_kool | Lisa N + **Lisa Q** (viisakus, GOTWA, hääl) |
+| Kodaniku mõte | Ülo Vooglaid | ylo@vooglaid.org (Lisa AR) |
+| Mõttepärand | Indrek Paal | sihtasutus@vooglaid.org (Lisa AR) |
 | Juhtimiskoolitus | Priit Lilleväli | priit.lillevali@combatready.eu |
 | Teadlikkus | Katrin Lucas | katrinlucas.com |
 | Teadlik muutus | Ingvar Villido | lilleoru.ee / human.ee |
@@ -2508,6 +2528,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **AN** | — | `lisad/lisa-an-venekeelne-sihtruhm-ja-inimesekeskne-levitus.md` | **Venekeelne sihtrühm** — Heli piir, eraldi kanal, trauma-teadlik levitus, lihtsus |
 | **AO** | — | `lisad/lisa-ao-ultimate-power-kokkuvote.md` | **Ultimate Power kokkuvõte** — Buffalmano, Peegli filter, demomehe tööriistakast |
 | **AP** | — | `lisad/lisa-ap-swot-ja-lugeja-audit.md` | **SWOT ja lugeja-audit** — lugejale orienteeritud, teed A–F, 10-punkti audit |
+| **AR** | — | `lisad/lisa-ar-vooglaid-ja-paal-demonstraatorid.md` | **Vooglaid ja Paal** — demonstraatorid, kodaniku mõte |
 | **AQ** | — | `lisad/lisa-aq-sidepakkide-jaotus-skeem.md` | **Sidepakkide jaotus** — K0–K3 kihtide arhitektuur, paketid P0–P3, kanalid, levitamise reeglid |
 | — | — | `lisad/kiht0-ru-tuum-1-leht.md` | **Kiht 0 RU** — 1 lk venekeelne tuum (Lisa AN) |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |

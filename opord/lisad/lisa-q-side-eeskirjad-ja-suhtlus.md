@@ -199,6 +199,14 @@ Operatsioonis kasutame ingliskeelset mäluabi **GOTWA** (5 punkti). Iga kord, ku
 | Õhtu | Checklist (Lisa N): kas ma suhtlesin austavalt? |
 
 **Tagasiside:** kord kuus — mis režiim aitas? mis mitte? (Renee / SOK ring)
+### Demonstraatorite kanalid (laiendus)
+
+| Kanal | Demonstraatorid | Põhimõte |
+|-------|-----------------|----------|
+| SOK / Aluste_kool | Demomehed (Lisa N) | Checklist, GOTWA |
+| Kodaniku mõte | Vooglaid, Paal (Lisa AR) | Raamat, vestlus — mitte spämm |
+
+
 
 ---
 

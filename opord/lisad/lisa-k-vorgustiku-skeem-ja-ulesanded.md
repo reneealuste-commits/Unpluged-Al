@@ -517,6 +517,21 @@
 
 ---
 
+
+### 4.15 Võtmetegijad — demonstraatorid
+
+#### Ülo Vooglaid
+- **Roll:** Kodaniku-mõtleja eeskuju
+- **Ülesanne:** Soovita *Elanikust kodanikuks* (tee B)
+- **Kontakt:** ylo@vooglaid.org
+
+#### Indrek Paal
+- **Roll:** Mõttepäranda levitaja
+- **Ülesanne:** *Vanaisa uued lood*; sidumine Vooglaidi nõusolekul
+- **Kontakt:** sihtasutus@vooglaid.org
+
+*Lisa AR*
+
 ### 4.8 Haridustase (kokkuvõte — vt Lisa J)
 
 | Nimi | Asutus | Roll |

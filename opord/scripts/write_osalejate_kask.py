@@ -275,6 +275,38 @@ PARTICIPANTS = [
         "kanal": "E-kiri / tel +372 5626 2454",
         "markus": "Lisa M",
     },
+    {
+        "name": "\u00dclo Vooglaid",
+        "email": "ylo@vooglaid.org",
+        "org": "Sihtasutus \u00dclo Vooglaiu m\u00f5ttep\u00e4rand",
+        "roll": "Kodaniku-m\u00f5tleja eeskuju; demonstraator",
+        "eesmark": "N\u00e4idata, et elanikust kodanikuks on Eestis juba kirjas",
+        "ulesanded": [
+            "Soovita *Elanikust kodanikuks* enne OPORD-i (tee B)",
+            "Anna tagasiside: kas Peegel ja Vooglaid klapivad",
+            "Jaga ainult vabatahtlikult \u2014 mitte surve all",
+        ],
+        "kaitumine": "Rahulik, kriitiline. Austa autonoomiat. Lisa P teiste suhtes.",
+        "pakett": "P1-B-SKEPTIK (vooglaid tuum)",
+        "kanal": "E-kiri isiklik / sihtasutus@vooglaid.org",
+        "markus": "Lisa AR; 90 a. 2025",
+    },
+    {
+        "name": "Indrek Paal",
+        "email": "sihtasutus@vooglaid.org",
+        "org": "\u00dclo Vooglaiu Kirjastus / Vana-Viru Kaubaveod",
+        "roll": "Praktiline demonstraator; m\u00f5ttep\u00e4randa hoidja",
+        "eesmark": "Tuua Vooglaidi tuum k\u00e4tte \u2014 raamat, vestlus",
+        "ulesanded": [
+            "Levita *Vanaisa uued lood* (2025) sobivates ringkondades",
+            "Siduda sihtasutus ja Peegel ainult Vooglaidi n\u00f5usolekul",
+            "Anna tagasiside: mis formaat t\u00f6\u00f6tab",
+        ],
+        "kaitumine": "Asjatundlik, praktiline. Lisa Q austav keel. Mitte masspostitus.",
+        "pakett": "P0-TUUM + Lisa AR",
+        "kanal": "E-kiri / tel 667 0111",
+        "markus": "Lisa AR; Elanikust kodanikuks kolleegium",
+    },
 ]
 
 # Additional emails from Lisa J table (org-level or secondary contacts)
@@ -299,7 +331,8 @@ EXTRA_EMAILS = [
     ("Kairi J\u00e4rvik-Elvisto", "kairi.jarvik-elvisto@waldorf.ee", "TVW Waldorf", "Tugiteenused", "P1-C-PERE", "Lisa J"),
     ("Waldorf selts", "selts@waldorf.ee", "TVW Waldorf", "Selts", "P0-TUUM", "Lisa J"),
     ("Combat Ready", "info@combatready.ee", "Combat Ready", "\u00dcldinfo", "P1-D-DEMO", "Lisa R"),
-    ("Helin Vaher", "helin.vaher@agendapr.ee", "RaM Kool", "Kommunikatsioon", "P1-C-PERE", "Lisa J"),
+    ("Indrek Paal", "sihtasutus@vooglaid.org", "\u00dclo Vooglaiu Kirjastus", "Demonstraator, levitaja", "P0-TUUM", "Lisa AR"),
+    ("\u00dclo Vooglaid", "ylo@vooglaid.org", "Sihtasutus", "Kodaniku-m\u00f5tleja", "P1-B-SKEPTIK", "Lisa AR"),
 ]
 
 NO_EMAIL = [

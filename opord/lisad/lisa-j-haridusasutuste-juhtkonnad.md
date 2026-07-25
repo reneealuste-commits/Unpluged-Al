@@ -423,6 +423,20 @@ Kõik ülalnimetatud juhtkonnad:
 
 ---
 
+## 6b. Praktiku hääl väljaspool formaalset võrgustikku — Hannes Võrno
+
+**Täielik profiil:** **Lisa BB** — `lisa-bb-hannes-vorno-haridus-ja-toitumine.md`
+
+| Teema | Mida ta esindab | OPORD seos |
+|-------|-----------------|------------|
+| **Meediaõpetus** | Kohtla-Järve gümnaasium 2020–21; õpilaste projekt **THE SAADE** | Lisa A, praktiline meedia |
+| **Hariduse probleem** | Süsteem vs praktik; monoloog vs dialoog | Lisa I, Lisa S |
+| **Toitumine** | Päritolu, skeptitsism; jahimehe kultuur | Lisa U, `TOITUMINE_UURIMUSTOO.pdf` |
+
+**Ausus:** Kohtla-Järve konfliktis on **mõlemad pooled** oma versiooni esitanud — OPORD võtab õppetunni (selged lepingud praktikule), mitte poolt.
+
+---
+
 ## 7. Kontaktide kokkuvõte
 
 | Asutus | Juht / võtmeisik | Veeb | E-post |

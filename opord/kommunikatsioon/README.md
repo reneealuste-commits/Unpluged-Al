@@ -10,6 +10,7 @@
 | `kirjad/kask-*.md` | Üksikud e-kirja mustandid kopeerimiseks |
 | `vastus-heli-illipe-sootak.md` | Heli vastus |
 | `kandidaat-mihhail-usakov.md` | RU kanal |
+| `kandidaat-hannes-vorno.md` | Haridus + toit (Lisa BB) |
 | `vastus-kuldne-taganemine.md` | Taganemise mall |
 | `vastus-rein-urvas-eripension.md` | Facebook — kaitsekulu vs eripension, fondi kuivamine |
 

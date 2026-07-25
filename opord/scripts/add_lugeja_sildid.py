@@ -111,6 +111,11 @@ SILDID = {
         "**Loe seda kui:** stress on kehas kinni, mitte ainult peas.  \n",
         "**\u00c4ra loe kui:** oled aktiivses kriisis ilma turvaliseta \u2014 alusta Lisa H.\n",
     ),
+    "lisa-bb-hannes-vorno-haridus-ja-toitumine.md": (
+        "**Lugeja saab:** Hannes V\u00f5rno seose hariduse ja toitumise teemaga.  \n",
+        "**Loe seda kui:** m\u00f5tled kooli, meediat v\u00f5i toidu p\u00e4ritolu \u00fcle.  \n",
+        "**\u00c4ra loe kui:** otsid dieedin\u00f5u \u2014 alusta Lisa U ja perearst.\n",
+    ),
 }
 
 MARKER = "**Lugeja saab:**"

@@ -77,6 +77,7 @@ BOOK_FILES = [
     "lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md",
     "lisa-az-suur-pilt-kardashev-musk-ja-susteem.md",
     "lisa-ba-keha-vabastamine-tasuta.md",
+    "lisa-bb-hannes-vorno-haridus-ja-toitumine.md",
     "kiht0-ru-tuum-1-leht.md",
     "renee-aluste-profiil.md",
 ]

@@ -65,6 +65,7 @@ LISA_FILES = [
     "lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md",
     "lisa-az-suur-pilt-kardashev-musk-ja-susteem.md",
     "lisa-ba-keha-vabastamine-tasuta.md",
+    "lisa-bb-hannes-vorno-haridus-ja-toitumine.md",
     "renee-aluste-profiil.md",
 ]
 

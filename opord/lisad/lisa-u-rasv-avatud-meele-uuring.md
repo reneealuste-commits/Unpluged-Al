@@ -158,6 +158,7 @@ Kopeeri see koos lingiga:
 4. Kui tahad rääkida — perearst, toitumisnõustaja, usaldusväärne sõber.
 5. Kui tahad jagada — saada kausta link, mitte käsku.
 6. **Täielik uurimustöö:** [TOITUMINE_UURIMUSTOO.pdf](../TOITUMINE_UURIMUSTOO.pdf) — Bellevue uuring, allikad, Eesti kontekst, taastumise järjekord (Lisa H).
+7. **Haridus + päritolu hääl:** Lisa BB (Hannes Võrno) — skeptitsism sildi suhtes; sama „ava silmad" loogika toidus.
 
 ---
 

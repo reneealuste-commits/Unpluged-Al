@@ -87,7 +87,7 @@ Vaikimisi **mänguline ja naljakas**. Kui olukord nõuab — vaheta režiimi. Ä
 | Olukord | ❌ Vale | ✅ Ideaalne sooritus |
 |---------|--------|----------------------|
 | Esimene kohtumine kohvikus | „Te peaksite seda dokumenti lugema." | „Tere! Ma olen Renee. Istu maha — ma ei müü midagi, luban. Kas kohv sobib, või oled sa rohkem tee-inimene?" |
-| Perede aeg kodus | „Lapsed, telefonid ära, kohe!" | „Okei, meeskond — 60 minutit ilma ekraanita. Kes viib esimesena telefoni teise tuppa? Võitja valib muusika." |
+| Perede aeg kodus | „Lapsed, telefonid ära, kohe!" | „Okei, meeskond — 60 minutit ilma ekraanita. Kes viib esimesena telefoni teise tuppa? Võitja valib muusika." (vt **Lisa BC** — 17:00 nuputelefon) |
 | Tagasiside sõbrale | „Sa eksid." | „Kuule, ma armastan sind, aga see lause tegi mu kulmu kortsutama. Mis seal taga on?" |
 
 #### Alternatiiv (FM-DJ)

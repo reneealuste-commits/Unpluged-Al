@@ -78,6 +78,7 @@ BOOK_FILES = [
     "lisa-az-suur-pilt-kardashev-musk-ja-susteem.md",
     "lisa-ba-keha-vabastamine-tasuta.md",
     "lisa-bb-hannes-vorno-haridus-ja-toitumine.md",
+    "lisa-bc-digitaalne-detoks-ja-nuputelefon.md",
     "kiht0-ru-tuum-1-leht.md",
     "renee-aluste-profiil.md",
 ]
@@ -102,6 +103,7 @@ PACKAGE_PDFS = {
         LISAD_DIR / "raamat-04-tugev-isa.md",
         LISAD_DIR / "raamat-05-pere-rindejoon.md",
         LISAD_DIR / "lisa-m-kodaniku-identiteet-ja-vanne.md",
+        LISAD_DIR / "lisa-bc-digitaalne-detoks-ja-nuputelefon.md",
     ],
     "PEEGEL_TEE_D.pdf": [
         LISAD_DIR / "lisa-n-aluste-kool.md",

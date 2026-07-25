@@ -66,6 +66,7 @@ LISA_FILES = [
     "lisa-az-suur-pilt-kardashev-musk-ja-susteem.md",
     "lisa-ba-keha-vabastamine-tasuta.md",
     "lisa-bb-hannes-vorno-haridus-ja-toitumine.md",
+    "lisa-bc-digitaalne-detoks-ja-nuputelefon.md",
     "renee-aluste-profiil.md",
 ]
 

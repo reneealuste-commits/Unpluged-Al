@@ -116,6 +116,11 @@ SILDID = {
         "**Loe seda kui:** m\u00f5tled kooli, meediat v\u00f5i toidu p\u00e4ritolu \u00fcle.  \n",
         "**\u00c4ra loe kui:** otsid dieedin\u00f5u \u2014 alusta Lisa U ja perearst.\n",
     ),
+    "lisa-bc-digitaalne-detoks-ja-nuputelefon.md": (
+        "**Lugeja saab:** kahe-seadme mudel \u2014 nutitelefon ankrus, nuputelefon p\u00e4rast 17:00.  \n",
+        "**Loe seda kui:** ekraan v\u00f5tab pere, une v\u00f5i t\u00f6\u00f6piiri \u00e4ra.  \n",
+        "**\u00c4ra loe kui:** oled kriisis ilma turvaliseta \u2014 h\u00e4daabi numbrid peavad t\u00f6\u00f6tama.\n",
+    ),
 }
 
 MARKER = "**Lugeja saab:**"

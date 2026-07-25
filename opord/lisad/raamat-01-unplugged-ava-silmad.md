@@ -52,7 +52,7 @@ Mina tegin seda järk-järgult:
 - **Üks kanal korraga** — kui loen uudiseid, siis ühest usaldusväärsest allikast, mitte lõputust scrollimisest.
 - **Füüsiline reset** — jalutuskäik, tõmbetreening, töö aias. Keha liigutamine katkestab mõtteratta, mida algoritm toidab.
 
-Kui sa oled isa, ema või mentor, su laps näeb, kas sa oled telefoni orja või telefoni peremees. See on Operatsioon „Peegel" tuum: me ei jutlista distsipliini — me näitame seda.
+Kui sa oled isa, ema või mentor, su laps näeb, kas sa oled telefoni orja või telefoni peremees. See on Operatsioon „Peegel" tuum: me ei jutlista distsipliini — me näitame seda. Täielik kahe-seadme mudel: **Lisa BC** (nutitelefon ankrus, nuputelefon pärast 17:00).
 
 ---
 

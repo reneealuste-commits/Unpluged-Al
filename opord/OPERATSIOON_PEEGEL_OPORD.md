@@ -965,7 +965,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 1. **Õppija roll:** Enne juhtimist õpi ennast tundma. 15 minutit päevas vaikust, päevikut või eneserefleksiooni.
 2. **Identiteet (Lisa M):** Tony Robbinsi 5 sammu — tuvasta uskumused, küsi ja kahtle, katkesta muster, ehita tõestust, loe manifesti peegli ees; kodaniku vanne.
 3. **Infohügieen:** Kontrolli uudiseallikat. Piira TikToki/sotsiaalmeedia aega. Jälgi, mis emotsiooni kanal tekitab.
-4. **Perekond:** Planeeri iganädalane „perede aeg" — ilma ekraanideta.
+4. **Perekond:** Planeeri iganädalane „perede aeg" — ilma ekraanideta. **Lisa BC** — nutitelefon ankrus (kodu/auto/kontor); pärast 17:00 ainult nuputelefon (pere + hädaabi).
 5. **Eeskuju:** Ole see inimene, keda sa ise noorena vajasid.
 6. **Demomees enne levitamist:** Loe Lisa N — ole **demomees** enne kui räägid operatsioonist tutvusringkonnas. Eeskuju enne sõna.
 7. **Demo-perekond:** Loe **Lisa AX** — otsi ja too välja peresid, kes elavad pereväärtusi nähtavalt (laua taga aeg, sõpruskonna valikud, värbamisoskus).
@@ -1995,6 +1995,8 @@ Koos **Lisa AA** (*Intiimsuse atlas*) — mehe keha teadlikult, ilma porri kui �
 
 **Lisa BA** — kui trauma on **kehas kinni**, mitte ainult peas: tasuta lümf/enesemassaaž, „karu meetod" (selg puu või ukse vastu), raputamine (TRE loogika), partneri õrn puudutus nõusolekuga. Keha vabastamise põrand ei pea maksma raha.
 
+**Lisa BC** — digitaalne detoks: nutitelefon jääb ankrupaika (kodu, auto või kontor); pärast **17:00** kannad nuputelefoni — pere ja hädaabi valges nimekirjas. **Töö pärast tundi ei ole OK.**
+
 *Minu küsimus sulle: Millal sa viimati rippusid 90 sekundit — ja kas sa teadsid, et see võib olla tasuta?*
 
 ---
@@ -2008,7 +2010,14 @@ Koos **Lisa AA** (*Intiimsuse atlas*) — mehe keha teadlikult, ilma porri kui �
 
 **K: Mis on see „perede aeg" iganädalaselt? Mul ei ole aega.**
 
-**V:** Üks õhtu nädalas ilma ekraanideta — kas või 60 minutit. Laua taga koos. Jalutuskäik. Mäng. See ei pea olema täiuslik. Algus ongi väike. Kui sa ütled „mul pole aega", siis küsi: kellele see aeg tegelikult läheb? Enamasti ekraanile. Me ei süüdista. Me kutsume üles valima teadlikult.
+**V:** Üks õhtu nädalas ilma ekraanideta — kas või 60 minutit. Laua taga koos. Jalutuskäik. Mäng. See ei pea olema täiuslik. Algus ongi väike. Kui sa ütled „mul pole aega", siis küsi: kellele see aeg tegelikult läheb? Enamasti ekraanile. Me ei süüdista. Me kutsume üles valima teadlikult. **Lisa BC** — 17:00 vahetus nuputelefonile teeb selle automaatseks iga õhtu, mitte ainult üks kord nädalas.
+
+*Minu küsimus sulle: Mida sina selle teadmisega täna teed — mitte homme?*
+---
+
+**K: Kas ma pean vastama töömeilidele õhtul?**
+
+**V:** Ei. Töö pärast tundi ei ole OK — see ei ole sinu distsipliini puudus, vaid **rolli disain**. Nutitelefon jääb ankrusse (kodu, auto või kontor); pärast 17:00 kannad nuputelefoni — pere ja hädaabi. Kui töö nõuab 24/7 olekut, on probleem töökorralduses, mitte sinus (Lisa I). Täielik SOP: **Lisa BC**.
 
 *Minu küsimus sulle: Mida sina selle teadmisega täna teed — mitte homme?*
 ---
@@ -2576,6 +2585,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **AZ** | — | `lisad/lisa-az-suur-pilt-kardashev-musk-ja-susteem.md` | **Suur pilt** — Kardashev T-I/II/III; Musk ökosüsteem; Tesla, SpaceX, Starlink |
 | **BA** | — | `lisad/lisa-ba-keha-vabastamine-tasuta.md` | **Keha vabastamine tasuta** — lümf, enesemassaaž, karu/puu meetod, raputamine (TRE), partner |
 | **BB** | — | `lisad/lisa-bb-hannes-vorno-haridus-ja-toitumine.md` | **Hannes Võrno** — hariduse kriitika, meedia praktik, toidu päritolu; seos Lisa U (karnivoor uurimisliin) |
+| **BC** | — | `lisad/lisa-bc-digitaalne-detoks-ja-nuputelefon.md` | **Digitaalne detoks** — nuputelefon pärast 17:00, ankrupaik, valge nimekiri; töö pärast tundi ei ole OK |
 | **AQ** | — | `lisad/lisa-aq-sidepakkide-jaotus-skeem.md` | **Sidepakkide jaotus** — K0–K3 kihtide arhitektuur, paketid P0–P3, kanalid, levitamise reeglid |
 | — | — | `lisad/kiht0-ru-tuum-1-leht.md` | **Kiht 0 RU** — 1 lk venekeelne tuum (Lisa AN) |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |

@@ -52,7 +52,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | AP | [lisa-ap-swot-ja-lugeja-audit.md](lisa-ap-swot-ja-lugeja-audit.md) | **SWOT ja lugeja-audit** — lugejale orienteeritud, teed A–F, 10-punkti audit |
 | AT | [lisa-at-lihtsus-kui-kinni-jaid.md](lisa-at-lihtsus-kui-kinni-jaid.md) | **LIHTSUS** — kui kinni jäid, otsuspuu |
 | AU | [lisa-au-vastase-analuusi-taiendus.md](lisa-au-vastase-analuusi-taiendus.md) | **Vastase analüüs** — mitme vektori mõjutus (RU + platvormid), faktikontroll |
-| AV | [lisa-av-peegel-hindamisvorm.md](lisa-av-peegel-hindamisvorm.md) | **Peegli hindamisvorm** — pere, meeskond, SOK; MKKo → peegel, dialoog |
+| AV | [lisa-av-peegel-hindamisvorm.md](lisa-av-peegel-hindamisvorm.md) | **Peegli hindamisvorm** — pere, meeskond, SOK; prindi `PEEGEL_HINDAMISVORM_PRINT.pdf` |
 | — | [kiht0-ru-tuum-1-leht.md](kiht0-ru-tuum-1-leht.md) | **Kiht 0 RU** — 1 lk venekeelne tuum (Lisa AN tee E) |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 

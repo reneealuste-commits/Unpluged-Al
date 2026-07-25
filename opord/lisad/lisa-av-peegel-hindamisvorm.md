@@ -7,6 +7,16 @@
 **Allikas:** MKKo Maakaitse Kompanii *Võitleja hindamisvorm* — kohandatud Operatsioon „Peegel".  
 **Seotud:** Lisa I (Steiger — dialoog, mitte monoloog), Lisa P (trauma-teadlik tagasiside), Lisa M (peegel), Lisa N (demomees), Lisa Q (GOTWA), Lisa AT (lihtsus)
 
+**Prindi (kirjalik — see on põhiviis):**
+
+| Fail | Kasutus |
+|------|---------|
+| [PEEGEL_HINDAMISVORM_PRINT.pdf](../PEEGEL_HINDAMISVORM_PRINT.pdf) | **A4 vorm** — iga hindaja täidab eraldi enne vestlust |
+| [PEEGEL_HINDAMISVORM_PLANKETT.pdf](../PEEGEL_HINDAMISVORM_PLANKETT.pdf) | **A5 plankett** — seinale / üksuse kausta (reeglid + luureküsimus) |
+| [PEEGEL_HINDAMISVORM_RAHAKOTT.pdf](../PEEGEL_HINDAMISVORM_RAHAKOTT.pdf) | **85×55 mm** — taskukaart juhile |
+
+Genereeri uuesti: `python3 generate_hindamisvorm_pdf.py`
+
 ---
 
 ## Põhimõte
@@ -59,25 +69,36 @@ Kasuta vabas vormis kommentaare. **Konkreetsed näited**, mitte isiksuse sildid.
 
 ---
 
-## Usaldusküsimused (jah / ei)
+## Usaldusküsimus — üks, mis loeb
 
 Tõmba ring ümber vastuse. **Ausus on konfidentsiaalne** — mitte avalik nimekirj.
 
-### AV-PERE (partnerid / täiskasvanud)
+### Peamine küsimus (kõigile vormidele)
 
 | Küsimus | Jah | Ei |
 |---------|-----|-----|
-| Kui peres on kriis — kas ma usaldan teda **minuga koos** seda kandma? | ? | ? |
-| Kui ma ei jaksa — kas ma julgen talle **ausalt** öelda? | ? | ? |
+| **Kas sa selle inimesega luurele läheksid?** | ? | ? |
 
-### AV-MEESKOND / AV-SOK
+> *Luure = lähed tundmatusse **väikese üksusega**, ilma et keegi vaataks üle õla. Sa pead usaldama tema **otsust, vaikust, tähelepanu ja ausust** — sest tagasiteel ei ole aega debateerida.*
 
-| Küsimus | Jah | Ei |
-|---------|-----|-----|
-| Kui üksus on surve all — kas ma läheksin **selle inimesega koos** seda tegema? | ? | ? |
-| Kas ma jagaksin temaga **ühte kaevikut** — st ühte rasket ööd / ühte vastutust? | ? | ? |
+**Miks see on mõjusaim** (MKKo „lahing" ja „kaevik" asemel):
 
-*(Need kaks küsimust on MKKo vormist — sõjaväeline ausus, tsiviilis **usaldus**.)*
+| Vanem küsimus | Mida see mõõdab | Miinus |
+|---------------|-----------------|--------|
+| „Läheksid lahingusse?" | Julgust, võitlust | Liiga dramaatiline tsiviilis; vastab „kangelane", mitte inimene |
+| „Jagaksid kaevikut?" | Füüsilist vastupidavust öösel | Üks öö — ei näita otsustusvõimet ega ausust |
+| **„Läheksid luurele?"** | **Usaldust otsustada üksi**, vaikida kui vaja, tulla tagasi tõega, mitte päästa enda nahka | Täpne. Aus. Üks küsimus. |
+
+Luure ei küsi „kas ta on tugev". Luure küsib: **kas ma usaldan teda siis, kui keegi ei vaata?**
+
+### Valikuline teine küsimus (mitte kohustuslik)
+
+| Kontekst | Teine küsimus |
+|----------|---------------|
+| **AV-PERE** | Kui peres on kriis — kas ma julgen talle **ausalt** öelda, et ma ei jaksanud? |
+| **AV-MEESKOND / AV-SOK** | Kas ma jagaksin temaga **ühte kaevikut** — ühte rasket ööd / ühte vastutust? |
+
+*(MKKo „lahing" ja „kaevik" jäävad varuvariandiks. **Luure on esimene.**)*
 
 ---
 
@@ -97,7 +118,23 @@ Hindaja lisab **ühe lause** põhjenduse.
 
 ---
 
-## Vorm — täitmise mall
+## Kirjalik protsess — print, täida, vestle
+
+> **Vestlus ilma kirjalikuta ei tööta.** Inimene unustab, kaitseb, moonutab. Vorm on plankett — aus peegel paberil.
+
+| Samm | Tegevus | Materjal |
+|------|---------|----------|
+| 1 | **Prindi** vorm (iga hindaja oma eksemplar) | `PEEGEL_HINDAMISVORM_PRINT.pdf` |
+| 2 | **Täida kirjalikult** — konkreetsed näited, mitte sildid | Enne vestlust, eraldi |
+| 3 | **Pane plankett** üksuse kausta / seina | `PEEGEL_HINDAMISVORM_PLANKETT.pdf` |
+| 4 | **Vestle** vormi põhjal (15–30 min) | Lisa P — spordikommentaator |
+| 5 | **Hinnatav täidab** oma poole vormi lõpus | Üks tegu järgmiseks perioodiks |
+
+**Reegel:** Minimaalselt **2 täidetud vormi** sama inimese kohta + **1 iserefleksioon**. Üksi enda täidetud leht ei loe.
+
+---
+
+## Vorm — täitmise mall (tekstiversioon)
 
 ```
 PEEGLI HINDAMISVORM — [ AV-PERE / AV-MEESKOND / AV-SOK ]
@@ -120,7 +157,7 @@ Vastupidavus:
 
 ??? USALDUS (jah / ei ring) ???
 
-[ vastav tabel ülalt ]
+Kas sa selle inimesega luurele läheksid?   ? Jah   ? Ei
 
 ??? ARENG ???
 
@@ -221,7 +258,9 @@ Hindamine ilma järgmise sammuta on **kriitika**, mitte peegel.
 
 | Tööriist | Formaat |
 |----------|---------|
-| Taskukaart | Lisa X — „Peegli 6 küsimust" (kriteeriumid lühidalt) |
+| **PEEGEL_HINDAMISVORM_PRINT.pdf** | A4 kirjalik vorm — iga hindaja |
+| **PEEGEL_HINDAMISVORM_PLANKETT.pdf** | A5 seinaplaat üksuse kausta |
+| **PEEGEL_HINDAMISVORM_RAHAKOTT.pdf** | 85×55 mm meeldetuletus |
 | PEEGEL_TEE_F | Juhtide jaoks: hindamisvestluse SOP |
 | Supervisioon | Marge Sillaste — juhid, kes hoiavad teisi juhte |
 
@@ -247,7 +286,7 @@ Hindamine ilma järgmise sammuta on **kriitika**, mitte peegel.
 
 ## Üks lause plaanile
 
-> **Iga pere ja allüksus teeb kord kuus või kvartalis 20-minutilise peegli vestluse: vähemalt kaks inimest annavad ausa tagasiside vormi põhjal, hinnatav vastab dialoogis, ja kõik lahkuvad ühe järgmise teega.**
+> **Iga pere ja allüksus teeb kord kuus või kvartalis 20-minutilise peegli vestluse — ja vastab ausalt ühele küsimusele: kas sa selle inimesega luurele läheksid?**
 
 ---
 

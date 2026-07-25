@@ -17,7 +17,7 @@
 |--------------|----------------|
 | Võitleja sooritus treeningul | **Inimese sooritus igapäevaelus** — pere, meeskond, kogukond |
 | Hindaja kirjutab ausalt | **Vähemalt kaks** inimest annavad tagasisidet; iseteenindus **ei loe** |
-| „Kas läheksid lahingusse?" | „Kas usaldaksid teda **kriisis / lapse juures / meeskonnas**?" |
+| „Kas läheksid lahingusse?" | **„Kas läheksid luurele?"** — usaldus otsustada üksi, tulla tagasi tõega |
 | E / T / V (edasi / tagasi / välja) | **Kasv / hoia / paus** — areng, mitte väljalaskmine |
 | Jao pingerida 1–14 | **Ei pere kontekstis.** Meeskonnas ainult **juhi privaatne** tööriist, mitte avalik häbistamine |
 
@@ -89,7 +89,7 @@ Tõmba ring ümber vastuse. **Ausus on konfidentsiaalne** — mitte avalik nimekirj.
 
 | Täht | Tähendus | Millal |
 |------|----------|--------|
-| **K** | **Kasv** — järgmine etapp, rohkem vastutust, uus ülesanne | Tugev sooritus + usaldus Jah |
+| **K** | **Kasv** — järgmine etapp, rohkem vastutust, uus ülesanne | Tugev sooritus + **luure = Jah** |
 | **H** | **Hoia** — sama tase, kinnita, treeni nõrk koht | Hea, aga üks lünk |
 | **P** | **Paus** — vähenda koormust, Lisa H/P, supervisioon | Vastupidavus või turvalisus ohus |
 

@@ -52,6 +52,15 @@ LISA_FILES = [
     "lisa-ak-kodaniku-taskuraamat-peegel.md",
     "lisa-al-riiklik-levitamisplaan-shveits-mudel.md",
     "lisa-am-oigused-ja-realistlik-maht.md",
+    "lisa-an-venekeelne-sihtruhm-ja-inimesekeskne-levitus.md",
+    "lisa-ao-ultimate-power-kokkuvote.md",
+    "lisa-ap-swot-ja-lugeja-audit.md",
+    "lisa-aq-sidepakkide-jaotus-skeem.md",
+    "lisa-ar-vooglaid-ja-paal-demonstraatorid.md",
+    "lisa-at-lihtsus-kui-kinni-jaid.md",
+    "lisa-au-vastase-analuusi-taiendus.md",
+    "lisa-av-peegel-hindamisvorm.md",
+    "lisa-aw-motlemine-kiiresti-ja-aeglaselt.md",
     "renee-aluste-profiil.md",
 ]
 

@@ -18,7 +18,8 @@
 **Lood ja konversioon (Lisa AD):** [LOO_CHECKLIST_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/LOO_CHECKLIST_PRINT.pdf) · [LOO_TASKUKAARDID_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/LOO_TASKUKAARDID_PRINT.pdf) · [LOO_TASKUKAARDID_RAHAKOTT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/LOO_TASKUKAARDID_RAHAKOTT.pdf)  
 **Õhk ja olukorra teadlikkus (Lisa AE):** [OLUKORDA_TEADLIKKUS_SOP_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OLUKORDA_TEADLIKKUS_SOP_PRINT.pdf) · [OLUKORDA_TEADLIKKUS_TASKUKAARDID_RAHAKOTT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OLUKORDA_TEADLIKKUS_TASKUKAARDID_RAHAKOTT.pdf)  
 **Peegli hindamisvorm (Lisa AV):** [PEEGEL_HINDAMISVORM_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/PEEGEL_HINDAMISVORM_PRINT.pdf) · [plankett A5](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/PEEGEL_HINDAMISVORM_PLANKETT.pdf) · [rahakott 85×55mm](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/PEEGEL_HINDAMISVORM_RAHAKOTT.pdf)  
-**Podcastid:** [Papsid.ee](https://papsid.ee/podcast/) (isa/pere) · [Maatriksi Lapsed](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) (laste kaitse)  
+**Podcastid (eesti keeles):** [Papsid.ee](https://papsid.ee/podcast/) (isa/pere) · [Maatriksi Lapsed](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) (laste kaitse)  
+**Meedia keel:** eesti keel primaarselt — [`soovitus-meedia-eesti-primaar.md`](kommunikatsioon/soovitus-meedia-eesti-primaar.md)  
 **Repo / PR:** [github.com/reneealuste-commits/Unpluged-Al/pull/1](https://github.com/reneealuste-commits/Unpluged-Al/pull/1)
 
 > *Struktuur järgib OPORD-i (viis punkti: olukord, ülesanne, täideviimine, teenindus, juhtimine). Inimestele suunatud nimetus on **paranemis-teekond** — mitte sõjaline käsk. Sõna „käsk" võib triggerdada kaitsepositsiooni (Lisa P, van der Kolk).*
@@ -287,7 +288,7 @@ See ei ole erisoov. See on **operatsiooniline nõue** — ja see on **esimene sa
 
 **Miks traumateadlikkus?** Sest inimene reageerib **pre-verbaalselt** (van der Kolk). Kiusamine ja alandamine **muudavad aju** (Lisa S). Ilma traumateadlikkuseta juhid **sümptomeid** — ATH silti, tabletti, „võta kokku" — mitte juurt. Steiger: nimede taga on inimesed, mitte kliinilised juhtumid.
 
-Täielik ahel: **Lisa S** (miks) → **Lisa V** (uni) → **Lisa I** (juhtimine) → **Lisa P** (vestlus) → vastutus.
+Täielik ahel: **Lisa S** (miks) → **Lisa V** (uni) → **Lisa AW** (aju, otsused) → **Lisa I** (juhtimine) → **Lisa P** (vestlus) → vastutus.
 
 | Põhimõte | Mida see tähendab |
 |----------|-------------------|
@@ -305,7 +306,7 @@ Täielik ahel: **Lisa S** (miks) → **Lisa V** (uni) → **Lisa I** (juhtimine)
 
 **1-1 vestlused** (prioriteet) toimuvad ainult selles raamis. Mass-koolitus ilma kontaktita ei asenda seda.
 
-**Paranemis-teadlik tugi võrgustikus:** Kert Grünberg (hingamistuba.ee), Jure Biechonski (teadlikmina.ee), Priit Lilleväli, Kaia Kapsta-Forrester, Lisa H, Lisa F, EMDR (KV Tugiteenuste keskus / ohvriabi.ee). Peamine raamat: van der Kolk, *The Body Keeps the Score* (ISBN 978-0-141-97861-1). Kiusamine ja aju: **Lisa S** (*Imeline Teadus* + trauma). Uni ja aju: **Lisa V** (Matthew Walker, *Why We Sleep*, ISBN 978-0-141-9835-6-9). Täielik valideerimise juhend: **Lisa P**.
+**Paranemis-teadlik tugi võrgustikus:** Kert Grünberg (hingamistuba.ee), Jure Biechonski (teadlikmina.ee), Priit Lilleväli, Kaia Kapsta-Forrester, Lisa H, Lisa F, EMDR (KV Tugiteenuste keskus / ohvriabi.ee). Peamine raamat: van der Kolk, *The Body Keeps the Score* (ISBN 978-0-141-97861-1). Kiusamine ja aju: **Lisa S** (*Imeline Teadus* + trauma). Uni ja aju: **Lisa V** (Matthew Walker, *Why We Sleep*, ISBN 978-0-141-9835-6-9). Otsused ja mõttevead: **Lisa AW** (Daniel Kahneman, *Thinking, Fast and Slow*, ISBN 978-9949-33-567-4 ET). Täielik valideerimise juhend: **Lisa P**.
 
 > *Inimene reageerib pre-verbaalselt. Alguses ei räägi mõistusega — räägib kehaga. Alusta turvalisusest. Sa pole katki — sa vajad ruumi paranemiseks.*
 
@@ -2562,6 +2563,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **AT** | — | `lisad/lisa-at-lihtsus-kui-kinni-jaid.md` | **LIHTSUS** — kui kinni jäid, otsuspuu |
 | **AU** | — | `lisad/lisa-au-vastase-analuusi-taiendus.md` | **Vastase analüüs** — mitme vektori mõjutus (RU + platvormid), faktikontroll |
 | **AV** | — | `lisad/lisa-av-peegel-hindamisvorm.md` | **Peegli hindamisvorm** — pere, meeskond, SOK; MKKo → peegel, dialoog |
+| **AW** | — | `lisad/lisa-aw-motlemine-kiiresti-ja-aeglaselt.md` | **Mõtlemine kiiresti ja aeglaselt** — Kahneman; System 1/2, mõttevead, stress, kelnerilaua lugu |
 | **AQ** | — | `lisad/lisa-aq-sidepakkide-jaotus-skeem.md` | **Sidepakkide jaotus** — K0–K3 kihtide arhitektuur, paketid P0–P3, kanalid, levitamise reeglid |
 | — | — | `lisad/kiht0-ru-tuum-1-leht.md` | **Kiht 0 RU** — 1 lk venekeelne tuum (Lisa AN) |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |

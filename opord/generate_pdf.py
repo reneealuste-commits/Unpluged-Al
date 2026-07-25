@@ -72,6 +72,7 @@ BOOK_FILES = [
     "lisa-at-lihtsus-kui-kinni-jaid.md",
     "lisa-au-vastase-analuusi-taiendus.md",
     "lisa-av-peegel-hindamisvorm.md",
+    "lisa-aw-motlemine-kiiresti-ja-aeglaselt.md",
     "kiht0-ru-tuum-1-leht.md",
     "renee-aluste-profiil.md",
 ]

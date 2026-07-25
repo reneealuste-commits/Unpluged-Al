@@ -117,7 +117,7 @@ See ei sündi teooriast — see sündis sellest, et **tulemused räägivad iseen
 | Keha ja uni | Walker, toit, liikumine (Lisa V, U, AB) |
 | Suur pilt | Kardashev, Musk süsteem — hang on (Lisa AZ) |
 | Pere ja isa | Tugeva Isa seeria A–G |
-| Suhtlus | GOTWA, hääl, austav keel (Lisa Q) · NVC kaardid (Lisa BD) |
+| Suhtlus | GOTWA, hääl, austav keel (Lisa Q) · NVC kaardid (Lisa BD) · **1-1 võrgustikus (Lisa BE)** |
 | Kriitiline mõtlemine | Ära usu — uuri (see dokument) |
 | Aju vs keha | Ära usu oma aju — usu keha (Lisa AW) |
 
@@ -147,7 +147,8 @@ See ei sündi teooriast — see sündis sellest, et **tulemused räägivad iseen
 | Ei tea milline tee | Lisa **AT** otsuspuu (10 rida) |
 | Tahan aidata teist | Lisa Q §4 (kata ja liigu) + Lisa P |
 | Igapäevane suhtlus | Lisa **BD** — OFNR taskukaart (4 kaarti) |
-| Olen demomees | Lisa N checklist → Lisa Q |
+| Võrgustiku 1-1 | Lisa **BE** — 1× sügav + 3× lühikontakt nädalas |
+| Olen demomees | Lisa N checklist → Lisa Q → Lisa BE |
 
 ---
 

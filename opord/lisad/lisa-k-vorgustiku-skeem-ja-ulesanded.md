@@ -8,6 +8,8 @@
 
 > *„Olen pannud tähele, et kui anda iga inimesele roll, eesmärk ja konkreetsed juhised, mida teha — siis ta tihti teebki seda."* — Renee Aluste
 
+> *Kui juhis on nii lihtne, et saad iga päev — plaan käib ise. Võrgustikus tähendab see **1-1 vestlust** (~80% sisemisest tööst). Täielik standard: **Lisa BE**.*
+
 **Lisa K struktuur:** iga osalise juures on **roll**, **eesmärk** ja **konkreetsed ülesanded** — mitte ainult nimi nimekirjas.
 
 > **LIHTSUS:** Sa ei pea kedagi siin tundma, et alustada. Alusta **PEEGEL_TUUM.pdf** või **Lisa AT**. See nimekiri on võrgustikule — mitte esimese lugemise kohaks.

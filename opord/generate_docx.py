@@ -68,6 +68,7 @@ LISA_FILES = [
     "lisa-bb-hannes-vorno-haridus-ja-toitumine.md",
     "lisa-bc-digitaalne-detoks-ja-nuputelefon.md",
     "lisa-bd-nvc-taskukaardid-kodanikule.md",
+    "lisa-be-1-1-vestlus-vorgustikus.md",
     "renee-aluste-profiil.md",
 ]
 

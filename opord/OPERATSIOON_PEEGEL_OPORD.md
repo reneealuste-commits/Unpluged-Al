@@ -16,6 +16,7 @@
 **Kogu pakett (ZIP):** [Operatsioon-Peegel-kogu-pakett.zip](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/Operatsioon-Peegel-kogu-pakett.zip) — kõik lisad, PDF-id, pildid  
 **Taskukaardid (Lisa X):** [TASKUKAARDID_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/TASKUKAARDID_PRINT.pdf) · [rahakott 85×55mm](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/TASKUKAARDID_RAHAKOTT.pdf) · [LENDLEHT_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/LENDLEHT_PRINT.pdf)  
 **NVC taskukaardid (Lisa BD):** [NVC_TASKUKAARDID_PRINT.pdf](NVC_TASKUKAARDID_PRINT.pdf) · [rahakott 85×55mm](NVC_TASKUKAARDID_RAHAKOTT.pdf) — igapäevane suhtlus (Lisa Q alus)  
+**1-1 võrgustikus (Lisa BE):** [1_1_VESTLUS_TASKUKAART.pdf](1_1_VESTLUS_TASKUKAART.pdf) — ~80% sisemisest tööst; igapäevane standard  
 **Lood ja konversioon (Lisa AD):** [LOO_CHECKLIST_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/LOO_CHECKLIST_PRINT.pdf) · [LOO_TASKUKAARDID_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/LOO_TASKUKAARDID_PRINT.pdf) · [LOO_TASKUKAARDID_RAHAKOTT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/LOO_TASKUKAARDID_RAHAKOTT.pdf)  
 **Õhk ja olukorra teadlikkus (Lisa AE):** [OLUKORDA_TEADLIKKUS_SOP_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OLUKORDA_TEADLIKKUS_SOP_PRINT.pdf) · [OLUKORDA_TEADLIKKUS_TASKUKAARDID_RAHAKOTT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OLUKORDA_TEADLIKKUS_TASKUKAARDID_RAHAKOTT.pdf)  
 **Peegli hindamisvorm (Lisa AV):** [PEEGEL_HINDAMISVORM_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/PEEGEL_HINDAMISVORM_PRINT.pdf) · [plankett A5](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/PEEGEL_HINDAMISVORM_PLANKETT.pdf) · [rahakott 85×55mm](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/PEEGEL_HINDAMISVORM_RAHAKOTT.pdf)  
@@ -973,7 +974,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 7. **Levita tutvusringkonnas (pikk mäng):** Iga kodaniku roll on rääkida oma tutvusringkonnas — **turundust on vaja**. Aga **mitte enne demomehe kogemust**. Alles kui keegi **huvi tunneb**, võid natuke jagada. Alles siis räägid teistele. Mitte müüki. Mitte kiirustamist. Teisel pool: **armastust täis väärtuslik elu**. (Lisa N §4b)
 
 ### Renee Aluste rühm (koordineerimisüksus)
-1. **1-1 vestlused** — prioriteet: **paranemis-teadlikult**, turvalisuses ja mõistmises (läbipõlemise vastu; vt V-formatsioon Lisa I). Tööriist: **spordikommentaator** (Lisa P).
+1. **1-1 vestlused** — prioriteet: **paranemis-teadlikult**, turvalisuses ja mõistmises (läbipõlemise vastu; vt V-formatsioon Lisa I). Tööriist: **spordikommentaator** (Lisa P). **~80% võrgustiku sisemisest tööst** — mitte mass-koolitus. Täielik SOP: **Lisa BE**.
 2. **Turvalisuse standard** — kõik kontaktid: turvalisus → spordikommentaator → valideeri → ausus → valik (Lisa P). Side hääl ja GOTWA: **Lisa Q**. **Kohtle iga asjaosalist nagu terve, täiesti normaalset inimest.**
 3. Sõnumite koordineerimine ja levitamine.
 4. Combat Ready koolituste korraldamine võrgustikule.
@@ -1311,6 +1312,8 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 
 **Läbipõlemise vastu:** Renee Aluste kogemus Sõdurioskuste kursustega (~3 aastat) näitas, et mass-tegevus ilma isikliku kontaktita viib kurnatuseni. Operatsioon eelistab **1-1 vestlusi** — **paranemis-teadlikult**, turvalisuses ja mõistmises. Esimene kontakt Rene Toomsega on alustatud.
 
+**Võrgustiku sisemine standard:** ~**80%** tegelikust tööst on **1-1** (sügav vestlus + lühikontaktid), mitte üritused või dokumendid. Konkreetne nädala/päeva plaan: **Lisa BE**. Inimesed on võrgustikus **vabatahtlikult** — me **demonstreerime** protsessi ja **parandame** seda, mitte ei sunni.
+
 ## b. Side ja signaalid
 
 ### Kuidas me suhtleme? (Side eeskirjad)
@@ -1368,6 +1371,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 - **Takistused ja valideerimine:** Lisa P — `lisad/lisa-p-takistused-ja-valideerimine.md` (spordikommentaator, **KRIITILINE REEGEL: trauma ja koostöö**, Cooper, van der Kolk)
 - **Side eeskirjad:** Lisa Q — `lisad/lisa-q-side-eeskirjad-ja-suhtlus.md` (hääl, GOTWA, austav keel, **kata ja liigu**, demomeeste igapäevane standard)
 - **NVC taskukaardid (kodanik):** Lisa BD — `lisad/lisa-bd-nvc-taskukaardid-kodanikule.md` (OFNR igapäevaseks suhtluseks; alus Lisa Q)
+- **1-1 võrgustikus:** Lisa BE — `lisad/lisa-be-1-1-vestlus-vorgustikus.md` (~80% sisemisest tööst; igapäevane standard; demonstreeri, ära sunni)
 - **LIHTSUS / kui kinni jäid:** Lisa AT — `lisad/lisa-at-lihtsus-kui-kinni-jaid.md` (otsuspuu, üks järgmine samm)
 - **Kes ma olen (kahtlus / taust):** Lisa R — `lisad/lisa-r-kes-ma-olen-ja-taust.md` (CV, teenistus, koolitused, meedia tõendid)
 - **Valitsuse hetke-analüüs:** Lisa T — `lisad/lisa-t-valitsuse-ipb-analuus.md` (Ranger Handbook, KPI, 13 ministrit, show me the money)
@@ -2589,6 +2593,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **BB** | — | `lisad/lisa-bb-hannes-vorno-haridus-ja-toitumine.md` | **Hannes Võrno** — hariduse kriitika, meedia praktik, toidu päritolu; seos Lisa U (karnivoor uurimisliin) |
 | **BC** | — | `lisad/lisa-bc-digitaalne-detoks-ja-nuputelefon.md` | **Digitaalne detoks** — nuputelefon pärast 17:00, ankrupaik, valge nimekiri; töö pärast tundi ei ole OK |
 | **BD** | — | `lisad/lisa-bd-nvc-taskukaardid-kodanikule.md` | **NVC taskukaardid** — OFNR kodanikule; igapäevane suhtlus (Lisa Q alus); 4 kaarti + rahakott |
+| **BE** | — | `lisad/lisa-be-1-1-vestlus-vorgustikus.md` | **1-1 võrgustikus** — ~80% sisemisest tööst; igapäevane standard; demonstreeri protsessi, ära sunni |
 | **AQ** | — | `lisad/lisa-aq-sidepakkide-jaotus-skeem.md` | **Sidepakkide jaotus** — K0–K3 kihtide arhitektuur, paketid P0–P3, kanalid, levitamise reeglid |
 | — | — | `lisad/kiht0-ru-tuum-1-leht.md` | **Kiht 0 RU** — 1 lk venekeelne tuum (Lisa AN) |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |

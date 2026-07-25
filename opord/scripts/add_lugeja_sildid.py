@@ -126,6 +126,11 @@ SILDID = {
         "**Loe seda kui:** suhtled kodus, t\u00f6\u00f6l v\u00f5i t\u00e4naval (Lisa Q alus).  \n",
         "**\u00c4ra loe kui:** oled kriisis \u2014 alusta Lisa H numbritest.\n",
     ),
+    "lisa-be-1-1-vestlus-vorgustikus.md": (
+        "**Lugeja saab:** 1-1 vestluse osakaalu ja igap\u00e4evast standardit v\u00f5rgustikus.  \n",
+        "**Loe seda kui:** oled v\u00f5rgustiku liige, koordinaator v\u00f5i demomees.  \n",
+        "**\u00c4ra loe kui:** alles K0/TUUM faasis.\n",
+    ),
 }
 
 MARKER = "**Lugeja saab:**"

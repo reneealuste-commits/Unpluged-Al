@@ -282,8 +282,9 @@ Kui inimene teab, et **keegi tuleb** — et ta ei pea partnerit alt vedama, et h
 | **Lisa H** | Hädaolukord — numbrid, vaikus, abi |
 | **Lisa AT** | LIHTSUS — kui kinni jäid |
 | **Lisa BD** | NVC taskukaardid kodanikule — OFNR igapäevaseks suhtluseks (`NVC_TASKUKAARDID_PRINT.pdf`) |
+| **Lisa BE** | **1-1 võrgustikus** — ~80% sisemisest tööst; nädala/päeva standard; demonstreeri, ära sunni |
 
-**Lisa X** = väljapoole jagamine. **Lisa BD** = igapäev kodus, tööl, tänaval.
+**Lisa X** = väljapoole jagamine. **Lisa BD** = kodaniku igapäev. **Lisa BE** = võrgustiku 1-1 tuum.
 
 ---
 

@@ -341,7 +341,7 @@ Inimesekeskne juhtimine ei tähenda ebaselgust. See tähendab **selgust ilma dom
 | „Aita operatsioonil" | „Sa oled demomees — täida checklist 1× päevas" |
 | „Ole kena inimestega" | „GOTWA enne iga uut kontakti" |
 
-**Seos operatsiooniga:** **Lisa K** annab igale võrgustiku liikmele rolli ja ülesande. **Lisa N** annab demomeestele checklisti. **Lisa Q** annab side SOP. Roll + eesmärk + juhis — mitte sund, vaid selgus.
+**Seos operatsiooniga:** **Lisa K** annab igale võrgustiku liikmele rolli ja ülesande. **Lisa N** annab demomeestele checklisti. **Lisa Q** annab side SOP. **Lisa BE** seab **1-1 vestluse** võrgustiku sisemiseks tuumaks (~80% tööst). Roll + eesmärk + juhis — mitte sund, vaid selgus.
 
 Steiger täiendab: juht valmistub ette (samm 3) ja kuulab (samm 4) — aga pärast dialoogi peab inimesel ikkagi olema teada, **mida temalt oodatakse**.
 

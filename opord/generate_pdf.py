@@ -80,6 +80,7 @@ BOOK_FILES = [
     "lisa-bb-hannes-vorno-haridus-ja-toitumine.md",
     "lisa-bc-digitaalne-detoks-ja-nuputelefon.md",
     "lisa-bd-nvc-taskukaardid-kodanikule.md",
+    "lisa-be-1-1-vestlus-vorgustikus.md",
     "kiht0-ru-tuum-1-leht.md",
     "renee-aluste-profiil.md",
 ]
@@ -110,6 +111,7 @@ PACKAGE_PDFS = {
         LISAD_DIR / "lisa-n-aluste-kool.md",
         LISAD_DIR / "lisa-i-inimesekeskne-juhtimine.md",
         LISAD_DIR / "lisa-q-side-eeskirjad-ja-suhtlus.md",
+        LISAD_DIR / "lisa-be-1-1-vestlus-vorgustikus.md",
         LISAD_DIR / "lisa-ao-ultimate-power-kokkuvote.md",
         LISAD_DIR / "lisa-x-taskukaardid-valjasuhtlus.md",
     ],

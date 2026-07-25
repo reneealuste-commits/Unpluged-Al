@@ -76,7 +76,7 @@ Inimene kaitsepositsioonis ei reageeri esmalt loogikaga. Ta reageerib **pre-verb
 | ❌ Ei tööta (või teeb hullemaks) | ✅ Töötab |
 |----------------------------------|-----------|
 | Loogika ja argument triggeris | **Turvalisus** — füüsiline ja emotsionaalne ruum |
-| „Ära ole tundlik" / „unusta ära" | **Keha** — hingamine, liikumine, TRE, EMDR, kohalolek |
+| „Ära ole tundlik" / „unusta ära" | **Keha** — hingamine, liikumine, TRE, EMDR, kohalolek, **enesemassaaž / lümf (Lisa BA)** |
 | Ainult ravimid ilma töötlemiseta | **Suhe** — keegi, kes on kohal ilma parandamiseta |
 | Rääkimine *mõistusega* enne rahunemist | **Teadlikkus** — märkad, mis kehas ja ruumis toimub |
 | Parandamine, õpetamine, võitmine | **Valideerimine** — näed inimest enne lahendust |
@@ -182,6 +182,7 @@ Lisa Q lisab: **GOTWA**, **mänguline hääl**, **teietamine** — koos kuus tö
 | Tüüp | Kes / mis |
 |------|-----------|
 | Keha ja trauma | Kert Grünberg — hingamistuba.ee (TRE, regressioon) |
+| Tasuta kehavabastus | **Lisa BA** — lümf, enesemassaaž, kõnd, raputus, karu-meetod |
 | Transpersonaalne | Jure Biechonski — teadlikmina.ee |
 | Juhendamine / kriis | Priit Lilleväli, Kaia Kapsta-Forrester |
 | Kiirjuhend | Lisa H, Lisa F (*Murra ring*) |

@@ -76,6 +76,7 @@ BOOK_FILES = [
     "lisa-ax-demo-perekond-ja-eeskujud.md",
     "lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md",
     "lisa-az-suur-pilt-kardashev-musk-ja-susteem.md",
+    "lisa-ba-keha-vabastamine-tasuta.md",
     "kiht0-ru-tuum-1-leht.md",
     "renee-aluste-profiil.md",
 ]
@@ -87,6 +88,7 @@ PACKAGE_PDFS = {
         LISAD_DIR / "lisa-h-kiirjuhend-kriisis-isale.md",
         LISAD_DIR / "raamat-06-murra-ring.md",
         LISAD_DIR / "lisa-p-takistused-ja-valideerimine.md",
+        LISAD_DIR / "lisa-ba-keha-vabastamine-tasuta.md",
         LISAD_DIR / "lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md",
     ],
     "PEEGEL_TEE_B.pdf": [

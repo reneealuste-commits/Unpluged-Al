@@ -57,6 +57,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | AX | [lisa-ax-demo-perekond-ja-eeskujud.md](lisa-ax-demo-perekond-ja-eeskujud.md) | **Demo-perekond** — pereväärtuste promijad, eeskujude välja toomine, värbamisoskus |
 | AY | [lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md](lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md) | **Kuldne sild** — Sun Tzu + Art of the Deal; esimene manööver; AI; juhtide kutse |
 | AZ | [lisa-az-suur-pilt-kardashev-musk-ja-susteem.md](lisa-az-suur-pilt-kardashev-musk-ja-susteem.md) | **Suur pilt** — Kardashev T-I/II/III, Musk ökosüsteem, Tesla/SpaceX/Starlink, „hang on" |
+| BA | [lisa-ba-keha-vabastamine-tasuta.md](lisa-ba-keha-vabastamine-tasuta.md) | **Keha vabastamine tasuta** — lümf, enesemassaaž, karu/puu meetod, raputamine (TRE), partner |
 | — | [kiht0-ru-tuum-1-leht.md](kiht0-ru-tuum-1-leht.md) | **Kiht 0 RU** — 1 lk venekeelne tuum (Lisa AN tee E) |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
@@ -126,6 +127,8 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 **Valitsuse uuendus (kuldne sild):** Lisa AY — Sun Tzu + *Art of the Deal*; esimene manööver (ava silmad); tõendid ja vastutus; juhtide avatud kutse; AI (Lisa L). Mini-kursus: [`kursid/K0-ava-silmad-mini-en.md`](../kursid/K0-ava-silmad-mini-en.md).
 
 **Suur pilt (Kardashev + Musk):** Lisa AZ — Tsivilisatsioon 0→I→II→III; Tesla/SpaceX/Starlink ökosüsteem; „hang on — tuli põleb".
+
+**Keha vabastamine tasuta:** Lisa BA — kui trauma on kehas kinni: lümf/enesemassaaž, kõnd, raputus, selg puu või ukse vastu (karu meetod); partner nõusolekuga. Täiendab Lisa P, AB, H.
 
 **Venekeelne 1 lk:** [kiht0-ru-tuum-1-leht.md](kiht0-ru-tuum-1-leht.md) — Lisa AN tee E.
 

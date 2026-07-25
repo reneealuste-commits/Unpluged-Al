@@ -106,6 +106,11 @@ SILDID = {
         "**Loe seda kui:** oled lootusetu v\u00f5i tahad n\u00e4ha suunda.  \n",
         "**\u00c4ra loe kui:** otsid ainult poliitikat \u2014 alusta Lisa T.\n",
     ),
+    "lisa-ba-keha-vabastamine-tasuta.md": (
+        "**Lugeja saab:** tasuta kehavabastuse t\u00f6\u00f6riistad (l\u00fcmf, massaa\u017e, raputus).  \n",
+        "**Loe seda kui:** stress on kehas kinni, mitte ainult peas.  \n",
+        "**\u00c4ra loe kui:** oled aktiivses kriisis ilma turvaliseta \u2014 alusta Lisa H.\n",
+    ),
 }
 
 MARKER = "**Lugeja saab:**"

@@ -76,6 +76,7 @@ Inimene kaitsepositsioonis ei reageeri esmalt loogikaga. Ta reageerib **pre-verb
 | Ainult ravimid ilma töötlemiseta | **Suhe** — keegi, kes on kohal ilma parandamiseta |
 | Rääkimine *mõistusega* enne rahunemist | **Teadlikkus** — märkad, mis kehas ja ruumis toimub |
 | Parandamine, õpetamine, võitmine | **Valideerimine** — näed inimest enne lahendust |
+| „Kui vajad abi, helista" — oota palvet | **Kata ja liigu** (Lisa Q §4) — üks konkreetne samm + ajaline lootus |
 | Debatt „kes on õigel" | **Spordikommentaator** — kirjelda maailma, nagu sa seda näed (allpool) |
 
 > *Trauma ei vabane võitmisega. Trauma vabaneb **nähtavaks saamisega** — kui keha ja närvisüsteem tunnevad end turvaliselt ja teadlikult.*

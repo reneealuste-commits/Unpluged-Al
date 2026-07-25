@@ -1293,6 +1293,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 | **Keel (vaikimisi)** | **Teietamine** + austav kehakeel — **mitte üleolev** (iga inimese SOP) |
 | **Liikumine kodaniku juurest → juurde** | **GOTWA** (KOP5) — **inglise keeles**, viis punkti (Rangeri kool / maakaitse käsiraamat) |
 | **Vestlus** | **Spordikommentaator** (Lisa P) + valideerimine |
+| **Abi haavatud inimesele** | **Kata ja liigu** (Lisa Q §4) — ära oota palvet; üks konkreetne samm + ajaline lootus. „Kui vajad abi, helista" ei tööta haavatu puhul |
 
 **GOTWA — iga liikumine enne järgmist kontakti:**
 
@@ -1304,7 +1305,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 | **W** | **What** — kui ma ei tule õigel ajal |
 | **A** | **Actions** — ootamatu olukord (trigger, kriis) |
 
-*Miks:* selgus hoiab ärevuse ja teadmatuse madalal — see **ravib** (van der Kolk: turvalisus enne mõistust).
+*Miks:* selgus hoiab ärevuse ja teadmatuse madalal — see **ravib** (van der Kolk: turvalisus enne mõistust). Haavatu ei küsi abi — ta võitleb ellujäämisega. **Lootus, et keegi tuleb, on juba abi** (Renee Aluste, juuli 2026).
 
 **Võtmetegevus:** Demomehed (Üksus Aluste_kool) kasutavad häälerežiime, austavat keelt, spordikommentaatorit ja GOTWA-d **igapäevases suhtluses**. Iga juhise juures on Lisa Q-s **ideaalne soorituse näide** igapäevases kontekstis.
 
@@ -1330,7 +1331,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 - **Kodaniku identiteet:** Lisa M — `lisad/lisa-m-kodaniku-identiteet-ja-vanne.md` (Robbins 5 sammu, manifest, vanne, LIHTSUS)
 - **Vaktsineerimine:** Lisa O — `lisad/lisa-o-vaktsineerimine.md` (uuringud, ühiskond, konspiratsioonid, aus hinnang)
 - **Takistused ja valideerimine:** Lisa P — `lisad/lisa-p-takistused-ja-valideerimine.md` (spordikommentaator, **KRIITILINE REEGEL: trauma ja koostöö**, Cooper, van der Kolk)
-- **Side eeskirjad:** Lisa Q — `lisad/lisa-q-side-eeskirjad-ja-suhtlus.md` (hääl, GOTWA, austav keel, demomeeste igapäevane standard)
+- **Side eeskirjad:** Lisa Q — `lisad/lisa-q-side-eeskirjad-ja-suhtlus.md` (hääl, GOTWA, austav keel, **kata ja liigu**, demomeeste igapäevane standard)
 - **Kes ma olen (kahtlus / taust):** Lisa R — `lisad/lisa-r-kes-ma-olen-ja-taust.md` (CV, teenistus, koolitused, meedia tõendid)
 - **Valitsuse hetke-analüüs:** Lisa T — `lisad/lisa-t-valitsuse-ipb-analuus.md` (Ranger Handbook, KPI, 13 ministrit, show me the money)
 - **Rasv, Bellevue uuring, avatud meel:** Lisa U — `lisad/lisa-u-rasv-avatud-meele-uuring.md` (PDF allalaadimised, Drive'i kaust, küsimused endale)
@@ -2503,7 +2504,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **N** | — | `lisad/lisa-n-aluste-kool.md` | **Üksus Aluste_kool** — SOK demomehed, viisakuseeskiri, päevane checklist |
 | **O** | — | `lisad/lisa-o-vaktsineerimine.md` | **Vaktsineerimine** — uuringud, ühiskond, konspiratsioonid, Renee isiklik valik, TAI/Terviseamet |
 | **P** | — | `lisad/lisa-p-takistused-ja-valideerimine.md` | **Takistused ja valideerimine** — spordikommentaator, **KRIITILINE trauma-reegel**, Cooper, van der Kolk |
-| **Q** | — | `lisad/lisa-q-side-eeskirjad-ja-suhtlus.md` | **Side eeskirjad** — hääl, GOTWA, austav keel, Pareto 80/20, demomehed |
+| **Q** | — | `lisad/lisa-q-side-eeskirjad-ja-suhtlus.md` | **Side eeskirjad** — hääl, GOTWA, austav keel, **kata ja liigu**, Pareto 80/20, demomehed |
 | **S** | — | `lisad/lisa-s-kiusamine-aju-ja-trauma.md` | **Kiusamine, aju ja trauma** — *Imeline Teadus*, miks inimesed käituvad nii, Body Keeps the Score |
 | **T** | — | `lisad/lisa-t-valitsuse-ipb-analuus.md` | **Valitsuse hetke-analüüs** — IPB raamistik, KPI/OKR, 13 ministrit, ellujäämisrežiim, tagasiside puudumine |
 | **U** | — | `lisad/lisa-u-rasv-avatud-meele-uuring.md` | **Rasv ja avatud meel** — Bellevue uuring 1928–29, PDF lingid, 30 mõtlemisküsimust; **uurimustöö PDF:** `TOITUMINE_UURIMUSTOO.pdf` |

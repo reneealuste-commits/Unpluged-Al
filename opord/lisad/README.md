@@ -24,7 +24,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | N | [lisa-n-aluste-kool.md](lisa-n-aluste-kool.md) | **Üksus Aluste_kool** — SOK demomehed, viisakuseeskiri, päevane checklist |
 | O | [lisa-o-vaktsineerimine.md](lisa-o-vaktsineerimine.md) | **Vaktsineerimine** — uuringud, ühiskond, konspiratsioonid, aus hinnang |
 | P | [lisa-p-takistused-ja-valideerimine.md](lisa-p-takistused-ja-valideerimine.md) | **Takistused ja valideerimine** — spordikommentaator, **KRIITILINE trauma-reegel**, Cooper, turvalisus |
-| Q | [lisa-q-side-eeskirjad-ja-suhtlus.md](lisa-q-side-eeskirjad-ja-suhtlus.md) | **Side eeskirjad** — hääl, GOTWA (KOP5), austav keel, **Pareto 80/20**, demomehed |
+| Q | [lisa-q-side-eeskirjad-ja-suhtlus.md](lisa-q-side-eeskirjad-ja-suhtlus.md) | **Side eeskirjad** — hääl, GOTWA (KOP5), austav keel, **kata ja liigu**, Pareto 80/20, demomehed |
 | R | [lisa-r-kes-ma-olen-ja-taust.md](lisa-r-kes-ma-olen-ja-taust.md) | **Kes ma olen? Taust ja tõendid** — CV, teenistus, koolitused, meedia (kahtlus) |
 | S | [lisa-s-kiusamine-aju-ja-trauma.md](lisa-s-kiusamine-aju-ja-trauma.md) | **Kiusamine, aju ja trauma** — *Imeline Teadus*, miks inimesed käituvad nii, Body Keeps the Score |
 | T | [lisa-t-valitsuse-ipb-analuus.md](lisa-t-valitsuse-ipb-analuus.md) | **Valitsuse hetke-analüüs** — IPB, PMESII-PT, 13 ministrit, show me the money |

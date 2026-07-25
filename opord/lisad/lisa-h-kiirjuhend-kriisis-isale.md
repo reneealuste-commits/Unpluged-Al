@@ -41,6 +41,21 @@ Renee Aluste on olnud seal. Taastumine on võit.
 
 ---
 
+## Kui sa aitad kedagi, kes on põhjas
+
+**Ära oota, kuni ta küsib abi.** Haavatu inimesel on jõudu ainult ellujäämiseks — mitte palve formuleerimiseks. Lause „kui vajad abi, helista" võib tunduda abivalmis, aga tegelikult paneb koormuse haavatu peale.
+
+**Kata ja liigu** (täielik juhend: **Lisa Q** §4):
+
+1. **Näe** — ütle, mida märkad (*„Ma näen, et sul on raske"*).
+2. **Anna üks konkreetne samm** — mitte küsimuste voog (*„Homme kell 10 helistan. Sa ei pea vastama, kui ei jõua"*).
+3. **Anna lootus** — inimene peab teadma, et keegi tuleb (*„Ma tulen. Sa ei pea üksi võitlema"*).
+4. **Kriisis** — ära oota: **655 8088**, **116 123**, **112** vastavalt olukorrale.
+
+> *Lootus, et abi tuleb, on juba abi. See annab põhjuse elada, kuni professionaalne abi jõuab.*
+
+---
+
 ## Kust alustada abi otsimist
 
 ### Narko.ee — vestlus ja tugiliin

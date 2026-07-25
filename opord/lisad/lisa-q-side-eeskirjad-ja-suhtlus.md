@@ -183,7 +183,69 @@ Operatsioonis kasutame ingliskeelset mäluabi **GOTWA** (5 punkti). Iga kord, ku
 
 ---
 
-## 4. Võtmetegevus — demomehed (demonstraatorid)
+## 4. Kata ja liigu — miks „kui vajad abi, helista" ei tööta
+
+Sõjaväes on põhimõte **kata ja liigu** (*cover and move*): sa ei oota, kuni haavatu roomab sinu juurde ja formuleerib palve. Sa **näed haava**, **katad** ja **annad konkreetse käsu**. Lootus, et abi tuleb, on juba abi — inimene saab põhjuse ellu jääda ja võidelda, kuni meedik jõuab.
+
+Operatsioon „Peegel" võtab sama loogika tsiviilile: **haavatu ei küsi abi. Abi pakub see, kes näeb.**
+
+### Miks passiivne pakkumine ebaõnnestub
+
+| Lause, mida sageli öeldakse | Mida haavatu kuuleb |
+|-----------------------------|---------------------|
+| „Kui sul on vaja abi, helista mulle." | „Rooma minu juurde. Mõtle välja, mida sa vajad. Formuleeri see mulle. Alles siis aitan." |
+| „Ma olen siin, kui sa tahad rääkida." | „Oota, kuni suudad rääkida. Võitle veel üksi." |
+| „Sa tead, kuhu pöörduda." | „See on sinu probleem. Mina olen puhtad käed." |
+
+Haavatu inimesel on jõudu ainult **ellujäämiseks** — mitte abi küsimiseks, vajaduse sõnastamiseks ega usalduse taastamiseks ühe suure sammuga. Nõuda seda on **ebarealistlik** — ja trauma kontekstis võib see tunduda **vägivaldsena**: sa kohustad kedagi, kes on juba põhjas, tegema veel ühe võimatuna tunduva teo.
+
+> *Abi küsimine ei ole nõrkus. Aga see ei tohi olla **eeltingimus**, et abi üldse saabub.*
+
+Veteranide kogemus kinnitab: päev, mil inimene ütleb esimest korda *„I'm not okay"* — võib olla aastate töö tulemus. **Ära kiirusta vastama.** Realiseeri: need sõnad võtsid aastaid. Sama kehtib peres, depressioonis, pärast kriisi — mitte ainult sõjaväes.
+
+### Mida teha selle asemel — kata ja liigu
+
+Sa **näed** (spordikommentaator, Lisa P). Sa **ei oota palvet**. Sa annad **konkreetse, väikese sammu** ja **ajalise lootuse**.
+
+**Sõjaväe näide (Renee Aluste):**
+
+> „Pane **side** peale. Rooma vasakule seina taha varju. Ma saadan sulle meediku — **10 minuti pärast**."
+
+**Tsiviilne näide (partner, sõber, demomees):**
+
+> „Ma näen, et sul on raske. Ma ei küsi, et sa seda lahti seletaksid. **Homme kell 10 helistan.** Kui sa ei jõua vastata — ma helistan ikka. Sa ei pea midagi otsustama praegu."
+
+> „Ma kirjutan sulle ühe numbri: **655 8088**. Sa ei pea täna helistama. Aga see number on sinu taskus, kui keha ütleb, et on aeg."
+
+> „Ma tulen **neljapäeval kell 18** kohvikusse. Sa ei pea rääkima, kui ei taha. Ma istun. Sa valid."
+
+| ❌ Oota, kuni küsib | ✅ Kata ja liigu |
+|--------------------|-----------------|
+| „Helista, kui vaja" | „Ma tulen. Kell 19. Kas see sobib?" |
+| „Räägi mulle, mis vaja" | „Pane vesi kätte. Hinga. Ma olen siin 5 minutit vaikuses." |
+| „Sa pead ise abi otsima" | „Ma panen sulle numbrid kirja. Ma ei pea teadma, kas sa kasutad — aga need on olemas." |
+| Debatt, õpetamine, loogika | **Üks konkreetne samm** + **millal järgmine kontakt** (GOTWA loogika) |
+
+### Lootus on juba abi
+
+Kui inimene teab, et **keegi tuleb** — et ta ei pea partnerit alt vedama, et hing ei pea kehast lahkuma enne, kui abi jõuab — siis tal on **põhjus võidelda**. See ei asenda meedikut, psühholoogi ega Eluliini. See on **esimene side**, mis hoiab inimest elus kuni professionaalne abi saabub.
+
+> *„Sest lootus, et keegi tuleb ja aitab… ongi juba abi. Inimene saab põhjuse elamiseks ja võitlemiseks — et kui abi jõuab, ta ei ole oma partnerit alt vedanud ja vahepeal pole hing kehast lahkunud. **On mida aidata.**" — Renee Aluste (postitus, juuli 2026)*
+
+### Seos GOTWA ja Lisa P-ga
+
+| Tööriist | Kuidas kata ja liigu sellega ühtib |
+|----------|-----------------------------------|
+| **GOTWA** | Sa ei jäta inimest teadmatusse — annad aja, tegevuse, tagasituleku |
+| **Spordikommentaator** | Sa näed haava ilma, et nõuaksid kohe seletust |
+| **Valideerimine** | Sa ei ütle „pole nii hull" — sa tunnistad, et tal on raske, ja tegutsed |
+| **Hädaolukord** | Kui oht on äge — **112**, **655 8088**, **116 123**; sa ei oota, kuni inimene „palub" |
+
+**Demomehe reegel:** ära pane koormust haavatu peale. **Võta samm enda kanda.** Üks konkreetne tegu + üks ajaline lubadus > tuhat korda „ma olen olemas, kui vaja".
+
+---
+
+## 5. Võtmetegevus — demomehed (demonstraatorid)
 
 **Üksus Aluste_kool** demomehed hakkavad **igapäevases suhtluses** kasutama:
 
@@ -210,7 +272,7 @@ Operatsioonis kasutame ingliskeelset mäluabi **GOTWA** (5 punkti). Iga kord, ku
 
 ---
 
-## 5. Seos teiste lisadega
+## 6. Seos teiste lisadega
 
 | Lisa | Seos |
 |------|------|
@@ -221,7 +283,7 @@ Operatsioonis kasutame ingliskeelset mäluabi **GOTWA** (5 punkti). Iga kord, ku
 
 ---
 
-## 6. Kiirjuhend (üks lehekülg)
+## 7. Kiirjuhend (üks lehekülg)
 
 ```
 PÕHIREEGEL: Kohtle kõiki asjaosalisi nagu terveid, täiesti normaalseid inimesi
@@ -230,9 +292,10 @@ HÄÄL:    Põhi = mänguline | ALT = FM-DJ | Kontingents = selge | Häda = vaik
 KEEL:    Teietamine · austav keha · mitte üleolev
 LIIGUMINE: Enne iga uut kontakti → GOTWA (inglise keeles, 5 punkti)
 VESTLUS: Spordikommentaator (Lisa P) enne parandamist
+ABI:     Kata ja liigu — ära oota palvet; üks samm + ajaline lootus (§4)
 KRIIS:   Lisa H · 655 8088 · 116 123 · 116 006 · 112
 ```
 
 ---
 
-*Lisa Q — Side eeskirjad: kuidas me suhtleme. Operatsioon „Peegel". 23. juuli 2026.*
+*Lisa Q — Side eeskirjad: kuidas me suhtleme. Operatsioon „Peegel". Uuendatud 25. juuli 2026 (§4 kata ja liigu).*

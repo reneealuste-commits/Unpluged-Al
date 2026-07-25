@@ -22,7 +22,7 @@ SILDID = {
         "**\u00c4ra loe kui:** otsid kiiret kriisiabi \u2014 alusta Lisa H.\n",
     ),
     "lisa-q-side-eeskirjad-ja-suhtlus.md": (
-        "**Lugeja saab:** h\u00e4\u00e4le, GOTWA ja austava keele SOP.  \n",
+        "**Lugeja saab:** h\u00e4\u00e4le, GOTWA, kata ja liigu ning austava keele SOP.  \n",
         "**Loe seda kui:** suhtled iga p\u00e4ev inimestega (demomees).  \n",
         "**\u00c4ra loe kui:** pole veel Lisa P trauma-reeglit lugenud.\n",
     ),

@@ -15,7 +15,7 @@
 
 | Mis tundub sama | Tegelikult |
 |-----------------|------------|
-| Nimed eemaldatud plaanist (Karotamm jne) | **OPSEC / selgus** — keegi ei tohiks arvata, et nad on „ skeemi osad“ |
+| Volitamata nimed eemaldatud plaanist | **OPSEC / selgus** — keegi ei tohiks arvata, et nad on „skeemi osad“ |
 | Venekeelne info puudub | **Kanali lük** — ~300k inimest elab siin, aga neil pole sama üheselt kättesaadavat tuuma |
 
 **Järeldus:** Me ei „lõika neid ära“, kui eemaldame **volitamata nimesid** eestikeelsest tootest. Aga me **lõikame nad ära**, kui jätame venekeelse **vastuvõtja-orienteeritud** kanali loomata.

@@ -425,7 +425,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 ![Riho Ühtegi](images/profiles/riho-uhtegi.jpg)
 - **Roll operatsioonis:** Strateegiline eeskuju ja rahvuslik juhtimisvisioon; kandidaat presidendiametisse rahva teenimise mõttes.
 - **Taust:** Kindralmajor (res.). Endine Kaitseväe erioperatsioonide väejuhatuse ülem (2012–2019), kus ta lõi ja arendas Eesti erioperatsioonide võimekuse, mida hinnatakse kõrgelt NATO-s. Endine Kaitseliidu ülem (2019–2023). Kaitseliidu liige alates 1990. aastast; üks Kaitseliidu taasloomise tegijaid. Endine Luurepataljoni ülem, kaitseatašee Gruusias, missioon Afganistanis. Tallinna Ülikooli riigikaitseõpetaja.
-- **Miks ta on siin:** Riho on inimene, keda inimesed järgivad usalduse, mitte käsu pärast. Tema jaoks on riigikaitse alati tähendanud inimesi — mitte tankke, mitte paraade. Operatsioon „Peegel“ vajab juhti, kes mõistab, et võit toimub ka kodus, koolis ja peres.
+- **Miks ta on siin:** Riho on inimene, keda inimesed järgivad usalduse, mitte käsu pärast. Tema jaoks on riigikaitse alati tähendanud inimesi — mitte tankke, mitte paraade. Operatsioon „Peegel“ vajab juhti, kes mõistab, et võit toimub ka kodus, koolis ja peres. **Lisa BF** — *kuningas räägib rahvaga*: otse dialoog, mitte tornist.
 
 #### Rene Toomse — Riigi ja valitsuse tase
 

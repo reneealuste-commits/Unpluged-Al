@@ -37,6 +37,8 @@ Operatsiooni koordinaator Renee Aluste sõnastab minimaalse standardi:
 
 Me ei paranda katkist inimest. Me kohtleme igaüht — kodanikku, partnerit, skeptikut, demomeest — **nagu terve, täiesti normaalne inimene**. Inimene avastab, et ta **oli terviklik juba algusest**.
 
+> **Meeskonnale — me ei ole täiuslikud:** Marina Abramović *Rhythm 0* (1974) näitas, et kui inimest koheldakse objektina ja tagajärgi pole, ületavad **tavalised** inimesed moraalseid piire kiiresti. Kui inimene taas „seisma tõuseb", ei suuda paljud silma vaadata. Peegli reegel — näe tervet inimest, ära oota et ta palub — on kaitse nii haavatu kui ka meie endi vastu. Täielik lugu: **Lisa S §5b**.
+
 See täiendab Lisa P valideerimist. Valideerimine on **samm**. Paranemis-teadlikkus on **keskkond**.
 
 ### Pre-verbaalne reaktsioon: enne mõistust — keha

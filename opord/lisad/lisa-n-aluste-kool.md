@@ -42,6 +42,12 @@ Kasuta seda nimekirja iga päev — üks punkt või kõik viis:
 
 **Demomehe reegel:** kui checklist jäi täitmata — kirjuta üks lause, miks. Ausus enne perfektsust.
 
+### Meeskonnale — me ei ole täiuslikud inimesed
+
+Enne kui mõistad kedagi „nõrgaks" või „liiga tundlikuks", loe **Lisa S §5b** — Marina Abramović *Rhythm 0* (1974). Kuus tundi seisis ta liikumatult, kuni külastajad hakkasid teda haavama — sest ta oli muutunud **objektiks**, mitte inimeseks. Kui ta lõpuks liikus, ei suutnud paljud silma vaadata.
+
+**Õppetund meile:** ilma struktuurita (Lisa P, Lisa Q, kata ja liigu) võib igaüks meist eksida. Me ei eelda täiuslikkust — me ehitame **selguse** ja **nägemise**, et inimene jääks inimeseks.
+
 ---
 
 ## 3. Kohustuslikud allikad

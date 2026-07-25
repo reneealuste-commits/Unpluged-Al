@@ -31,6 +31,8 @@ See tähendab praktikas:
 
 Sa ei pea olema täiuslik. Sa pead olema teadlik. Operatsioon „Peegel" eesmärk on, et iga Eesti lapse elus on keegi, kes näitab, kuidas tugev inimene käitub raskusel.
 
+**Meeskonnale:** täiuslikkus ei ole realistlik eesmärk — inimloomus on habras. Marina Abramović *Rhythm 0* (1974) näitas, et tavalised inimesed võivad ületada moraalseid piire, kui keegi muutub objektiks (vt **Lisa S §5b**). Peegel õpetab **nägema** inimest enne, kui grupp unustab piirid.
+
 ---
 
 ## 2. peatükk — Isa, kes ei räägi, vaid teeb

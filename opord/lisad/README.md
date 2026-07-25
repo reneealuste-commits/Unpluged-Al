@@ -81,7 +81,7 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 
 **Koordinaator / kahtlus taustas:** Lisa R (CV, meedia tõendid) + [renee-aluste-profiil.md](renee-aluste-profiil.md).
 
-**Kiusamine ja trauma (miks inimesed käituvad nii):** Lisa S (*Imeline Teadus* 11/2023 + van der Kolk *Body Keeps the Score*).
+**Kiusamine ja trauma (miks inimesed käituvad nii):** Lisa S (*Imeline Teadus* + van der Kolk; **§5b Rhythm 0** — meeskonnale, inimene ei ole täiuslik).
 
 **Toitumine ja taastumine:** Lisa U + [TOITUMINE_UURIMUSTOO.pdf](../TOITUMINE_UURIMUSTOO.pdf) (Stefansson, Bellevue uuring).
 

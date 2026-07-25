@@ -188,6 +188,50 @@ LAHENDUS: turvalisus + keha + mõistus (Lisa P) + vastutus + uus juhtimisstiil (
 
 ---
 
+## 5b. Rhythm 0 — kui inimene muutub objektiks (meeskonnale)
+
+> *See lugu on meie meeskonnale — mitte kunstikriitika. See näitab, kui **ebaolulised** me inimesena ei ole täiuslikud — ja miks Peegli põhireegel on eluliselt tähtis.*
+
+**Marina Abramović**, *Rhythm 0* (Studio Morra, Napoli, 1974). Kuus tundi — kell 20–02 — seisis ta täiesti liikumatult. Laual **72 eset**: roos, leib, mesi, kaamera — aga ka nuga, piits, naelad, kettid ja **laetud püstol** ühe kuuliga. Silt ütles: külastajad võivad kasutada neid esemeid temal **ükskõik kuidas**; ta võtab täieliku vastutuse ja **ei vastu**.
+
+### Mis juhtus
+
+| Faas | Käitumine |
+|------|-----------|
+| **Algus** | Ettevaatlikkus — lilled, suudlused, õrnalt poseerimine |
+| **Tundide möödudes** | Inimesed mõistsid: **ta ei reageeri** |
+| **Edasi** | Riided lõigati maha, nahka lõigati žileti, okkad suruti kõhtu, sõnu kirjutati kehale |
+| **Äärmus** | Keegi surus laetud relva ta pea vastu — teine inimene sekkus |
+| **Kaitse** | Osa inimesi kattis teda; pinget **kahjustajate** ja **kaitsjate** vahel |
+| **Lõpp** | Kui kuus tundi said täis, hakkas Abramović liikuma publiku poole |
+| **Tagajärg** | Paljud, kes olid teda puudutanud või haavanud, **ei suutnud silma vaadata** ja lahkusid vaikselt |
+
+Performance muutus vähem temast endast — rohkem **avalikuks peegliks**: mis juhtub, kui inimest koheldakse **objektina**, mitte isikuna, ja kui tundub, et **tagajärgi ei ole**.
+
+### Mida Abramović õppis
+
+> *Kui jätad otsused täielikult „rahva" hooleks, ületavad inimesed moraalsed piirid **palju kiiremini**, kui oodata.*
+
+Täna uuritakse *Rhythm 0* mitte ainult kunstina — vaid **grupipsühholoogia**, empaatia ja **õrnkonna ja julmuse vahelise joone** näitena.
+
+### Mida see tähendab Operatsioonis „Peegel"
+
+| Rhythm 0 | Peegli vastus |
+|----------|---------------|
+| Inimene liikumatuna — „sa võid teha, mida tahad" | **Ära kohtle kedagi objektina** — mitte „case", mitte projekt, mitte tühi kanvas |
+| Kui tagajärgi pole, läheb grupp kaugele | **Struktuur:** Lisa P, Lisa Q, GOTWA — mitte „tee, mis tahad" |
+| Haavamine, kui keegi „ei vastu" | **Kata ja liigu** (Lisa Q §4) — haavatu ei pea paluma; sa **näed** ja **tegutsed** |
+| Kui ta hakkas liikuma — häbi ja põgenemine | Kui inimene **taas inimeseks** saab, ei saa teda enam ignoreerida — **nägemine** on kohustus |
+| „Tavalised" inimesed, mitte psühhopaadid | **Meie meeskond ei ole täiuslik.** Igaüks võib eksida — seetõttu reeglid, mitte lootus „hea tahte" peale |
+
+> *„**Kohtleme kõiki asjaosalisi nagu terveid, täiesti normaalseid inimesi.**" — see ei ole viisakus. See on **kaitse** nii haavatu kui ka meeskonna vastu.*
+
+**Demomeestele (Lisa N):** enne kui ütled „inimene peaks ise abi küsima" või „ta lihtsalt ei taha kuulata" — meenuta *Rhythm 0*. Kui keegi on kaua **külmutatud**, **üksildane** või **ilma hääleta**, võib tunduda, et talle ei tee midagi. **See on vale.** Osad inimesed toovad lilli. Teised — mitte. Meie töö on **näha tervet inimest** enne, kui grupp unustab piirid.
+
+**See ei süüdista kedagi.** See tunnistab: inimloomus on habras. Struktuur, austus ja **nägemine** hoiavad meid inimlikena.
+
+---
+
 ## 6. Seos Operatsioon „Peegel" tuumaga
 
 | OPORD põhimõte | Lisa S selgitus |
@@ -197,6 +241,7 @@ LAHENDUS: turvalisus + keha + mõistus (Lisa P) + vastutus + uus juhtimisstiil (
 | Renee oli kiusaja | Geenid + keskkond + hierarhia — **muster**, mitte „kurjuse gene" |
 | ATH sildid KV-s (Margus Lõoke tähelepanek) | Struktuur, uni, roll puudu; sümptom kustutatakse — **juurt ei vaadata** (vt OPORD MIKS RENEE) |
 | Lisa P — spordikommentaator | Keha enne mõistust; trauma vabaneb **nähtavaks saamisega** |
+| Lisa S §5b — *Rhythm 0* | Kui inimene = objekt, grupp ületab piire; meeskond ei ole täiuslik — struktuur kaitseb |
 | Lisa H, EMDR, ohvriabi | Professionaalne abi täiskasvanule, kelle kehas on endiselt skoor |
 
 ---
@@ -212,6 +257,7 @@ LAHENDUS: turvalisus + keha + mõistus (Lisa P) + vastutus + uus juhtimisstiil (
 | Lisa V | Uni — Walker *Why We Sleep*; uni puudus tugevdab mandeltuumareaktsiooni (ATH enne silti) |
 | EMDR | Kaitseväe Tugiteenuste keskus; ohvriabi.ee (kuni 940 € toetus) |
 | *Imeline Teadus* 11/2023 | Kiusamine, aju, teadlaste nõuanded (selle lisa põhiallikas) |
+| Marina Abramović — *Rhythm 0* (1974) | Lisa S §5b — grupikäitumine, objektistamine, empaatia (meeskonnale) |
 
 **Kriisis:** Eluliin **655 8088** · Kriisiabi **116 123** · Ohvriabi **116 006**
 

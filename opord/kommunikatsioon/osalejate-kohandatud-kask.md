@@ -20,6 +20,20 @@
 
 ---
 
+## Valikuline soovitus kõigile
+
+**Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“** (~1h 20 min, märts 2026) — Katrin Lucas + Ajuloputus.  
+Laste kaitse, närvisüsteem, ellujäämisrežiim. Mitte käsk — kutse avada silmad.
+
+| Kanal | Link |
+|-------|------|
+| Acast | [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) |
+| Apple Podcasts | [https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) |
+| YouTube | [@AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS) — otsi „Maatriksi Lapsed“ |
+| Täpsem lisa | `kommunikatsioon/soovitus-maatriksi-lapsed.md` |
+
+---
+
 ## 1. Remo Ojaste
 
 | | |
@@ -49,6 +63,11 @@ Mänguline hääl (Lisa Q). GOTWA enne koosolekut. Ära saada masspostina — is
 > Jagame sulle Operatsioon „Peegel“ materjali — mitte käsk, vaid paranemis-teekond. Sinu roll: **Äri/taktika juht**.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
+>
+> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
+> Juhi vaatenurgast: kaitse enne tulemust. Kui keegi on ellujäämisrežiimis, ta ei näe plaani (Lisa AT).  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >
@@ -86,6 +105,11 @@ FM-DJ hääl rahustamisel. Valideeri enne loogikat. Spordikommentaator.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
 >
+> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
+> Juhi vaatenurgast: kaitse enne tulemust. Kui keegi on ellujäämisrežiimis, ta ei näe plaani (Lisa AT).  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
+>
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >
 > Renee Aluste
@@ -121,6 +145,11 @@ Mänguline, soe. Lapsed = turvalisus enne sisu. Ära suru.
 > Jagame sulle Operatsioon „Peegel“ materjali — mitte käsk, vaid paranemis-teekond. Sinu roll: **Noorte- ja peretasandi juht**.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
+>
+> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
+> Kui su roll on laste ja pere kaitse — see episood on sinu jaoks esimene valikuline kuulamine enne PEEGEL_TEE_C-d.  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >
@@ -158,6 +187,11 @@ Rahulik FM-DJ. Kuula ilma parandamiseta. Konfidentsiaalsus.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
 >
+> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
+> Juhi vaatenurgast: kaitse enne tulemust. Kui keegi on ellujäämisrežiimis, ta ei näe plaani (Lisa AT).  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
+>
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >
 > Renee Aluste
@@ -194,6 +228,11 @@ Austav keel (teietamine). Ametlik toon. Ei propaganda.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
 >
+> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
+> Juhi vaatenurgast: kaitse enne tulemust. Kui keegi on ellujäämisrežiimis, ta ei näe plaani (Lisa AT).  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
+>
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >
 > Renee Aluste
@@ -229,6 +268,11 @@ Professionaalne, faktipõhine. Ära välju kontekstist.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
 >
+> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
+> Valikuline teadlikkuse kanal — sobib neile, kes tahavad sügavamat konteksti enne OPORD-i.  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
+>
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >
 > Renee Aluste
@@ -263,6 +307,11 @@ Mänguline hääl väljas, mitte sarkasm haava peal.
 > Jagame sulle Operatsioon „Peegel“ materjali — mitte käsk, vaid paranemis-teekond. Sinu roll: **Turundus / kogukond**.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
+>
+> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
+> Valikuline teadlikkuse kanal — sobib neile, kes tahavad sügavamat konteksti enne OPORD-i.  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >
@@ -300,6 +349,11 @@ Austav, struktureeritud. Lühikesed laused kriisis.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
 >
+> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
+> Juhi vaatenurgast: kaitse enne tulemust. Kui keegi on ellujäämisrežiimis, ta ei näe plaani (Lisa AT).  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
+>
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >
 > Renee Aluste
@@ -334,6 +388,11 @@ Selge, assertiivne kui vaja. Mitte dominants.
 > Jagame sulle Operatsioon „Peegel“ materjali — mitte käsk, vaid paranemis-teekond. Sinu roll: **Õppeosakonna ülem**.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
+>
+> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
+> Juhi vaatenurgast: kaitse enne tulemust. Kui keegi on ellujäämisrežiimis, ta ei näe plaani (Lisa AT).  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >
@@ -371,6 +430,11 @@ Turvalisus enne loogikat. Ei süüdista vanemaid.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
 >
+> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
+> Kui su roll on laste ja pere kaitse — see episood on sinu jaoks esimene valikuline kuulamine enne PEEGEL_TEE_C-d.  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
+>
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >
 > Renee Aluste
@@ -405,6 +469,11 @@ Austav, aeglane tempo. Laps-keskne keel.
 > Jagame sulle Operatsioon „Peegel“ materjali — mitte käsk, vaid paranemis-teekond. Sinu roll: **Kooli juhataja**.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
+>
+> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
+> Kui su roll on laste ja pere kaitse — see episood on sinu jaoks esimene valikuline kuulamine enne PEEGEL_TEE_C-d.  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >
@@ -442,6 +511,11 @@ Soe, mitte survav. Vabatahtlikkus.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
 >
+> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
+> Kui su roll on laste ja pere kaitse — see episood on sinu jaoks esimene valikuline kuulamine enne PEEGEL_TEE_C-d.  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
+>
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >
 > Renee Aluste
@@ -476,6 +550,11 @@ Rahulik, austav. Laps ei ole projekt.
 > Jagame sulle Operatsioon „Peegel“ materjali — mitte käsk, vaid paranemis-teekond. Sinu roll: **AMI juhendaja**.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
+>
+> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
+> Kui su roll on laste ja pere kaitse — see episood on sinu jaoks esimene valikuline kuulamine enne PEEGEL_TEE_C-d.  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >
@@ -512,6 +591,11 @@ Aus, soe. Mitte tabu murdmine ilma turvalisuseta.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
 >
+> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
+> Kui su roll on laste ja pere kaitse — see episood on sinu jaoks esimene valikuline kuulamine enne PEEGEL_TEE_C-d.  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
+>
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >
 > Renee Aluste
@@ -546,6 +630,11 @@ Professionaalne konfidentsiaalsus. Valideerimine.
 > Jagame sulle Operatsioon „Peegel“ materjali — mitte käsk, vaid paranemis-teekond. Sinu roll: **Koordinaator**.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
+>
+> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
+> Kui oled ise ellujäämisrežiimis — episood aitab mõista, miks lapsed (ja sina) vajavad kõigepealt turvalisust, mitte loogikat.  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >
@@ -582,6 +671,11 @@ Aus, mitte üleolev. Keha enne mõistust.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
 >
+> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
+> Kui oled ise ellujäämisrežiimis — episood aitab mõista, miks lapsed (ja sina) vajavad kõigepealt turvalisust, mitte loogikat.  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
+>
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >
 > Renee Aluste
@@ -617,6 +711,11 @@ Rahulik, kriitiline. Austa autonoomiat. Lisa P teiste suhtes.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
 >
+> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
+> Valikuline teadlikkuse kanal — sobib neile, kes tahavad sügavamat konteksti enne OPORD-i.  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
+>
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >
 > Renee Aluste
@@ -651,6 +750,11 @@ Asjatundlik, praktiline. Lisa Q austav keel. Mitte masspostitus.
 > Jagame sulle Operatsioon „Peegel“ materjali — mitte käsk, vaid paranemis-teekond. Sinu roll: **Praktiline demonstraator**.
 >
 > Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
+>
+> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
+> Valikuline teadlikkuse kanal — sobib neile, kes tahavad sügavamat konteksti enne OPORD-i.  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
 >

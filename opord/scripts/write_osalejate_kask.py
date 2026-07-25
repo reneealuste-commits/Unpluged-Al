@@ -9,7 +9,7 @@ CSV_FILE = OUT_DIR / "osalejate-emailid.csv"
 KASK_FILE = OUT_DIR / "osalejate-kohandatud-kask.md"
 KIRJAD_DIR = OUT_DIR / "kirjad"
 
-# Each entry: name, email, org, roll, eesmark, ulesanded (list), kaitumine, pakett, kanal, märkus
+# Each entry: name, email, org, roll, eesmark, ulesanded (list), kaitumine, pakett, kanal, mÃ¤rkus
 PARTICIPANTS = [
     {
         "name": "Remo Ojaste",
@@ -350,6 +350,76 @@ NO_EMAIL = [
     ("Margus L\u00f5oke", "KV mustri tunnistaja", "Isiklik kontakt Renee", "Lisa K \u00a73.2b"),
 ]
 
+PODCAST_TITLE = "Ava Oma Silmad & Ajuloputus S4 #10 \u2014 \u201eMaatriksi Lapsed\u201c"
+PODCAST_ACAST = (
+    "https://shows.acast.com/avaomasilmad/episodes/"
+    "ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm"
+)
+PODCAST_APPLE = "https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084"
+PODCAST_YOUTUBE = "https://www.youtube.com/@AJULOPUTUS"
+PODCAST_REF = "kommunikatsioon/soovitus-maatriksi-lapsed.md"
+
+PODCAST_HOOK = {
+    "PERE": (
+        "Kui su roll on laste ja pere kaitse \u2014 see episood on sinu jaoks "
+        "esimene valikuline kuulamine enne PEEGEL_TEE_C-d."
+    ),
+    "KRIIS": (
+        "Kui oled ise elluj\u00e4\u00e4misre\u017eiimis \u2014 episood aitab m\u00f5ista, "
+        "miks lapsed (ja sina) vajavad k\u00f5igepealt turvalisust, mitte loogikat."
+    ),
+    "JUHT": (
+        "Juhi vaatenurgast: kaitse enne tulemust. Kui keegi on elluj\u00e4\u00e4misre\u017eiimis, "
+        "ta ei n\u00e4e plaani (Lisa AT)."
+    ),
+    "DEFAULT": (
+        "Valikuline teadlikkuse kanal \u2014 sobib neile, kes tahavad s\u00fcgavamat "
+        "konteksti enne OPORD-i."
+    ),
+}
+
+
+def _podcast_angle(pakett: str) -> str:
+    p = pakett.upper()
+    if "PERE" in p or "C-PERE" in p:
+        return PODCAST_HOOK["PERE"]
+    if "KRIIS" in p or "A-KRIIS" in p:
+        return PODCAST_HOOK["KRIIS"]
+    if "JUHT" in p or "F-JUHT" in p:
+        return PODCAST_HOOK["JUHT"]
+    return PODCAST_HOOK["DEFAULT"]
+
+
+def podcast_email_block(pakett: str) -> str:
+    """Inviting podcast snippet for kask e-mails (plain text)."""
+    hook = _podcast_angle(pakett)
+    return (
+        f"\nEnne kui materjaliga edasi l\u00e4hed \u2014 \u00fcks valikuline soovitus (~1h 20 min):\n\n"
+        f"KUULA: {PODCAST_TITLE}\n\n"
+        f"{hook}\n\n"
+        "Kus s\u00fcsteem tabab k\u00f5ige enne lapsi \u2014 ja miks t\u00e4iskasvanud "
+        "elluj\u00e4\u00e4misre\u017eiimis ei m\u00e4rka seda. Turvalisus. Kohalolu. Kaitse. "
+        "Extreme Ownershipi vaimus: mitte ainult s\u00fc\u00fcdistada s\u00fcsteemi, vaid n\u00e4ha, "
+        "kus sina saad ise muutust luua \u2014 pere, meeskonna v\u00f5i enda sees.\n\n"
+        f"Kuula: {PODCAST_ACAST}\n"
+        f"Apple Podcasts: {PODCAST_APPLE}\n"
+        f"YouTube (video, AJULOPUTUS kanal): {PODCAST_YOUTUBE} \u2014 otsi \u201eMaatriksi Lapsed\u201c\n\n"
+        "See ei ole k\u00e4sk. See on kutse avada silmad ja valida ise.\n"
+    )
+
+
+def podcast_markdown_block(pakett: str) -> str:
+    """Shorter blockquote variant for osalejate-kohandatud-kask.md."""
+    hook = _podcast_angle(pakett)
+    return (
+        f"> **Valikuline kuulamine (~1h 20 min):** {PODCAST_TITLE}  \n"
+        f"> {hook}  \n"
+        f"> Kuula: [{PODCAST_ACAST}]({PODCAST_ACAST}) \u00b7 "
+        f"[Apple Podcasts]({PODCAST_APPLE}) \u00b7 "
+        f"[YouTube @AJULOPUTUS]({PODCAST_YOUTUBE})  \n"
+        f"> T\u00e4psem kokkuv\u00f5te: `{PODCAST_REF}`\n>\n"
+    )
+
 
 def write_csv():
     rows = []
@@ -426,6 +496,15 @@ def write_kask_md():
         f"| Email CSV-s kokku | vaata `osalejate-emailid.csv` |\n",
         f"| Email puudub (vaja otsida) | {len(NO_EMAIL)} |\n\n",
         "---\n\n",
+        "## Valikuline soovitus k\u00f5igile\n\n",
+        f"**{PODCAST_TITLE}** (~1h 20 min, m\u00e4rts 2026) \u2014 Katrin Lucas + Ajuloputus.  \n",
+        "Laste kaitse, n\u00e4rvis\u00fcsteem, elluj\u00e4\u00e4misre\u017eiim. Mitte k\u00e4sk \u2014 kutse avada silmad.\n\n",
+        f"| Kanal | Link |\n|-------|------|\n",
+        f"| Acast | [{PODCAST_ACAST}]({PODCAST_ACAST}) |\n",
+        f"| Apple Podcasts | [{PODCAST_APPLE}]({PODCAST_APPLE}) |\n",
+        f"| YouTube | [@AJULOPUTUS]({PODCAST_YOUTUBE}) \u2014 otsi \u201eMaatriksi Lapsed\u201c |\n",
+        f"| T\u00e4psem lisa | `{PODCAST_REF}` |\n\n",
+        "---\n\n",
     ]
     for i, p in enumerate(PARTICIPANTS, 1):
         lines.append(f"## {i}. {p['name']}\n\n")
@@ -450,6 +529,9 @@ def write_kask_md():
             f"> Jagame sulle Operatsioon \u201ePeegel\u201c materjali \u2014 mitte k\u00e4sk, vaid paranemis-teekond. "
             f"Sinu roll: **{p['roll'].split(';')[0]}**.\n>\n"
             f"> Isiklik link: [PEEGEL_TUUM / vastav tee PDF]\n>\n"
+        )
+        lines.append(podcast_markdown_block(p["pakett"]))
+        lines.append(
             f"> Kui soovid mitte osaleda \u2014 \u00fcks lause piisab. Austan seda.\n>\n"
             f"> Renee Aluste\n\n"
         )
@@ -494,9 +576,10 @@ def write_individual_letters():
         body.append("Konkreetselt sinult:\n")
         for u in p["ulesanded"]:
             body.append(f"- {u}\n")
+        body.append(f"\nMaterjal: [lisa isiklik link \u2014 {p['pakett']}]\n")
+        body.append(podcast_email_block(p["pakett"]))
         body.append(
-            f"\nMaterjal: [lisa isiklik link \u2014 {p['pakett']}]\n\n"
-            "Kui sa ei soovi osaleda v\u00f5i soovid nime eemaldada \u2014 "
+            "\nKui sa ei soovi osaleda v\u00f5i soovid nime eemaldada \u2014 "
             "\u00fcks lause piisab. T\u00e4nan aususe eest.\n\n"
             "Renee Aluste\n"
             "Operatsiooni koordinaator\n"

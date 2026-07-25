@@ -22,10 +22,27 @@ See siin ei ole käsk. See on kutse **kriitiliselt mõelda** — uurida, kaaluda
 | Järgi käsku | Kaalu — iga keha on erinev |
 | Võta vastu ilma uurimata | Uuri enne otsust |
 | Lõpeta elu surve all | **Naudi seda, mis on veel võimalik** |
+| Usu oma esimest mõtet | **Usu keha** — keha ei valeta; aju võib (Lisa AW) |
 
 > *„**Paranemine algab sellel hetkel, kui sa mõistad, et sa pole katki olnudki.**“ — Renee Aluste*
 
 > *„**Kohtleme kõiki asjaosalisi nagu terveid, täiesti normaalseid inimesi.**“*
+
+---
+
+## Esimene samm — ära usu oma aju
+
+Enne kui loed edasi: **ära usu automaatset mõtet.** Su aju on aastaid täidetud algoritmide, võõrkeelse sisu ja võõraste narratiividega — see ei pruugi olla sinu hääl.
+
+| Ära usu | Usu selle asemel |
+|---------|------------------|
+| Esimest mõtet („ma tean", „ta mõtles") | **Keha signaali** — pingutus, hingamine, kõht |
+| Tunnet, et „see on fakt" | Küsimust: *mis mul kehas toimub?* |
+| Voogu, mis triggerdab | Pausi — 4 sek sisse, 6 sek välja |
+
+> *„**Keha ei valeta. Aju võib** — eriti kui see on täis võõrast müra."*
+
+Täielik alus: **Lisa AW** (Kahneman + keha enne mõistust) · **Lisa P** (turvalisus → keha → mõistus)
 
 ---
 
@@ -101,6 +118,7 @@ See ei sündi teooriast — see sündis sellest, et **tulemused räägivad iseen
 | Pere ja isa | Tugeva Isa seeria A–G |
 | Suhtlus | GOTWA, hääl, austav keel (Lisa Q) |
 | Kriitiline mõtlemine | Ära usu — uuri (see dokument) |
+| Aju vs keha | Ära usu oma aju — usu keha (Lisa AW) |
 
 **Täielik audit:** Lisa AP — skoor **8,2/10** (Lisa AT lihtsuse audit, 25.07.2026).
 

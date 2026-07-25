@@ -51,6 +51,8 @@ Inimene kaitsepositsioonis ei reageeri esmalt loogikaga. Ta reageerib **pre-verb
 
 > *Sa ei saa alguses rääkida mõistusega. Sa saad alguses rääkida ainult kehaga.*
 
+**Esimene samm (Lisa AW):** **ära usu oma aju** — eriti esimest mõtet. Aju on täis algoritme, võõrkeelset sisu ja võõraid narratiive, mida sa ise ei valinud. **Usu keha.** Pingutus, hingamine, kõht — need ei valeta. Alles kui keha on rahul, on mõistuse hääl usaldusväärsem.
+
 | Vale järjekord | Õige järjekord |
 |----------------|----------------|
 | Loogika → argument → „sa eksid" | **Turvalisus** → keha rahunemine → alles siis mõistus |

@@ -32,7 +32,7 @@
 
 ## OPERATSIOONI PÕHIMÕTE — LOE ENNE KÕIKE MUU
 
-> *🫡 **Ära usu mind. Kaitse eelkõige oma uskumusi ja veendumusi.**  
+> *🫡 **Ära usu mind. Ära usu oma aju.** Kaitse eelkõige oma uskumusi ja veendumusi — ja tea, et automaatne mõte võib olla algoritmi, mitte sinu. **Usu keha.** Keha ei valeta.*  
 > See siin ei ole käsk täita. See on kutse **kriitiliselt mõelda** — uurida, kaaluda, valida ise.  
 > Sa ei saa mulle oma argumendiga peale lennata, kui sa pole tutvunud kogu olemasoleva infoga, mis on siin kokku pandud. **Tee kõik uuringud. Vaata fakte.***
 
@@ -43,6 +43,7 @@
 | Usu ühte inimest või ühte kanalit | Loe allikaid, küsi vastu, kontrolli |
 | Järgi käsku ilma mõtlemata | Kaalu — iga inimene, iga keha, iga olukord on erinev |
 | Võta vastu ilma uurimata | Uuri enne otsust — toit, uni, stress, intiimsus, seadus |
+| Usu oma esimest mõtet | **Usu keha** — keha ei valeta; aju on täis algoritme ja võõrast müra (Lisa AW) |
 | Lõpeta elu surve all | **Naudi seda, mis on veel võimalik** — tervis, lähedus, keha, mõistmine |
 
 ### Lugejateed — alusta õigest kohast (Lisa AP)
@@ -295,6 +296,7 @@ Täielik ahel: **Lisa S** (miks) → **Lisa V** (uni) → **Lisa AW** (aju, otsu
 | **Terve ja normaalne** | Iga asjaosaline on **terve, täiesti normaalne inimene** — enne kui ta on „probleem", „ohver" või „juhtum" |
 | **Turvalisus** | Füüsiline ja emotsionaalne — inimene ei pea kaitsepositsioonis vestlema |
 | **Keha enne mõistust** | Inimene reageerib **pre-verbaalselt** (van der Kolk) — alguses räägid kehaga, mitte loogikaga |
+| **Ära usu oma aju** | Automaatne mõte on sisse ehitatud (algoritmid, võõrkeelne sisu, narratiivid) — **keha ei valeta** (Lisa AW) |
 | **Mõistmine** | Kuulamine enne õpetamist; valideerimine enne lahendust (Lisa P) |
 | **Paranemis-teadlikkus** | Arvestada keha-mälu, triggerite ja kaitse võimalust — **ilma sildistamata inimest katkiseks** |
 | **Lisa P § KRIITILINE** | Trauma = teistsugune reaalsus; koera metafoor; Cooperi teadlikkus; **ära feedi haukumist** |

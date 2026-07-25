@@ -35,6 +35,55 @@ See lisa **ei kopeeri raamatut**. See avab silmad: miks kelnerilauas üks lause v
 
 ---
 
+## 0. Esimene samm — ära usu oma aju. Usu keha.
+
+> *See on kõige olulisem reegel. Enne Kahnemani. Enne Steigerit. Enne kõike.*
+
+Inimene ütleb: *„Ma tean, mis mul vaja on. Ma tean, mida ta mõtles. Ma tean, et see on õige."*
+
+**Peegel ütleb: ära usu seda häält — see ei pruugi olla sinu.**
+
+Su aju on aastaid **treenitud** asjadele, mida sa ise ei valinud:
+
+| Mis sinna läks | Kuidas see mõjutab |
+|----------------|-------------------|
+| **Algoritmid** (TikTok, uudised, voog) | Hirm, viha, paanika tunduvad „loomulikud" |
+| **Võõrkeelne sisu** | Narratiivid, mis ei ole sinu kogemus — aga tunduvad tuttavad |
+| **Võõrad lood** (reklaam, poliitika, draama) | Aju täidab lüngad **valmis mallidega** |
+| **Stress, uni puudus, trauma** | System 1 võtab juhtimise — ja sa usud seda |
+
+See ei tähenda, et aju on „halb". See tähendab: **automaatne mõte on sisse ehitatud** — nagu operatsioonisüsteem, millele keegi teine installis rakendusi.
+
+**Keha ei valeta.** Keha räägib **enne** mõtet:
+
+| Keha ütleb | Mida see tähendab |
+|------------|-------------------|
+| Kõht on pinges | Midagi on valesti — oht, hirm, vale olukord |
+| Hingamine on pinnal | Närvisüsteem ei ole rahul |
+| Kael on kivine | Kaitsepositsioon — mitte „nõrkus" |
+| Väsimus, tühjus | Keha küsib pausi — mitte uut informatsiooni |
+| Rahulik hingamine, soe rind | Turvaline — alles siis on mõistus usaldusväärne |
+
+```
+   VALE JÄRJEKORD (enamik inimesi):
+   Aju lugu ? emotsioon ? tegu ? „ma teadsin"
+
+   PEEGELI JÄRJEKORD:
+   Keha signaal ? paus ? küsimus ? alles siis mõte
+```
+
+### Praktiline reegel
+
+1. **Ära usu esimest mõtet.** See on System 1 + algoritm + võõras sisu.
+2. **Küsi kehalt:** *Mis mul kehas toimub praegu?*
+3. **Alles siis** mõtle, räägi, otsusta.
+
+> *„**Keha ei valeta. Aju võib — eriti kui see on täis võõrast müra.**"*
+
+**Seos:** van der Kolk (Lisa P, S) — turvalisus ? **keha** ? mõistus. Kahneman — System 1 on kiire ja ekslik. Raamat 01 — algoritmid. Lisa AU — infosõda.
+
+---
+
 ## 1. Kaks süsteemi — kuidas aju töötab
 
 Kahneman kasutab metafoori (mitte päris ajuosad, vaid **mõtlemise reiimid**):
@@ -344,6 +393,8 @@ Kahneman ei anna „5 lihtsat sammu". Ta annab **teadlikkuse**. Peegel lisab prakt
 ---
 
 ## 9. Üks lause, mida võid jagada
+
+> **„Ära usu oma aju — see on täis algoritme ja võõrast müra. Usu keha. Keha ei valeta."**
 
 > **„Sa ei kuulnud valesti — su aju lõpetas lause ära enne, kui teine jõudis lõpuni. Küsi: mida ma sõna-sõnalt ütlesin?"**
 

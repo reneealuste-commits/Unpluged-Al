@@ -55,7 +55,22 @@ Sa ei pea lugema kõike. Vali **üks tee** oma olukorra jaoks:
 | **E** Venekeelne | RU kodanik Eestis | `kiht0-ru-tuum-1-leht.md` → Lisa **AN** |
 | **F** Juht / koolitus | KV, kool, organisatsioon | Lisa **I** → **P** → **L** |
 
-Täielik SWOT ja lugeja-audit: **Lisa AP**. Auditi skoor (2026-07-24): **7,8/10** — valmis piiratud levituseks (K0 TUUM + tee PDF-id). Skeem: **Lisa AQ**.
+Täielik SWOT ja lugeja-audit: **Lisa AP**. Auditi skoor (2026-07-25): **8,2/10** — valmis piiratud levituseks (K0 TUUM + tee PDF-id). Skeem: **Lisa AQ**. **Kui kinni jäid:** **Lisa AT**.
+
+### LIHTSUS — läbib kogu operatsiooni
+
+> *„**Kui meeskond ei tea plaani, siis nad ei saa ju seda täita!**"*
+
+Iga lugeja, demomees ja partner peab teadma **üks järgmine samm** — mitte kogu võrgustikku korraga.
+
+| Reegel | Praktikas |
+|--------|-----------|
+| **Üks plaan** | Vali tee A–F või Lisa AT otsuspuu |
+| **Üks tegu täna** | TUUM või Lisa M — mitte kogu OPORD |
+| **Üks tõde korraga** | Üks lisa, üks vestlus, üks samm |
+| **K2 ainult kui küsib** | Täielik PDF on vabatahtlik (Lisa AJ) |
+
+**Kui kinni jäid:** ava **Lisa AT** — 10-realine otsuspuu. Ära loe seda dokumenti lõpuni korraga.
 
 **Elu naudingud on seotud teadmisega.** Kui sa mõistad, kuidas su keha töötab — uni, toit, hormoonid, närvisüsteem, stress — saad teha **paremaid otsuseid enda kohta**. See kehtib ka intiimsuse kohta: **teil kõigil on parem ja nauditavam seksuaalelu, kui teil on info, kuidas keha toimib.**
 
@@ -1332,6 +1347,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 - **Vaktsineerimine:** Lisa O — `lisad/lisa-o-vaktsineerimine.md` (uuringud, ühiskond, konspiratsioonid, aus hinnang)
 - **Takistused ja valideerimine:** Lisa P — `lisad/lisa-p-takistused-ja-valideerimine.md` (spordikommentaator, **KRIITILINE REEGEL: trauma ja koostöö**, Cooper, van der Kolk)
 - **Side eeskirjad:** Lisa Q — `lisad/lisa-q-side-eeskirjad-ja-suhtlus.md` (hääl, GOTWA, austav keel, **kata ja liigu**, demomeeste igapäevane standard)
+- **LIHTSUS / kui kinni jäid:** Lisa AT — `lisad/lisa-at-lihtsus-kui-kinni-jaid.md` (otsuspuu, üks järgmine samm)
 - **Kes ma olen (kahtlus / taust):** Lisa R — `lisad/lisa-r-kes-ma-olen-ja-taust.md` (CV, teenistus, koolitused, meedia tõendid)
 - **Valitsuse hetke-analüüs:** Lisa T — `lisad/lisa-t-valitsuse-ipb-analuus.md` (Ranger Handbook, KPI, 13 ministrit, show me the money)
 - **Rasv, Bellevue uuring, avatud meel:** Lisa U — `lisad/lisa-u-rasv-avatud-meele-uuring.md` (PDF allalaadimised, Drive'i kaust, küsimused endale)
@@ -2530,6 +2546,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **AO** | — | `lisad/lisa-ao-ultimate-power-kokkuvote.md` | **Ultimate Power kokkuvõte** — Buffalmano, Peegli filter, demomehe tööriistakast |
 | **AP** | — | `lisad/lisa-ap-swot-ja-lugeja-audit.md` | **SWOT ja lugeja-audit** — lugejale orienteeritud, teed A–F, 10-punkti audit |
 | **AR** | — | `lisad/lisa-ar-vooglaid-ja-paal-demonstraatorid.md` | **Vooglaid ja Paal** — demonstraatorid, kodaniku mõte |
+| **AT** | — | `lisad/lisa-at-lihtsus-kui-kinni-jaid.md` | **LIHTSUS** — kui kinni jäid, otsuspuu, üks järgmine samm |
 | **AQ** | — | `lisad/lisa-aq-sidepakkide-jaotus-skeem.md` | **Sidepakkide jaotus** — K0–K3 kihtide arhitektuur, paketid P0–P3, kanalid, levitamise reeglid |
 | — | — | `lisad/kiht0-ru-tuum-1-leht.md` | **Kiht 0 RU** — 1 lk venekeelne tuum (Lisa AN) |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |

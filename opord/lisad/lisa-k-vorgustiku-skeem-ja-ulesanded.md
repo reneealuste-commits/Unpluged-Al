@@ -10,6 +10,8 @@
 
 **Lisa K struktuur:** iga osalise juures on **roll**, **eesmärk** ja **konkreetsed ülesanded** — mitte ainult nimi nimekirjas.
 
+> **LIHTSUS:** Sa ei pea kedagi siin tundma, et alustada. Alusta **PEEGEL_TUUM.pdf** või **Lisa AT**. See nimekiri on võrgustikule — mitte esimese lugemise kohaks.
+
 ## 1. Täielik organisatsiooniskeem
 
 ```

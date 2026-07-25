@@ -165,4 +165,15 @@ See ei ole küsimus ega kutse liituda. See on lihtsalt märk, et keegi **nägi**
 
 ---
 
-*Lisa AQ — Operatsioon „Peegel“. Sidepakkide jaotus skeem. 2026-07-24.*
+## 10. Järgmine samm (LIHTSUS)
+
+| Sa oled | Tee kohe |
+|---------|----------|
+| **Lugeja** | Võta ainult **P0-TUUM** — ära anna K2 |
+| **Demomees** | Anna P0 → oota küsimist → siis P1 |
+| **Kinni jäid** | Lisa **AT** rida #9 |
+| **Koordinaator** | Üks pakett · üks kanal · üks inimene korraga |
+
+---
+
+*Lisa AQ — Operatsioon „Peegel“. Uuendatud 25. juuli 2026 (Lisa AT).*

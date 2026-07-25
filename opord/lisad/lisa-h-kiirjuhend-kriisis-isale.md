@@ -202,4 +202,15 @@ Kriisis loe **mitte** järjekorras 1→7. Alusta siit:
 
 ---
 
+## Järgmine samm (LIHTSUS)
+
+| Lõpetasid siin | Ava järgmisena |
+|----------------|----------------|
+| Lisa H (kiirabi) | raamat **F** (*Murra ring*) → Lisa **P** |
+| Tahad struktuuri | **PEEGEL_TEE_A.pdf** või Lisa **AT** |
+| Aitad kedagi teist | Lisa **Q** §4 (kata ja liigu) → Lisa **P** |
+| Kinni jäid / upud | **Lisa AT** — vali üks rida, tee see |
+
+---
+
 *Eesti isadele. Avalik — jagamine lubatud.*

@@ -64,7 +64,12 @@ SILDID = {
     "lisa-ap-swot-ja-lugeja-audit.md": (
         "**Lugeja saab:** SWOT ja 10-punkti auditi tulemuse.  \n",
         "**Loe seda kui:** tahad n\u00e4ha, kas materjal on valmis levitamiseks.  \n",
-        "**\u00c4ra loe kui:** otsid praktilist igap\u00e4evategu.\n",
+        "**\u00c4ra loe kui:** otsid praktilist igap\u00e4evategu \u2014 alusta Lisa AT.\n",
+    ),
+    "lisa-at-lihtsus-kui-kinni-jaid.md": (
+        "**Lugeja saab:** \u00fche otsuspuu \u2014 mida teha, kui ei tea edasi minna.  \n",
+        "**Loe seda kui:** oled \u00fclekoormatud v\u00f5i segaduses.  \n",
+        "**\u00c4ra loe kui:** tead juba oma tee (A\u2013F).\n",
     ),
     "kiht0-ru-tuum-1-leht.md": (
         "**Lugeja saab:** 1-lehek\u00fcljeline venekeelne tuum.  \n",

@@ -137,6 +137,16 @@ Esimene kontakt alati: **`PEEGEL_TUUM.pdf`** (K0). Skeem: **Lisa AQ**.
 
 **Kokku: 6,9/10 → 7,8/10** — valmis **piiratud levituseks** demomeestele (P0-TUUM + tee PDF). Mass enne 100 demomehe tagasisidet.
 
+### Lihtsuse audit (2026-07-25) — Lisa AT
+
+| Valdkond | Enne | Pärast |
+|----------|------|--------|
+| Lihtsus / lugejateed | 8/10 | **9/10** |
+| «Kui kinni jäid» katvus | 4/10 | **9/10** |
+| **Kokku** | 7,8/10 | **8,2/10** |
+
+**Parandused:** Lisa **AT** (otsuspuu) · PEEGEL_TUUM LIHTSUS-plokk · OPORD lihtsuse reegel · järgmine samm plokid H, N, Q, P, I, M, AD, AQ.
+
 ---
 
 ## 7. Järgmised ettepanekud
@@ -145,8 +155,19 @@ Esimene kontakt alati: **`PEEGEL_TUUM.pdf`** (K0). Skeem: **Lisa AQ**.
 2. 100 demomehe pilot P0-TUUM  
 3. Heli kinnitus RU kanal  
 4. Huber vastus enne Steigeri RU tekstis  
-5. Tagasiside 30 päeva pärast — uuenda audit
+5. Tagasiside 30 päeva pärast — uuenda audit  
+6. Lisa AT trükk demomehe taskusse (P0 kaasas)
 
 ---
 
-*Lisa AP — Operatsioon „Peegel“. SWOT ja audit lugeja kesksest põhimõttest. 2026-07-24.*
+## 8. Järgmine samm (LIHTSUS)
+
+| Lõpetasid auditit | Tee |
+|-------------------|-----|
+| Skoor OK (8+) | Levita P0-TUUM |
+| Skoor <8 | Lisa AT + täienda lisa, kus lüngad |
+| Kinni jäid | **Lisa AT** — auditist tulnud lahendus |
+
+---
+
+*Lisa AP — Operatsioon „Peegel“. Uuendatud 25. juuli 2026.*

@@ -1,6 +1,6 @@
 # Lisa Q — Side eeskirjad: kuidas me suhtleme
 
-> **Lugeja saab:** hääle, GOTWA ja austava keele SOP.  
+> **Lugeja saab:** hääle, GOTWA, kata ja liigu ning austava keele SOP.  
 > **Loe seda kui:** suhtled iga päev inimestega (demomees).  
 > **Ära loe kui:** pole veel Lisa P trauma-reeglit lugenud.
 
@@ -280,6 +280,7 @@ Kui inimene teab, et **keegi tuleb** — et ta ei pea partnerit alt vedama, et h
 | **Lisa P** | Spordikommentaator, paranemis-teadlikkus, valideerimine |
 | **Lisa I** | Inimesekeskne juhtimine — kuulamine, mitte dominants |
 | **Lisa H** | Hädaolukord — numbrid, vaikus, abi |
+| **Lisa AT** | LIHTSUS — kui kinni jäid |
 
 ---
 
@@ -287,15 +288,27 @@ Kui inimene teab, et **keegi tuleb** — et ta ei pea partnerit alt vedama, et h
 
 ```
 PÕHIREEGEL: Kohtle kõiki asjaosalisi nagu terveid, täiesti normaalseid inimesi
-PARETO:  6 tööriisti = 80% tulemust (turvalisus · spordikommentaator · GOTWA · hääl · teietamine · valideerimine)
+LIHTSUS:   Kui ei tea plaani — Lisa AT · üks samm korraga
+PARETO:  6 tööriista = 80% tulemust (turvalisus · spordikommentaator · GOTWA · hääl · teietamine · valideerimine)
 HÄÄL:    Põhi = mänguline | ALT = FM-DJ | Kontingents = selge | Häda = vaikus, pööra ära
 KEEL:    Teietamine · austav keha · mitte üleolev
 LIIGUMINE: Enne iga uut kontakti → GOTWA (inglise keeles, 5 punkti)
 VESTLUS: Spordikommentaator (Lisa P) enne parandamist
-ABI:     Kata ja liigu — ära oota palvet; üks samm + ajaline lootus (§4)
+ABI:     Kata ja liigu — ära oota palvet (§4)
 KRIIS:   Lisa H · 655 8088 · 116 123 · 116 006 · 112
+KINNI:   Lisa AT otsuspuu
 ```
 
 ---
 
-*Lisa Q — Side eeskirjad: kuidas me suhtleme. Operatsioon „Peegel". Uuendatud 25. juuli 2026 (§4 kata ja liigu).*
+## 8. Järgmine samm (LIHTSUS)
+
+| Lõpetasid | Ava |
+|-----------|-----|
+| Õppisid hääle + GOTWA | Lisa **P** — valideerimine praktikas |
+| Aitad haavatud inimest | §4 — üks samm + ajaline lootus |
+| Kinni jäid | Lisa **AT** |
+
+---
+
+*Lisa Q — Side eeskirjad. Uuendatud 25. juuli 2026 (LIHTSUS + Lisa AT).*

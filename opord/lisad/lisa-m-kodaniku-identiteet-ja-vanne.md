@@ -283,6 +283,19 @@ Küsi. Kahtle. Katkesta. Tõesta. Deklareeri. Vanni. Tee.
 
 **LIHTSUS algab täna. Kas sina tead oma plaani?**
 
+> Kui ei tea — ava **Lisa AT**. Vali üks rida. Tee see.
+
 ---
 
-*Lisa M — Operatsioon „Peegel". Iga kodaniku tööriist. Avalik.*
+## Järgmine samm (LIHTSUS)
+
+| Päev | Üks tegu |
+|------|----------|
+| Täna | Loe manifest **üks kord** peegli ees |
+| Homme | **Üks** musteri katkestus (Samm 3) |
+| Nädal | 7-päeva kava (üleval) — üks rida päevas |
+| Kinni jäid | Lisa **AT** · ära loe kõiki lisasid |
+
+---
+
+*Lisa M — Operatsioon „Peegel". Iga kodaniku tööriist. Uuendatud 25. juuli 2026.*

@@ -234,4 +234,14 @@ VESTLUS KUUPÄEV: _______________  TEEMA (üks): _______________
 
 ---
 
-*Lisa AD — Operatsioon „Peegel". Konversiooni loo checklist ja taskukaardid. Prindi, kirjuta märkmikku, kasuta päris vestluses.*
+## 9. Järgmine samm (LIHTSUS)
+
+| Lõpetasid | Ava |
+|-----------|-----|
+| Täitsid checklisti | Lisa **X** — väljapoole suhtlus |
+| Õhtul | Lisa **N** checklist + Lisa **Q** GOTWA |
+| Kinni jäid | Lisa **AT** — üks lugu täna, mitte seitse |
+
+---
+
+*Lisa AD — Operatsioon „Peegel". Uuendatud 25. juuli 2026.*

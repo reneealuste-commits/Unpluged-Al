@@ -50,6 +50,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | AN | [lisa-an-venekeelne-sihtruhm-ja-inimesekeskne-levitus.md](lisa-an-venekeelne-sihtruhm-ja-inimesekeskne-levitus.md) | **Venekeelne sihtrühm** — Heli piir, eraldi kanal, trauma-teadlik levitus, lihtsus |
 | AO | [lisa-ao-ultimate-power-kokkuvote.md](lisa-ao-ultimate-power-kokkuvote.md) | **Ultimate Power kokkuvõte** — Buffalmano, Peegli filter, demomehe tööriistakast |
 | AP | [lisa-ap-swot-ja-lugeja-audit.md](lisa-ap-swot-ja-lugeja-audit.md) | **SWOT ja lugeja-audit** — lugejale orienteeritud, teed A–F, 10-punkti audit |
+| AT | [lisa-at-lihtsus-kui-kinni-jaid.md](lisa-at-lihtsus-kui-kinni-jaid.md) | **LIHTSUS** — kui kinni jäid, otsuspuu, üks järgmine samm |
 | — | [kiht0-ru-tuum-1-leht.md](kiht0-ru-tuum-1-leht.md) | **Kiht 0 RU** — 1 lk venekeelne tuum (Lisa AN tee E) |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
@@ -110,7 +111,7 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 
 **Leelo Vahersalu (kodaniku toetus):** Lisa AH — puutöö klient, presidendi tunnustus, PERH, noorte vaimne tervis.
 
-**SWOT ja lugeja-audit:** Lisa AP — lugejateed A–F, 10-punkti audit, auditi skoor 6,9/10. **Alusta siit**, kui maht tundub ülekoormav.
+**SWOT ja lugeja-audit:** Lisa AP — lugejateed A–F, 10-punkti audit, auditi skoor 8,2/10. **Kui kinni jäid:** Lisa AT — otsuspuu, üks järgmine samm. **Alusta siit**, kui maht tundub ülekoormav.
 
 **Venekeelne 1 lk:** [kiht0-ru-tuum-1-leht.md](kiht0-ru-tuum-1-leht.md) — Lisa AN tee E.
 

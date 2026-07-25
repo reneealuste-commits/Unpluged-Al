@@ -421,4 +421,15 @@ Eesti inimesed väärivad parimaid juhte. Mitte neid, kes mängivad rolli. Neid,
 
 ---
 
+## Järgmine samm (LIHTSUS)
+
+| Lõpetasid | Ava |
+|-----------|-----|
+| Juht / koolitaja (tee F) | Lisa **P** → Lisa **L** |
+| Demomees | Lisa **N** → Lisa **Q** |
+| Tahad raamatut | Steiger ISBN **9985901274** (Heli Illipe-Sootak) |
+| Kinni jäid | Lisa **AT** rida #7 |
+
+---
+
 *Viide: Steiger, R. (1997). *Inimesekeskne juhtimine*. Fontes. Peakirjastaja: **Heli Illipe-Sootak**. Tõlkija: Piret Liivamägi. Uus trükk: Kaitseväe Ühendatud Õppeasutused, 2011 (eessõnad: Johannes Kert, Kaspar Villiger). ISBN 9985901274.*

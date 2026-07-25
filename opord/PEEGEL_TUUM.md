@@ -46,6 +46,21 @@ Skeem: **Lisa AQ** (`lisa-aq-sidepakkide-jaotus-skeem.md`)
 
 ---
 
+## LIHTSUS — loe enne kui edasi lähed
+
+> *„**Kui meeskond ei tea plaani, siis nad ei saa ju seda täita!**“*
+
+| Reegel | Mida see tähendab |
+|--------|------------------|
+| **Üks plaan** | Tea täna üks asi — mitte kogu OPORD |
+| **Üks tee** | A, B, C, D, E või F — mitte kõik |
+| **Üks tegu** | Allpool vali üks rida |
+| **K2 ainult kui küsid** | Täielik raamatukogu on vabatahtlik |
+
+Täielik otsuspuu: **Lisa AT** (`lisa-at-lihtsus-kui-kinni-jaid.md`)
+
+---
+
 ## KRIITILINE REEGEL — loe enne vestlust (Lisa P tuum)
 
 Traumatiseeritud inimesel on **teistsugune reaalsus**. Sa ei saa temaga tavaliselt koostööd teha.
@@ -87,7 +102,7 @@ See ei sündi teooriast — see sündis sellest, et **tulemused räägivad iseen
 | Suhtlus | GOTWA, hääl, austav keel (Lisa Q) |
 | Kriitiline mõtlemine | Ära usu — uuri (see dokument) |
 
-**Täielik audit:** Lisa AP — skoor 7,8/10 pärast kihtide jaotust.
+**Täielik audit:** Lisa AP — skoor **8,2/10** (Lisa AT lihtsuse audit, 25.07.2026).
 
 ---
 
@@ -100,6 +115,20 @@ See ei sündi teooriast — see sündis sellest, et **tulemused räägivad iseen
 | **K2** | Täielik OPORD — kui küsid |
 | **K3** | Spetsialist — ainult vajadusel |
 
+**Üks lause:** K0 vaikimisi · K1 kui tee selge · K2 kui küsib · K3 vajadusel.
+
+---
+
+## Kui kinni jäid — tee kohe üks neist
+
+| Olukord | Järgmine samm |
+|---------|---------------|
+| Oht elule, enesetapp | **112** või **655 8088** · Lisa H |
+| Liiga palju infot | Sulge see · vali üks tee · üks tegu täna |
+| Ei tea milline tee | Lisa **AT** otsuspuu (10 rida) |
+| Tahan aidata teist | Lisa Q §4 (kata ja liigu) + Lisa P |
+| Olen demomees | Lisa N checklist → Lisa Q |
+
 ---
 
 ## Kontakt ja edasi
@@ -111,4 +140,4 @@ See ei sündi teooriast — see sündis sellest, et **tulemused räägivad iseen
 
 ---
 
-*PEEGEL TUUM — K0. Operatsioon „Peegel“. 24. juuli 2026. Renee Aluste.*
+*PEEGEL TUUM — K0. Operatsioon „Peegel“. Uuendatud 25. juuli 2026 (LIHTSUS + Lisa AT). Renee Aluste.*

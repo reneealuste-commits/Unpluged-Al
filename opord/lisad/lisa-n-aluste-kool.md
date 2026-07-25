@@ -177,4 +177,16 @@ Võit siin: inimene, kes sinu kõrval käib, tunneb, et temaga suheldakse nii, n
 
 ---
 
-*Lisa N — Üksus Aluste_kool. Aktiveeritud Renee Aluste poolt. 22. juuli 2026.*
+## Järgmine samm (LIHTSUS)
+
+| Täna | Tee |
+|------|-----|
+| **Hommik** | Lisa N checklist (5 küsimust) |
+| **Enne kontakti** | Lisa Q — üks GOTWA |
+| **Vestluses** | Lisa P — üks spordikommentaatori lause |
+| **Lugu** | Lisa AD — üks lugu, mitte monoloog |
+| **Kinni jäid** | Lisa **AT** — demomehe rida (#6) |
+
+---
+
+*Lisa N — Üksus Aluste_kool. Aktiveeritud Renee Aluste poolt. Uuendatud 25. juuli 2026.*

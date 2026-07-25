@@ -486,7 +486,7 @@ Traumatiseeritud inimene = haukuv koer trauma olekus
 |---|---|
 | **Emotsioon** | Uppumine, paralüüs valiku ees |
 | **Valideerimine** | *Kui dokument on pikk ja võrgustik suur, on täiesti loogiline tunda: ma ei jõua. Sa ei pea kõike korraga teadma.* |
-| **Vastus** | **Kriisis:** Lisa H → F → A → D → E. **Tavaline:** A → B → C. **Juhtimine:** Lisa I. **Identiteet:** Lisa M. Üks plaan, üks samm. |
+| **Vastus** | Ava **PEEGEL_TUUM.pdf** (K0) → vali tee A–F. **Kriisis:** Lisa H → F → A → D → E. **Juhtimine:** Lisa I. **Identiteet:** Lisa M. **Kui kinni jäid:** Lisa **AT** — üks rida, tee see. |
 | **Küsimus** | *Kas sa täna vajad rohkem struktuuri või rohkem ruumi?* |
 
 ---
@@ -600,4 +600,15 @@ Kui keegi tunneb end nähtuna, kaob pool takistustest iseenesest.
 
 ---
 
-*Lisa P — Takistused ja emotsioonide valideerimine. Operatsioon „Peegel". 23. juuli 2026.*
+## Järgmine samm (LIHTSUS)
+
+| Lõpetasid | Ava |
+|-----------|-----|
+| Õppisid valideerima | Lisa **Q** — GOTWA + hääl igapäevas |
+| Tahad mõista „miks" | Lisa **S** (aju, trauma) |
+| Kriisis | Lisa **H** — numbrid käes |
+| Kinni jäid / upud | Lisa **AT** |
+
+---
+
+*Lisa P — Takistused ja emotsioonide valideerimine. Uuendatud 25. juuli 2026.*

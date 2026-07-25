@@ -91,6 +91,11 @@ SILDID = {
         "**Loe seda kui:** tahad harida pere v\u00f5i meeskonda enne vaidlust.  \n",
         "**\u00c4ra loe kui:** pole veel Lisa P trauma-reeglit lugenud.\n",
     ),
+    "lisa-ax-demo-perekond-ja-eeskujud.md": (
+        "**Lugeja saab:** demo-perekonna kriteeriumid ja eeskujude v\u00e4lja toomise SOP.  \n",
+        "**Loe seda kui:** otsid perev\u00e4\u00e4rtuste promijaid v\u00f5i valid eeskujusid.  \n",
+        "**\u00c4ra loe kui:** pole veel Lisa N demomehe reeglit lugenud.\n",
+    ),
 }
 
 MARKER = "**Lugeja saab:**"

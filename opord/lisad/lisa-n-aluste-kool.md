@@ -80,6 +80,8 @@ Kui sa tunned, et see kirjeldus on sinu kohta — oled õiges kohas. Kui mitte �
 
 > *Ära räägi operatsioonist enne, kui oled demomees. Eeskuju enne sõna.*
 
+**Demo-perekond:** Lisa AX — kui terve pere (mitte ainult üks inimene) elab pereväärtusi nähtavalt: laua taga aeg, sõpruskonna valikud, värbamisoskus. Otsime selliseid peresid programmi.
+
 ---
 
 ## 4b. Orgaaniline levitamine — tutvusringkond (pikk mäng)

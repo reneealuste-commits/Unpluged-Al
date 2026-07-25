@@ -321,6 +321,7 @@ Täielik ahel: **Lisa S** (miks) → **Lisa V** (uni) → **Lisa AW** (aju, otsu
 | Mõõdik | Mida see tähendab |
 |--------|-------------------|
 | **Eeskuju** | Iga lapse elus on tugev, kohalolev isa, ema, vanaisa, treener või mentor |
+| **Demo-perekond** | Pere, kes elab väärtusi nähtavalt — sõpruskond, laua taga aeg, värbamisoskus (**Lisa AX**) |
 | **Pere** | Üksikemade arv langeb; pered veedavad aega koos (ilma ekraanita) |
 | **Ühiskond** | Kiusamine väheneb; inimesed räägivad vastutusest, mitte ainult ohvrina olemisest |
 
@@ -966,6 +967,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 4. **Perekond:** Planeeri iganädalane „perede aeg" — ilma ekraanideta.
 5. **Eeskuju:** Ole see inimene, keda sa ise noorena vajasid.
 6. **Demomees enne levitamist:** Loe Lisa N — ole **demomees** enne kui räägid operatsioonist tutvusringkonnas. Eeskuju enne sõna.
+7. **Demo-perekond:** Loe **Lisa AX** — otsi ja too välja peresid, kes elavad pereväärtusi nähtavalt (laua taga aeg, sõpruskonna valikud, värbamisoskus).
 7. **Levita tutvusringkonnas (pikk mäng):** Iga kodaniku roll on rääkida oma tutvusringkonnas — **turundust on vaja**. Aga **mitte enne demomehe kogemust**. Alles kui keegi **huvi tunneb**, võid natuke jagada. Alles siis räägid teistele. Mitte müüki. Mitte kiirustamist. Teisel pool: **armastust täis väärtuslik elu**. (Lisa N §4b)
 
 ### Renee Aluste rühm (koordineerimisüksus)
@@ -2566,6 +2568,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **AU** | — | `lisad/lisa-au-vastase-analuusi-taiendus.md` | **Vastase analüüs** — mitme vektori mõjutus (RU + platvormid), faktikontroll |
 | **AV** | — | `lisad/lisa-av-peegel-hindamisvorm.md` | **Peegli hindamisvorm** — pere, meeskond, SOK; MKKo → peegel, dialoog |
 | **AW** | — | `lisad/lisa-aw-motlemine-kiiresti-ja-aeglaselt.md` | **Mõtlemine kiiresti ja aeglaselt** — Kahneman; System 1/2, mõttevead, stress, kelnerilaua lugu |
+| **AX** | — | `lisad/lisa-ax-demo-perekond-ja-eeskujud.md` | **Demo-perekond** — pereväärtuste promijad, eeskujude välja toomine, värbamisoskus |
 | **AQ** | — | `lisad/lisa-aq-sidepakkide-jaotus-skeem.md` | **Sidepakkide jaotus** — K0–K3 kihtide arhitektuur, paketid P0–P3, kanalid, levitamise reeglid |
 | — | — | `lisad/kiht0-ru-tuum-1-leht.md` | **Kiht 0 RU** — 1 lk venekeelne tuum (Lisa AN) |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |

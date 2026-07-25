@@ -11,6 +11,7 @@
 | `vastus-heli-illipe-sootak.md` | Heli vastus |
 | `kandidaat-mihhail-usakov.md` | RU kanal |
 | `vastus-kuldne-taganemine.md` | Taganemise mall |
+| `vastus-rein-urvas-eripension.md` | Facebook — kaitsekulu vs eripension, fondi kuivamine |
 
 **Reegel:** Isiklik e-kiri, mitte masspost (Lisa AJ, Lisa AQ). **Eesti keel primaarselt** — vt `soovitus-meedia-eesti-primaar.md`.
 

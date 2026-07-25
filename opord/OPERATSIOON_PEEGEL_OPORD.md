@@ -2570,6 +2570,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **AW** | — | `lisad/lisa-aw-motlemine-kiiresti-ja-aeglaselt.md` | **Mõtlemine kiiresti ja aeglaselt** — Kahneman; System 1/2, mõttevead, stress, kelnerilaua lugu |
 | **AX** | — | `lisad/lisa-ax-demo-perekond-ja-eeskujud.md` | **Demo-perekond** — pereväärtuste promijad, eeskujude välja toomine, värbamisoskus |
 | **AY** | — | `lisad/lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md` | **Kuldne sild** — Sun Tzu + Art of the Deal; esimene manööver; K0 mini-kursus |
+| **AZ** | — | `lisad/lisa-az-suur-pilt-kardashev-musk-ja-susteem.md` | **Suur pilt** — Kardashev T-I/II/III; Musk ökosüsteem; Tesla, SpaceX, Starlink |
 | **AQ** | — | `lisad/lisa-aq-sidepakkide-jaotus-skeem.md` | **Sidepakkide jaotus** — K0–K3 kihtide arhitektuur, paketid P0–P3, kanalid, levitamise reeglid |
 | — | — | `lisad/kiht0-ru-tuum-1-leht.md` | **Kiht 0 RU** — 1 lk venekeelne tuum (Lisa AN) |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |

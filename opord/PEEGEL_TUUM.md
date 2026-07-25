@@ -115,6 +115,7 @@ See ei sündi teooriast — see sündis sellest, et **tulemused räägivad iseen
 |----------|----------|
 | Trauma-teadlikkus | Turvaline vestlus peres (Lisa P, S, H) |
 | Keha ja uni | Walker, toit, liikumine (Lisa V, U, AB) |
+| Suur pilt | Kardashev, Musk süsteem — hang on (Lisa AZ) |
 | Pere ja isa | Tugeva Isa seeria A–G |
 | Suhtlus | GOTWA, hääl, austav keel (Lisa Q) |
 | Kriitiline mõtlemine | Ära usu — uuri (see dokument) |

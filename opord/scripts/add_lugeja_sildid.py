@@ -101,6 +101,11 @@ SILDID = {
         "**Loe seda kui:** m\u00f5tled reformi, vastutust v\u00f5i juhtide vahetust.  \n",
         "**\u00c4ra loe kui:** otsid kiiret perelahendust \u2014 alusta Lisa H.\n",
     ),
+    "lisa-az-suur-pilt-kardashev-musk-ja-susteem.md": (
+        "**Lugeja saab:** Kardashevi skaala ja Muski \u00f6kos\u00fcsteemi suure pildi.  \n",
+        "**Loe seda kui:** oled lootusetu v\u00f5i tahad n\u00e4ha suunda.  \n",
+        "**\u00c4ra loe kui:** otsid ainult poliitikat \u2014 alusta Lisa T.\n",
+    ),
 }
 
 MARKER = "**Lugeja saab:**"

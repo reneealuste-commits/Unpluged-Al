@@ -63,6 +63,7 @@ LISA_FILES = [
     "lisa-aw-motlemine-kiiresti-ja-aeglaselt.md",
     "lisa-ax-demo-perekond-ja-eeskujud.md",
     "lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md",
+    "lisa-az-suur-pilt-kardashev-musk-ja-susteem.md",
     "renee-aluste-profiil.md",
 ]
 

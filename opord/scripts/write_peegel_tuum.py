@@ -85,6 +85,7 @@ parts = [
     "|----------|----------|\n",
     "| Trauma-teadlikkus | Turvaline vestlus peres (Lisa P, S, H) |\n",
     "| Keha ja uni | Walker, toit, liikumine (Lisa V, U, AB) |\n",
+    "| Suur pilt | Kardashev, Musk s\u00fcsteem \u2014 hang on (Lisa AZ) |\n",
     "| Pere ja isa | Tugeva Isa seeria A\u2013G |\n",
     "| Suhtlus | GOTWA, h\u00e4\u00e4l, austav keel (Lisa Q) |\n",
     "| Kriitiline m\u00f5tlemine | \u00c4ra usu \u2014 uuri (see dokument) |\n",

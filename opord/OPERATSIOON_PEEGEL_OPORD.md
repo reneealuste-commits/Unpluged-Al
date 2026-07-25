@@ -1131,6 +1131,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 1. „Ava oma Silmad" taskuhääling — teemad manipulatsioonist ja ärkamisest.
 2. Koostöö teiste kanalitega (sh Ajuloputus).
 3. Sügavama mõistmise pakkumine neile, kes on valmis.
+4. **Soovitus käsus (valikuline):** S4 #10 *Maatriksi Lapsed* — laste kaitse, närvisüsteem, ellujäämisrežiim (`kommunikatsioon/soovitus-maatriksi-lapsed.md`).
 
 ### Ingvar Villido (teadliku muutuse kunst)
 1. Practical Consciousness kursused — alateadlike mustrite tuvastamine ja muutmine.

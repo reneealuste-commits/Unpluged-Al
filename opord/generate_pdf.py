@@ -71,6 +71,7 @@ BOOK_FILES = [
     "lisa-ar-vooglaid-ja-paal-demonstraatorid.md",
     "lisa-at-lihtsus-kui-kinni-jaid.md",
     "lisa-au-vastase-analuusi-taiendus.md",
+    "lisa-av-peegel-hindamisvorm.md",
     "kiht0-ru-tuum-1-leht.md",
     "renee-aluste-profiil.md",
 ]

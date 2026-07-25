@@ -1,6 +1,9 @@
 # PEEGEL TUUM — K0
 ## Paranemis-teekond: esimene kontakt (~30 lk)
 
+> **Mis see on?** Paranemis-teekond perede ja ühiskonna tugevdamiseks — **mitte** nõudmiste nimekiri ega avalike isikute vastutusele võtmise käsk.  
+> **Kui see tundub liiga pikk või segane:** sulge see fail ja ava **Lisa AT** — üks otsuspuu, üks järgmine samm.
+
 **Klassifikatsioon:** Avalik — Eesti rahvale  
 **Kuupäev:** 24. juuli 2026  
 **Koordinaator:** Renee Aluste  

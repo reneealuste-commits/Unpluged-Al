@@ -1,7 +1,7 @@
 # Lisa AT — LIHTSUS: kui kinni jäid
 
 > **Lugeja saab:** ühe otsuspuu — mida teha, kui ei tea edasi minna.  
-> **Loe seda kui:** oled ülekoormatud, segaduses või ei tea järgmist sammu.  
+> **Loe seda kui:** oled ülekoormatud, segaduses, ei saa lõpuni kerida või ei tea, mis dokumendi eesmärk on.  
 > **Ära loe kui:** tead juba oma tee (A–F) — ava vastav PDF ja järgi seda.
 
 **Operatsioon „Peegel“** | Lihtsuse printsiip kogu materjali läbiv reegel  
@@ -31,16 +31,17 @@ Loe **üks rida** — tee see. Ära loe tabelit lõpuni.
 
 | # | Kui sa tunned seda | Tee kohe (ainult see) |
 |---|-------------------|------------------------|
-1 | **Oht elule, enesetapp, vägivald** | Helista **112** või Eluliin **655 8088** · Lisa **H** |
-2 | **Esimene kord Peegliga** | Ava **PEEGEL_TUUM.pdf** (K0) · vali üks tee A–F |
-3 | **Liiga palju infot, upud** | Sulge OPORD · jäta ainult K0 või oma tee PDF · **üks tegu täna** (TUUM) |
-4 | **Ei tea, milline tee** | Vt allpool **Tee valik** · või SMS **56980062**, sõna **Peegel** |
-5 | **Tahan aidata kedagi teist** | Lisa **Q** §4 (kata ja liigu) · Lisa **P** · ära oota palvet |
-6 | **Olen demomees / SOK** | Lisa **N** checklist · siis **Q** (GOTWA) · siis **AD** (üks lugu) |
-7 | **Juht / koolitus** | Lisa **I** · siis **P** · siis **L** |
-8 | **Venekeelne** | **PEEGEL_RU_KIHT0.pdf** · Lisa **AN** |
-9 | **Saadan materjali edasi** | Lisa **AQ** · alusta **P0-TUUM** · üks pakett korraga |
-10 | **Tahan kõike (K2)** | Küsi lugemiskinnitust (Lisa **AJ**) · siis OPORD PDF |
+| 0 | **„Mis see üldse on? Milleks need nimed?"** | Loe üks lause: *paranemis-teekond, mitte nõudmiste nimekiri* · ava **PEEGEL_TUUM.pdf** |
+| 1 | **Oht elule, enesetapp, vägivald** | Helista **112** või Eluliin **655 8088** · Lisa **H** |
+| 2 | **Esimene kord Peegliga** | Ava **PEEGEL_TUUM.pdf** (K0) · vali üks tee A–F |
+| 3 | **Liiga palju infot, upud, ei saa lõpuni kerida** | Sulge OPORD/DOCX · jäta ainult K0 või oma tee PDF · **üks tegu täna** (TUUM) |
+| 4 | **Ei tea, milline tee** | Vt allpool **Tee valik** · või SMS **56980062**, sõna **Peegel** |
+| 5 | **Tahan aidata kedagi teist** | Lisa **Q** §4 (kata ja liigu) · Lisa **P** · ära oota palvet |
+| 6 | **Olen demomees / SOK** | Lisa **N** checklist · siis **Q** (GOTWA) · siis **AD** (üks lugu) |
+| 7 | **Juht / koolitus** | Lisa **I** · siis **P** · siis **L** |
+| 8 | **Venekeelne** | **PEEGEL_RU_KIHT0.pdf** · Lisa **AN** |
+| 9 | **Saadan materjali edasi** | Lisa **AQ** · alusta **P0-TUUM** · üks pakett korraga |
+| 10 | **Tahan kõike (K2)** | Küsi lugemiskinnitust (Lisa **AJ**) · siis OPORD PDF |
 
 ---
 

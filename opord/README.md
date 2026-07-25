@@ -2,6 +2,8 @@
 
 Eesti keeles koostatud viiepunktiline **paranemis-teekond** (OPORD-formaat) vastutegevuseks psühholoogilisele mõjutamisele.
 
+> **Mis see on?** Paranemis-teekond perede ja ühiskonna tugevdamiseks — **mitte** nõudmiste nimekiri ega avalike isikute vastutusele võtmise käsk.
+
 > *Paranemine algab sellel hetkel, kui sa mõistad, et sa pole katki olnudki.*
 
 > *Kohtleme kõiki asjaosalisi nagu terveid, täiesti normaalseid inimesi.*
@@ -10,13 +12,17 @@ Eesti keeles koostatud viiepunktiline **paranemis-teekond** (OPORD-formaat) vast
 
 ## Allalaadimine
 
-### Esimene kontakt (K0 — soovitatav)
+### Jaga avalikult (ainult K0)
+
+**Esimene kontakt — jaga seda linki, mitte täielikku OPORD-i ega DOCX-i:**
 
 | Formaat | Link |
 |---------|------|
 | **PEEGEL TUUM (PDF)** | [PEEGEL_TUUM.pdf](PEEGEL_TUUM.pdf) |
 | **PEEGEL TUUM (Markdown)** | [PEEGEL_TUUM.md](PEEGEL_TUUM.md) |
 | **Sidepakkide ZIP** | [Operatsioon-Peegel-sidepakkid.zip](Operatsioon-Peegel-sidepakkid.zip) |
+
+> Kui lugeja ütleb „liiga pikk", „ei saa lõpuni kerida" või „eesmärk ebaselge" — saada **PEEGEL_TUUM** või [Lisa AT](lisad/lisa-at-lihtsus-kui-kinni-jaid.md), mitte K2.
 
 ### Lugejateed (K1)
 
@@ -31,15 +37,15 @@ Eesti keeles koostatud viiepunktiline **paranemis-teekond** (OPORD-formaat) vast
 
 Skeem: [Lisa AQ](lisad/lisa-aq-sidepakkide-jaotus-skeem.md)
 
-### Täielik pakett (K2)
+### Täielik pakett (K2 — mitte esimene kontakt)
 
-| Formaat | Link |
-|---------|------|
-| **DOCX** | [OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx](OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx) |
-| **ZIP — kogu pakett** | [Operatsioon-Peegel-kogu-pakett.zip](Operatsioon-Peegel-kogu-pakett.zip) |
-| **PDF (täielik OPORD)** | [OPERATSIOON_PEEGEL_OPORD.pdf](OPERATSIOON_PEEGEL_OPORD.pdf) |
-| **Markdown** | [OPERATSIOON_PEEGEL_OPORD.md](OPERATSIOON_PEEGEL_OPORD.md) |
-| **Pull request** | [PR #1](https://github.com/reneealuste-commits/Unpluged-Al/pull/1) |
+| Formaat | Link | Märkus |
+|---------|------|--------|
+| **PDF (täielik OPORD)** | [OPERATSIOON_PEEGEL_OPORD.pdf](OPERATSIOON_PEEGEL_OPORD.pdf) | ~2–3 h lugemist |
+| **DOCX** | [OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx](OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx) | OPORD + kõik lisad; mobiilis raske kerida |
+| **ZIP — kogu pakett** | [Operatsioon-Peegel-kogu-pakett.zip](Operatsioon-Peegel-kogu-pakett.zip) | Kõik failid korraga |
+| **Markdown** | [OPERATSIOON_PEEGEL_OPORD.md](OPERATSIOON_PEEGEL_OPORD.md) | Allikas |
+| **Pull request** | [PR #1](https://github.com/reneealuste-commits/Unpluged-Al/pull/1) | |
 
 ### Prinditavad tööriistad
 

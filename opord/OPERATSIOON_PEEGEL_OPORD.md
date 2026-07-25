@@ -1,15 +1,19 @@
 # OPERATSIOON „PEEGEL“
 ## Paranemis-teekond — Kõrgetasemeline vastutegevus psühholoogilisele mõjutamisele
 
+> **Mis see on?** Paranemis-teekond perede ja ühiskonna tugevdamiseks — **mitte** nõudmiste nimekiri ega avalike isikute vastutusele võtmise käsk.  
+> **Esimene samm:** alusta [PEEGEL_TUUM.pdf](PEEGEL_TUUM.pdf) (~30 lk). Täielik OPORD on K2 — ainult kui seda **tahtlikult** küsid.
+
 **Klassifikatsioon:** Avalik — Eesti rahvale  
 **Kuupäev:** 24. juuli 2026  
 **Käsu andja:** Renee Aluste, operatsiooni koordinaator  
 **Operatsiooni tase:** Strateegiline–taktikaline (mitmetasandiline)  
 **Viide:** Maakaitse käsiraamatu viiepunktiline OPORD-formaat (opiq.ee)
 
-**Allalaadimine (DOCX — Google Docs):** [OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx) — OPORD + kõik lisad ühes failis  
-**Allalaadimine (PDF):** [github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_OPORD.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_OPORD.pdf)  
-**K0 TUUM (soovitatav esimene):** [PEEGEL_TUUM.pdf](PEEGEL_TUUM.pdf) · [markdown](PEEGEL_TUUM.md)  
+**K0 TUUM (alusta siit — ~30 lk):** [PEEGEL_TUUM.pdf](PEEGEL_TUUM.pdf) · [markdown](PEEGEL_TUUM.md)  
+**Lugejateed (K1):** [PEEGEL_TEE_A.pdf](PEEGEL_TEE_A.pdf) … [PEEGEL_TEE_F.pdf](PEEGEL_TEE_F.pdf) — vali üks tee, mitte kõik  
+**K2 täielik OPORD (PDF):** [OPERATSIOON_PEEGEL_OPORD.pdf](OPERATSIOON_PEEGEL_OPORD.pdf) — ~2–3 h lugemist; **mitte esimene kontakt**  
+**K2 täielik pakett (DOCX):** [OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx](OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx) — OPORD + kõik lisad ühes failis; mobiilis raske kerida  
 **Sidepakkide ZIP:** [Operatsioon-Peegel-sidepakkid.zip](Operatsioon-Peegel-sidepakkid.zip) — P0–P3 paketid (Lisa AQ)  
 **Allalaadimine (Markdown):** [github.com/.../OPERATSIOON_PEEGEL_OPORD.md](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_OPORD.md)  
 **Toidu uurimustöö (PDF):** [TOITUMINE_UURIMUSTOO.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/TOITUMINE_UURIMUSTOO.pdf) · [markdown](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/lisad/toitumine-uurimustoo.md) · Lisa U  
@@ -359,7 +363,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 
 ## ÜLESANDE KOOSSEIS JA OSALAJATE PROFIILID
 
-> *Hoiatus: allpool on pikk nimekiri inimestest ja üksustest. Kui see segadusse ajab — **tule hiljem tagasi**. Sa ei pea kedagi tundma, et alustada. Alusta MIKS? sektsioonist.*
+> **Miks siin on avaliku elu tegelaste nimed?** See on **võrgustiku kaart** — kes võiks aidata, kellele materjal jõuab, kuidas koostöö võiks välja näha. See **ei ole** nimekiri inimestest, kellelt nõuda seletusi, juhiseid ega vastutust. Sa ei pea kedagi tundma, et alustada. Kui see segadusse ajab — **tule hiljem tagasi** või ava **Lisa AT**.
 
 ### Operatsiooni struktuur (skeem)
 
@@ -1426,7 +1430,9 @@ koos Combat Ready meeskonna ja partneritega
 
 # KÜSIMUSED JA VASTUSED
 
-*Stsenaarium: Renee Aluste vestleb operatsiooni „Peegel" teemadel — mitte valmis vastuste andjana, vaid küsimusi esitades. Allpool on tüüpilised küsimused, mida inimesed esitavad, ja Renee vastab ausalt — sageli pöörates vestluse tagasi kuulajale.*
+*Stsenaarium: Renee Aluste vestleb operatsiooni „Peegel" teemadel — mitte valmis vastuste andjana, vaid küsimusi esitades. Allpool on tüüpilised küsimused, mida inimesed esitavad, ja Renee vastab ausalt.*
+
+> **Lugeja märkus:** Iga vastuse järel **ei** kordu enam sama peegeldusküsimus. Loe vastused läbi — üks ühine küsimus on lõpus (enne rollimängu).
 
 ---
 
@@ -2508,6 +2514,14 @@ Sa võid tunda, et su elu on lagunenud — aga **sina ise pole katki**. Sa vajad
 | Keegi ei kuula | Lootusetus | „Pettumus on kaitse — mitte nõrkus." |
 
 **Täielik takistuste kaart (18+ olukorda, mida mitte öelda):** **Lisa P** — `lisad/lisa-p-takistused-ja-valideerimine.md`
+
+---
+
+## Enne lõppu — üks küsimus kõigile
+
+Küsimuste-vastuste osas ei korda iga lõiku sama peegeldusküsimust. Loe vastused läbi — ja vasta lõpus **ühele** küsimusele:
+
+*Minu küsimus sulle: Mida sina selle teadmisega täna teed — mitte homme?*
 
 ---
 

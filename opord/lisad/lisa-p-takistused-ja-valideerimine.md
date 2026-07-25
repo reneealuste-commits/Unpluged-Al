@@ -349,6 +349,15 @@ Traumatiseeritud inimene = haukuv koer trauma olekus
 | **Vastus** | Me ei palu uskuda kontrollimata. Kontrolli allikaid. Küsi: kes võidab, kui ma kardan ja vihkan? Meie eesmärk ei ole hirm — vaid tugev pere ja kriitiline mõtlemine. Kui sõnum sunnib — lahku. |
 | **Küsimus** | *Millal sa viimati tundsid, et sind manipuleeriti — ja mis sind hoiatas?* |
 
+#### A3b. „Aga USA algoritmid / juudid / vabamüürlased juhivad kaost"
+
+| | |
+|---|---|
+| **Emotsioon** | Segadus, õigustunne, hirm „kõik on vastu" |
+| **Valideerimine** | *On loogiline küsida, kas oht tuleb ainult ühest suunast. Paljud inimesed on märganud, et sotsiaalmeedia lõhestab peresid — see tähelepanek on väärt uurimist.* |
+| **Vastus** | **Lisa AU** faktiline jaotus: (1) **dokumenteeritud** — Venemaa infosõda + platvormide kaasatuse majandus; (2) **mitte OPORD** — etniline/religioosne „tagatuba" ilma tõendita. Me ei süüdista rahvusi ega uske — see mängib infosõja kätte. Me kaitseme pere **mõlema** poole austusega. |
+| **Küsimus** | *Kas sa otsid tõde — või kedagi, kellele süüdistada?* |
+
 #### A4. „Teie sõnum on ju samuti manipulatsioon"
 
 | | |

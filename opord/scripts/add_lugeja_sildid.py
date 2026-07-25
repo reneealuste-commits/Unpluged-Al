@@ -71,6 +71,11 @@ SILDID = {
         "**Loe seda kui:** oled \u00fclekoormatud v\u00f5i segaduses.  \n",
         "**\u00c4ra loe kui:** tead juba oma tee (A\u2013F).\n",
     ),
+    "lisa-au-vastase-analuusi-taiendus.md": (
+        "**Lugeja saab:** faktilise mitme-vektori vastase anal\u00fc\u00fcsi.  \n",
+        "**Loe seda kui:** tahad aru saada RU + platvormide m\u00f5just.  \n",
+        "**\u00c4ra loe kui:** otsid etnilist s\u00fc\u00fcdistust \u2014 seda siin ei ole.\n",
+    ),
     "kiht0-ru-tuum-1-leht.md": (
         "**Lugeja saab:** 1-lehek\u00fcljeline venekeelne tuum.  \n",
         "**Loe seda kui:** oled venekeelne kodanik Eestis (tee E).  \n",

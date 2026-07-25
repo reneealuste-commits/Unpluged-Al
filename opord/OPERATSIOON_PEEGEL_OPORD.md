@@ -847,7 +847,17 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 
 ## a. Vastane
 
-**Vastase üksus:** Vene Föderatsiooni psühholoogilise sõja ja mõjutusoperatsioonide struktuurid (riiklikud ja mitteriiklikud kanalid).
+**Täiendus (mitme vektori mõjutus, faktikontroll):** **Lisa AU** — riiklik infosõja (RU) + kommertsmõjutus (globaalsed platvormid). **Ei integreeri** kontrollimata etnilisi/religioosseid „tagatuba" väiteid.
+
+**Vastase üksus (uuendatud):** Mitme vektori psühholoogiline mõjutus — mitte ainult üks riik.
+
+| Vektor | Tüüp | Peamine eesmärk | Tugevus | Nõrkus |
+|--------|------|-----------------|---------|--------|
+| **Venemaa** | Riiklik infosõda | Usalduse nõrgestamine, polarisatsioon, pere surve | Dokumenteeritud (KAPO, NATO StratCom); pikk kogemus | Sõltub meie platvormidest; tugev kogukond vastupidi |
+| **Globaalsed platvormid** | Kommerts (engagement) | Maksimaalne aeg ekraanil; reklaam | Igapäevane elu; algoritm optimeerib emotsiooni | Regulatsioon, teadlik kasutaja, unplugged |
+| **Segadus / vandenõud** | Sotsiaalne lõhestus | „Kes on päriselt süüdi?" — kaaslaste vastu | Kiire levik; emotsionaalne kinnitus | Faktikontroll; OPORD ei kasuta |
+
+**Vastase üksus (klassikaline kirjeldus):** Vene Föderatsiooni psühholoogilise sõja ja mõjutusoperatsioonide struktuurid (riiklikud ja mitteriiklikud kanalid).
 
 | Element | Hinnang |
 |---------|---------|
@@ -857,7 +867,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 | **Tugevus** | Pikaaegne kogemus (7+ aastat aktiivset tegevust Eestis); ligipääs meie platvormidele; emotsionaalne mõju |
 | **Nõrkus** | Sõltuvus meie enda platvormidest; ei suuda vastu seista tugevale kogukonnale; tõde on kontrollitav |
 | **Tõenäoline tegevus** | Jätkab rütmi suurendamist kriisiaegadel; kasutab üksikuid traagilisi sündmusi amplifikatsiooniks |
-| **Kõige ohtlikum tegevus** | Eesti kodanike lootusetuse tekitamine — eriti noorte ja üksikvanemate seas — nii et nad lõpetavad vastupanu |
+| **Kõige ohtlikum tegevus** | Eesti kodanike lootusetuse tekitamine — eriti noorte ja üksikvanemate seas — nii et nad lõpetavad vastupanu; **pluss** pere usalduse lõhkumine algoritmilise sisuga (Lisa AU) |
 
 ## b. Omad üksused
 
@@ -2546,7 +2556,8 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **AO** | — | `lisad/lisa-ao-ultimate-power-kokkuvote.md` | **Ultimate Power kokkuvõte** — Buffalmano, Peegli filter, demomehe tööriistakast |
 | **AP** | — | `lisad/lisa-ap-swot-ja-lugeja-audit.md` | **SWOT ja lugeja-audit** — lugejale orienteeritud, teed A–F, 10-punkti audit |
 | **AR** | — | `lisad/lisa-ar-vooglaid-ja-paal-demonstraatorid.md` | **Vooglaid ja Paal** — demonstraatorid, kodaniku mõte |
-| **AT** | — | `lisad/lisa-at-lihtsus-kui-kinni-jaid.md` | **LIHTSUS** — kui kinni jäid, otsuspuu, üks järgmine samm |
+| **AT** | — | `lisad/lisa-at-lihtsus-kui-kinni-jaid.md` | **LIHTSUS** — kui kinni jäid, otsuspuu |
+| **AU** | — | `lisad/lisa-au-vastase-analuusi-taiendus.md` | **Vastase analüüs** — mitme vektori mõjutus (RU + platvormid), faktikontroll |
 | **AQ** | — | `lisad/lisa-aq-sidepakkide-jaotus-skeem.md` | **Sidepakkide jaotus** — K0–K3 kihtide arhitektuur, paketid P0–P3, kanalid, levitamise reeglid |
 | — | — | `lisad/kiht0-ru-tuum-1-leht.md` | **Kiht 0 RU** — 1 lk venekeelne tuum (Lisa AN) |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |

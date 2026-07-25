@@ -50,7 +50,8 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | AN | [lisa-an-venekeelne-sihtruhm-ja-inimesekeskne-levitus.md](lisa-an-venekeelne-sihtruhm-ja-inimesekeskne-levitus.md) | **Venekeelne sihtrühm** — Heli piir, eraldi kanal, trauma-teadlik levitus, lihtsus |
 | AO | [lisa-ao-ultimate-power-kokkuvote.md](lisa-ao-ultimate-power-kokkuvote.md) | **Ultimate Power kokkuvõte** — Buffalmano, Peegli filter, demomehe tööriistakast |
 | AP | [lisa-ap-swot-ja-lugeja-audit.md](lisa-ap-swot-ja-lugeja-audit.md) | **SWOT ja lugeja-audit** — lugejale orienteeritud, teed A–F, 10-punkti audit |
-| AT | [lisa-at-lihtsus-kui-kinni-jaid.md](lisa-at-lihtsus-kui-kinni-jaid.md) | **LIHTSUS** — kui kinni jäid, otsuspuu, üks järgmine samm |
+| AT | [lisa-at-lihtsus-kui-kinni-jaid.md](lisa-at-lihtsus-kui-kinni-jaid.md) | **LIHTSUS** — kui kinni jäid, otsuspuu |
+| AU | [lisa-au-vastase-analuusi-taiendus.md](lisa-au-vastase-analuusi-taiendus.md) | **Vastase analüüs** — mitme vektori mõjutus (RU + platvormid), faktikontroll |
 | — | [kiht0-ru-tuum-1-leht.md](kiht0-ru-tuum-1-leht.md) | **Kiht 0 RU** — 1 lk venekeelne tuum (Lisa AN tee E) |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 

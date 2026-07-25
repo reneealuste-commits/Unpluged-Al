@@ -70,6 +70,7 @@ BOOK_FILES = [
     "lisa-aq-sidepakkide-jaotus-skeem.md",
     "lisa-ar-vooglaid-ja-paal-demonstraatorid.md",
     "lisa-at-lihtsus-kui-kinni-jaid.md",
+    "lisa-au-vastase-analuusi-taiendus.md",
     "kiht0-ru-tuum-1-leht.md",
     "renee-aluste-profiil.md",
 ]

@@ -86,6 +86,11 @@ SILDID = {
         "**Loe seda kui:** saadad v\u00f5i koordineerid materjali.  \n",
         "**\u00c4ra loe kui:** oled lihtsalt lugeja \u2014 alusta TUUM-ist.\n",
     ),
+    "lisa-aw-motlemine-kiiresti-ja-aeglaselt.md": (
+        "**Lugeja saab:** Kahnemani System 1/2 ja igap\u00e4evased m\u00f5ttevead.  \n",
+        "**Loe seda kui:** tahad harida pere v\u00f5i meeskonda enne vaidlust.  \n",
+        "**\u00c4ra loe kui:** pole veel Lisa P trauma-reeglit lugenud.\n",
+    ),
 }
 
 MARKER = "**Lugeja saab:**"

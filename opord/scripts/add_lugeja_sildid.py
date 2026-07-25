@@ -121,6 +121,11 @@ SILDID = {
         "**Loe seda kui:** ekraan v\u00f5tab pere, une v\u00f5i t\u00f6\u00f6piiri \u00e4ra.  \n",
         "**\u00c4ra loe kui:** oled kriisis ilma turvaliseta \u2014 h\u00e4daabi numbrid peavad t\u00f6\u00f6tama.\n",
     ),
+    "lisa-bd-nvc-taskukaardid-kodanikule.md": (
+        "**Lugeja saab:** NVC (OFNR) taskukaardid igap\u00e4evaseks suhtluseks.  \n",
+        "**Loe seda kui:** suhtled kodus, t\u00f6\u00f6l v\u00f5i t\u00e4naval (Lisa Q alus).  \n",
+        "**\u00c4ra loe kui:** oled kriisis \u2014 alusta Lisa H numbritest.\n",
+    ),
 }
 
 MARKER = "**Lugeja saab:**"

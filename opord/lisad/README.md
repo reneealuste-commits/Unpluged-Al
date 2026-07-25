@@ -60,6 +60,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | BA | [lisa-ba-keha-vabastamine-tasuta.md](lisa-ba-keha-vabastamine-tasuta.md) | **Keha vabastamine tasuta** — lümf, enesemassaaž, karu/puu meetod, raputamine (TRE), partner |
 | BB | [lisa-bb-hannes-vorno-haridus-ja-toitumine.md](lisa-bb-hannes-vorno-haridus-ja-toitumine.md) | **Hannes Võrno** — haridus, meedia praktik, toidu päritolu; Lisa U karnivoor-uuurimisliin |
 | BC | [lisa-bc-digitaalne-detoks-ja-nuputelefon.md](lisa-bc-digitaalne-detoks-ja-nuputelefon.md) | **Digitaalne detoks** — nuputelefon pärast 17:00, ankrupaik, valge nimekiri; töö pärast tundi ei ole OK |
+| BD | [lisa-bd-nvc-taskukaardid-kodanikule.md](lisa-bd-nvc-taskukaardid-kodanikule.md) | **NVC taskukaardid** — OFNR igapäevaseks suhtluseks; alus Lisa Q; 4 kaarti + rahakott |
 | — | [kiht0-ru-tuum-1-leht.md](kiht0-ru-tuum-1-leht.md) | **Kiht 0 RU** — 1 lk venekeelne tuum (Lisa AN tee E) |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 
@@ -135,6 +136,8 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 **Hannes Võrno (haridus + toit):** Lisa BB — meedia praktik vs koolibürokraatia (Kohtla-Järve õppetund); toidu päritolu ja avatud mõte; seos Lisa U / Bellevue liiniga. Kandidaat: `kommunikatsioon/kandidaat-hannes-vorno.md`.
 
 **Digitaalne detoks (nuputelefon):** Lisa BC — nutitelefon ankrus (kodu/auto/kontor); pärast 17:00 ainult nuputelefon (pere + hädaabi); töö pärast tundi ei ole OK. Täiendab Raamat 01, Lisa V, Lisa Q.
+
+**NVC taskukaardid (kodanik):** Lisa BD — OFNR (tähelepanek, tunne, vajadus, palve) igapäevaseks suhtluseks; alus Lisa Q side eeskirjad. Prindi `NVC_TASKUKAARDID_PRINT.pdf` või rahakott.
 
 **Venekeelne 1 lk:** [kiht0-ru-tuum-1-leht.md](kiht0-ru-tuum-1-leht.md) — Lisa AN tee E.
 

@@ -281,6 +281,9 @@ Kui inimene teab, et **keegi tuleb** — et ta ei pea partnerit alt vedama, et h
 | **Lisa I** | Inimesekeskne juhtimine — kuulamine, mitte dominants |
 | **Lisa H** | Hädaolukord — numbrid, vaikus, abi |
 | **Lisa AT** | LIHTSUS — kui kinni jäid |
+| **Lisa BD** | NVC taskukaardid kodanikule — OFNR igapäevaseks suhtluseks (`NVC_TASKUKAARDID_PRINT.pdf`) |
+
+**Lisa X** = väljapoole jagamine. **Lisa BD** = igapäev kodus, tööl, tänaval.
 
 ---
 

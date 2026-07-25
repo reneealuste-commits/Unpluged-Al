@@ -15,6 +15,7 @@
 **Toidu uurimustöö (PDF):** [TOITUMINE_UURIMUSTOO.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/TOITUMINE_UURIMUSTOO.pdf) · [markdown](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/lisad/toitumine-uurimustoo.md) · Lisa U  
 **Kogu pakett (ZIP):** [Operatsioon-Peegel-kogu-pakett.zip](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/Operatsioon-Peegel-kogu-pakett.zip) — kõik lisad, PDF-id, pildid  
 **Taskukaardid (Lisa X):** [TASKUKAARDID_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/TASKUKAARDID_PRINT.pdf) · [rahakott 85×55mm](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/TASKUKAARDID_RAHAKOTT.pdf) · [LENDLEHT_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/LENDLEHT_PRINT.pdf)  
+**NVC taskukaardid (Lisa BD):** [NVC_TASKUKAARDID_PRINT.pdf](NVC_TASKUKAARDID_PRINT.pdf) · [rahakott 85×55mm](NVC_TASKUKAARDID_RAHAKOTT.pdf) — igapäevane suhtlus (Lisa Q alus)  
 **Lood ja konversioon (Lisa AD):** [LOO_CHECKLIST_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/LOO_CHECKLIST_PRINT.pdf) · [LOO_TASKUKAARDID_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/LOO_TASKUKAARDID_PRINT.pdf) · [LOO_TASKUKAARDID_RAHAKOTT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/LOO_TASKUKAARDID_RAHAKOTT.pdf)  
 **Õhk ja olukorra teadlikkus (Lisa AE):** [OLUKORDA_TEADLIKKUS_SOP_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OLUKORDA_TEADLIKKUS_SOP_PRINT.pdf) · [OLUKORDA_TEADLIKKUS_TASKUKAARDID_RAHAKOTT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OLUKORDA_TEADLIKKUS_TASKUKAARDID_RAHAKOTT.pdf)  
 **Peegli hindamisvorm (Lisa AV):** [PEEGEL_HINDAMISVORM_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/PEEGEL_HINDAMISVORM_PRINT.pdf) · [plankett A5](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/PEEGEL_HINDAMISVORM_PLANKETT.pdf) · [rahakott 85×55mm](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/PEEGEL_HINDAMISVORM_RAHAKOTT.pdf)  
@@ -1366,6 +1367,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 - **Vaktsineerimine:** Lisa O — `lisad/lisa-o-vaktsineerimine.md` (uuringud, ühiskond, konspiratsioonid, aus hinnang)
 - **Takistused ja valideerimine:** Lisa P — `lisad/lisa-p-takistused-ja-valideerimine.md` (spordikommentaator, **KRIITILINE REEGEL: trauma ja koostöö**, Cooper, van der Kolk)
 - **Side eeskirjad:** Lisa Q — `lisad/lisa-q-side-eeskirjad-ja-suhtlus.md` (hääl, GOTWA, austav keel, **kata ja liigu**, demomeeste igapäevane standard)
+- **NVC taskukaardid (kodanik):** Lisa BD — `lisad/lisa-bd-nvc-taskukaardid-kodanikule.md` (OFNR igapäevaseks suhtluseks; alus Lisa Q)
 - **LIHTSUS / kui kinni jäid:** Lisa AT — `lisad/lisa-at-lihtsus-kui-kinni-jaid.md` (otsuspuu, üks järgmine samm)
 - **Kes ma olen (kahtlus / taust):** Lisa R — `lisad/lisa-r-kes-ma-olen-ja-taust.md` (CV, teenistus, koolitused, meedia tõendid)
 - **Valitsuse hetke-analüüs:** Lisa T — `lisad/lisa-t-valitsuse-ipb-analuus.md` (Ranger Handbook, KPI, 13 ministrit, show me the money)
@@ -2586,6 +2588,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **BA** | — | `lisad/lisa-ba-keha-vabastamine-tasuta.md` | **Keha vabastamine tasuta** — lümf, enesemassaaž, karu/puu meetod, raputamine (TRE), partner |
 | **BB** | — | `lisad/lisa-bb-hannes-vorno-haridus-ja-toitumine.md` | **Hannes Võrno** — hariduse kriitika, meedia praktik, toidu päritolu; seos Lisa U (karnivoor uurimisliin) |
 | **BC** | — | `lisad/lisa-bc-digitaalne-detoks-ja-nuputelefon.md` | **Digitaalne detoks** — nuputelefon pärast 17:00, ankrupaik, valge nimekiri; töö pärast tundi ei ole OK |
+| **BD** | — | `lisad/lisa-bd-nvc-taskukaardid-kodanikule.md` | **NVC taskukaardid** — OFNR kodanikule; igapäevane suhtlus (Lisa Q alus); 4 kaarti + rahakott |
 | **AQ** | — | `lisad/lisa-aq-sidepakkide-jaotus-skeem.md` | **Sidepakkide jaotus** — K0–K3 kihtide arhitektuur, paketid P0–P3, kanalid, levitamise reeglid |
 | — | — | `lisad/kiht0-ru-tuum-1-leht.md` | **Kiht 0 RU** — 1 lk venekeelne tuum (Lisa AN) |
 | — | — | `lisad/renee-aluste-profiil.md` | Renee Aluste eraldi profiilileht — operatsiooni koordinaator |

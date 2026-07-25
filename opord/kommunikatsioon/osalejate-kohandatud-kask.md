@@ -20,17 +20,15 @@
 
 ---
 
-## Valikuline soovitus kõigile
+## Podcast ja meedia (eesti keel primaarselt)
 
-**Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“** (~1h 20 min, märts 2026) — Katrin Lucas + Ajuloputus.  
-Laste kaitse, närvisüsteem, ellujäämisrežiim. Mitte käsk — kutse avada silmad.
+> **Reegel:** `kommunikatsioon/soovitus-meedia-eesti-primaar.md`
 
-| Kanal | Link |
-|-------|------|
-| Acast | [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) |
-| Apple Podcasts | [https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) |
-| YouTube | [@AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS) — otsi „Maatriksi Lapsed“ |
-| Täpsem lisa | `kommunikatsioon/soovitus-maatriksi-lapsed.md` |
+**PERE / KRIIS** → [Papsid.ee Podcast](https://papsid.ee/podcast/) (ET)  
+**Muu** → Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“ (ET)
+
+| Papsid.ee (ET) | [https://papsid.ee/podcast/](https://papsid.ee/podcast/) · [Apple EE](https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452) |
+| Ava Oma Silmad (ET) | [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple EE](https://podcasts.apple.com/ee/podcast/ava-oma-silmad-podcast/id1541890084) |
 
 ---
 
@@ -66,7 +64,7 @@ Mänguline hääl (Lisa Q). GOTWA enne koosolekut. Ära saada masspostina — is
 >
 > **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
 > Juhi vaatenurgast: kaitse enne tulemust. Kui keegi on ellujäämisrežiimis, ta ei näe plaani (Lisa AT).  
-> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [katrinlucas.com](https://katrinlucas.com/podcast/) · [Apple EE](https://podcasts.apple.com/ee/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube](https://www.youtube.com/@AJULOPUTUS)  
 > Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
@@ -107,7 +105,7 @@ FM-DJ hääl rahustamisel. Valideeri enne loogikat. Spordikommentaator.
 >
 > **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
 > Juhi vaatenurgast: kaitse enne tulemust. Kui keegi on ellujäämisrežiimis, ta ei näe plaani (Lisa AT).  
-> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [katrinlucas.com](https://katrinlucas.com/podcast/) · [Apple EE](https://podcasts.apple.com/ee/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube](https://www.youtube.com/@AJULOPUTUS)  
 > Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
@@ -148,7 +146,7 @@ Mänguline, soe. Lapsed = turvalisus enne sisu. Ära suru.
 >
 > **Valikuline kuulamine:** Papsid.ee Podcast  
 > Isa kriisis — Lisa H kontekstis  
-> Kuula: [https://papsid.ee/podcast/](https://papsid.ee/podcast/) · [Apple Podcasts](https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452)  
+> Kuula: [https://papsid.ee/podcast/](https://papsid.ee/podcast/) · [Apple EE](https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452)  
 > Täpsem: `kommunikatsioon/soovitus-papsid-podcast.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
@@ -189,7 +187,7 @@ Rahulik FM-DJ. Kuula ilma parandamiseta. Konfidentsiaalsus.
 >
 > **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
 > Juhi vaatenurgast: kaitse enne tulemust. Kui keegi on ellujäämisrežiimis, ta ei näe plaani (Lisa AT).  
-> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [katrinlucas.com](https://katrinlucas.com/podcast/) · [Apple EE](https://podcasts.apple.com/ee/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube](https://www.youtube.com/@AJULOPUTUS)  
 > Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
@@ -230,7 +228,7 @@ Austav keel (teietamine). Ametlik toon. Ei propaganda.
 >
 > **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
 > Juhi vaatenurgast: kaitse enne tulemust. Kui keegi on ellujäämisrežiimis, ta ei näe plaani (Lisa AT).  
-> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [katrinlucas.com](https://katrinlucas.com/podcast/) · [Apple EE](https://podcasts.apple.com/ee/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube](https://www.youtube.com/@AJULOPUTUS)  
 > Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
@@ -270,7 +268,7 @@ Professionaalne, faktipõhine. Ära välju kontekstist.
 >
 > **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
 > Valikuline teadlikkuse kanal — sobib neile, kes tahavad sügavamat konteksti enne OPORD-i.  
-> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [katrinlucas.com](https://katrinlucas.com/podcast/) · [Apple EE](https://podcasts.apple.com/ee/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube](https://www.youtube.com/@AJULOPUTUS)  
 > Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
@@ -310,7 +308,7 @@ Mänguline hääl väljas, mitte sarkasm haava peal.
 >
 > **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
 > Valikuline teadlikkuse kanal — sobib neile, kes tahavad sügavamat konteksti enne OPORD-i.  
-> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [katrinlucas.com](https://katrinlucas.com/podcast/) · [Apple EE](https://podcasts.apple.com/ee/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube](https://www.youtube.com/@AJULOPUTUS)  
 > Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
@@ -351,7 +349,7 @@ Austav, struktureeritud. Lühikesed laused kriisis.
 >
 > **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
 > Juhi vaatenurgast: kaitse enne tulemust. Kui keegi on ellujäämisrežiimis, ta ei näe plaani (Lisa AT).  
-> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [katrinlucas.com](https://katrinlucas.com/podcast/) · [Apple EE](https://podcasts.apple.com/ee/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube](https://www.youtube.com/@AJULOPUTUS)  
 > Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
@@ -391,7 +389,7 @@ Selge, assertiivne kui vaja. Mitte dominants.
 >
 > **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
 > Juhi vaatenurgast: kaitse enne tulemust. Kui keegi on ellujäämisrežiimis, ta ei näe plaani (Lisa AT).  
-> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [katrinlucas.com](https://katrinlucas.com/podcast/) · [Apple EE](https://podcasts.apple.com/ee/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube](https://www.youtube.com/@AJULOPUTUS)  
 > Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
@@ -432,7 +430,7 @@ Turvalisus enne loogikat. Ei süüdista vanemaid.
 >
 > **Valikuline kuulamine:** Papsid.ee Podcast  
 > Isa / pere rinne — Lisa H, Lisa D, PEEGEL_TEE_C  
-> Kuula: [https://papsid.ee/podcast/](https://papsid.ee/podcast/) · [Apple Podcasts](https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452)  
+> Kuula: [https://papsid.ee/podcast/](https://papsid.ee/podcast/) · [Apple EE](https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452)  
 > Täpsem: `kommunikatsioon/soovitus-papsid-podcast.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
@@ -472,7 +470,7 @@ Austav, aeglane tempo. Laps-keskne keel.
 >
 > **Valikuline kuulamine:** Papsid.ee Podcast  
 > Isa / pere rinne — Lisa H, Lisa D, PEEGEL_TEE_C  
-> Kuula: [https://papsid.ee/podcast/](https://papsid.ee/podcast/) · [Apple Podcasts](https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452)  
+> Kuula: [https://papsid.ee/podcast/](https://papsid.ee/podcast/) · [Apple EE](https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452)  
 > Täpsem: `kommunikatsioon/soovitus-papsid-podcast.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
@@ -513,7 +511,7 @@ Soe, mitte survav. Vabatahtlikkus.
 >
 > **Valikuline kuulamine:** Papsid.ee Podcast  
 > Isa / pere rinne — Lisa H, Lisa D, PEEGEL_TEE_C  
-> Kuula: [https://papsid.ee/podcast/](https://papsid.ee/podcast/) · [Apple Podcasts](https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452)  
+> Kuula: [https://papsid.ee/podcast/](https://papsid.ee/podcast/) · [Apple EE](https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452)  
 > Täpsem: `kommunikatsioon/soovitus-papsid-podcast.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
@@ -553,7 +551,7 @@ Rahulik, austav. Laps ei ole projekt.
 >
 > **Valikuline kuulamine:** Papsid.ee Podcast  
 > Isa / pere rinne — Lisa H, Lisa D, PEEGEL_TEE_C  
-> Kuula: [https://papsid.ee/podcast/](https://papsid.ee/podcast/) · [Apple Podcasts](https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452)  
+> Kuula: [https://papsid.ee/podcast/](https://papsid.ee/podcast/) · [Apple EE](https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452)  
 > Täpsem: `kommunikatsioon/soovitus-papsid-podcast.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
@@ -593,7 +591,7 @@ Aus, soe. Mitte tabu murdmine ilma turvalisuseta.
 >
 > **Valikuline kuulamine:** Papsid.ee Podcast  
 > Isa / pere rinne — Lisa H, Lisa D, PEEGEL_TEE_C  
-> Kuula: [https://papsid.ee/podcast/](https://papsid.ee/podcast/) · [Apple Podcasts](https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452)  
+> Kuula: [https://papsid.ee/podcast/](https://papsid.ee/podcast/) · [Apple EE](https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452)  
 > Täpsem: `kommunikatsioon/soovitus-papsid-podcast.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
@@ -633,7 +631,7 @@ Professionaalne konfidentsiaalsus. Valideerimine.
 >
 > **Valikuline kuulamine:** Papsid.ee Podcast  
 > Isa kriisis — Lisa H kontekstis  
-> Kuula: [https://papsid.ee/podcast/](https://papsid.ee/podcast/) · [Apple Podcasts](https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452)  
+> Kuula: [https://papsid.ee/podcast/](https://papsid.ee/podcast/) · [Apple EE](https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452)  
 > Täpsem: `kommunikatsioon/soovitus-papsid-podcast.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
@@ -673,7 +671,7 @@ Aus, mitte üleolev. Keha enne mõistust.
 >
 > **Valikuline kuulamine:** Papsid.ee Podcast  
 > Isa kriisis — Lisa H kontekstis  
-> Kuula: [https://papsid.ee/podcast/](https://papsid.ee/podcast/) · [Apple Podcasts](https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452)  
+> Kuula: [https://papsid.ee/podcast/](https://papsid.ee/podcast/) · [Apple EE](https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452)  
 > Täpsem: `kommunikatsioon/soovitus-papsid-podcast.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
@@ -713,7 +711,7 @@ Rahulik, kriitiline. Austa autonoomiat. Lisa P teiste suhtes.
 >
 > **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
 > Valikuline teadlikkuse kanal — sobib neile, kes tahavad sügavamat konteksti enne OPORD-i.  
-> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [katrinlucas.com](https://katrinlucas.com/podcast/) · [Apple EE](https://podcasts.apple.com/ee/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube](https://www.youtube.com/@AJULOPUTUS)  
 > Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.
@@ -753,7 +751,7 @@ Asjatundlik, praktiline. Lisa Q austav keel. Mitte masspostitus.
 >
 > **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
 > Valikuline teadlikkuse kanal — sobib neile, kes tahavad sügavamat konteksti enne OPORD-i.  
-> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube @AJULOPUTUS](https://www.youtube.com/@AJULOPUTUS)  
+> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [katrinlucas.com](https://katrinlucas.com/podcast/) · [Apple EE](https://podcasts.apple.com/ee/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube](https://www.youtube.com/@AJULOPUTUS)  
 > Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
 >
 > Kui soovid mitte osaleda — üks lause piisab. Austan seda.

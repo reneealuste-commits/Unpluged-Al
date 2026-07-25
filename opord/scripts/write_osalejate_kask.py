@@ -355,15 +355,20 @@ PODCAST_ACAST = (
     "https://shows.acast.com/avaomasilmad/episodes/"
     "ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm"
 )
-PODCAST_APPLE = "https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084"
+PODCAST_APPLE = "https://podcasts.apple.com/ee/podcast/ava-oma-silmad-podcast/id1541890084"
 PODCAST_YOUTUBE = "https://www.youtube.com/@AJULOPUTUS"
+PODCAST_ET_WEB = "https://katrinlucas.com/podcast/"
 PODCAST_REF = "kommunikatsioon/soovitus-maatriksi-lapsed.md"
+MEDIA_KEEL_REEGEL = (
+    "Eesti keel primaarselt \u2014 eestikeelne kanal enne v\u00f5\u00f5rkeelset."
+)
 
 PAPSID_TITLE = "Papsid.ee Podcast"
 PAPSID_WEB = "https://papsid.ee/podcast/"
 PAPSID_APPLE = "https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452"
 PAPSID_LAAGER = "https://papsid.ee/papside-laager/"
 PAPSID_REF = "kommunikatsioon/soovitus-papsid-podcast.md"
+MEDIA_KEEL_DOC = "kommunikatsioon/soovitus-meedia-eesti-primaar.md"
 
 PODCAST_HOOK = {
     "PERE": (
@@ -414,13 +419,14 @@ def papsid_email_block(pakett: str) -> str:
         )
     return (
         f"\nEnne kui materjaliga edasi l\u00e4hed \u2014 \u00fcks valikuline soovitus (isa / pere):\n\n"
-        f"KUULA: {PAPSID_TITLE} \u2014 Kristo Tuurmann & Illimar Pilt\n\n"
+        f"KUULA (eesti keeles): {PAPSID_TITLE} \u2014 Kristo Tuurmann & Illimar Pilt\n\n"
         f"{hook}\n\n"
         "Extreme Ownership, aus suhtlus (NVC) ja Body Keeps the Score loogikaga haakuv sisu. "
         "P\u00e4rast episoodi \u00fcks k\u00fcsimus: \u201eMida ma \u00f5ppisin ja mida teen t\u00e4na teisiti?\u201c\n\n"
         f"Kuula: {PAPSID_WEB}\n"
         f"Apple Podcasts: {PAPSID_APPLE}\n"
         f"Papside laager (3 p\u00e4eva): {PAPSID_LAAGER}\n\n"
+        f"{MEDIA_KEEL_REEGEL}\n"
         "See ei ole k\u00e4sk. V\u00e4ike samm t\u00e4na on tugevam kui t\u00e4iuslik plaan homme.\n"
     )
 
@@ -431,7 +437,7 @@ def podcast_email_block(pakett: str) -> str:
         return papsid_email_block(pakett)
     hook = _podcast_angle(pakett)
     return (
-        f"\nEnne kui materjaliga edasi l\u00e4hed \u2014 \u00fcks valikuline soovitus (~1h 20 min):\n\n"
+        f"\nEnne kui materjaliga edasi l\u00e4hed \u2014 \u00fcks valikuline soovitus (~1h 20 min, **eesti keeles**):\n\n"
         f"KUULA: {PODCAST_TITLE}\n\n"
         f"{hook}\n\n"
         "Kus s\u00fcsteem tabab k\u00f5ige enne lapsi \u2014 ja miks t\u00e4iskasvanud "
@@ -439,8 +445,10 @@ def podcast_email_block(pakett: str) -> str:
         "Extreme Ownershipi vaimus: mitte ainult s\u00fc\u00fcdistada s\u00fcsteemi, vaid n\u00e4ha, "
         "kus sina saad ise muutust luua \u2014 pere, meeskonna v\u00f5i enda sees.\n\n"
         f"Kuula: {PODCAST_ACAST}\n"
-        f"Apple Podcasts: {PODCAST_APPLE}\n"
-        f"YouTube (video, AJULOPUTUS kanal): {PODCAST_YOUTUBE} \u2014 otsi \u201eMaatriksi Lapsed\u201c\n\n"
+        f"Katrin Lucas (podcast): {PODCAST_ET_WEB}\n"
+        f"Apple Podcasts (EE): {PODCAST_APPLE}\n"
+        f"YouTube (@AJULOPUTUS): {PODCAST_YOUTUBE} \u2014 otsi \u201eMaatriksi Lapsed\u201c\n\n"
+        f"{MEDIA_KEEL_REEGEL}\n"
         "See ei ole k\u00e4sk. See on kutse avada silmad ja valida ise.\n"
     )
 
@@ -454,8 +462,8 @@ def podcast_markdown_block(pakett: str) -> str:
         return (
             f"> **Valikuline kuulamine:** {PAPSID_TITLE}  \n"
             f"> {hook}  \n"
-            f"> Kuula: [{PAPSID_WEB}]({PAPSID_WEB}) \u00b7 "
-            f"[Apple Podcasts]({PAPSID_APPLE})  \n"
+        f"> Kuula: [{PAPSID_WEB}]({PAPSID_WEB}) \u00b7 "
+        f"[Apple EE]({PAPSID_APPLE})  \n"
             f"> T\u00e4psem: `{PAPSID_REF}`\n>\n"
         )
     hook = _podcast_angle(pakett)
@@ -463,8 +471,9 @@ def podcast_markdown_block(pakett: str) -> str:
         f"> **Valikuline kuulamine (~1h 20 min):** {PODCAST_TITLE}  \n"
         f"> {hook}  \n"
         f"> Kuula: [{PODCAST_ACAST}]({PODCAST_ACAST}) \u00b7 "
-        f"[Apple Podcasts]({PODCAST_APPLE}) \u00b7 "
-        f"[YouTube @AJULOPUTUS]({PODCAST_YOUTUBE})  \n"
+        f"[katrinlucas.com]({PODCAST_ET_WEB}) \u00b7 "
+        f"[Apple EE]({PODCAST_APPLE}) \u00b7 "
+        f"[YouTube]({PODCAST_YOUTUBE})  \n"
         f"> T\u00e4psem kokkuv\u00f5te: `{PODCAST_REF}`\n>\n"
     )
 
@@ -544,11 +553,12 @@ def write_kask_md():
         f"| Email CSV-s kokku | vaata `osalejate-emailid.csv` |\n",
         f"| Email puudub (vaja otsida) | {len(NO_EMAIL)} |\n\n",
         "---\n\n",
-        "## Valikuline podcast (paketi j\u00e4rgi)\n\n",
-        f"**PERE / KRIIS** \u2192 [{PAPSID_TITLE}]({PAPSID_WEB}) \u2014 isa, vastutus, trauma (`{PAPSID_REF}`)  \n",
-        f"**Muu** \u2192 {PODCAST_TITLE} \u2014 laste kaitse (`{PODCAST_REF}`)\n\n",
-        f"| Papsid.ee | [{PAPSID_WEB}]({PAPSID_WEB}) \u00b7 [Apple]({PAPSID_APPLE}) |\n",
-        f"| Maatriksi Lapsed | [{PODCAST_ACAST}]({PODCAST_ACAST}) \u00b7 [Apple]({PODCAST_APPLE}) |\n\n",
+        "## Podcast ja meedia (eesti keel primaarselt)\n\n",
+        f"> **Reegel:** `{MEDIA_KEEL_DOC}`\n\n",
+        f"**PERE / KRIIS** \u2192 [{PAPSID_TITLE}]({PAPSID_WEB}) (ET)  \n",
+        f"**Muu** \u2192 {PODCAST_TITLE} (ET)\n\n",
+        f"| Papsid.ee (ET) | [{PAPSID_WEB}]({PAPSID_WEB}) \u00b7 [Apple EE]({PAPSID_APPLE}) |\n",
+        f"| Ava Oma Silmad (ET) | [{PODCAST_ACAST}]({PODCAST_ACAST}) \u00b7 [Apple EE]({PODCAST_APPLE}) |\n\n",
         "---\n\n",
     ]
     for i, p in enumerate(PARTICIPANTS, 1):

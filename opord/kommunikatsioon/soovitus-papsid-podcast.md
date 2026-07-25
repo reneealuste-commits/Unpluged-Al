@@ -5,7 +5,7 @@
 **Keel:** eesti  
 **Seotud:** Lisa D (Tugev isa), Lisa H, Lisa P, Lisa Q (NVC), PEEGEL_TEE_A, PEEGEL_TEE_C, papsid.ee
 
-> **Reegel:** Valikuline kuulamine — mitte käsk. Iga episood = üks küsimus: *„Mida ma õppisin ja kuidas rakendan seda täna oma perega?"*
+> **Reegel:** Valikuline kuulamine — mitte käsk. **Eesti keel primaarselt.** Iga episood = üks küsimus: *„Mida ma õppisin ja kuidas rakendan seda täna oma perega?"*
 
 ---
 
@@ -66,13 +66,15 @@ See ei ole käsk. Väike samm täna on tugevam kui täiuslik plaan homme.
 
 ---
 
-## Valikuline: inglisekeelsed (sügavam sisu)
+## Ainult kui eestikeelne ei piisa (teisejärguline)
 
-| Podcast | Fookus |
-|---------|--------|
-| **The Dad Edge** | Juhtimine, abielu, tervis, isiklik vastutus |
-| **Dad Up Podcast** | Motiveeriv, praktiline meeste areng |
-| **The Daily Dad** (Ryan Holiday) | Lühikesed doosid — stoitsism ja isadus |
+> **Ära soovita neid enne** [Papsid.ee](https://papsid.ee/podcast/) või teisi eestikeelseid kanaleid. Vt `soovitus-meedia-eesti-primaar.md`.
+
+| Podcast | Fookus | Keel |
+|---------|--------|------|
+| The Dad Edge | Juhtimine, abielu, tervis | EN |
+| Dad Up Podcast | Meeste areng | EN |
+| The Daily Dad (Ryan Holiday) | Stoitsism, isadus | EN |
 
 ---
 

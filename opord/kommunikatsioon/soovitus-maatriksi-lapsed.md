@@ -5,7 +5,7 @@
 **Saatejuhid:** Katrin Lucas + Ajuloputus  
 **Seotud:** Lisa K (Katrin Lucas), Lisa P, Lisa W, Lisa H, Lisa S, PEEGEL_TEE_C
 
-> **Reegel:** See on **valikuline** kuulamine — mitte käsk ega doktriin. OPORD-i hoiak: *ava silmad, vali ise, kriitiliselt mõtle.*
+> **Reegel:** See on **valikuline** kuulamine — mitte käsk ega doktriin. **Eesti keel primaarselt.** OPORD-i hoiak: *ava silmad, vali ise, kriitiliselt mõtle.*
 
 ---
 
@@ -35,10 +35,10 @@ Hooaja kontekstist (S4 #6, #9 — samad teemad, erinev nurk):
 
 | Kanal | Link |
 |-------|------|
-| **Acast** (otse episood) | https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm |
-| **Apple Podcasts** | https://podcasts.apple.com/us/podcast/ava-oma-silmad-podcast/id1541890084 |
-| **Katrin Lucas** (podcasti leht) | https://katrinlucas.com/podcast/ |
-| **YouTube** (AJULOPUTUS kanal) | https://www.youtube.com/@AJULOPUTUS — otsi „Maatriksi Lapsed“ |
+| **Acast** (otse episood, ET) | https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm |
+| **Katrin Lucas** (podcasti leht, ET) | https://katrinlucas.com/podcast/ |
+| **Apple Podcasts (Eesti)** | https://podcasts.apple.com/ee/podcast/ava-oma-silmad-podcast/id1541890084 |
+| **YouTube** (video, teisejärguline) | https://www.youtube.com/@AJULOPUTUS — otsi „Maatriksi Lapsed“ |
 
 ---
 

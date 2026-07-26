@@ -14,6 +14,7 @@
 | `vastus-kuldne-taganemine.md` | Taganemise mall |
 | `vastus-rein-urvas-eripension.md` | Facebook — kaitsekulu vs eripension, fondi kuivamine |
 | `vastus-leedokas-rannarootsi-sibulaskandaal.md` | Facebook — Rannarootsi reklaam, kunstlik solvumine, infohügieen |
+| `strateegia-eraldumine-combat-ready.md` | **Konf:** CR eraldumine, Remo sõnum, SWOT, Art of the Deal, vastuse mall |
 
 **Reegel:** Isiklik e-kiri, mitte masspost (Lisa AJ, Lisa AQ). **Eesti keel primaarselt** — vt `soovitus-meedia-eesti-primaar.md`.
 

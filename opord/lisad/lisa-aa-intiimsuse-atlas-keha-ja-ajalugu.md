@@ -1,29 +1,29 @@
 # Lisa AA — Intiimsuse atlas, keha ja ajalugu
 
-**Operatsioon „Peegel"** | Kohustuslik kirjandus — ava silmad | Põhimõte: *teadlikkus, mitte tabu*
+**Operatsioon „Peegel"** | Soovituslik teadlikkus — ava silmad | Põhimõte: *teadlikkus, mitte tabu; tasuta, mitte müük*
 
-**Allikad:** Tom Walsberg — *Intiimsuse atlas* (JES Kirjastus, 2024); Rachel Maines — *The Technology of Orgasm* (1999); **Epp Kärsin** (eppkarsin.com). Seotud: **Lisa E** (pere rindejoon), **Lisa W** (austus), **Lisa V** (uni, stress), **Lisa Y** (stress kehas).
+**Allikad:** Tom Walsberg — *Intiimsuse atlas* (JES Kirjastus, 2024); Rachel Maines — *The Technology of Orgasm* (1999). Seotud: **Lisa E** (pere rindejoon), **Lisa W** (austus), **Lisa V** (uni, stress), **Lisa Y** (stress kehas).
 
-> *🫡 **Ära usu mind. Kaitse eelkõige oma uskumusi ja veendumusi.** Loe *Intiimsuse atlasi*. Pane end kirja Epp Kärsini koolitusele. Uuri ise.*
+> *🫡 **Ära usu mind. Kaitse eelkõige oma uskumusi ja veendumusi.** Loe *Intiimsuse atlasi* raamatukogust või seda lisa. Uuri ise. Sa ei pea midagi ostma.*
 
 > *Teil on **parem ja nauditavam intiimsus**, kui teate, kuidas keha töötab — mitte ainult mida filmid või porr näitavad.*
 
 ---
 
-## Miks see lisa on kohustuslik
+## Miks see lisa on oluline
 
-OPORD manifest ütleb: **Intiimsuse atlas on kohustuslik kirjandus kõigile, ilma erandita.**
+Lisa AA annab **tasuta** teadmise, mida paljudes koolides ei õpetata.
 
 | Miks | Mida see annab |
 |------|----------------|
 | Pere on tühi ilma läheduseta | Intiimsus = armastuse kehakeel (Lisa E) |
 | Stress elab kehas (Lisa S, Y) | Orgasmi ja puudutuse biokeemia **vabastab** pinget |
-| Häbi blokeerib vestlust | Aus keel — nagu Epp Kärsin koolitustel |
+| Häbi blokeerib vestlust | Aus keel — partneriga, mitte müügikõne |
 | Mehed ja naised on **erinevad** | Erinevad orgasmid, erinev ajastus, erinev vajadus |
 
-**Raamat:** Tom Walsberg — *Intiimsuse atlas. Seksuaalsuse, naudingute ja suhete kompass* (2024, ~431 lk). [teadlikseksuaalsus.ee](https://teadlikseksuaalsus.ee/intiimsuseatlas/)
+**Raamat (soovituslik, mitte kohustus):** Tom Walsberg — *Intiimsuse atlas. Seksuaalsuse, naudingute ja suhete kompass* (2024, ~431 lk). Loe raamatukogust või kasuta seda lisa kokkuvõtet.
 
-**Praktiline järg:** loe raamat → pane end kirja **Epp Kärsin** koolitusele (yoni massaaž, keha tundmine).
+**Praktiline järg (tasuta):** loe Lisa AA → räägi partneriga ausalt → kasuta Lisa P trauma-reeglit.
 
 **Meestele (erektsioon, füsioloogia, relva hooldus):** **Lisa AF** — Sterling Cooper vs teadmine; kuidas erektsioon töötab; „puhasta relva" SOP.
 
@@ -128,45 +128,27 @@ Aeg + turvalisus + teadlikkus = päris nauding mõlemale
 | Naine tunneb **oma** keha (või partner teadlikult) | Häbi või tabu |
 | Teraapia **vorm** (holistiline) | Meditsiiniline diagnoos |
 
-**Epp Kärsin** (operatsiooni partner): yoni massaaži **juhend ja koolitus** tuleb kogenud koolitajalt — mitte YouTube'ist ega porrost.
+**Tähtis:** keha tundmine nõuab turvalisust ja ausat vestlust — mitte YouTube'i ega porro. Lisa AA annab teadmise tasuta; tasulised koolitused on vabatahtlik eraldi kanal.
 
-### Mida koolitus annab (Epp Kärsin)
+### Mida Lisa AA annab tasuta (enne mis tahes tasulist kanalit)
 
-**Naistele — „Naine, tunne oma keha":**
-- Hingamine, lõdvestus, stressi vabastamine
-- Enesemassaaž ja teadlik puudutus
-- Naise erogeensete tsoonide äratamine
-- Praktika (sh mulaažid koolitusel)
-
-**Meestele — Yoni massaaži koolitus:**
-- Naise keha ja olemus — **miks naine vajab aega**
-- 60+ yoni massaaži positsiooni (praktika mulaažidel)
-- Puudutuse kunst — **aeg ja kohalolu** on võtmesõnad
-- Üle 90% naistest — teesklmine; mees saab õppida **päris** naudingut pakkuma
+- Hingamine, lõdvestus, stressi vabastamine kehas
+- Enesemassaaž ja teadlik puudutus (partneriga, nõusolekuga)
+- Mehe ja naise erinevus — **aeg ja kohalolu** on võtmesõnad
+- Üle 90% naistest — teesklmine; aus vestlus aitab rohkem kui kiirus
 
 ---
 
-## 5. Pane end kirja — Epp Kärsin
+## 5. Partneriga aus vestlus — tasuta esimene samm
 
-> *Operatsioon ütleb: **ära loe ainult — tee.** Pane end kirja.*
+> *Operatsioon ütleb: **ära loe ainult — tee.** Alusta partneriga — ilma ostuta.*
 
-| | |
-|--|--|
-| **Veeb** | [eppkarsin.com](https://www.eppkarsin.com) |
-| **Kõik koolitused** | [eppkarsin.com/et/koolitused](https://www.eppkarsin.com/et/koolitused/) |
-| **Naistele — yoni, tunne oma keha** | [eppkarsin.com — Naine, tunne oma keha](https://www.eppkarsin.com/et/koolitused/naine-tunne-oma-keha-ehk-yoni-massaazi-koolitus-naistele/8) |
-| **Meestele — yoni massaaž** | [eppkarsin.com — Yoni massaaži koolitus](https://www.eppkarsin.com/et/koolitused/yoni-massaazi-koolitus/5) |
-| **Stuudio** | Paldiski mnt 21-1, 10149 Tallinn |
-| **Tel** | **5362 8568** |
-| **E-post** | epood@eppkarsin.com |
-| **Instagram** | @epp.karsin |
+**Järgmine samm (tasuta):**
+1. Loe Lisa AA või *Intiimsuse atlas* raamatukogust
+2. Räägi partneriga ausalt (Lisa P — valideerimine, turvalisus)
+3. Tasulised koolitused on vabatahtlik eraldi kanal — operatsioon ei nõua ostu
 
-**Järgmine samm:**
-1. Loe **Intiimsuse atlas** (Walsberg)
-2. Mine [eppkarsin.com](https://www.eppkarsin.com) → vali koolitus → **registreeru**
-3. Räägi partneriga ausalt (Lisa P — valideerimine, turvalisus)
-
-**Epp operatsioonis:** teadlik intiimsus, häbist vabanemine, paarid ja noored — vt Lisa K, OPORD profiil.
+**Epp Kärsin** on võrgustiku partner teadliku intiimsuse valdkonnas — tema tasulised teenused on eraldi, mitte operatsiooni nõue. Vt Lisa K, OPORD profiil.
 
 ---
 
@@ -328,12 +310,10 @@ Homme: muruväljak → paljajalu / kerged jalatsid → keha tunneb maad → rahu
 | Samm | Tegevus |
 |------|---------|
 | 1 | Loe **Lisa H** — kui tunned end Eppi või Renee loos ära |
-| 2 | Loe **Intiimsuse atlas** + **Lisa AA** |
-| 3 | **Pane end kirja** [Epp Kärsin](https://www.eppkarsin.com) koolitusele |
-| 4 | Mine **Pühalisse** või järgmisele Hi on Life üritusele — [puhali.ee](https://puhali.ee) |
-| 5 | Uuri **jalanõude** mõju — küsi perearstilt, loe allikaid |
-| 6 | Kõnni **murul paljajalu** — alusta 5 minutit |
-| 7 | Küsi omavalitsuselt: **kus on meie muruväljak?** (Lisa Z, Lisa L) |
+| 2 | Loe **Intiimsuse atlas** + **Lisa AA** (tasuta) |
+| 3 | Räägi partneriga ausalt — Lisa P reeglid |
+| 4 | Kõnni **murul paljajalu** — alusta 5 minutit |
+| 5 | Küsi omavalitsuselt: **kus on meie muruväljak?** (Lisa Z, Lisa L) |
 
 ---
 
@@ -355,7 +335,7 @@ Homme: muruväljak → paljajalu / kerged jalatsid → keha tunneb maad → rahu
 
 ## 8. Üks lause, mida võid jagada
 
-> **„Loe Intiimsuse atlasi. Mõista, kui erinevad me oleme. Orgasmi ajalugu on kontrolli ajalugu. Pane end kirja Epp Kärsini koolitusele — ja räägi partneriga ausalt."**
+> **„Loe Intiimsuse atlasi või Lisa AA-d. Mõista, kui erinevad me oleme. Orgasmi ajalugu on kontrolli ajalugu. Räägi partneriga ausalt — tasuta."**
 
 ---
 

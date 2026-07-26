@@ -401,7 +401,7 @@
 | Peep Vain | Koolitaja (Vain & Partners) | Juhtimine, motivatsioon, enesemääramine |
 | Alar Ojastu | Koolitaja, autor | *Ratsionaalne emotsionaalsus*; emotsioonid ja juhtimine |
 | Tiit Trofimov | Enesearengu teejuht | Emotsioonid, meeste ring, meditatsioon (tiittrofimov.ee) |
-| Epp Kärsin | Amare Luna / eppkarsin.com | Yoni koolitus, intiimsus — **Lisa AA**; pane end kirja |
+| Epp Kärsin | Amare Luna / eppkarsin.com | Teadlik intiimsus — **Lisa AA** (tasuta); tasulised koolitused eraldi kanal |
 | Vanja Moves meeskond | vanjamoves.com / movesmethod.com | Mobility, rippumine 90 sek — **Lisa AB**; tasuta YouTube |
 | Kaia Kapsta-Forrester | Pere- ja paaripsühholoog | IMAGO, PREP, raseduskriis (kaiakapsta.com) |
 | Kert Grünberg | Holistiline regressiooniterapeut | Trauma, TRE, kaassõltuvus (hingamistuba.ee) |

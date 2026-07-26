@@ -16,7 +16,7 @@ Häbist vabanemine; stress kehast välja
 ## Konkreetsed ülesanded
 
 1. Tutvu Lisa AA ja Lisa AI
-2. Suuna huvilised eppkarsin.com — pane end kirja
+2. Suuna huvilised Lisa AA-le — tasuta teadlikkus
 3. Anna tagasiside: kas Peegel ja sinu töö klapivad
 
 ## Käitumisjuhis
@@ -38,7 +38,7 @@ Sinu eesmärk: Häbist vabanemine; stress kehast välja.
 
 Konkreetselt sinult:
 - Tutvu Lisa AA ja Lisa AI
-- Suuna huvilised eppkarsin.com — pane end kirja
+- Suuna huvilised Lisa AA-le — tasuta teadlikkus
 - Anna tagasiside: kas Peegel ja sinu töö klapivad
 
 Materjal: [lisa isiklik link — P1-C-PERE (täiendus)]

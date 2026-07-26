@@ -134,7 +134,7 @@ Lisa Z kirjeldab tööstusmudelit: isa ära, ema ülekoormatud, lapsed mujal, li
 | 2 | **Loe** — Lisa P, Lisa AA, *Intiimsuse atlas* |
 | 3 | **Ära feedi** drama — ruum, turvalisus, ignoreeri haukumist |
 | 4 | **Näita teed** — mitte käsk, vaid **eeskuju** |
-| 5 | **Pane end kirja** Eppule — yoni/intiimsus naistele ja meestele |
+| 5 | Räägi partneriga ausalt — Lisa P, Lisa AA (tasuta) |
 | 6 | **Partnerlus** — isa kohal, pere rindejoon (Lisa E, Z) |
 
 **Mees ei ole see, kes naise „maha planeerib".** Mees on see, kes **esimesena ütleb**: *ma ei tea kõike, aga ma otsin teed välja — ja ma näitan sulle seda teed.*
@@ -149,7 +149,7 @@ Lisa Z kirjeldab tööstusmudelit: isa ära, ema ülekoormatud, lapsed mujal, li
 1. TURVALISUS (Lisa P)     →  ruum, mitte surve
 2. TOIMIMINE (Lisa V, AB)  →  uni, keha, liikumine
 3. TEOORIA (Lisa AA)       →  Intiimsuse atlas — kuidas keha töimib
-4. PRAKTIKA (Epp Kärsin)   →  yoni koolitus, aus vestlus
+4. PRAKTIKA (Lisa AA)   →  aus vestlus partneriga, tasuta teadlikkus
 5. STRUKTUUR (Lisa Z, E)   →  partnerlus, isa kohal, pere rindejoon
 6. KORDUS                    →  iga päev väike samm, mitte üks suur kõne
 ```
@@ -160,7 +160,7 @@ Lisa Z kirjeldab tööstusmudelit: isa ära, ema ülekoormatud, lapsed mujal, li
 |---|---------|-------------|
 | 1 | Loe **Lisa P KRIITILINE** — ära võitle öösel | Lisa P |
 | 2 | Loe **Intiimsuse atlasi** — mõista erinevust | Lisa AA |
-| 3 | **Pane end kirja** Epp Kärsinile | [eppkarsin.com](https://www.eppkarsin.com) · **5362 8568** |
+| 3 | Lisa AA — partneriga aus vestlus (tasuta) |
 | 4 | Üks **ekraanivaba** õhtu nädalas — pere rindejoon | Lisa E |
 | 5 | Mine **Pühalisse** / Hi on Life — näita, mis on võimalik | puhali.ee |
 | 6 | Räägi **ausalt** — „ma tahan õppida, mitte võita" | Lisa I |
@@ -217,7 +217,7 @@ Lisa Z kirjeldab tööstusmudelit: isa ära, ema ülekoormatud, lapsed mujal, li
 
 - „Ma lugesin öösel Lisa AC-d. Ma saan aru. Ma ei süüdista sind. Ma tahan näidata teed."
 - Pane telefonile **Intiimsuse atlasi** tellimus või loe koos.
-- **Pane end kirja Eppule** — ühiselt, kui ta on valmis.
+- **Räägi partneriga ausalt** — Lisa AA ja Lisa P (tasuta).
 
 ---
 

@@ -30,6 +30,8 @@
 
 > **Bränd:** Operatsioon „Peegel" on **Renee Aluste kodanikualgatus** (reneealuste.com). See ei ole ühegi äri- ega koolitusettevõtte toode.
 
+> **Tasuta tuum:** Kogu operatsiooni sisu — OPORD, lisad, PDF-id, taskukaardid — on **tasuta** ja kättesaadav ilma ostuta. Sa **ei pea** ostma ühtegi teenust, kursust, koolitust ega toodet, et olla osa sellest. Ainult **vabatahtlikud igapäevased soovitused** (nt toit poest, lihtne köögiseade) — mitte müügikõne.
+
 ---
 
 ## OPERATSIOONI PÕHIMÕTE — LOE ENNE KÕIKE MUU
@@ -107,12 +109,12 @@ Täielik juhend: **Lisa P § KRIITILINE REEGEL** · Lisa S (miks) · Lisa H (kri
 | **Lisa Z** | Linnad, tööstusmudel, partnerlus, ettevõtlus — reform Eestist |
 | **Lisa I** | Steiger 1997 — *Inimesekeskne juhtimine*; peakirjastaja **Heli Illipe-Sootak** |
 | **Lisa P** | **KRIITILINE trauma-reegel** — teistsugune reaalsus, koera metafoor, Cooper, ära feedi haukumist |
-| **Lisa AA** | *Intiimsuse atlas*, orgasmid, vibraatori ajalugu, **Epp Kärsin** yoni koolitus |
+| **Lisa AA** | *Intiimsuse atlas*, orgasmid, vibraatori ajalugu — **tasuta** teadlikkus (Lisa AA) |
 | **Lisa AF** | **Meestele:** erektsioon — kuidas töötab, Sterling Cooper / dis-ease, „relva puhastamine" SOP |
 | **Lisa AG** + **Orion Taraban** — *The Value of Others* (2024) | **Kapten ja laev** — mehe SOP (uks, kotid, kohting), realistlik partnerlus; ISBN 979-8990069510 |
 | **Lisa AB** | **Paljajalu linnas** + **rippumine 90 sek/päev** — Vanja Moves, schoolofmobility.com |
 
-Täiendab **Epp Kärsin** teadlikku intiimsust — **pane end kirja:** [eppkarsin.com](https://www.eppkarsin.com) · yoni koolitus naistele ja meestele · Paldiski mnt 21-1, Tallinn · **5362 8568**
+Täiendab **Epp Kärsin** teadlikku intiimsust — **tasulised koolitused on eraldi kanal**; operatsioon ei nõua ostu. Lisa AA annab teadmise tasuta.
 
 > *See operatsioon kutsub sind **kaasa nautima** seda, mis on veel võimalik siin elus — endaga, peres, kehas. Mitte allumisega. **Teadlikkusega.***
 
@@ -590,8 +592,8 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 - **Roll operatsioonis:** Teadliku seksuaalsuse ja intiimsuse koolitaja; häbistatud teemade avamine ausa keele kaudu — paaridele, naistele, meestele ja noortele.
 - **Taust:** Amare Luna OÜ tegevjuht; koolitaja alates 2015 ([eppkarsin.com](https://www.eppkarsin.com)). Tartu Ülikooli kehakultuuri teaduskond; holistika, Hiina meditsiin, tantra-alased kursused. Koolitused: paaridele, naistele, meestele, noortele („Seksist ilha häbita"); ettevõtetele. Raamat *Ennast raiskame võõrastes voodites* (koos Mihkel Rauaga). Avalik eesmärk: reformida seksuaalharidust Eesti koolides — ilma tabu ja häbita.
 - **Mõjuala:** **Pere rindejoon ja lähedus** — tugev pere vajab ka füüsilist ja emotsionaalset intiimsust; paljud lahutused ja kriisid algavad vaikimisest ja häbist. Epp murrab tabu, et paarid saaksid rääkida ausalt. Täiendab tantravõrgustikku (Earthchild, Skalkina, Sarmet) **konkreetsema kehakeelse haridusega**; seob operatsiooni põhimõttega *austus = armastus käitumise kaudu*.
-- **Miks ta on siin:** Infosõda tabab ka magamistoa — häbi, võõrutus, pornograafia sõltuvus. Operatsioon „Peegel" ütleb: tugev isa ja ema on ka lähedased partnerid. Epp pakub turvalist ruumi, kus intiimsus ei ole tabu ega müügitoode, vaid teadlik hoolitsus. **Põhimõte:** *To heal is to feel* — suhtlus kehaga nõuab traumast tervenemist ja tunde välja lasemist (Lisa AA §9).
-- **Yoni massaaži koolitus (pane end kirja):** [Naine, tunne oma keha](https://www.eppkarsin.com/et/koolitused/naine-tunne-oma-keha-ehk-yoni-massaazi-koolitus-naistele/8) · [Yoni massaaž meestele](https://www.eppkarsin.com/et/koolitused/yoni-massaazi-koolitus/5) · Stuudio Paldiski mnt 21-1, Tallinn · **5362 8568** · Täielik juhend: **Lisa AA**
+- **Miks ta on siin:** Infosõda tabab ka magamistoa — häbi, võõrutus, pornograafia sõltuvus. Operatsioon „Peegel" ütleb: tugev isa ja ema on ka lähedased partnerid. Epp pakub turvalist ruumi, kus intiimsus ei ole tabu ega müügitoode, vaid teadlik hoolitsus. **Põhimõte:** *To heal is to feel* — suhtlus kehaga nõuab traumast tervenemisest ja tunde välja lasemist (Lisa AA §9).
+- **Täielik juhend (tasuta):** **Lisa AA** — keha teadlikkus ilma kohustusliku ostuta.
 - **Hi on Life @ Pühali:** esinemine Pühali Hea Elu Keskuses (PVC telk, lava) — Renee Aluste tunnistus: siirus, taastumine, padjuke kukla alla (Lisa AA §9)
 
 #### Vanja Moves meeskond — Liikuvus, vigastuste ennetus, rippumine
@@ -901,7 +903,7 @@ Operatsioon „Peegel" põhineb peegelneuronitel — ajus mehhanismil, mille abi
 
 **Faas I — Teadvustamine (kuud 1–3):** Ava silmad. Tuvasta manipulatsioon. Jälgi oma infokäitumist. Vähenda algoritmidele allumist. Alusta eneseanalüüsiga.
 
-**Faas II — Tugevdamine (kuud 4–8):** Ehita harjumusi. Perekonna aeg. Füüsiline liikumine. Mentorlus. Võrgustiku koolitused. Laste Supermängud (Tanel Jäppinen). MTÜ Team Pertinax treeningud (Aigar Ojaots, mereväe meeskond). „Ava oma Silmad" taskuhääling teadlikkuseks. Ingvar Villido Practical Consciousness kursused. Tantralaagrid ja Eesti Tantrafestival (Earthchild, Skalkina, Sarmet, Saul). Pühali Hea Elu Keskus — loodus, sauna, puhkus (Sõõrumaa). Noorte Kotkad (Järvsoo). Harku piirkond (Ambros). Veteranide tugi (Kinnunen).
+**Faas II — Tugevdamine (kuud 4–8):** Ehita harjumusi. Perekonna aeg. Füüsiline liikumine. Mentorlus. Tasuta võrgustiku kanalid (podcastid, YouTube, lisad). Laste Supermängud (Tanel Jäppinen). MTÜ Team Pertinax treeningud (Aigar Ojaots). „Ava oma Silmad" taskuhääling. Noorte Kotkad (Järvsoo). Harku piirkond (Ambros). Veteranide tugi (Kinnunen). Tasulised kursused/laagrid on vabatahtlikud — mitte kohustus.
 
 **Faas III — Peegeldamine (kuud 9–12):** Oma kogukonnas eeskujuks. Räägi teistega. Toeta naabrit, kolleegi, sõpra. Iga tugev isa, iga toetav ema, iga mentor on võit.
 
@@ -1096,10 +1098,10 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 3. Raamat *Lõpp on algus. Julgus elada iseendana* — elulugu põhjast taastumisest; soovitus neile, kes on kaotanud kõik ja otsivad uut algust.
 
 ### Epp Kärsin (teadlik intiimsus)
-1. **Pane end kirja** yoni massaaži koolitusele — naistele ja meestele ([eppkarsin.com](https://www.eppkarsin.com)) · **5362 8568** · Lisa AA.
-2. Koolitused paaridele, naistele ja meestele — aus intiimsus ilma häbita; stressi vabastamine kehas teadliku puudutuse kaudu.
+1. Lisa AA — keha teadlikkus ja intiimsus **tasuta** (raamatukogust või lisa enda kaudu).
+2. Aus intiimsus ilma häbita — stressi vabastamine kehas teadliku puudutuse kaudu (partneriga).
 3. **To heal is to feel** — suhtlus oma kehaga algab traumast tervenemisest ja tunde välja laskest (Lisa AA §9; Lisa S, Lisa H).
-4. Noorte loeng „Seksist ilma häbita" — seksuaalharidus, mida koolis sageli ei anta.
+4. Noorte loeng „Seksist ilma häbita" — seksuaalharidus (vabatahtlik kanal, mitte kohustus).
 5. Täiendab *Intiimsuse atlasi* (Walsberg) ja pere rindejoont (Lisa E) — intiimsus kui armastuse kehakeel.
 
 ### Kaia Kapsta-Forrester (pere ja paar)
@@ -1149,8 +1151,8 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 | **„Juhul kui…" (trauma / trigger)** | **Keha enne mõistust** (van der Kolk): turvalisus → rahunemine → alles siis vestlus. Suust tulev sõna on signaal, mitte alati tõde. **Lisa P KRIITILINE REEGEL:** ära vaidle trauma olekus; ignoreeri „haukumist"; tasusta rahulikku. Suuna: Kert Grünberg, Kaia Kapsta-Forrester, Lisa H/F, EMDR. Inimene kontrollib tempot. |
 | **„Juhul kui…" (identiteet)** | Loe Lisa M — Robbinsi 5 sammu, manifest peegli ees, kodaniku vanne. LIHTSUS: üks plaan, üks tegu. |
 | **„Juhul kui…" (riik / bürokraatia)** | Loe Lisa L (Musk): küsi → kustuta → lihtsusta → kiirenda → automatiseeri. Automatiseeri viimasena. |
-| **„Juhul kui…" (keha suletud)** | Kui tunned end emotsionaalselt külmutatuna — kaaluge tantralaagrit või festivali (tantrafest.ee), Villido kursust (lilleoru.ee) või puhkust Pühalis (puhali.ee). Kriisis: Lisa H esimesena. |
-| **„Juhul kui…" (tahad olla tugevam isa)** | Loe Lisa D (*Tugev isa*). Kaaluge [papsid.ee](https://papsid.ee) koolitusi või **Papside laagrit** ([papsid.ee/papside-laager](https://papsid.ee/papside-laager/)) — 3 päeva isadele, praktilised tööriistad pere jaoks. |
+| **„Juhul kui…" (keha suletud)** | Kui tunned end emotsionaalselt külmutatuna — alusta **tasuta**: Lisa H, Lisa BA (keha vabastamine), Lisa AB (rippumine YouTube'ist, murul kõnd). Tasulised laagrid/kursused on vabatahtlikud, mitte nõutud. Kriisis: Lisa H esimesena. |
+| **„Juhul kui…" (tahad olla tugevam isa)** | Loe Lisa D (*Tugev isa*) — tasuta PDF. Kuula [papsid.ee](https://papsid.ee/podcast/) podcasti (tasuta). Tasulised koolitused/laagrid on eraldi kanal, mitte kohustus. |
 | **Lahingureeglid** | Ei ründa. Ei laima. Ei vihka. Ei manipuleeri. Peegeldame tervist, mitte haigust. |
 | **„Juhul kui…" (keegi palub nime eemaldada)** | **Lisa AJ** — kuldne taganemistee: eemalda nimi kõigist dokumentidest; kinnita austavalt; ära avalda. |
 | **Levitamine käsus nimetatud isikutele** | Lisa AJ — isiklik link või kuller + vahapitsat; lugemiskinnitus; vt `kommunikatsioon/vastus-kuldne-taganemine.md` näidis. |
@@ -1312,7 +1314,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 - **Taskukaardid, väljapoole suhtlemine:** Lisa X — `lisad/lisa-x-taskukaardid-valjasuhtlus.md` (OPSEC, 5 teemat, lendleht, märkmikku kirjutamine)
 - **Kanep, endokannabinoidsüsteem, CBD ja toit (mitte suitsetamine):** Lisa Y — `lisad/lisa-y-kanep-endokannabinoid-ja-ajalugu.md` (ECS, CBD, rasvad, case study'd, kriitiline mõtlemine)
 - **Linnad, tööstusühiskond ja partnerlus:** Lisa Z — `lisad/lisa-z-linnad-toostusuhiskond-ja-partnerlus.md` (suletud toad, isa eemal, ettevõtlus, reform Eestist)
-- **Intiimsuse atlas, keha, orgasmid, yoni koolitus:** Lisa AA — `lisad/lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md` (Walsberg 2024, vibraatori ajalugu, **Epp Kärsin** — pane end kirja: eppkarsin.com)
+- **Intiimsuse atlas, keha, orgasmid:** Lisa AA — `lisad/lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md` (Walsberg 2024, vibraatori ajalugu — **tasuta**)
 - **Paljajalu kohandamine ja rippumine linnas:** Lisa AB — `lisad/lisa-ab-paljajalu-ja-rippumine-linnas.md` (muruväljakud, Korea mudel, **90 sek rippumist päevas**, Vanja Moves / schoolofmobility.com)
 - **Magamistuba, võim ja revolutsioon:** Lisa AC — `lisad/lisa-ac-magamistuba-voim-ja-revolutsioon.md` (naised ei ole kurjad; mehe ownership; näita teed — Epp, Intiimsuse atlas)
 - **Lood, konversiooni checklist, taskukaardid:** Lisa AD — `lisad/lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md` (7 sammu, prinditav checklist, mida öelda kui keegi vastu hakkab)
@@ -1653,7 +1655,7 @@ Täielik alus: **Lisa I** (Steiger) + **Lisa P** (van der Kolk, spordikommentaat
 
 **Revolutsioon:**
 1. **Lisa P** öösel — ruum, turvalisus, ignoreeri haukumist, ära feedi
-2. **Hommikul** — näita teed: *Intiimsuse atlas*, pane end kirja **Epp Kärsinile**, partnerlus (Lisa Z, E)
+2. **Hommikul** — näita teed: Lisa AA (tasuta teadlikkus), aus vestlus partneriga (Lisa Z, E)
 3. **Ära võida manipulatsiooni manipulatsiooniga** — näita teed
 
 *Minu küsimus sulle: Kas sa oled võtnud ownership — või ootad, et tema muutub esimesena?*
@@ -1757,14 +1759,14 @@ Täielik juhend: **Lisa I**. Linnad ja tööstusmudel: **Lisa Z**. Ära usu mind
 
 **V (Renee Aluste):** Sest **teil on parem intiimsus, kui teate, kuidas keha töötab** — mitte ainult mida filmid näitavad.
 
-**Lisa AA** (kohustuslik):
-1. **Tom Walsberg — *Intiimsuse atlas* (2024)** — mees ja naine on **erinevad**; erinevad orgasmid on võimalikud; biokeemia ja suhted
+**Lisa AA** (soovituslik, tasuta):
+1. **Tom Walsberg — *Intiimsuse atlas* (2024)** — loe raamatukogust või Lisa AA kokkuvõte; mees ja naine on **erinevad**; erinevad orgasmid on võimalikud; biokeemia ja suhted
 2. **Vibraatori ajalugu** — arstid, „hüsteeria", stressi vabastamine kehas (Maines 1999 + kriitiline ülevaade — ava silmad)
-3. **Epp Kärsin** — yoni massaaži **juhend ja koolitus** operatsiooni partnerilt. **Pane end kirja:** [eppkarsin.com](https://www.eppkarsin.com) · naistele: [Naine, tunne oma keha](https://www.eppkarsin.com/et/koolitused/naine-tunne-oma-keha-ehk-yoni-massaazi-koolitus-naistele/8) · meestele: [Yoni massaaž](https://www.eppkarsin.com/et/koolitused/yoni-massaazi-koolitus/5) · **5362 8568** · Paldiski mnt 21-1, Tallinn
+3. **Keha teadlikkus** — partneriga aus vestlus ja puudutus; tasulised koolitused on vabatahtlik eraldi kanal, mitte operatsiooni nõue
 
 See ei ole porr. See on **teadlikkus** — nagu uni (Lisa V) või toit (Lisa U). Häbi on infosõja relv. Me võtame relva ära.
 
-*Minu küsimus sulle: Kas sa oled lugenud Intiimsuse atlasi — ja kas sa oled end kirja pannud Epp Kärsini koolitusele?*
+*Minu küsimus sulle: Kas sa oled lugenud Lisa AA-d või Intiimsuse atlasi — ja kas sa räägid partneriga ausalt?*
 
 ---
 
@@ -1776,7 +1778,7 @@ Ma olin lava ees selili — Maria ja Il kõrval. Kukka ei saanud maha panna. **K
 
 Epp rääkis oma teest: enese vastu vägivald, depressioon, alkohol, enesetapu ääre — ja kuidas ta tuli välja. Kõnnib **paljajalu**. Mõtleb, kuidas **tema keha** tunneb. Eppi sõnum: **suhtlus kehaga** nõuab traumast tervenemist — ja tunde **välja lasemist**. *To heal is to feel.*
 
-**Lisa AA §9–10** — täielik tunnistus + **To heal is to feel** + jalanõude uurimustöö + **muruväljakud linnas** (Lisa Z). **Lisa AB** — paljajalu kohandamise võimalused + **rippumine 90 sek päevas** (Vanja Moves: schoolofmobility.com). Mine Pühalisse. Pane end kirja Eppule. Kõnni murul. Rippu.
+**Lisa AA §9–10** — täielik tunnistus + **To heal is to feel** + jalanõude uurimustöö + **muruväljakud linnas** (Lisa Z). **Lisa AB** — paljajalu kohandamise võimalused + **rippumine 90 sek päevas** (Vanja Moves: tasuta YouTube). Kõnni murul. Rippu.
 
 *Minu küsimus sulle: Millal sa viimati **lubasid end tunda** — mitte ainult mõelda?*
 
@@ -1992,7 +1994,7 @@ Koos **Lisa AA** (*Intiimsuse atlas*) — mehe keha teadlikult, ilma porri kui �
 
 **K: Kas ma pean minema tantrafestivalile, et operatsioonist kasu saada?**
 
-**V:** Ei. Operatsioon on tasuta ja kättesaadav ilma festivalita. Aga kui sa tunned, et su keha on su mõistusest ees kinni — ja sa oled valmis — tantrafest.ee ja tantratants.ee on üks võimalik tee. Ingvar Villido kursused on teine. Pühali Hea Elu Keskus (puhali.ee) kolmas — loodus, sauna, vaikus. Katrin Lucase taskuhääling neljas. Vali see, mis sulle sobib. Me ei müü ühtegi neist teistele peale.
+**V:** Ei. Operatsioon on tasuta ja kättesaadav ilma ühestki tasulisest teenusest. Kui su keha on kinni — alusta **tasuta**: Lisa H, Lisa BA, Lisa AB (YouTube rippumine, murul kõnd). Festivalid, kursused ja puhkekeskused on vabatahtlikud eraldi kanalid — me ei müü neid ega nõua ostu.
 
 *Minu küsimus sulle: Mis on sinu jaoks turvaline ruum — ja kas sa seda täna lood?*
 ---
@@ -2486,7 +2488,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **X** | — | `lisad/lisa-x-taskukaardid-valjasuhtlus.md` | **Taskukaardid** — väljapoole suhtlemine, OPSEC, 5 teemat, lendlehe tekst, demomehed |
 | **Y** | — | `lisad/lisa-y-kanep-endokannabinoid-ja-ajalugu.md` | **ECS, CBD, toit** — mitte suitsetamine; efekt stressist välja; case study'd; varimajandus |
 | **Z** | — | `lisad/lisa-z-linnad-toostusuhiskond-ja-partnerlus.md` | **Linnad = vanglad** — dominantne süsteem; Steiger 1997 vastus; partnerlus |
-| **AA** | — | `lisad/lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md` | **Intiimsuse atlas** — mees/naise erinevus, orgasmid, vibraatori ajalugu, Epp Kärsin yoni koolitus |
+| **AA** | — | `lisad/lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md` | **Intiimsuse atlas** — mees/naise erinevus, orgasmid, vibraatori ajalugu (tasuta) |
 | **AB** | — | `lisad/lisa-ab-paljajalu-ja-rippumine-linnas.md` | **Paljajalu linnas** + **rippumine 90 sek/päev** — Vanja Moves, schoolofmobility.com, omavalitsuse checklist |
 | **AC** | — | `lisad/lisa-ac-magamistuba-voim-ja-revolutsioon.md` | **Magamistuba ja revolutsioon** — võim, ownership, naised ei ole kurjad, näita teed |
 | **AD** | — | `lisad/lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md` | **Lood ja konversioon** — 7-sammu checklist, taskukaardid, mida öelda kui keegi vastu hakkab |

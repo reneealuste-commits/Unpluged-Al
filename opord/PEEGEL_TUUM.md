@@ -28,6 +28,8 @@ See siin ei ole käsk. See on kutse **kriitiliselt mõelda** — uurida, kaaluda
 
 > *„**Kohtleme kõiki asjaosalisi nagu terveid, täiesti normaalseid inimesi.**“*
 
+> **Tasuta tuum:** Kogu materjal on tasuta. Sa ei pea ostma teenust, kursust ega toodet. Ainult vabatahtlikud igapäevased soovitused (nt toit poest) — vt Lisa U.
+
 ---
 
 ## Esimene samm — ära usu oma aju

@@ -492,7 +492,7 @@ Rahulik, austav. Laps ei ole projekt.
 ### Sinu ülesanded
 
 1. Tutvu Lisa AA ja Lisa AI
-2. Suuna huvilised eppkarsin.com — pane end kirja
+2. Suuna huvilised Lisa AA-le — tasuta teadlikkus
 3. Anna tagasiside: kas Peegel ja sinu töö klapivad
 
 ### Käitumisjuhis

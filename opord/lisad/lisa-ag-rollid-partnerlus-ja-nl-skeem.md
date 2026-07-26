@@ -225,7 +225,7 @@ Kui **suund on paigas** ja **oskus kohaneda** teekonnal on olemas:
 | # | Juhend | Lisa |
 |---|--------|------|
 | 1 | **Loe** *Intiimsuse atlasi* — mõista oma keha | AA |
-| 2 | **Pane end kirja** Epp Kärsinile — yoni, ausus | AA |
+| 2 | Lisa AA — keha teadlikkus, aus vestlus partneriga | AA |
 | 3 | **Ära blokeeri** meest „minu mees" omamisega | AE, AC |
 | 4 | **Räägi** — mida vajad; ära oota loetlemist | P, Q |
 | 5 | **Toeta** mehe vastutust — ära alanda ega kontrolli GPS-iga | AC |

@@ -165,7 +165,21 @@ Stefanssoni ja Bellevue viide kinnitas intuitsiooni: **rasvarikas loomne toit** 
 | **Ekraan** | Vähenda — eriti söömis ajal ja enne und |
 | **Suhted** | Üks aus vestlus nädalas — ilma telefonita |
 
-### Toidulaual (Eesti)
+### Toidulaual (Eesti) — lihtsad igapäevased soovitused
+
+Need on **vabatahtlikud praktilised näited**, mitte müügikõne ega kohustus:
+
+| Soovitus | Näide | Miks |
+|----------|-------|------|
+| **Kuumaõhugrill** | Lihtne seade poest (nt Depo) | Kiire rasvane toit kodus — vähem tööstuslikku junki |
+| **Peekon** | Lidl või kohalik poekett | Rasv + valk koos — Bellevue loogika igapäevaselt |
+| **Sea kõhupeekon** | Lihatööstus / pood | Täisväärtuslik loomne rasv — mitte ainult lahja filee |
+| **Kala** | Räim, heeringas, kilu, lõhe | Traditsiooniline Eesti rasvane kalatoit |
+| **Munad, köögiviljad** | Kohalik | Täisväärtuslik profiil |
+
+> *Sa ei pea ostma ühtegi brändi ega teenust. Kui sul on pann, ahjuvorm või lihtne grill — see piisab.*
+
+### Toidulaual (Eesti) — üldine
 
 - **Kala** — eriti rasvane (räim, heeringas, kilu, lõhe)
 - **Liha** — kohalik, mitte ainult lahja filee; rasv koos lihaga

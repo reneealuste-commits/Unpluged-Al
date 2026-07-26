@@ -3,7 +3,7 @@
 **Operatsioon „Peegel"** | Isiklik signaal — *mitte propaganda, vaid tõde*  
 **Kuupäev:** 24. juuli 2026  
 **Koostaja:** Renee Aluste  
-**Seotud:** Lisa AA (intiimsus, Epp Kärsin yoni koolitus), Lisa P (valideerimine), Lisa M (kodaniku identiteet)
+**Seotud:** Lisa AA (intiimsus, tasuta teadlikkus), Lisa P (valideerimine), Lisa M (kodaniku identiteet)
 
 > *„Kui kõik muu läheb katki, jääb alles ainult see. Inimene, kes hoolib."*
 
@@ -37,7 +37,7 @@ Ma tõmbasin selle välja.
 | **Autor kaardil** | **Epp Kärsin** |
 | **Kontakt** | Instagram: [@epp.karsin](https://www.instagram.com/epp.karsin/) |
 | **Kontekst** | Renee leidis kaardi **tanklas**, raske hetk, käsi taskus — mitte otsides, vaid leides |
-| **Seos OPORD-iga** | Lisa AA viitab Epp Kärsinile yoni koolituse kontekstis; see kaart on **sama inimese** teine sõnum — lihtsam, universaalsem, sügavam |
+| **Seos OPORD-iga** | Lisa AA annab tasuta teadlikkuse; see kaart on **sama inimese** teine sõnum — lihtsam, universaalsem, sügavam |
 
 ---
 
@@ -152,7 +152,7 @@ Tanklas. Raske hetk. Käsi taskus — ja kaart, mida ma ei mäleta sinna pannud.
 ## 8. Allikad ja viited
 
 - Epp Kärsin — [@epp.karsin](https://www.instagram.com/epp.karsin/) (Instagram)
-- Epp Kärsin — [eppkarsin.com](https://www.eppkarsin.com) (yoni koolitus, Lisa AA)
+- Epp Kärsin — võrgustiku partner (tasulised teenused eraldi kanal; Lisa AA tasuta)
 - Operatsioon „Peegel" — Lisa AA, Lisa P, Lisa M
 
 ---

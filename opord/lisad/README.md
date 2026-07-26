@@ -34,7 +34,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | X | [lisa-x-taskukaardid-valjasuhtlus.md](lisa-x-taskukaardid-valjasuhtlus.md) | **Taskukaardid** — väljapoole suhtlemine, OPSEC, 5 teemat, lendlehe tekst, märkmikku kirjutamise juhend |
 | Y | [lisa-y-kanep-endokannabinoid-ja-ajalugu.md](lisa-y-kanep-endokannabinoid-ja-ajalugu.md) | **ECS, CBD, toit** — mitte suitsetamine; efekt stressist välja; case study'd; kriitiline mõtlemine |
 | Z | [lisa-z-linnad-toostusuhiskond-ja-partnerlus.md](lisa-z-linnad-toostusuhiskond-ja-partnerlus.md) | **Linnad ja tööstusmudel** — vanglad, politsei kui süsteem; Steiger 1997 vastus |
-| AA | [lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md](lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md) | **Intiimsuse atlas** — orgasmid, vibraatori ajalugu, Epp Kärsin yoni koolitus |
+| AA | [lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md](lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md) | **Intiimsuse atlas** — orgasmid, vibraatori ajalugu (tasuta) |
 | AB | [lisa-ab-paljajalu-ja-rippumine-linnas.md](lisa-ab-paljajalu-ja-rippumine-linnas.md) | **Paljajalu linnas** + **Vanja Moves meeskond** — riippumine 90 sek/päev, tasuta mobility |
 | AC | [lisa-ac-magamistuba-voim-ja-revolutsioon.md](lisa-ac-magamistuba-voim-ja-revolutsioon.md) | **Magamistuba ja revolutsioon** — võim, ownership, näita teed |
 | AD | [lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md](lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md) | **Lood ja konversioon** — 7-sammu checklist, taskukaardid, mida öelda kui keegi vastu hakkab |
@@ -112,7 +112,7 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 
 **Linnad, tööstusühiskond, partnerlus:** Lisa Z — suletud toad, isa eemal raha teenimas, Rockefelleri ajastu mudel; tagasipöördumine ettevõtluse ja pere-partnerluse juurde; reform Eestist seestpoolt valitsust.
 
-**Intiimsus (kohustuslik):** Lisa AA — Tom Walsberg *Intiimsuse atlas*; mees/naise erinevus; orgasmid; vibraatori ajalugu; **pane end kirja** Epp Kärsini yoni koolitusele ([eppkarsin.com](https://www.eppkarsin.com), tel 5362 8568).
+**Intiimsus (soovituslik, tasuta):** Lisa AA — mees/naise erinevus; orgasmid; vibraatori ajalugu. Raamatukogust või lisa enda kaudu — ost ei ole kohustus.
 
 **Armastus päästab maailma:** Lisa AI — Epp Kärsin kaart tanklas; avalik postitus ([@epp.karsin](https://www.instagram.com/epp.karsin/)).
 

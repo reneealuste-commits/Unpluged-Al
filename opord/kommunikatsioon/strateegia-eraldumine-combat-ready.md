@@ -7,6 +7,27 @@
 
 ---
 
+## 0. Renee järeldus (26.07) — miks eraldumine on **struktuurne**, mitte isiklik
+
+Kui Renee ütles Remole „lahkun — mida sa tahad, et ma teen?" ja tunnistas tema stressi („raske inimestele seletada"), vastas Remo **3–4 päeva ultimatumiga** — domineeriv, kontrolliv. Renee südames: **CR on teel ette.**
+
+| Mida inimesed näevad | Mida nad tunnevad |
+|----------------------|-------------------|
+| Operatsioon Peegel (trauma, pere, keha, tasuta tuum) | „Keegi räägib minuga" |
+| Combat Ready (kallis koolitus, Extreme Ownership) | „See on äri. See on fake." |
+
+**See ei tähenda, et CR on vale.** See tähendab:
+
+1. **Järjekord on vale** — van der Kolk / Lisa P: enne *võta vastutust* peab olema **turvalisus ? keha ? mõistus**. Traumatiseeritud inimene ei saa „ownershipi" osta — ta kaitseb end. Sõnum tundub **võlts**, isegi kui sisu on hea.
+2. **Ärimudel kollideerib** — inimene, kes on põhjas, näeb hinda ja mõtleb: *jälle müüakse mulle lahendust*. OPORD on **tasuta tuum**; CR on **premium**. Seos teeb kogu sõnumi kahtlaseks.
+3. **Remo on triggeris** — talle helistatakse, surve tuleb läbi, ta ei oska trauma tasemel vastata. Ultimatum = **fight response** + brändi kaitse, mitte puhas strateegia.
+
+> *Sa ei eita Extreme Ownershipi. Sa ütled: **vale järjekord, vale publik, vale bränd sama katusel.***
+
+**Ultimatum 3–4 päeva:** ära võta seda isiklikult. Võta seda kui **kiirendust**, mida sa niikuinii tahtsid. Vasta 24h jooksul, mitte nelja päeva pärast — nii jäävad mõlemale au ja kontroll.
+
+---
+
 ## 1. Remo sõnumi tuum (faktid)
 
 | Element | Mida ta ütleb |

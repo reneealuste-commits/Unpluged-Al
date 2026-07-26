@@ -25,7 +25,7 @@
 - **Taust:** Majandusdoktor, ettevõtja, Tartu Ülikooli majandusteaduskonna külalisprofessor. Endine Teaduspargi Tehnopoli juht, Cap käivitaja. OSKA raportite ja tööstuspoliitika kogemus. Alates 2025. aasta augustist Techno TLN direktor; ametlik ühendkool 1. septembril 2026.
 - **Ülesanne operatsioonis:**
   1. Viia kutsehariduse sõnum noorteni: praktiline oskus on vastupanuvõime osa.
-  2. Luua koostöö Combat Ready Youth, Laste Supermängud ja tööstusega — mentorlus ja praktika.
+2. Luua koostöö
   3. Muuta tehnoloogiakolledž kohtuks, kus noor saab eeskuju enne algoritmi.
 
 #### Birgit Vilgats (PhD) — Õppejuht
@@ -192,7 +192,7 @@
 - **Ülesanne operatsioonis:**
   1. Hoida kooli missiooni: unistused ja teostamine — mitte ainult testitulemused.
   2. Toetada väärtuskooli mudelit, mis kaitseb last infomürast ja emotsionaalsest manipulatsioonist.
-  3. Siduda RaM Kool operatsiooni haridustaseme võrgustikuga (Techno TLN, KVA, Combat Ready Youth).
+3. Siduda RaM Kool operatsiooni haridustaseme võrgustikuga (Techno TLN, KVA,
 
 #### Sirje Toomla-Õige — Direktor, Rocca al Mare Kooli AS juhatuse esimees
 
@@ -418,7 +418,7 @@ Kõik ülalnimetatud juhtkonnad:
 1. **Infohügieen koolis** — õpetada noort kontrollima allikaid ja emotsioone digikanalites.
 2. **Eeskuju** — juht ise on see, mida ta ootab õpilaselt ja õpetajalt.
 3. **Praktiline vastupanuvõime** — oskused, mis töötavad nii koolis, tööl kui kriisis.
-4. **Koostöö** — Techno TLN ↔ RaM Kool ↔ **Tallinna Vaba Waldorfkool** ↔ **Montessori võrgustik** ↔ Combat Ready Youth ↔ Noorte Kotkad ↔ KVA juhtimismudelid.
+4. **Koostöö** — Techno TLN ↔ RaM Kool ↔ **Tallinna Vaba Waldorfkool** ↔ **Montessori võrgustik** ↔
 5. **Inimesed enne protsesse** — Steigeri SOP (Lisa I) kehtib ka koolijuhi kabinetis.
 
 ---

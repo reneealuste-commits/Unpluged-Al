@@ -49,7 +49,7 @@ KUULA: Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“
 
 Valikuline teadlikkuse kanal — sobib neile, kes tahavad sügavamat konteksti enne OPORD-i.
 
-Kus süsteem tabab kõige enne lapsi — ja miks täiskasvanud ellujäämisrežiimis ei märka seda. Turvalisus. Kohalolu. Kaitse. Extreme Ownershipi vaimus: mitte ainult süüdistada süsteemi, vaid näha, kus sina saad ise muutust luua — pere, meeskonna või enda sees.
+Kus süsteem tabab kõige enne lapsi — ja miks täiskasvanud ellujäämisrežiimis ei märka seda. Turvalisus. Kohalolu. Kaitse. vastutusi vaimus: mitte ainult süüdistada süsteemi, vaid näha, kus sina saad ise muutust luua — pere, meeskonna või enda sees.
 
 Kuula: https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm
 Katrin Lucas (podcast): https://katrinlucas.com/podcast/

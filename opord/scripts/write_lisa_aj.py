@@ -8,7 +8,7 @@ CONTENT = """# Lisa AJ - Levitamine, kuldne taganemistee ja lugemiskinnitus
 
 **Seotud:** Operatsioon \u201ePeegel\u201c - k\u00e4su levitamine k\u00f5igile nimetatud osapooltele
 **Eesm\u00e4rk:** Kontrollitud lugemine, austav taganemine, tagasilugemise kinnitus - digitaalselt ja f\u00fc\u00fcsiliselt
-**Koordineerija:** Renee Aluste \u00b7 tugi: Remo Ojaste / Combat Ready
+**Koordineerija:** Renee Aluste
 
 > *Iga inimene v\u00f5ib \u00f6elda \u201eei\u201c - ilma s\u00fc\u00fc ja ilma draamata. See on tugevus, mitte n\u00f5rkus.*
 
@@ -58,9 +58,9 @@ V\u00f5imalus **auv\u00e4\u00e4rselt** loobuda osalemisest v\u00f5i paluda oma n
 
 ## 3. Kontrollitud lugemiskeskkond
 
-Remo Ojaste on pakkunud **keskkonda**, kuhu dokumenti panna nii, et saad j\u00e4lgida, mida iga saaja loeb.
+Kasuta kontrollitud keskkonda (DocSend, Papermark v\u00f5i privaatne link), kuhu dokumenti panna nii, et saad j\u00e4lgida, mida iga saaja loeb.
 
-### Variant A - Combat Ready / Remo keskkond (soovitatav)
+### Variant A - privaatne keskkond (soovitatav)
 
 1. Lae \u00fcles **\u00fcks PDF** v\u00f5i **jaotatud sektsioonid**.
 2. Iga saaja saab **isikliku lingi** (mitte \u00fchist linki).
@@ -76,7 +76,7 @@ Remo Ojaste on pakkunud **keskkonda**, kuhu dokumenti panna nii, et saad j\u00e4
 
 ### Soovitus
 
-**DocSend v\u00f5i Remo keskkond** - m\u00f5lemad annavad lugemiskinnituse ilma dokumendi levitamata edasi.
+**DocSend v\u00f5i Papermark** - m\u00f5lemad annavad lugemiskinnituse ilma dokumendi levitamata edasi.
 
 ---
 
@@ -105,9 +105,9 @@ M\u00f5nele saajale v\u00f5ib sobida **k\u00e4ttetoimetamine koju** - t\u00f5sin
 - Tagasisidekaart
 - QR-kood isiklikule DocSend lingile
 
-### Vahapitsat (Combat Ready)
+### Vahapitsat (f\u00fc\u00fcsiline levitamine)
 
-Kasuta **Combat Ready vahapitsat** - \u00fcmbrik avatakse ainult purustades (nagu konfidentsiaalne k\u00e4sk).
+Kasuta **konfidentsiaalset vahapitsat** - \u00fcmbrik avatakse ainult purustades (nagu konfidentsiaalne k\u00e4sk).
 
 ### H\u00fcbriid (soovitatav)
 

@@ -78,7 +78,7 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 
 **Juhtimine:** Lisa I (Steiger 1997, ISBN 9985901274).
 
-**Võrgustik:** Lisa K (kõik osalised, allüksuste ülesanded, Combat Ready statistika).
+**Võrgustik:** Lisa K (kõik osalised, allüksuste ülesanded,
 
 **Riik / TAI:** Lisa L (Muski algoritm ministeeriumidele).
 
@@ -154,7 +154,7 @@ Need failid on mõeldud lisamiseks Operatsioon „Peegel" lahingukäsu juurde ku
 
 Operatsiooni koordinaator: **Renee Aluste** (Kaitseliidu juhtimisinstruktor). Ma ei oota kirju — ma küsin sulle vastu: mida sa ise teed?
 
-Täiendavad kanalid OPORD-is: Katrin Lucase „Ava oma Silmad" taskuhääling, Kaitseväe Akadeemia juhtimiskultuur. *(Combat Ready — eraldi kanal; vt [strateegia-eraldumine-combat-ready.md](../kommunikatsioon/strateegia-eraldumine-combat-ready.md).)*
+Täiendavad kanalid OPORD-is: Katrin Lucase „Ava oma Silmad" taskuhääling, Kaitseväe Akadeemia juhtimiskultuur. *(
 
 ---
 

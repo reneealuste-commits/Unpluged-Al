@@ -1,6 +1,6 @@
 # Kohandatud käsk: Priit Lilleväli
 
-**Saaja:** priit.lillevali@combatready.eu  
+**Saaja:**   
 **Sidepakk:** P1-F-JUHT
 
 ---
@@ -51,7 +51,7 @@ KUULA: Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“
 
 Juhi vaatenurgast: kaitse enne tulemust. Kui keegi on ellujäämisrežiimis, ta ei näe plaani (Lisa AT).
 
-Kus süsteem tabab kõige enne lapsi — ja miks täiskasvanud ellujäämisrežiimis ei märka seda. Turvalisus. Kohalolu. Kaitse. Extreme Ownershipi vaimus: mitte ainult süüdistada süsteemi, vaid näha, kus sina saad ise muutust luua — pere, meeskonna või enda sees.
+Kus süsteem tabab kõige enne lapsi — ja miks täiskasvanud ellujäämisrežiimis ei märka seda. Turvalisus. Kohalolu. Kaitse. vastutusi vaimus: mitte ainult süüdistada süsteemi, vaid näha, kus sina saad ise muutust luua — pere, meeskonna või enda sees.
 
 Kuula: https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm
 Katrin Lucas (podcast): https://katrinlucas.com/podcast/

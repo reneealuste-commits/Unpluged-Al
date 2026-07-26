@@ -1,7 +1,7 @@
-# Lisa K — Võrgustiku skeem, allüksuste ülesanded ja Combat Ready
+# Lisa K — Võrgustiku skeem ja allüksuste ülesanded
 
 **Seotud:** Operatsioon „Peegel" — täielik organisatsiooniskeem  
-**Eesmärk:** Kõik osalised nimeliselt — roll, eesmärk ja ülesanne; allüksuste kollektiivsed missioonid; Combat Ready kliendistatistika ja podcasti külalised.  
+**Eesmärk:** Kõik osalised nimeliselt — roll, eesmärk ja ülesanne; allüksuste kollektiivsed missioonid; võrgustiku ülesanded.  
 **Täiendab:** Lisa J (haridusasutused), Lisa I (juhtimine), [Renee Aluste profiil](renee-aluste-profiil.md)
 
 > *Selgus aitab tegutseda. Iga inimene teab, kus ta asub ja mida temalt oodatakse.*
@@ -26,63 +26,23 @@
          ┌───────────────────────┬───────────────────────┼───────────────────────┬───────────────────────┐
          │                       │                       │                       │                       │
 ┌────────▼─────────┐   ┌──────────▼──────────┐   ┌────────▼─────────┐   ┌─────────▼─────────┐   ┌────────▼─────────┐
-│ KOORDINEERIMINE  │   │ COMBAT READY OÜ      │   │ VANGLATEENISTUS  │   │ HARIDUSTASE         │   │ TEADVUSTUS       │
-│ Renee Aluste     │   │ Remo Ojaste (CEO)    │   │ Ain Anslan       │   │ (vt Lisa J)         │   │ Lucas, Villido   │
-│ (vt eraldi prof) │   │ Martin Jõesaar       │   │ Viru vangla      │   │ Techno TLN, KVA,    │   │ tantra, Pühali   │
-└────────┬─────────┘   │ Priit, Renee, Eerik  │   └──────────────────┘   │ RaM, TVW Waldorf   │   └────────┬─────────┘
-         │             │ Elmar, Louis, Robert │   Montessori võrg.     └─────────┬─────────┘            │
-         │             ├──────────────────────┤                                      │                      │
-         │             │ Her Way (naised)     │                                      │                      │
-         │             │ Youth / Supermängud  │                                      │                      │
-         │             │ Pertinax (Ojaots)    │                                      │                      │
+│ KOORDINEERIMINE  │   │ JUHTIMIS- JA ÄRITASE │   │ VANGLATEENISTUS  │   │ HARIDUSTASE         │   │ TEADVUSTUS       │
+│ Renee Aluste     │   │ Starfish, BNI, BMI   │   │ Ain Anslan       │   │ (vt Lisa J)         │   │ Lucas, Villido   │
+│ (vt eraldi prof) │   │ Pertinax (Ojaots)    │   │ Viru vangla      │   │ Techno TLN, KVA,    │   │ tantra, Pühali   │
+└────────┬─────────┘   │ Laste Supermängud    │   └──────────────────┘   │ RaM, TVW Waldorf   │   └────────┬─────────┘
+         │             │ Priit, Eerik, Elmar  │   Montessori võrg.     └─────────┬─────────┘            │
          │             └──────────┬───────────┘                                      │                      │
          │                        │                                                  │                      │
          │    ┌───────────────────┼───────────────────┬──────────────────────────────┘                      │
          │    │                   │                   │                                                     │
 ┌────────▼────▼───┐   ┌───────────▼──────────┐   ┌────▼─────────────┐   ┌────────────────▼──────────────────┐
-│ KOHALIKUD        │   │ VETERANID / TUGI      │   │ PODCAST / Meedia  │   │ VÕRGUSTIKU TOETAJAD               │
-│ Järvsoo (Kotkad) │   │ Kinnunen (veteranid)  │   │ 24 episoodi       │   │ Tegusad ettevõtjad (hajutatud)    │
-│ Ambros (Harku)   │   │ Sillaste (supervis)   │   │ jujutud.ee        │   │ hajutatud ettevõtjad (vt 3.13)    │
+│ KOHALIKUD        │   │ VETERANID / TUGI      │   │ MEEDIA / PODCAST  │   │ VÕRGUSTIKU TOETAJAD               │
+│ Järvsoo (Kotkad) │   │ Kinnunen (veteranid)  │   │ Lucas, Blondcast  │   │ Tegusad ettevõtjad (hajutatud)    │
+│ Ambros (Harku)   │   │ Sillaste (supervis)   │   │ Eriväelase jutud  │   │ hajutatud ettevõtjad (vt 3.13)    │
 └──────────────────┘   └───────────────────────┘   └───────────────────┘   └───────────────────────────────────┘
 ```
 
 **Põhipingutusüksus:** Iga Eesti kodanik — eriti lapsevanemad, mentorid ja kogukonna liidrid.
-
----
-
-## 2. Combat Ready — kliendid, mõõdikud ja tagasiside
-
-**Allikas:** combatready.eu/meist, combatready.ee, Apple Podcasts, RSS (uuendatud 2026)
-
-### Organisatsiooni mõõdikud
-
-| Mõõdik | Väärtus | Märkus |
-|--------|---------|--------|
-| Asutatud | 2021 | Martin Jõesaar ja Remo Ojaste |
-| Koolitatud ettevõtted/meeskonnad | **300+** | Juhtimis- ja meeskonnakoolitused |
-| Keskmine kliendihinnang | **9,4 / 10** | Tagasiside küsitlused |
-| Priit Lilleväli juhendamistunnid | **800+** | Individuaalne mentorlus |
-| Veebiseminaride registreerimised | **2000+** | Online koolitused |
-| Echelon Front partnerlus | Ametlik partner **Euroopas** | Jocko Willink / Leif Babin |
-| Aasta juhtimiskoolitaja | **2022** — Combat Ready meeskond | Äripäev |
-| Aasta koolitaja eriauhind | **2023** — Priit Lilleväli | Äripäev |
-| Aasta koolitusmeeskond | **2025** | Tunnustus |
-| Podcast | **24 episoodi** | combatready.ee, jujutud.ee, YouTube @combatreadyee |
-| Töötajad (2025) | ~17 | LinkedIn / äriregister |
-
-### Kliendi tagasiside (valik)
-
-| Nimi | Roll / kontekst | Tsitaadi tuum |
-|------|-----------------|---------------|
-| Raul Eamets | Klient | Praktiline juhtimine, mis töötab päriselus |
-| Triin Limbach | Klient | Selgus ja vastutus meeskonnas |
-| Jonna Pechter | Klient | Extreme Ownership põhimõtted muutsid juhtimist |
-| Kairo Sulbi | Klient | Koolitus, mis jäi meelde ja rakendus |
-| Renno Reinurm | Klient | Aus, otsekohene, tulemuslik |
-| Hannes Aaresild | Klient | Meeskonna sidusus ja distsipliin |
-| Kristjan Kookmaa | Klient | Juhtimine kriisiolukorras |
-
-*Täielikud tsitaadid: combatready.eu/meist*
 
 ---
 
@@ -106,7 +66,7 @@
 | Ülesanne | Kirjeldus |
 |----------|-----------|
 | 1 | Sõnumite koordineerimine ja levitamine |
-| 2 | Combat Ready koolituste korraldamine võrgustikule |
+| 2 | Juhtimiskoolituste koordineerimine võrgustikus |
 | 3 | Isiklike lugude jagamine (autentsus) |
 | 4 | Mõõdikute jälgimine (tagasiside kogukonnast) |
 | 5 | **E-sliin** — suhtlus erinevate üksustega, kes parandavad olukorda (sageli sümptomite kaudu); ühendab **suure pildi** ja igapäevased tööriistad |
@@ -127,38 +87,6 @@
 
 > *Isiklik vaatlus, mitte epidemioloogiline väide. Renee dokumenteerib, sest see klapib suure pildiga.*
 
-### 3.3 Combat Ready OÜ
-
-**Eesmärk:** Praktiline juhtimiskoolitus — Extreme Ownership, vastupidavus, turvalisus.
-
-| Ülesanne | Kirjeldus |
-|----------|-----------|
-| 1 | Ülima vastutuse koolitused ettevõtetele ja kogukondadele |
-| 2 | Juhtimis- ja meeskonnakoolitused perede ja MTÜ-de juhtidele |
-| 3 | Veebipõhised ja hübriidlahendused (2026 fookus: turvalisus) |
-| 4 | LDAP programm — organisatsioonide juhtimisjoondamine |
-| 5 | Mentorlus (Remo Ojaste, Priit Lilleväli) |
-
-### 3.4 Combat Ready | Her Way
-
-**Eesmärk:** Naiste enesejuhtimine ja vastutus — eriti emadele ja juhtidele.
-
-| Ülesanne | Kirjeldus |
-|----------|-----------|
-| 1 | Igakuised enesejuhtimise veebikohtumised |
-| 2 | Extreme Ownership naiste kontekstis (combatreadyherway.eu) |
-| 3 | Kogukonna loomine — ausus, vastutus, tugi |
-
-### 3.5 Combat Ready Youth / Laste Supermängud
-
-**Eesmärk:** Noorte praktiline vastutus enne algoritmi.
-
-| Ülesanne | Kirjeldus |
-|----------|-----------|
-| 1 | Laste Supermängud (7–12 a.) — vastutus, keskendumine |
-| 2 | Combat Ready Youth programmid koolidele ja MTÜ-dele |
-| 3 | Vanemate mentorlus: väike harjutus päevas |
-
 ### 3.6 MTÜ Team Pertinax
 
 **Eesmärk:** Mereväe-kultuuriga meeskond — tugevad, eneseteadlikud ettevõtjad.
@@ -177,7 +105,7 @@
 |----------|-----------|
 | 1 | Juhtide koolitus Extreme Ownership põhimõtetel |
 | 2 | Kriisivalmidus igapäevase töökultuurina (mitte dokument riiulil) |
-| 3 | Koostöö Combat Ready-ga — veebiseminarid, kogemuslood |
+| 3 | Koostöö juhtimiskoolituse partneritega — veebiseminarid, kogemuslood |
 | 4 | Inimlik pealehakkamine ja keskkonna kujundamine juhi käitumisega |
 
 ### 3.8 Haridustase
@@ -263,7 +191,7 @@
 
 ![Eerik Heldna](images/profiles/eerik-heldna.jpg)
 
-- **Roll:** Kriisireguleerimise koordineerimine; Combat Ready instruktor
+- **Roll:** Kriisireguleerimise koordineerimine; juhtimiskoolitaja
 - **Eesmärk:** Kodaniku valmisolek ja rolliselgus kriisis
 - **Ülesanne:** Õppused, stsenaariumid, kriisikommunikatsiooni standardid
 
@@ -271,7 +199,7 @@
 
 ![Elmar Vaher](images/profiles/elmar-vaher.jpg)
 
-- **Roll:** RKIK peadirektor; Combat Ready instruktor; RaM Kool lapsevanem
+- **Roll:** RKIK peadirektor; juhtimiskoolitaja; RaM Kool lapsevanem
 - **Eesmärk:** Riiklik võimekus ja kodaniku vastutus ühes narratiivis
 - **Ülesanne:** RKIK investeeringuloogika; kooli kriisivalmidus (vt Lisa J)
 
@@ -296,201 +224,6 @@
 
 ---
 
-### 4.3 Combat Ready OÜ — tuumikmeeskond
-
-#### Remo Ojaste — Tegevdirektor, kaasasutaja
-
-![Remo Ojaste](images/profiles/remo-ojaste.jpg)
-
-- **Roll:** CEO; Echelon Front partner Euroopas
-- **Eesmärk:** Extreme Ownership igapäevaelus
-- **Ülesanne:** Äriline juhtimine; koolitused; mentorprogramm
-
-#### Vallo Arumäe — Starfish Academy
-
-- **Roll:** Kaasasutaja; finantsvabaduse koolitaja
-- **Eesmärk:** Rahatarkus, investeerimine, passiivne tulu
-- **Ülesanne:** Koolitused, Investorite Sisering ([starfish.academy](https://www.starfish.academy))
-
-#### BMI Executive Institute
-
-- **Roll:** Rahvusvaheline business school (Baltikum / Saksamaa partnerlus)
-- **Eesmärk:** Juhtide EMBA ja executive education
-- **Ülesanne:** Kõrgharidus ettevõtjatele ([bmiinstitute.com](https://www.bmiinstitute.com))
-
-#### BNI Eesti (Business Network International)
-
-- **Roll:** Maailma suurim ärireferaalide võrgustik
-- **Eesmärk:** Struktureeritud ärisoovitused ja usaldusväärne ettevõtjate kogukond
-- **Ülesanne:** Igana nädalased koosolekud — BNI North Star Tallinn (reedeti, Nordic Hotel Forum) ja BNI One Tallinn (neljapäeviti, Radisson Blu Olümpia); president: Kerdu Lenear ([bni.ee](https://bni.ee))
-
-#### Kerdu Lenear — Mindset Fitness
-
-![Kerdu Lenear](images/profiles/kerdu-lenear.jpg)
-
-- **Roll:** Founder & CEO; BNI North Star Tallinn president
-- **Eesmärk:** Mõtteviisi treening sportlastele ja ettevõtjatele
-- **Ülesanne:** STOP-tehnika, enesetakistus, meeskonna koolitused ([mindsetfitness.ee](https://mindsetfitness.ee))
-
-#### Julian Maier — URBN TIGER (Saksamaa)
-
-![Julian Maier](images/profiles/julian-maier.jpg)
-
-- **Roll:** Breathwork ja mental fitness; e-Residency envoy
-- **Eesmärk:** Stressi vähendamine, vaimne vastupidavus
-- **Ülesanne:** Hingamispraktika ettevõtetele ja startup'idele ([urbntiger.com](https://urbntiger.com))
-
-#### Äripäev — investeerimis- ja juhtimiskultuur
-
-- **Roll:** Investeerimisraadio, konverentsid, tunnustused
-- **Eesmärk:** Rahatarkuse ja hea juhtimise avalik esiletõstmine
-- **Ülesanne:** Investor Toomase tund (teisipäeviti 11:00), Investor Toomase konverents, Aasta investor, Parim juht ([aripaev.ee/raadio](https://www.aripaev.ee/raadio))
-
-#### Rahakratt — rahablogi
-
-- **Roll:** Anonüümne rahablogija ja investor
-- **Eesmärk:** Finantsvabadus ausalt ja humoorikalt
-- **Ülesanne:** Blogi, Investor Toomas, kogukond ([rahakratt.rahajutud.ee](https://rahakratt.rahajutud.ee))
-
-#### Heli Illipe-Sootak — Peakirjastaja, *Inimesekeskne juhtimine*
-
-- **Roll:** Peakirjastaja — Rudolf Steiger, *Inimesekeskne juhtimine* (Operatsioon „Peegel" juhtimis-SOP)
-- **Taust:** Raudhammas OÜ juhatuse liige; bioloogiaõpetaja (Audentes School); kirjastustegevuse kogemus
-- **Eesmärk:** Hoida Steigeri raamat elus — et inimesekeskne juhtimine jõuaks igasse juhini, mitte ainult Kaitseväe riiulile
-- **Ülesanne:** Raamatu peakirjastamine operatsioonis; seos Lisa I, Lisa Z (dominantse süsteemi vastu); ISBN 9985901274
-
-#### Epp Kärsin — Teadlik intiimsus
-
-- **Roll:** Yoni massaaži ja intiimsuse koolitaja; **Lisa AA** praktiline juhend
-- **Eesmärk:** Häbist vabanemine; stressi vabastamine kehas; päris orgasmid, mitte teesklmine
-- **Ülesanne:** [eppkarsin.com](https://www.eppkarsin.com) — **pane end kirja** yoni koolitusele (naised + mehed); tel **5362 8568**
-
-#### Vanja Moves meeskond — Liikuvus ja vigastuste ennetus
-
-- **Roll:** Mobility, rippumine 90 sek/päev, vigastuste ennetus — **Lisa AB**
-- **Meeskond:** Vanja Moves · Moves Method · Moves Labs · Josh Fear + treenerid · [schoolofmobility.com](https://schoolofmobility.com)
-- **Eesmärk:** *Stretching master is a surgeon without a knife* — liigu enne operatsiooni; alusta **tasuta** (YouTube, podcast, Skool)
-- **Ülesanne:** Vaata @Movesmethod · Liitu skool.com/movesmethod · Rippu 90 sek päevas · Küsi linnalt rippumisribasid
-
-#### Kristjan Liivamägi — Aasta investor 2022
-
-- **Roll:** TalTech vanemlektor; KML Invest; ELi rahatarkuse saadik
-- **Eesmärk:** Teaduspõhine investeerimisharidus
-- **Ülesanne:** Loengud, raamatud (*Eraisiku rahandus*), Aasta investor 2022 ([rahaedu.ee](https://rahaedu.ee))
-
-#### Marko Oolo — Aasta investor 2024
-
-- **Roll:** Investor, ettevõtja; Exceli meister
-- **Eesmärk:** Praktilised investeerimistööriistad
-- **Ülesanne:** Exceli portfellitööriistad, läbipaistev teekond ([oolomarko.ee](https://oolomarko.ee))
-
-#### Katri Teller — Blondcast
-
-- **Roll:** Blondcast eestvedaja; endine Rahareede
-- **Eesmärk:** Taskuhääling raha, tervise ja enesearengu teemadel
-- **Ülesanne:** Delfi Tasku podcast; Aasta investor 2023
-
-#### Robert Käsper — Meedik, veteran (hajutatud)
-
-- **Roll:** Üksuse meedik (18D); Delfi „Eriväelase jutud"; tegutseb hajutatult omal maastikul
-- **Eesmärk:** Sõjaväelase ja meediku kogemuse edasiandmine — kaitse ja meditsiin
-- **Ülesanne:** Podcast; välismissioonide meediku kogemus; Renee Aluste teenistusaeg (nooremveebel vs nooremseersant)
-
-#### Martin Jõesaar — Kaasasutaja
-
-![Martin Jõesaar](images/profiles/martin-joesaar.jpg)
-
-- **Roll:** Co-Founder; Euroopa kaitsevõrgustik
-- **Eesmärk:** Rahvusvaheline mõjutus ja koostöö
-- **Ülesanne:** EL kaitseuuendused; Youth OÜ; strateegiline arendus
-
-#### Priit Lilleväli — Instruktor, juhendaja
-
-![Priit Lilleväli](images/profiles/priit-lillevali.jpg)
-
-- **Roll:** Juhtimiskoolitaja; Aasta koolitaja 2023
-- **Eesmärk:** Vastutus ja taastumine ilma ohvriidentiteedita
-- **Ülesanne:** 300+ koolitust; 800+ juhendamistundi; podcast
-
-#### Louis Zezeran — Instruktor (2023–2025)
-
-- **Roll:** Echelon Front sertifitseeritud treener; inglisekeelne kanal
-- **Eesmärk:** Juhtimine loomingulistes ja startup-tiimides
-- **Ülesanne:** Frontline Podcast; 4 Laws of Leadership kursus
-
-#### Martin Jõesaar — Kaasasutaja
-
-- **Roll:** Kaitseliidu instruktor; sTARTUp Day logistika
-- **Eesmärk:** Praktiline juhtimine tsiviil- ja reservstruktuuris
-- **Ülesanne:** Koolitused; ürituste toetamine
-
-#### Andrus Albi — Partner
-
-- **Roll:** Combat Ready partner
-- **Eesmärk:** Äriline arendus ja võrgustik
-- **Ülesanne:** Koostöö ja klientide toetamine
-
-#### Mia-Alexandra Aidla — Turundus
-
-- **Roll:** Turundusspetsialist
-- **Eesmärk:** Combat Ready sõnumi levitamine
-- **Ülesanne:** sTARTUp Day; podcast; sotsiaalmeedia
-
-#### Siim Kaskpeit — Tugi ja teenindus
-
-- **Roll:** Head of Support and Service
-- **Eesmärk:** Kliendikogemus ja protsessid
-- **Ülesanne:** Operatiivne tugi koolitustele
-
----
-
-### 4.4 Combat Ready | Her Way
-
-![Combat Ready Her Way](images/profiles/combat-ready-her-way.jpg)
-
-#### Age Leedo — Kaaslooja, instruktor
-
-- **Roll:** Her Way programmi juht
-- **Eesmärk:** Naiste enesejuhtimine
-- **Ülesanne:** Veebiseminarid; kogukonna ehitamine
-
-#### Aet Tammis — Instruktor
-
-- **Roll:** Her Way instruktor
-- **Eesmärk:** Praktiline vastutus naiste kontekstis
-- **Ülesanne:** Treeningud ja veebikohtumised
-
-#### Karin Pohla — Instruktor
-
-- **Roll:** Her Way instruktor
-- **Eesmärk:** Enesejuhtimine emadele ja juhtidele
-- **Ülesanne:** Koolitused ja mentorlus
-
-#### Kristin Kriibi — Podcast / kogukond
-
-- **Roll:** Combat Ready naiste esindaja
-- **Eesmärk:** Usaldus ja eeskuju
-- **Ülesanne:** Podcast; kogukonna vestlused
-
-#### Sille Martma — Podcast / kogukond
-
-- **Roll:** Combat Ready naiste esindaja
-- **Eesmärk:** Eneseusaldus ja autentsus
-- **Ülesanne:** Podcast; enesearengu töötoad
-
----
-
-### 4.5 Combat Ready Youth
-
-#### Tanel Jäppinen — Tegevjuht
-
-- **Roll:** Combat Ready Youth OÜ juht; Laste Supermängud
-- **Eesmärk:** Noorte praktiline vastutus
-- **Ülesanne:** 7–12-aastaste programmid; vanemate mentorlus
-- **Kontakt:** tanel.jappinen@combatready.eu
-
----
-
 ### 4.6 MTÜ Team Pertinax
 
 #### Aigar Ojaots — Kaasasutaja, juhatuse liige
@@ -508,11 +241,11 @@
 
 ![Ain Anslan](images/profiles/ain-anslan.jpg)
 
-- **Roll:** Viru vangla direktor (alates 01.11.2023); Combat Ready koostööpartner
+- **Roll:** Viru vangla direktor (alates 01.11.2023); juhtimiskoolituse partner
 - **Eesmärk:** Inimesekeskne juhtimine raskes keskkonnas; ühiskonna turvalisus
 - **Taust:** Magistrikraad personalijuhtimises; 19+ aastat riigi julgeoleku ja siseturvalisuse sektoris (sh 4 aastat kaitseväes). Endine relvastatud üksuse, saateüksuse, avavangla ja tugevdatud järelevalve üksuse juht. Vanglaametniku teeneterist (2021); teenistusmedal 15 aasta eest (2023).
 - **Ülesanne operatsioonis:**
-  1. Juhtide koolitus Combat Ready põhimõtetel — inimlik pealehakkamine ja sihikindlus.
+  1. Juhtide koolitus inimesekesksete põhimõtete järgi — inimlik pealehakkamine ja sihikindlus.
   2. Kriisivalmidus igapäevase töökultuurina (koos Priit Lilleväliga — veebiseminar, YouTube „Viru Vangla kogemuslugu").
   3. Keskkonna kujundamine juhi käitumisega — murda mõtteviis „ma olengi selline".
   4. Siduda avalik sektor ja kodanikualgatuse juhtimiskultuur.
@@ -704,55 +437,6 @@ Iga kodanik: Tony Robbinsi 5 sammu, manifest peegli ees, kodaniku vanne (Renee A
 
 ---
 
-## 5. Combat Ready Podcast — kõik episoodid ja külalised
-
-**Kanalid:** Apple Podcasts, Spotify, YouTube (@combatreadyee), jujutud.ee, RSS  
-**Episoode:** 24 (2024–2025)
-
-| # | Pealkiri | Osalised / külalised |
-|---|----------|----------------------|
-| 1 | Kuidas juhtida nii, et kõigil oleks lihtne hästi töötada? | Priit Lilleväli, **Kai Saard** (PARE) |
-| 2 | Mis on Combat Ready? sTARTUp Day 2025 | Priit Lilleväli, Mia-Alexandra Aidla |
-| 3 | Läbi katsumuste eneseusalduseni (CR Naised) | Sille Martma, Kristin Kriibi |
-| 4 | Kuidas saavutada usaldus ja olla hea eeskuju? (CR Naised) | Sille Martma, Kristin Kriibi |
-| 5 | Personal Productivity — Lead Yourself | Louis Zezeran, **Boris Ümarik** (Produktiivsusklubi) |
-| 6 | Lessons from Estonia's top national security leaders | Robert Käsper, Louis Zezeran; viited: **Hanno Pevkur**, **Riho Terras**, **Enn Adoson** |
-| 7 | Freedom, War, Occupation — Estonian history | Remo Ojaste, Eerik Heldna |
-| 8 | The 4 Laws of Leadership | Louis Zezeran |
-| 9 | How to Prepare for a Crisis? | Louis Zezeran, **Janis Vanags** (CIREN) |
-| 10 | Kuidas luua lapsega hea suhe? | Combat Ready meeskond |
-| 11 | Suhete loomine kui pikk mäng (The Debrief) | Priit Lilleväli |
-| 12 | Is EVERYTHING my problem? (The Frontline) | Remo Ojaste, Louis Zezeran |
-| 13 | Life as an Estonian cop in the 90s | Eerik Heldna, Louis Zezeran |
-| 14 | How to Rehearse for Tough Situations | Louis Zezeran, Remo Ojaste |
-| 15 | What it takes to be a US Army Ranger | **Renee Aluste**, Louis Zezeran |
-| 16 | 4 Steps to Improve Leadership | Remo Ojaste, Louis Zezeran |
-| 17 | Theory is boring — train as you fight | Robert Käsper, Louis Zezeran |
-| 18 | A Typical Day in Afghanistan | Priit Lilleväli, Louis Zezeran |
-| 19 | Leadership Lessons from Comedy Estonia | Louis Zezeran |
-| 20 | Haara initsiatiiv | Martin Jõesaar |
-| 21 | Uju või upu — Lauri „Doc" Lemming | **Lauri „Doc" Lemming** |
-| 22 | Läbi raskuste edasi — Tõnu Sillaots | **Tõnu Sillaots** |
-| 23 | Aga miks mina? — Martin Siimann | **Martin Siimann** |
-| 24 | „Lahinguväljal" enne ajateenistust — Priit Lilleväli | Priit Lilleväli |
-| 25 | Juhtimine, ego, alandlikkus — Eerik Heldna | Eerik Heldna, Remo Ojaste |
-
-### Podcasti väliskülalised (kokkuvõte)
-
-| Nimi | Kontekst | Operatsioonis väärtus |
-|------|----------|----------------------|
-| Kai Saard | Personalijuhtimine (PARE) | Lihtne juhtimine, selgus |
-| Boris Ümarik | Produktiivsusklubi | Isese juhtimine, fookus |
-| Janis Vanags | Kriisijuhtimine (CIREN) | Kriisivalmidus kodanikule |
-| Lauri „Doc" Lemming | Lastekirurg, veteran | Alandlikkus, vastupidavus |
-| Tõnu Sillaots | Veteran, päästja | Elu pärast kaotust |
-| Martin Siimann | Reservohvitser | „Tee ära" mentaliteet |
-| Hanno Pevkur | Kaitseminister | Riiklik julgeolek (viide ep 6) |
-| Riho Terras | Kindral (res.) | Strateegiline kogemus (viide ep 6) |
-| Enn Adoson | Kaitseväe vanemveebel | Meeskonna kultuur (viide ep 6) |
-
----
-
 ## 6. Kiirviited
 
 | Teema | Lisa / fail |
@@ -761,8 +445,8 @@ Iga kodanik: Tony Robbinsi 5 sammu, manifest peegli ees, kodaniku vanne (Renee A
 | Haridusasutused | `lisa-j-haridusasutuste-juhtkonnad.md` |
 | Juhtimine (SOP) | `lisa-i-inimesekeskne-juhtimine.md` |
 | Kriis isale | `lisa-h-kiirjuhend-kriisis-isale.md` |
-| Combat Ready veeb | combatready.eu, combatready.ee |
-| Podcast | jujutud.ee, @combatreadyee |
+| Operatsioon | reneealuste.com |
+| Podcast | Eriväelase jutud, Blondcast |
 
 ---
 

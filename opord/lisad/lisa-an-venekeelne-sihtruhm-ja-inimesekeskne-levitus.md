@@ -52,7 +52,6 @@ Kui see lause on selge kogu meeskonnale (Heli, Renee, Remo, Toomse, demomehed), 
 | **Renee** | OPORD tuum, Peegel taskuraamat (Lisa AK), kanali strateegia |
 | **Uus / eraldi juht vene kanalil** | Vastuvõtja-orienteeritud sisu (vt §4) — **mitte Heli alluvuses** |
 | **Rene Toomse** | Institusionaalne sild (koolid, KV õpetus) |
-| **Remo / Combat Ready** | Levitus, e-pood; venekeelsed instruktorid kui olemas |
 
 ---
 

@@ -60,7 +60,6 @@ USA Army **Ranger Handbook** (TC 3-21.76) taskuväljaanne:
 |---------|--------|--------|
 | **A (soovitus)** | Must matt paber. Keskel **üks peegli joon** või silm — ilma tekstita | Tühi või väike „2026“ |
 | **B** | Tumeroheline (mets). Sõna **PEEGEL** — üks sõna, serif, väike | „Kodaniku käsiraamat“ |
-| **C** | Combat Ready vahapitsati jälg (0,5 cm) — nagu pitseeritud ümbrik | QR → lugemiskinnitus (Lisa AJ) |
 
 ### Mida kaanel **EI** ole
 
@@ -71,7 +70,7 @@ USA Army **Ranger Handbook** (TC 3-21.76) taskuväljaanne:
 
 ### Sisukaas
 
-Tiitellehel alles selgus: **„Kodaniku taskuraamat — Operatsioon Peegel“** + Renee Aluste + Combat Ready märge väikeses fondis.
+Tiitellehel alles selgus: **„Kodaniku taskuraamat — Operatsioon Peegel“** + Renee Aluste +
 
 ---
 
@@ -187,7 +186,7 @@ Selle asemel:
 
 ### Rahastamise kanalid
 
-1. **Eeltellimus** — Combat Ready koolituste osalejad, podcast, BNI
+1. **Eeltellimus** —
 2. **Sponsorid** — arborist, bushcraft, PERH-tüüpi partnerid (ilma propaganda keeleta)
 3. **Kaitseliidu pood / relvad.ee mudel** — jaemüük pärast esimest trükki
 4. **Käsus nimetatud isikutele** — Lisa AJ kuller + vahapitsat (premium ~25–40 €/tk)
@@ -213,7 +212,6 @@ Selle asemel:
 | 2 | Bushcraft + ohtlikkus peatükid | Renee + välisautor (bushcraft) |
 | 3 | Kaas — 3 varianti, valik | Kujundaja (Kalle Mülleri stiilis) |
 | 4 | Proovitrükk 50 tk | Printon |
-| 5 | Eeltellimus kampaania | Combat Ready |
 | 6 | ISBN + Kaitseliidu pood / oma veeb | Remo ärikanal |
 | 7 | Lisa AK → generate_taskuraamat_pdf.py | Repo |
 

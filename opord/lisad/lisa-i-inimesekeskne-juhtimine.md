@@ -98,7 +98,7 @@ See on operatsiooni tuum, kui räägime Kaitseväest, kiusamisest ja vastutusest
 
 Steigeri juhised on mõeldud selleks, et juht saaks oma kaastöötajaid juhtida **inimesekeskselt** — olenemata sellest, kas alluvad kannavad **teksaseid või välivormi**. Erinevate riiete all on inimesed **põhimõtteliselt samasugused**.
 
-Operatsioon „Peegel" ütleb sama: Combat Ready koolitused, Kaitsevägi, kool, pere, kodanik — **üks inimloomus**, üks juhtimisvajadus. Extreme Ownership (vastutus) ja inimesekeskne juhtimine (austus) ei ole vastandlikud — **austus on eeldus**, vastutus on tulemus.
+Operatsioon „Peegel" ütleb sama:
 
 ### Mis see raamat on — ja mis mitte
 

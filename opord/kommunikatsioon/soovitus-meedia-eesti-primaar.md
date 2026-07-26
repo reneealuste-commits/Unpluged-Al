@@ -1,55 +1,54 @@
 # Reegel: eesti keel primaarselt
 
-**Kehtib:** kõik käsu soovitused, podcastid, raamatud, koolitused, kanalid  
+**Kehtib:** kï¿½ik kï¿½su soovitused, podcastid, raamatud, koolitused, kanalid  
 **Seotud:** Lisa Q (austav keel), Lisa AN (RU eraldi kanal), Lisa AJ (levitus)
 
-> **Eesti keel primaarselt.** Soovita alati kõigepealt **eestikeelset** sisu. Võõrkeelne ainult siis, kui eestikeelset vastet pole või inimene seda ise palub.
+> **Eesti keel primaarselt.** Soovita alati kï¿½igepealt **eestikeelset** sisu. Vï¿½ï¿½rkeelne ainult siis, kui eestikeelset vastet pole vï¿½i inimene seda ise palub.
 
 ---
 
 ## Miks
 
-| Põhjus | Tähendus |
+| Pï¿½hjus | Tï¿½hendus |
 |--------|----------|
-| **Lihtsus** (Lisa AT) | Üks plaan, üks keel — meeskond saab aru |
+| **Lihtsus** (Lisa AT) | ï¿½ks plaan, ï¿½ks keel ï¿½ meeskond saab aru |
 | **Kodaniku identiteet** (Lisa M) | Eesti keel on osa kodaniku rollist |
-| **Turvalisus** (Lisa P) | Võõr keel võib triggerdada või jätta kõrvale |
-| **Praktilisus** | Pere, kool, CR — igapäevane keel on eesti |
+| **Turvalisus** (Lisa P) | Vï¿½ï¿½r keel vï¿½ib triggerdada vï¿½i jï¿½tta kï¿½rvale |
+| **Praktilisus** | Pere, kool, CR ï¿½ igapï¿½evane keel on eesti |
 
 ---
 
-## Soovituste järjekord
+## Soovituste jï¿½rjekord
 
 1. **Eestikeelne** podcast / raamat / koolitus / OPORD-i lisa  
 2. **Eestikeelne** alternatiiv samal teemal (teine kanal)  
-3. **Venekeelne** — ainult Lisa AN raamistikus (eraldi kanal, Kiht 0)  
-4. **Inglise või muu** — ainult kui ülalpool pole midagi ja inimene küsib
+3. **Venekeelne** ï¿½ ainult Lisa AN raamistikus (eraldi kanal, Kiht 0)  
+4. **Inglise vï¿½i muu** ï¿½ ainult kui ï¿½lalpool pole midagi ja inimene kï¿½sib
 
 ---
 
-## Eestikeelsed kanalid (Peegel võrgustik)
+## Eestikeelsed kanalid (Peegel vï¿½rgustik)
 
 | Teema | Kanal | Link |
 |-------|-------|------|
 | **Isa / pere** | Papsid.ee Podcast | https://papsid.ee/podcast/ |
 | **Laste kaitse, teadlikkus** | Ava Oma Silmad (Katrin Lucas) | https://katrinlucas.com/podcast/ |
-| **Juhtimine, vastutus** | Combat Ready / Echelon Front (ET koolitused) | combatready.ee |
-| **Kaitse, veteranid** | Eriväelase jutud (Delfi Tasku) | tasku.delfi.ee |
+| **Kaitse, veteranid** | Erivï¿½elase jutud (Delfi Tasku) | tasku.delfi.ee |
 | **Raha, eneseareng** | Blondcast, Rahareede (Delfi) | tasku.delfi.ee |
 | **Kriis, isa** | Lisa H + Eluliin 655 8088 | OPORD Lisa H |
 | **Haridus** | Steiger *Inimesekeskne juhtimine* (ET, ISBN 9985901274) | Lisa I |
 
-Käsu automaatika: `write_osalejate_kask.py` — PERE/KRIIS ? Papsid.ee; muu ? Ava Oma Silmad (mõlemad ET).
+Kï¿½su automaatika: `write_osalejate_kask.py` ï¿½ PERE/KRIIS ? Papsid.ee; muu ? Ava Oma Silmad (mï¿½lemad ET).
 
 ---
 
 ## Mida MITTE teha
 
-| Ära tee | Tee selle asemel |
+| ï¿½ra tee | Tee selle asemel |
 |---------|------------------|
-| Alusta inglise podcastiga | Alusta Papsid.ee või Ava Oma Silmad |
-| Lisa võõrkeelne ilma ET alternatiivita | Näita kõigepealt eestikeelset linki |
-| Sunni tõlget | Anna eestikeelne tuum (Lisa AN Kiht 0) |
+| Alusta inglise podcastiga | Alusta Papsid.ee vï¿½i Ava Oma Silmad |
+| Lisa vï¿½ï¿½rkeelne ilma ET alternatiivita | Nï¿½ita kï¿½igepealt eestikeelset linki |
+| Sunni tï¿½lget | Anna eestikeelne tuum (Lisa AN Kiht 0) |
 
 ---
 

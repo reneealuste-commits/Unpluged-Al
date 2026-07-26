@@ -88,7 +88,6 @@ Trükk suures mahus: **~1,2-1,8 -/eksemplar** ? 600k trükk ? **720k-1,08 mln -*
 | Peakirjastaja | **Heli Illipe-Sootak** (Raudhammas OÜ) |
 | Toimetaja-koordinaator | **Renee Aluste** |
 | Institucionaalne sild | **Rene Toomse** (Maakaitse käsiraamat) |
-| Levituse ja äri | **Remo Ojaste** / Combat Ready |
 | Õigused | Kirjastus Hermes (Fontese pärand) + Steigeri pärijad |
 | Trükk | Printon AS (sama mis Maakaitse käsiraamat) |
 
@@ -117,7 +116,7 @@ Iga ühiskonnakiht saab **oma kaane värvi**, **sama tuum** (Steigeri printsiibi
 - Mõõt: **120 × 152 mm** (Ranger Handbook / Šveitsi taskuraamat)
 - Kaas K0: **must, peegli joon** (salapärane - Lisa AK)
 - Siseruumis: Steiger + Peegel + bushcraft + „ohtlikkus" (sisemine dialoog)
-- Premium: Combat Ready vahapitsat (Lisa AJ)
+- Premium:
 
 ---
 
@@ -132,7 +131,6 @@ Iga ühiskonnakiht saab **oma kaane värvi**, **sama tuum** (Steigeri printsiibi
 | 3 | **Haridus- ja Teadusministeerium** | K3 noored, väärtuskasvatus | 0,5-1 mln - |
 | 4 | **Omavalitsused (600+ KOV)** | Leibkonna jaotus | 0,3-0,8 mln - |
 | 5 | **Kaitseliit** | Jätk Maakaitse käsiraamatule | 0,2-0,5 mln - |
-| 6 | **Combat Ready + partnerid** | Eeltellimus, BNI | 0,1-0,3 mln - |
 | 7 | **RES / erakorralised vahendid** | Kodanikukaitse, infosõja vastu | löödav |
 
 ### Šveitsi mudel Eestis
@@ -164,14 +162,14 @@ Kodaniku Raamat MTÜ  ???  õigused (Hermes + Steiger)
 | 2 | Õiguste päring Huber Verlagilt (vt Lisa AM) | Heli |
 | 3 | K0 käsikiri valmis (240 lk) | Renee + Heli |
 | 4 | Proovitrükk **1 000 tk** | Printon |
-| 5 | **Eeltellimus** 7 - - combatready.eu | Remo |
+| 5 | **Eeltellimus** 7 - - reneealuste.com | Remo |
 | 6 | Jaotus: Lisa AJ (kuller + vahapitsat) | Renee |
 | 7 | Lugemiskinnitus + tagasiside | Google Form |
 | 8 | **100 demomeest** - loevad, annavad tagasisidet | Lisa N |
 
 ### Faas 1: VÕRGUSTIK (3-12 kuud) - 10 000 tk
 
-- Combat Ready koolituste osalejad
+-
 - Kaitseliidu malevad (pilot 3 malevat)
 - 10 gümnaasiumi (III kursus)
 - PERH, perearstikeskused (K1)

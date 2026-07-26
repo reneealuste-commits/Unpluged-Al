@@ -269,7 +269,6 @@ Kui inimene teab, et **keegi tuleb** — et ta ei pea partnerit alt vedama, et h
 | Kodaniku mõte | Vooglaid, Paal (Lisa AR) | Raamat, vestlus — mitte spämm |
 
 
-
 ---
 
 ## 6. Seos teiste lisadega

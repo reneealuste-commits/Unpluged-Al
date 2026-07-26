@@ -28,7 +28,7 @@
 
 > *„**Kohtleme kõiki asjaosalisi nagu terveid, täiesti normaalseid inimesi.**" — operatsiooni põhireegel*
 
-> **⚠️ Combat Ready — brändi eristamine (26.07.2026):** Operatsioon „Peegel" on **Renee Aluste kodanikualgatus** (reneealuste.com). See **ei ole** Combat Ready OÜ toode, koolitus ega ärikanal. Mõned isikud OPORD-is on CR-ga seotud **isikliku kogemuse** tõttu — see ei tähenda operatsioonilist toetust. Küsimused operatsiooni kohta: Renee. Küsimused koolituse kohta: combatready.eu. Täielik plaan: [`strateegia-eraldumine-combat-ready.md`](kommunikatsioon/strateegia-eraldumine-combat-ready.md).
+> **Bränd:** Operatsioon „Peegel" on **Renee Aluste kodanikualgatus** (reneealuste.com). See ei ole ühegi äri- ega koolitusettevõtte toode.
 
 ---
 
@@ -378,16 +378,11 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
           │                            │                            │
 ┌─────────▼──────────┐   ┌─────────────▼─────────────┐   ┌──────────▼──────────┐
 │ OPERATIIVNE / ÄRI   │   │ TEADVUSTUSE TASE           │   │ VETERANID / TUGI     │
-│ Combat Ready        │   │ Katrin Lucas               │   │ Eero Kinnunen        │
-│ KVA (Aarne Ermus)   │   │ Villido, tantra, Pühali    │   │ Marge Sillaste       │
-│ ├─ Her Way (naised) │   │                            │   │ (inimeste juhtimine) │
-│ ├─ Youth / Super-   │   │                            │   │                      │
-│ │  mängud (Jäppinen)│   │                            │   │                      │
-│ ├─ Pertinax (Ojaots)│   │                            │   │                      │
-│ │  mereväe meeskond │   │                            │   │                      │
-│ ├─ Viru vangla      │   │                            │   │                      │
-│ │  (Anslan, vt Lisa K)│  │                            │   │                      │
-│ └─ Remo, Priit…     │   │                            │   │                      │
+│ KVA (Aarne Ermus)   │   │ Katrin Lucas               │   │ Eero Kinnunen        │
+│ Pertinax (Ojaots)   │   │ Villido, tantra, Pühali    │   │ Marge Sillaste       │
+│ Laste Supermängud   │   │                            │   │ (inimeste juhtimine) │
+│ Viru vangla (Anslan)│   │                            │   │                      │
+│ Starfish, BNI, BMI  │   │                            │   │                      │
 └─────────┬──────────┘   └────────────────────────────┘   └──────────┬──────────┘
           │                                                            │
           ├──────────────────────┬─────────────────────────────────────┘
@@ -439,12 +434,6 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 - **Taust:** Kolonel, Kaitseväe Akadeemia juhtimise suuna juht ja lektor. Endine Kaitsejõudude Peastaabi ülem ja operatiivülem; endine Kuperjanovi pataljoni ülem; Eesti sõjaline esindaja NATO SHAPE juures; endine Kaitseväe Ühendatud Õppeasutuste ülem (2007–2013).
 - **Miks ta on siin:** Kaitseväe Akadeemia rollikirjeldused rõhutavad enesearengut, kriitilist mõtlemist ja eetilist eneserefleksiooni — täpselt need oskused, mida operatsioon „Peegel“ kodanikele õpetab.
 
-#### Remo Ojaste — Taktikaline/äri tase (Combat Ready tegevdirektor)
-
-![Remo Ojaste](images/profiles/remo-ojaste.jpg)
-- **Roll operatsioonis:** Ärilise ja organisatsioonilise tasandi juht; „ülima vastutuse" põhimõtete rakendamine ühiskondlikus skaalas.
-- **Taust:** Combat Ready kaasasutaja ja tegevdirektor (2021). Endine Eesti erioperatsioonide väelane (8+ aastat). Echelon Fronti (Jocko Willink, Leif Babin) ametlik partner — ainus selline partner Euroopas. Aasta koolitaja 2022. Jocko taskuhäälingu külaline (2024).
-- **Miks ta on siin:** Combat Ready alustas seda operatsiooni ärilisel tasandil — praktiline juhtimiskoolitus, mis valmistab inimesi ette reaalseks eluks, mitte ainult slaidideks.
 
 #### Vallo Arumäe / Starfish Academy — Finantskirjaoskus ja investorlus
 
@@ -472,9 +461,9 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 
 ![Kerdu Lenear](images/profiles/kerdu-lenear.jpg)
 - **Roll operatsioonis:** Mõtteviisi ja vaimse treeningu eestvedaja ettevõtjatele ja sportlastele; BNI North Star Tallinn president.
-- **Taust:** Endine Eesti naiste korvpallikoondislane (D1 Auburn University, USA). TalTech MBA; Certified Neuroencoding Specialist (Joseph McClendon III). Asutaja: Mindset Fitness ja Athletepreneurs Academy. Koolitused: enesetakistus, STOP-tehnika, meeskonna vaimne vastupidavus. Koostöö Eesti ärieliidiga (sh Combat Ready CEO Remo Ojaste).
+- **Taust:** Endine Eesti naiste korvpallikoondislane (D1 Auburn University, USA). TalTech MBA; Certified Neuroencoding Specialist (Joseph McClendon III). Asutaja: Mindset Fitness ja Athletepreneurs Academy. Koolitused: enesetakistus, STOP-tehnika, meeskonna vaimne vastupidavus. Koostöö Eesti ärieliidiga.
 - **Veeb:** [mindsetfitness.ee](https://mindsetfitness.ee)
-- **Miks ta on siin:** Ärimaailma tipp algab peas. Kerdu aitab kõrge jõudlusega inimestel treenida mõistust nagu lihast — see täiendab Starfishi rahalist ja Combat Ready juhtimisliini.
+- **Miks ta on siin:** Ärimaailma tipp algab peas. Kerdu aitab kõrge jõudlusega inimestel treenida mõistust nagu lihast — see täiendab Starfishi rahalist ja juhtimisliini.
 
 #### Julian Maier — URBN TIGER, breathwork (Saksamaa)
 
@@ -524,7 +513,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 #### Robert Käsper — Meedik, veteran (hajutatud)
 
 - **Roll operatsioonis:** Sõjaväelase ja meediku kogemuse edasiandmine tsiviilis — oma maastikul, sõltumatult.
-- **Taust:** ~10 aastat Kaitseväes, sh erioperatsioonide väejuhatus; **üksuse meedik (18D)** välismissioonidel. Endine nooremseersant — Renee Aluste teenistusaeg samas ajajärgus (Renee nooremveebel, Robert nooremseersant). Pärast teenistust: sisejulgeolek, kaitsetööstus, RKIK; varem Combat Ready instruktor ja FTX juht (2022–2024). **Tegutseb hajutatult omal maastikul** — Delfi podcast **„Eriväelase jutud"**, kaitse- ja meditsiiniteemad.
+- **Taust:** ~10 aastat Kaitseväes, sh erioperatsioonide väejuhatus; **üksuse meedik (18D)** välismissioonidel. Endine nooremseersant — Renee Aluste teenistusaeg samas ajajärgus (Renee nooremveebel, Robert nooremseersant). Pärast teenistust: sisejulgeolek, kaitsetööstus, RKIK; varem juhtimiskoolitaja ja FTX juht (2022–2024). **Tegutseb hajutatult omal maastikul** — Delfi podcast **„Eriväelase jutud"**, kaitse- ja meditsiiniteemad.
 - **Veeb:** [tasku.delfi.ee — Eriväelase jutud](https://tasku.delfi.ee/podcast/ff0c1df9-082d-414f-b06d-f48decd50f45)
 - **Miks ta on siin:** Robert ühendab meditsiini, distsipliini ja juhtimist — täpselt see kombinatsioon, mida operatsioon vajab kriisis. Tema kogemus meedikuna täiendab Lisa H taastumisressursse; hajutatud tegutsemine omal maastikul näitab, et võrgustik ei vaja tsentraalset käsku.
 
@@ -556,18 +545,18 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 - **Kontakt:** Vana-Lõuna 39/1, Tallinn · tel 667 0111 · sihtasutus@vooglaid.org
 - **Miks ta on siin:** Kannab Vooglaidi tuuma trükis ja igapäevatöös. **Lisa AR**
 
-#### Martin Jõesaar — Euroopa tase (Combat Ready kaasasutaja)
+#### Martin Jõesaar — Euroopa tase
 
 ![Martin Jõesaar](images/profiles/martin-joesaar.jpg)
 - **Roll operatsioonis:** Rahvusvaheline mõjutus ja koostöö; Euroopa juhtimiskultuuri arendamine.
-- **Taust:** Combat Ready kaasasutaja (2021), Aasta koolitaja 2022. Euroopa Komisjoni DG DEFIS programmijuht — ELi kaitseuuenduste büroo Kiievis. 16+ aastat ohvitserina Kaitseväes; endine Milrem Robotics COO; kaitseinvesteeringute kogemus.
+- **Taust:** Aasta koolitaja 2022. Euroopa Komisjoni DG DEFIS programmijuht — ELi kaitseuuenduste büroo Kiievis. 16+ aastat ohvitserina Kaitseväes; endine Milrem Robotics COO; kaitseinvesteeringute kogemus.
 - **Miks ta on siin:** Ühendab Eesti kogemuse Euroopa kaitse- ja innovatsioonivõrgustikuga. Toob operatsioonile rahvusvahelise ulatuse.
 
 #### Renee Aluste — Operatsiooni koordinaator, rahva tase
 
 ![Renee Aluste](images/profiles/renee-aluste.jpg)
 - **Roll operatsioonis:** Operatsiooni eestvedaja ja peamine sõnumitooja; ühendab isikliku kogemuse sõjalise distsipliiniga.
-- **Taust:** Combat Ready instruktor; Kaitseliidu juhtimisinstruktor. Endine erioperatsioonide grupi operaator; üks vähestest eestlastest, kes on läbinud USA Army Ranger Schooli. Arborist (TreeDoc/Kaks Arboristi). Ajateenistus Vahipataljonis (2009–2010); erioperatsioonide grupp; laevakaitseüksus; rahuvalvemissioon Liibanonis Estpla-21 (2015, ~7 kuud UNIFIL-i Soome-Iiri pataljoni koosseisus).
+- **Taust:** Kaitseliidu juhtimisinstruktor. Endine erioperatsioonide grupi operaator; üks vähestest eestlastest, kes on läbinud USA Army Ranger Schooli. Arborist (TreeDoc/Kaks Arboristi). Ajateenistus Vahipataljonis (2009–2010); erioperatsioonide grupp; laevakaitseüksus; rahuvalvemissioon Liibanonis Estpla-21 (2015, ~7 kuud UNIFIL-i Soome-Iiri pataljoni koosseisus).
 - **Isiklik motivatsioon:** Aluste on ise kogenud depressiooni ja mõistnud, kuidas pikaajaline infosõja ja manipulatsioon võib inimest murda. Ta on taastunud — ravimid, professionaalne abi, [narko.ee](https://www.narko.ee) tugiliin — ja võtnud vastutuse keha eest: uni, liikumine, toitumine. Ta viitab Vilhjalmur Stefanssoni arktika-kogemusele ja Bellevue uuringule (1928–1929) kui tõendile, et rasvarikas loomne toit (kala, mererasv) võib keha tervendada, kui vaim on juba abi saanud. Täielik lugu: **Lisa H**.
 - **Läbipõlemise õppetund:** Umbes **kolm aastat** tegi ta Sõdurioskuste kursuseid efektiivselt ja suurelt — tulemuseks olid **suured läbipõlemise ilmingud**. Operatsioon „Peegel" peab seda seekord tegema **targemini**: alusta **1-1 vestlustega** niipea kui võimalik, mitte ainult mass-koolitusega. Esimene samm on tehtud — **Rene Toomsega** on suhtlus alustatud; ukse lahti tehtud. (Vt V-formatsioon: Lisa I — üks ei veda igavesti.)
 - **Isiklik ajend (ausalt):** 37 aastat domineeriva juhtimise ja vägivalla all (*väikena ei kiusatud* — aga leivale suud, kõik ära, vastu tahtmist). Kolm last võõrandatud (Lily Käsper 14a, Rene Tilga 6a, Henry Käsper 11a). Oli ise kooli kiusaja. Taastus: Engel, Voss, van der Kolk, EMDR. Lahendus: **inimesekeskne juhtimine** (Kert + Steiger). Vt Q&A IV.
@@ -586,7 +575,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 
 ![Priit Lilleväli](images/profiles/priit-lillevali.jpg)
 - **Roll operatsioonis:** Juhtimiskoolitaja ja juhendaja; aitab inimestel töödelda traumaatilisi kogemusi ja võtta vastutust.
-- **Taust:** Combat Ready instruktor ja juhendaja. Äripäeva Aasta koolitaja 2023 eriauhind. Endine kaitseväelane (5 aastat), kaks lahingumissiooni Afganistanis. Psühholoogia õpingud (TÜ), juhendamiskoolitus (EBS). 300+ koolitust, 800+ juhendamistundi.
+- **Taust:** juhtimiskoolitaja ja juhendaja. Äripäeva Aasta koolitaja 2023 eriauhind. Endine kaitseväelane (5 aastat), kaks lahingumissiooni Afganistanis. Psühholoogia õpingud (TÜ), juhendamiskoolitus (EBS). 300+ koolitust, 800+ juhendamistundi.
 - **Miks ta on siin:** Operatsioon vajab inimest, kes oskab rääkida nii distsipliinist kui emotsionaalsest taastumisest — ilma ohvriidentiteeti tugevdamata.
 
 #### Katrin Lucas — Sügavama teadlikkuse tase
@@ -631,7 +620,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 - **Roll operatsioonis:** Igapäevane liikuvus ja **vigastuste ennetus** — rippumine 90 sek/päev, kükki, täisulatuses tugevus; **kirurg ilma noata** (mobility enne operatsiooni).
 - **Meeskond:** **Vanja Moves** (asutaja) · **Moves Method** (lipulaev, 200 000+ õpilast) · **Moves Labs** · **Josh Fear** + treenerid (Skooli kogukond) · [schoolofmobility.com](https://schoolofmobility.com) — Mobility & Injury Prevention Training.
 - **Taust:** Endine prof.tennisist; sporditeadus ja toitumine; 2M+ kogukond; YouTube @Movesmethod 680K+; *Making Moves* podcast. Filosoofia: **antifragile human** — liikuvus on teenitud tugevus, mitte passiivne venitamine.
-- **Mõjuala:** **Keha linnaruumis** (Lisa AB) — rippumisribad, muruväljakud, 90 sek päevas; täiendab Combat Ready liikumist, Lisa V (uni), Lisa H (taastumine).
+- **Mõjuala:** **Keha linnaruumis** (Lisa AB) — rippumisribad, muruväljakud, 90 sek päevas; Lisa V (uni), Lisa H (taastumine).
 - **Miks ta on siin:** Linn ehitab tooli ja asfaldi, aga mitte rippumiskohti. Inimene on ahv — ta vajab rippumist. Operatsioon ütleb: **alusta tasuta** — YouTube, podcast, Skool — enne kui ootad operatsiooni või lõputut füsioteraapiat.
 - **Tsitaat (Renee mäletab):** *„A stretching master is a surgeon without a knife."* — üks miljardär on seda öelnud; venitamise / liikuvuse meister parandab ilma noata.
 - **Tasuta alustus:** [YouTube @Movesmethod](https://www.youtube.com/@Movesmethod) · [vanjamoves.com](https://vanjamoves.com) · [skool.com/movesmethod](https://www.skool.com/movesmethod) · Täielik juhend: **Lisa AB**
@@ -683,7 +672,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 ![Eerik Heldna](images/profiles/eerik-heldna.jpg)
 
 - **Roll operatsioonis:** Kriisireguleerimise koordineerimine kodanikualgatuse tasandil — rolliselgus, õppused, valmisolek ja tsiviil-kaitse üleminek kriisis.
-- **Taust:** Üle 25 aasta kogemust õiguskaitse ja julgeolekusektoris (politsei, kaitsepolitsei, toll). Endine Maksu- ja Tolliameti tolliosakonna juht. Naasis 2025. aastal Politsei- ja Piirivalveametisse kriisideks valmisoleku büroosse, kus tegeleb õppuste ja kriisivalmiduse korraldamisega. Combat Ready instruktor; riigikaitseõpetaja gümnaasiumides. Kaitseväe missioonikogemus.
+- **Taust:** Üle 25 aasta kogemust õiguskaitse ja julgeolekusektoris (politsei, kaitsepolitsei, toll). Endine Maksu- ja Tolliameti tolliosakonna juht. Naasis 2025. aastal Politsei- ja Piirivalveametisse kriisideks valmisoleku büroosse, kus tegeleb õppuste ja kriisivalmiduse korraldamisega. riigikaitseõpetaja gümnaasiumides. Kaitseväe missioonikogemus.
 - **Miks ta on siin:** Operatsioon „Peegel" vajab inimest, kes mõistab kriisireguleerimist mitte ainult paberil, vaid praktikas — kes võtab vastutuse rolliselguse eest, kui ühiskond satub surve alla. Heldna on võtnud operatsiooni raames kriisireguleerimise juhtimise enda peale: üleriigiline koordineerimine, õppuste loogika ja kodaniku teadlikkus hädaolukorra reeglite osas.
 
 #### Elmar Vaher — Kaitseinvesteeringud ja riiklik võimekus
@@ -691,22 +680,15 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 ![Elmar Vaher](images/profiles/elmar-vaher.jpg)
 
 - **Roll operatsioonis:** Strateegiline partner kaitse- ja tsiviilvõimekuse ühendamisel; riikliku investeeringu loogika toomine kodanikualgatusele arusaadavaks keeleks.
-- **Taust:** Riigi Kaitseinvesteeringute Keskuse (RKIK) peadirektor alates 12. jaanuarist 2026; riiklik relvastuse direktor. 2013–2023 Politsei- ja Piirivalveameti peadirektor — juhtis ühe Eesti suurima avaliku sektori asutuse ühendamist ja moderniseerimist. Magistrikraad õiguses. Combat Ready instruktor.
-- **Miks ta on siin:** Kaitse ei ole ainult sõnum. See on ka raha, taristu ja tarne — miljardid, mis peavad jõudma väljaõppesse ja võimekusse. Vaher täidab RKIK-is missiooni, mis otseselt toetab seda, mida operatsioon kodanikule õpetab: vastutust, valmisolekut ja pika mängu mõtlemist. Ta ühendab riigi investeeringutasandi ja Combat Ready praktilise juhtimiskultuuri. Tema lapsed õpivad Rocca al Mare Koolis; ta on kooliperega seotud lapsevanema ja juhtimisnõustajana (vt **Lisa J**).
+- **Taust:** Riigi Kaitseinvesteeringute Keskuse (RKIK) peadirektor alates 12. jaanuarist 2026; riiklik relvastuse direktor. 2013–2023 Politsei- ja Piirivalveameti peadirektor — juhtis ühe Eesti suurima avaliku sektori asutuse ühendamist ja moderniseerimist. Magistrikraad õiguses.
+- **Miks ta on siin:** Kaitse ei ole ainult sõnum. See on ka raha, taristu ja tarne — miljardid, mis peavad jõudma väljaõppesse ja võimekusse. Vaher täidab RKIK-is missiooni, mis otseselt toetab seda, mida operatsioon kodanikule õpetab: vastutust, valmisolekut ja pika mängu mõtlemist. Ta ühendab riigi investeeringutasandi ja praktilise juhtimiskultuuri. Tema lapsed õpivad Rocca al Mare Koolis; ta on kooliperega seotud lapsevanema ja juhtimisnõustajana (vt **Lisa J**).
 
-#### Combat Ready | Her Way — Naiste enesejuhtimine (For Her)
 
-![Combat Ready Her Way](images/profiles/combat-ready-her-way.jpg)
+#### Tanel Jäppinen — Laste Supermängud
 
-- **Roll operatsioonis:** Naiste kanal ülima vastutuse ja enesejuhtimise õpetamiseks — eriti emadele, juhtidele ja naistele, kes kannavad kodus ja tööl koormust, mida infosõda süvendab.
-- **Taust:** Combat Ready | Her Way (tuntud ka kui *Combat Ready for Her*) on kogukond naistest, kes harjutavad Extreme Ownership põhimõtteid enesejuhtimiseks. Veebiseminarid ja praktilised treeningud; kaasloojad ja instruktorid sh Aet Tammis ja Karin Pohla. combatreadyherway.eu.
-- **Miks ta on siin:** Infosõda tabab sageli naisi teistmoodi — läbi hoolduse, süütunde ja väsimuse. Her Way pakub turvalist ruumi, kus naised õpivad võtma vastutust oma elu eest ilma kõike kontrollida proovimata. See täiendab operatsiooni peamist sõnumit: tugev perekond algab tugevast inimesest.
-
-#### Tanel Jäppinen — Combat Ready Youth ja Laste Supermängud
-
-- **Roll operatsioonis:** Noorte- ja peretasandi juht; Laste Supermängud ja Combat Ready Youth programmide eestvedaja.
-- **Taust:** Combat Ready Youth OÜ juhatuse liige ja tegevjuht (koos Martin Jõesaarga). Pikaaegne vanemlusmentor ja koolitaja; Parenting Solutions OÜ kaasasutaja. Keskendub 7–12-aastaste laste praktilisele vastutusele, distsipliinile ja kodus kasutatavale „ühisele keelele" — väike harjutus päevas, mitte teoorialoeng.
-- **Miks ta on siin:** Operatsioon võidetakse või kaotatakse kodus. Laste Supermängud ja Combat Ready Youth annavad lastele mängulise, praktilise tee vastutuse ja meeskonnatöö juurde — enne kui algoritm neid õpetab vastupidist. Kontakt: tanel.jappinen@combatready.eu.
+- **Roll operatsioonis:** Noorte- ja peretasandi juht; Laste Supermängud eestvedaja.
+- **Taust:** Pikaaegne vanemlusmentor ja koolitaja; Parenting Solutions OÜ kaasasutaja. Keskendub 7–12-aastaste laste praktilisele vastutusele, distsipliinile ja kodus kasutatavale „ühisele keelele" — väike harjutus päevas, mitte teoorialoeng.
+- **Miks ta on siin:** Operatsioon võidetakse või kaotatakse kodus. Laste Supermängud annavad lastele mängulise, praktilise tee vastutuse ja meeskonnatöö juurde — enne kui algoritm neid õpetab vastupidist. Kontakt: Parenting Solutions / Laste Supermängud.
 
 #### Peeter Järvsoo — Noorte Kotkad (kohalik allüksus)
 
@@ -741,7 +723,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 ![Ain Anslan](images/profiles/ain-anslan.jpg)
 
 - **Roll operatsioonis:** Avaliku sektori juhtimiskultuuri partner; inimesekeskne juhtimine raskes keskkonnas — kriisivalmidus, meeskonnakultuur ja vastutus.
-- **Taust:** Viru vangla direktor alates 1. novembrist 2023. Magistrikraad personalijuhtimises. 19+ aastat riigi julgeoleku ja siseturvalisuse sektoris (sh 4 aastat kaitseväes). Endine relvastatud üksuse, saateüksuse, avavangla ja tugevdatud järelevalve üksuse juht. Vanglaametniku teeneterist (2021); teenistusmedal 15 aasta eest (2023). Combat Ready koostööpartner — juhtide koolitus, veebiseminar Priit Lilleväliga, kogemuslugu „Viru Vangla kogemuslugu" (YouTube, 2026).
+- **Taust:** Viru vangla direktor alates 1. novembrist 2023. Magistrikraad personalijuhtimises. 19+ aastat riigi julgeoleku ja siseturvalisuse sektoris (sh 4 aastat kaitseväes). Endine relvastatud üksuse, saateüksuse, avavangla ja tugevdatud järelevalve üksuse juht. Vanglaametniku teeneterist (2021); teenistusmedal 15 aasta eest (2023). juhtide koolitus, veebiseminar Priit Lilleväliga, kogemuslugu „Viru Vangla kogemuslugu" (YouTube, 2026).
 - **Miks ta on siin:** Operatsioon „Peegel" ütleb: me ei ehita vanglaid, mida ise valvame. Aga me vajame juhte, kes mõistavad, et kriisivalmidus on igapäevane töökultuur — mitte dokument riiulil. Anslan on elav näide, kuidas Extreme Ownership ja inimesekeskne juhtimine töötavad seal, kus keskkond on kõige raskem. Tema kogemus tugevdab operatsiooni sõnumit: juht kujundab keskkonda oma käitumisega. Täielik võrgustiku skeem ja kõik osalised: **Lisa K**.
 
 #### Eero Kinnunen — Eesti Kaitseväe Veteranid
@@ -885,12 +867,11 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 | Kõrgem | Eesti riik, Kaitsevägi, Kaitsepolitseiamet | Ametlik infosõja tõrje — hea, kuid kõik ei jõua kodanikuni |
 | Strateegiline | Eerik Heldna (kriisireguleerimine), Elmar Vaher (RKIK) | Kriisivalmidus ja kaitseinvesteeringud — aktiivne |
 | Operatiivne | Kaitseväe Akadeemia, Kaitseliit | Juhtide koolitus, kogukonna kaitse — tugev |
-| Taktikaline | Combat Ready (+ Her Way, Youth/Supermängud, Pertinax) | Juhtimiskoolitus, ülim vastutus — aktiivne |
+| Taktikaline | Juhtimiskoolitus (võrgustik), Pertinax, Laste Supermängud | Praktiline vastutus — aktiivne |
 | Avalik sektor | Ain Anslan (Viru vangla) | Juhtimiskultuur, kriisivalmidus — aktiivne (Lisa K) |
 | Haridus | Techno TLN (Ott Pärna), KVA juhtkond, RaM Kool (Elmar Vaher), **Tallinna Vaba Waldorfkool (Ave Osa)**, **Montessori võrgustik (Roosi-Ott, Allikvee)** | Kutse-, juhtimis-, väärtus-, waldorf- ja Montessori-haridus — aktiivne (Lisa J) |
 | Kohalik | Peeter Järvsoo (Noorte Kotkad), Andrei Ambros (Harku), Andres Põhjala (Tartu Do) | Noored ja piirkondlik vastupanuvõime — aktiivne |
 | Rahva tase | Operatsioon „Peegel" võrgustik | KÄIVITATUD — see käsk |
-| Toetus | Remo Ojaste / Combat Ready | Extreme Ownership, äriline juhtimine — aktiivne |
 | Toetus | Starfish Academy (Vallo Arumäe) | Finantskirjaoskus, investorlus — aktiivne |
 | Toetus | BMI Executive Institute | Juhtide EMBA ja executive education — aktiivne |
 | Toetus | BNI Eesti | Ärireferaalid ja ettevõtjate võrgustik — aktiivne |
@@ -922,7 +903,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 
 ## c. Tugevdused ja vähendused
 
-- **Tugevused:** Renee Aluste (isiklik kogemus + sõjaline väljaõpe); Combat Ready meeskond (sh Her Way, Youth, Pertinax); Ain Anslan (avaliku sektori juhtimiskultuur); Riho Ühtegi rahvuslik autoriteet; Rene Toomse strateegiline nägemus; Eerik Heldna kriisireguleerimine; Elmar Vaher kaitseinvesteeringute ja juhtimiskogemus; Steigeri inimesekeskne juhtimine kui SOP (Lisa I); teadlikkuse võrgustik (Lucas, Villido, Trofimov, tantralaagrid, Pühali); veteranid (Kinnunen); kohalikud allüksused (Järvsoo, Ambros); inimeste juhtimine (Sillaste).
+- **Tugevused:** Renee Aluste (isiklik kogemus + sõjaline väljaõpe); Ain Anslan (avaliku sektori juhtimiskultuur); Riho Ühtegi rahvuslik autoriteet; Rene Toomse strateegiline nägemus; Eerik Heldna kriisireguleerimine; Elmar Vaher kaitseinvesteeringute ja juhtimiskogemus; Steigeri inimesekeskne juhtimine kui SOP (Lisa I); teadlikkuse võrgustik (Lucas, Villido, Trofimov, tantralaagrid, Pühali); veteranid (Kinnunen); kohalikud allüksused (Järvsoo, Ambros); inimeste juhtimine (Sillaste).
 - **Vähendused:** Puuduv ametlik riiklik volitus (kodanikualgatus); piiratud eelarve; sõltuvus vabatahtlikust osalusest.
 
 ---
@@ -943,7 +924,7 @@ Operatsioon „Peegel" põhineb peegelneuronitel — ajus mehhanismil, mille abi
 
 **Faas I — Teadvustamine (kuud 1–3):** Ava silmad. Tuvasta manipulatsioon. Jälgi oma infokäitumist. Vähenda algoritmidele allumist. Alusta eneseanalüüsiga.
 
-**Faas II — Tugevdamine (kuud 4–8):** Ehita harjumusi. Perekonna aeg. Füüsiline liikumine. Mentorlus. Combat Ready ja võrgustiku koolitused. Combat Ready | Her Way (naised). Combat Ready Youth ja Laste Supermängud (Tanel Jäppinen). MTÜ Team Pertinax treeningud (Aigar Ojaots, mereväe meeskond). „Ava oma Silmad" taskuhääling teadlikkuseks. Ingvar Villido Practical Consciousness kursused. Tantralaagrid ja Eesti Tantrafestival (Earthchild, Skalkina, Sarmet, Saul). Pühali Hea Elu Keskus — loodus, sauna, puhkus (Sõõrumaa). Noorte Kotkad (Järvsoo). Harku piirkond (Ambros). Veteranide tugi (Kinnunen).
+**Faas II — Tugevdamine (kuud 4–8):** Ehita harjumusi. Perekonna aeg. Füüsiline liikumine. Mentorlus. Võrgustiku koolitused. Laste Supermängud (Tanel Jäppinen). MTÜ Team Pertinax treeningud (Aigar Ojaots, mereväe meeskond). „Ava oma Silmad" taskuhääling teadlikkuseks. Ingvar Villido Practical Consciousness kursused. Tantralaagrid ja Eesti Tantrafestival (Earthchild, Skalkina, Sarmet, Saul). Pühali Hea Elu Keskus — loodus, sauna, puhkus (Sõõrumaa). Noorte Kotkad (Järvsoo). Harku piirkond (Ambros). Veteranide tugi (Kinnunen).
 
 **Faas III — Peegeldamine (kuud 9–12):** Oma kogukonnas eeskujuks. Räägi teistega. Toeta naabrit, kolleegi, sõpra. Iga tugev isa, iga toetav ema, iga mentor on võit.
 
@@ -977,7 +958,6 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 1. **1-1 vestlused** — prioriteet: **paranemis-teadlikult**, turvalisuses ja mõistmises (läbipõlemise vastu; vt V-formatsioon Lisa I). Tööriist: **spordikommentaator** (Lisa P).
 2. **Turvalisuse standard** — kõik kontaktid: turvalisus → spordikommentaator → valideeri → ausus → valik (Lisa P). Side hääl ja GOTWA: **Lisa Q**. **Kohtle iga asjaosalist nagu terve, täiesti normaalset inimest.**
 3. Sõnumite koordineerimine ja levitamine.
-4. Combat Ready koolituste korraldamine võrgustikule.
 5. Isiklike lugude jagamine (autentsus).
 6. Mõõdikute jälgimine (tagasiside kogukonnast).
 7. **Aktiveeri ja juhi üksust Aluste_kool** — SOK demomehed (vt **Lisa N**).
@@ -988,19 +968,9 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 3. **Katseta, mis töötab** — anna igakuiselt tagasiside: mis checklisti punkt aitas, mis mitte.
 4. Ole **demomees** — näita eeskuju, ära ainult räägi; täielik juhend: **Lisa N**. *Kui sa oled SOK läbinud — tunnetad ennast ära.*
 
-### Combat Ready (Remo Ojaste, Priit Lilleväli, meeskond)
-1. Ülima vastutuse koolitused ettevõtetele ja kogukondadele.
-2. Juhtimis- ja meeskonnakoolitused perede ja MTÜ-de juhtidele.
-3. Veebipõhiste ja hübriidlahenduste pakkumine (2026. aasta fookus: turvalisus ja vastupidavus).
-
-### Combat Ready | Her Way (naiste kanal)
-1. Igakuised enesejuhtimise veebikohtumised ja praktilised treeningud naistele.
-2. Ülima vastutuse rakendamine kodus, tööl ja kriisihetkedel — ilma kõike kontrollida proovimata.
-3. Kogukonna loomine, kus naised harjutavad ausust ja vastutust (combatreadyherway.eu).
-
-### Tanel Jäppinen / Combat Ready Youth / Laste Supermängud
+### Tanel Jäppinen / Laste Supermängud
 1. Laste Supermängud — praktilised harjutused peredele (7–12-aastased): vastutus, keskendumine, „ühine keel" kodus.
-2. Combat Ready Youth programmide arendamine ja levitamine koolidele ja MTÜ-dele.
+2. Noorteprogrammide arendamine ja levitamine koolidele ja MTÜ-dele.
 3. Vanemate mentorlus: väike harjutus päevas > teoorialoeng.
 
 ### Eerik Heldna (kriisireguleerimine)
@@ -1011,10 +981,10 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 ### Elmar Vaher (RKIK / kaitseinvesteeringud, RaM Kool lapsevanem, vt Lisa J)
 1. Siduda riiklik kaitsevalmidus ja koolielu — lapsevanemana Rocca al Mare Koolis.
 2. Toetada kooli kriisivalmidust ja juhtimispraktikat (pro bono nõustamine).
-3. Viia RKIK-i investeeringuloogika kodanikule arusaadavaks keeleks; toetada Combat Ready partnerlust.
+3. Viia RKIK-i investeeringuloogika kodanikule arusaadavaks keeleks.
 
 ### Ain Anslan / Viru vangla (Vanglateenistus, vt Lisa K)
-1. Juhtide koolitus Combat Ready põhimõtetel — inimlik pealehakkamine ja sihikindlus raskes keskkonnas.
+1. Juhtide koolitus inimesekesksete põhimõtete järgi — inimlik pealehakkamine ja sihikindlus raskes keskkonnas.
 2. Kriisivalmidus igapäevase töökultuurina — otsused seal, kus sündmus toimub.
 3. Keskkonna kujundamine juhi käitumisega; koostöö Priit Lilleväliga (veebiseminar, kogemuslood).
 4. Siduda avalik sektor ja kodanikualgatuse juhtimiskultuur — vt **Lisa K**.
@@ -1032,7 +1002,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 ### Andrei Ambros (Harku piirkond)
 1. Spordi- ja vastupanuvõime programmid Harku vallas ja naabruses (ju-jutsu, laskmine, enesekaitse).
 2. Füüsilise valmisoleku tõstmine peredes ja noortes — trenn, mitte hirm.
-3. Koostöö Combat Ready ja Kaitseliidu kohalike struktuuridega.
+3. Koostöö Kaitseliidu kohalike struktuuridega.
 
 ### Andres Põhjala (Spordiklubi Do, Tartu)
 1. **Judo** — austus, enesekontroll, sõprus; 500+ noort klubis ([do.ee](https://www.do.ee)).
@@ -1046,7 +1016,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 
 ### Ott Pärna / Techno TLN (haridustase, vt Lisa J)
 1. Viia kutsehariduse sõnum noorteni: praktiline oskus on vastupanuvõime osa.
-2. Luua koostöö Combat Ready Youth, Laste Supermängud ja tööstusega.
+2. Luua koostöö Laste Supermängud ja tööstusega.
 3. Koordineerida Techno TLN juhtkonna (9 liiget) operatsiooni Faas II–III ülesannetega.
 
 ### Ave Osa / Tallinna Vaba Waldorfkool (haridustase, vt Lisa J)
@@ -1220,7 +1190,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 # 4. LAHINGUTEENINDUS
 
 ## a. Üldine
-- **Logistikapunktid:** Kogukonna keskused, koolid, kirikud, spordiklubid, Combat Ready koolitusruumid.
+- **Logistikapunktid:** Kogukonna keskused, koolid, kirikud, spordiklubid.
 - **Haavatute kogumispunkt:** Eluliin 655 8088; Perearsti nõuandeliin 1220; kriisiabi 116 123; ohvriabi kriisitelefon 116 006; narko.ee tugiliin 641 4110 (E–P 9–21).
 
 ## b. Materjalid ja teenistused
@@ -1231,7 +1201,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 | **III (kütus)** | Uni 7–8h; liikumine 30 min/päev; **toit** — eelistada täisväärtuslikku, vähe töödeldud toitu (kohalik kala, liha, rasv koos); enne suuri dieedimuutusi perearst. Vt Lisa H (Renee saamise lugu, Stefanssoni viide) |
 | **V (laskemoon)** | Sõnad — kasuta neid mõistlikult. Iga sõnum on lask |
 | **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber; [narko.ee](https://www.narko.ee) chatbot/tugiliin (Renee alustas siit); [ohvriabi.ee](https://ohvriabi.ee) — koduvägivalla korral kuni 940 € psühholoogilise abi toetus 2 aasta jooksul (sh **EMDR** sessioonid); Märt Avandi lugu YouTube'is: [watch?v=nNuHGdQdrZY](https://www.youtube.com/watch?v=nNuHGdQdrZY) |
-| **Muu** | „Ava oma Silmad" taskuhääling; Combat Ready koolitused; Combat Ready Her Way; Laste Supermängud; see paranemis-teekond |
+| **Muu** | „Ava oma Silmad" taskuhääling; Laste Supermängud; see paranemis-teekond |
 
 ## c. Meditsiiniline evakueerimine
 - Depressiooni või kriisi korral: pöörduda kohe spetsialisti poole. **Lisa H** — kiirjuhend isale kriisis (loe Lisa F esimesena).
@@ -1255,7 +1225,6 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 | Operatsiooni koordinaator | Renee Aluste | partnerlus ja koostöö (mitte üldine K&V postkast) |
 | Strateegiline nõu | Riho Ühtegi | avalik kanal |
 | Riigi tase | Rene Toomse | avalik kanal |
-| Äri/taktika | Remo Ojaste | remo.ojaste@combatready.eu |
 | Finantskirjaoskus | Vallo Arumäe / Starfish Academy | starfish.academy |
 | Juhtide kõrgharidus | BMI Executive Institute | bmiinstitute.com |
 | Ärivõrgustik | BNI Eesti (Kerdu Lenear, North Star) | bni.ee |
@@ -1270,7 +1239,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 | Demomehed (SOK) | Üksus Aluste_kool | Lisa N + **Lisa Q** (viisakus, GOTWA, hääl) |
 | Kodaniku mõte | Ülo Vooglaid | ylo@vooglaid.org (Lisa AR) |
 | Mõttepärand | Indrek Paal | sihtasutus@vooglaid.org (Lisa AR) |
-| Juhtimiskoolitus | Priit Lilleväli | priit.lillevali@combatready.eu |
+| Juhtimiskoolitus | Priit Lilleväli | eraldi kanal |
 | Teadlikkus | Katrin Lucas | katrinlucas.com |
 | Teadlik muutus | Ingvar Villido | lilleoru.ee / human.ee |
 | Eneseareng / emotsioonid | Tiit Trofimov | tiittrofimov.ee |
@@ -1284,15 +1253,13 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 | Tantra / laagrid | Margus Sarmet | tantratants.ee / tantrafest.ee |
 | Tantra / laagrid | Kristiina Saul | kristiinasaul.ee / tantrafest.ee |
 | Heaolu / loodus | Urmas Sõõrumaa | puhali.ee (Pühali Hea Elu Keskus) |
-| Kriisireguleerimine | Eerik Heldna | PPA / Combat Ready |
+| Kriisireguleerimine | Eerik Heldna | PPA |
 | Kaitseinvesteeringud | Elmar Vaher | kaitseinvesteeringud.ee |
-| Naiste kanal | Combat Ready Her Way | combatreadyherway.eu |
-| Noored / pered | Tanel Jäppinen | tanel.jappinen@combatready.eu |
+| Noored / pered | Tanel Jäppinen | Laste Supermängud |
 | Noorte Kotkad | Peeter Järvsoo | nooredkotkad.ee |
 | Harku piirkond | Andrei Ambros | estjutsu.ee / Taktikaline Grupp |
 | Mereväe meeskond | Aigar Ojaots / MTÜ Pertinax | Team Pertinax MTÜ |
 | Vanglateenistus | Ain Anslan / Viru vangla | Vanglateenistus (vt Lisa K) |
-| Podcast | Combat Ready Podcast | jujutud.ee / @combatreadyee |
 | Veteranid | Eero Kinnunen | ekvv.ee |
 | Supervisioon | Marge Sillaste | margemargarethe@gmail.com |
 | Haridus | Ott Pärna / Techno TLN | techno.ee (Lisa J — täielik juhtkond) |
@@ -1304,7 +1271,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 | Immuniseerimine | Terviseamet + Sotsiaalkaitseministeerium | terviseamet.ee (vt **Lisa O**) |
 | Riik / protsessid | Kõik ministeeriumid | valitsus.ee (vt Lisa L — Muski algoritm) |
 
-**Juhtimiskett:** Renee Aluste → Remo Ojaste → võrgustiku liikmed → iga kodanik iseenda juht.
+**Juhtimiskett:** Renee Aluste → võrgustiku liikmed → iga kodanik iseenda juht.
 
 **Rolli printsiip:** Kui inimesel on **roll**, **eesmärk** ja **konkreetsed juhised** — ta tihti teebki seda. Mitte abstraktne „ole parem" — vaid: kes sa oled, miks sa siin oled, mida sa täna teed. Iga võrgustiku liige: **Lisa K**. Iga demomees: **Lisa N**. Iga kodanik: Rahva tase ülesanded allpool.
 
@@ -1348,10 +1315,9 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 ### Kanalid ja viited
 
 - **Ühisosa märge:** #OperatsioonPeegel
-- **Veeb:** combatready.eu
+- **Veeb:** reneealuste.com
 - **Taskuhääling:** „Ava oma Silmad" (Katrin Lucas)
-- **Naiste kanal:** combatreadyherway.eu (Combat Ready | Her Way)
-- **Noored:** Combat Ready Youth / Laste Supermängud (Tanel Jäppinen)
+- **Noored:** Laste Supermängud (Tanel Jäppinen)
 - **Mereväe meeskond:** MTÜ Team Pertinax (Aigar Ojaots)
 - **Veteranid:** ekvv.ee (Eero Kinnunen)
 - **Noorte Kotkad:** nooredkotkad.ee
@@ -1362,7 +1328,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 - **Kriis (isad):** Lisa H — `lisad/lisa-h-kiirjuhend-kriisis-isale.md`
 - **Juhtimine (SOP):** Lisa I — `lisad/lisa-i-inimesekeskne-juhtimine.md` (Steiger 1997; peakirjastaja **Heli Illipe-Sootak**; ISBN 9985901274)
 - **Koolijuhtkonnad:** Lisa J — `lisad/lisa-j-haridusasutuste-juhtkonnad.md` (Techno TLN, KVA, Rocca al Mare Kool, **Tallinna Vaba Waldorfkool**, **Montessori koolid ja lasteaiad**)
-- **Võrgustiku skeem:** Lisa K — `lisad/lisa-k-vorgustiku-skeem-ja-ulesanded.md` (kõik osalised, CR statistika, podcast)
+- **Võrgustiku skeem:** Lisa K — `lisad/lisa-k-vorgustiku-skeem-ja-ulesanded.md` (kõik osalised ja ülesanded)
 - **Ministeeriumid ja TAI:** Lisa L — `lisad/lisa-l-ministeeriumid-ja-tai.md` (Muski 5-astmeline algoritm)
 - **Kodaniku identiteet:** Lisa M — `lisad/lisa-m-kodaniku-identiteet-ja-vanne.md` (Robbins 5 sammu, manifest, vanne, LIHTSUS)
 - **Vaktsineerimine:** Lisa O — `lisad/lisa-o-vaktsineerimine.md` (uuringud, ühiskond, konspiratsioonid, aus hinnang)
@@ -1418,7 +1384,7 @@ Ma võtan selle peale sinuga ühendust ja küsin tagasi lugemist — mis jättis
 
 **Renee Aluste**  
 Operatsiooni koordinaator  
-koos Combat Ready meeskonna ja partneritega
+koos võrgustiku partneritega
 
 ---
 
@@ -1483,9 +1449,9 @@ Kui see kõlab liiga pikalt — loe dokumendi alguses sektsiooni **„MIKS? AJEN
 **V (Renee Aluste):** Aus küsimus — ja õige, et sa küsid.
 
 - **Kes:** Renee Aluste. Operatsioon „Peegel" koordinaator.
-- **Taust:** Eesti Kaitsevägi 2008–2018 (erioperatsioonide grupp — operaator, sniprigrupi ülem, jaoülem). Kaitseliit Harju malev — kompaniiülem ja instruktor; SOK kursuste planeerimine ja läbiviimine. USA Army Ranger School (klass 07-22, 2022). Combat Ready juhtimisinstruktor alates 2023. Kaitseväe Ühendatud Õppeasutused — sõjaväeline juhtimine (2014).
+- **Taust:** Eesti Kaitsevägi 2008–2018 (erioperatsioonide grupp — operaator, sniprigrupi ülem, jaoülem). Kaitseliit Harju malev — kompaniiülem ja instruktor; SOK kursuste planeerimine ja läbiviimine. USA Army Ranger School (klass 07-22, 2022). endine juhtimiskoolitaja (2023–2026). Kaitseväe Ühendatud Õppeasutused — sõjaväeline juhtimine (2014).
 - **Mida ma ei ole:** Riigi esindaja. Erakonna esindaja. Ametlik Kaitseväe või Kaitseliidu sõnum.
-- **Tõendid:** Delfi Forte, Postimees, Kaitse Kodu, Combat Ready blogi, podcastid — kõik avalikud lingid **Lisa R-s**.
+- **Tõendid:** Delfi Forte, Postimees, Kaitse Kodu, podcastid — kõik avalikud lingid **Lisa R-s**.
 
 Ma ei palu sul uskuda mind. Ma palun kontrollida. Kui faktid ei klapi — lahku rahus. Kui klapi — otsusta ise, kas see operatsioon on sinu jaoks.
 
@@ -2031,12 +1997,6 @@ Koos **Lisa AA** (*Intiimsuse atlas*) — mehe keha teadlikult, ilma porri kui �
 *Minu küsimus sulle: Mida sina selle teadmisega täna teed — mitte homme?*
 ---
 
-## V. Combat Ready ja partnerid
-
-**K: Kas Combat Ready teenib selle pealt raha? Kas see on turundus?**
-
-**V:** Combat Ready on ettevõte, mis pakub juhtimiskoolitusi. Jah, nad pakuvad koolitusi ka selle võrgustiku raames — nagu iga teine professionaalne organisatsioon. Aga operatsiooni tuum ei ole müük. Tuum on sõnum: võta vastutus. Kui sa ei taha koolitust osta, saad ikkagi kasutada seda teekonda tasuta. See PDF, see sõnum — see on rahvale, mitte klientidele.
-
 *Minu küsimus sulle: Mida sina selle teadmisega täna teed — mitte homme?*
 ---
 
@@ -2049,7 +2009,7 @@ Koos **Lisa AA** (*Intiimsuse atlas*) — mehe keha teadlikult, ilma porri kui �
 
 **K: Kes on Ingvar Villido ja miks ta on operatsioonis?**
 
-**V:** Ingvar Villido on loonud Teadliku Muutuse Kunsti — nüüd rahvusvaheliselt Practical Consciousness. See on praktiline süsteem, mis aitab inimestel tuvastada alateadlikke emotsionaalseid ja mentaalseid mustreid ning neid muuta. Eesti kaitseväe esimesed juhid võtsid sarnase lähenemise tõsiselt — meie ütleme, et kodanik vajab sama. Villido ei asenda Combat Readyt ega tantralaagreid. Ta on üks tee sisemise selguse juurde.
+**V:** Ingvar Villido on loonud Teadliku Muutuse Kunsti — nüüd rahvusvaheliselt Practical Consciousness. See on praktiline süsteem, mis aitab inimestel tuvastada alateadlikke emotsionaalseid ja mentaalseid mustreid ning neid muuta. Eesti kaitseväe esimesed juhid võtsid sarnase lähenemise tõsiselt — meie ütleme, et kodanik vajab sama. Villido ei asenda teisi kanaleid ega tantralaagreid. Ta on üks tee sisemise selguse juurde.
 
 *Minu küsimus sulle: Kas sa tead, millal su keha reageerib enne kui su mõistus jõuab järele?*
 ---
@@ -2063,7 +2023,7 @@ Koos **Lisa AA** (*Intiimsuse atlas*) — mehe keha teadlikult, ilma porri kui �
 
 **K: Kas ma pean minema tantrafestivalile, et operatsioonist kasu saada?**
 
-**V:** Ei. Operatsioon on tasuta ja kättesaadav ilma festivalita. Aga kui sa tunned, et su keha on su mõistusest ees kinni — ja sa oled valmis — tantrafest.ee ja tantratants.ee on üks võimalik tee. Ingvar Villido kursused on teine. Pühali Hea Elu Keskus (puhali.ee) kolmas — loodus, sauna, vaikus. Katrin Lucase taskuhääling neljas. Combat Ready viies. Vali see, mis sulle sobib. Me ei müü ühtegi neist teistele peale.
+**V:** Ei. Operatsioon on tasuta ja kättesaadav ilma festivalita. Aga kui sa tunned, et su keha on su mõistusest ees kinni — ja sa oled valmis — tantrafest.ee ja tantratants.ee on üks võimalik tee. Ingvar Villido kursused on teine. Pühali Hea Elu Keskus (puhali.ee) kolmas — loodus, sauna, vaikus. Katrin Lucase taskuhääling neljas. Vali see, mis sulle sobib. Me ei müü ühtegi neist teistele peale.
 
 *Minu küsimus sulle: Mis on sinu jaoks turvaline ruum — ja kas sa seda täna lood?*
 ---
@@ -2093,7 +2053,7 @@ Koos **Lisa AA** (*Intiimsuse atlas*) — mehe keha teadlikult, ilma porri kui �
 
 **K: Kuidas ma saan liituda või aidata?**
 
-**V:** Kasuta ühisosa märget #OperatsioonPeegel. Jaga sõnumit, kui tunned, et see aitab. Tule Combat Ready koolitusele, kui tahad sügavamat juhtimistreeningut. Kuula „Ava oma Silmad" taskuhäälingut. Osale Villido või tantralaagris, kui see on sinu tee. Mine Pühalisse, kui vajad loodust ja puhkust. Või lihtsalt ela eeskujuks oma kodus. See ongi liitumine.
+**V:** Kasuta ühisosa märget #OperatsioonPeegel. Jaga sõnumit, kui tunned, et see aitab. Kuula „Ava oma Silmad" taskuhäälingut. Osale Villido või tantralaagris, kui see on sinu tee. Mine Pühalisse, kui vajad loodust ja puhkust. Või lihtsalt ela eeskujuks oma kodus. See ongi liitumine.
 
 *Minu küsimus sulle: Mida sina selle teadmisega täna teed — mitte homme?*
 ---
@@ -2265,7 +2225,7 @@ Koos **Lisa AA** (*Intiimsuse atlas*) — mehe keha teadlikult, ilma porri kui �
 
 **K (TV3, saatejuht):** Kas te tulete saatesse? Kas Riho Ühtegi tuleb? Kes on nägu?
 
-**V:** Renee Aluste on operatsiooni koordinaator ja valmis rääkima. Teised osalised — Riho Ühtegi, Rene Toomse, Remo Ojaste — on sõltumatud inimesed oma ajakavaga. Me ei esinda kedagi ilma loata. Kui saade aitab sõnumit levitada — teretulnud. Kui saade võtab sõnumi kontekstist — me keeldume. Ausus enne nähtavust.
+**V:** Renee Aluste on operatsiooni koordinaator ja valmis rääkima. Teised osalised — Riho Ühtegi, Rene Toomse — on sõltumatud inimesed oma ajakavaga. Me ei esinda kedagi ilma loata. Kui saade aitab sõnumit levitada — teretulnud. Kui saade võtab sõnumi kontekstist — me keeldume. Ausus enne nähtavust.
 
 *Minu küsimus sulle: Kas sa räägiksid oma loo ka siis, kui keegi ei filmiks?*
 ---
@@ -2293,7 +2253,7 @@ Koos **Lisa AA** (*Intiimsuse atlas*) — mehe keha teadlikult, ilma porri kui �
 
 **K (Uuriv ajakirjanik, rahvusvaheline väljaanne):** Kas operatsioon „Peegel" on ainult Eesti nähtus või mudel teistele riikidele?
 
-**V:** Eestil on unikaalne asend: väike riik, suur naaber, kõrge digitaalne küllastus. Meie kogemus võib olla teistele kasulik. Combat Ready juba tegutseb Euroopas. Aga see operatsioon sünnitakse siin, kohalikust vajadusest. Kui Soome või Leedu tahab sarnast — nad peavad leidma oma Peegli. Me ei ekspordi lahendust. Me jagame põhimõtteid.
+**V:** Eestil on unikaalne asend: väike riik, suur naaber, kõrge digitaalne küllastus. Meie kogemus võib olla teistele kasulik. Aga see operatsioon sünnitakse siin, kohalikust vajadusest. Kui Soome või Leedu tahab sarnast — nad peavad leidma oma Peegli. Me ei ekspordi lahendust. Me jagame põhimõtteid.
 
 *Minu küsimus sulle: Mida sa teed oma kodus, et Eesti oleks tugevam?*
 ---
@@ -2368,7 +2328,7 @@ Steiger ei paku väljamõeldud mudeleid. Ta kirjeldab igapäevast juhtimist, kus
 
 **K: Mis roll on Elmar Vaheril — ta juhib ju RKIK-i?**
 
-**V:** Jah. Alates 2026. aasta jaanuarist juhib ta Riigi Kaitseinvesteeringute Keskust — miljardid, mis peavad jõudma kaitseväkke. Aga ta on ka Combat Ready instruktor ja Rocca al Mare Kooli lapsevanem — tema lapsed õpivad seal, ta nõustab kooli kriisivalmiduse ja juhtimise küsimustes. Abikaasa Helin Vaher on seotud kooliperega kommunikatsiooni ja vanematekogu kaudu. Operatsioonis tähendab see: riiklik võimekus ja kodaniku vastutus ei ole vastandlikud. Mõlemad on vajalikud. Täielik RaM Kooli juhtkond on **Lisa J**.
+**V:** Jah. Alates 2026. aasta jaanuarist juhib ta Riigi Kaitseinvesteeringute Keskust — miljardid, mis peavad jõudma kaitseväkke. Aga ta on Rocca al Mare Kooli lapsevanem — tema lapsed õpivad seal, ta nõustab kooli kriisivalmiduse ja juhtimise küsimustes. Abikaasa Helin Vaher on seotud kooliperega kommunikatsiooni ja vanematekogu kaudu. Operatsioonis tähendab see: riiklik võimekus ja kodaniku vastutus ei ole vastandlikud. Mõlemad on vajalikud. Täielik RaM Kooli juhtkond on **Lisa J**.
 
 *Minu küsimus sulle: Kas sa tead, kuida sinu maksud kaitsevad sind — või ainult seda, mida sotsiaalmeedia näitab?*
 ---
@@ -2405,7 +2365,7 @@ Steiger ei paku väljamõeldud mudeleid. Ta kirjeldab igapäevast juhtimist, kus
 
 **K: Kes on Ain Anslan ja miks ta on operatsioonis?**
 
-**V:** Ain Anslan on Viru vangla direktor — inimene, kes juhib ühte Eesti keerukamaid keskkondi. Ta on Combat Ready koostööpartner: juhtide koolitus, veebiseminar Priit Lilleväliga, kogemuslugu YouTube'is. Operatsioon „Peegel" ütleb, et me ei ehita vanglaid, mida ise valvame — aga me vajame juhte, kes mõistavad: kriisivalmidus on igapäevane töökultuur, mitte dokument riiulil. Anslan on elav näide, et inimesekeskne juhtimine töötab ka seal, kus on raske. Täielik võrgustiku skeem ja kõik osalised on **Lisa K**.
+**V:** Ain Anslan on Viru vangla direktor — inimene, kes juhib ühte Eesti keerukamaid keskkondi. Ta on juhtimiskoolituse partner: juhtide koolitus, veebiseminar Priit Lilleväliga, kogemuslugu YouTube'is. Operatsioon „Peegel" ütleb, et me ei ehita vanglaid, mida ise valvame — aga me vajame juhte, kes mõistavad: kriisivalmidus on igapäevane töökultuur, mitte dokument riiulil. Anslan on elav näide, et inimesekeskne juhtimine töötab ka seal, kus on raske. Täielik võrgustiku skeem ja kõik osalised on **Lisa K**.
 
 *Minu küsimus sulle: Kas sa juhid oma keskkonda — või lased keskkonnal juhtida sind?*
 ---
@@ -2417,16 +2377,12 @@ Steiger ei paku väljamõeldud mudeleid. Ta kirjeldab igapäevast juhtimist, kus
 *Minu küsimus sulle: Millise ühe asja sa riigilt ootad — ja kas see peaks olema lihtsam?*
 ---
 
-**K: Mis on Combat Ready for Her / Her Way?**
-
-**V:** Combat Ready | Her Way on naiste kogukond, mis õpetab enesejuhtimist ülima vastutuse põhimõtetel. Veebiseminarid ja treeningud — mitte eraldi sõda meeste vastu, vaid oma elu juhtimine. Kui sa oled ema, juht või lihtsalt väsinud — see on üks kanal. combatreadyherway.eu.
-
 *Minu küsimus sulle: Kas sa võtad vastutuse oma emotsioonide eest — või ootad, et keegi teine need ära parandaks?*
 ---
 
 **K: Mis on Laste Supermängud?**
 
-**V:** Praktiline programm lastele ja peredele — Combat Ready Youth ja Tanel Jäppinen. Mitte teooria, vaid mängulised harjutused: vastutus, keskendumine, ühine keel kodus. Väike harjutus päevas. Laps, kes õpib vastutust varakult, on infosõja vastu tugevam täiskasvanu.
+**V:** Praktiline programm lastele ja peredele — Tanel Jäppinen ja Laste Supermängud. Mitte teooria, vaid mängulised harjutused: vastutus, keskendumine, ühine keel kodus. Väike harjutus päevas. Laps, kes õpib vastutust varakult, on infosõja vastu tugevam täiskasvanu.
 
 *Minu küsimus sulle: Mis on üks asi, mida sa täna teed koos oma lapsega ilma ekraanita?*
 ---
@@ -2475,7 +2431,7 @@ Steiger ei paku väljamõeldud mudeleid. Ta kirjeldab igapäevast juhtimist, kus
 
 **K: Ma ei taha osta, uskuda ega liituda — aga ma tahan aru saada.**
 
-**V:** See on aus ja piisav. Sa ei pea ostma Combat Ready kursust. Sa ei pea uskuma Renee sõnu. Sa ei pea saatma SMS-i. **Kontrolli ise. Usu oma kogemust.** Võta üks lehekülg, üks raamat (Lisa A või H), üks 15-minutiline vestlus kellelegi, keda usaldad. Kui pärast seda oled tugevam — jätka. Kui mitte — jäta see.
+**V:** See on aus ja piisav. Sa ei pea uskuma Renee sõnu. Sa ei pea saatma SMS-i. **Kontrolli ise. Usu oma kogemust.** Võta üks lehekülg, üks raamat (Lisa A või H), üks 15-minutiline vestlus kellelegi, keda usaldad. Kui pärast seda oled tugevam — jätka. Kui mitte — jäta see.
 
 *Minu küsimus sulle: Mis annaks sulle täna rohkem kindlust — mitte kellegi teise sõna, vaid üks väike tegu?*
 ---
@@ -2502,7 +2458,7 @@ Sa võid tunda, et su elu on lagunenud — aga **sina ise pole katki**. Sa vajad
 | Olen ise kiusaja ohver | Trigger, viha | „See, mida sa tunned, on loogiline vastus." |
 | Pole volitatud | Õigustatud nõue | „Hea kodanik küsib legitiimsust." |
 | Liiga palju nimesid | Uppumine, kahtlus | „Sa ei pea kedagi tundma, et alustada." |
-| Combat Ready raha | Skeptitsism | „Sa ei pea midagi ostma." |
+
 | Tantra / spirituaalsus | Hirm, võõrus | „Sa valid oma tee — ükski kanal pole kohustus." |
 | Juht domineeriv | Abitus, viha | „Väsimus vastu tahtmist tegemisest on reaalne." |
 | Partner ei taha | Konflikt, süütunne | „Sa ei pea valida inimese ja kasvu vahel." |

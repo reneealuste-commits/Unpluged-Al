@@ -2,7 +2,7 @@
 
 **Seotud:** Operatsioon „Peegel“ - käsu levitamine kõigile nimetatud osapooltele
 **Eesmärk:** Kontrollitud lugemine, austav taganemine, tagasilugemise kinnitus - digitaalselt ja füüsiliselt
-**Koordineerija:** Renee Aluste · tugi: Remo Ojaste / Combat Ready
+**Koordineerija:** Renee Aluste
 
 > *Iga inimene võib öelda „ei“ - ilma süü ja ilma draamata. See on tugevus, mitte nõrkus.*
 
@@ -52,9 +52,9 @@ Võimalus **auväärselt** loobuda osalemisest või paluda oma nime eemaldamist 
 
 ## 3. Kontrollitud lugemiskeskkond
 
-Remo Ojaste on pakkunud **keskkonda**, kuhu dokumenti panna nii, et saad jälgida, mida iga saaja loeb.
+Kasuta kontrollitud keskkonda (DocSend, Papermark või privaatne link), kuhu dokumenti panna nii, et saad jälgida, mida iga saaja loeb.
 
-### Variant A - Combat Ready / Remo keskkond (soovitatav)
+### Variant A - privaatne keskkond (soovitatav)
 
 1. Lae üles **üks PDF** või **jaotatud sektsioonid**.
 2. Iga saaja saab **isikliku lingi** (mitte ühist linki).
@@ -99,9 +99,9 @@ Mõnele saajale võib sobida **kättetoimetamine koju** - tõsine, austav vorm, 
 - Tagasisidekaart
 - QR-kood isiklikule DocSend lingile
 
-### Vahapitsat (Combat Ready)
+### Vahapitsat (füüsiline levitamine)
 
-Kasuta **Combat Ready vahapitsat** - ümbrik avatakse ainult purustades (nagu konfidentsiaalne käsk).
+Kasuta **konfidentsiaalset vahapitsat** - ümbrik avatakse ainult purustades (nagu konfidentsiaalne käsk).
 
 ### Hübriid (soovitatav)
 

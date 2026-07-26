@@ -1,6 +1,6 @@
 # Kohandatud käsk: Tanel Jäppinen
 
-**Saaja:** tanel.jappinen@combatready.eu  
+**Saaja:**   
 **Sidepakk:** P1-C-PERE + P1-A-KRIIS (suunamine)
 
 ---
@@ -51,7 +51,7 @@ KUULA (eesti keeles): Papsid.ee Podcast — Kristo Tuurmann & Illimar Pilt
 
 Kui oled isa ja oled raske kohas — ausad lood ja tööriistad ilma moraliseerimiseta (Lisa H kontekstis).
 
-Extreme Ownership, aus suhtlus (NVC) ja Body Keeps the Score loogikaga haakuv sisu. Pärast episoodi üks küsimus: „Mida ma õppisin ja mida teen täna teisiti?“
+vastutus, aus suhtlus (NVC) ja Body Keeps the Score loogikaga haakuv sisu. Pärast episoodi üks küsimus: „Mida ma õppisin ja mida teen täna teisiti?“
 
 Kuula: https://papsid.ee/podcast/
 Apple Podcasts: https://podcasts.apple.com/ee/podcast/papsid-ee-podcast/id1768003452

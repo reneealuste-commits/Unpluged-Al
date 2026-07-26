@@ -14,7 +14,7 @@
 
 | Kategooria | Arv |
 |------------|-----|
-| Kohandatud käsk valmis | 18 |
+| Kohandatud käsk valmis | 17 |
 | Email CSV-s kokku | vaata `osalejate-emailid.csv` |
 | Email puudub (vaja otsida) | 12 |
 
@@ -32,53 +32,12 @@
 
 ---
 
-## 1. Remo Ojaste
+## 1. Priit Lilleväli
 
 | | |
 |---|---|
-| **E-post** | `remo.ojaste@combatready.eu` |
-| **Organisatsioon** | Combat Ready OÜ |
-| **Roll** | Äri/taktika juht; Echelon Front partner Euroopas |
-| **Eesmärk** | Extreme Ownership igapäevaelus — praktiline juhtimine ettevõtetele ja kogukondadele |
-| **Sidepakk** | P1-F-JUHT / P2-TAIS |
-| **Kanal** | E-kiri isiklikult |
-
-### Sinu ülesanded
-
-1. Paku kontrollitud lugemiskeskkonda (DocSend / CR keskkond) — Lisa AJ
-2. Koordineeri juhtimiskoolitused võrgustikule (Priit, Louis)
-3. Anna isiklik link P1-F-JUHT või P2-TAIS ainult pärast vestlust
-4. Jälgi lugemiskinnitust — üks vastus pärast tutvumist
-
-### Käitumisjuhis
-
-Mänguline hääl (Lisa Q). GOTWA enne koosolekut. Ära saada masspostina — isiklik e-kiri.
-
-### E-kirja avamine (mustand)
-
-> Tere Remo,
->
-> Jagame sulle Operatsioon „Peegel“ materjali — mitte käsk, vaid paranemis-teekond. Sinu roll: **Äri/taktika juht**.
->
-> Isiklik link: [PEEGEL_TUUM / vastav tee PDF]
->
-> **Valikuline kuulamine (~1h 20 min):** Ava Oma Silmad & Ajuloputus S4 #10 — „Maatriksi Lapsed“  
-> Juhi vaatenurgast: kaitse enne tulemust. Kui keegi on ellujäämisrežiimis, ta ei näe plaani (Lisa AT).  
-> Kuula: [https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) · [katrinlucas.com](https://katrinlucas.com/podcast/) · [Apple EE](https://podcasts.apple.com/ee/podcast/ava-oma-silmad-podcast/id1541890084) · [YouTube](https://www.youtube.com/@AJULOPUTUS)  
-> Täpsem kokkuvõte: `kommunikatsioon/soovitus-maatriksi-lapsed.md`
->
-> Kui soovid mitte osaleda — üks lause piisab. Austan seda.
->
-> Renee Aluste
-
----
-
-## 2. Priit Lilleväli
-
-| | |
-|---|---|
-| **E-post** | `priit.lillevali@combatready.eu` |
-| **Organisatsioon** | Combat Ready OÜ |
+| **E-post** | `` |
+| **Organisatsioon** |  |
 | **Roll** | Juhtimiskoolitaja; Aasta koolitaja 2023 |
 | **Eesmärk** | Vastutus ja taastumine ilma ohvriidentiteedita |
 | **Sidepakk** | P1-F-JUHT |
@@ -114,12 +73,12 @@ FM-DJ hääl rahustamisel. Valideeri enne loogikat. Spordikommentaator.
 
 ---
 
-## 3. Tanel Jäppinen
+## 2. Tanel Jäppinen
 
 | | |
 |---|---|
-| **E-post** | `tanel.jappinen@combatready.eu` |
-| **Organisatsioon** | Combat Ready Youth OÜ |
+| **E-post** | `` |
+| **Organisatsioon** | Parenting Solutions / Laste Supermängud |
 | **Roll** | Noorte- ja peretasandi juht; Laste Supermängud |
 | **Eesmärk** | Noorte praktiline vastutus enne algoritmi |
 | **Sidepakk** | P1-C-PERE + P1-A-KRIIS (suunamine) |
@@ -155,7 +114,7 @@ Mänguline, soe. Lapsed = turvalisus enne sisu. Ära suru.
 
 ---
 
-## 4. Marge Sillaste
+## 3. Marge Sillaste
 
 | | |
 |---|---|
@@ -196,7 +155,7 @@ Rahulik FM-DJ. Kuula ilma parandamiseta. Konfidentsiaalsus.
 
 ---
 
-## 5. Ott Pärna
+## 4. Ott Pärna
 
 | | |
 |---|---|
@@ -237,7 +196,7 @@ Austav keel (teietamine). Ametlik toon. Ei propaganda.
 
 ---
 
-## 6. Kristel Bankier
+## 5. Kristel Bankier
 
 | | |
 |---|---|
@@ -277,7 +236,7 @@ Professionaalne, faktipõhine. Ära välju kontekstist.
 
 ---
 
-## 7. Kristel Martis
+## 6. Kristel Martis
 
 | | |
 |---|---|
@@ -317,7 +276,7 @@ Mänguline hääl väljas, mitte sarkasm haava peal.
 
 ---
 
-## 8. Johan-Elias Seljamaa
+## 7. Johan-Elias Seljamaa
 
 | | |
 |---|---|
@@ -358,7 +317,7 @@ Austav, struktureeritud. Lühikesed laused kriisis.
 
 ---
 
-## 9. Rainek Kuura
+## 8. Rainek Kuura
 
 | | |
 |---|---|
@@ -398,7 +357,7 @@ Selge, assertiivne kui vaja. Mitte dominants.
 
 ---
 
-## 10. Sirje Toomla-Õige
+## 9. Sirje Toomla-Õige
 
 | | |
 |---|---|
@@ -439,7 +398,7 @@ Turvalisus enne loogikat. Ei süüdista vanemaid.
 
 ---
 
-## 11. Kristina Šanin
+## 10. Kristina Šanin
 
 | | |
 |---|---|
@@ -479,7 +438,7 @@ Austav, aeglane tempo. Laps-keskne keel.
 
 ---
 
-## 12. Ave Osa
+## 11. Ave Osa
 
 | | |
 |---|---|
@@ -520,7 +479,7 @@ Soe, mitte survav. Vabatahtlikkus.
 
 ---
 
-## 13. Ruth Maria Roosi-Ott
+## 12. Ruth Maria Roosi-Ott
 
 | | |
 |---|---|
@@ -560,7 +519,7 @@ Rahulik, austav. Laps ei ole projekt.
 
 ---
 
-## 14. Epp Kärsin
+## 13. Epp Kärsin
 
 | | |
 |---|---|
@@ -600,7 +559,7 @@ Aus, soe. Mitte tabu murdmine ilma turvalisuseta.
 
 ---
 
-## 15. Jelena Pribylski
+## 14. Jelena Pribylski
 
 | | |
 |---|---|
@@ -640,7 +599,7 @@ Professionaalne konfidentsiaalsus. Valideerimine.
 
 ---
 
-## 16. Tiit Trofimov
+## 15. Tiit Trofimov
 
 | | |
 |---|---|
@@ -680,7 +639,7 @@ Aus, mitte üleolev. Keha enne mõistust.
 
 ---
 
-## 17. Ülo Vooglaid
+## 16. Ülo Vooglaid
 
 | | |
 |---|---|
@@ -720,7 +679,7 @@ Rahulik, kriitiline. Austa autonoomiat. Lisa P teiste suhtes.
 
 ---
 
-## 18. Indrek Paal
+## 17. Indrek Paal
 
 | | |
 |---|---|
@@ -766,7 +725,7 @@ Asjatundlik, praktiline. Lisa Q austav keel. Mitte masspostitus.
 |------|------|----------------|
 | Riho Ühtegi | Strateegiline juht | Avalik kanal |
 | Rene Toomse | Riigi tase | Avalik kanal |
-| Eerik Heldna | Kriisireguleerimine | PPA / Combat Ready |
+| Eerik Heldna | Kriisireguleerimine | PPA |
 | Elmar Vaher | RKIK | kaitseinvesteeringud.ee |
 | Heli Illipe-Sootak | Steiger peakirjastaja | Messenger / otsing |
 | Mihhail Ušakov | RU peer-educator (kandidaat) | Isiklik kohtumine |

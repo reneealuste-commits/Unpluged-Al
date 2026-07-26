@@ -12,26 +12,9 @@ KIRJAD_DIR = OUT_DIR / "kirjad"
 # Each entry: name, email, org, roll, eesmark, ulesanded (list), kaitumine, pakett, kanal, märkus
 PARTICIPANTS = [
     {
-        "name": "Remo Ojaste",
-        "email": "remo.ojaste@combatready.eu",
-        "org": "Combat Ready O\u00dc",
-        "roll": "\u00c4ri/taktika juht; Echelon Front partner Euroopas",
-        "eesmark": "Extreme Ownership igap\u00e4evaelus \u2014 praktiline juhtimine ettev\u00f5tetele ja kogukondadele",
-        "ulesanded": [
-            "Paku kontrollitud lugemiskeskkonda (DocSend / CR keskkond) \u2014 Lisa AJ",
-            "Koordineeri juhtimiskoolitused v\u00f5rgustikule (Priit, Louis)",
-            "Anna isiklik link P1-F-JUHT v\u00f5i P2-TAIS ainult p\u00e4rast vestlust",
-            "J\u00e4lgi lugemiskinnitust \u2014 \u00fcks vastus p\u00e4rast tutvumist",
-        ],
-        "kaitumine": "M\u00e4nguline h\u00e4\u00e4l (Lisa Q). GOTWA enne koosolekut. \u00c4ra saada masspostina \u2014 isiklik e-kiri.",
-        "pakett": "P1-F-JUHT / P2-TAIS",
-        "kanal": "E-kiri isiklikult",
-        "markus": "Lisa K \u00a74.3",
-    },
-    {
         "name": "Priit Lillev\u00e4li",
-        "email": "priit.lillevali@combatready.eu",
-        "org": "Combat Ready O\u00dc",
+        "email": "",
+        "org": "",
         "roll": "Juhtimiskoolitaja; Aasta koolitaja 2023",
         "eesmark": "Vastutus ja taastumine ilma ohvriidentiteedita",
         "ulesanded": [
@@ -47,8 +30,8 @@ PARTICIPANTS = [
     },
     {
         "name": "Tanel J\u00e4ppinen",
-        "email": "tanel.jappinen@combatready.eu",
-        "org": "Combat Ready Youth O\u00dc",
+        "email": "",
+        "org": "Parenting Solutions / Laste Superm\u00e4ngud",
         "roll": "Noorte- ja peretasandi juht; Laste Superm\u00e4ngud",
         "eesmark": "Noorte praktiline vastutus enne algoritmi",
         "ulesanded": [
@@ -330,7 +313,6 @@ EXTRA_EMAILS = [
     ("Helin Vaher", "helin.vaher@agendapr.ee", "RaM Kool", "Lapsevanem, kommunikatsioon", "P1-C-PERE", "Lisa J"),
     ("Kairi J\u00e4rvik-Elvisto", "kairi.jarvik-elvisto@waldorf.ee", "TVW Waldorf", "Tugiteenused", "P1-C-PERE", "Lisa J"),
     ("Waldorf selts", "selts@waldorf.ee", "TVW Waldorf", "Selts", "P0-TUUM", "Lisa J"),
-    ("Combat Ready", "info@combatready.ee", "Combat Ready", "\u00dcldinfo", "P1-D-DEMO", "Lisa R"),
     ("Indrek Paal", "sihtasutus@vooglaid.org", "\u00dclo Vooglaiu Kirjastus", "Demonstraator, levitaja", "P0-TUUM", "Lisa AR"),
     ("\u00dclo Vooglaid", "ylo@vooglaid.org", "Sihtasutus", "Kodaniku-m\u00f5tleja", "P1-B-SKEPTIK", "Lisa AR"),
 ]
@@ -338,7 +320,7 @@ EXTRA_EMAILS = [
 NO_EMAIL = [
     ("Riho \u00dchtegi", "Strateegiline juht", "Avalik kanal", "Lisa K \u00a74.1"),
     ("Rene Toomse", "Riigi tase", "Avalik kanal", "Lisa K \u00a74.1"),
-    ("Eerik Heldna", "Kriisireguleerimine", "PPA / Combat Ready", "Lisa K \u00a74.1"),
+    ("Eerik Heldna", "Kriisireguleerimine", "PPA", "Lisa K \u00a74.1"),
     ("Elmar Vaher", "RKIK", "kaitseinvesteeringud.ee", "Lisa K \u00a74.1"),
     ("Heli Illipe-Sootak", "Steiger peakirjastaja", "Messenger / otsing", "kommunikatsioon/vastus-heli-illipe-sootak.md"),
     ("Mihhail U\u0161akov", "RU peer-educator (kandidaat)", "Isiklik kohtumine", "kommunikatsioon/kandidaat-mihhail-usakov.md"),
@@ -421,7 +403,7 @@ def papsid_email_block(pakett: str) -> str:
         f"\nEnne kui materjaliga edasi l\u00e4hed \u2014 \u00fcks valikuline soovitus (isa / pere):\n\n"
         f"KUULA (eesti keeles): {PAPSID_TITLE} \u2014 Kristo Tuurmann & Illimar Pilt\n\n"
         f"{hook}\n\n"
-        "Extreme Ownership, aus suhtlus (NVC) ja Body Keeps the Score loogikaga haakuv sisu. "
+        "vastutus, aus suhtlus (NVC) ja Body Keeps the Score loogikaga haakuv sisu. "
         "P\u00e4rast episoodi \u00fcks k\u00fcsimus: \u201eMida ma \u00f5ppisin ja mida teen t\u00e4na teisiti?\u201c\n\n"
         f"Kuula: {PAPSID_WEB}\n"
         f"Apple Podcasts: {PAPSID_APPLE}\n"
@@ -442,7 +424,7 @@ def podcast_email_block(pakett: str) -> str:
         f"{hook}\n\n"
         "Kus s\u00fcsteem tabab k\u00f5ige enne lapsi \u2014 ja miks t\u00e4iskasvanud "
         "elluj\u00e4\u00e4misre\u017eiimis ei m\u00e4rka seda. Turvalisus. Kohalolu. Kaitse. "
-        "Extreme Ownershipi vaimus: mitte ainult s\u00fc\u00fcdistada s\u00fcsteemi, vaid n\u00e4ha, "
+        "vastutusi vaimus: mitte ainult s\u00fc\u00fcdistada s\u00fcsteemi, vaid n\u00e4ha, "
         "kus sina saad ise muutust luua \u2014 pere, meeskonna v\u00f5i enda sees.\n\n"
         f"Kuula: {PODCAST_ACAST}\n"
         f"Katrin Lucas (podcast): {PODCAST_ET_WEB}\n"

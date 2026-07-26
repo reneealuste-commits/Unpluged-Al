@@ -168,7 +168,7 @@ Operatsioonis kasutame ingliskeelset mäluabi **GOTWA** (5 punkti). Iga kord, ku
 **Stsenaarium:** Renee lõpetab vestluse Rene Toomsega, läheb järgmise kontaktini (SMS „Peegel" vastaja).
 
 > **G:** „Going to follow up with a citizen who texted Peegel — phone call, 30 minutes."  
-> **O:** „Alone. Priit Lilleväli is backup if I ask."  
+> **O:** „Alone. Võrgustiku liige on backup if I ask."  
 > **T:** „Done by 17:00."  
 > **W:** „If not done — I send one line: delayed, new time."  
 > **A:** „If trauma trigger — safety first, Lisa P, no logic. EMDR path if needed."

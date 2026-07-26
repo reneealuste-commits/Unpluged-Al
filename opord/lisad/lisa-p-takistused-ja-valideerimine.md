@@ -184,7 +184,7 @@ Lisa Q lisab: **GOTWA**, **mänguline hääl**, **teietamine** — koos kuus tö
 | Keha ja trauma | Kert Grünberg — hingamistuba.ee (TRE, regressioon) |
 | Tasuta kehavabastus | **Lisa BA** — lümf, enesemassaaž, kõnd, raputus, karu-meetod |
 | Transpersonaalne | Jure Biechonski — teadlikmina.ee |
-| Juhendamine / kriis | Priit Lilleväli, Kaia Kapsta-Forrester |
+| Juhendamine / kriis | Kaia Kapsta-Forrester |
 | Kiirjuhend | Lisa H, Lisa F (*Murra ring*) |
 | EMDR | KV Tugiteenuste keskus; ohvriabi.ee (kuni 940 €) |
 | Valideerimine | Lisa P (see dokument) |

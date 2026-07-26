@@ -162,7 +162,6 @@
 | Sverre Puustusmaa | Võrgustiku tugi | Sidemed |
 | Marko Kaseleht | Kohalik tegija | Piirkondlik tegevus |
 | Kaido Raudvere | Tegus ettevõtja | Hajutatud võrgustik |
-| Robert Käsper | Meedik (18D), veteran | Kaitse, meditsiin, „Eriväelase jutud" |
 | Margus Lõoke | Kaitseväe mustri tunnistaja | ATH-muster KV-s (isiklik tähelepanek); e-sliini tugi |
 
 ---
@@ -246,7 +245,7 @@
 - **Taust:** Magistrikraad personalijuhtimises; 19+ aastat riigi julgeoleku ja siseturvalisuse sektoris (sh 4 aastat kaitseväes). Endine relvastatud üksuse, saateüksuse, avavangla ja tugevdatud järelevalve üksuse juht. Vanglaametniku teeneterist (2021); teenistusmedal 15 aasta eest (2023).
 - **Ülesanne operatsioonis:**
   1. Juhtide koolitus inimesekesksete põhimõtete järgi — inimlik pealehakkamine ja sihikindlus.
-  2. Kriisivalmidus igapäevase töökultuurina (koos Priit Lilleväliga — veebiseminar, YouTube „Viru Vangla kogemuslugu").
+  2. Kriisivalmidus igapäevase töökultuurina (veebiseminar, YouTube „Viru Vangla kogemuslugu").
   3. Keskkonna kujundamine juhi käitumisega — murda mõtteviis „ma olengi selline".
   4. Siduda avalik sektor ja kodanikualgatuse juhtimiskultuur.
 
@@ -424,7 +423,6 @@
 | Kristjan Liivamägi | TalTech, KML Invest | Aasta investor 2022, rahatarkus (rahaedu.ee) |
 | Marko Oolo | Investor, Excel | Aasta investor 2024, portfellitööriistad (oolomarko.ee) |
 | Katri Teller | Blondcast | Aasta investor 2023, taskuhääling (tasku.delfi.ee) |
-| Robert Käsper | Meedik (18D), veteran; hajutatult | Eriväelase jutud; kaitse ja meditsiin |
 | Margus Lõoke | KV mustri tunnistaja | ATH-diagnostika muster KV-s (isiklik tähelepanek); e-sliini tugi |
 
 ---

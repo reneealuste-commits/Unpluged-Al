@@ -72,7 +72,7 @@ Sa ei pea olema kangelane. Sa pead olema kohal.
 - Koolis võib üks ema või isa olla mentor.
 - Töökolleeg võib küsida: „Kuidas sul tegelikult läheb?"
 
-Operatsioon „Peegel" rahva tase tähendab, et igaüks meist on osa võrgustikust. Priit Lilleväli, minu kolleeg
+Operatsioon „Peegel" rahva tase tähendab, et igaüks meist on osa võrgustikust.
 
 Kui sa näed, et keegi vaevleb, ära oota ametlikku kutset. Mine ja küsi.
 

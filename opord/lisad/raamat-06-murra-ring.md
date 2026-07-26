@@ -92,7 +92,7 @@ Kui keegi sinu lähedane on ringis:
 - Ära võrdle: „Mul on ka raske" — see ei ole tema hetk.
 - Ära jäta üksi pikaks ajaks, kui ta on ohtlikus seisundis.
 
-Priit Lilleväli, meie võrgustiku juhendaja, õpetab: distsipliin ja emotsionaalne tugi ei välista teineteist. Mõlemad on vajalikud.
+Distsipliin ja emotsionaalne tugi ei välista teineteist. Mõlemad on vajalikud.
 
 **Hädaabi:** Kui mõtled enesetapule, helista 116 123 (Eluliin) või 112.
 

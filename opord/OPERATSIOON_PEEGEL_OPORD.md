@@ -310,7 +310,7 @@ Täielik ahel: **Lisa S** (miks) → **Lisa V** (uni) → **Lisa AW** (aju, otsu
 
 **1-1 vestlused** (prioriteet) toimuvad ainult selles raamis. Mass-koolitus ilma kontaktita ei asenda seda.
 
-**Paranemis-teadlik tugi võrgustikus:** Kert Grünberg (hingamistuba.ee), Jure Biechonski (teadlikmina.ee), Priit Lilleväli, Kaia Kapsta-Forrester, Lisa H, Lisa F, EMDR (KV Tugiteenuste keskus / ohvriabi.ee). Peamine raamat: van der Kolk, *The Body Keeps the Score* (ISBN 978-0-141-97861-1). Kiusamine ja aju: **Lisa S** (*Imeline Teadus* + trauma). Uni ja aju: **Lisa V** (Matthew Walker, *Why We Sleep*, ISBN 978-0-141-9835-6-9). Otsused ja mõttevead: **Lisa AW** (Daniel Kahneman, *Thinking, Fast and Slow*, ISBN 978-9949-33-567-4 ET). Täielik valideerimise juhend: **Lisa P**.
+**Paranemis-teadlik tugi võrgustikus:** Kert Grünberg (hingamistuba.ee), Jure Biechonski (teadlikmina.ee), Kaia Kapsta-Forrester, Lisa H, Lisa F, EMDR (KV Tugiteenuste keskus / ohvriabi.ee). Peamine raamat: van der Kolk, *The Body Keeps the Score* (ISBN 978-0-141-97861-1). Kiusamine ja aju: **Lisa S** (*Imeline Teadus* + trauma). Uni ja aju: **Lisa V** (Matthew Walker, *Why We Sleep*, ISBN 978-0-141-9835-6-9). Otsused ja mõttevead: **Lisa AW** (Daniel Kahneman, *Thinking, Fast and Slow*, ISBN 978-9949-33-567-4 ET). Täielik valideerimise juhend: **Lisa P**.
 
 > *Inimene reageerib pre-verbaalselt. Alguses ei räägi mõistusega — räägib kehaga. Alusta turvalisusest. Sa pole katki — sa vajad ruumi paranemiseks.*
 
@@ -401,7 +401,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
                     ┌──▼───────────────────────────────────────┐
                     │  RAHVA TASE — PÕHIPINGUTUSÜKSUS          │
                     │  Renee Aluste (koordinaator)             │
-                    │  Priit Lilleväli, võrgustiku liikmed     │
+                    │  võrgustiku liikmed                      │
                     └──────────────────────────────────────────┘
 ```
 
@@ -510,13 +510,6 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 - **Veeb:** [tasku.delfi.ee — Blondcast](https://tasku.delfi.ee/podcast/717a0853-d361-4e9e-bb50-aed8e704c2b2)
 - **Miks ta on siin:** Katri tõestab, et raha ja elu ei ole eraldi — ja et aus jutt ka ebaõnnestumistest (sh portfelli kasvamise peatamine teletöö ajal) on väärtuslikum kui perfektne fassaad.
 
-#### Robert Käsper — Meedik, veteran (hajutatud)
-
-- **Roll operatsioonis:** Sõjaväelase ja meediku kogemuse edasiandmine tsiviilis — oma maastikul, sõltumatult.
-- **Taust:** ~10 aastat Kaitseväes, sh erioperatsioonide väejuhatus; **üksuse meedik (18D)** välismissioonidel. Endine nooremseersant — Renee Aluste teenistusaeg samas ajajärgus (Renee nooremveebel, Robert nooremseersant). Pärast teenistust: sisejulgeolek, kaitsetööstus, RKIK; varem juhtimiskoolitaja ja FTX juht (2022–2024). **Tegutseb hajutatult omal maastikul** — Delfi podcast **„Eriväelase jutud"**, kaitse- ja meditsiiniteemad.
-- **Veeb:** [tasku.delfi.ee — Eriväelase jutud](https://tasku.delfi.ee/podcast/ff0c1df9-082d-414f-b06d-f48decd50f45)
-- **Miks ta on siin:** Robert ühendab meditsiini, distsipliini ja juhtimist — täpselt see kombinatsioon, mida operatsioon vajab kriisis. Tema kogemus meedikuna täiendab Lisa H taastumisressursse; hajutatud tegutsemine omal maastikul näitab, et võrgustik ei vaja tsentraalset käsku.
-
 #### Üksus „Aluste_kool" — SOK demomehed (aktiveeritud)
 
 - **Sõjakooli deviis:** **EE · Sõnaga mõõga vastu** — *Verbo contra gladium* (ka *Verbum gladio fortius*: sõna on mõõgast tugevam).
@@ -545,13 +538,6 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 - **Kontakt:** Vana-Lõuna 39/1, Tallinn · tel 667 0111 · sihtasutus@vooglaid.org
 - **Miks ta on siin:** Kannab Vooglaidi tuuma trükis ja igapäevatöös. **Lisa AR**
 
-#### Martin Jõesaar — Euroopa tase
-
-![Martin Jõesaar](images/profiles/martin-joesaar.jpg)
-- **Roll operatsioonis:** Rahvusvaheline mõjutus ja koostöö; Euroopa juhtimiskultuuri arendamine.
-- **Taust:** Aasta koolitaja 2022. Euroopa Komisjoni DG DEFIS programmijuht — ELi kaitseuuenduste büroo Kiievis. 16+ aastat ohvitserina Kaitseväes; endine Milrem Robotics COO; kaitseinvesteeringute kogemus.
-- **Miks ta on siin:** Ühendab Eesti kogemuse Euroopa kaitse- ja innovatsioonivõrgustikuga. Toob operatsioonile rahvusvahelise ulatuse.
-
 #### Renee Aluste — Operatsiooni koordinaator, rahva tase
 
 ![Renee Aluste](images/profiles/renee-aluste.jpg)
@@ -570,13 +556,6 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 
 - **Roll operatsioonis:** Usalduslik teealune hääl; toob Kaitseväe sisemise vaate operatsiooni planeeringusse.
 - **Miks ta on siin:** Ta on **Margus Lõoke** — ettevõtja ja inimene, kes näeb Kaitseväe personali mustreid oma töö ja suhtluse kaudu. Ta on Reneele öelnud, et **suur osa Kaitseväes töötavatest inimestest on diagnoositud ATH-ga**. See ei ole epidemioloogiline väide — see on **tema tähelepanek**, mida Renee dokumenteerib, sest see kinnitab: probleem on laialt levinud, aga lahendus võib olla lihtne (struktuur, uni, liikumine, roll — mitte ainult sümptomi kustutamine). Täielik võrgustiku kirje: **Lisa K**.
-
-#### Priit Lilleväli — Rahva tase, juhtimis- ja psühholoogiline tugi
-
-![Priit Lilleväli](images/profiles/priit-lillevali.jpg)
-- **Roll operatsioonis:** Juhtimiskoolitaja ja juhendaja; aitab inimestel töödelda traumaatilisi kogemusi ja võtta vastutust.
-- **Taust:** juhtimiskoolitaja ja juhendaja. Äripäeva Aasta koolitaja 2023 eriauhind. Endine kaitseväelane (5 aastat), kaks lahingumissiooni Afganistanis. Psühholoogia õpingud (TÜ), juhendamiskoolitus (EBS). 300+ koolitust, 800+ juhendamistundi.
-- **Miks ta on siin:** Operatsioon vajab inimest, kes oskab rääkida nii distsipliinist kui emotsionaalsest taastumisest — ilma ohvriidentiteeti tugevdamata.
 
 #### Katrin Lucas — Sügavama teadlikkuse tase
 
@@ -723,7 +702,7 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 ![Ain Anslan](images/profiles/ain-anslan.jpg)
 
 - **Roll operatsioonis:** Avaliku sektori juhtimiskultuuri partner; inimesekeskne juhtimine raskes keskkonnas — kriisivalmidus, meeskonnakultuur ja vastutus.
-- **Taust:** Viru vangla direktor alates 1. novembrist 2023. Magistrikraad personalijuhtimises. 19+ aastat riigi julgeoleku ja siseturvalisuse sektoris (sh 4 aastat kaitseväes). Endine relvastatud üksuse, saateüksuse, avavangla ja tugevdatud järelevalve üksuse juht. Vanglaametniku teeneterist (2021); teenistusmedal 15 aasta eest (2023). juhtide koolitus, veebiseminar Priit Lilleväliga, kogemuslugu „Viru Vangla kogemuslugu" (YouTube, 2026).
+- **Taust:** Viru vangla direktor alates 1. novembrist 2023. Magistrikraad personalijuhtimises. 19+ aastat riigi julgeoleku ja siseturvalisuse sektoris (sh 4 aastat kaitseväes). Endine relvastatud üksuse, saateüksuse, avavangla ja tugevdatud järelevalve üksuse juht. Vanglaametniku teeneterist (2021); teenistusmedal 15 aasta eest (2023). Juhtide koolitus, veebiseminar, kogemuslugu „Viru Vangla kogemuslugu" (YouTube, 2026).
 - **Miks ta on siin:** Operatsioon „Peegel" ütleb: me ei ehita vanglaid, mida ise valvame. Aga me vajame juhte, kes mõistavad, et kriisivalmidus on igapäevane töökultuur — mitte dokument riiulil. Anslan on elav näide, kuidas Extreme Ownership ja inimesekeskne juhtimine töötavad seal, kus keskkond on kõige raskem. Tema kogemus tugevdab operatsiooni sõnumit: juht kujundab keskkonda oma käitumisega. Täielik võrgustiku skeem ja kõik osalised: **Lisa K**.
 
 #### Eero Kinnunen — Eesti Kaitseväe Veteranid
@@ -772,7 +751,6 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 
 #### Võrgustiku toetajad (taktikaline tase)
 - **Tegusad ettevõtjad (hajutatud võrgustik)** — Martin Plaser, Nils Ratt, Priit Uuemaa, Sverre Puustusmaa, Marko Kaseleht, Kaido Raudvere; tegutsevad sõltumatult, ilma tsentraalse käsuta — igaüks oma piirkonnas ja valdkonnas.
-- **Robert Käsper** — tegutseb **hajutatult omal maastikul**: meedik (18D), veteran, Delfi „Eriväelase jutud"; kaitse ja meditsiin.
 - **Margus Lõoke** — Kaitseväe mustri tunnistaja; jagas Reneelega tähelepanekut ATH-diagnostika mustrist KV personalis (isiklik vaatlus, mitte ametlik statistika).
 - **Peep Vain** — koolitaja ja kõneleja (Vain & Partners); juhtimine, motivatsioon ja enesemääramine.
 - **Alar Ojastu** — juhtide ja meeskondade koolitaja (Eesti parim koolitaja 2018); autor *Ratsionaalne emotsionaalsus* — emotsioonide ja inimlikkuse silmaringi avaja.
@@ -882,7 +860,6 @@ AVA SILMAD (kuud 1–3)  →  TUGEVDA (4–8)  →  PEEGELDA (9–12)  →  LIHT
 | Toetus | Kristjan Liivamägi | Teaduspõhine investeerimisharidus — aktiivne |
 | Toetus | Marko Oolo | Exceli tööriistad, portfellihaldus — aktiivne |
 | Toetus | Katri Teller / Blondcast | Taskuhääling, rahatarkus — aktiivne |
-| Toetus | Robert Käsper | Meedik (18D), Eriväelase jutud — hajutatult — aktiivne |
 | Toetus | Margus Lõoke | KV ATH-muster (isiklik tähelepanek); e-sliini tugi — aktiivne |
 | Demomehed | Üksus Aluste_kool (SOK) | Viisakus, checklist, demomehed — aktiveeritud |
 | Toetus | Katrin Lucas / „Ava oma Silmad" | Teadlikkuse kanal — aktiivne |
@@ -986,7 +963,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 ### Ain Anslan / Viru vangla (Vanglateenistus, vt Lisa K)
 1. Juhtide koolitus inimesekesksete põhimõtete järgi — inimlik pealehakkamine ja sihikindlus raskes keskkonnas.
 2. Kriisivalmidus igapäevase töökultuurina — otsused seal, kus sündmus toimub.
-3. Keskkonna kujundamine juhi käitumisega; koostöö Priit Lilleväliga (veebiseminar, kogemuslood).
+3. Keskkonna kujundamine juhi käitumisega (veebiseminar, kogemuslood).
 4. Siduda avalik sektor ja kodanikualgatuse juhtimiskultuur — vt **Lisa K**.
 
 ### Eero Kinnunen (Eesti Kaitseväe Veteranid)
@@ -1102,11 +1079,6 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 2. Aus jutt rahast ja elust — ka siis, kui portfell ei kasva (teletöö, õpingud).
 3. Aasta investor 2023 — eeskuju naistele ja meestele, kes tahavad rahaasju mõista.
 
-### Robert Käsper (meedik, veteran — hajutatult)
-1. **Eriväelase jutud** — Delfi podcast kaitseväelaste ja veteranide kogemustest.
-2. Meedik (18D) ja sõjaväelase kogemus — austus ja distsipliin omal maastikul.
-3. Täiendab Lisa H taastumisressursse ja kaitse-teadlikkust ilma tsentraalse käsuta.
-
 ### Katrin Lucas (teadlikkuse tase)
 1. „Ava oma Silmad" taskuhääling — teemad manipulatsioonist ja ärkamisest.
 2. Koostöö teiste kanalitega (sh Ajuloputus).
@@ -1159,7 +1131,6 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 ## c. Ülesanded lahingutoetusüksustele
 
 - **Kaitseväe Akadeemia (Aarne Ermus):** Juhtimismudelite jagamine; kvak.ee rollikirjelduste põhimõtete levitamine tsiviilkogukonnale.
-- **Martin Jõesaar:** Rahvusvaheline koostöö ja kogemuste vahetus.
 - **Martin Plaser:** Füüsilise distsipliini programmid noortele ja peredele.
 
 ## d. Kooskõlastusjuhised
@@ -1175,7 +1146,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 | **„Juhul kui…" (keegi ütleb WTF)** | Loe **Lisa P** — **spordikommentaator** enne vastust: „Ma märkan, et see teeb mind kahtlevaks." |
 | **„Juhul kui…" (kes sa oled / kahtlus taustas)** | **Lisa R** — lühike fakt, üks meedialink, ära müü. Täielik profiil: `renee-aluste-profiil.md` |
 | **„Juhul kui…" (takistus / konflikt)** | Lisa P — 5 sammu: turvalisus → spordikommentaator → valideeri → ausus → valik. Ära ütle „ära ole tundlik". |
-| **„Juhul kui…" (trauma / trigger)** | **Keha enne mõistust** (van der Kolk): turvalisus → rahunemine → alles siis vestlus. Suust tulev sõna on signaal, mitte alati tõde. **Lisa P KRIITILINE REEGEL:** ära vaidle trauma olekus; ignoreeri „haukumist"; tasusta rahulikku. Suuna: Kert Grünberg, Priit Lilleväli, Kaia Kapsta-Forrester, Lisa H/F, EMDR. Inimene kontrollib tempot. |
+| **„Juhul kui…" (trauma / trigger)** | **Keha enne mõistust** (van der Kolk): turvalisus → rahunemine → alles siis vestlus. Suust tulev sõna on signaal, mitte alati tõde. **Lisa P KRIITILINE REEGEL:** ära vaidle trauma olekus; ignoreeri „haukumist"; tasusta rahulikku. Suuna: Kert Grünberg, Kaia Kapsta-Forrester, Lisa H/F, EMDR. Inimene kontrollib tempot. |
 | **„Juhul kui…" (identiteet)** | Loe Lisa M — Robbinsi 5 sammu, manifest peegli ees, kodaniku vanne. LIHTSUS: üks plaan, üks tegu. |
 | **„Juhul kui…" (riik / bürokraatia)** | Loe Lisa L (Musk): küsi → kustuta → lihtsusta → kiirenda → automatiseeri. Automatiseeri viimasena. |
 | **„Juhul kui…" (keha suletud)** | Kui tunned end emotsionaalselt külmutatuna — kaaluge tantralaagrit või festivali (tantrafest.ee), Villido kursust (lilleoru.ee) või puhkust Pühalis (puhali.ee). Kriisis: Lisa H esimesena. |
@@ -1235,11 +1206,9 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 | Investeerimisharidus | Kristjan Liivamägi | rahaedu.ee |
 | Excel / portfell | Marko Oolo | oolomarko.ee |
 | Taskuhääling | Katri Teller / Blondcast | tasku.delfi.ee |
-| Meedik / veteran | Robert Käsper | Eriväelase jutud (hajutatult) |
 | Demomehed (SOK) | Üksus Aluste_kool | Lisa N + **Lisa Q** (viisakus, GOTWA, hääl) |
 | Kodaniku mõte | Ülo Vooglaid | ylo@vooglaid.org (Lisa AR) |
 | Mõttepärand | Indrek Paal | sihtasutus@vooglaid.org (Lisa AR) |
-| Juhtimiskoolitus | Priit Lilleväli | eraldi kanal |
 | Teadlikkus | Katrin Lucas | katrinlucas.com |
 | Teadlik muutus | Ingvar Villido | lilleoru.ee / human.ee |
 | Eneseareng / emotsioonid | Tiit Trofimov | tiittrofimov.ee |
@@ -1637,7 +1606,7 @@ Ma tean, miltä tundub, kui keegi vastab loogikaga, aga sa vajad, et sind **näh
 | **Paranemis-teadlikkus** | Kõik 1-1 vestlused — triggerid, kaitse, keha-mälu; inimest ei sildistata katkiseks |
 | **Valik** | Inimene valib tempo; õigus öelda „mitte nüüd" |
 
-Paranemis-teadlik tugi võrgustikus: **Kert Grünberg**, **Jure Biechonski**, **Priit Lilleväli**, **Kaia Kapsta-Forrester**, Lisa H, Lisa F. Kriisis: Eluliin **655 8088**, ohvriabi **116 006** (sh EMDR toetus).
+Paranemis-teadlik tugi võrgustikus: **Kert Grünberg**, **Jure Biechonski**, **Kaia Kapsta-Forrester**, Lisa H, Lisa F. Kriisis: Eluliin **655 8088**, ohvriabi **116 006** (sh EMDR toetus).
 
 *Minu küsimus sulle: Kas sa täna tunned end turvaliselt ja mõistetuna — või pead end veel kaitsema?*
 ---
@@ -2115,7 +2084,7 @@ Koos **Lisa AA** (*Intiimsuse atlas*) — mehe keha teadlikult, ilma porri kui �
 
 **K (Euroopa Parlamendi saadiku nõustaja):** Kas operatsioon „Peegel" on seotud Euroopa Liidu kaitse- või infosõja programmidega?
 
-**V:** Otsest rahastust või ametlikku seost ELi programmidega ei ole. Martin Jõesaar teab Euroopa kaitsemaastikku oma töö kaudu, kuid see operatsioon on sündinud Eestis, eestlaste jaoks. Kui tulevikus tekib koostöö — see peab olema läbipaistev. Praegu: Eesti kodanikud, Eesti probleem, Eesti vastus.
+**V:** Otsest rahastust või ametlikku seost ELi programmidega ei ole. See operatsioon on sündinud Eestis, eestlaste jaoks. Kui tulevikus tekib rahvusvaheline koostöö — see peab olema läbipaistev. Praegu: Eesti kodanikud, Eesti probleem, Eesti vastus.
 
 *Minu küsimus sulle: Mida sa teed Eesti heaks — enne kui ootad Euroopat?*
 ---
@@ -2365,7 +2334,7 @@ Steiger ei paku väljamõeldud mudeleid. Ta kirjeldab igapäevast juhtimist, kus
 
 **K: Kes on Ain Anslan ja miks ta on operatsioonis?**
 
-**V:** Ain Anslan on Viru vangla direktor — inimene, kes juhib ühte Eesti keerukamaid keskkondi. Ta on juhtimiskoolituse partner: juhtide koolitus, veebiseminar Priit Lilleväliga, kogemuslugu YouTube'is. Operatsioon „Peegel" ütleb, et me ei ehita vanglaid, mida ise valvame — aga me vajame juhte, kes mõistavad: kriisivalmidus on igapäevane töökultuur, mitte dokument riiulil. Anslan on elav näide, et inimesekeskne juhtimine töötab ka seal, kus on raske. Täielik võrgustiku skeem ja kõik osalised on **Lisa K**.
+**V:** Ain Anslan on Viru vangla direktor — inimene, kes juhib ühte Eesti keerukamaid keskkondi. Ta on juhtimiskoolituse partner: juhtide koolitus, veebiseminar, kogemuslugu YouTube'is. Operatsioon „Peegel" ütleb, et me ei ehita vanglaid, mida ise valvame — aga me vajame juhte, kes mõistavad: kriisivalmidus on igapäevane töökultuur, mitte dokument riiulil. Anslan on elav näide, et inimesekeskne juhtimine töötab ka seal, kus on raske. Täielik võrgustiku skeem ja kõik osalised on **Lisa K**.
 
 *Minu küsimus sulle: Kas sa juhid oma keskkonda — või lased keskkonnal juhtida sind?*
 ---

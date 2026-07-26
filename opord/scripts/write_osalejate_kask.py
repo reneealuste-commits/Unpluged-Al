@@ -12,23 +12,6 @@ KIRJAD_DIR = OUT_DIR / "kirjad"
 # Each entry: name, email, org, roll, eesmark, ulesanded (list), kaitumine, pakett, kanal, märkus
 PARTICIPANTS = [
     {
-        "name": "Priit Lillev\u00e4li",
-        "email": "",
-        "org": "",
-        "roll": "Juhtimiskoolitaja; Aasta koolitaja 2023",
-        "eesmark": "Vastutus ja taastumine ilma ohvriidentiteedita",
-        "ulesanded": [
-            "Juhi 1-1 vestlusi \u2014 mitte masskoolitus ilma kontaktita (Renee kogemus)",
-            "Kasuta Lisa P trauma-reeglit enne debatti",
-            "Soovita PEEGEL_TEE_D demomeestele, kellele suunad",
-            "Kinnita lugemine \u00fcks lausega p\u00e4rast tutvumist",
-        ],
-        "kaitumine": "FM-DJ h\u00e4\u00e4l rahustamisel. Valideeri enne loogikat. Spordikommentaator.",
-        "pakett": "P1-F-JUHT",
-        "kanal": "E-kiri + kohtumine",
-        "markus": "800+ juhendamistundi",
-    },
-    {
         "name": "Tanel J\u00e4ppinen",
         "email": "",
         "org": "Parenting Solutions / Laste Superm\u00e4ngud",

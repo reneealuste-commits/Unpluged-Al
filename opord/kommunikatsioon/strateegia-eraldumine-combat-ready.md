@@ -1,214 +1,214 @@
-# Strateegia: eraldumine Combat Ready-st (Remo Ojaste sõnum)
+# Strateegia: eraldumine Combat Ready-st (CR tegevdirektor sÃµnum)
 
-**Kuupäev:** 26. juuli 2026  
-**Kontekst:** Remo Ojaste SMS-kokkuvõte pärast ~2h vestlust. Operatsioon „Peegel" tekitab CR meeskonnas emotsioone; Remole helistatakse küsimustega, mida ta psühholoogiliselt ei suuda hallata.  
-**Soovitus:** **Path B** — selge eristamine; **reneealuste.com** / kodanikualgatus; CR-l **pole** operatsiooniga seost.  
-**Seotud:** Lisa AJ (kuldne taganemistee), Lisa AY (Art of the Deal, kuldne sild), Lisa X (OPSEC), Lisa P (trauma vs „võta kokku").
+**KuupÃ¤ev:** 26. juuli 2026  
+**Kontekst:** CR tegevdirektor SMS-kokkuvÃµte pÃ¤rast ~2h vestlust. Operatsioon Â„Peegel" tekitab CR meeskonnas emotsioone; tegevdirektorile helistatakse kÃ¼simustega, mida ta psÃ¼hholoogiliselt ei suuda hallata.  
+**Soovitus:** **Path B** Â— selge eristamine; **reneealuste.com** / kodanikualgatus; CR-l **pole** operatsiooniga seost.  
+**Seotud:** Lisa AJ (kuldne taganemistee), Lisa AY (Art of the Deal, kuldne sild), Lisa X (OPSEC), Lisa P (trauma vs Â„vÃµta kokku").
 
 ---
 
-## 0. Renee järeldus (26.07) — miks eraldumine on **struktuurne**, mitte isiklik
+## 0. Renee jÃ¤reldus (26.07) Â— miks eraldumine on **struktuurne**, mitte isiklik
 
-Kui Renee ütles Remole „lahkun — mida sa tahad, et ma teen?" ja tunnistas tema stressi („raske inimestele seletada"), vastas Remo **3–4 päeva ultimatumiga** — domineeriv, kontrolliv. Renee südames: **CR on teel ette.**
+Kui Renee Ã¼tles tegevdirektorile Â„lahkun Â— mida sa tahad, et ma teen?" ja tunnistas tema stressi (Â„raske inimestele seletada"), vastas Tegevdirektor **3Â–4 pÃ¤eva ultimatumiga** Â— domineeriv, kontrolliv. Renee sÃ¼dames: **CR on teel ette.**
 
-| Mida inimesed näevad | Mida nad tunnevad |
+| Mida inimesed nÃ¤evad | Mida nad tunnevad |
 |----------------------|-------------------|
-| Operatsioon Peegel (trauma, pere, keha, tasuta tuum) | „Keegi räägib minuga" |
-| Combat Ready (kallis koolitus, Extreme Ownership) | „See on äri. See on fake." |
+| Operatsioon Peegel (trauma, pere, keha, tasuta tuum) | Â„Keegi rÃ¤Ã¤gib minuga" |
+| Combat Ready (kallis koolitus, Extreme Ownership) | Â„See on Ã¤ri. See on fake." |
 
-**See ei tähenda, et CR on vale.** See tähendab:
+**See ei tÃ¤henda, et CR on vale.** See tÃ¤hendab:
 
-1. **Järjekord on vale** — van der Kolk / Lisa P: enne *võta vastutust* peab olema **turvalisus ? keha ? mõistus**. Traumatiseeritud inimene ei saa „ownershipi" osta — ta kaitseb end. Sõnum tundub **võlts**, isegi kui sisu on hea.
-2. **Ärimudel kollideerib** — inimene, kes on põhjas, näeb hinda ja mõtleb: *jälle müüakse mulle lahendust*. OPORD on **tasuta tuum**; CR on **premium**. Seos teeb kogu sõnumi kahtlaseks.
-3. **Remo on triggeris** — talle helistatakse, surve tuleb läbi, ta ei oska trauma tasemel vastata. Ultimatum = **fight response** + brändi kaitse, mitte puhas strateegia.
+1. **JÃ¤rjekord on vale** Â— van der Kolk / Lisa P: enne *vÃµta vastutust* peab olema **turvalisus ? keha ? mÃµistus**. Traumatiseeritud inimene ei saa Â„ownershipi" osta Â— ta kaitseb end. SÃµnum tundub **vÃµlts**, isegi kui sisu on hea.
+2. **Ã„rimudel kollideerib** Â— inimene, kes on pÃµhjas, nÃ¤eb hinda ja mÃµtleb: *jÃ¤lle mÃ¼Ã¼akse mulle lahendust*. OPORD on **tasuta tuum**; CR on **premium**. Seos teeb kogu sÃµnumi kahtlaseks.
+3. **Tegevdirektor on triggeris** Â— talle helistatakse, surve tuleb lÃ¤bi, ta ei oska trauma tasemel vastata. Ultimatum = **fight response** + brÃ¤ndi kaitse, mitte puhas strateegia.
 
-> *Sa ei eita Extreme Ownershipi. Sa ütled: **vale järjekord, vale publik, vale bränd sama katusel.***
+> *Sa ei eita Extreme Ownershipi. Sa Ã¼tled: **vale jÃ¤rjekord, vale publik, vale brÃ¤nd sama katusel.***
 
-**Ultimatum 3–4 päeva:** ära võta seda isiklikult. Võta seda kui **kiirendust**, mida sa niikuinii tahtsid. Vasta 24h jooksul, mitte nelja päeva pärast — nii jäävad mõlemale au ja kontroll.
+**Ultimatum 3Â–4 pÃ¤eva:** Ã¤ra vÃµta seda isiklikult. VÃµta seda kui **kiirendust**, mida sa niikuinii tahtsid. Vasta 24h jooksul, mitte nelja pÃ¤eva pÃ¤rast Â— nii jÃ¤Ã¤vad mÃµlemale au ja kontroll.
 
-### Remo vastus pärast „lahkun" (26.07 õhtu) — **mõistlik, koostöö**
+### Tegevdirektori vastus pÃ¤rast Â„lahkun" (26.07 Ãµhtu) Â— **mÃµistlik, koostÃ¶Ã¶**
 
-Remo ei survestanud edasi. Ta ütles sisuliselt:
+Tegevdirektor ei survestanud edasi. Ta Ã¼tles sisuliselt:
 
-| Mida ta palub | Mida see tähendab |
+| Mida ta palub | Mida see tÃ¤hendab |
 |---------------|-------------------|
-| Võta maha, et sa **ei tööta hetkel** / **ei ole CR instruktor** | CR veeb, db/dashboard, bannerid — kõik, kus sind CR meeskonnana näidatakse |
-| Plaan edasi: **sinu bränd**, podcast, uus missioon | Path B kinnitatud — ta aitab *eristada*, mitte blokeerida |
-| Podcasti osa: selgitame olukorda, tutvustame sinu plaani | **Kuldne sild** — ühine narratiiv, mitte avalik tüli |
-| Uued kursused, Ranger handbookid jms | Sisu võib jääda — aga **CR lipu all mitte** |
+| VÃµta maha, et sa **ei tÃ¶Ã¶ta hetkel** / **ei ole CR instruktor** | CR veeb, db/dashboard, bannerid Â— kÃµik, kus sind CR meeskonnana nÃ¤idatakse |
+| Plaan edasi: **sinu brÃ¤nd**, podcast, uus missioon | Path B kinnitatud Â— ta aitab *eristada*, mitte blokeerida |
+| Podcasti osa: selgitame olukorda, tutvustame sinu plaani | **Kuldne sild** Â— Ã¼hine narratiiv, mitte avalik tÃ¼li |
+| Uued kursused, Ranger handbookid jms | Sisu vÃµib jÃ¤Ã¤da Â— aga **CR lipu all mitte** |
 
-> *See on hea tulemus. Ta ei võidelnud. Ta andis sulle kontrolli oma kanalil ja pakkus abi brändi loomisel.*
+> *See on hea tulemus. Ta ei vÃµidelnud. Ta andis sulle kontrolli oma kanalil ja pakkus abi brÃ¤ndi loomisel.*
 
-**Sinu kohe tegevused (täna–homme):**
+**Sinu kohe tegevused (tÃ¤naÂ–homme):**
 
-1. CR **db/dashboard** — eemalda või deaktiveeri instruktori staatus
-2. CR **veeb / meeskonna leht** — palu Remol või Priidul eemaldada profiil (või märgi „endine")
-3. **Sotsiaalmeedia bio** — eemalda „Combat Ready instruktor"
-4. **OPORD / materjalid** — uuenda „endine CR (2023–2026)", mitte aktiivne roll
-5. Vasta Remole: nõustun, teen ära, podcast — jah, kui ajakava sobib
+1. CR **db/dashboard** Â— eemalda vÃµi deaktiveeri instruktori staatus
+2. CR **veeb / meeskonna leht** Â— palu CR meeskonnal eemaldada profiil (vÃµi mÃ¤rgi Â„endine")
+3. **Sotsiaalmeedia bio** Â— eemalda Â„Combat Ready instruktor"
+4. **OPORD / materjalid** Â— uuenda Â„endine CR (2023Â–2026)", mitte aktiivne roll
+5. Vasta tegevdirektorile: nÃµustun, teen Ã¤ra, podcast Â— jah, kui ajakava sobib
 
 ---
 
-## 1. Remo sõnumi tuum (faktid)
+## 1. Tegevdirektori sÃµnumi tuum (faktid)
 
-| Element | Mida ta ütleb |
+| Element | Mida ta Ã¼tleb |
 |---------|----------------|
-| **Kokkulepe (tema järgi)** | Usaldus sinu kavatsuse vastu; kaks teed |
-| **Path A** | Combat Ready — nõuab **koordineerimist tema plaanidega** |
-| **Path B** | Sinu meetod **reneealuste.com** all — nõuab **selget eristamist** |
-| **Mitte läbiräägitav** | CR lipu all on **üks meetod: vastutus**. Emotsiooni/trauma-meetod on **teine asi**. Mõlemat **CR nime all korraga ei ole**. |
-| **Läbiräägitav** | *Kuidas* eristame — nimed, materjalid, kanalid |
-| **Järgmine samm** | Sinu otsuse kuupäev; ta pakub tuge, kui valid oma tee |
+| **Kokkulepe (tema jÃ¤rgi)** | Usaldus sinu kavatsuse vastu; kaks teed |
+| **Path A** | Combat Ready Â— nÃµuab **koordineerimist tema plaanidega** |
+| **Path B** | Sinu meetod **reneealuste.com** all Â— nÃµuab **selget eristamist** |
+| **Mitte lÃ¤birÃ¤Ã¤gitav** | CR lipu all on **Ã¼ks meetod: vastutus**. Emotsiooni/trauma-meetod on **teine asi**. MÃµlemat **CR nime all korraga ei ole**. |
+| **LÃ¤birÃ¤Ã¤gitav** | *Kuidas* eristame Â— nimed, materjalid, kanalid |
+| **JÃ¤rgmine samm** | Sinu otsuse kuupÃ¤ev; ta pakub tuge, kui valid oma tee |
 
 ---
 
-## 2. Remo sõnum — emotsionaalne lugemine („tundub lõksus")
+## 2. Tegevdirektori sÃµnum Â— emotsionaalne lugemine (Â„tundub lÃµksus")
 
-Remo kirjutab **struktureeritult** (numbrid, kokkuvõte, järgmine samm) — see on **kontrolli** keel, mitte nõrkus. Emotsioon on tõenäoliselt allpool:
+Tegevdirektor kirjutab **struktureeritult** (numbrid, kokkuvÃµte, jÃ¤rgmine samm) Â— see on **kontrolli** keel, mitte nÃµrkus. Emotsioon on tÃµenÃ¤oliselt allpool:
 
-| Mida ta võib tunda | Miks |
+| Mida ta vÃµib tunda | Miks |
 |--------------------|------|
-| **Lõksus** | CR bränd (Extreme Ownership, vastutus, Jocko) on seotud sinu operatsiooniga, mis on **keha, trauma, emotsioon, pere** — vastupidine CR avalikule identiteedile |
-| **Ülekoormus** | Inimesed helistavad **talle**, ta ei oska vastata trauma/psühholoogia tasemel |
-| **Kaotus kontrollist** | Path A sõnum: „koordineerimine **minu** plaanidega" — ta tahab tagasi juhtimisõigust brändi üle |
-| **Hirm maine eest** | Kui CR = „emotsiooniline operatsioon", kannatab äri, partnerlus Echelon Frontiga, koolitusturg |
-| **Vajadus olla hea juht** | „Toetan sind, kui valid oma tee" — ta ei taha olla kurjategija; ta tahab **selget raami** |
+| **LÃµksus** | CR brÃ¤nd (Extreme Ownership, vastutus, Jocko) on seotud sinu operatsiooniga, mis on **keha, trauma, emotsioon, pere** Â— vastupidine CR avalikule identiteedile |
+| **Ãœlekoormus** | Inimesed helistavad **talle**, ta ei oska vastata trauma/psÃ¼hholoogia tasemel |
+| **Kaotus kontrollist** | Path A sÃµnum: Â„koordineerimine **minu** plaanidega" Â— ta tahab tagasi juhtimisÃµigust brÃ¤ndi Ã¼le |
+| **Hirm maine eest** | Kui CR = Â„emotsiooniline operatsioon", kannatab Ã¤ri, partnerlus Echelon Frontiga, koolitusturg |
+| **Vajadus olla hea juht** | Â„Toetan sind, kui valid oma tee" Â— ta ei taha olla kurjategija; ta tahab **selget raami** |
 
-**Ära loe seda vaenlasena.** Loed seda **äriomanikuna**, kes kaitseb brändi ja on emotsionaalselt ülekoormatud.
+**Ã„ra loe seda vaenlasena.** Loed seda **Ã¤riomanikuna**, kes kaitseb brÃ¤ndi ja on emotsionaalselt Ã¼lekoormatud.
 
 ---
 
-## 3. Art of the Deal — Remo käik
+## 3. Art of the Deal Â— Tegevdirektori kÃ¤ik
 
-| Põhimõte | Kuidas Remo seda kasutab |
+| PÃµhimÃµte | Kuidas Tegevdirektor seda kasutab |
 |----------|-------------------------|
-| **Anchor (kõva ankur)** | „See ei ole punkt, mille üle me läbi räägime" — eristamine on ette otsustatud |
-| **Illusioon valikust** | Path A või B — mõlemad viivad **eristamiseni** või **allumiseni tema plaanidele** |
-| **Protect the downside** | CR bränd kaitstud emotsiooniseostuse eest |
-| **Deadline** | „Mis kuupäevaks jõuad otsuseni?" — survestab sind enne, kui sina valmistad |
-| **Good cop** | „Toetan sind oma teel" — vähendab konfrontatsiooni, hoiab ukse lahti |
-| **Control the narrative** | Kirjalik kokkuvõte pärast vestlust — tema versioon on esimene dokument |
+| **Anchor (kÃµva ankur)** | Â„See ei ole punkt, mille Ã¼le me lÃ¤bi rÃ¤Ã¤gime" Â— eristamine on ette otsustatud |
+| **Illusioon valikust** | Path A vÃµi B Â— mÃµlemad viivad **eristamiseni** vÃµi **allumiseni tema plaanidele** |
+| **Protect the downside** | CR brÃ¤nd kaitstud emotsiooniseostuse eest |
+| **Deadline** | Â„Mis kuupÃ¤evaks jÃµuad otsuseni?" Â— survestab sind enne, kui sina valmistad |
+| **Good cop** | Â„Toetan sind oma teel" Â— vÃ¤hendab konfrontatsiooni, hoiab ukse lahti |
+| **Control the narrative** | Kirjalik kokkuvÃµte pÃ¤rast vestlust Â— tema versioon on esimene dokument |
 
-**Tema nõrk koht:** ta **vajab** sinu koostööd eristamise *viisis* — ilma sinuta jäävad vanad PDF-id, ZIP-id ja lingid CR-i külge ja kõned jätkuvad.
+**Tema nÃµrk koht:** ta **vajab** sinu koostÃ¶Ã¶d eristamise *viisis* Â— ilma sinuta jÃ¤Ã¤vad vanad PDF-id, ZIP-id ja lingid CR-i kÃ¼lge ja kÃµned jÃ¤tkuvad.
 
 ---
 
-## 4. Art of the Deal — sinu käik (soovitus)
+## 4. Art of the Deal Â— sinu kÃ¤ik (soovitus)
 
-| Põhimõte | Sinu tegevus |
+| PÃµhimÃµte | Sinu tegevus |
 |----------|--------------|
-| **Ära võitle vale koha pärast** | Ära vaidle, kas eristamine on vajalik — **nõustu põhimõttega** |
-| **Võta Path B** | See on see, mida sa niikuinii tahad — Remo raam sobib |
-| **Maximize options** | Erista *kiiresti*; hoia isiklikud suhted Priit, Her Way jms (ilma CR liputa) |
-| **Protect the downside** | Üks avalik lause + dokumentide puhastus — vähem kõnesid talle |
-| **Deliver the goods** | Anna kuupäev (nt 48–72h esimese puhastuse jaoks) |
-| **Anna talle võit** | „Sa olid õigel — CR = vastutus. Peegel = teine kanal." |
-| **Kuldne sild (Lisa AY/AJ)** | Au säilitav lahkumine; ära avalikku konflikti |
+| **Ã„ra vÃµitle vale koha pÃ¤rast** | Ã„ra vaidle, kas eristamine on vajalik Â— **nÃµustu pÃµhimÃµttega** |
+| **VÃµta Path B** | See on see, mida sa niikuinii tahad Â— tegevdirektori raam sobib |
+| **Maximize options** | Erista *kiiresti*; hoia isiklikud suhted vajalike partneritega (ilma CR liputa) |
+| **Protect the downside** | Ãœks avalik lause + dokumentide puhastus Â— vÃ¤hem kÃµnesid talle |
+| **Deliver the goods** | Anna kuupÃ¤ev (nt 48Â–72h esimese puhastuse jaoks) |
+| **Anna talle vÃµit** | Â„Sa olid Ãµigel Â— CR = vastutus. Peegel = teine kanal." |
+| **Kuldne sild (Lisa AY/AJ)** | Au sÃ¤ilitav lahkumine; Ã¤ra avalikku konflikti |
 
 ---
 
-## 5. SWOT — eraldumine Combat Ready-st (kohe)
+## 5. SWOT Â— eraldumine Combat Ready-st (kohe)
 
 ### Strengths (tugevused)
 
 | # | Tugevus |
 |---|---------|
-| 1 | **Joondub Remo mitte-läbiräägitava joonega** — vähem draamat, kiirem rahu |
-| 2 | **OPORD juba ütleb:** kodanikualgatus, ei esinda CR/riiki (Lisa P, Lisa X) |
-| 3 | **Sisuline tõde:** Peegel on trauma-teadlik; CR on Extreme Ownership — **erinevad meetodid** |
-| 4 | **Lõpetab vale kanali:** inimesed ei peaks helistama Remole psühholoogia küsimustes |
+| 1 | **Joondub tegevdirektori mitte-lÃ¤birÃ¤Ã¤gitava joonega** Â— vÃ¤hem draamat, kiirem rahu |
+| 2 | **OPORD juba Ã¼tleb:** kodanikualgatus, ei esinda CR/riiki (Lisa P, Lisa X) |
+| 3 | **Sisuline tÃµde:** Peegel on trauma-teadlik; CR on Extreme Ownership Â— **erinevad meetodid** |
+| 4 | **LÃµpetab vale kanali:** inimesed ei peaks helistama tegevdirektorile psÃ¼hholoogia kÃ¼simustes |
 | 5 | **Lisa AJ vaim:** austav eraldumine, mitte repliim |
 
-### Weaknesses (nõrkused)
+### Weaknesses (nÃµrkused)
 
-| # | Nõrkus |
+| # | NÃµrkus |
 |---|--------|
-| 1 | Kaotad CR **levituskanali** (e-pood, DocSend, koolituse müügitoru) |
-| 2 | Lisa K võrgustikus on palju **CR-risti** — vajab uuendust |
-| 3 | Väline arvamus võib näha **lahkhelid** — vajab selget sõnumit |
-| 4 | Mõned partnerid on CR kaudu sisse tulnud — segadus lühiajaliselt |
+| 1 | Kaotad CR **levituskanali** (e-pood, DocSend, koolituse mÃ¼Ã¼gitoru) |
+| 2 | Lisa K vÃµrgustikus on palju **CR-risti** Â— vajab uuendust |
+| 3 | VÃ¤line arvamus vÃµib nÃ¤ha **lahkhelid** Â— vajab selget sÃµnumit |
+| 4 | MÃµned partnerid on CR kaudu sisse tulnud Â— segadus lÃ¼hiajaliselt |
 
-### Opportunities (võimalused)
+### Opportunities (vÃµimalused)
 
-| # | Võimalus |
+| # | VÃµimalus |
 |---|----------|
 | 1 | **reneealuste.com** / kodanikualgatus kui selge kodu |
-| 2 | Remo saab **hingata** — võib hiljem isiklikult toetada, mitte brändina |
-| 3 | Puhas **infohügieen:** keegi ei saa öelda „CR toetab seda" |
-| 4 | Trauma/pere/rindejoon sõnum **ilma vastuoluta** vastutuse brändiga |
-| 5 | Kiire otsus = **usaldus** mõlemapoolne („ta tegi ära") |
+| 2 | Tegevdirektor saab **hingata** Â— vÃµib hiljem isiklikult toetada, mitte brÃ¤ndina |
+| 3 | Puhas **infohÃ¼gieen:** keegi ei saa Ã¶elda Â„CR toetab seda" |
+| 4 | Trauma/pere/rindejoon sÃµnum **ilma vastuoluta** vastutuse brÃ¤ndiga |
+| 5 | Kiire otsus = **usaldus** mÃµlemapoolne (Â„ta tegi Ã¤ra") |
 
 ### Threats (ohud)
 
 | # | Oht |
 |---|-----|
-| 1 | **Poolik eristamine** — PDF/ZIP/veeb jätkab CR seost ? kõned jätkuvad |
-| 2 | **Avalik spin** „lahkus / tüli" — vajab ühtset lühikest narratiivi |
-| 3 | CR meeskonna liikmed **vaheliin** — selge sisekiri neile |
-| 4 | Liiga aeglane vastus ? Remo tõlgendab kui vastuolu |
-| 5 | Emotsionaalne vastus Remole ? süvendab lõksutunnet |
+| 1 | **Poolik eristamine** Â— PDF/ZIP/veeb jÃ¤tkab CR seost ? kÃµned jÃ¤tkuvad |
+| 2 | **Avalik spin** Â„lahkus / tÃ¼li" Â— vajab Ã¼htset lÃ¼hikest narratiivi |
+| 3 | CR meeskonna liikmed **vaheliin** Â— selge sisekiri neile |
+| 4 | Liiga aeglane vastus ? Tegevdirektor tÃµlgendab kui vastuolu |
+| 5 | Emotsionaalne vastus tegevdirektorile ? sÃ¼vendab lÃµksutunnet |
 
 ---
 
 ## 6. Soovitus: tee **kohe**, aga **puhtalt**
 
-### 24–72 tunni plaan
+### 24Â–72 tunni plaan
 
-| # | Tegevus | Tähtaeg |
+| # | Tegevus | TÃ¤htaeg |
 |---|---------|---------|
-| 1 | **Kirjalik vastus Remole** (allpool mall) | Täna |
-| 2 | **Üks avalik lause** (veeb/sotsiaalmeedia/bio) | 24h |
-| 3 | **Dokumentide puhastus** — eemalda „Combat Ready toetab / partner" kui implikatsioon | 48h |
-| 4 | **Lisa K / OPORD** — CR rollid ? „isiklik koostöö võimalik, bränd ei seo" | 72h |
-| 5 | **Sisekiri CR meeskonnale** (Remo saadab või sina Priiti kaudu) | 48h |
+| 1 | **Kirjalik vastus tegevdirektorile** (allpool mall) | TÃ¤na |
+| 2 | **Ãœks avalik lause** (veeb/sotsiaalmeedia/bio) | 24h |
+| 3 | **Dokumentide puhastus** Â— eemalda Â„Combat Ready toetab / partner" kui implikatsioon | 48h |
+| 4 | **Lisa K / OPORD** Â— CR rollid ? Â„isiklik koostÃ¶Ã¶ vÃµimalik, brÃ¤nd ei seo" | 72h |
+| 5 | **Sisekiri CR meeskonnale** (Tegevdirektor saadab vÃµi sinu kaudu CR meeskonnale) | 48h |
 
-### Avalik üks lause (mall)
+### Avalik Ã¼ks lause (mall)
 
-> *Operatsioon „Peegel" on **Renee Aluste kodanikualgatus**. See **ei ole** Combat Ready OÜ toode ega koolitus. Küsimused operatsiooni kohta: [kontakt]. Küsimused koolituse kohta: combatready.eu.*
+> *Operatsioon Â„Peegel" on **Renee Aluste kodanikualgatus**. See **ei ole** Combat Ready OÃœ toode ega koolitus. KÃ¼simused operatsiooni kohta: [kontakt]. KÃ¼simused koolituse kohta: combatready.eu.*
 
 ### Sisekiri CR meeskonnale (mall)
 
-> *Peegel liigub eraldi kanalile. See ei ole CR ebaõnnestumine — see on **brändi selgus**. CR = vastutus ja juhtimiskoolitus. Peegel = pere, trauma-teadlikkus, kodanik. Palun suuna operatsiooni küsimused Renee poole, mitte Remo telefonile.*
+> *Peegel liigub eraldi kanalile. See ei ole CR ebaÃµnnestumine Â— see on **brÃ¤ndi selgus**. CR = vastutus ja juhtimiskoolitus. Peegel = pere, trauma-teadlikkus, kodanik. Palun suuna operatsiooni kÃ¼simused Renee poole, mitte Tegevdirektor telefonile.*
 
 ---
 
-## 7. Kiire SMS (kui juba ütlesid „lahkun" ja ta andis ultimatumi)
+## 7. Kiire SMS (kui juba Ã¼tlesid Â„lahkun" ja ta andis ultimatumi)
 
-> Remo — tänan kokkuvõtte eest. **Otsus on tehtud: Path B.** Peegel jääb minu kanalile, CR-l sellega seost ei ole. Sa olid õigel — CR = vastutus, minu töö = teine asi (keha, pere, trauma). **28.07** avalik lause + esimene puhastus; **31.07** täielik kontroll. Aitan FAQ-ga, et kõned ei tuleks sinule. Aitäh aususe eest.
+> Tegevdirektor Â— tÃ¤nan kokkuvÃµtte eest. **Otsus on tehtud: Path B.** Peegel jÃ¤Ã¤b minu kanalile, CR-l sellega seost ei ole. Sa olid Ãµigel Â— CR = vastutus, minu tÃ¶Ã¶ = teine asi (keha, pere, trauma). **28.07** avalik lause + esimene puhastus; **31.07** tÃ¤ielik kontroll. Aitan FAQ-ga, et kÃµned ei tuleks sinule. AitÃ¤h aususe eest.
 
-*Sa ei pea ootama 3–4 päeva. Ultimatum on tema stress, mitte sinu tähtaeg. Vasta 24h jooksul — selgelt, ilma vaidluseta.*
+*Sa ei pea ootama 3Â–4 pÃ¤eva. Ultimatum on tema stress, mitte sinu tÃ¤htaeg. Vasta 24h jooksul Â— selgelt, ilma vaidluseta.*
 
-### Vastus Remo koostööpakkumisele (pärast tema „võta maha" sõnumit)
+### Vastus tegevdirektori koostÃ¶Ã¶pakkumisele (pÃ¤rast tema Â„vÃµta maha" sÃµnumit)
 
-> Remo — mõistlik ja aus. **Teen ära:** võtan CR-st maha (db, bannerid, kõik kus näen). **Path B kinnitatud.** Podcast — jah, hea mõte; paneme paika, kui puhastus tehtud. Uus missioon: Operatsioon Peegel / kodanikualgatus — trauma enne vastutust. Aitäh, et aitad brändi eristada, mitte blokeerida.
+> Tegevdirektor Â— mÃµistlik ja aus. **Teen Ã¤ra:** vÃµtan CR-st maha (db, bannerid, kÃµik kus nÃ¤en). **Path B kinnitatud.** Podcast Â— jah, hea mÃµte; paneme paika, kui puhastus tehtud. Uus missioon: Operatsioon Peegel / kodanikualgatus Â— trauma enne vastutust. AitÃ¤h, et aitad brÃ¤ndi eristada, mitte blokeerida.
 
 ---
 
-## 8. Soovitatav vastus Remole (pikem SMS / e-kiri — kopeeri)
+## 8. Soovitatav vastus tegevdirektorile (pikem SMS / e-kiri Â— kopeeri)
 
-> Remo, tänan kokkuvõtte eest — loen seda samamoodi.
+> Tegevdirektor, tÃ¤nan kokkuvÃµtte eest Â— loen seda samamoodi.
 >
-> **Minu otsus on Path B:** Operatsioon „Peegel" jääb **minu kanalile** (reneealuste.com / kodanikualgatus). **Combat Ready-l sellega seost ei ole** ja ma ei kasuta CR nime, materjale ega kanaleid selle operatsiooni jaoks.
+> **Minu otsus on Path B:** Operatsioon Â„Peegel" jÃ¤Ã¤b **minu kanalile** (reneealuste.com / kodanikualgatus). **Combat Ready-l sellega seost ei ole** ja ma ei kasuta CR nime, materjale ega kanaleid selle operatsiooni jaoks.
 >
-> Sa olid õigel: **CR lipu all on vastutuse meetod** — see on teie bränd. Minu töö on **teine asi** (keha, pere, trauma-teadlikkus) — mitte halvem, aga **eraldi**.
+> Sa olid Ãµigel: **CR lipu all on vastutuse meetod** Â— see on teie brÃ¤nd. Minu tÃ¶Ã¶ on **teine asi** (keha, pere, trauma-teadlikkus) Â— mitte halvem, aga **eraldi**.
 >
-> **Järgmine samm minult:**
-> – **[kuupäev, nt 28.07.2026]** — avalik lause + esimene dokumentide puhastus (nimed, lingid, ZIP-id).
-> – **[kuupäev, nt 31.07.2026]** — täielik eristamise kontroll (Lisa K, OPORD, PDF).
+> **JÃ¤rgmine samm minult:**
+> Â– **[kuupÃ¤ev, nt 28.07.2026]** Â— avalik lause + esimene dokumentide puhastus (nimed, lingid, ZIP-id).
+> Â– **[kuupÃ¤ev, nt 31.07.2026]** Â— tÃ¤ielik eristamise kontroll (Lisa K, OPORD, PDF).
 >
-> **Lepime kokku koos:** kuidas edastada inimestele, kes on juba segaduses — üks lühike FAQ, et kõned ei tuleks sinule.
+> **Lepime kokku koos:** kuidas edastada inimestele, kes on juba segaduses Â— Ã¼ks lÃ¼hike FAQ, et kÃµned ei tuleks sinule.
 >
-> Ma hindan toetust. Aitäh aususe eest.
+> Ma hindan toetust. AitÃ¤h aususe eest.
 
 ---
 
 ## 9. Mida mitte teha
 
-- Ära vaidle, kas emotsioon on „halb" või vastutus on „parem".
-- Ära jäta poolikut — see jätkab kõnesid Remole.
-- Ära avalikusta Remo „nõrkust" või „lõksu".
-- Ära seo lahkumist võidukaks narratiiviks — **kuldne sild** mõlemale.
+- Ã„ra vaidle, kas emotsioon on Â„halb" vÃµi vastutus on Â„parem".
+- Ã„ra jÃ¤ta poolikut Â— see jÃ¤tkab kÃµnesid tegevdirektorile.
+- Ã„ra avalikusta Tegevdirektor Â„nÃµrkust" vÃµi Â„lÃµksu".
+- Ã„ra seo lahkumist vÃµidukaks narratiiviks Â— **kuldne sild** mÃµlemale.
 
 ---
 
-*Strateegia — eraldumine Combat Ready. Operatsioon „Peegel". Konfidentsiaalne kuni avaliku lause avaldamiseni.*
+*Strateegia Â— eraldumine Combat Ready. Operatsioon Â„Peegel". Konfidentsiaalne kuni avaliku lause avaldamiseni.*

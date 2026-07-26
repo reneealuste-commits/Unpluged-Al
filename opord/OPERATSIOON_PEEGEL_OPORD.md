@@ -28,6 +28,8 @@
 
 > *„**Kohtleme kõiki asjaosalisi nagu terveid, täiesti normaalseid inimesi.**" — operatsiooni põhireegel*
 
+> **⚠️ Combat Ready — brändi eristamine (26.07.2026):** Operatsioon „Peegel" on **Renee Aluste kodanikualgatus** (reneealuste.com). See **ei ole** Combat Ready OÜ toode, koolitus ega ärikanal. Mõned isikud OPORD-is on CR-ga seotud **isikliku kogemuse** tõttu — see ei tähenda operatsioonilist toetust. Küsimused operatsiooni kohta: Renee. Küsimused koolituse kohta: combatready.eu. Täielik plaan: [`strateegia-eraldumine-combat-ready.md`](kommunikatsioon/strateegia-eraldumine-combat-ready.md).
+
 ---
 
 ## OPERATSIOONI PÕHIMÕTE — LOE ENNE KÕIKE MUU

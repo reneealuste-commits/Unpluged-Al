@@ -151,7 +151,15 @@ Remo kirjutab **struktureeritult** (numbrid, kokkuvõte, järgmine samm) — see on 
 
 ---
 
-## 7. Soovitatav vastus Remole (SMS / e-kiri — kopeeri)
+## 7. Kiire SMS (kui juba ütlesid „lahkun" ja ta andis ultimatumi)
+
+> Remo — tänan kokkuvõtte eest. **Otsus on tehtud: Path B.** Peegel jääb minu kanalile, CR-l sellega seost ei ole. Sa olid õigel — CR = vastutus, minu töö = teine asi (keha, pere, trauma). **28.07** avalik lause + esimene puhastus; **31.07** täielik kontroll. Aitan FAQ-ga, et kõned ei tuleks sinule. Aitäh aususe eest.
+
+*Sa ei pea ootama 3–4 päeva. Ultimatum on tema stress, mitte sinu tähtaeg. Vasta 24h jooksul — selgelt, ilma vaidluseta.*
+
+---
+
+## 8. Soovitatav vastus Remole (pikem SMS / e-kiri — kopeeri)
 
 > Remo, tänan kokkuvõtte eest — loen seda samamoodi.
 >
@@ -169,7 +177,7 @@ Remo kirjutab **struktureeritult** (numbrid, kokkuvõte, järgmine samm) — see on 
 
 ---
 
-## 8. Mida mitte teha
+## 9. Mida mitte teha
 
 - Ära vaidle, kas emotsioon on „halb" või vastutus on „parem".
 - Ära jäta poolikut — see jätkab kõnesid Remole.

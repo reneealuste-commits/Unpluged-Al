@@ -15,7 +15,7 @@
 
 ## 1. Üks lause vastus
 
-**Renee Aluste** on Eesti kaitseväe ja Kaitseliidu taustaga juhtimisinstruktor, USA Army Ranger Schooli läbinud eriväelane, Combat Ready koolitaja ja Operatsioon „Peegel" koordinaator — inimene, kes on elanud läbi depressiooni ja infosõja mõju ning ehitanud sellest kodanikualgatuse, mitte riiklikku käsku.
+**Renee Aluste** on Eesti kaitseväe ja Kaitseliidu taustaga juhtimisinstruktor, USA Army Ranger Schooli läbinud eriväelane, **endine** Combat Ready koolitaja (2023–2026) ja Operatsioon „Peegel" koordinaator — inimene, kes on elanud läbi depressiooni ja infosõja mõju ning ehitanud sellest kodanikualgatuse, mitte riiklikku käsku.
 
 ---
 
@@ -41,7 +41,7 @@
 | **Elukoht** | Tallinn |
 | **Emakeel** | eesti keel |
 | **Inglise keel** | C1 (mõistmine, rääkimine, kirjutamine) |
-| **Avalik roll** | Operatsioon „Peegel" koordinaator; Combat Ready juhtimisinstruktor; Kaitseliidu instruktor |
+| **Avalik roll** | Operatsioon „Peegel" koordinaator; Kaitseliidu instruktor |
 
 ---
 
@@ -64,7 +64,7 @@
 | **2015** | Estpla-21, UNIFIL Liibanon | ~7 kuud Soome-Iiri pataljoni koosseisus |
 | **2018–…** | Kaitseliit, Harju malev | Kompaniiülem ja instruktor. Sõdurioskuste kursuse (SOK) planeerimine, läbiviimine ja hindamine |
 | **2022** | USA Army Ranger School | Klass 07-22 — juhtimine surve all, meeskonnatöö, vastupidavus |
-| **2023–…** | Combat Ready OÜ | Juhtimisinstruktor ja koolitaja. FTX, lahingmatkad, juhtimisprogrammid |
+| **2023–2026** | Combat Ready OÜ | Juhtimisinstruktor ja koolitaja (lõpetatud 2026). FTX, lahingmatkad, juhtimisprogrammid |
 
 ---
 

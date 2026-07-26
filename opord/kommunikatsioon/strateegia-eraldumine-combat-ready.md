@@ -26,6 +26,27 @@ Kui Renee ütles Remole „lahkun — mida sa tahad, et ma teen?" ja tunnistas tema s
 
 **Ultimatum 3–4 päeva:** ära võta seda isiklikult. Võta seda kui **kiirendust**, mida sa niikuinii tahtsid. Vasta 24h jooksul, mitte nelja päeva pärast — nii jäävad mõlemale au ja kontroll.
 
+### Remo vastus pärast „lahkun" (26.07 õhtu) — **mõistlik, koostöö**
+
+Remo ei survestanud edasi. Ta ütles sisuliselt:
+
+| Mida ta palub | Mida see tähendab |
+|---------------|-------------------|
+| Võta maha, et sa **ei tööta hetkel** / **ei ole CR instruktor** | CR veeb, db/dashboard, bannerid — kõik, kus sind CR meeskonnana näidatakse |
+| Plaan edasi: **sinu bränd**, podcast, uus missioon | Path B kinnitatud — ta aitab *eristada*, mitte blokeerida |
+| Podcasti osa: selgitame olukorda, tutvustame sinu plaani | **Kuldne sild** — ühine narratiiv, mitte avalik tüli |
+| Uued kursused, Ranger handbookid jms | Sisu võib jääda — aga **CR lipu all mitte** |
+
+> *See on hea tulemus. Ta ei võidelnud. Ta andis sulle kontrolli oma kanalil ja pakkus abi brändi loomisel.*
+
+**Sinu kohe tegevused (täna–homme):**
+
+1. CR **db/dashboard** — eemalda või deaktiveeri instruktori staatus
+2. CR **veeb / meeskonna leht** — palu Remol või Priidul eemaldada profiil (või märgi „endine")
+3. **Sotsiaalmeedia bio** — eemalda „Combat Ready instruktor"
+4. **OPORD / materjalid** — uuenda „endine CR (2023–2026)", mitte aktiivne roll
+5. Vasta Remole: nõustun, teen ära, podcast — jah, kui ajakava sobib
+
 ---
 
 ## 1. Remo sõnumi tuum (faktid)
@@ -156,6 +177,10 @@ Remo kirjutab **struktureeritult** (numbrid, kokkuvõte, järgmine samm) — see on 
 > Remo — tänan kokkuvõtte eest. **Otsus on tehtud: Path B.** Peegel jääb minu kanalile, CR-l sellega seost ei ole. Sa olid õigel — CR = vastutus, minu töö = teine asi (keha, pere, trauma). **28.07** avalik lause + esimene puhastus; **31.07** täielik kontroll. Aitan FAQ-ga, et kõned ei tuleks sinule. Aitäh aususe eest.
 
 *Sa ei pea ootama 3–4 päeva. Ultimatum on tema stress, mitte sinu tähtaeg. Vasta 24h jooksul — selgelt, ilma vaidluseta.*
+
+### Vastus Remo koostööpakkumisele (pärast tema „võta maha" sõnumit)
+
+> Remo — mõistlik ja aus. **Teen ära:** võtan CR-st maha (db, bannerid, kõik kus näen). **Path B kinnitatud.** Podcast — jah, hea mõte; paneme paika, kui puhastus tehtud. Uus missioon: Operatsioon Peegel / kodanikualgatus — trauma enne vastutust. Aitäh, et aitad brändi eristada, mitte blokeerida.
 
 ---
 

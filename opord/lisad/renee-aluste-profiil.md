@@ -67,8 +67,8 @@ Täielik sõnastus OPORD-is: sektsioon **„MIKS RENEE?"**
 |---------|-----------|
 | **Ametinimetus** | Operatsiooni koordinaator, rahva tase |
 | **Eesmärk** | Koordineerida mitmetasandilist vastutegevust psühholoogilisele mõjutamisele; ühendada võrgustik, sõnum ja tegevus |
-| **Põhiülesanded** | Sõnumite koordineerimine; Combat Ready koolituste korraldamine võrgustikule; isiklike lugude jagamine; tagasiside kogumine |
-| **Juhtimiskett** | Renee Aluste → Remo Ojaste (Combat Ready) → võrgustiku liikmed → iga kodanik iseenda juht |
+| **Põhiülesanded** | Sõnumite koordineerimine; isiklike lugude jagamine; tagasiside kogumine; kodanikualgatuse levitamine |
+| **Juhtimiskett** | Renee Aluste → võrgustiku liikmed → iga kodanik iseenda juht |
 
 ---
 
@@ -76,7 +76,7 @@ Täielik sõnastus OPORD-is: sektsioon **„MIKS RENEE?"**
 
 ### Sõjaline ja riigikaitse
 
-- **Combat Ready** instruktor — juhtimiskoolitused ettevõtetele, meeskondadele ja kogukondadele.
+- **Endine Combat Ready instruktor** (2023–2026) — juhtimiskoolitused ettevõtetele, meeskondadele ja kogukondadele. Operatsioon „Peegel" ei ole CR toode.
 - **Kaitseliidu juhtimisinstruktor** — praktiline juhtimine tsiviilkanalil.
 - **Endine erioperatsioonide grupi operaator** — Eesti erivägede kogemus.
 - **USA Army Ranger School** — üks vähestest eestlastest, kes on selle kooli läbinud.

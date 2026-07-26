@@ -152,9 +152,9 @@ Need failid on mõeldud lisamiseks Operatsioon „Peegel" lahingukäsu juurde ku
 
 ## Kontakt ja võrgustik
 
-Operatsiooni koordinaator: **Renee Aluste** (Combat Ready instruktor, Kaitseliidu juhtimisinstruktor). Ma ei oota kirju — ma küsin sulle vastu: mida sa ise teed?
+Operatsiooni koordinaator: **Renee Aluste** (Kaitseliidu juhtimisinstruktor). Ma ei oota kirju — ma küsin sulle vastu: mida sa ise teed?
 
-Täiendavad kanalid OPORD-is: Combat Ready, Katrin Lucase „Ava oma Silmad" taskuhääling, Kaitseväe Akadeemia juhtimiskultuur.
+Täiendavad kanalid OPORD-is: Katrin Lucase „Ava oma Silmad" taskuhääling, Kaitseväe Akadeemia juhtimiskultuur. *(Combat Ready — eraldi kanal; vt [strateegia-eraldumine-combat-ready.md](../kommunikatsioon/strateegia-eraldumine-combat-ready.md).)*
 
 ---
 

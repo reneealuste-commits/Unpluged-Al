@@ -2343,7 +2343,7 @@ Steiger ei paku väljamõeldud mudeleid. Ta kirjeldab igapäevast juhtimist, kus
 
 **K: Mis on Muski algoritm ja miks ministeeriumid peavad seda teadma?**
 
-**V:** Elon Muski viieastmeline protsess on lihtne: (1) küsi nõudeid — kes pani reegli ja miks; (2) kustuta — eemalda üleliigne; (3) lihtsusta ja optimeeri; (4) kiirenda tsüklit; (5) automatiseeri — alles viimasena. Enamik riike teeb vastupidi: ostavad IT-d, et päästa halba protsessi. Operatsioon „Peegel" ütleb: infosõda võidetakse ka bürokraatia lihtsustamisega. Kui kodanik on väsinud vormidest ja ootamisest, kasvab lootetus — ja see on vastase võit. Täielikud juhised TAI-le ja kõigile ministeeriumidele on **Lisa L**.
+**V:** Elon Muski viieastmeline protsess on lihtne: (1) küsi nõudeid — kes pani reegli ja miks; (2) kustuta — eemalda üleliigne; (3) lihtsusta ja optimeeri; (4) kiirenda tsüklit; (5) automatiseeri — alles viimasena. Enamik riike teeb vastupidi: ostavad IT-d, et päästa halba protsessi. Operatsioon „Peegel" ütleb: infosõda võidetakse ka bürokraatia lihtsustamisega. Kui kodanik on väsinud vormidest ja ootamisest, kasvab lootetus — ja see on vastase võit. Täielikud juhised TAI-le ja kõigile ministeeriumidele on **Lisa L**. Valikuline kontekst (tasuta): [Musk — The Economist intervjuu, 23.07.2026](https://www.youtube.com/watch?v=8TjK-s0468w) — vaata kriitiliselt, ära usu poliitilist müra.
 
 *Minu küsimus sulle: Millise ühe asja sa riigilt ootad — ja kas see peaks olema lihtsam?*
 ---

@@ -260,7 +260,7 @@ See ei ole passiivsus. See on:
 
 > **„Me ei ole isegi Tsivilisatsioon 1. Aga tuli põleb — energia, raketid, side, AI on ehitamisel. Tee täna oma pere. Usalda, et suur pilt liigub. Hang on."**
 
-**Edasi lugemine (valikuline):** Muski Master Plan III (Tesla blog); Kardashev (1964); Lisa L; Lisa Z.
+**Edasi lugemine (valikuline, tasuta):** Muski Master Plan III (Tesla blog); Kardashev (1964); Lisa L; Lisa Z. **YouTube:** [Musk — The Economist intervjuu, 23.07.2026](https://www.youtube.com/watch?v=8TjK-s0468w) — suur pilt (AI, energia, riik); vaata kriitiliselt.
 
 ---
 

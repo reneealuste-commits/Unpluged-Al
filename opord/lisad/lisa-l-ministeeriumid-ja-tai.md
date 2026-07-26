@@ -4,6 +4,8 @@
 **Eesmärk:** Juhtimisjuhised kõigile Eesti Vabariigi ministeeriumidele ja Tervise Arengu Instituudile (TAI) — protsesside ümberkorraldamine infosõja ja ühiskondliku kurnatuse vastu.  
 **Raamistik:** Elon Muski viieastmeline algoritm, kohandatud avaliku sektori ja tervishoiu kontekstiks.
 
+**Valikuline meedia (tasuta):** [Elon Musk — The Economist intervjuu, 23.07.2026](https://www.youtube.com/watch?v=8TjK-s0468w) (~90 min) — riigi lihtsustamine, AI, protsessid. **Kriitiline vaatamine:** ära usu ühte inimest; võta Lisa L viie sammu loogika, mitte poliitiline müra.
+
 > *„Kui sa ei ole sunnitud midagi lisama, ära lisa. Kui sa ei ole sunnitud midagi tegema, ära tee. Ja viimane samm — alles siis automatiseeri."*  
 > — Muski algoritm, kohandatud Operatsioonile „Peegel"
 

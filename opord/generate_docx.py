@@ -71,6 +71,15 @@ LISA_FILES = [
 ]
 
 
+def read_text_file(path: Path) -> str:
+    for encoding in ("utf-8", "utf-8-sig", "cp1252", "latin-1"):
+        try:
+            return path.read_text(encoding=encoding)
+        except UnicodeDecodeError:
+            continue
+    return path.read_text(encoding="utf-8", errors="replace")
+
+
 def build_combined_markdown() -> str:
     parts = [
         "---\n",
@@ -79,7 +88,7 @@ def build_combined_markdown() -> str:
         "lang: et-EE\n",
         "---\n\n",
     ]
-    parts.append(MD_FILE.read_text(encoding="utf-8"))
+    parts.append(read_text_file(MD_FILE))
     parts.append("\n\n\\newpage\n\n# LISAD\n\n")
 
     for name in LISA_FILES:
@@ -88,7 +97,7 @@ def build_combined_markdown() -> str:
             print(f"Warning: missing {path}", file=sys.stderr)
             continue
         parts.append(f"\n\n\\newpage\n\n")
-        parts.append(path.read_text(encoding="utf-8"))
+        parts.append(read_text_file(path))
 
     return "".join(parts)
 

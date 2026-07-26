@@ -230,7 +230,7 @@ Renee vaatas terve esitluse — **algusest lõpuni põnev**, sest Epp on **siira
 - Lähedal **enesetapu ääre**
 - **Pööre:** hakkas käituma teisiti — mõtleb, kuidas **tema keha** tunneb ja elab
 - Kõnnib **paljajalu** — ei ela enam teiste hinnangu järgi
-- Täna: siiras, avatud, aitab teisi (yoni koolitused, Lisa AA)
+- Täna: siiras, avatud, aitab teisi (Lisa AA, teadlik intiimsus)
 
 **Renee tunnistus:** *ma tunnen seda teed — Lisa H. Enese vastu vägivald, depressioon, alkohol. Epp näitas, et **välja on võimalik tulla** — mitte häbiga, vaid keha ja aususega.*
 

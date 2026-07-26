@@ -7,7 +7,7 @@
 **Operatsiooni tase:** Strateegiline–taktikaline (mitmetasandiline)  
 **Viide:** Maakaitse käsiraamatu viiepunktiline OPORD-formaat (opiq.ee)
 
-**Allalaadimine (DOCX — Google Docs):** [OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx) — OPORD + kõik lisad ühes failis  
+**Allalaadimine (DOCX — Google Docs):** [OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/eemalda-ostusoovitused-9622/opord/OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx) — OPORD + kõik lisad ühes failis  
 **Allalaadimine (PDF):** [github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_OPORD.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_OPORD.pdf)  
 **K0 TUUM (soovitatav esimene):** [PEEGEL_TUUM.pdf](PEEGEL_TUUM.pdf) · [markdown](PEEGEL_TUUM.md)  
 **Sidepakkide ZIP:** [Operatsioon-Peegel-sidepakkid.zip](Operatsioon-Peegel-sidepakkid.zip) — P0–P3 paketid (Lisa AQ)  

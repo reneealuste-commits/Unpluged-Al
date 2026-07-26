@@ -20,6 +20,8 @@
 
 **Järeldus:** Me ei „lõika neid ära“, kui eemaldame **volitamata nimesid** eestikeelsest tootest. Aga me **lõikame nad ära**, kui jätame venekeelse **vastuvõtja-orienteeritud** kanali loomata.
 
+**Infohügieen (2026):** kunstlik „sibulaskandaal" ja poliitiline solvumise õhutamine (Rannarootsi reklaam) näitab, miks venekeelne kanal peab olema **trauma-teadlik ja inimesekeskne** — mitte uus kultuurisõda. Vastus / kommentaar: `kommunikatsioon/vastus-leedokas-rannarootsi-sibulaskandaal.md`.
+
 ---
 
 ## 2. Heli piir on õigus — ja see on kitsas

@@ -4,8 +4,23 @@
 > **Loe seda kui:** tahad aru saada, miks OPORD ei räägi ainult ühe riigi üle. 
 > **Ära loe kui:** otsid kinnitust rassilisele või usulisele süüdistusele — seda siin ei ole.
 
-**Operatsioon „Peegel"** | Vastase analüüsi täiendus | **Kuupäev:** 25. juuli 2026 
-**Seotud:** OPORD §1a, Lisa T (demograafia), raamat A (algoritmid), Lisa P (vandenõud), Lisa S (grupikäitumine)
+**Operatsioon „Peegel"** | Vastase analüüsi täiendus | **Kuupäev:** 25. juuli 2026 (uuendatud **27. juuli 2026**) 
+**Seotud:** OPORD § VIIMANE VASTASE INFO, Lisa T (demograafia), raamat A (algoritmid), Lisa P (vandenõud), Lisa S (grupikäitumine)
+
+---
+
+## Viimane vastase info — juuli 2026 (OPORD algus)
+
+**Allikas:** [Facebook — Oleg Ivanov](https://www.facebook.com/share/v/1c64qFKiyv/) · *Meie Eesti Meie Omandit* / Eesti alternatiivmeedia · eesti subtiitrid
+
+| Narratiiv | Mehhanism | Peegli vastus |
+|-----------|-----------|---------------|
+| Eesti „määratud" Venemaa hävitamisele | Hirm, demoraliseerimine | Lisa T — faktiline kontekst |
+| Liitlased sõdivad vasallriikide kätega | Usalduse nõrgestamine NATO vastu | Lisa AU §1.1 — RU infosõda |
+| COVID → sõda („süstla otsa") | Kriiside ühendamine vandenõuks | Raamat A — ära usu esimest narratiivi |
+| Baltikum järgmine sõjakoldeks | Ellujäämisrežiim, paanika | Lisa P — turvalisus, ära feedi hirmu |
+
+> *Täielik analüüs OPORD alguses: **§ VIIMANE VASTASE INFO** (27.07.2026).*
 
 ---
 
@@ -183,4 +198,4 @@ Aga kui analüüs viib **rahvuse või usuni** — see on **vale tee**. See on in
 
 ---
 
-*Lisa AU — Operatsioon „Peegel". Vastase analüüsi täiendus. 25. juuli 2026.*
+*Lisa AU — Operatsioon „Peegel". Vastase analüüsi täiendus. Uuendatud 27. juuli 2026.*

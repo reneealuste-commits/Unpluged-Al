@@ -24,6 +24,42 @@
 **Meedia keel:** eesti keel primaarselt — [`soovitus-meedia-eesti-primaar.md`](kommunikatsioon/soovitus-meedia-eesti-primaar.md) 
 **Repo / PR:** [github.com/reneealuste-commits/Unpluged-Al/pull/1](https://github.com/reneealuste-commits/Unpluged-Al/pull/1)
 
+---
+
+## VIIMANE VASTASE INFO — 27. juuli 2026
+
+> *Ranger Handbook kasutab sõjaväes terminit **vastase analüüs**. Me **ei kasuta** seda inimeste kohta — vaid **narratiive ja mehhanisme**, mis levivad meie ühiskonnas. Täielik mudel: **Lisa AU** · **Lisa T**.*
+
+**Allikas:** [Facebook — Oleg Ivanov: „Eesti on määratud sõjas Venemaa hävitamisele"](https://www.facebook.com/share/v/1c64qFKiyv/) (eesti subtiitrid) · levitaja: *Meie Eesti Meie Omandit* / Eesti alternatiivmeedia (Facebook: `yllarking46`) · **kuupäev:** juuli 2026
+
+### Mida narratiiv väidab (kokkuvõte)
+
+| # | Väide videos |
+|---|--------------|
+| 1 | Liitlased sõdivad Venemaaga **oma vasallriikide kätega**, mitte otse |
+| 2 | Liitlaste plaanide järgi **läheb Eesti hävitamisele** |
+| 3 | Tehakse kõik, et **järgmine sõjakoldeks saab Baltikum** |
+| 4 | „Samad kriminaalid", kes ajasid massid **süstla otsa**, ajavad nüüd riike **Venemaaga sõtta** |
+
+### Operatiivne tõlgendus — miks see on oluline
+
+| Element | Mida see teeb kodanikule | Vektor |
+|---------|--------------------------|--------|
+| **Hirm ja lootusetus** | „Meid kasutatakse ära" — usaldus liitlaste ja riigi vastu nõrgeneb | RU-suunaline infosõda (Lisa AU §1.1) |
+| **COVID → sõda** sild | Ühendab kaks kriisi üheks vandenõuks — vähendab faktilist eristamist | Tuntud desinformatsiooni muster |
+| **„Eesti hävitamisele"** | Mobiliseerib hirmu, mitte vastutust; triggerdab ellujäämisrežiimi | Lisa P — ära feedi paanikat |
+| **Vasallriik** | Demoniseerib demokraatlikku liitlust; ignoreerib NATO art 5 loogikat | Lisa T, kriitiline mõtlemine |
+
+> *See ei tähenda, et kaitse- ja julgeolekuküsimused puuduvad. See tähendab: **selline video ei ole analüüs** — see on **emotsiooniline relv**, mis tabab enne mõistust (Lisa AW, Lisa P).*
+
+### Meie vastus (Peegel) — üks lause
+
+> *Ära usu esimest hirmu. Uuri fakte (Lisa T). Hoia pere (Lisa E). Ära lase algoritmil või võõral narratiivil sind lahutada oma kaaslastest ja kodanikuidentiteedist (Lisa M, raamat A).*
+
+**Järgmine samm lugejale:** raamat **A** (algoritmid) → **Lisa AU** (mitme vektori mudel) → **Lisa I** (inimesekeskne juhtimine — turvalisus enne paanikat).
+
+---
+
 > *Struktuur järgib OPORD-i (viis punkti: olukord, ülesanne, täideviimine, teenindus, juhtimine). Inimestele suunatud nimetus on **paranemis-teekond** — mitte sõjaline käsk. Sõna „käsk" võib triggerdada kaitsepositsiooni (Lisa P, van der Kolk).*
 
 > *„**Paranemine algab sellel hetkel, kui sa mõistad, et sa pole katki olnudki.**" — Renee Aluste*

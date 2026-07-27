@@ -35,8 +35,8 @@ Skeem: [Lisa AQ](lisad/lisa-aq-sidepakkide-jaotus-skeem.md)
 
 | Formaat | Link |
 |---------|------|
-| **DOCX** | [OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx](OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx) |
-| **ZIP — kogu pakett** | [Operatsioon-Peegel-kogu-pakett.zip](Operatsioon-Peegel-kogu-pakett.zip) |
+| **DOCX (Google Docs)** — OPORD + kõik lisad, vormistatud | [Laadi alla OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx) |
+| **ZIP — kogu pakett** | [Operatsioon-Peegel-kogu-pakett.zip](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/Operatsioon-Peegel-kogu-pakett.zip) |
 | **PDF (täielik OPORD)** | [OPERATSIOON_PEEGEL_OPORD.pdf](OPERATSIOON_PEEGEL_OPORD.pdf) |
 | **Markdown** | [OPERATSIOON_PEEGEL_OPORD.md](OPERATSIOON_PEEGEL_OPORD.md) |
 | **Pull request** | [PR #1](https://github.com/reneealuste-commits/Unpluged-Al/pull/1) |

@@ -1,14 +1,17 @@
 #!/usr/bin/env python3
-"""Generate full OPORD + all lisad as a single .docx (Google Docs compatible)."""
+"""Generate full OPORD + all lisad as a single styled .docx."""
 
-import subprocess
+import re
 import sys
 import tempfile
 from pathlib import Path
 
+import pypandoc
+
 BASE = Path(__file__).resolve().parent
 MD_FILE = BASE / "OPERATSIOON_PEEGEL_OPORD.md"
 DOCX_FILE = BASE / "OPERATSIOON_PEEGEL_KOOS_LISADEGA.docx"
+REFERENCE_DOC = BASE / "reference-opord.docx"
 LISAD_DIR = BASE / "lisad"
 
 LISA_FILES = [
@@ -71,15 +74,46 @@ LISA_FILES = [
 ]
 
 
+def sanitize_for_docx(text: str) -> str:
+    """Strip remote images (wikimedia blocks bots) — keep alt text."""
+    text = re.sub(
+        r"!\[([^\]]*)\]\(https?://[^)]+\)",
+        r"*\1*",
+        text,
+    )
+    return text
+
+
+def read_text(path: Path) -> str:
+    raw = path.read_bytes()
+    for enc in ("utf-8", "cp1252", "latin-1"):
+        try:
+            return sanitize_for_docx(raw.decode(enc))
+        except UnicodeDecodeError:
+            continue
+    return sanitize_for_docx(raw.decode("utf-8", errors="replace"))
+
+
 def build_combined_markdown() -> str:
     parts = [
         "---\n",
-        "title: \"Operatsioon Peegel - OPORD koos koigi lisadega\"\n",
+        "title: \"Operatsioon Peegel\"\n",
+        "subtitle: \"OPORD koos koigi lisadega\"\n",
         "author: Renee Aluste\n",
+        "date: 24. juuli 2026\n",
         "lang: et-EE\n",
+        "toc: true\n",
+        "toc-title: Sisukord\n",
+        "numbersections: true\n",
         "---\n\n",
+        "\\newpage\n\n",
+        "# OPERATSIOON PEEGEL\n\n",
+        "**Klassifikatsioon:** Avalik - Eesti rahvale  \n",
+        "**Koordinaator:** Renee Aluste  \n",
+        "**Vorming:** OPORD + koik lisad (A-G, H-BC) uhes dokumendis\n\n",
+        "\\newpage\n\n",
     ]
-    parts.append(MD_FILE.read_text(encoding="utf-8"))
+    parts.append(read_text(MD_FILE))
     parts.append("\n\n\\newpage\n\n# LISAD\n\n")
 
     for name in LISA_FILES:
@@ -87,13 +121,21 @@ def build_combined_markdown() -> str:
         if not path.exists():
             print(f"Warning: missing {path}", file=sys.stderr)
             continue
-        parts.append(f"\n\n\\newpage\n\n")
-        parts.append(path.read_text(encoding="utf-8"))
+        parts.append("\n\n\\newpage\n\n")
+        parts.append(read_text(path))
 
     return "".join(parts)
 
 
 def main() -> None:
+    if not REFERENCE_DOC.exists():
+        import subprocess
+
+        subprocess.run(
+            [sys.executable, str(BASE / "scripts" / "build_reference_docx.py")],
+            check=True,
+        )
+
     combined = build_combined_markdown()
     with tempfile.NamedTemporaryFile(
         mode="w", suffix=".md", encoding="utf-8", delete=False
@@ -101,19 +143,19 @@ def main() -> None:
         tmp.write(combined)
         tmp_path = tmp.name
 
-    cmd = [
-        "pandoc",
-        tmp_path,
-        "-o",
-        str(DOCX_FILE),
-        "--from=markdown",
-        "--to=docx",
+    extra_args = [
         "--toc",
         "--toc-depth=3",
-        "--metadata",
-        "title=Operatsioon Peegel - OPORD koos lisadega",
+        "--number-sections",
+        f"--reference-doc={REFERENCE_DOC}",
     ]
-    subprocess.run(cmd, check=True)
+
+    pypandoc.convert_file(
+        tmp_path,
+        "docx",
+        outputfile=str(DOCX_FILE),
+        extra_args=extra_args,
+    )
     Path(tmp_path).unlink(missing_ok=True)
     size_mb = DOCX_FILE.stat().st_size / (1024 * 1024)
     print(f"Generated: {DOCX_FILE} ({size_mb:.1f} MB)")

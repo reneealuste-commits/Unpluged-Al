@@ -99,7 +99,7 @@ Sa ei pea lugema kõike. Vali **üks tee** oma olukorra jaoks:
 | **C** Pere | Tugevdada kodu ja last | Raamat **A** → **D** → **E** → Lisa **M** |
 | **D** Demomees | SOK, eeskuju kogukonnas | Lisa **N** → **I** → **Q** |
 | **E** Venekeelne | RU kodanik Eestis | `kiht0-ru-tuum-1-leht.md` → Lisa **AN** |
-| **F** Juht / koolitus | KV, kool, organisatsioon | Lisa **I** → **P** → **L** |
+| **F** Juht / koolitus | KV, kool, organisatsioon | Lisa **I** (selgroog) → **P** → **L** |
 
 Täielik SWOT ja lugeja-audit: **Lisa AP**. Auditi skoor (2026-07-25): **8,2/10** — valmis piiratud levituseks (K0 TUUM + tee PDF-id). Skeem: **Lisa AQ**. **Kui kinni jäid:** **Lisa AT**.
 

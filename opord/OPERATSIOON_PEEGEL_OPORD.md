@@ -60,6 +60,80 @@
 
 ---
 
+## STRATEEGILINE HETK — TIT-FOR-TAT, HENDURUS JA AJAPAKKUS (27. juuli 2026)
+
+> *🫡 **Ära usu mind.** See on **strateegiline raamistik**, mitte käsk rünnata. Operatsioon „Peegel" on kodanikualgatus — riigi kaitse ja heidutus on **teiste roll** (Kaitsevägi, NATO, RKIK). Siin kirjeldame **miks** tit-for-tat on pika mängu loogika ja **mida** vastane enda peas arvab.*
+
+### Ajapakutus — meil ei ole lõputult aega
+
+| Märk | Mida see tähendab |
+|------|-------------------|
+| **Soome piiri taga** | Vastane on end **valmis pannud** — positsioonid, logistika, narratiiv; NATO idatiiva surve kasvab |
+| **Eesti sõjatööstus** | Kaitse- ja kaitsetööstus on **üle hüppanud** (RKIK, ettevõtted, investeeringud) — riik reageerib, aga kodanik ei tohi magada |
+| **Infosõda käib juba** | Järgmine lahing on su köögis **enne** tanki — Lisa A, Lisa AU |
+
+> *Aeg ei ole meie poolt. Iga päev ilma valmisolekuta — pere, mõistuse ja ühiskonna tasandil — on päev, mille vastane võidab ilma relvata.*
+
+### Vastase maailmapilt — mida me peame mõistma (mitte karta)
+
+Renee hüpotees vastase **strateegilise narratiivi** kohta:
+
+| Element | Tähendus operatsioonis |
+|---------|------------------------|
+| **Putini elutöö** | Mitte ainult NATO laienemine — **eestlased rahvana** ja **Balti riigid tervikuna** on tema ajaloo-loos „kadunud" osa |
+| **Endine tsaaririik** | Vastane näeb neid maid kui **tagasivõetavat** — mitte võrdseid naabreid laua taga |
+| **Eesti ≠ abstraktne riik** | Sihtmärk on **rahvus ja identiteet** — seetõttu on Lisa M (kodanik), Lisa E (pere) ja Lisa I (juhtimine) kaitse, mitte luksus |
+
+> *Kui sa mõistad, et vastane ei võitle ainult kaardi piiri eest, vaid **sinu olemasolu õiguse** vastu — sa mõistad, miks nõrk pere ja lõhestunud ühiskond on tema võit.*
+
+### Tit-for-tat — ainus pika mängu strateegia
+
+Mänguteooria (Robert Axelrod) ja veteranide jutt OPORD-is ütlevad sama: **tit-for-tat** — *mida külvad, seda lõikad*.
+
+| Põhimõte | Tähendus |
+|----------|----------|
+| **Alusta koostööga** | Ausus, usaldus, inimesekeskne juhtimine (Lisa I) — mitte esimene löögi |
+| **Vasta samaga** | Kui vastane rikub reegleid — **kohene, proportsionaalne** vastus; mitte üle ega alla |
+| **Anna teine võimalus** | Pärast vastust — uuesti koostöö käepärast; nagu veteranide laagris: *„This is my first!"* kuni reegel murdub |
+| **Töötab ainult kui mõlemal on kaotada** | Läbirääkimised laua taga on mõistlikud **ainult siis**, kui vastasel on midagi **kaotada** — mitte ainult võita |
+
+**Riigi tasand (heidutus, mitte Peegli käsk):**
+
+> *Me peame olema valmis vastama **nii valusalt**, et vastane **soovib** tulla ühise laua taha — mitte seetõttu, et me armastame sõda, vaid seetõttu, et **ainult siis** on tehing võimalik, mis mõlemale poolele sobib.*
+
+| Mis see EI ole | Mis see ON |
+|----------------|------------|
+| Kodaniku rünnak | **Riigi** kaitsevägi + liitlased + tööstus — heidutus |
+| Vihakõne | **Arvutuslik** vastukaal: kui võtmine on kallis, jäävad käed laua taga |
+| Nõrkus | Tugev pere + tugev riik + **aus** suhtlus — Steiger + tit-for-tat |
+
+### Kaks tasandit — ära aja segamini
+
+```
+RIIK (Kaitsevägi, NATO, RKIK, sõjatööstus)
+ → heidutus, vastukaal, laua taga tehing kui mõlemal on kaotada
+
+KODANIK (Operatsioon „Peegel")
+ → pere, uni, kriitiline mõtlemine, ei allu paanikanarratiivile (Lisa P, A, M)
+```
+
+**Peegli roll tit-for-tat maailmas:**
+
+| Vastane teeb | Kodanik ei tee | Kodanik teeb |
+|--------------|----------------|--------------|
+| Levitab hirmu (Oleg Ivanov jms) | Ei jaga edasi, ei feedi paanikat | Uurib fakte (Lisa T, AU) |
+| Lõhestab peret (algoritmid) | Ei löö kaasa | Pere aeg, ekraanivaba õhtu (Lisa E) |
+| Nõrgendab usaldust riigi vastu | Ei süüdi ministreid isiklikult | Annab tagasisidet, hoiab kodanikuidentiteeti (Lisa M) |
+| Kasutab trauma vastu | Ei vaidle triggeris | Turvalisus, spordikommentaator (Lisa P) |
+
+### Üks lause
+
+> *Tit-for-tat tähendab: **ära ole lammas ega kiskja** — ole inimene, kes kaitseb oma pere ja riiki **ausalt**, vastab **proportsionaalselt** ja seab laua, kus **mõlemal on midagi kaotada**. Vastane, kes näeb sind ainult tsaaririigi „kadunud provintsi", peab nägema, et provints **maksab tagasivõtmise eest liiga palju** — nii kaitseväes kui kodus.*
+
+**Täiendav analüüs:** Lisa T (valitsus, KPI) · Lisa L (ministeeriumid) · Lisa AU (infosõda) · Elmar Vaher (RKIK) — Lisa K.
+
+---
+
 > *Struktuur järgib OPORD-i (viis punkti: olukord, ülesanne, täideviimine, teenindus, juhtimine). Inimestele suunatud nimetus on **paranemis-teekond** — mitte sõjaline käsk. Sõna „käsk" võib triggerdada kaitsepositsiooni (Lisa P, van der Kolk).*
 
 > *„**Paranemine algab sellel hetkel, kui sa mõistad, et sa pole katki olnudki.**" — Renee Aluste*

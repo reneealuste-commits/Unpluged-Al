@@ -22,6 +22,18 @@
 
 > *Täielik analüüs OPORD alguses: **§ VIIMANE VASTASE INFO** (27.07.2026).*
 
+### Tit-for-tat ja heidutus (27.07.2026)
+
+| Teema | OPORD tõlge |
+|-------|-------------|
+| Ajapakutus (Soome piir, sõjatööstus) | Valmisolek — riik + kodanik eraldi |
+| Putini narratiiv (tsaaririik, Balti tagasivõtt) | Sihtmärk on rahvus ja identiteet — Lisa M, E |
+| Tit-for-tat ainus pika mängus | Mida külvad, seda lõikad — vastus proportsionaalne |
+| Laua taga tehing | Töötab kui mõlemal on kaotada — heidutus, mitte nõrkus |
+| Peegli roll | Ei feedi hirmu; hoiab pere ja mõistuse |
+
+> *OPORD § STRATEEGILINE HETK — TIT-FOR-TAT.*
+
 ---
 
 ## Põhireegel enne analüüsi
@@ -198,4 +210,4 @@ Aga kui analüüs viib **rahvuse või usuni** — see on **vale tee**. See on in
 
 ---
 
-*Lisa AU — Operatsioon „Peegel". Vastase analüüsi täiendus. Uuendatud 27. juuli 2026.*
+*Lisa AU — Operatsioon „Peegel". Vastase analüüsi täiendus. Uuendatud 27. juuli 2026 (tit-for-tat, heidutus).*

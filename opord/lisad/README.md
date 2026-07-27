@@ -40,7 +40,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | AD | [lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md](lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md) | **Lood ja konversioon** — 7-sammu checklist, taskukaardid, mida öelda kui keegi vastu hakkab |
 | AE | [lisa-ae-ohk-liikumine-ja-kiitus.md](lisa-ae-ohk-liikumine-ja-kiitus.md) | **Õhk, liikumine, olukorra teadlikkus** — treening, enesega kontakt |
 | AF | [lisa-af-meeste-erektsioon-ja-rela-hooldus.md](lisa-af-meeste-erektsioon-ja-rela-hooldus.md) | **Meeste erektsioon** — füsioloogia, Sterling Cooper, „relva puhastamine" SOP |
-| AG | [lisa-ag-rollid-partnerlus-ja-nl-skeem.md](lisa-ag-rollid-partnerlus-ja-nl-skeem.md) | **Rollid ja NL-skeem** — mehe roll, naise juhised, tunnustamine |
+| AG | [lisa-ag-rollid-partnerlus-ja-nl-skeem.md](lisa-ag-rollid-partnerlus-ja-nl-skeem.md) | **Rollid ja NL-skeem** — mehe roll, naise juhised, Taraban, Cooper/Almaguer |
 | AH | [lisa-ah-leelo-vahersalu-taust.md](lisa-ah-leelo-vahersalu-taust.md) | **Leelo Vahersalu** — puutöö klient, presidendi tunnustus, noorte vaimne tervis |
 | AI | [lisa-ai-epp-karsin-armastus-paabstab-maailma.md](lisa-ai-epp-karsin-armastus-paabstab-maailma.md) | **Armastus päästab maailma** — Epp Kärsin, tankla hetk, avalik postitus |
 | AJ | [lisa-aj-levitamine-ja-kuldne-taganemistee.md](lisa-aj-levitamine-ja-kuldne-taganemistee.md) | **Levitamine** — kontrollitud lugemine, kuldne taganemistee, lugemiskinnitus, kuller + vahapitsat |
@@ -106,7 +106,7 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 
 **Meestele — erektsioon (kohustuslik teadmine):** Lisa AF — kuidas erektsioon töötab, Sterling Cooper / krooniline dis-ease, **„puhasta relva"** hügieeni ja eluviisi SOP; koos Lisa AA ja Lisa AC.
 
-**Rollid, juhised, NL-skeem (partnerlus):** Lisa AG — mehe roll, naise juhised, **meeste SOP** (uks, kotid, kohting), **kapteni metafoor**, **Orion Taraban** *The Value of Others* (2024).
+**Rollid, juhised, NL-skeem (partnerlus):** Lisa AG — mehe roll, naise juhised, **meeste SOP** (uks, kotid, kohting), **kapteni metafoor**, **Orion Taraban** *The Value of Others* (2024), **Rich Cooper / Monica Almaguer** podcast (hypergamy, frame, vetting).
 
 **Kanep, ECS, CBD ja toit (mitte suitsetamine):** Lisa Y — endokannabinoidsüsteem, CBD tooted, kanepiseemneõli, case study'd, varimajandus; kriitiline mõtlemine — ära usu, uuri ise.
 

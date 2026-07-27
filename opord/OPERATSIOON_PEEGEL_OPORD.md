@@ -109,7 +109,7 @@ Täielik juhend: **Lisa P § KRIITILINE REEGEL** · Lisa S (miks) · Lisa H (kri
 | **Lisa P** | **KRIITILINE trauma-reegel** — teistsugune reaalsus, koera metafoor, Cooper, ära feedi haukumist |
 | **Lisa AA** | *Intiimsuse atlas*, orgasmid, vibraatori ajalugu, **Epp Kärsin** yoni koolitus |
 | **Lisa AF** | **Meestele:** erektsioon — kuidas töötab, Sterling Cooper / dis-ease, „relva puhastamine" SOP |
-| **Lisa AG** + **Orion Taraban** — *The Value of Others* (2024) | **Kapten ja laev** — mehe SOP (uks, kotid, kohting), realistlik partnerlus; ISBN 979-8990069510 |
+| **Lisa AG** + **Orion Taraban** — *The Value of Others* (2024) + **Cooper / Almaguer** (podcast 2025) | **Kapten ja laev** — mehe SOP (uks, kotid, kohting), hypergamy, frame, dead bedroom, vetting; ISBN 979-8990069510 |
 | **Lisa AB** | **Paljajalu linnas** + **rippumine 90 sek/päev** — Vanja Moves, schoolofmobility.com |
 
 Täiendab **Epp Kärsin** teadlikku intiimsust — **pane end kirja:** [eppkarsin.com](https://www.eppkarsin.com) · yoni koolitus naistele ja meestele · Paldiski mnt 21-1, Tallinn · **5362 8568**
@@ -1376,7 +1376,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 - **Magamistuba, võim ja revolutsioon:** Lisa AC — `lisad/lisa-ac-magamistuba-voim-ja-revolutsioon.md` (naised ei ole kurjad; mehe ownership; näita teed — Epp, Intiimsuse atlas)
 - **Lood, konversiooni checklist, taskukaardid:** Lisa AD — `lisad/lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md` (7 sammu, prinditav checklist, mida öelda kui keegi vastu hakkab)
 - **Meeste erektsioon ja relva hooldus:** Lisa AF — `lisad/lisa-af-meeste-erektsioon-ja-rela-hooldus.md` (füsioloogia, dis-ease, hügieen, uni, stress)
-- **Rollid, juhised, kapten, Taraban:** Lisa AG — `lisad/lisa-ag-rollid-partnerlus-ja-nl-skeem.md` (mehe SOP, kapteni metafoor, Orion Taraban *The Value of Others*, NL-skeem)
+- **Rollid, juhised, kapten, Taraban, Cooper:** Lisa AG — `lisad/lisa-ag-rollid-partnerlus-ja-nl-skeem.md` (mehe SOP, kapteni metafoor, Orion Taraban *The Value of Others*, Cooper/Almaguer podcast, NL-skeem)
 - **Õhk, liikumine, olukorra teadlikkus (treening):** Lisa AE — `lisad/lisa-ae-ohk-liikumine-ja-kiitus.md` (niiskus korteris, rippumine, **olukorra teadlikkuse treening** — enesega kontakt; blokk 0: omamine)
 - **Koordinaatori profiil:** `lisad/renee-aluste-profiil.md` (eraldi leht)
 - **Tugeva Isa seeria:** `lisad/raamat-01` … `raamat-07` (vt Lisa A–G)
@@ -1927,7 +1927,7 @@ Ausalt: see meenutab **Nõukogude Liidu pere-skeemi** — rollid selged, mees ja
 
 > *Võib-olla on see **hetkel parim lahendus** — sest Eestis on NL jäljed alles ja „kõik on vabad" ei tähenda, et keegi vastutab.*
 
-**Lisa AG** — täielik tabel: mida tunnustame mehel ja naisel, meeste SOP (uks, kotid, kohting), **kapteni metafoor**, Taraban.
+**Lisa AG** — täielik tabel: mida tunnustame mehel ja naisel, meeste SOP (uks, kotid, kohting), **kapteni metafoor**, Taraban, **Cooper / Almaguer** (hypergamy, frame, hooldus).
 
 *Minu küsimus sulle: Kas teie peres on rollid **selged** — või kõik ootavad, et teine arvab?*
 
@@ -1946,9 +1946,27 @@ Ausalt: see meenutab **Nõukogude Liidu pere-skeemi** — rollid selged, mees ja
 | **Mässamine** — rooli ei keerata tagasi | Naine võib võtta üle, nähes karpi |
 | Sihtkoht | Naine otsustab: järgmine etapp **selle kapteniga** või uus reis |
 
-Kaptenid karastatakse **tormisel merel**. Loe Taraban — ole realist. **Lisa AG §2b–2c.**
+Kaptenid karastatakse **tormisel merel**. Loe Taraban — ole realist. Kuula Cooperit (§2d) — hoolda tõmmet. **Lisa AG §2b–2d.**
 
 *Minu küsimus sulle: Kas sa täna juhid rooli — või ootad, et keegi teine karile ei sõidaks?*
+
+---
+
+**K: Mis on hypergamy, frame ja dead bedroom — ja miks Cooper OPORD-is?**
+
+**V (Renee Aluste):** **Rich Cooper** (podcast Monica Almagueriga, [youtu.be/XEEVCzYq8Y8](https://youtu.be/XEEVCzYq8Y8)) täiendab Tarabanit **pikaajalise tõmbe** realismiga:
+
+| Mõiste | Tähendus |
+|--------|----------|
+| **Hypergamy** | Partner valib **väärtuse** — kapten peab laeva hooldama ka pärast pulmi |
+| **Frame** | Selged piirid ja ühtne esikülg — kaitse, mitte tiran |
+| **Dead bedroom** | Intiimsus vajab **hooldust** — Lisa AC, AF, AA |
+| **Vetting** | 21 punast lippu **enne** pikaajalist lepingut |
+| **Level up** | Töö, keha, missioon — jää parima valikuna |
+
+> *See ei ole naistevihkamine. See on **kapteni töö** koos Lisa P trauma-reegliga. **Lisa AG §2d.***
+
+*Minu küsimus sulle: Kas sa hooldad laeva — või ootad, et abielu ise hoiaks?*
 
 ---
 
@@ -2561,7 +2579,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **AD** | — | `lisad/lisa-ad-lood-konversiooni-checklist-ja-taskukaardid.md` | **Lood ja konversioon** — 7-sammu checklist, taskukaardid, mida öelda kui keegi vastu hakkab |
 | **AE** | — | `lisad/lisa-ae-ohk-liikumine-ja-kiitus.md` | **Õhk, liikumine, olukorra teadlikkus** — treening, enesega kontakt |
 | **AF** | — | `lisad/lisa-af-meeste-erektsioon-ja-rela-hooldus.md` | **Meeste erektsioon** — füsioloogia, Sterling Cooper, relva hooldus SOP |
-| **AG** | — | `lisad/lisa-ag-rollid-partnerlus-ja-nl-skeem.md` | **Rollid, kapten, Taraban** — mehe SOP, NL-skeem, *The Value of Others* |
+| **AG** | — | `lisad/lisa-ag-rollid-partnerlus-ja-nl-skeem.md` | **Rollid, kapten, Taraban, Cooper** — mehe SOP, NL-skeem, hypergamy, frame, vetting |
 | **AH** | — | `lisad/lisa-ah-leelo-vahersalu-taust.md` | **Leelo Vahersalu** — puutöö klient, presidendi tunnustus, PERH Paldiski mnt 52, noorte vaimne tervis |
 | **AI** | — | `lisad/lisa-ai-epp-karsin-armastus-paabstab-maailma.md` | **Armastus päästab maailma** — Epp Kärsin kaart tanklas; avalik postitus |
 | **AJ** | — | `lisad/lisa-aj-levitamine-ja-kuldne-taganemistee.md` | **Levitamine** — kontrollitud lugemine, kuldne taganemistee, lugemiskinnitus, kuller + vahapitsat |

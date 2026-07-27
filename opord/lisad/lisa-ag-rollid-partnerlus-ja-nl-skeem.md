@@ -4,7 +4,9 @@
 
 **Kohustuslik (meestele ja partnerlusele):** Orion Taraban — *The Value of Others* (2024, PsycHacks, ISBN 979-8990069510) — kapten/reisija, realistlik suhtemudel.
 
-**Seotud:** Lisa AC (ownership, magamistuba), Lisa Z (tööstus vs partnerlus), Lisa E (pere rindejoon), Lisa AA (intiimsus), Lisa AE (olukorra teadlikkus), Lisa W (austus), Lisa I (Steiger), Lisa P (trauma)
+**Soovitatav täiendus:** Monica Almaguer — *Modern Marriage with Monica*, episood Rich Cooperiga (mai 2025, ~48 min) — hypergamy, frame, dead bedroom, vetting; [YouTube](https://youtu.be/XEEVCzYq8Y8). Rich Cooper — *The Unplugged Alpha* (2. väljaanne).
+
+**Seotud:** Lisa AC (ownership, magamistuba), Lisa Z (tööstus vs partnerlus), Lisa E (pere rindejoon), Lisa AA (intiimsus), Lisa AE (olukorra teadlikkus), Lisa W (austus), Lisa I (Steiger), Lisa P (trauma), Lisa AF (erektsioon, hooldus)
 
 > *🫡 **Ära usu mind. Kaitse eelkõige oma uskumusi ja veendumusi.** Uuri. Kaalu. Vali ise.*
 
@@ -67,7 +69,7 @@
 | **Toitja / teenija** | Vii raha ja turvalisus koju — töö, ettevõtlus (Lisa Z) |
 | **Suuna näitaja** | Näita teed — Intiimsuse atlas, Epp, uni, liikumine (Lisa AC, AA) |
 | **Ownership** | „See on minu vastutus" — mitte süüdistus naist |
-| **Kaitseja** | Cooper — ole teadlik; kaitse peret, ära domineeri (Lisa P) |
+| **Kaitseja** | Jeff Cooper — ole teadlik; kaitse peret, ära domineeri (Lisa P) |
 | **Isa** | Eeskuju lastele — kohal, mitte ainult nädalavahetusel (Lisa H, E) |
 | **Partner** | Üks laev — mitte võistlus magamistoas (Lisa AC, Z) |
 
@@ -206,6 +208,126 @@ Kui **suund on paigas** ja **oskus kohaneda** teekonnal on olemas:
 
 ---
 
+## 2d. Rich Cooper ja Monica Almaguer — pikaajaline tõmme (realism)
+
+> *🫡 **Ära usu mind.** See ei ole manosphere'i käsiraamat. See on **realistlik täiendus** Tarabanile — koos Lisa AC (magamistuba), Lisa P (trauma) ja Lisa AE (piirid ilma omamiseta).*
+
+### Allikas
+
+| | |
+|---|---|
+| **Podcast** | Monica Almaguer — *Modern Marriage with Monica*, „Relationship Expert Reveals What Actually WORKS to Keep Women Attracted Long Term" (mai 2025, ~48 min) |
+| **Video** | [youtu.be/XEEVCzYq8Y8](https://youtu.be/XEEVCzYq8Y8) |
+| **Külaline** | Rich Cooper — *Entrepreneurs in Cars*, *The Unplugged Alpha* (2. väljaanne, richcooper.ca) |
+| **Kontekst** | Monica otsis **konkreetseid** abielunippe (mitte „suhtle rohkem"); Cooper toob **mehe perspektiivi** — statistika, piirid, hooldus |
+
+**Märkus:** Rich Cooper ≠ Jeff Cooper (Lisa P teadlikkus). Esimene räägib **pikaajalisest tõmbest ja piiridest**; teine **isiklikust kaitsest ja trauma reageerimisest**.
+
+### Miks see käib Lisa AG-ga kokku
+
+| Cooperi teema | Taraban | Operatsiooni tõlge |
+|---------------|---------|-------------------|
+| **Hypergamy** | Turu reaalsus — reisija valib | Kapten peab **jääma väärt** — mitte „kord valitud, igavesti kindel" |
+| **Frame** | Kapten juhib laeva | Mehe SOP + **selged piirid** — ilma tiraniks |
+| **Level up** | Väärtuse hoidmine | Tööta, õpi, ole kohal — §2, §2b |
+| **Dead bedroom** | Maintenance ei lõpe | Lisa AC, AA, AF — hooldus, mitte süüdistus |
+| **Vetting** | Enne pardale minekut | 21 punast lippu **enne** pikaajalist lepingut |
+| **Prenup / kaitse** | Aus ökonoomika | Õiguslik realism — mitte usaldamatus |
+
+> *Cooper ütleb kõva tõde: ~50% abielud lõpevad; pärast ~8 aastat langeb „marital bliss". See ei ole põhjus mitte abielluda — see on põhjus **hooldada laeva**, mitte lasta kaptenil unustada rooli.*
+
+### Hypergamy — ilma naistevihata
+
+**Hypergamy** tähendab siin: inimene (eriti naise kontekstis, mida Cooper rõhutab) kaldub hoidma või otsima partnerit, kelle **väärtus** (turvalisus, suund, stabiilsus, atraktiivsus) tundub **piisav** — ja võib võrrelda teistega, eriti sotsiaalmeedia ajastul.
+
+| Mis see EI OLE | Mis see ON |
+|----------------|------------|
+| „Naised on pahad" | **Inimloomus** — valik ja võrdlus |
+| Põhjus partnerit alandada | Põhjus **end** arendada |
+| Vabandus kontrolliks | Põhjus **kaptenina** püsida |
+
+**Operatsiooni reegel:** hypergamy töötab **sinu kasuks**, kui sa **ei lõpeta level up'i** pärast pulmi. Kapten, kes lõpetab laeva hoolduse, ei imesta, miks reisija vaatab teisi sadamaid.
+
+### Frame — piirid ja ühtne esikülg
+
+**Frame** = suhte **raamistik**: kes juhib, millised piirid on, mis on vastuvõetamatu.
+
+| Cooperi näide | Operatsiooni tõlge |
+|---------------|-------------------|
+| Avalikult **ühtne esikülg** — kriitika privaatselt | Partnerlus, mitte avalik alandamine (Lisa Q) |
+| Selged piirid (nt intiimne puudutus teistelt meestelt) | **Kaitse**, mitte armukadedus-teater |
+| Naine **ei õpeta** sind frame'i hoidma — ta **vaatab**, kas sa saad aru | Kapteni test — mitte naise „ülesanne sind kasvatada" |
+| Kõik teeb, mida naine ütleb → **kaotad tõmbe** | Mehe SOP ei ole **alumine** — see on **teeniv juhtimine** |
+
+> *Frame ei ole kärkimine. Frame on **selgus**: „Nii me kodus ei ela." Koos Lisa AE blokk 0: kaitse ilma omamiseta.*
+
+### Dead bedroom — hooldus, mitte hukkamõist
+
+Cooper rõhutab **surnud magamistuba** — intiimsuse kadu pikaajaliselt. Monica lisab: tavaline nõuanne („suhtle rohkem", „ära mine vihasena magama") **ei tööta**, kui inimesed on kurnatud ja sotsiaalmeedia võrdlus on sees.
+
+| Põhjus (ühendatud Lisa AC-ga) | Mehe tegevus |
+|-------------------------------|--------------|
+| Kapten lõpetas hoolduse — töö, uni, keha, intiimsus | **Puhasta relv** (Lisa AF), loe Lisa AA |
+| Soov tapvad harjumused — kaebus, alandumine, kadumine | Ownership + SOP — uks, kotid, kohal |
+| Naine on pimestatud / triggeris | **Lisa P KRIITILINE** — ära vaidle trauma olekus |
+| Mõlemad kurnatud (tööstusmudel) | Lisa Z + perede aeg + uni (Lisa V) |
+
+> *Dead bedroom ei lahene monoloogiga. Lahendus on **käitumine + hooldus + ausus** — ja vajadusel Epp, terapeut, abi.*
+
+### Vetting ja õiguslik realism
+
+**Enne** pikaajalist lepingut (abiellumist, ühise kodu, lapsed):
+
+| Samm | Mida |
+|------|------|
+| **21 punast lippu** | Cooperi checklist — vt [entrepreneursincars.com/red-flags](https://entrepreneursincars.com/red-flags) (tasuta PDF) |
+| **Aus vestlus** | Lapsed, raha, piirid, intiimsus, sotsiaalmeedia |
+| **Prenup / vara** | Õiguslik kaitse mõlemale — aus ökonoomika, mitte „ei usalda sind" |
+| **Lisa W** | Austus algusest — mitte „parandan hiljem" |
+
+> *Vetting ei ole paranoia. See on **kapteni kohus enne reisi** — mitte pärast tormi.*
+
+### Level up — jää parima valikuna
+
+Cooper: mees peab **jätkama** arengut — välimus, tervis, sissetulek, sotsiaalne võrgustik, **missioon** (mitte ainult naise ümber keerlemine).
+
+| Level up | Praktika (Lisa AG) |
+|----------|-------------------|
+| Keha | AE rippumine, AF hooldus, uni |
+| Mõistus | Taraban, Lisa AA, Intiimsuse atlas |
+| Töö | Toitja roll — ausalt |
+| Suhe | SOP + perede aeg + kohting |
+| Missioon | Ettevõtlus, pere, kodanik (Lisa Z) — **mitte** ainult „hea mees" |
+
+Monica toob välja **konkurentsiärevuse** ja sotsiaalmeedia kiusatused — tänapäeva abielu ei ole 1990. See kattub Tarabani „reisija valib" loogikaga.
+
+### Mida me EI võta Cooperist
+
+| Cooperi äärmus | Meie vastus |
+|----------------|-------------|
+| „Naiste loomus on vaenlane" | Lisa AC — naised on **pimestatud**, mitte kurjad |
+| Trauma ignoreerimine | **Lisa P KRIITILINE** — teistsugune reaalsus |
+| Domineerimine / hirm | Lisa AE, I — austus enne sundi |
+| Naise alandamine | Naise **juhised** §3 — partner, mitte ornament |
+| „Ära abiellu kunagi" | Realism + vetting + prenup — **sinu valik** |
+
+### Cooper + Taraban + NL-skeem — üks plaan
+
+```
+ENNE: vetting (Cooper) + aus vestlus
+PÄRAST: kapten (Taraban) + SOP (uks, kotid, kohting)
+IGAPÄEV: level up + frame + hooldus (AC, AF, AA)
+TORM: ownership + abi (Lisa P, H) — ära jäta rooli
+```
+
+**Taskukaart (meestele):**
+
+```
+VETTING · FRAME · LEVEL UP · HOOLDUS · TARABAN
+```
+
+---
+
 ## 3. Naise **juhised** — samuti selged
 
 *Naised ei ole „ilma juhisteta". Nad said NL ajal **oma** rolli — me anname **teadlikud** juhised, mitte ühiskonna müra.*
@@ -297,6 +419,7 @@ RIIK: EI otsusta teie rollide üle — teie ise
 | **I** | Juhtimine — V-formatsioon, keegi ei veda igavesti |
 | **P** | Trauma — rollid ei kehti triggeris |
 | **Taraban** | *The Value of Others* — kapten/reisija, realism |
+| **Cooper / Almaguer** | Hypergamy, frame, dead bedroom, vetting — podcast §2d |
 
 ---
 
@@ -310,12 +433,15 @@ RIIK: EI otsusta teie rollide üle — teie ise
 6. Kas **riik** või **sund** juhib meid — või meie ise?
 7. Kas ma juhin **kaptenina** — või ootan, et naine võtaks rooli?
 8. Kas ma olen lugenud **Tarabanit** — või elan illusioonis?
+9. Kas ma **hooldan** tõmmet (Cooper) — või ootan, et abielu „ise hoiaks"?
+10. Kas mul on **frame** ja piirid — või olen kõigile meele järele?
+11. Kas ma **vettingusin** enne pikaajalist lepingut — või lootsin romantikale?
 
 ---
 
 ## 9. Üks lause kogu Lisa AG kohta
 
-> *Ava uks. Tassi kotid. Juhi nagu kapten. Loe Tarabanit — ole realist. Tunnusta mehe rolli, anna naisele juhised. NL-skeem võib olla parim, mis meil praegu on. Kui rool keeratakse tagasi sihtpoole — laev jõuab. Kui mitte — reisija võtab üle või lahkub. Aus partnerlus.*
+> *Ava uks. Tassi kotid. Juhi nagu kapten. Loe Tarabanit — ole realist. Kuula Cooperit ja Monica't — hoolda tõmmet, hoia frame'i, vetting enne reisi. Tunnusta mehe rolli, anna naisele juhised. NL-skeem võib olla parim, mis meil praegu on. Kui rool keeratakse tagasi sihtpoole — laev jõuab. Kui mitte — reisija võtab üle või lahkub. Aus partnerlus.*
 
 ---
 

@@ -1,221 +1,221 @@
-# Lisa AZ — Suur pilt: Kardashev, Musk ja süsteem mis ootab
+# Lisa AZ â€” Suur pilt: Kardashev, Musk ja sÃ¼steem mis ootab
 
-> **Lugeja saab:** kosmilise skaala raamistiku — miks kohalik kriis ei ole lõpp; mis süsteem on ehitamisel.  
-> **Loe seda kui:** oled väsinud, lootusetu või arvad, et „kõik on läbi" — loe seda enne OPORD-i.  
-> **Ära loe kui:** otsid ainult poliitikat — alusta Lisa T või AY.
+> **Lugeja saab:** kosmilise skaala raamistiku â€” miks kohalik kriis ei ole lÃµpp; mis sÃ¼steem on ehitamisel. 
+> **Loe seda kui:** oled vÃ¤sinud, lootusetu vÃµi arvad, et â€kÃµik on lÃ¤bi" â€” loe seda enne OPORD-i. 
+> **Ã„ra loe kui:** otsid ainult poliitikat â€” alusta Lisa T vÃµi AY.
 
-**Operatsioon „Peegel"** | Ava silmad — suur pilt | Põhimõte: *tuli põleb — oota natuke*
+**Operatsioon â€Peegel"** | Ava silmad â€” suur pilt | PÃµhimÃµte: *tuli pÃµleb â€” oota natuke*
 
-**Allikad:** Nikolai Kardashev (1964); Elon Muski avalikud master planid; SpaceX, Tesla, Neuralink, The Boring Company, xAI avalikud kirjeldused. Seotud: **Lisa L** (Muski algoritm), **Lisa Z** (tööstusühiskond vs abundance), **Lisa AY** (valitsuse uuendus), **Lisa AT** (LIHTSUS), **Lisa AW** (ära usu oma aju).
+**Allikad:** Nikolai Kardashev (1964); Elon Muski avalikud master planid; SpaceX, Tesla, Neuralink, The Boring Company, xAI avalikud kirjeldused. Seotud: **Lisa L** (Muski algoritm), **Lisa Z** (tÃ¶Ã¶stusÃ¼hiskond vs abundance), **Lisa AY** (valitsuse uuendus), **Lisa AT** (LIHTSUS), **Lisa AW** (Ã¤ra usu oma aju).
 
-> *„Me ei ole isegi Tsivilisatsioon 1. Aga süsteem, mis viib sinna, on juba ehitamisel. **Ma jätan tule põlema, sõbrad.** Oota natuke. Hang on."* — Operatsioon „Peegel" (Renee Aluste)
+> *â€Me ei ole isegi Tsivilisatsioon 1. Aga sÃ¼steem, mis viib sinna, on juba ehitamisel. **Ma jÃ¤tan tule pÃµlema, sÃµbrad.** Oota natuke. Hang on."* â€” Operatsioon â€Peegel" (Renee Aluste)
 
-> *?? Ära usu mind. Uuri ise. Aga ära unusta suurt pilti, kui algoritm ütleb, et maailm on läbi.*
+> *?? Ã„ra usu mind. Uuri ise. Aga Ã¤ra unusta suurt pilti, kui algoritm Ã¼tleb, et maailm on lÃ¤bi.*
 
 ---
 
 ## Miks see lisa on
 
-OPORD räägib peredest, valitsusest, traumast, demomeestest — **kohalikust lahinguväljast**.
+OPORD rÃ¤Ã¤gib peredest, valitsusest, traumast, demomeestest â€” **kohalikust lahinguvÃ¤ljast**.
 
-Aga inimene vajab ka **suurt pilti**. Muidu jääb mulje, et:
+Aga inimene vajab ka **suurt pilti**. Muidu jÃ¤Ã¤b mulje, et:
 
-| Algoritm ütleb | Tegelikkus |
+| Algoritm Ã¼tleb | Tegelikkus |
 |----------------|------------|
-| „Kõik on läbi" | Inimkond on alles teel |
-| „Riik on pannud" | Üks riik ? kogu inimkonna plaan |
-| „Pole midagi oodata" | **Süsteem on ehitamisel** — sa ei pea seda ise looma |
+| â€KÃµik on lÃ¤bi" | Inimkond on alles teel |
+| â€Riik on pannud" | Ãœks riik ? kogu inimkonna plaan |
+| â€Pole midagi oodata" | **SÃ¼steem on ehitamisel** â€” sa ei pea seda ise looma |
 
-See lisa ei ole Musk-fanclub. See on **haridus**: Kardashev skaala + üks inimese ökosüsteem, mis näitab, kuidas **planeet ? täht ? galaktika** võib olla praktiline eesmärk, mitte ulme.
+See lisa ei ole Musk-fanclub. See on **haridus**: Kardashev skaala + Ã¼ks inimese Ã¶kosÃ¼steem, mis nÃ¤itab, kuidas **planeet ? tÃ¤ht ? galaktika** vÃµib olla praktiline eesmÃ¤rk, mitte ulme.
 
-**Peegli filter:** suur pilt **ei vabasta** sind täna peres, unes või valitsuses. See annab **suuna**, kui kohalik müra on liiga vali.
+**Peegli filter:** suur pilt **ei vabasta** sind tÃ¤na peres, unes vÃµi valitsuses. See annab **suuna**, kui kohalik mÃ¼ra on liiga vali.
 
 ---
 
-## 1. Kardashev skaala — Tsivilisatsioon 1, 2, 3
+## 1. Kardashev skaala â€” Tsivilisatsioon 1, 2, 3
 
-Nikolai Kardashev (1964) mõõtis tsivilisatsiooni **energia kasutamise** järgi:
+Nikolai Kardashev (1964) mÃµÃµtis tsivilisatsiooni **energia kasutamise** jÃ¤rgi:
 
 ```
-  Tüüp 0          Tüüp I              Tüüp II             Tüüp III
-  (meie praegu)   (planetaarne)       (stellaarne)        (galaktikaline)
-      ?               ?                    ?                    ?
-  ~10¹³ W         ~10¹? W              ~10²? W              ~10³? W
-  Maa energia     Kogu planeet         Kogu päike           Kogu galaktika
-  ~0,7% T-I       TÄIELIK T-I          Dyson sfäär?         Kardashev unistus
+ TÃ¼Ã¼p 0 TÃ¼Ã¼p I TÃ¼Ã¼p II TÃ¼Ã¼p III
+ (meie praegu) (planetaarne) (stellaarne) (galaktikaline)
+ ? ? ? ?
+ ~10Â¹Â³ W ~10Â¹? W ~10Â²? W ~10Â³? W
+ Maa energia Kogu planeet Kogu pÃ¤ike Kogu galaktika
+ ~0,7% T-I TÃ„IELIK T-I Dyson sfÃ¤Ã¤r? Kardashev unistus
 ```
 
-| Tüüp | Mida see tähendab | Näide |
+| TÃ¼Ã¼p | Mida see tÃ¤hendab | NÃ¤ide |
 |------|-------------------|-------|
-| **0** | Fossiilne, tuum, päike — segamini, piiratud | **Inimkond täna** (~0,73% T-I-st) |
-| **I** | Kogu Maa energia — ilm, ookean, tuum, päike — kontrollitult | Üks planeet, üks rahvas, üks energiasüsteem |
-| **II** | Kogu Päikese energia | Tähtede vahel reisimine, Dyson sfäär (teooria) |
-| **III** | Galaktika energia | Kardashev III on spekulatsioon — aga suund on mõttekas |
+| **0** | Fossiilne, tuum, pÃ¤ike â€” segamini, piiratud | **Inimkond tÃ¤na** (~0,73% T-I-st) |
+| **I** | Kogu Maa energia â€” ilm, ookean, tuum, pÃ¤ike â€” kontrollitult | Ãœks planeet, Ã¼ks rahvas, Ã¼ks energiasÃ¼steem |
+| **II** | Kogu PÃ¤ikese energia | TÃ¤htede vahel reisimine, Dyson sfÃ¤Ã¤r (teooria) |
+| **III** | Galaktika energia | Kardashev III on spekulatsioon â€” aga suund on mÃµttekas |
 
-**Aus fakt:** me **ei ole** Tsivilisatsioon 1. Me oleme **vahel** — Tüüp 0, liikudes T-I poole.
+**Aus fakt:** me **ei ole** Tsivilisatsioon 1. Me oleme **vahel** â€” TÃ¼Ã¼p 0, liikudes T-I poole.
 
-**Mida see tähendab Eestile:**
+**Mida see tÃ¤hendab Eestile:**
 
-- Kui valitsus on 15 aastat kriisis — see on **ühe riigi juhtimise** kriis, mitte inimkonna lõpp.
-- Kui sündide arv langeb — see on **ühe mudeli** kriis (Lisa Z), mitte bioloogia lõpp.
-- **Suur pilt:** planeet vajab T-I energiat, transporti, kommunikatsiooni — keegi ehitab seda paralleelselt.
+- Kui valitsus on 15 aastat kriisis â€” see on **Ã¼he riigi juhtimise** kriis, mitte inimkonna lÃµpp.
+- Kui sÃ¼ndide arv langeb â€” see on **Ã¼he mudeli** kriis (Lisa Z), mitte bioloogia lÃµpp.
+- **Suur pilt:** planeet vajab T-I energiat, transporti, kommunikatsiooni â€” keegi ehitab seda paralleelselt.
 
 ---
 
-## 2. Elon Musk — miks ta on siin (mitte kummardamine)
+## 2. Elon Musk â€” miks ta on siin (mitte kummardamine)
 
-Musk on OPORD-is juba olemas **protsessina** (Lisa L — viieastmeline algoritm). Lisa AZ lisab **visiooni**:
+Musk on OPORD-is juba olemas **protsessina** (Lisa L â€” viieastmeline algoritm). Lisa AZ lisab **visiooni**:
 
 | Lisa L | Lisa AZ |
 |--------|---------|
 | *Kuidas* kustutada ja lihtsustada | *Mille* poole inimkond liigub |
-| Ministeeriumide protsess | Planeet ? Mars ? tähed |
+| Ministeeriumide protsess | Planeet ? Mars ? tÃ¤hed |
 | Samm 5: automatiseeri | Starship, Starlink, AI |
 
-**Miks tema, mitte keegi teine?** Sest ta on üks vähestest, kes **avalikult** ühendab:
+**Miks tema, mitte keegi teine?** Sest ta on Ã¼ks vÃ¤hestest, kes **avalikult** Ã¼hendab:
 
-1. Energia (Tesla, päike, akud)
+1. Energia (Tesla, pÃ¤ike, akud)
 2. Transport (EV, raketid, tunnelid)
 3. Kommunikatsioon (Starlink)
 4. Aju-masin liides (Neuralink)
 5. Tehisintellekt (Tesla FSD, xAI, Optimus)
-6. Tootmine (Gigafactory, „tera fab" — tootmine planeedi skaalal)
+6. Tootmine (Gigafactory, â€tera fab" â€” tootmine planeedi skaalal)
 
-See ei ole üks ettevõte. See on **ökosüsteem** — nagu OPORD-i võrgustik, aga planeedi skaalal.
+See ei ole Ã¼ks ettevÃµte. See on **Ã¶kosÃ¼steem** â€” nagu OPORD-i vÃµrgustik, aga planeedi skaalal.
 
 ---
 
-## 3. Master Plan — kolm faasi (lihtsustatud)
+## 3. Master Plan â€” kolm faasi (lihtsustatud)
 
 ### Master Plan I (2006)
 
-| Samm | Eesmärk |
+| Samm | EesmÃ¤rk |
 |------|---------|
-| 1 | Kallis sportauto (Roadster) — tõesta, et EV töötab |
+| 1 | Kallis sportauto (Roadster) â€” tÃµesta, et EV tÃ¶Ã¶tab |
 | 2 | Taskukohane luksus (Model S/X) |
 | 3 | Massidele (Model 3/Y) |
-| 4 | Päikeseenergia (SolarCity ? Tesla Energy) |
+| 4 | PÃ¤ikeseenergia (SolarCity ? Tesla Energy) |
 
 ### Master Plan II (2016)
 
 - Laienda EV valikut (lasterattad, veokid, bussid)
-- Autonoomsus — 10× turvalisem kui inimjuht
-- Jagamine — auto töötab siis, kui sina magad
-- Päikesekatus + akud — energia sõltumatus
+- Autonoomsus â€” 10Ã— turvalisem kui inimjuht
+- Jagamine â€” auto tÃ¶Ã¶tab siis, kui sina magad
+- PÃ¤ikesekatus + akud â€” energia sÃµltumatus
 
-### Master Plan III (2023) — **sustainable abundance**
+### Master Plan III (2023) â€” **sustainable abundance**
 
-| Siht | Tähendus |
+| Siht | TÃ¤hendus |
 |------|----------|
 | **100% taastuv energia** | Elektritootmine + salvestus planeedi skaalal |
 | **EV massidesse** | Kogu transport elektriline |
-| **AI + robotid** | Optimus — füüsiline töö inimeste asemel |
-| **Mars** | Backup plan for consciousness — elu mitmel planeedil |
+| **AI + robotid** | Optimus â€” fÃ¼Ã¼siline tÃ¶Ã¶ inimeste asemel |
+| **Mars** | Backup plan for consciousness â€” elu mitmel planeedil |
 
-> *„Terra fab"* — planeedi skaala tootmine (Gigafactories üle maailma). Mitte üks tehas — **tera** (triljon) mõõtkavas tootmisvõime.
+> *â€Terra fab"* â€” planeedi skaala tootmine (Gigafactories Ã¼le maailma). Mitte Ã¼ks tehas â€” **tera** (triljon) mÃµÃµtkavas tootmisvÃµime.
 
 ---
 
-## 4. Tesla — mitte ainult autod (10+ liini)
+## 4. Tesla â€” mitte ainult autod (10+ liini)
 
-Inimesed näevad Teslana autot. Süsteem on laiem:
+Inimesed nÃ¤evad Teslana autot. SÃ¼steem on laiem:
 
 | # | Liin | Mida see teenib T-I poole |
 |---|------|---------------------------|
 | 1 | **Elektriautod** | Transport ilma fossiilseta |
-| 2 | **Aku (4680, jne)** | Salvestus — päike öösel |
-| 3 | **Powerwall / Megapack** | Kodu ja võrk |
+| 2 | **Aku (4680, jne)** | Salvestus â€” pÃ¤ike Ã¶Ã¶sel |
+| 3 | **Powerwall / Megapack** | Kodu ja vÃµrk |
 | 4 | **Solar Roof / paneelid** | Energia tootmine |
-| 5 | **Supercharger võrgustik** | Infrastruktuur |
+| 5 | **Supercharger vÃµrgustik** | Infrastruktuur |
 | 6 | **Full Self-Driving (FSD)** | AI juhtimine |
-| 7 | **Insurance** | Otsesõidu mudel |
-| 8 | **Gigafactory tootmine** | „tera fab" — skaleerimine |
-| 9 | **Optimus (robot)** | Füüsiline töö |
-| 10 | **Tesla Energy / grid** | Võrgu tasakaalustamine |
+| 7 | **Insurance** | OtsesÃµidu mudel |
+| 8 | **Gigafactory tootmine** | â€tera fab" â€” skaleerimine |
+| 9 | **Optimus (robot)** | FÃ¼Ã¼siline tÃ¶Ã¶ |
+| 10 | **Tesla Energy / grid** | VÃµrgu tasakaalustamine |
 
-**Üks lause:** Tesla on **energia + transport + AI + tootmine** — neli sammast Tsivilisatsioon 1 poole.
+**Ãœks lause:** Tesla on **energia + transport + AI + tootmine** â€” neli sammast Tsivilisatsioon 1 poole.
 
 ---
 
-## 5. SpaceX ja Starlink — tähele ja alla
+## 5. SpaceX ja Starlink â€” tÃ¤hele ja alla
 
 ### SpaceX
 
-| Projekt | Eesmärk | T-I / T-II seos |
+| Projekt | EesmÃ¤rk | T-I / T-II seos |
 |---------|---------|-----------------|
-| **Falcon / reusability** | Odav kosmos | Raha ja ressurss ei põle ära iga lennu peale |
+| **Falcon / reusability** | Odav kosmos | Raha ja ressurss ei pÃµle Ã¤ra iga lennu peale |
 | **Starship** | Mars, kuu, suur koormus | Planeetidevaheline transport |
-| **Starbase** | Tootmine Texasis | „tera fab" kosmoses |
-| **Mars** | Terraforming (pika plaan) | Elu mitu planeedil — T-I kindlustus |
+| **Starbase** | Tootmine Texasis | â€tera fab" kosmoses |
+| **Mars** | Terraforming (pika plaan) | Elu mitu planeedil â€” T-I kindlustus |
 
-**Terraforming** ei ole homme. See on **suuna** küsimus: kas inimkond jääb ühele planeedile või mitte.
+**Terraforming** ei ole homme. See on **suuna** kÃ¼simus: kas inimkond jÃ¤Ã¤b Ã¼hele planeedile vÃµi mitte.
 
 ### Starlink
 
-| Mida see teeb | Mida see tähendab sulle |
+| Mida see teeb | Mida see tÃ¤hendab sulle |
 |---------------|-------------------------|
-| Satelliit-internet üle maailma | Info ei sõltu ainult kohalikust võrgust |
-| Eesti, maa, meri | Ühendus ka siis, kui „võrk on maas" |
-| LEO konstellatsioon | Infrastruktuur — nagu teed, aga taevas |
+| Satelliit-internet Ã¼le maailma | Info ei sÃµltu ainult kohalikust vÃµrgust |
+| Eesti, maa, meri | Ãœhendus ka siis, kui â€vÃµrk on maas" |
+| LEO konstellatsioon | Infrastruktuur â€” nagu teed, aga taevas |
 
-**Peegli seos:** infosõda (Lisa AU) tabab algoritme. Starlink on **füüsiline kiht** — mitte lahendus kõigele, aga **süsteem**, mis ootab.
+**Peegli seos:** infosÃµda (Lisa AU) tabab algoritme. Starlink on **fÃ¼Ã¼siline kiht** â€” mitte lahendus kÃµigele, aga **sÃ¼steem**, mis ootab.
 
 ---
 
-## 6. Teised „Musk companies" — sci-fi nimed, päris töö
+## 6. Teised â€Musk companies" â€” sci-fi nimed, pÃ¤ris tÃ¶Ã¶
 
-Kasutaja mainis „Star Wars nimesid" — mõned ettevõtted **tunduvad** ulme nagu:
+Kasutaja mainis â€Star Wars nimesid" â€” mÃµned ettevÃµtted **tunduvad** ulme nagu:
 
-| Ettevõte | Nimi / vibe | Mida see teeb |
+| EttevÃµte | Nimi / vibe | Mida see teeb |
 |----------|-------------|---------------|
 | **SpaceX** | Starship, Starlink, Starbase | Kosmos, side |
-| **The Boring Company** | „Boring" — igav, aga tunnelid | 3D transport linnas all |
+| **The Boring Company** | â€Boring" â€” igav, aga tunnelid | 3D transport linnas all |
 | **Neuralink** | aju + masin | Inimene + AI |
-| **xAI** | Grok (sci-fi viide) | Tehisintellekt, tõde |
-| **X** (endine Twitter) | üks täht | Avalik platvorm (kontroversiaalne) |
-| **Tesla Optimus** | robot nimi | Füüsiline AI |
+| **xAI** | Grok (sci-fi viide) | Tehisintellekt, tÃµde |
+| **X** (endine Twitter) | Ã¼ks tÃ¤ht | Avalik platvorm (kontroversiaalne) |
+| **Tesla Optimus** | robot nimi | FÃ¼Ã¼siline AI |
 
-**Doge / Dogecoin:** Musk on seda toetanud — see on **meem + makse** katse, mitte OPORD-i tuum. Mainime ausalt, aga ei sea keskseks.
+**Doge / Dogecoin:** Musk on seda toetanud â€” see on **meem + makse** katse, mitte OPORD-i tuum. Mainime ausalt, aga ei sea keskseks.
 
-Kokku: **mitte üks imeloom** — võrgustik, mis katab energia, transport, side, aju, AI, tootmine.
+Kokku: **mitte Ã¼ks imeloom** â€” vÃµrgustik, mis katab energia, transport, side, aju, AI, tootmine.
 
 ```
-                    ???????????????????????????????????
-                    ?     TSIivilisatsioon 1 visioon   ?
-                    ???????????????????????????????????
-                                    ?
-        ?????????????????????????????????????????????????????????
-        ?               ?           ?           ?               ?
-    ENERGIA         TRANSPORT    SIDE        AI/ROBOT      TOOTMINE
-    Tesla           Tesla EV     Starlink    xAI/FSD       Gigafactory
-    Solar           SpaceX       X           Optimus       Starship
-    Megapack        Boring Co.   Neuralink                 „tera fab"
+ ???????????????????????????????????
+ ? TSIivilisatsioon 1 visioon ?
+ ???????????????????????????????????
+ ?
+ ?????????????????????????????????????????????????????????
+ ? ? ? ? ?
+ ENERGIA TRANSPORT SIDE AI/ROBOT TOOTMINE
+ Tesla Tesla EV Starlink xAI/FSD Gigafactory
+ Solar SpaceX X Optimus Starship
+ Megapack Boring Co. Neuralink â€tera fab"
 ```
 
 ---
 
-## 7. Mida see tähendab „Peegli" inimesele
+## 7. Mida see tÃ¤hendab â€Peegli" inimesele
 
 ### Kohalik vs kosmiline
 
-| Täna (Peegel) | Homme (süsteem) |
+| TÃ¤na (Peegel) | Homme (sÃ¼steem) |
 |---------------|-----------------|
 | Pere laua taga | Planeet, mis toetab peresid |
 | Valitsuse KPI | Riik, mis ei blokeeri T-I |
-| Demomees | Inimene, kes ei anna alla mürale |
-| Lisa AY kuldne sild | Reform, mitte häving |
-| Uni, keha, mõistus | Inimene, kes jõuab sinna |
+| Demomees | Inimene, kes ei anna alla mÃ¼rale |
+| Lisa AY kuldne sild | Reform, mitte hÃ¤ving |
+| Uni, keha, mÃµistus | Inimene, kes jÃµuab sinna |
 
-### „Hang on — ma jätan tule põlema"
+### â€Hang on â€” ma jÃ¤tan tule pÃµlema"
 
 See ei ole passiivsus. See on:
 
-1. **Tee täna oma osa** — üks samm (Lisa AT)
-2. **Usalda keha** — mitte algoritmi hirmu (Lisa AW)
-3. **Tea suunda** — T-I ei tule üle öö, aga **ei ole võimatu**
-4. **Oota süsteemi** — Starship, Starlink, EV, AI — need ei ole loterii, need on **ehitamisel**
+1. **Tee tÃ¤na oma osa** â€” Ã¼ks samm (Lisa AT)
+2. **Usalda keha** â€” mitte algoritmi hirmu (Lisa AW)
+3. **Tea suunda** â€” T-I ei tule Ã¼le Ã¶Ã¶, aga **ei ole vÃµimatu**
+4. **Oota sÃ¼steemi** â€” Starship, Starlink, EV, AI â€” need ei ole loterii, need on **ehitamisel**
 
-> *Kui sa tunned, et maailm kukub — küsi: kas see on **15 aasta valitsuse** kriis või **inimkonna** lõpp? Need on erinevad asjad.*
+> *Kui sa tunned, et maailm kukub â€” kÃ¼si: kas see on **15 aasta valitsuse** kriis vÃµi **inimkonna** lÃµpp? Need on erinevad asjad.*
 
 ---
 
@@ -223,24 +223,24 @@ See ei ole passiivsus. See on:
 
 | Lisa | Seos |
 |------|------|
-| **L** | Muski algoritm — kuidas riik liigub T-I poole (kustuta, automatiseeri) |
-| **Z** | Tööstusühiskond lõhkus pere — abundance mudel võib parandada |
-| **AY** | Valitsuse vahetus — samm planeetliku suuna poole |
-| **AT** | LIHTSUS — üks tegu täna; suur pilt homme |
-| **AW** | Algoritm ütleb „lõpp" — Kardashev ütleb „alles algus" |
-| **T** | KPI-d halvenevad — aga see on **juhtimise** kriis |
-| **AX** | Demo-perekond — inimene, kes elab nii, et lapsed jõuavad T-I |
+| **L** | Muski algoritm â€” kuidas riik liigub T-I poole (kustuta, automatiseeri) |
+| **Z** | TÃ¶Ã¶stusÃ¼hiskond lÃµhkus pere â€” abundance mudel vÃµib parandada |
+| **AY** | Valitsuse vahetus â€” samm planeetliku suuna poole |
+| **AT** | LIHTSUS â€” Ã¼ks tegu tÃ¤na; suur pilt homme |
+| **AW** | Algoritm Ã¼tleb â€lÃµpp" â€” Kardashev Ã¼tleb â€alles algus" |
+| **T** | KPI-d halvenevad â€” aga see on **juhtimise** kriis |
+| **AX** | Demo-perekond â€” inimene, kes elab nii, et lapsed jÃµuavad T-I |
 
 ---
 
-## 9. Ava silmad — küsimused endale
+## 9. Ava silmad â€” kÃ¼simused endale
 
 1. Kas ma tean Kardashev skaala erinevust T-0, T-I, T-II?
-2. Kas ma teadsin, et inimkond on ~0,73% T-I-st — mitte „lõpus"?
-3. Kas ma näen Teslana ainult autot või energia+süsteemi?
-4. Mis on Starshipi ja Starlinki roll minu igapäevaelus?
-5. Kas ma ootan, et riik lahendab kõike — või teen ühe sammu ise?
-6. Kas algoritm müüb mulle hirmu, mida suur pilt ümber lükkab?
+2. Kas ma teadsin, et inimkond on ~0,73% T-I-st â€” mitte â€lÃµpus"?
+3. Kas ma nÃ¤en Teslana ainult autot vÃµi energia+sÃ¼steemi?
+4. Mis on Starshipi ja Starlinki roll minu igapÃ¤evaelus?
+5. Kas ma ootan, et riik lahendab kÃµike â€” vÃµi teen Ã¼he sammu ise?
+6. Kas algoritm mÃ¼Ã¼b mulle hirmu, mida suur pilt Ã¼mber lÃ¼kkab?
 
 ---
 
@@ -248,20 +248,20 @@ See ei ole passiivsus. See on:
 
 | Ei | Jah |
 |----|-----|
-| Musk on jumal | Inimene ökosüsteemiga — vigadega, kontroversiaalne |
+| Musk on jumal | Inimene Ã¶kosÃ¼steemiga â€” vigadega, kontroversiaalne |
 | Mars homme | Pika plaan suund |
-| OPORD asendub kosmosega | Pere ja valitsus jäävad **esimeseks** |
+| OPORD asendub kosmosega | Pere ja valitsus jÃ¤Ã¤vad **esimeseks** |
 | Oota diivanil | **Hang on** = tee oma samm + tea suunda |
-| Vandenõuteooria | Avalikud master planid, mitte salajane nimekiri |
+| VandenÃµuteooria | Avalikud master planid, mitte salajane nimekiri |
 
 ---
 
-## 11. Üks lause, mida võid jagada
+## 11. Ãœks lause, mida vÃµid jagada
 
-> **„Me ei ole isegi Tsivilisatsioon 1. Aga tuli põleb — energia, raketid, side, AI on ehitamisel. Tee täna oma pere. Usalda, et suur pilt liigub. Hang on."**
+> **â€Me ei ole isegi Tsivilisatsioon 1. Aga tuli pÃµleb â€” energia, raketid, side, AI on ehitamisel. Tee tÃ¤na oma pere. Usalda, et suur pilt liigub. Hang on."**
 
 **Edasi lugemine (valikuline):** Muski Master Plan III (Tesla blog); Kardashev (1964); Lisa L; Lisa Z.
 
 ---
 
-*Koostatud Operatsioon „Peegel" raames. Parandused: GitHub / Lisa AZ.*
+*Koostatud Operatsioon â€Peegel" raames. Parandused: GitHub / Lisa AZ.*

@@ -1,15 +1,15 @@
 # Lisa I — Inimesekeskne juhtimine (Steiger 1997)
 
-> **Lugeja saab:** Steigeri inimesekeskse juhtimise raamistiku.  
-> **Loe seda kui:** juhid inimesi või koolitad (tee D/F).  
+> **Lugeja saab:** Steigeri inimesekeskse juhtimise raamistiku. 
+> **Loe seda kui:** juhid inimesi või koolitad (tee D/F). 
 > **Ära loe kui:** otsid kiiret kriisiabi — alusta Lisa H.
 
 
 **Operatsioon „Peegel"** | Juhtimisfilosoofia
 
-**Raamat:** Rudolf Steiger, *Inimesekeskne juhtimine. Juhiseid tsiviil- ja sõjaväejuhtidele*  
-**Peakirjastaja:** **Heli Illipe-Sootak** (Raudhammas OÜ)  
-**Originaalväljaanne:** Fontes, Tallinn 1997 · tõlkija **Piret Liivamägi** · ISBN **9985901274**  
+**Raamat:** Rudolf Steiger, *Inimesekeskne juhtimine. Juhiseid tsiviil- ja sõjaväejuhtidele* 
+**Peakirjastaja:** **Heli Illipe-Sootak** (Raudhammas OÜ) 
+**Originaalväljaanne:** Fontes, Tallinn 1997 · tõlkija **Piret Liivamägi** · ISBN **9985901274** 
 **Uustrükk:** Kaitseväe Ühendatud Õppeasutused, 2011 — eessõna: **Johannes Kert**, Kaspar Villiger
 
 ---
@@ -98,7 +98,7 @@ See on operatsiooni tuum, kui räägime Kaitseväest, kiusamisest ja vastutusest
 
 Steigeri juhised on mõeldud selleks, et juht saaks oma kaastöötajaid juhtida **inimesekeskselt** — olenemata sellest, kas alluvad kannavad **teksaseid või välivormi**. Erinevate riiete all on inimesed **põhimõtteliselt samasugused**.
 
-Operatsioon „Peegel" ütleb sama: Combat Ready koolitused, Kaitsevägi, kool, pere, kodanik — **üks inimloomus**, üks juhtimisvajadus. Extreme Ownership (vastutus) ja inimesekeskne juhtimine (austus) ei ole vastandlikud — **austus on eeldus**, vastutus on tulemus.
+Operatsioon „Peegel" ütleb sama: juhtimiskoolitused, Kaitsevägi, kool, pere, kodanik — **üks inimloomus**, üks juhtimisvajadus. Extreme Ownership (vastutus) ja inimesekeskne juhtimine (austus) ei ole vastandlikud — **austus on eeldus**, vastutus on tulemus.
 
 ### Mis see raamat on — ja mis mitte
 
@@ -144,13 +144,13 @@ Steiger ja van der Kolk ütlevad sama eri keeles:
 
 ```
 1. TURVALISUS + MÕISTMINE (traumateadlikkus, Lisa P)
-        ↓
+ ↓
 2. INIMENE NÄHTAV (Steiger: nimede taga on inimesed)
-        ↓
+ ↓
 3. JUHT TUNNISTAB ENDA PALGI (Steiger: lk 30–31)
-        ↓
+ ↓
 4. INIMESEKESKNE JUHTIMINE (Lisa I)
-        ↓
+ ↓
 5. VASTUTUS — kõik teevad oma osa (Extreme Ownership)
 ```
 

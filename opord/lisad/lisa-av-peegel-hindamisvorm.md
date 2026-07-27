@@ -1,272 +1,272 @@
-# Lisa AV — Peegli hindamisvorm (pere, meeskond, allüksus)
+# Lisa AV â€” Peegli hindamisvorm (pere, meeskond, allÃ¼ksus)
 
-> **Lugeja saab:** standardiseeritud vorm ja protsess, kuidas näha end peeglist — mitte kohtu alt.  
-> **Loe seda kui:** juhid peret, meeskonda, SOK-i või allüksust.  
-> **Ära loe kui:** oled kriisis — alusta Lisa H; ära kasuta vormi karistusena.
+> **Lugeja saab:** standardiseeritud vorm ja protsess, kuidas nÃ¤ha end peeglist â€” mitte kohtu alt. 
+> **Loe seda kui:** juhid peret, meeskonda, SOK-i vÃµi allÃ¼ksust. 
+> **Ã„ra loe kui:** oled kriisis â€” alusta Lisa H; Ã¤ra kasuta vormi karistusena.
 
-**Allikas:** MKKo Maakaitse Kompanii *Võitleja hindamisvorm* — kohandatud Operatsioon „Peegel".  
-**Seotud:** Lisa I (Steiger — dialoog, mitte monoloog), Lisa P (trauma-teadlik tagasiside), Lisa M (peegel), Lisa N (demomees), Lisa Q (GOTWA), Lisa AT (lihtsus)
+**Allikas:** MKKo Maakaitse Kompanii *VÃµitleja hindamisvorm* â€” kohandatud Operatsioon â€Peegel". 
+**Seotud:** Lisa I (Steiger â€” dialoog, mitte monoloog), Lisa P (trauma-teadlik tagasiside), Lisa M (peegel), Lisa N (demomees), Lisa Q (GOTWA), Lisa AT (lihtsus)
 
-**Prindi (kirjalik — see on põhiviis):**
+**Prindi (kirjalik â€” see on pÃµhiviis):**
 
 | Fail | Kasutus |
 |------|---------|
-| [PEEGEL_HINDAMISVORM_PRINT.pdf](../PEEGEL_HINDAMISVORM_PRINT.pdf) | **A4 vorm** — iga hindaja täidab eraldi enne vestlust |
-| [PEEGEL_HINDAMISVORM_PLANKETT.pdf](../PEEGEL_HINDAMISVORM_PLANKETT.pdf) | **A5 plankett** — seinale / üksuse kausta (reeglid + luureküsimus) |
-| [PEEGEL_HINDAMISVORM_RAHAKOTT.pdf](../PEEGEL_HINDAMISVORM_RAHAKOTT.pdf) | **85×55 mm** — taskukaart juhile |
+| [PEEGEL_HINDAMISVORM_PRINT.pdf](../PEEGEL_HINDAMISVORM_PRINT.pdf) | **A4 vorm** â€” iga hindaja tÃ¤idab eraldi enne vestlust |
+| [PEEGEL_HINDAMISVORM_PLANKETT.pdf](../PEEGEL_HINDAMISVORM_PLANKETT.pdf) | **A5 plankett** â€” seinale / Ã¼ksuse kausta (reeglid + luurekÃ¼simus) |
+| [PEEGEL_HINDAMISVORM_RAHAKOTT.pdf](../PEEGEL_HINDAMISVORM_RAHAKOTT.pdf) | **85Ã—55 mm** â€” taskukaart juhile |
 
 Genereeri uuesti: `python3 generate_hindamisvorm_pdf.py`
 
 ---
 
-## Põhimõte
+## PÃµhimÃµte
 
-> **Inimesena on meil pimenurgad. Peegel näitab seda, mida ise ei näe. Ennast keegi ise ei hinda.**
+> **Inimesena on meil pimenurgad. Peegel nÃ¤itab seda, mida ise ei nÃ¤e. Ennast keegi ise ei hinda.**
 
 | MKKo loogika | Peegli loogika |
 |--------------|----------------|
-| Võitleja sooritus treeningul | **Inimese sooritus igapäevaelus** — pere, meeskond, kogukond |
-| Hindaja kirjutab ausalt | **Vähemalt kaks** inimest annavad tagasisidet; iseteenindus **ei loe** |
-| „Kas läheksid lahingusse?" | **„Kas läheksid luurele?"** — usaldus otsustada üksi, tulla tagasi tõega |
-| E / T / V (edasi / tagasi / välja) | **Kasv / hoia / paus** — areng, mitte väljalaskmine |
-| Jao pingerida 1–14 | **Ei pere kontekstis.** Meeskonnas ainult **juhi privaatne** tööriist, mitte avalik häbistamine |
+| VÃµitleja sooritus treeningul | **Inimese sooritus igapÃ¤evaelus** â€” pere, meeskond, kogukond |
+| Hindaja kirjutab ausalt | **VÃ¤hemalt kaks** inimest annavad tagasisidet; iseteenindus **ei loe** |
+| â€Kas lÃ¤heksid lahingusse?" | **â€Kas lÃ¤heksid luurele?"** â€” usaldus otsustada Ã¼ksi, tulla tagasi tÃµega |
+| E / T / V (edasi / tagasi / vÃ¤lja) | **Kasv / hoia / paus** â€” areng, mitte vÃ¤ljalaskmine |
+| Jao pingerida 1â€“14 | **Ei pere kontekstis.** Meeskonnas ainult **juhi privaatne** tÃ¶Ã¶riist, mitte avalik hÃ¤bistamine |
 
-Steiger (Lisa I): hindamine on **kahepoolne dialoog**, mitte ülemuse monoloog.
+Steiger (Lisa I): hindamine on **kahepoolne dialoog**, mitte Ã¼lemuse monoloog.
 
 ---
 
-## Kolm vormi — üks tuum
+## Kolm vormi â€” Ã¼ks tuum
 
 | Vorm | Kus | Sagedus | Kes hindab |
 |------|-----|---------|------------|
-| **AV-PERE** | Kodu | 1× kuus (15–20 min) | Partner + lapsevanem teineteist; vanemad ?12a laps võib kutsuda (vabatahtlik) |
-| **AV-MEESKOND** | Töö, CR, kool, MTÜ | 1× kvartal | Juht + 2 kolleegi iga liikme kohta |
-| **AV-SOK** | Aluste_kool demomehed | 1× kvartal + pärast suurt sündmust | Ringis: igaüks saab 2 häält (mitte enda) |
+| **AV-PERE** | Kodu | 1Ã— kuus (15â€“20 min) | Partner + lapsevanem teineteist; vanemad ?12a laps vÃµib kutsuda (vabatahtlik) |
+| **AV-MEESKOND** | TÃ¶Ã¶, kool, MTÃœ | 1Ã— kvartal | Juht + 2 kolleegi iga liikme kohta |
+| **AV-SOK** | Aluste_kool demomehed | 1Ã— kvartal + pÃ¤rast suurt sÃ¼ndmust | Ringis: igaÃ¼ks saab 2 hÃ¤Ã¤lt (mitte enda) |
 
-**Reegel:** Iga hinnatav saab **vähemalt 2** täidetud vormi + **ühe** iserefleksiooni. Iserefleksioon üksi **ei ole** hindamine.
+**Reegel:** Iga hinnatav saab **vÃ¤hemalt 2** tÃ¤idetud vormi + **Ã¼he** iserefleksiooni. Iserefleksioon Ã¼ksi **ei ole** hindamine.
 
 ---
 
-## Hindamiskriteeriumid (kõigile vormidele)
+## Hindamiskriteeriumid (kÃµigile vormidele)
 
-Kasuta vabas vormis kommentaare. **Konkreetsed näited**, mitte isiksuse sildid.
+Kasuta vabas vormis kommentaare. **Konkreetsed nÃ¤ited**, mitte isiksuse sildid.
 
-| # | MKKo | Peegel (AV) | Küsimus endale |
+| # | MKKo | Peegel (AV) | KÃ¼simus endale |
 |---|------|-------------|----------------|
-| 1 | Initsiatiiv | **Initsiatiiv** | Kas ta teeb ära ilma, et keegi palub? |
-| 2 | Töökindlus | **Töökindlus** | Kas ta jätab asjad pooleli või viib lõpuni? |
-| 3 | Meeskonnatöö | **Meeskonnatöö** | Kas ta aitab teisi (kata ja liigu — Lisa Q §4)? |
-| 4 | Tähelepanu detailile | **Tähelepanu** | Kas ta märkab detaile — sõnu, pereliikmeid, allikaid? |
+| 1 | Initsiatiiv | **Initsiatiiv** | Kas ta teeb Ã¤ra ilma, et keegi palub? |
+| 2 | TÃ¶Ã¶kindlus | **TÃ¶Ã¶kindlus** | Kas ta jÃ¤tab asjad pooleli vÃµi viib lÃµpuni? |
+| 3 | MeeskonnatÃ¶Ã¶ | **MeeskonnatÃ¶Ã¶** | Kas ta aitab teisi (kata ja liigu â€” Lisa Q Â§4)? |
+| 4 | TÃ¤helepanu detailile | **TÃ¤helepanu** | Kas ta mÃ¤rkab detaile â€” sÃµnu, pereliikmeid, allikaid? |
 | 5 | Taktikalised teadmised | **Teadlikkus** | Kas ta teab plaani (Lisa AT) ja kontrollib infot? |
-| 6 | Füüsiline vastupidavus | **Vastupidavus** | Uni, liikumine, taastumine (Lisa V, AB) — kas ta hoiab enda masinat? |
+| 6 | FÃ¼Ã¼siline vastupidavus | **Vastupidavus** | Uni, liikumine, taastumine (Lisa V, AB) â€” kas ta hoiab enda masinat? |
 
 **Lisa pere kontekstis (valikuline rida):**
 
-| # | Kriteerium | Küsimus |
+| # | Kriteerium | KÃ¼simus |
 |---|------------|---------|
 | 7 | **Turvalisus** | Kas lastel/teistel on temaga turvaline olla ausad? |
-| 8 | **Kohalolu** | Kas ta on päriselt kohal — mitte ainult ruumis? |
+| 8 | **Kohalolu** | Kas ta on pÃ¤riselt kohal â€” mitte ainult ruumis? |
 
 ---
 
-## Usaldusküsimus — üks, mis loeb
+## UsalduskÃ¼simus â€” Ã¼ks, mis loeb
 
-Tõmba ring ümber vastuse. **Ausus on konfidentsiaalne** — mitte avalik nimekirj.
+TÃµmba ring Ã¼mber vastuse. **Ausus on konfidentsiaalne** â€” mitte avalik nimekirj.
 
-### Peamine küsimus (kõigile vormidele)
+### Peamine kÃ¼simus (kÃµigile vormidele)
 
-| Küsimus | Jah | Ei |
+| KÃ¼simus | Jah | Ei |
 |---------|-----|-----|
-| **Kas sa selle inimesega luurele läheksid?** | ? | ? |
+| **Kas sa selle inimesega luurele lÃ¤heksid?** | ? | ? |
 
-> *Luure = lähed tundmatusse **väikese üksusega**, ilma et keegi vaataks üle õla. Sa pead usaldama tema **otsust, vaikust, tähelepanu ja ausust** — sest tagasiteel ei ole aega debateerida.*
+> *Luure = lÃ¤hed tundmatusse **vÃ¤ikese Ã¼ksusega**, ilma et keegi vaataks Ã¼le Ãµla. Sa pead usaldama tema **otsust, vaikust, tÃ¤helepanu ja ausust** â€” sest tagasiteel ei ole aega debateerida.*
 
-**Miks see on mõjusaim** (MKKo „lahing" ja „kaevik" asemel):
+**Miks see on mÃµjusaim** (MKKo â€lahing" ja â€kaevik" asemel):
 
-| Vanem küsimus | Mida see mõõdab | Miinus |
+| Vanem kÃ¼simus | Mida see mÃµÃµdab | Miinus |
 |---------------|-----------------|--------|
-| „Läheksid lahingusse?" | Julgust, võitlust | Liiga dramaatiline tsiviilis; vastab „kangelane", mitte inimene |
-| „Jagaksid kaevikut?" | Füüsilist vastupidavust öösel | Üks öö — ei näita otsustusvõimet ega ausust |
-| **„Läheksid luurele?"** | **Usaldust otsustada üksi**, vaikida kui vaja, tulla tagasi tõega, mitte päästa enda nahka | Täpne. Aus. Üks küsimus. |
+| â€LÃ¤heksid lahingusse?" | Julgust, vÃµitlust | Liiga dramaatiline tsiviilis; vastab â€kangelane", mitte inimene |
+| â€Jagaksid kaevikut?" | FÃ¼Ã¼silist vastupidavust Ã¶Ã¶sel | Ãœks Ã¶Ã¶ â€” ei nÃ¤ita otsustusvÃµimet ega ausust |
+| **â€LÃ¤heksid luurele?"** | **Usaldust otsustada Ã¼ksi**, vaikida kui vaja, tulla tagasi tÃµega, mitte pÃ¤Ã¤sta enda nahka | TÃ¤pne. Aus. Ãœks kÃ¼simus. |
 
-Luure ei küsi „kas ta on tugev". Luure küsib: **kas ma usaldan teda siis, kui keegi ei vaata?**
+Luure ei kÃ¼si â€kas ta on tugev". Luure kÃ¼sib: **kas ma usaldan teda siis, kui keegi ei vaata?**
 
-### Valikuline teine küsimus (mitte kohustuslik)
+### Valikuline teine kÃ¼simus (mitte kohustuslik)
 
-| Kontekst | Teine küsimus |
+| Kontekst | Teine kÃ¼simus |
 |----------|---------------|
-| **AV-PERE** | Kui peres on kriis — kas ma julgen talle **ausalt** öelda, et ma ei jaksanud? |
-| **AV-MEESKOND / AV-SOK** | Kas ma jagaksin temaga **ühte kaevikut** — ühte rasket ööd / ühte vastutust? |
+| **AV-PERE** | Kui peres on kriis â€” kas ma julgen talle **ausalt** Ã¶elda, et ma ei jaksanud? |
+| **AV-MEESKOND / AV-SOK** | Kas ma jagaksin temaga **Ã¼hte kaevikut** â€” Ã¼hte rasket Ã¶Ã¶d / Ã¼hte vastutust? |
 
-*(MKKo „lahing" ja „kaevik" jäävad varuvariandiks. **Luure on esimene.**)*
+*(MKKo â€lahing" ja â€kaevik" jÃ¤Ã¤vad varuvariandiks. **Luure on esimene.**)*
 
 ---
 
 ## Arengusoovitus (mitte E/T/V)
 
-**Ära kasuta:** „väljalaskmine", „halbim", avalik pingerida.
+**Ã„ra kasuta:** â€vÃ¤ljalaskmine", â€halbim", avalik pingerida.
 
-**Kasuta ühte:**
+**Kasuta Ã¼hte:**
 
-| Täht | Tähendus | Millal |
+| TÃ¤ht | TÃ¤hendus | Millal |
 |------|----------|--------|
-| **K** | **Kasv** — järgmine etapp, rohkem vastutust, uus ülesanne | Tugev sooritus + **luure = Jah** |
-| **H** | **Hoia** — sama tase, kinnita, treeni nõrk koht | Hea, aga üks lünk |
-| **P** | **Paus** — vähenda koormust, Lisa H/P, supervisioon | Vastupidavus või turvalisus ohus |
+| **K** | **Kasv** â€” jÃ¤rgmine etapp, rohkem vastutust, uus Ã¼lesanne | Tugev sooritus + **luure = Jah** |
+| **H** | **Hoia** â€” sama tase, kinnita, treeni nÃµrk koht | Hea, aga Ã¼ks lÃ¼nk |
+| **P** | **Paus** â€” vÃ¤henda koormust, Lisa H/P, supervisioon | Vastupidavus vÃµi turvalisus ohus |
 
-Hindaja lisab **ühe lause** põhjenduse.
+Hindaja lisab **Ã¼he lause** pÃµhjenduse.
 
 ---
 
-## Kirjalik protsess — print, täida, vestle
+## Kirjalik protsess â€” print, tÃ¤ida, vestle
 
-> **Vestlus ilma kirjalikuta ei tööta.** Inimene unustab, kaitseb, moonutab. Vorm on plankett — aus peegel paberil.
+> **Vestlus ilma kirjalikuta ei tÃ¶Ã¶ta.** Inimene unustab, kaitseb, moonutab. Vorm on plankett â€” aus peegel paberil.
 
 | Samm | Tegevus | Materjal |
 |------|---------|----------|
 | 1 | **Prindi** vorm (iga hindaja oma eksemplar) | `PEEGEL_HINDAMISVORM_PRINT.pdf` |
-| 2 | **Täida kirjalikult** — konkreetsed näited, mitte sildid | Enne vestlust, eraldi |
-| 3 | **Pane plankett** üksuse kausta / seina | `PEEGEL_HINDAMISVORM_PLANKETT.pdf` |
-| 4 | **Vestle** vormi põhjal (15–30 min) | Lisa P — spordikommentaator |
-| 5 | **Hinnatav täidab** oma poole vormi lõpus | Üks tegu järgmiseks perioodiks |
+| 2 | **TÃ¤ida kirjalikult** â€” konkreetsed nÃ¤ited, mitte sildid | Enne vestlust, eraldi |
+| 3 | **Pane plankett** Ã¼ksuse kausta / seina | `PEEGEL_HINDAMISVORM_PLANKETT.pdf` |
+| 4 | **Vestle** vormi pÃµhjal (15â€“30 min) | Lisa P â€” spordikommentaator |
+| 5 | **Hinnatav tÃ¤idab** oma poole vormi lÃµpus | Ãœks tegu jÃ¤rgmiseks perioodiks |
 
-**Reegel:** Minimaalselt **2 täidetud vormi** sama inimese kohta + **1 iserefleksioon**. Üksi enda täidetud leht ei loe.
+**Reegel:** Minimaalselt **2 tÃ¤idetud vormi** sama inimese kohta + **1 iserefleksioon**. Ãœksi enda tÃ¤idetud leht ei loe.
 
 ---
 
-## Vorm — täitmise mall (tekstiversioon)
+## Vorm â€” tÃ¤itmise mall (tekstiversioon)
 
 ```
-PEEGLI HINDAMISVORM — [ AV-PERE / AV-MEESKOND / AV-SOK ]
+PEEGLI HINDAMISVORM â€” [ AV-PERE / AV-MEESKOND / AV-SOK ]
 
 Hinnatav: _______________________
-Üksus / pere: ___________________
-Kuupäev: ________________________
-Hindaja (nimi): __________________  (konfidentsiaalne)
+Ãœksus / pere: ___________________
+KuupÃ¤ev: ________________________
+Hindaja (nimi): __________________ (konfidentsiaalne)
 
-??? KOMMENTAARID (konkreetsed näited) ???
+??? KOMMENTAARID (konkreetsed nÃ¤ited) ???
 
 Initsiatiiv:
-Töökindlus:
-Meeskonnatöö:
-Tähelepanu:
+TÃ¶Ã¶kindlus:
+MeeskonnatÃ¶Ã¶:
+TÃ¤helepanu:
 Teadlikkus:
 Vastupidavus:
-[Turvalisus — ainult AV-PERE:]
-[Kohalolu — ainult AV-PERE:]
+[Turvalisus â€” ainult AV-PERE:]
+[Kohalolu â€” ainult AV-PERE:]
 
 ??? USALDUS (jah / ei ring) ???
 
-Kas sa selle inimesega luurele läheksid?   ? Jah   ? Ei
+Kas sa selle inimesega luurele lÃ¤heksid? ? Jah ? Ei
 
 ??? ARENG ???
 
-? K Kasv   ? H Hoia   ? P Paus
+? K Kasv ? H Hoia ? P Paus
 
-Üks lause miks: _______________________________________________
+Ãœks lause miks: _______________________________________________
 
-??? HINNATAVA VASTUS (täidab ise, pärast vestlust) ???
+??? HINNATAVA VASTUS (tÃ¤idab ise, pÃ¤rast vestlust) ???
 
 Mida ma kuulsin: _____________________________________________
-Mida ma võtan omaks (üks asi): _______________________________
-Mida ma ei võta (üks asi): ___________________________________
-Üks tegu järgmiseks kuuks: ____________________________________
+Mida ma vÃµtan omaks (Ã¼ks asi): _______________________________
+Mida ma ei vÃµta (Ã¼ks asi): ___________________________________
+Ãœks tegu jÃ¤rgmiseks kuuks: ____________________________________
 ```
 
 ---
 
-## Protsess — kuidas seda teha (5 sammu)
+## Protsess â€” kuidas seda teha (5 sammu)
 
 ### 1. Ettevalmistus (Steiger samm 3)
 
-- Vali aeg ja koht — **mitte** kriisi keskel ega pärast tülis.
-- Pere: lapsed magavad või ei osale (kui alla 12).
+- Vali aeg ja koht â€” **mitte** kriisi keskel ega pÃ¤rast tÃ¼lis.
+- Pere: lapsed magavad vÃµi ei osale (kui alla 12).
 - Meeskond: 30 min slot, mitte koridoris.
 
-### 2. Kogumine (vähemalt 2 hindajat)
+### 2. Kogumine (vÃ¤hemalt 2 hindajat)
 
-- Iga hindaja täidab vormi **eraldi**, enne ühist vestlust.
-- Iserefleksioon: hinnatav täidab oma poole **enne** teiste lugemist.
+- Iga hindaja tÃ¤idab vormi **eraldi**, enne Ã¼hist vestlust.
+- Iserefleksioon: hinnatav tÃ¤idab oma poole **enne** teiste lugemist.
 
-### 3. Vestlus (Steiger samm 4–5 — dialoog)
+### 3. Vestlus (Steiger samm 4â€“5 â€” dialoog)
 
 | Samm | Kes | Mida |
 |------|-----|------|
-| 1 | Hindaja | Spordikommentaator: „Ma nägin, et…" (Lisa P) |
-| 2 | Hinnatav | Kuulab ilma kaitseta — võib öelda „ei nõustu" |
-| 3 | Mõlemad | **Üks** kasvu/tegu järgmiseks perioodiks |
-| 4 | Juht/pereliige | Kinnitab: „Kas see on OK?" |
+| 1 | Hindaja | Spordikommentaator: â€Ma nÃ¤gin, etâ€¦" (Lisa P) |
+| 2 | Hinnatav | Kuulab ilma kaitseta â€” vÃµib Ã¶elda â€ei nÃµustu" |
+| 3 | MÃµlemad | **Ãœks** kasvu/tegu jÃ¤rgmiseks perioodiks |
+| 4 | Juht/pereliige | Kinnitab: â€Kas see on OK?" |
 
-**Kestus:** Pere 15–20 min. Meeskond 30 min.
+**Kestus:** Pere 15â€“20 min. Meeskond 30 min.
 
-### 4. Üks tegu (Lisa AT)
+### 4. Ãœks tegu (Lisa AT)
 
-Hindamine ilma järgmise sammuta on **kriitika**, mitte peegel.
+Hindamine ilma jÃ¤rgmise sammuta on **kriitika**, mitte peegel.
 
-> Näide: „Järgmise kuu üks tegu — telefon ära söögilaual kolmel õhtul."
+> NÃ¤ide: â€JÃ¤rgmise kuu Ã¼ks tegu â€” telefon Ã¤ra sÃ¶Ã¶gilaual kolmel Ãµhtul."
 
 ### 5. Lukustamine
 
 - Vormid hoitakse **privaatselt** (mitte Slacki, mitte grupivestluses).
-- Pere: ühisesse märkmikku või kappi.
-- Meeskond: juht või supervisioon (Marge Sillaste mudel).
+- Pere: Ã¼hisesse mÃ¤rkmikku vÃµi kappi.
+- Meeskond: juht vÃµi supervisioon (Marge Sillaste mudel).
 
 ---
 
 ## Mida MITTE teha (Lisa P + Steiger)
 
-| Ära tee | Miks |
+| Ã„ra tee | Miks |
 |---------|------|
-| Avalik pingerida peres või meeskonnas | Trauma, häbi, kiusamise muster (Lisa S) |
-| Hinda triggeris | Keha ei kuule — alusta turvalisusest |
+| Avalik pingerida peres vÃµi meeskonnas | Trauma, hÃ¤bi, kiusamise muster (Lisa S) |
+| Hinda triggeris | Keha ei kuule â€” alusta turvalisusest |
 | Kasuta vormi karistusena | Peegel ? kohtunik |
-| Üks hindaja | Pimenurk jääb; „ennast keegi ise ei hinda" |
-| Ainult negatiivne | Steiger: rahulolu tekib dialoogis — nimeta ka tugevus |
-| E/T/V sõnastus tsiviilis | „Välja" käivitab Kaitseväe trauma ilma turvavõrguta |
+| Ãœks hindaja | Pimenurk jÃ¤Ã¤b; â€ennast keegi ise ei hinda" |
+| Ainult negatiivne | Steiger: rahulolu tekib dialoogis â€” nimeta ka tugevus |
+| E/T/V sÃµnastus tsiviilis | â€VÃ¤lja" kÃ¤ivitab KaitsevÃ¤e trauma ilma turvavÃµrguta |
 
 ---
 
 ## Rakendusplaan (faasid)
 
-### Faas 0 — Valmisolek (1 nädal)
+### Faas 0 â€” Valmisolek (1 nÃ¤dal)
 
 | # | Tegevus | Vastutaja |
 |---|---------|-----------|
-| 1 | Loe Lisa AV + Lisa P § KRIITILINE REEGEL | Kõik juhid |
-| 2 | Prindi 1 vorm või salvesta telefoni | Iga üksus |
-| 3 | Kokkulepe: **konfidentsiaalsus** + **kuupäev** esimeseks vestluseks | Juht / pereliige |
+| 1 | Loe Lisa AV + Lisa P Â§ KRIITILINE REEGEL | KÃµik juhid |
+| 2 | Prindi 1 vorm vÃµi salvesta telefoni | Iga Ã¼ksus |
+| 3 | Kokkulepe: **konfidentsiaalsus** + **kuupÃ¤ev** esimeseks vestluseks | Juht / pereliige |
 
-### Faas 1 — Piloot (kuu 1)
+### Faas 1 â€” Piloot (kuu 1)
 
-| Üksus | Vorm | Miks |
+| Ãœksus | Vorm | Miks |
 |-------|------|------|
 | **Aluste_kool (SOK)** | AV-SOK | Demomehed juba Lisa N checklisti peal |
-| **Combat Ready tuum** (Remo, Priit, Tanel) | AV-MEESKOND | Juhtimiskultuur, Extreme Ownership |
-| **Renee pere** | AV-PERE | Eeskuju — demomees enne sõna (Lisa N) |
+| **tuum** (juhtimiskoolituse partnerid) | AV-MEESKOND | Juhtimiskultuur, vastutus |
+| **Renee pere** | AV-PERE | Eeskuju â€” demomees enne sÃµna (Lisa N) |
 
-**Mõõdik:** Kas iga hinnatav sai 2 vormi + 1 vestluse + 1 tegu?
+**MÃµÃµdik:** Kas iga hinnatav sai 2 vormi + 1 vestluse + 1 tegu?
 
-### Faas 2 — Laiendus (kuud 2–3)
+### Faas 2 â€” Laiendus (kuud 2â€“3)
 
-| Üksus | Vorm |
+| Ãœksus | Vorm |
 |-------|------|
-| RaM Kool juhtkond (Sirje) | AV-MEESKOND — kriisivalmidus |
-| Waldorf (Kristina, Ave) | AV-MEESKOND — laps-keskne |
+| RaM Kool juhtkond (Sirje) | AV-MEESKOND â€” kriisivalmidus |
+| Waldorf (Kristina, Ave) | AV-MEESKOND â€” laps-keskne |
 | PEEGEL_TEE_C lugejad (vabatahtlik) | AV-PERE mall PDF-is |
 
-### Faas 3 — Institusionaliseerimine (kuu 4+)
+### Faas 3 â€” Institusionaliseerimine (kuu 4+)
 
-| Tööriist | Formaat |
+| TÃ¶Ã¶riist | Formaat |
 |----------|---------|
-| **PEEGEL_HINDAMISVORM_PRINT.pdf** | A4 kirjalik vorm — iga hindaja |
-| **PEEGEL_HINDAMISVORM_PLANKETT.pdf** | A5 seinaplaat üksuse kausta |
-| **PEEGEL_HINDAMISVORM_RAHAKOTT.pdf** | 85×55 mm meeldetuletus |
+| **PEEGEL_HINDAMISVORM_PRINT.pdf** | A4 kirjalik vorm â€” iga hindaja |
+| **PEEGEL_HINDAMISVORM_PLANKETT.pdf** | A5 seinaplaat Ã¼ksuse kausta |
+| **PEEGEL_HINDAMISVORM_RAHAKOTT.pdf** | 85Ã—55 mm meeldetuletus |
 | PEEGEL_TEE_F | Juhtide jaoks: hindamisvestluse SOP |
-| Supervisioon | Marge Sillaste — juhid, kes hoiavad teisi juhte |
+| Supervisioon | Marge Sillaste â€” juhid, kes hoiavad teisi juhte |
 
-### Faas 4 — Tagasiside operatsioonile
+### Faas 4 â€” Tagasiside operatsioonile
 
-- Igakuine kokkuvõte koordinaatorile: **mis töötab**, **mis triggerdas**, **üks parandus vormile**.
+- Igakuine kokkuvÃµte koordinaatorile: **mis tÃ¶Ã¶tab**, **mis triggerdas**, **Ã¼ks parandus vormile**.
 - Lisa AP audit: kas 12-aastane saab vormist aru?
 
 ---
@@ -275,19 +275,19 @@ Hindamine ilma järgmise sammuta on **kriitika**, mitte peegel.
 
 | Lisa | Seos |
 |------|------|
-| **I** | Dialoog, ettevalmistus, kuulamine — hindamise vaim |
+| **I** | Dialoog, ettevalmistus, kuulamine â€” hindamise vaim |
 | **P** | Spordikommentaator, trauma, turvalisus enne loogikat |
-| **M** | „Üks peegel päevas" + kuine sügavam peegel (see vorm) |
-| **N** | Demomees peab ise läbi elama enne teistele ütlemist |
+| **M** | â€Ãœks peegel pÃ¤evas" + kuine sÃ¼gavam peegel (see vorm) |
+| **N** | Demomees peab ise lÃ¤bi elama enne teistele Ã¼tlemist |
 | **Q** | GOTWA enne rasket vestlust; kata ja liigu = meeskonnakriteerium |
-| **AT** | Kui hindamine jättis segadusse — üks tegu, mitte uus vorm |
+| **AT** | Kui hindamine jÃ¤ttis segadusse â€” Ã¼ks tegu, mitte uus vorm |
 
 ---
 
-## Üks lause plaanile
+## Ãœks lause plaanile
 
-> **Iga pere ja allüksus teeb kord kuus või kvartalis 20-minutilise peegli vestluse — ja vastab ausalt ühele küsimusele: kas sa selle inimesega luurele läheksid?**
+> **Iga pere ja allÃ¼ksus teeb kord kuus vÃµi kvartalis 20-minutilise peegli vestluse â€” ja vastab ausalt Ã¼hele kÃ¼simusele: kas sa selle inimesega luurele lÃ¤heksid?**
 
 ---
 
-*Lisa AV — Operatsioon „Peegel". MKKo vorm ? kodaniku peegel. Viimati uuendatud: 2026-07-25.*
+*Lisa AV â€” Operatsioon â€Peegel". MKKo vorm ? kodaniku peegel. Viimati uuendatud: 2026-07-25.*

@@ -1,12 +1,12 @@
 # Kiht 0 — Üks leht vene keeles (RU tuum)
 
-> **Lugeja saab:** 1-leheküljeline venekeelne tuum.  
-> **Loe seda kui:** oled venekeelne kodanik Eestis (tee E).  
+> **Lugeja saab:** 1-leheküljeline venekeelne tuum. 
+> **Loe seda kui:** oled venekeelne kodanik Eestis (tee E). 
 > **Ära loe kui:** eesti keel on sulle piisav.
 
 
-**Siht:** Eesti venekeelne kodanik — lühike, praktiline, mitte poliitiline  
-**Seotud:** Lisa AN, Lisa AO, Lisa N, Lisa AP tee E  
+**Siht:** Eesti venekeelne kodanik — lühike, praktiline, mitte poliitiline 
+**Seotud:** Lisa AN, Lisa AO, Lisa N, Lisa AP tee E 
 **Kasutus:** Mihhail Ušakov või teine peer-educator; trükk / PDF / audio
 
 ---
@@ -38,11 +38,11 @@
 
 ### Пять принципов (kak u sportlase)
 
-1. **Уважай** — inimene tunneb väärtust  
-2. **Слушай** — mitte ainult vastamiseks  
-3. **Доверяй** — anna võimalus olla aus  
-4. **Будь открыт** — faktid võivad muuta mõtet  
-5. **Заботься** — üks konkreetne tegu  
+1. **Уважай** — inimene tunneb väärtust 
+2. **Слушай** — mitte ainult vastamiseks 
+3. **Доверяй** — anna võimalus olla aus 
+4. **Будь открыт** — faktid võivad muuta mõtet 
+5. **Заботься** — üks konkreetne tegu 
 
 *(Lisa N checklist — vene keeles)*
 
@@ -58,9 +58,9 @@
 
 ### Mida see EI ole
 
-- Poliitiline partei  
-- «Вы под влиянием»  
-- Ei asenda eesti keele raamatut  
+- Poliitiline partei 
+- «Вы под влиянием» 
+- Ei asenda eesti keele raamatut 
 - Ei nõua uskumist — **uuri ise**
 
 ---

@@ -1,10 +1,10 @@
 # Lisa L — Ministeeriumid ja Tervise Arengu Instituut
 
-**Seotud:** Operatsioon „Peegel" — riigi ja kodaniku ühine vastupidavus  
-**Eesmärk:** Juhtimisjuhised kõigile Eesti Vabariigi ministeeriumidele ja Tervise Arengu Instituudile (TAI) — protsesside ümberkorraldamine infosõja ja ühiskondliku kurnatuse vastu.  
+**Seotud:** Operatsioon „Peegel" — riigi ja kodaniku ühine vastupidavus 
+**Eesmärk:** Juhtimisjuhised kõigile Eesti Vabariigi ministeeriumidele ja Tervise Arengu Instituudile (TAI) — protsesside ümberkorraldamine infosõja ja ühiskondliku kurnatuse vastu. 
 **Raamistik:** Elon Muski viieastmeline algoritm, kohandatud avaliku sektori ja tervishoiu kontekstiks.
 
-> *„Kui sa ei ole sunnitud midagi lisama, ära lisa. Kui sa ei ole sunnitud midagi tegema, ära tee. Ja viimane samm — alles siis automatiseeri."*  
+> *„Kui sa ei ole sunnitud midagi lisama, ära lisa. Kui sa ei ole sunnitud midagi tegema, ära tee. Ja viimane samm — alles siis automatiseeri."* 
 > — Muski algoritm, kohandatud Operatsioonile „Peegel"
 
 ---
@@ -22,13 +22,13 @@ Operatsioon „Peegel" kutsub riigi asutusi — eriti **Tervise Arengu Instituut
 **Oluline reegel:** Sammu 5 juurde ei tohi minna enne, kui sammud 1–4 on tehtud. Automatiseerida üleliigset protsessi tähendab kiirendada ebaõnnestumist.
 
 ```
-  ┌─────────────────────────────────────────────────────────────────┐
-  │  1. KÜSI NÕUDEID          →  Kes pani selle reegli? Miks?        │
-  │  2. KUSTUTA               →  Eemalda see, mis ei too väärtust   │
-  │  3. LIHTSUSTA / OPTIMEERI →  Jäta alles minimaalne, mis töötab  │
-  │  4. KIIRUSTA TSÜKLIT      →  Lühem tee kodanikuni / otsuseni    │
-  │  5. AUTOMATISEERI         →  Alles nüüd — IT, AI, self-service  │
-  └─────────────────────────────────────────────────────────────────┘
+ ┌─────────────────────────────────────────────────────────────────┐
+ │ 1. KÜSI NÕUDEID → Kes pani selle reegli? Miks? │
+ │ 2. KUSTUTA → Eemalda see, mis ei too väärtust │
+ │ 3. LIHTSUSTA / OPTIMEERI → Jäta alles minimaalne, mis töötab │
+ │ 4. KIIRUSTA TSÜKLIT → Lühem tee kodanikuni / otsuseni │
+ │ 5. AUTOMATISEERI → Alles nüüd — IT, AI, self-service │
+ └─────────────────────────────────────────────────────────────────┘
 ```
 
 ### Samm 1 — Küsi nõudeid (Make requirements less dumb)
@@ -99,8 +99,8 @@ Kiirus ei tähenda lohakust. Kiirus tähendab: lühem aeg probleemist lahendusen
 
 ## Tervise Arengu Instituut (TAI) — spetsiifilised juhised
 
-**Asutus:** Tervise Arengu Instituut (TAI) — riiklik teadus- ja arendusasutus tervise valdkonnas.  
-**Veeb:** tai.ee  
+**Asutus:** Tervise Arengu Instituut (TAI) — riiklik teadus- ja arendusasutus tervise valdkonnas. 
+**Veeb:** tai.ee 
 **Operatsioonis roll:** Rahvatervise, ennetuse ja tervisekäitumise teadlikkuse tugevdamine — otseselt seotud Operatsioon „Peegel" eesmärgiga murda lootusetuse ja hirmu narratiiv.
 
 ### TAI eesmärk operatsioonis
@@ -162,7 +162,7 @@ Operatsioon „Peegel" ei asenda riigikapmet. See täiendab seda: **kodanik peab
 |--------------|----------------------------|------------------------|
 | **Riigi Kantselei** | Koordineerimine, kriisikommunikatsioon | Kustuta koosolekuid; kiirenda otsuseid |
 | **Haridus ja Teadus** | Kriitiline mõtlemine, väärtusharidus (vt Lisa J) | Küsi: kas protsess teenib õpetajat või aruannet? |
-| **Kaitse** | Riigikaitse, vastupanuvõime (koos KVA, CR) | Lihtsusta: selge sõnum kodanikule |
+| **Kaitse** | Riigikaitse, vastupanuvõime (koos KVA) | Lihtsusta: selge sõnum kodanikule |
 | **Kliima** | Pika mängu mõtlemine, keskkonnahoid | Ära kasuta hirmu manipulatsiooniks |
 | **Kultuur** | Identiteet, keel, ühised väärtused | Kustuta tsensuuriühilduv „turvalisuse" mask |
 | **Maael** | Maapiirkondade elujõud, kogukonnad | Kiirenda: lihtne tee toetusteni |
@@ -221,7 +221,7 @@ Operatsioon „Peegel" ei asenda riigikapmet. See täiendab seda: **kodanik peab
 | **Lisa H, F** | Vaimne tervis, kriis — TAI ja Sotsiaalministeerium |
 | **Lisa O** | Immuniseerimine — aus kommunikatsioon, Terviseamet, Sotsiaalkaitse |
 | **Lisa J** | Haridus — Haridusministeerium |
-| **Lisa K** | Võrgustik — koostöö CR, Kaitse, StratKom-iga |
+| **Lisa K** | Võrgustik — koostöö partneritega, Kaitse, StratKom-iga |
 
 ---
 

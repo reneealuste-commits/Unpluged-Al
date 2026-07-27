@@ -1,236 +1,236 @@
-# Lisa AY — Kuldne sild, esimene manööver ja valitsuse uuendus
+# Lisa AY â€” Kuldne sild, esimene manÃ¶Ã¶ver ja valitsuse uuendus
 
-> **Lugeja saab:** esimese manöövri doktriini — ava silmad, mitte ümberkukutamine; kuldne sild ametnikele; juhtide värbamine; AI integratsioon.  
-> **Loe seda kui:** mõtled valitsuse vastutust, asendamist või reformi — alusta siit.  
-> **Ära loe kui:** otsid kiiret kriisiabi peres — alusta Lisa H.
+> **Lugeja saab:** esimese manÃ¶Ã¶vri doktriini â€” ava silmad, mitte Ã¼mberkukutamine; kuldne sild ametnikele; juhtide vÃ¤rbamine; AI integratsioon. 
+> **Loe seda kui:** mÃµtled valitsuse vastutust, asendamist vÃµi reformi â€” alusta siit. 
+> **Ã„ra loe kui:** otsid kiiret kriisiabi peres â€” alusta Lisa H.
 
-**Operatsioon „Peegel"** | Strateegiline raamistik | Põhimõte: *võida ilma hävitamata — jäta ukse lahti*
+**Operatsioon â€Peegel"** | Strateegiline raamistik | PÃµhimÃµte: *vÃµida ilma hÃ¤vitamata â€” jÃ¤ta ukse lahti*
 
-**Allikad:** Sun Tzu, *The Art of War* (ca 5. jh eKr); Donald J. Trump & Tony Schwartz, *The Art of the Deal* (1987); Elon Muski protsess (**Lisa L**); Daniel Kahneman (**Lisa AW**); Chase Hughes (käitumisprofiil, NCI/6MX). Seotud: **Lisa T** (valitsuse kriis), **Lisa AJ** (kuldne taganemistee partneritele), **Lisa I** (inimesekeskne juhtimine), **Lisa AR** (Vooglaid — kodaniku mõte).
+**Allikad:** Sun Tzu, *The Art of War* (ca 5. jh eKr); Donald J. Trump & Tony Schwartz, *The Art of the Deal* (1987); Elon Muski protsess (**Lisa L**); Daniel Kahneman (**Lisa AW**); Chase Hughes (kÃ¤itumisprofiil, NCI/6MX). Seotud: **Lisa T** (valitsuse kriis), **Lisa AJ** (kuldne taganemistee partneritele), **Lisa I** (inimesekeskne juhtimine), **Lisa AR** (Vooglaid â€” kodaniku mÃµte).
 
-> *„Kui sa ümbritsed vaenlase, jäta alati tee põgenemiseks."* — Sun Tzu (kuldse silla tuum)
+> *â€Kui sa Ã¼mbritsed vaenlase, jÃ¤ta alati tee pÃµgenemiseks."* â€” Sun Tzu (kuldse silla tuum)
 
-> *„Me ei viska valitsust ümber. Me avame silmad — esimene manööver."* — Operatsioon „Peegel"
+> *â€Me ei viska valitsust Ã¼mber. Me avame silmad â€” esimene manÃ¶Ã¶ver."* â€” Operatsioon â€Peegel"
 
 ---
 
 ## Miks see lisa on
 
-Eesti valitsus on **kriisis vähemalt 15 aastat** — mitte ühe päeva, ühe erakonna ega ühe ministri viga.
+Eesti valitsus on **kriisis vÃ¤hemalt 15 aastat** â€” mitte Ã¼he pÃ¤eva, Ã¼he erakonna ega Ã¼he ministri viga.
 
-| Mõõdik (Lisa T) | Tähendus |
+| MÃµÃµdik (Lisa T) | TÃ¤hendus |
 |-----------------|----------|
 | Valitsuse usaldus ~30% | Rahvas ei usalda otsustajaid |
 | PM heakskiit ~21% | Legitiimsuse kriis |
-| TFR 1,16, sündide langus | Tulemused ei teeni peresid |
-| Laste vaesus, üksikvanemad | KPI-d halvenevad |
+| TFR 1,16, sÃ¼ndide langus | Tulemused ei teeni peresid |
+| Laste vaesus, Ã¼ksikvanemad | KPI-d halvenevad |
 
-**Vastutuse küsimus:** kui inimene või meeskond saab halbu tulemusi **15 aastat** ja keegi ei küsi „miks?" — see ei ole juhtimine. See on **ellujäämisreiim** ilma tagasisideta.
+**Vastutuse kÃ¼simus:** kui inimene vÃµi meeskond saab halbu tulemusi **15 aastat** ja keegi ei kÃ¼si â€miks?" â€” see ei ole juhtimine. See on **ellujÃ¤Ã¤misreÅ¾iim** ilma tagasisideta.
 
-Aga Peegel **ei tee** järgmist:
+Aga Peegel **ei tee** jÃ¤rgmist:
 
 | ? Me ei tee | ? Me teeme |
 |-------------|------------|
-| Riigipöörde plaani | Kodanikualgatus + reform |
-| Avalikku häbistamist | **Kuldne sild** — au säilitav väljapääs |
-| Kohtuotsust tänavalt | Faktid õiguslikele kanalitele |
-| „Kõik välja, kohe" | **Ava silmad** ? koolitus ? vahetus samm-sammult |
+| RiigipÃ¶Ã¶rde plaani | Kodanikualgatus + reform |
+| Avalikku hÃ¤bistamist | **Kuldne sild** â€” au sÃ¤ilitav vÃ¤ljapÃ¤Ã¤s |
+| Kohtuotsust tÃ¤navalt | Faktid Ãµiguslikele kanalitele |
+| â€KÃµik vÃ¤lja, kohe" | **Ava silmad** ? koolitus ? vahetus samm-sammult |
 
 ---
 
-## 1. Esimene manööver — ava silmad (covert ? avalik)
+## 1. Esimene manÃ¶Ã¶ver â€” ava silmad (covert ? avalik)
 
-Sun Tzu: *„Kõrgeim kunst on võita ilma lahinguta."*
+Sun Tzu: *â€KÃµrgeim kunst on vÃµita ilma lahinguta."*
 
-**Esimene manööver** ei ole inimeste vahetamine. See on **teadlikkuse tõstmine**:
+**Esimene manÃ¶Ã¶ver** ei ole inimeste vahetamine. See on **teadlikkuse tÃµstmine**:
 
 ```
-FAAS 0 (esimene manööver)
-   ?
-   ?? Mini-kursus: kriitiline mõtlemine + keha + profiil (inglise keeles videod)
-   ?? Lisa AW: ära usu oma aju — usu keha
-   ?? Lisa T: KPI-d — kas tulemus teenib peret?
-   ?? Covert: üks inimene, üks vestlus, üks küsimus
-        ?
-        ?
-FAAS 1 — kuldne sild (pakkumine)
-        ?
-        ?
-FAAS 2 — koolitus / üleminek / vabatahtlik taganemine
-        ?
-        ?
-FAAS 3 — juhtide vahetus + struktuuri kustutamine (Lisa L) + AI (samm 5)
+FAAS 0 (esimene manÃ¶Ã¶ver)
+ ?
+ ?? Mini-kursus: kriitiline mÃµtlemine + keha + profiil (inglise keeles videod)
+ ?? Lisa AW: Ã¤ra usu oma aju â€” usu keha
+ ?? Lisa T: KPI-d â€” kas tulemus teenib peret?
+ ?? Covert: Ã¼ks inimene, Ã¼ks vestlus, Ã¼ks kÃ¼simus
+ ?
+ ?
+FAAS 1 â€” kuldne sild (pakkumine)
+ ?
+ ?
+FAAS 2 â€” koolitus / Ã¼leminek / vabatahtlik taganemine
+ ?
+ ?
+FAAS 3 â€” juhtide vahetus + struktuuri kustutamine (Lisa L) + AI (samm 5)
 ```
 
-**Covert** tähendab: ei reklaami, ei sildista, ei ründa. Üks vestlus. Üks küsimus: *„Kas sa tead, mis KPI sinu ametis viimase 15 aasta jooksul tegi?"*
+**Covert** tÃ¤hendab: ei reklaami, ei sildista, ei rÃ¼nda. Ãœks vestlus. Ãœks kÃ¼simus: *â€Kas sa tead, mis KPI sinu ametis viimase 15 aasta jooksul tegi?"*
 
 ---
 
-## 2. Kuldne sild — Sun Tzu + Art of the Deal
+## 2. Kuldne sild â€” Sun Tzu + Art of the Deal
 
-### Sun Tzu — sõjapidamise kunst
+### Sun Tzu â€” sÃµjapidamise kunst
 
-| Põhimõte | Peegli tõlge valitsusele |
+| PÃµhimÃµte | Peegli tÃµlge valitsusele |
 |----------|--------------------------|
-| Jäta põgenemistee | Anna au säilitav väljapääs — mitte avalik häbi |
-| Võida ilma lahinguta | Muuda mõtlemist enne, kui vahetad inimest |
-| Tea ennast ja vastast | Lisa T profiilid + Lisa AW mõttevead |
-| Ära jäta vaenlast nurka | Nurga inimene võitleb kõige jõulisemalt |
+| JÃ¤ta pÃµgenemistee | Anna au sÃ¤ilitav vÃ¤ljapÃ¤Ã¤s â€” mitte avalik hÃ¤bi |
+| VÃµida ilma lahinguta | Muuda mÃµtlemist enne, kui vahetad inimest |
+| Tea ennast ja vastast | Lisa T profiilid + Lisa AW mÃµttevead |
+| Ã„ra jÃ¤ta vaenlast nurka | Nurga inimene vÃµitleb kÃµige jÃµulisemalt |
 
-### Trump — *The Art of the Deal* (läbirääkimised)
+### Trump â€” *The Art of the Deal* (lÃ¤birÃ¤Ã¤kimised)
 
-| Põhimõte | Peegli tõlge |
+| PÃµhimÃµte | Peegli tÃµlge |
 |----------|--------------|
-| **Think big** | Eesti väärib paremaid tulemusi — mitte väiksemaid ootusi |
-| **Protect the downside** | Kuldne sild kaitseb riiki — vähem kaost |
-| **Maximize options** | Mitte üks järeltulija — **avatud kutse** parematele juhtidele |
-| **Use your leverage** | Faktid + KPI-d + rahva usaldus — mitte emotsioon |
-| **Deliver the goods** | Uus juht peab näitama tulemust — mitte ainult sõna |
+| **Think big** | Eesti vÃ¤Ã¤rib paremaid tulemusi â€” mitte vÃ¤iksemaid ootusi |
+| **Protect the downside** | Kuldne sild kaitseb riiki â€” vÃ¤hem kaost |
+| **Maximize options** | Mitte Ã¼ks jÃ¤reltulija â€” **avatud kutse** parematele juhtidele |
+| **Use your leverage** | Faktid + KPI-d + rahva usaldus â€” mitte emotsioon |
+| **Deliver the goods** | Uus juht peab nÃ¤itama tulemust â€” mitte ainult sÃµna |
 
-> *Kuldne sild ei ole „anna kõik andeks". See on: „sul on valik — tee paremini või astu au sees kõrvale."*
+> *Kuldne sild ei ole â€anna kÃµik andeks". See on: â€sul on valik â€” tee paremini vÃµi astu au sees kÃµrvale."*
 
 ### Kaks teed ametnikule (kuldne sild)
 
-| Tee | Mida see tähendab |
+| Tee | Mida see tÃ¤hendab |
 |-----|-------------------|
-| **A — Üle tule** | Jää ametisse · läbi koolituse (Lisa T §11) · tee paremaid otsuseid · meeskond meie poole |
-| **B — Astu kõrvale** | Vabatahtlik taganemine · dokumenteeritud üleandmine · **ei avalikku häbistamist** · Lisa AJ vaim |
+| **A â€” Ãœle tule** | JÃ¤Ã¤ ametisse Â· lÃ¤bi koolituse (Lisa T Â§11) Â· tee paremaid otsuseid Â· meeskond meie poole |
+| **B â€” Astu kÃµrvale** | Vabatahtlik taganemine Â· dokumenteeritud Ã¼leandmine Â· **ei avalikku hÃ¤bistamist** Â· Lisa AJ vaim |
 
-Mõlemad on **võit**. Tee B on parem kui võitlus kuni lõpuni.
+MÃµlemad on **vÃµit**. Tee B on parem kui vÃµitlus kuni lÃµpuni.
 
 ---
 
-## 3. Tõendid ja vastutus — õiguslik raam
+## 3. TÃµendid ja vastutus â€” Ãµiguslik raam
 
-**Operatsiooni reegel:** faktid kogutakse **enne** survet. Surve läheb **õiguslikele kanalitele** — mitte tänavale.
+**Operatsiooni reegel:** faktid kogutakse **enne** survet. Surve lÃ¤heb **Ãµiguslikele kanalitele** â€” mitte tÃ¤navale.
 
 | Samm | Tegevus |
 |------|---------|
-| 1 | **Dokumenteeri** — KPI, otsused, deklaratsioonid, avalik OSINT (Lisa T) |
-| 2 | **Hüpotees ? fakt** — erista analüüs süüdistusest |
-| 3 | **Esita** — prokuratuur, Riigikontroll, ajakirjandus, rahva arutelu |
-| 4 | **Kuldne sild** — pakku enne avalikku konfrontatsiooni |
-| 5 | **Kui keeldub** — demokraatlik surve: valimised, usaldushääletus, avalik arutelu |
+| 1 | **Dokumenteeri** â€” KPI, otsused, deklaratsioonid, avalik OSINT (Lisa T) |
+| 2 | **HÃ¼potees ? fakt** â€” erista analÃ¼Ã¼s sÃ¼Ã¼distusest |
+| 3 | **Esita** â€” prokuratuur, Riigikontroll, ajakirjandus, rahva arutelu |
+| 4 | **Kuldne sild** â€” pakku enne avalikku konfrontatsiooni |
+| 5 | **Kui keeldub** â€” demokraatlik surve: valimised, usaldushÃ¤Ã¤letus, avalik arutelu |
 
-Me **ei süüdista** üksikuid ilma tõenditeta (Lisa T piirangud). Me **nõuame vastutust tulemuste eest** — 15 aastat halbu KPI-sid on muster, mitte üks viga.
+Me **ei sÃ¼Ã¼dista** Ã¼ksikuid ilma tÃµenditeta (Lisa T piirangud). Me **nÃµuame vastutust tulemuste eest** â€” 15 aastat halbu KPI-sid on muster, mitte Ã¼ks viga.
 
-**Kriis ja riigi reetmine:** kui ametnik teadlikult kahjustab riigi huvi kriisi ajal — see on **õiguslik küsimus**, mitte OPORD-i käsk. Kodanik kogub fakte ja suunab ametlikesse kanalitesse.
+**Kriis ja riigi reetmine:** kui ametnik teadlikult kahjustab riigi huvi kriisi ajal â€” see on **Ãµiguslik kÃ¼simus**, mitte OPORD-i kÃ¤sk. Kodanik kogub fakte ja suunab ametlikesse kanalitesse.
 
 ---
 
-## 4. Paremad juhid — avatud kutse
+## 4. Paremad juhid â€” avatud kutse
 
-Me ei pea teadma kõiki nimesid ette. Me teeme **kutse**:
+Me ei pea teadma kÃµiki nimesid ette. Me teeme **kutse**:
 
-> *„Eesti vajab paremaid juhte kui need, kes on andnud 15 aastat halbu tulemusi. Soovita peaministrit. Soovita ministrit. Soovita enda — kui sa suudad KPI-d parandada."*
+> *â€Eesti vajab paremaid juhte kui need, kes on andnud 15 aastat halbu tulemusi. Soovita peaministrit. Soovita ministrit. Soovita enda â€” kui sa suudad KPI-d parandada."*
 
 ### Kutse kanalid
 
 | Kanal | Kuidas |
 |-------|--------|
-| Võrgustik (Lisa K) | Iga partner soovitab 1–3 nime |
+| VÃµrgustik (Lisa K) | Iga partner soovitab 1â€“3 nime |
 | Avalik vorm | GitHub issue / e-kiri koordinaatorile (hiljem formaalne) |
-| Kriteeriumid | Lisa T §11 „Valik" + Lisa I Steiger + Lisa AW mõttevead |
+| Kriteeriumid | Lisa T Â§11 â€Valik" + Lisa I Steiger + Lisa AW mÃµttevead |
 
-### Minimaalsed nõuded kandidaadile
+### Minimaalsed nÃµuded kandidaadile
 
 | # | Kriteerium |
 |---|------------|
-| 1 | Tulemused — mitte ainult CV |
-| 2 | Traumateadlikkus + mõttevigade kursus (Lisa T §11) |
-| 3 | Keha teadlikkus — ei otsusta kaitsepositsioonist |
-| 4 | Ausus — huvide deklaratsioon õigeaegselt |
-| 5 | Pere KPI — kas otsus teenib lapsi ja peresid? |
-| 6 | Valmis demokraatlikule kontrollile — mitte „minu sõna on seadus" |
+| 1 | Tulemused â€” mitte ainult CV |
+| 2 | Traumateadlikkus + mÃµttevigade kursus (Lisa T Â§11) |
+| 3 | Keha teadlikkus â€” ei otsusta kaitsepositsioonist |
+| 4 | Ausus â€” huvide deklaratsioon Ãµigeaegselt |
+| 5 | Pere KPI â€” kas otsus teenib lapsi ja peresid? |
+| 6 | Valmis demokraatlikule kontrollile â€” mitte â€minu sÃµna on seadus" |
 
-**Palju kohti on avatud** — sest palju kohti **kustutatakse** (Lisa L samm 2).
+**Palju kohti on avatud** â€” sest palju kohti **kustutatakse** (Lisa L samm 2).
 
 ---
 
-## 5. AI ja struktuur — kustuta enne kui automatiseeri
+## 5. AI ja struktuur â€” kustuta enne kui automatiseeri
 
 Lisa L (Muski algoritm) kehtib valitsusele:
 
 ```
-1. KÜSI    ? Kas see ametikoht on üldse vajalik?
+1. KÃœSI ? Kas see ametikoht on Ã¼ldse vajalik?
 2. KUSTUTA ? Dubleerivad ministeeriumid, koosolekud, aruanded
-3. LIHTSUSTA ? Üks kanal kodanikule
-4. KIIRUSTA ? Otsus päevades, mitte kuudes
-5. AUTOMATISEERI ? AI alles viimasena — kui protsess on tõestatud
+3. LIHTSUSTA ? Ãœks kanal kodanikule
+4. KIIRUSTA ? Otsus pÃ¤evades, mitte kuudes
+5. AUTOMATISEERI ? AI alles viimasena â€” kui protsess on tÃµestatud
 ```
 
-| AI võib | Inimene peab |
+| AI vÃµib | Inimene peab |
 |---------|--------------|
 | Eelarve simulatsioonid | Eeskuju, empaatia |
-| Seaduseelnõude analüüs | Poliitiline vastutus |
-| Statistika, KPI jälgimine | „Miks me seda teeme?" |
-| Bürokraatia marsruutimine | Kriis otsused, pere |
+| SeaduseelnÃµude analÃ¼Ã¼s | Poliitiline vastutus |
+| Statistika, KPI jÃ¤lgimine | â€Miks me seda teeme?" |
+| BÃ¼rokraatia marsruutimine | Kriis otsused, pere |
 
-**AI ei asenda** juhti täielikult — inimene on vaja seal, kus on **emotsioon, usaldus ja vastutus**. Aga 80% **halva protsessi** võib AI + lihtsustamine ära võtta.
+**AI ei asenda** juhti tÃ¤ielikult â€” inimene on vaja seal, kus on **emotsioon, usaldus ja vastutus**. Aga 80% **halva protsessi** vÃµib AI + lihtsustamine Ã¤ra vÃµtta.
 
 ---
 
-## 6. Vahetusstrateegia — koolita, siis vaheta
+## 6. Vahetusstrateegia â€” koolita, siis vaheta
 
-| Tüüp | Tegevus |
+| TÃ¼Ã¼p | Tegevus |
 |------|---------|
-| **Valmis üle tulema** | Koolitus (mini-kursus + Lisa T §11) ? jää ? paremad otsused |
-| **Keskmine** | Koolitus + mentor (Lisa I) ? 90 päeva jälg ? otsus |
+| **Valmis Ã¼le tulema** | Koolitus (mini-kursus + Lisa T Â§11) ? jÃ¤Ã¤ ? paremad otsused |
+| **Keskmine** | Koolitus + mentor (Lisa I) ? 90 pÃ¤eva jÃ¤lg ? otsus |
 | **Ei tule kaasa** | Kuldne sild B ? vabatahtlik taganemine ? asendamine |
-| **Kahjustab riiki** | Tõendid ? õiguslik kanal (mitte OPORD maffia) |
+| **Kahjustab riiki** | TÃµendid ? Ãµiguslik kanal (mitte OPORD maffia) |
 
-**Me ei viska kõike korraga üle.** Sun Tzu: järk-järgult. Üks amet, üks kvartal, üks mõõdetav KPI.
+**Me ei viska kÃµike korraga Ã¼le.** Sun Tzu: jÃ¤rk-jÃ¤rgult. Ãœks amet, Ã¼ks kvartal, Ã¼ks mÃµÃµdetav KPI.
 
 ---
 
-## 7. Mini-kursus — ava silmad (inglise keeles videod)
+## 7. Mini-kursus â€” ava silmad (inglise keeles videod)
 
-**Eesmärk:** lühike kursus — inimene (sh ametnik) hakkab **nägema läbi**. Enne debatti. Enne ametist vabastamist. Enne uut ametit.
+**EesmÃ¤rk:** lÃ¼hike kursus â€” inimene (sh ametnik) hakkab **nÃ¤gema lÃ¤bi**. Enne debatti. Enne ametist vabastamist. Enne uut ametit.
 
-**Täielik plaani fail:** `kursid/K0-ava-silmad-mini-en.md`
+**TÃ¤ielik plaani fail:** `kursid/K0-ava-silmad-mini-en.md`
 
-### Kursi tuum (5 moodulit, ~2–3 tundi kokku)
+### Kursi tuum (5 moodulit, ~2â€“3 tundi kokku)
 
 | # | Moodul | Allikas | Keel |
 |---|--------|---------|------|
-| 1 | **Ära usu oma aju** — System 1, algoritmid | Lisa AW + Kahneman (ET kokkuvõte) | ET + EN video |
+| 1 | **Ã„ra usu oma aju** â€” System 1, algoritmid | Lisa AW + Kahneman (ET kokkuvÃµte) | ET + EN video |
 | 2 | **Critical thinking & bias** | Kahneman, loogikavead | EN |
-| 3 | **Behavior profiling** — näe inimest, mitte maski | Chase Hughes — 6MX / Behavior Panel (YouTube) | EN |
-| 4 | **Negotiation & golden bridge** | Sun Tzu + Art of the Deal (kokkuvõte Lisa AY) | ET |
-| 5 | **KPI ja vastutus** | Lisa T — 15 aasta kriis, perede mõõdikud | ET |
+| 3 | **Behavior profiling** â€” nÃ¤e inimest, mitte maski | Chase Hughes â€” 6MX / Behavior Panel (YouTube) | EN |
+| 4 | **Negotiation & golden bridge** | Sun Tzu + Art of the Deal (kokkuvÃµte Lisa AY) | ET |
+| 5 | **KPI ja vastutus** | Lisa T â€” 15 aasta kriis, perede mÃµÃµdikud | ET |
 
-### Chase Hughes — mida kasutame (mitte kopeeri kogu kursust)
+### Chase Hughes â€” mida kasutame (mitte kopeeri kogu kursust)
 
-| Tööriist | Mida see annab |
+| TÃ¶Ã¶riist | Mida see annab |
 |----------|----------------|
-| **Behavioral Table of Elements** | Keha ja näo signaalid — enne sõna |
-| **6-Minute X-Ray** (6MX) | Kiire profiil — kas inimene on stressis, defensives |
-| **The Behavior Panel** (YouTube) | Tasuta analüüsid — kriitiline mõtlemine praktikas |
-| **Listening Between the Lines** | Mida inimene **tegelikult** ütleb |
+| **Behavioral Table of Elements** | Keha ja nÃ¤o signaalid â€” enne sÃµna |
+| **6-Minute X-Ray** (6MX) | Kiire profiil â€” kas inimene on stressis, defensives |
+| **The Behavior Panel** (YouTube) | Tasuta analÃ¼Ã¼sid â€” kriitiline mÃµtlemine praktikas |
+| **Listening Between the Lines** | Mida inimene **tegelikult** Ã¼tleb |
 
-> *Hughes on **inglise keeles**. Videod on operatsiooni **esimene manööver** — silmade avamine. Täielik NCI on valikuline, mitte kohustus.*
+> *Hughes on **inglise keeles**. Videod on operatsiooni **esimene manÃ¶Ã¶ver** â€” silmade avamine. TÃ¤ielik NCI on valikuline, mitte kohustus.*
 
-### Kohustuslik enne valitsuse ametit (Lisa T §11 + Lisa AY)
+### Kohustuslik enne valitsuse ametit (Lisa T Â§11 + Lisa AY)
 
-Lisa T nõue laiendub:
+Lisa T nÃµue laiendub:
 
-1. Traumateadlikkus (8–16 h)
-2. Mõttevead (Lisa AW)
+1. Traumateadlikkus (8â€“16 h)
+2. MÃµttevead (Lisa AW)
 3. NVC baas
 4. Pere KPI seminar
-5. **Mini-kursus K0** (`kursid/K0-ava-silmad-mini-en.md`) — vähemalt moodulid 1–3
+5. **Mini-kursus K0** (`kursid/K0-ava-silmad-mini-en.md`) â€” vÃ¤hemalt moodulid 1â€“3
 
 ---
 
-## 8. Sun Tzu tsitaadid — operatsiooni kontekstis
+## 8. Sun Tzu tsitaadid â€” operatsiooni kontekstis
 
-| Tsitaat (kokkuvõte) | Peegel |
+| Tsitaat (kokkuvÃµte) | Peegel |
 |---------------------|--------|
-| „Kõrgeim kunst — võita ilma lahinguta" | Ava silmad enne vahetust |
-| „Jäta põgenemistee" | Kuldne sild |
-| „Tea ennast" | Lisa AW, Lisa P — keha enne mõistust |
-| „Kõige parem võit — vastase plaanid lagunevad" | KPI-d räägivad ise |
-| „Ära korda sama viga" | 15 aastat sama tulemust = muster |
+| â€KÃµrgeim kunst â€” vÃµita ilma lahinguta" | Ava silmad enne vahetust |
+| â€JÃ¤ta pÃµgenemistee" | Kuldne sild |
+| â€Tea ennast" | Lisa AW, Lisa P â€” keha enne mÃµistust |
+| â€KÃµige parem vÃµit â€” vastase plaanid lagunevad" | KPI-d rÃ¤Ã¤givad ise |
+| â€Ã„ra korda sama viga" | 15 aastat sama tulemust = muster |
 
 ---
 
@@ -238,11 +238,11 @@ Lisa T nõue laiendub:
 
 | Ei | Jah |
 |----|-----|
-| Riigipöörd | Demokraatlik reform ja kodanikualgatus |
-| Erakonna kampaania | KPI-põhine vastutus |
-| Kohtu mõistmine tänaval | Tõendid ametlikele kanalitele |
-| AI diktatuur | AI tööriist — inimene vastutab |
-| Trumpi või Sun Tzu kummardamine | **Tööriistad** — võta mis töötab |
+| RiigipÃ¶Ã¶rd | Demokraatlik reform ja kodanikualgatus |
+| Erakonna kampaania | KPI-pÃµhine vastutus |
+| Kohtu mÃµistmine tÃ¤naval | TÃµendid ametlikele kanalitele |
+| AI diktatuur | AI tÃ¶Ã¶riist â€” inimene vastutab |
+| Trumpi vÃµi Sun Tzu kummardamine | **TÃ¶Ã¶riistad** â€” vÃµta mis tÃ¶Ã¶tab |
 
 ---
 
@@ -250,14 +250,14 @@ Lisa T nõue laiendub:
 
 | Lisa | Seos |
 |------|------|
-| **T** | 15 aasta kriis, KPI, §11 koolitus |
+| **T** | 15 aasta kriis, KPI, Â§11 koolitus |
 | **AJ** | Kuldne taganemistee partneritele (sama vaim ametnikele) |
 | **L** | Muski algoritm, AI samm 5 |
-| **AW** | Mõttevead, ära usu oma aju |
-| **I** | Inimesekeskne juhtimine — koolita, ära sunni |
-| **AR** | Vooglaid — kodaniku mõte, mitte tarbija |
-| **AX** | Demo-perekond — ühiskonna eeskuju, mitte poliitika |
+| **AW** | MÃµttevead, Ã¤ra usu oma aju |
+| **I** | Inimesekeskne juhtimine â€” koolita, Ã¤ra sunni |
+| **AR** | Vooglaid â€” kodaniku mÃµte, mitte tarbija |
+| **AX** | Demo-perekond â€” Ã¼hiskonna eeskuju, mitte poliitika |
 
 ---
 
-*Koostatud Operatsioon „Peegel" raames. Parandused: GitHub / Lisa AY.*
+*Koostatud Operatsioon â€Peegel" raames. Parandused: GitHub / Lisa AY.*

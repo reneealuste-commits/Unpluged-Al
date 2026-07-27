@@ -1,7 +1,7 @@
 # Lisa P — Takistused ja emotsioonide valideerimine
 
-> **Lugeja saab:** trauma-reegli ja valideerimise tööriistad.  
-> **Loe seda kui:** suhtled kellelegi, kes on ärevuses või kriisis.  
+> **Lugeja saab:** trauma-reegli ja valideerimise tööriistad. 
+> **Loe seda kui:** suhtled kellelegi, kes on ärevuses või kriisis. 
 > **Ära loe kui:** pole valmis kehakesksele lähenemisele.
 
 
@@ -264,7 +264,7 @@ Traumatiseeritud inimene = haukuv koer trauma olekus
 
 ### Renee operatsiooniline tõlgendus (Cooperi mõtteviis)
 
-> *„All women are weapons. Especially traumatized women."*  
+> *„All women are weapons. Especially traumatized women."* 
 > — Renee sõnastus operatsioonis (inglise keeles); **mitte süüdistus**, vaid **teadlikkuse** reegel.
 
 **Mida see TÄHENDAB:**
@@ -331,7 +331,7 @@ Traumatiseeritud inimene = haukuv koer trauma olekus
 |---|---|
 | **Emotsioon** | Kahtlus, legitiimsuse kontroll — „miks peaksin sind uskuma?" |
 | **Valideerimine** | *Loogiline küsida, kes räägib ja mis on ta taust. Sa ei pea kedagi usaldama ilma fakte kontrollimata.* |
-| **Vastus** | Lühike fakt + üks tõend: Renee Aluste — Kaitsevägi, Kaitseliit, Ranger School, Combat Ready. Täielik CV, koolituste maht ja meedialingid: **Lisa R**. Isiklik lugu: **Lisa H** / profiil. |
+| **Vastus** | Lühike fakt + üks tõend: Renee Aluste — Kaitsevägi, Kaitseliit, Ranger School, . Täielik CV, koolituste maht ja meedialingid: **Lisa R**. Isiklik lugu: **Lisa H** / profiil. |
 | **Küsimus** | *Mida sa kontrollisid viimati ise — enne kui otsustasid, et keegi on usaldusväärne?* |
 
 #### A2. „Sa oled hulluks läinud / see on liiga isiklik"
@@ -389,7 +389,7 @@ Traumatiseeritud inimene = haukuv koer trauma olekus
 |---|---|
 | **Emotsioon** | Võõrdõiguslikkus, kaitse naiste rolli eest |
 | **Valideerimine** | *Kui sõnum rõhutab isafiguuri, võib see tunduda, nagu ema rolli alandatakse. See on arusaadav mure. Ema on võrdselt keskne.* |
-| **Vastus** | Operatsioon on kõigile, kes kasvatavad ja hoolivad. Isafiguuri rõhutame, sest statistiliselt on paljudel lastel see tühimik — aga võit on iga tugev täiskasvanu. Combat Ready \| Her Way on naistele eraldi kanal. |
+| **Vastus** | Operatsioon on kõigile, kes kasvatavad ja hoolivad. Isafiguuri rõhutame, sest statistiliselt on paljudel lastel see tühimik — aga võit on iga tugev täiskasvanu. \| Her Way on naistele eraldi kanal. |
 | **Küsimus** | *Kes oli sinu elus see inimene, kes sind tõeliselt nägi?* |
 
 #### B3. „Sa oled ise olnud kiusaja — miks peaksin sind kuulama?"
@@ -507,13 +507,13 @@ Traumatiseeritud inimene = haukuv koer trauma olekus
 
 ### F. Äri, usaldus ja võrgustik
 
-#### F1. „Combat Ready teenib raha — see on müük"
+#### F1. „teenib raha — see on müük"
 
 | | |
 |---|---|
 | **Emotsioon** | Kahtlus, kaitse rahakoti eest — „jälle keegi müüb mulle lahendust" |
 | **Valideerimine** | *Kui sa oled maksnud kursuste eest, mis ei aidanud, on õige olla skeptiline. Sa ei pea ostma midagi, et olla operatsiooni osa.* |
-| **Vastus** | Combat Ready on ettevõte — jah, nad pakuvad koolitusi. Operatsiooni tuum on tasuta: see dokument, sõnum, eeskuju. Kui sa ei taha osta — ära osta. Võta see, mis on tasuta ja tõsi. |
+| **Vastus** | on ettevõte — jah, nad pakuvad koolitusi. Operatsiooni tuum on tasuta: see dokument, sõnum, eeskuju. Kui sa ei taha osta — ära osta. Võta see, mis on tasuta ja tõsi. |
 | **Küsimus** | *Mis on see üks asi, mida sa saad teha täna ilma raha kulutamata?* |
 
 #### F2. „Tantra, seks, spirituaalsus — see on sektilik / imelik"
@@ -522,7 +522,7 @@ Traumatiseeritud inimene = haukuv koer trauma olekus
 |---|---|
 | **Emotsioon** | Häbi, hirm, kaitse identiteedi eest — „ma ei ole selline inimene" |
 | **Valideerimine** | *Kui sa näed sõnu, mis tunduvad võõrad või ähvardavad, on loogiline tõmbuda tagasi. Sa ei pea minema festivalile ega tegema midagi, mis sinu väärtustega ei klapi.* |
-| **Vastus** | Operatsioon pakub mitut teed — sõjaline distsipliin, teadlikkus, tantra, loodus (Pühali). **Ükski ei ole kohustus.** Vali see, mis sulle sobib. Combat Ready, Lisa I või Lisa H on piisav algus. |
+| **Vastus** | Operatsioon pakub mitut teed — sõjaline distsipliin, teadlikkus, tantra, loodus (Pühali). **Ükski ei ole kohustus.** Vali see, mis sulle sobib. , Lisa I või Lisa H on piisav algus. |
 | **Küsimus** | *Mis tee sinu jaoks tundub turvaline — mitte võõras?* |
 
 #### F3. „Vaktsineerimine / Stefansson / toit — teie valik solvab minu valikut"

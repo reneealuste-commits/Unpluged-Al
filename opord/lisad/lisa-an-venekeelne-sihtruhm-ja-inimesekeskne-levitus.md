@@ -1,12 +1,12 @@
 # Lisa AN — Venekeelne sihtrühm, Heli piir ja inimesekeskne levitus
 
-> **Lugeja saab:** venekeelse kanali loogika ja levitamise reeglid.  
-> **Loe seda kui:** töötad RU auditooriumiga (tee E).  
+> **Lugeja saab:** venekeelse kanali loogika ja levitamise reeglid. 
+> **Loe seda kui:** töötad RU auditooriumiga (tee E). 
 > **Ära loe kui:** oled ainult eestikeelne lugeja.
 
 
-**Kontekst:** Heli Illipe-Sootak (2026-07-24): *„Sry, ma venekeelseid raamatuid ei kirjasta. Eriti veel praegu.“*  
-**Renee küsimus:** Kuidas mitte lõigata inimesi infost lahti? Kuidas täita **2. lahingureeglit (lihtsus)** — kui meeskond ei tea plaani, ei saa seda täita?  
+**Kontekst:** Heli Illipe-Sootak (2026-07-24): *„Sry, ma venekeelseid raamatuid ei kirjasta. Eriti veel praegu.“* 
+**Renee küsimus:** Kuidas mitte lõigata inimesi infost lahti? Kuidas täita **2. lahingureeglit (lihtsus)** — kui meeskond ei tea plaani, ei saa seda täita? 
 **Seotud:** Lisa AM, Lisa I, Lisa M, Lisa P, OPORD Q&A venekeelse ajakirjaniku kohta
 
 ---
@@ -52,7 +52,7 @@ Kui see lause on selge kogu meeskonnale (Heli, Renee, Remo, Toomse, demomehed), 
 | **Renee** | OPORD tuum, Peegel taskuraamat (Lisa AK), kanali strateegia |
 | **Uus / eraldi juht vene kanalil** | Vastuvõtja-orienteeritud sisu (vt §4) — **mitte Heli alluvuses** |
 | **Rene Toomse** | Institusionaalne sild (koolid, KV õpetus) |
-| **Remo / Combat Ready** | Levitus, e-pood; venekeelsed instruktorid kui olemas |
+| **Remo (isiklik taust)** | Levitus, e-pood; venekeelsed instruktorid kui olemas |
 
 ---
 
@@ -127,18 +127,18 @@ Huber päringus küsida **eraldi**:
 ## 7. Organisatsiooniline mudel
 
 ```
-                    KODANIKU TUUM (väärtused, Steigeri printsiibid)
-                              |
-            +-----------------+-----------------+
-            |                                   |
-     KANAL ET (Heli)                      KANAL RU (eraldi juht)
-     Kodaniku Raamat MTÜ                 nt: „Kodaniku Sõnum“ / partner MTÜ
-     Steiger litsents                       Peegel + kokkuvõte + audio
-     2 000–10 000 tk                       Kiht 0 kohe, raamat hiljem
-            |                                   |
-            +-----------------+-----------------+
-                              |
-                    Ühine levitus (Remo, koolid, KOV)
+ KODANIKU TUUM (väärtused, Steigeri printsiibid)
+ |
+ +-----------------+-----------------+
+ | |
+ KANAL ET (Heli) KANAL RU (eraldi juht)
+ Kodaniku Raamat MTÜ nt: „Kodaniku Sõnum“ / partner MTÜ
+ Steiger litsents Peegel + kokkuvõte + audio
+ 2 000–10 000 tk Kiht 0 kohe, raamat hiljem
+ | |
+ +-----------------+-----------------+
+ |
+ Ühine levitus (Remo, koolid, KOV)
 ```
 
 **Oluline:** Vene kanal **ei ole** Heli alluvuses ega tema nime all — see kaitseb teda ja projekti.
@@ -157,7 +157,7 @@ Huber päringus küsida **eraldi**:
 >
 > Kas see on sinu jaoks OK? Siis me ei ole vastuolus ja meeskond teab plaani.
 >
-> Kallis,  
+> Kallis, 
 > Renee
 
 ---
@@ -178,7 +178,7 @@ Huber päringus küsida **eraldi**:
 
 ## 10. Kandidaat: Mihhail Ušakov (venekeelne demomees)
 
-**Allikas:** Renee kontakt (2026-07-24)  
+**Allikas:** Renee kontakt (2026-07-24) 
 **Staatus:** EELKANDIDAAT — vestlus enne aktiveerimist
 
 ### Taust (kinnitatud / teada)

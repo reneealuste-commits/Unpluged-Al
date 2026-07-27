@@ -1,8 +1,8 @@
 # Lisa AI — Armastus päästab maailma: Epp Kärsin ja tankla hetk
 
-**Operatsioon „Peegel"** | Isiklik signaal — *mitte propaganda, vaid tõde*  
-**Kuupäev:** 24. juuli 2026  
-**Koostaja:** Renee Aluste  
+**Operatsioon „Peegel"** | Isiklik signaal — *mitte propaganda, vaid tõde* 
+**Kuupäev:** 24. juuli 2026 
+**Koostaja:** Renee Aluste 
 **Seotud:** Lisa AA (intiimsus, Epp Kärsin yoni koolitus), Lisa P (valideerimine), Lisa M (kodaniku identiteet)
 
 > *„Kui kõik muu läheb katki, jääb alles ainult see. Inimene, kes hoolib."*

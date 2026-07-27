@@ -1,7 +1,7 @@
 # Lisa Q — Side eeskirjad: kuidas me suhtleme
 
-> **Lugeja saab:** hääle, GOTWA, kata ja liigu ning austava keele SOP.  
-> **Loe seda kui:** suhtled iga päev inimestega (demomees).  
+> **Lugeja saab:** hääle, GOTWA, kata ja liigu ning austava keele SOP. 
+> **Loe seda kui:** suhtled iga päev inimestega (demomees). 
 > **Ära loe kui:** pole veel Lisa P trauma-reeglit lugenud.
 
 
@@ -159,26 +159,26 @@ Operatsioonis kasutame ingliskeelset mäluabi **GOTWA** (5 punkti). Iga kord, ku
 
 **Stsenaarium:** Demomees lahkub kodust, et minna ühe kodaniku (Andres) juurde. Abikaasa on kodus.
 
-> **G:** „I'm going to Andres — Kohila, his place, for a one-on-one."  
-> **O:** „I'm going alone. Renee knows."  
-> **T:** „Back by 19:00, or I'll text by 18:30."  
-> **W:** „If no text by 19:30 — call Renee at 56980062."  
+> **G:** „I'm going to Andres — Kohila, his place, for a one-on-one." 
+> **O:** „I'm going alone. Renee knows." 
+> **T:** „Back by 19:00, or I'll text by 18:30." 
+> **W:** „If no text by 19:30 — call Renee at 56980062." 
 > **A:** „If Andres is triggered — no debate. Sports commentator, then silence if needed. Lisa H numbers if crisis."
 
 **Stsenaarium:** Renee lõpetab vestluse Rene Toomsega, läheb järgmise kontaktini (SMS „Peegel" vastaja).
 
-> **G:** „Going to follow up with a citizen who texted Peegel — phone call, 30 minutes."  
-> **O:** „Alone. Priit Lilleväli is backup if I ask."  
-> **T:** „Done by 17:00."  
-> **W:** „If not done — I send one line: delayed, new time."  
+> **G:** „Going to follow up with a citizen who texted Peegel — phone call, 30 minutes." 
+> **O:** „Alone. Priit Lilleväli is backup if I ask." 
+> **T:** „Done by 17:00." 
+> **W:** „If not done — I send one line: delayed, new time." 
 > **A:** „If trauma trigger — safety first, Lisa P, no logic. EMDR path if needed."
 
 **Stsenaarium:** Demomees vahetab kontakti kodus (laps → partner).
 
-> **G:** „Going to talk with Henry — homework stress, 15 minutes, his room."  
-> **O:** „Just me and him. Lily is in the kitchen."  
-> **T:** „Fifteen minutes, then dinner."  
-> **W:** „If we're not out by then — knock once, we'll finish."  
+> **G:** „Going to talk with Henry — homework stress, 15 minutes, his room." 
+> **O:** „Just me and him. Lily is in the kitchen." 
+> **T:** „Fifteen minutes, then dinner." 
+> **W:** „If we're not out by then — knock once, we'll finish." 
 > **A:** „If he shuts down — sports commentator, not lecture. Emergency: silence, space, Lisa H."
 
 ---
@@ -269,7 +269,6 @@ Kui inimene teab, et **keegi tuleb** — et ta ei pea partnerit alt vedama, et h
 | Kodaniku mõte | Vooglaid, Paal (Lisa AR) | Raamat, vestlus — mitte spämm |
 
 
-
 ---
 
 ## 6. Seos teiste lisadega
@@ -288,15 +287,15 @@ Kui inimene teab, et **keegi tuleb** — et ta ei pea partnerit alt vedama, et h
 
 ```
 PÕHIREEGEL: Kohtle kõiki asjaosalisi nagu terveid, täiesti normaalseid inimesi
-LIHTSUS:   Kui ei tea plaani — Lisa AT · üks samm korraga
-PARETO:  6 tööriista = 80% tulemust (turvalisus · spordikommentaator · GOTWA · hääl · teietamine · valideerimine)
-HÄÄL:    Põhi = mänguline | ALT = FM-DJ | Kontingents = selge | Häda = vaikus, pööra ära
-KEEL:    Teietamine · austav keha · mitte üleolev
+LIHTSUS: Kui ei tea plaani — Lisa AT · üks samm korraga
+PARETO: 6 tööriista = 80% tulemust (turvalisus · spordikommentaator · GOTWA · hääl · teietamine · valideerimine)
+HÄÄL: Põhi = mänguline | ALT = FM-DJ | Kontingents = selge | Häda = vaikus, pööra ära
+KEEL: Teietamine · austav keha · mitte üleolev
 LIIGUMINE: Enne iga uut kontakti → GOTWA (inglise keeles, 5 punkti)
 VESTLUS: Spordikommentaator (Lisa P) enne parandamist
-ABI:     Kata ja liigu — ära oota palvet (§4)
-KRIIS:   Lisa H · 655 8088 · 116 123 · 116 006 · 112
-KINNI:   Lisa AT otsuspuu
+ABI: Kata ja liigu — ära oota palvet (§4)
+KRIIS: Lisa H · 655 8088 · 116 123 · 116 006 · 112
+KINNI: Lisa AT otsuspuu
 ```
 
 ---

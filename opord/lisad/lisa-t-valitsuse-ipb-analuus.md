@@ -1,21 +1,21 @@
 # Lisa T — Valitsuse hetke-analüüs
 
-> **Lugeja saab:** hetke-analüüsi, KPI ja ministrite profiilid.  
-> **Loe seda kui:** tahad fakte ja konteksti (tee B/F, K3).  
+> **Lugeja saab:** hetke-analüüsi, KPI ja ministrite profiilid. 
+> **Loe seda kui:** tahad fakte ja konteksti (tee B/F, K3). 
 > **Ära loe kui:** otsid lihtsat igapäevategu — alusta TUUM-ist.
 
 
 **Operatsioon „Peegel"** | Ranger Handbook (FM 3-21.76) — IPB raamistik | Põhimõte: *me ei süüdi inimesi — me mõõdame tulemusi ja küsime miks*
 
-**Kuupäev:** 24. juuli 2026  
-**Siht:** Kristen Michali valitsus (54. valitsus), 13 ministrit  
-**Lühikokkuvõte:** OPORD alguses — sektsioon „Hetke-analüüs"  
+**Kuupäev:** 24. juuli 2026 
+**Siht:** Kristen Michali valitsus (54. valitsus), 13 ministrit 
+**Lühikokkuvõte:** OPORD alguses — sektsioon „Hetke-analüüs" 
 **Seotud:** **Lisa I** (inimesekeskne juhtimine), **Lisa S** (trauma), **Lisa P** (NVC, valideerimine), **Lisa L** (ministeeriumid)
 
 ## Hetke-analüüs — rahva teenijate tegevuse kaardistamine Ranger Handbooki meetodil
 
-**Klassifikatsioon:** Avalik — Eesti kodanikele  
-**Analüüsi tüüp:** Kodanikualgatuslik IPB (Intelligence Preparation of the Battlefield)  
+**Klassifikatsioon:** Avalik — Eesti kodanikele 
+**Analüüsi tüüp:** Kodanikualgatuslik IPB (Intelligence Preparation of the Battlefield) 
 **Viide:** Ranger Handbook — Composition, Disposition, Strength, Recent Activities, Capabilities, COA
 
 ---
@@ -235,28 +235,28 @@ Ranger Handbook (FM 3-21.76) nõuab patrulli juhilt **täielikku olukorra kaardi
 ### 6.1 Composition (koosseis)
 
 ```
-                    ┌─────────────────────────────────────┐
-                    │  PEAMINISTER — Kristen Michal (Ref) │
-                    └──────────────────┬──────────────────┘
-         ┌─────────────────────────────┼─────────────────────────────┐
-         │                             │                             │
-   ┌─────▼─────┐               ┌───────▼───────┐              ┌──────▼──────┐
-   │ MAJANDUS  │               │ KAITSE / VÄLIS│              │ SOTSIAALNE  │
-   │ Ligi      │               │ Pevkur        │              │ Joller      │
-   │ Keldo     │               │ Tsahkna       │              │ Kallas      │
-   │ Sutt      │               │               │              │             │
-   └───────────┘               └───────────────┘              └─────────────┘
-         │                             │                             │
-   ┌─────▼─────┐               ┌───────▼───────┐              ┌──────▼──────┐
-   │ ÕIGUS/DIGI│               │ SISEKAITSE    │              │ KULTUUR/REG │
-   │ Pakosta   │               │ Taro          │              │ Purga       │
-   │           │               │               │              │ Terras      │
-   └───────────┘               └───────────────┘              └─────────────┘
-                                       │
-                               ┌───────▼───────┐
-                               │ TARISTU       │
-                               │ Leis          │
-                               └───────────────┘
+ ┌─────────────────────────────────────┐
+ │ PEAMINISTER — Kristen Michal (Ref) │
+ └──────────────────┬──────────────────┘
+ ┌─────────────────────────────┼─────────────────────────────┐
+ │ │ │
+ ┌─────▼─────┐ ┌───────▼───────┐ ┌──────▼──────┐
+ │ MAJANDUS │ │ KAITSE / VÄLIS│ │ SOTSIAALNE │
+ │ Ligi │ │ Pevkur │ │ Joller │
+ │ Keldo │ │ Tsahkna │ │ Kallas │
+ │ Sutt │ │ │ │ │
+ └───────────┘ └───────────────┘ └─────────────┘
+ │ │ │
+ ┌─────▼─────┐ ┌───────▼───────┐ ┌──────▼──────┐
+ │ ÕIGUS/DIGI│ │ SISEKAITSE │ │ KULTUUR/REG │
+ │ Pakosta │ │ Taro │ │ Purga │
+ │ │ │ │ │ Terras │
+ └───────────┘ └───────────────┘ └─────────────┘
+ │
+ ┌───────▼───────┐
+ │ TARISTU │
+ │ Leis │
+ └───────────────┘
 ```
 
 **Erakondlik jaotus:** Reform 8, Eesti 200 5.

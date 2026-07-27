@@ -1,17 +1,17 @@
 # Lisa N — Üksus „Aluste_kool“ (SOK)
 
-> **Lugeja saab:** demomehe päevase checklisti ja SOK ülesanded.  
-> **Loe seda kui:** oled või tahad saada demomeheks (tee D).  
+> **Lugeja saab:** demomehe päevase checklisti ja SOK ülesanded. 
+> **Loe seda kui:** oled või tahad saada demomeheks (tee D). 
 > **Ära loe kui:** oled esimene kord — alusta PEEGEL_TUUM.pdf.
 
 
-**Operatsioon „Peegel"** | Kodaniku demomeeste üksus | Aktiveerija: Renee Aluste  
-**Staatus:** AKTIVEERITUD  
+**Operatsioon „Peegel"** | Kodaniku demomeeste üksus | Aktiveerija: Renee Aluste 
+**Staatus:** AKTIVEERITUD 
 **Üksuse kood:** `Aluste_kool`
 
 ### Sõjakooli deviis
 
-**EE · Sõnaga mõõga vastu**  
+**EE · Sõnaga mõõga vastu** 
 *Verbo contra gladium*
 
 > Ladina traditsioonis ka: *Verbum gladio fortius* — „sõna on mõõgast tugevam".
@@ -24,7 +24,7 @@ Me ei võida vägivallaga — võidame **selge keele**, **lugupidava sõna** ja 
 
 Renee Aluste aktiveerib üksuse **Aluste_kool** — SOK (sõpruskonna) liikmed, kelle kohustus on kasutada **sõduriõpikut** ja lugeda läbi **Kaitseväe viisakuseeskirja** põhimõtted (sisemäärustik, rivikord, teenistuslik suhtlus).
 
-> *„Minu austus on kujunenud bälja kaitseväe rivi eeskirja tõttu. Seal on konkreetselt kirjas, mis sa pead ütlema ja millal. Õpetatakse lugupidavalt suhtlema."*  
+> *„Minu austus on kujunenud bälja kaitseväe rivi eeskirja tõttu. Seal on konkreetselt kirjas, mis sa pead ütlema ja millal. Õpetatakse lugupidavalt suhtlema."* 
 > — Renee Aluste
 
 **Teie võimalus on katsetada, mis töötab.**
@@ -83,7 +83,7 @@ See lisa ei sisalda avalikku nimekirja. Üksus **Aluste_kool** on neile, kes on 
 2. Kasutada päevast checklisti.
 3. Katsetada päriselus, mis töötab — ja anda tagasisidet.
 
-Kui sa tunned, et see kirjeldus on sinu kohta — oled õiges kohas. Kui mitte — vaata Lisa K hajutatud ettevõtjate võrgustikku või Combat Ready koolitusi.
+Kui sa tunned, et see kirjeldus on sinu kohta — oled õiges kohas. Kui mitte — vaata Lisa K hajutatud ettevõtjate võrgustikku või koolitusi.
 
 **Demomehe kolm ülesannet:** loe allikad · kasuta checklisti · anna tagasiside.
 
@@ -176,7 +176,7 @@ Tsiviilis kasutatav versioon — ilma teatrita, aga selgusega:
 |------|------|------|
 | Üksuse aktiveerija | Renee Aluste | Operatsiooni koordinaator |
 | Demomeeste ring | SOK läbinud (omavaheline) | Aus tagasiside — ilma avaliku nimekirjata |
-| Tugi juhtimisel | Priit Lilleväli / Combat Ready | Kui checklist tõstab traumat või kriisi |
+| Tugi juhtimisel | Priit Lilleväli / | Kui checklist tõstab traumat või kriisi |
 
 **Side SOP kõigile demomeestele:** **Lisa Q** — häälerežiimid, GOTWA (KOP5), austav keel, igapäevased näited. **Lisa X** — taskukaardid väljapoole suhtlemiseks (kirjuta märkmikku, hoia taskus).
 
@@ -184,7 +184,7 @@ Tsiviilis kasutatav versioon — ilma teatrita, aga selgusega:
 
 ## 8. Seos operatsiooniga
 
-**Aluste_kool** on operatsiooni **kodaniku demomeeste** üksus — väiksem ja tihedam kui kogu võrgustik. Kui Combat Ready õpetab juhtimist ettevõtetele, siis Aluste_kool õpetab **austust ja lugupidavat suhtlust** igapäevases elus.
+**Aluste_kool** on operatsiooni **kodaniku demomeeste** üksus — väiksem ja tihedam kui kogu võrgustik. Kui õpetab juhtimist ettevõtetele, siis Aluste_kool õpetab **austust ja lugupidavat suhtlust** igapäevases elus.
 
 **Juhtimine demomehe ringis (V-formatsioon):** üks mees ei saa kogu aeg ees vedada. Kui vaja minna ette, alustab praegu tugevaim — ja **otsib kogu aeg**, kes ta võimalusel välja vahetab. Vahetus ei ole trots; see on meeskonna jätkusuutlikkus (vt Lisa I).
 

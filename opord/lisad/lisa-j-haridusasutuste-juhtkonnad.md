@@ -1,6 +1,6 @@
 # Lisa J — Haridusasutuste juhtkonnad
 
-**Seotud:** Operatsioon „Peegel" — haridustase  
+**Seotud:** Operatsioon „Peegel" — haridustase 
 **Eesmärk:** Täielik meeskondade nimekiri, taust ja operatsioonis rollid koolide juhtidel, kes toetavad noorte vastupanuvõimet, praktilist haridust ja inimesekeskset juhtimist. Hõlmab Techno TLN, Kaitseväe Akadeemia, Rocca al Mare Kooli, **Tallinna Vaba Waldorfkooli** ja **Montessori koole ning lasteaedu** (üle Eesti).
 
 > *Kool on esimene riiklik struktuur, kuhu laps jõuab peale kodu. Kui koolijuht juhib inimesi — mitte ainult protsesse — on see operatsiooni võit.*
@@ -9,8 +9,8 @@
 
 ## 1. Tallinna Tehnoloogiakolledž Techno TLN
 
-**Veeb:** techno.ee  
-**Kontakt:** info@techno.ee | sisseastumine@techno.ee  
+**Veeb:** techno.ee 
+**Kontakt:** info@techno.ee | sisseastumine@techno.ee 
 **Taust:** Nelja Tallinna kutsekooli (Lasnamäe Mehaanikakool, Polütehnikum, Tööstushariduskeskus, Ehituskool) ühendamisel sündinud riigi suurim rakenduslik tehnoloogiakolledž. ~6000 õppijat (2030. aastal ~10 000). Nelja õppelinnakuga (Mustamäe, Järve, Lasnamäe, Kesklinn). Eesmärk: muuta rakenduslik keskharidus noorte esimeseks valikuks — mitte „järeleandmine", vaid tulevikukindel tee.
 
 **Operatsioonis roll:** Haridustase — praktiline vastupanuvõime, tehnoloogiline kirjaoskus, tööstuse ja noorte ühendamine. Toetab Faas II (tugevdamine) ja Faas III (peegeldamine koolides).
@@ -24,9 +24,9 @@
 - **Roll operatsioonis:** Haridustaseme strateegiline eestvedaja; ühendab kutsehariduse, tööstuse ja kodaniku vastutuse narratiivi.
 - **Taust:** Majandusdoktor, ettevõtja, Tartu Ülikooli majandusteaduskonna külalisprofessor. Endine Teaduspargi Tehnopoli juht, Cap käivitaja. OSKA raportite ja tööstuspoliitika kogemus. Alates 2025. aasta augustist Techno TLN direktor; ametlik ühendkool 1. septembril 2026.
 - **Ülesanne operatsioonis:**
-  1. Viia kutsehariduse sõnum noorteni: praktiline oskus on vastupanuvõime osa.
-  2. Luua koostöö Combat Ready Youth, Laste Supermängud ja tööstusega — mentorlus ja praktika.
-  3. Muuta tehnoloogiakolledž kohtuks, kus noor saab eeskuju enne algoritmi.
+ 1. Viia kutsehariduse sõnum noorteni: praktiline oskus on vastupanuvõime osa.
+ 2. Luua koostöö noorteprogramm, Laste Supermängud ja tööstusega — mentorlus ja praktika.
+ 3. Muuta tehnoloogiakolledž kohtuks, kus noor saab eeskuju enne algoritmi.
 
 #### Birgit Vilgats (PhD) — Õppejuht
 
@@ -35,9 +35,9 @@
 - **Roll operatsioonis:** Õppekava ja õpikogemuse eestvedaja; loov- ja tehnoloogiah hariduse integratsioon.
 - **Taust:** Doktorikraad kasvatusteadustes. Endine Tallinna Ülikooli Balti Filmi- ja Meediakooli (BFM) direktor (viis aastat). TLÜ kvaliteedijuht; Eesti Hariduse Kvaliteediagentuuri kõrghariduse arendaja.
 - **Ülesanne operatsioonis:**
-  1. Nelja-aastane paindlik õppemudel — üks põhieriala + laiendavad oskused (AI-ajastu valmisolek).
-  2. Uute erialade ja õppevormide loomine, mis köidavad noori — eriti tüdrukuid tehnoloogias.
-  3. Kriitilise mõtlemise ja praktilise tegemise lõimimine igasse õppesuunda.
+ 1. Nelja-aastane paindlik õppemudel — üks põhieriala + laiendavad oskused (AI-ajastu valmisolek).
+ 2. Uute erialade ja õppevormide loomine, mis köidavad noori — eriti tüdrukuid tehnoloogias.
+ 3. Kriitilise mõtlemise ja praktilise tegemise lõimimine igasse õppesuunda.
 
 #### Andra Piirsalu — Personalijuht
 
@@ -46,9 +46,9 @@
 - **Roll operatsioonis:** Inimeste juhtimine nelja kooli ühendamisel; kultuuri ehitamine.
 - **Taust:** Kogemus hotellinduses (Radisson Blu Sky, Telegraaf), personalijuhtimises ja organisatsioonide arendamises. Mentor ja koolitaja. Alates 2026. aasta jaanuarist Techno TLN personalijuht.
 - **Ülesanne operatsioonis:**
-  1. Toetada juhte ja töötajaid neljas koolimajas ühendamise protsessis — inimesed enne protsesse.
-  2. Luua noortekeskne, kaasaegne ja inimesekeskne organisatsioonikultuur.
-  3. Rakendada Steigeri põhimõtteid (Lisa I) personalitöös: dialoog, ausus, vastutus.
+ 1. Toetada juhte ja töötajaid neljas koolimajas ühendamise protsessis — inimesed enne protsesse.
+ 2. Luua noortekeskne, kaasaegne ja inimesekeskne organisatsioonikultuur.
+ 3. Rakendada Steigeri põhimõtteid (Lisa I) personalitöös: dialoog, ausus, vastutus.
 
 #### Ander Sile — Insenerihariduse valdkonna juht
 
@@ -57,18 +57,18 @@
 - **Roll operatsioonis:** Tööstustehnoloogia ja insenerihariduse seos tööturuga.
 - **Taust:** Techno TLN insenerihariduse valdkonna juht (Head of Engineering Education). Kogemus tööstuse ja kutseõppe koostöös; aktiivne tööstushariduse kommunikatsioonis (sh Tööstusuudised).
 - **Ülesanne operatsioonis:**
-  1. Siduda õppijad ettevõtete ja praktikabaasidega — noored näevad päris maailma.
-  2. Tõsta tööstustehnoloogia ja insenerihariduse mainet noorte seas.
-  3. Koordineerida valdkondlike nõunike kogude loomist (erialaliidud, ettevõtjad, vilistlased).
+ 1. Siduda õppijad ettevõtete ja praktikabaasidega — noored näevad päris maailma.
+ 2. Tõsta tööstustehnoloogia ja insenerihariduse mainet noorte seas.
+ 3. Koordineerida valdkondlike nõunike kogude loomist (erialaliidud, ettevõtjad, vilistlased).
 
 #### Tõnu Armulik — Arendusdirektor
 
 - **Roll operatsioonis:** Rahvusvaheline koostöö, Erasmus+ ja pikaajaline arendus.
 - **Taust:** Endine Tallinna Ehituskooli arendusdirektor. Pikaaegne kogemus kutsehariduse rahvusvahelises koostöös ja Erasmus+ programmides.
 - **Ülesanne operatsioonis:**
-  1. Viia Techno TLN arengukava ellu nelja kooli ühendamisel.
-  2. Luua partnerlused, mis toovad noortele uusi võimalusi ja maailmavaadet.
-  3. Toetada ehitus- ja tehnoloogiavaldkonna õppe arendamist.
+ 1. Viia Techno TLN arengukava ellu nelja kooli ühendamisel.
+ 2. Luua partnerlused, mis toovad noortele uusi võimalusi ja maailmavaadet.
+ 3. Toetada ehitus- ja tehnoloogiavaldkonna õppe arendamist.
 
 #### Kristel Bankier — Finants- ja partnerlusjuht
 
@@ -77,9 +77,9 @@
 - **Roll operatsioonis:** Finantsjätkusuutlikkus ja strateegilised partnerid (tööstus, riik).
 - **Kontakt:** kristel.bankier@techno.ee
 - **Ülesanne operatsioonis:**
-  1. Tagada, et haridusinvesteering toob tulemust — mitte ainult paberil.
-  2. Luua partnerlused ettevõtetega, kes võtavad noori praktikale ja mentorlusele.
-  3. Toetada kolledži kasvu 6000 → 10 000 õppijani (2030).
+ 1. Tagada, et haridusinvesteering toob tulemust — mitte ainult paberil.
+ 2. Luua partnerlused ettevõtetega, kes võtavad noori praktikale ja mentorlusele.
+ 3. Toetada kolledži kasvu 6000 → 10 000 õppijani (2030).
 
 #### Kristel Martis — Turundus- ja kogukonnajuht
 
@@ -88,9 +88,9 @@
 - **Roll operatsioonis:** Kogukonna ja õpilaste sidemete tugevdamine; avalik sõnum.
 - **Kontakt:** kristel.martis@techno.ee
 - **Ülesanne operatsioonis:**
-  1. Muuta Techno TLN „lahedaks" noorte seas — mitte rebränding, vaid sisuline identiteet.
-  2. Ehita kogukond: õpilased, vilistlased, mentorid, ettevõtjad.
-  3. Levitada operatsiooni sõnumit hariduskanalites — vastutus, praktilised oskused.
+ 1. Muuta Techno TLN „lahedaks" noorte seas — mitte rebränding, vaid sisuline identiteet.
+ 2. Ehita kogukond: õpilased, vilistlased, mentorid, ettevõtjad.
+ 3. Levitada operatsiooni sõnumit hariduskanalites — vastutus, praktilised oskused.
 
 #### Toivo Pärnpuu — Digiteenuste ja IT juht
 
@@ -99,9 +99,9 @@
 - **Roll operatsioonis:** Digitaalne taristu ja infohügieen koolis.
 - **Kontakt:** toivo.parnpuu@techno.ee
 - **Ülesanne operatsioonis:**
-  1. Tagada, et kooli digikeskkond toetab õppimist — mitte ei lõhu tähelepanu.
-  2. Arendada digiteenuseid nelja õppelinnaku ühendamiseks.
-  3. Toetada noorte digikirjaoskust ja kriitilist mõtlemist veebis.
+ 1. Tagada, et kooli digikeskkond toetab õppimist — mitte ei lõhu tähelepanu.
+ 2. Arendada digiteenuseid nelja õppelinnaku ühendamiseks.
+ 3. Toetada noorte digikirjaoskust ja kriitilist mõtlemist veebis.
 
 #### Mari Vavulski — Muudatuste projektijuht
 
@@ -110,16 +110,16 @@
 - **Roll operatsioonis:** Nelja kooli ühendamise projektijuhtimine.
 - **Kontakt:** mari.vavulski@techno.ee | +372 5626 0306
 - **Ülesanne operatsioonis:**
-  1. Koordineerida üleminekut üheks kolledžiks — ajakava, ressursid, inimesed.
-  2. Tagada, et muudatus ei murra inimesi — vaid viib nad edasi.
-  3. Raporteerida juhtkonnale ja partneritele edenemisest.
+ 1. Koordineerida üleminekut üheks kolledžiks — ajakava, ressursid, inimesed.
+ 2. Tagada, et muudatus ei murra inimesi — vaid viib nad edasi.
+ 3. Raporteerida juhtkonnale ja partneritele edenemisest.
 
 ---
 
 ## 2. Kaitseväe Akadeemia (KVA)
 
-**Veeb:** kvak.ee  
-**Asukoht:** Tartu (Riiamäe, Raadi)  
+**Veeb:** kvak.ee 
+**Asukoht:** Tartu (Riiamäe, Raadi) 
 **Taust:** Eesti ainus riigikaitseline rakenduskõrgkool. Koolitab kaitseväe ülemaid, arendab sõjateadust ja juhtimiskultuuri. Akrediteeritud rakenduskõrgharidus. 2026. aastal 200 õppekohta maa-, mere- ja õhuväe õppekavadel.
 
 **Operatsioonis roll:** Operatiivne haridustase — juhtimine, distsipliin, kriitiline mõtlemine, inimesekeskne juhtimine (Steiger, Lisa I). Aarne Ermus on juba operatsiooni põhivõrgustikus (vt peamine OPORD).
@@ -134,9 +134,9 @@
 - **Taust:** Kaitseväe Akadeemia ülem; rakenduskõrgharidusseaduse järgi rektor. Juhib akadeemiat, mis koolitab järgmise põlvkonna kaitseväe juhte.
 - **Kontakt:** johan-elias.seljamaa@mil.ee | 717 6100
 - **Ülesanne operatsioonis:**
-  1. Hoida kõrget juhtimisstandardit — see mõjutab kogu riigi kaitsevõimet.
-  2. Toetada tsiviil- ja sõjalise hariduse dialoogi (riigikaitse algab kodus).
-  3. Jagada juhtimispõhimõtteid, mis sobivad ka kodanikule (mitte ainult mundris).
+ 1. Hoida kõrget juhtimisstandardit — see mõjutab kogu riigi kaitsevõimet.
+ 2. Toetada tsiviil- ja sõjalise hariduse dialoogi (riigikaitse algab kodus).
+ 3. Jagada juhtimispõhimõtteid, mis sobivad ka kodanikule (mitte ainult mundris).
 
 #### Kolonelleitnant Rainek Kuura — Õppeosakonna ülem
 
@@ -144,18 +144,18 @@
 - **Taust:** Kaitseväe Akadeemia õppeosakonna ülem. Vastutab tasemeõppe, täienduskoolituse ja teadus- ja arendustegevuse eest õppetöös.
 - **Kontakt:** rainek.kuura@mil.ee | 717 6301
 - **Ülesanne operatsioonis:**
-  1. Tagada, et õppekavad arendavad kriitilist mõtlemist ja praktilist juhtimist.
-  2. Koordineerida õppejõudude ja tsiviilpartnerite koostööd.
-  3. Toetada operatsiooni sõnumit: juhtimine on oskus, mida saab õppida.
+ 1. Tagada, et õppekavad arendavad kriitilist mõtlemist ja praktilist juhtimist.
+ 2. Koordineerida õppejõudude ja tsiviilpartnerite koostööd.
+ 3. Toetada operatsiooni sõnumit: juhtimine on oskus, mida saab õppida.
 
 #### Staabiveebel Indrek Ojasoo — Akadeemia veebel
 
 - **Roll operatsioonis:** Akadeemia traditsioonide ja distsipliini kandmine; protokoll ja kultuur.
 - **Kontakt:** indrek.ojasoo@mil.ee | 717 6003
 - **Ülesanne operatsioonis:**
-  1. Hoida akadeemia vaimset pühadust ja järjepidevust.
-  2. Toetada juhtkonna otsuste elluviimist.
-  3. Olla eeskuju distsipliinis ja aususes.
+ 1. Hoida akadeemia vaimset pühadust ja järjepidevust.
+ 2. Toetada juhtkonna otsuste elluviimist.
+ 3. Olla eeskuju distsipliinis ja aususes.
 
 #### Kolonel Aarne Ermus — Juhtimise suuna juht ja lektor
 
@@ -165,17 +165,17 @@
 - **Taust:** Kaitseväe Akadeemia juhtimise suuna juht. Endine Kaitsejõudude Peastaabi ülem, Kuperjanovi pataljoni ülem, Kaitseväe Ühendatud Õppeasutuste ülem. (Täielik profiil: peamine OPORD.)
 - **Kontakt:** kvak.ee
 - **Ülesanne operatsioonis:**
-  1. Levitada KVA juhtimispõhimõtteid tsiviiloperatsiooni „Peegel" raames.
-  2. Siduda kvak.ee rollikirjelduste põhimõtted kodanike ja koolide juhtidega.
-  3. Toetada Steigeri inimesekeskset juhtimist (Lisa I) nii kadettide kui tsiviiljuhtide seas.
+ 1. Levitada KVA juhtimispõhimõtteid tsiviiloperatsiooni „Peegel" raames.
+ 2. Siduda kvak.ee rollikirjelduste põhimõtted kodanike ja koolide juhtidega.
+ 3. Toetada Steigeri inimesekeskset juhtimist (Lisa I) nii kadettide kui tsiviiljuhtide seas.
 
 ---
 
 ## 3. Rocca al Mare Kool (RaM Kool)
 
-**Veeb:** ramkool.edu.ee  
-**Asukoht:** Vabaõhumuuseumi tee 8, Tallinn (Haabersti)  
-**Kontakt:** info@ramkool.edu.ee | 6 507 800  
+**Veeb:** ramkool.edu.ee 
+**Asukoht:** Vabaõhumuuseumi tee 8, Tallinn (Haabersti) 
+**Kontakt:** info@ramkool.edu.ee | 6 507 800 
 **Taust:** Eraõiguslik põhikool-gümnaasium alates 2000. aastast. Missioon: *„Toetada maailma paremaks muutvaid unistusi ja nende teostamist."* Motto: *„Unistused muudavad maailma."* Tuntud väärtuskoolina, kiusuennetuse, loodusklassi ja vanemate kaasamise poolest. Kooli juhib direktor koostöös juhtkonnaga; kooli pidaja on Rocca al Mare Kooli Sihtasutus ja AS.
 
 **Operatsioonis roll:** Haridustase — väärtuspõhine koolikeskkond, kus laps veedab suure osa ajast pärast kodu. Elmar Vaheri lapsed õpivad siin; tema ja abikaasa Helin Vaher on kooliperega seotud lapsevanemate ja nõustajate rollis. Toetab Faas II (tugevdamine) ja Faas III (peegeldamine koolides).
@@ -190,9 +190,9 @@
 - **Taust:** Ettevõtja ja pankur. Rocca al Mare Kooli asutaja (1999). Nõukogu esimees alates kooli algusest. Eestvedaja ka Marbella eesti õppekeelega RaM kooli avamisel.
 - **Kontakt:** ramkool.edu.ee
 - **Ülesanne operatsioonis:**
-  1. Hoida kooli missiooni: unistused ja teostamine — mitte ainult testitulemused.
-  2. Toetada väärtuskooli mudelit, mis kaitseb last infomürast ja emotsionaalsest manipulatsioonist.
-  3. Siduda RaM Kool operatsiooni haridustaseme võrgustikuga (Techno TLN, KVA, Combat Ready Youth).
+ 1. Hoida kooli missiooni: unistused ja teostamine — mitte ainult testitulemused.
+ 2. Toetada väärtuskooli mudelit, mis kaitseb last infomürast ja emotsionaalsest manipulatsioonist.
+ 3. Siduda RaM Kool operatsiooni haridustaseme võrgustikuga (Techno TLN, KVA, noorteprogramm).
 
 #### Sirje Toomla-Õige — Direktor, Rocca al Mare Kooli AS juhatuse esimees
 
@@ -202,9 +202,9 @@
 - **Taust:** Direktor alates 31. juulist 2020. Varem Haabneeme Kooli direktor (Viimsi). Rocca al Mare Kooli AS juhatuse esimees.
 - **Kontakt:** sirje.toomla@ramkool.edu.ee | 6 507 805
 - **Ülesanne operatsioonis:**
-  1. Tagada, et koolis õpitakse kriitilist mõtlemist ja väärtusi — mitte ainult aineid.
-  2. Koordineerida juhtkonda, vanematekogu ja õppenõukogu koostööd.
-  3. Toetada kiusuennetust ja psühholoogilist turvalisust — vastupanuvõime algab klassiruumis.
+ 1. Tagada, et koolis õpitakse kriitilist mõtlemist ja väärtusi — mitte ainult aineid.
+ 2. Koordineerida juhtkonda, vanematekogu ja õppenõukogu koostööd.
+ 3. Toetada kiusuennetust ja psühholoogilist turvalisust — vastupanuvõime algab klassiruumis.
 
 #### Rein Rebane — Direktor emeeritus, nõukogu liige
 
@@ -214,9 +214,9 @@
 - **Taust:** Rocca al Mare Kooli esimene direktor (konkurss 2000). Pikaajaline kogemus kooli loomisel ja arendamisel. Nõukogu liige.
 - **Kontakt:** rein.rebane@ramkool.edu.ee | 6 507 805
 - **Ülesanne operatsioonis:**
-  1. Hoida järjepidevust kooli algse visiooni ja tänase praktika vahel.
-  2. Toetada juhtkonda kriisi- ja muutuste olukordades.
-  3. Jagada kogemust väärtuskooli juhtimises teiste haridusasutustega.
+ 1. Hoida järjepidevust kooli algse visiooni ja tänase praktika vahel.
+ 2. Toetada juhtkonda kriisi- ja muutuste olukordades.
+ 3. Jagada kogemust väärtuskooli juhtimises teiste haridusasutustega.
 
 ### Juhtkond
 
@@ -271,9 +271,9 @@
 - **Taust:** RKIK peadirektor; endine PPA peadirektor (2013–2023). Tema lapsed õpivad Rocca al Mare Koolis. Pakub koolidele ja lasteaedadele pro bono juhtimisalast nõustamist; on andnud RaM Koolile tagasisidet kriisikava osas. (Täielik profiil: peamine OPORD.)
 - **Kontakt:** kaitseinvesteeringud.ee
 - **Ülesanne operatsioonis:**
-  1. Siduda riiklik kaitsevalmidus ja koolielu — laps peab tundma turvalisust nii kodus kui klassis.
-  2. Toetada kooli kriisivalmidust ja juhtimispraktikat (Steigeri põhimõtted, Lisa I).
-  3. Olla eeskuju lapsevanemana: vastutus, ausus, valmisolek.
+ 1. Siduda riiklik kaitsevalmidus ja koolielu — laps peab tundma turvalisust nii kodus kui klassis.
+ 2. Toetada kooli kriisivalmidust ja juhtimispraktikat (Steigeri põhimõtted, Lisa I).
+ 3. Olla eeskuju lapsevanemana: vastutus, ausus, valmisolek.
 
 #### Helin Vaher — Lapsevanem, kommunikatsiooniekspert
 
@@ -283,18 +283,18 @@
 - **Taust:** Agenda PR partner. Endine valitsuse meedianõunik (2015–2017). Endine PPA kommunikatsioonijuht. Elmar Vaheri abikaasa; nende lapsed õpivad Rocca al Mare Koolis. RaM Kooli vanematekogu on korraldanud töövarjupäevi, kus õpilased on saanud kogemust ka Helin Vaheri tööalaselt.
 - **Kontakt:** helin.vaher@agendapr.ee
 - **Ülesanne operatsioonis:**
-  1. Toetada koolipere avalikku sõnumit — aus, selge, ilma manipulatsioonita.
-  2. Aidata vanematel mõista infohügieeni ja meediakriitikat.
-  3. Siduda lapsevanemate kogukond operatsiooni sõnumiga: vastutus algab kodus.
+ 1. Toetada koolipere avalikku sõnumit — aus, selge, ilma manipulatsioonita.
+ 2. Aidata vanematel mõista infohügieeni ja meediakriitikat.
+ 3. Siduda lapsevanemate kogukond operatsiooni sõnumiga: vastutus algab kodus.
 
 ---
 
 ## 4. Tallinna Vaba Waldorfkool (TVW)
 
-**Veeb:** [waldorf.ee](https://waldorf.ee)  
-**Asukoht:** Tuulemaa 12, 10312 Tallinn (Pelguranna)  
-**Kontakt:** tallinn@waldorf.ee | 601 6504 | selts@waldorf.ee  
-**Pidaja:** MTÜ Haridus- ja Kultuuriselts Tuulemaa (reg 80000675)  
+**Veeb:** [waldorf.ee](https://waldorf.ee) 
+**Asukoht:** Tuulemaa 12, 10312 Tallinn (Pelguranna) 
+**Kontakt:** tallinn@waldorf.ee | 601 6504 | selts@waldorf.ee 
+**Pidaja:** MTÜ Haridus- ja Kultuuriselts Tuulemaa (reg 80000675) 
 **Taust:** 2001. aastal lapsevanemate initsiatiivil loodud waldorfpedagoogikat järgiv üldhariduskool (eelkool, põhikool, gümnaasium, 1.–12. klass). ~110+ õpilast, ~30 õpetajat. Kooli visioon: **vaba inimene** — võtab vastutuse oma elu eest, hoolib kogukonnast ja loodusest, on avatud uutele ideedele. Missioon: sotsiaalse ja füüsilise keskkonna loomine tervikliku inimese kujunemise toetamiseks.
 
 **Operatsioonis roll:** Haridustase — väärtuspõhine, kogukondlik kool, kus laps kasvab **terviklikult** (hingeline, vaimne, füüsiline), mitte ainult testitulemuste jaoks. Waldorfi kogukonnatunne ja lapsevanemate kaasatus sobivad operatsiooni pere- ja paranemis-teadliku sõnumiga. Toetab Faas II (tugevdamine) ja Faas III (peegeldamine koolides).
@@ -309,10 +309,10 @@
 - **Taust:** Holistiline regressiooniterapeut (kutsetunnistus TAM-0059, tase 6; kehtib kuni 18.03.2026). Holistika Instituudi koolitus; HORETES (Holistilise Regressiooniteraapia Selts) liige. Täiendab operatsiooni taastumis- ja teadlikkuse võrgustikku (Kert Grünberg, Lisa P, Lisa H).
 - **Kontakt:** +372 5690 4407 · [holistika.ee/teraapia/terapeudid](https://holistika.ee/teraapia/terapeudid/) · [tamregister.ee](https://tamregister.ee/kutseregister/ave-osa/)
 - **Ülesanne operatsioonis:**
-  1. Sidestada Waldorfkooli kogukond operatsiooni **turvalisuse ja mõistmise** standardiga (Lisa P).
-  2. Toetada lapsevanemaid ja koolipere liikmeid — holistiline regressiooniteraapia ja aus vestlus, mitte sildistamine.
-  3. Ehita sild waldorfpedagoogika (terviklik inimene) ja paranemis-teekonna (sa pole katki) vahel.
-  4. Koordineerida koostööd kooli juhataja ja tugiteenuste juhiga (vt allpool).
+ 1. Sidestada Waldorfkooli kogukond operatsiooni **turvalisuse ja mõistmise** standardiga (Lisa P).
+ 2. Toetada lapsevanemaid ja koolipere liikmeid — holistiline regressiooniteraapia ja aus vestlus, mitte sildistamine.
+ 3. Ehita sild waldorfpedagoogika (terviklik inimene) ja paranemis-teekonna (sa pole katki) vahel.
+ 4. Koordineerida koostööd kooli juhataja ja tugiteenuste juhiga (vt allpool).
 
 ### Kooli tugistruktuur (viide)
 
@@ -328,8 +328,8 @@
 
 ## 5. Montessori koolid ja lasteaiad (Eesti võrgustik)
 
-**Veeb:** [montessorieesti.ee](https://www.montessorieesti.ee) · [mariamontessori.ee](https://mariamontessori.ee)  
-**Kontakt:** info@mariamontessori.ee · [montessorieesti.ee/montessori-haridusasutused-eestis](https://www.montessorieesti.ee/montessori-haridusasutused-eestis/)  
+**Veeb:** [montessorieesti.ee](https://www.montessorieesti.ee) · [mariamontessori.ee](https://mariamontessori.ee) 
+**Kontakt:** info@mariamontessori.ee · [montessorieesti.ee/montessori-haridusasutused-eestis](https://www.montessorieesti.ee/montessori-haridusasutused-eestis/) 
 **Taust:** Eestis tegutseb **üleriigiline Montessori võrgustik** — AMI (Association Montessori Internationale) juhendajatega lastehoiud, lasteaiarühmad ja kooliklassid. **Eesti Montessori Ühing** (alates 2018) koondab asutused; **Eesti Montessori Instituut** koolitab ja toetab AMI juhendajaid. Deviss: *„Aita mind seda ise teha!"* — laps on **õppija**, mitte tühi nõu; täiskasvanu juhib, mitte sunnib.
 
 **Operatsioonis roll:** Haridustase — lapse **identiteet ja autonoomia** algab varakult (Lisa M). Montessori austab last inimesena — see kattub operatsiooni põhireegliga: *kohtleme kõiki asjaosalisi nagu terveid, täiesti normaalseid inimesi*. Koolid ja lasteaiad on **vastupanuvõime kantsid** enne algoritmi — laps õpib ise mõtlema, mitte ainult vastuseid pähe. Toetab Faas II (tugevdamine) ja Faas III (peegeldamine).
@@ -342,9 +342,9 @@
 - **Taust:** AMI Montessori juhendaja; Eesti Montessori Instituudi juhatuse liige. Instituut koolitab AMI juhendajaid, korraldab seminare, tõlgib ja levitab Montessori kirjandust.
 - **Kontakt:** [mariamontessori.ee](https://mariamontessori.ee) · info@mariamontessori.ee
 - **Ülesanne operatsioonis:**
-  1. Toetada peresid ja koole, kus laps õpib **ise mõtlema** — mitte ainult kuuletuma.
-  2. Sidestada Montessori pedagoogika operatsiooni kodaniku identiteedi tööriistadega (Lisa M).
-  3. Tagada AMI standard — autentne Montessori, mitte bränd ilma sisuta.
+ 1. Toetada peresid ja koole, kus laps õpib **ise mõtlema** — mitte ainult kuuletuma.
+ 2. Sidestada Montessori pedagoogika operatsiooni kodaniku identiteedi tööriistadega (Lisa M).
+ 3. Tagada AMI standard — autentne Montessori, mitte bränd ilma sisuta.
 
 #### Kerli-Kristi Allikvee — AMI Montessori juhendaja, Eesti Montessori Instituudi juhatus
 
@@ -352,9 +352,9 @@
 - **Taust:** AMI Montessori juhendaja; Eesti Montessori Instituudi juhatuse liige. Projektid: Jaanika Müürsepp, Janell Assmann (instituudi projektijuhid).
 - **Kontakt:** [mariamontessori.ee](https://mariamontessori.ee) · [montessorieesti.ee](https://www.montessorieesti.ee)
 - **Ülesanne operatsioonis:**
-  1. Koordineerida koostööd Montessori lasteaedade, kooliklasside ja lapsevanemate MTÜ-de vahel.
-  2. Levitada teadlikkust Montessori meetodist — eriti infosõja ajastul, kus lapse tähelepanu on rünnaku sihtmärk.
-  3. Toetada uute rühmade ja klasside teket (Keila, Tartu, Kiili, Jõelähtme jt).
+ 1. Koordineerida koostööd Montessori lasteaedade, kooliklasside ja lapsevanemate MTÜ-de vahel.
+ 2. Levitada teadlikkust Montessori meetodist — eriti infosõja ajastul, kus lapse tähelepanu on rünnaku sihtmärk.
+ 3. Toetada uute rühmade ja klasside teket (Keila, Tartu, Kiili, Jõelähtme jt).
 
 ### AMI juhendajaga kooliklassid (6–12 vanuserühm)
 
@@ -418,7 +418,7 @@ Kõik ülalnimetatud juhtkonnad:
 1. **Infohügieen koolis** — õpetada noort kontrollima allikaid ja emotsioone digikanalites.
 2. **Eeskuju** — juht ise on see, mida ta ootab õpilaselt ja õpetajalt.
 3. **Praktiline vastupanuvõime** — oskused, mis töötavad nii koolis, tööl kui kriisis.
-4. **Koostöö** — Techno TLN ↔ RaM Kool ↔ **Tallinna Vaba Waldorfkool** ↔ **Montessori võrgustik** ↔ Combat Ready Youth ↔ Noorte Kotkad ↔ KVA juhtimismudelid.
+4. **Koostöö** — Techno TLN ↔ RaM Kool ↔ **Tallinna Vaba Waldorfkool** ↔ **Montessori võrgustik** ↔ noorteprogramm ↔ Noorte Kotkad ↔ KVA juhtimismudelid.
 5. **Inimesed enne protsesse** — Steigeri SOP (Lisa I) kehtib ka koolijuhi kabinetis.
 
 ---

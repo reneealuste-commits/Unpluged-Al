@@ -24,11 +24,11 @@
 
 ```
 Surve ? keha otsib rahu ? mõni läheb illegaalsele kanalile (suitsetamine, must turg)
-     ? efekt on lühiajaline ? otsused halvenevad ? sõltuvus süveneb
+ ? efekt on lühiajaline ? otsused halvenevad ? sõltuvus süveneb
 
 Alternatiiv:
 Surve ? uni + toit + liikumine + teraapia + (vajadusel) seaduslikud CBD/vahendid
-     ? efekt: rahunemine ? paremad otsused ? teadlikult ei suitseta enam
+ ? efekt: rahunemine ? paremad otsused ? teadlikult ei suitseta enam
 ```
 
 ---

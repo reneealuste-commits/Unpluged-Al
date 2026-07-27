@@ -1,8 +1,8 @@
 # Juhi ja võida
 ## Kogukonna juhtimine ja Operatsioon Peegel kutse
 
-**Autor:** Renee Aluste  
-**Seeria:** Tugeva Isa seeria, köide 7/7  
+**Autor:** Renee Aluste 
+**Seeria:** Tugeva Isa seeria, köide 7/7 
 **Operatsioon:** Peegel — vastutegevus psühholoogilisele mõjutamisele
 
 ---
@@ -42,7 +42,7 @@ Operatsioon „Peegel" struktuur OPORD-is näeb välja nagu sõjaväeorganisatsi
 | Perekond | Iganädalane rutiin | Ekraanivaba õhtusöök |
 | Naabrus | Üks üritus kuus | Grill, jalutuskäik, abipakkumine |
 | Kool | Mentorlus | Isa või ema kooliüritusel |
-| Kogukond | Võrgustik | Combat Ready koolitus, kirik, spordiklubi |
+| Kogukond | Võrgustik | koolitus, kirik, spordiklubi |
 
 Martin Plaser, Nils Ratt, Priit Uuemaa ja teised tegusad ettevõtjad tegutsevad hajutatult — igaüks oma piirkonnas. Sa võid liituda või luua oma haru.
 

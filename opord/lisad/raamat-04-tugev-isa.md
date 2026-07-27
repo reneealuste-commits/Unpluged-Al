@@ -1,8 +1,8 @@
 # Tugev isa
 ## Mis see tähendab — ja kes saab selline olla
 
-**Autor:** Renee Aluste  
-**Seeria:** Tugeva Isa seeria, köide 4/7  
+**Autor:** Renee Aluste 
+**Seeria:** Tugeva Isa seeria, köide 4/7 
 **Operatsioon:** Peegel — vastutegevus psühholoogilisele mõjutamisele
 
 ---

@@ -1,11 +1,11 @@
 # Lisa AQ — Sidepakkide jaotus skeem
 
-**Eesmärk:** Kellele mis pakett, mis kanal, mis saatja — ilma ülekoormata.  
-**Seotud:** Lisa AP (lugejateed), Lisa AJ (levitamine), Lisa AN (RU), Lisa N (demomehed)  
+**Eesmärk:** Kellele mis pakett, mis kanal, mis saatja — ilma ülekoormata. 
+**Seotud:** Lisa AP (lugejateed), Lisa AJ (levitamine), Lisa AN (RU), Lisa N (demomehed) 
 **Kuupäev:** 24. juuli 2026
 
-> **Lugeja saab:** ühe selge skeemi — kuidas materjal inimeseni jõuab.  
-> **Loe seda kui:** saadad, koordineerid või valmistad trüki.  
+> **Lugeja saab:** ühe selge skeemi — kuidas materjal inimeseni jõuab. 
+> **Loe seda kui:** saadad, koordineerid või valmistad trüki. 
 > **Ära loe kui:** oled lihtsalt lugeja — alusta **PEEGEL_TUUM.pdf**-st.
 
 ---
@@ -27,25 +27,25 @@
 
 ```mermaid
 flowchart TD
-    R[Renee / koordinaator] --> DM[Demomees SOK]
-    R --> HL[Heli Steiger]
-    R --> MU[Mihhail Ušakov RU]
-    DM --> P0[P0-TUUM]
-    P0 --> TEE{Vali tee A-F}
-    TEE --> PA[P1-A Kriis]
-    TEE --> PB[P1-B Skeptik]
-    TEE --> PC[P1-C Pere]
-    TEE --> PD[P1-D Demomees]
-    TEE --> PE[P1-E RU]
-    TEE --> PF[P1-F Juht]
-    PA --> P2[P2-TAIS kui küsib]
-    PB --> P2
-    PC --> P2
-    PD --> P2
-    PE --> P2
-    PF --> P3[P3-SPETSIALIST]
-    HL --> PH[P-HELI oigused]
-    MU --> PE
+ R[Renee / koordinaator] --> DM[Demomees SOK]
+ R --> HL[Heli Steiger]
+ R --> MU[Mihhail Ušakov RU]
+ DM --> P0[P0-TUUM]
+ P0 --> TEE{Vali tee A-F}
+ TEE --> PA[P1-A Kriis]
+ TEE --> PB[P1-B Skeptik]
+ TEE --> PC[P1-C Pere]
+ TEE --> PD[P1-D Demomees]
+ TEE --> PE[P1-E RU]
+ TEE --> PF[P1-F Juht]
+ PA --> P2[P2-TAIS kui küsib]
+ PB --> P2
+ PC --> P2
+ PD --> P2
+ PE --> P2
+ PF --> P3[P3-SPETSIALIST]
+ HL --> PH[P-HELI oigused]
+ MU --> PE
 ```
 
 ---
@@ -99,27 +99,27 @@ flowchart TD
 
 ```
 sidepakkid/
-  P0-TUUM/
-    PEEGEL_TUUM.pdf
-    TASKUKAARDID_RAHAKOTT.pdf
-    README.txt
-  P1-TEE-A-KRIIS/
-    PEEGEL_TEE_A.pdf
-    LOO_TASKUKAARDID_RAHAKOTT.pdf
-  P1-TEE-B-SKEPTIK/
-    PEEGEL_TEE_B.pdf
-  P1-TEE-C-PERE/
-    PEEGEL_TEE_C.pdf
-  P1-TEE-D-DEMO/
-    PEEGEL_TEE_D.pdf
-  P1-TEE-E-RU/
-    PEEGEL_RU_KIHT0.pdf
-  P1-TEE-F-JUHT/
-    PEEGEL_TEE_F.pdf
-  P2-TAIS/
-    OPERATSIOON_PEEGEL_OPORD.pdf
-  P3-SPETSIALIST/
-    README-spetsialist.txt
+ P0-TUUM/
+ PEEGEL_TUUM.pdf
+ TASKUKAARDID_RAHAKOTT.pdf
+ README.txt
+ P1-TEE-A-KRIIS/
+ PEEGEL_TEE_A.pdf
+ LOO_TASKUKAARDID_RAHAKOTT.pdf
+ P1-TEE-B-SKEPTIK/
+ PEEGEL_TEE_B.pdf
+ P1-TEE-C-PERE/
+ PEEGEL_TEE_C.pdf
+ P1-TEE-D-DEMO/
+ PEEGEL_TEE_D.pdf
+ P1-TEE-E-RU/
+ PEEGEL_RU_KIHT0.pdf
+ P1-TEE-F-JUHT/
+ PEEGEL_TEE_F.pdf
+ P2-TAIS/
+ OPERATSIOON_PEEGEL_OPORD.pdf
+ P3-SPETSIALIST/
+ README-spetsialist.txt
 ```
 
 Genereerimine: `python3 generate_packages.py`
@@ -146,7 +146,7 @@ See operatsioon sündis tööst. Aga selle taga on ka inimene.
 
 Kui sa loed seda materjali ja **märgad** midagi inimlikku — mitte plaanina, vaid inimesena —võid saata ühe lause:
 
-> **„Jah ma mõistan sind Renee🤗“**  
+> **„Jah ma mõistan sind Renee🤗“** 
 > SMS: **56980062**
 
 See ei ole küsimus ega kutse liituda. See on lihtsalt märk, et keegi **nägi**.

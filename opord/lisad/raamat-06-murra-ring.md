@@ -1,8 +1,8 @@
 # Murra ring
 ## Kuidas murda depressiooni ja manipulatsiooni tsüklit
 
-**Autor:** Renee Aluste  
-**Seeria:** Tugeva Isa seeria, köide 6/7  
+**Autor:** Renee Aluste 
+**Seeria:** Tugeva Isa seeria, köide 6/7 
 **Operatsioon:** Peegel — vastutegevus psühholoogilisele mõjutamisele
 
 ---

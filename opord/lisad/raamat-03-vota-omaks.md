@@ -1,8 +1,8 @@
 # Võta omaks
 ## Ülim vastutus ilma süüdistamiseta
 
-**Autor:** Renee Aluste  
-**Seeria:** Tugeva Isa seeria, köide 3/7  
+**Autor:** Renee Aluste 
+**Seeria:** Tugeva Isa seeria, köide 3/7 
 **Operatsioon:** Peegel — vastutegevus psühholoogilisele mõjutamisele
 
 ---
@@ -13,7 +13,7 @@
 
 ## Sissejuhatus
 
-Combat Ready õpetab „ülimat vastutust" — extreme ownership. See tuli USA eriüksustest ja sobib hästi ka tsiviilelusse. Idee on lihtne: kui midagi läheb valesti, alusta küsimusest „Mida mina saaksin teisiti teha?" — mitte „Kes on süüdi?"
+õpetab „ülimat vastutust" — extreme ownership. See tuli USA eriüksustest ja sobib hästi ka tsiviilelusse. Idee on lihtne: kui midagi läheb valesti, alusta küsimusest „Mida mina saaksin teisiti teha?" — mitte „Kes on süüdi?"
 
 See ei tähenda, et sa kannaksid kogu maailma süüd. See tähendab, et sa ei anna oma elu juhtimist välja. Operatsioon „Peegel" seisab täpselt sellel: me ei oota, et keegi teine tuleb meid päästma. Me hakkame ise.
 
@@ -73,7 +73,7 @@ Sa ei pea olema kangelane. Sa pead olema kohal.
 - Koolis võib üks ema või isa olla mentor.
 - Töökolleeg võib küsida: „Kuidas sul tegelikult läheb?"
 
-Operatsioon „Peegel" rahva tase tähendab, et igaüks meist on osa võrgustikust. Priit Lilleväli, minu kolleeg Combat Readyst, ütleb sageli: vastutus algab vestlusest, mitte manifestist.
+Operatsioon „Peegel" rahva tase tähendab, et igaüks meist on osa võrgustikust. Priit Lilleväli, juhtimiskoolitaja ja kolleeg, ütleb sageli: vastutus algab vestlusest, mitte manifestist.
 
 Kui sa näed, et keegi vaevleb, ära oota ametlikku kutset. Mine ja küsi.
 

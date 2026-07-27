@@ -1,7 +1,7 @@
 # Renee Aluste — Operatsiooni koordinaator
 
-**Seotud:** Operatsioon „Peegel"  
-**Klassifikatsioon:** Avalik  
+**Seotud:** Operatsioon „Peegel" 
+**Klassifikatsioon:** Avalik 
 **Kuupäev:** 22. juuli 2026
 
 > *„Ma ei manipuleeri sind nõrkuseks. Ma aitan sul saada tugevaks."*
@@ -76,7 +76,7 @@ Täielik sõnastus OPORD-is: sektsioon **„MIKS RENEE?"**
 
 ### Sõjaline ja riigikaitse
 
-- **Endine Combat Ready instruktor** (2023–2026) — juhtimiskoolitused ettevõtetele, meeskondadele ja kogukondadele. Operatsioon „Peegel" ei ole CR toode.
+- **Endine juhtimiskoolitaja (endine, 2023–2026)** (2023–2026) — juhtimiskoolitused ettevõtetele, meeskondadele ja kogukondadele. Operatsioon „Peegel" ei ole koolitusfirma toode.
 - **Kaitseliidu juhtimisinstruktor** — praktiline juhtimine tsiviilkanalil.
 - **Endine erioperatsioonide grupi operaator** — Eesti erivägede kogemus.
 - **USA Army Ranger School** — üks vähestest eestlastest, kes on selle kooli läbinud.
@@ -88,7 +88,7 @@ Täielik sõnastus OPORD-is: sektsioon **„MIKS RENEE?"**
 
 - **Arborist** — TreeDoc / Kaks Arboristi (füüsiline töö ja distsipliin käte kaudu).
 - **Autor** — Tugeva Isa seeria (7 köidet, Lisa A–G); Operatsioon „Peegel" OPORD ja lisad.
-- **Podcast** — Combat Ready Frontline Podcast külaline (*What it takes to be a US Army Ranger*).
+- **Podcast** — Frontline Podcast külaline (*What it takes to be a US Army Ranger*).
 
 ### Isiklik teekond — saamise lugu
 
@@ -127,7 +127,7 @@ Umbes **kolm aastat** tegi Renee Sõdurioskuste kursuseid efektiivselt ja suurel
 2. **Räägin ausalt** — jagades oma lugu, mitte müües illusiooni.
 3. **Küsin tagasi** — operatsioon ei oota passiivseid järgijaid; see kutsub igaüht vastutusele.
 4. **Toetan taastumist** — suunan vajadusel Lisa H (kriis), Lisa F (*Murra ring*), professionaalse abi poole.
-5. **Ehitan võrgustikku** — Combat Ready, veteranid, haridus, teadlikkus, kohalikud allüksused.
+5. **Ehitan võrgustikku** — , veteranid, haridus, teadlikkus, kohalikud allüksused.
 6. **Hoidan standardit** — **turvalisus, mõistmine, paranemis-teadlikkus** (Lisa P) + **side eeskirjad** (Lisa Q: hääl, GOTWA, austav keel). See ei ole nõrkus; see on alus.
 
 ---
@@ -167,7 +167,7 @@ Renee ei oota kirju manipulatsiooni eesmärgil. Operatsioon „Peegel" on partne
 
 **Kui oled OPORD-i lõpuni lugenud:** saada SMS numbrile **56980062**, sõnumiga **„Peegel"**. Renee võtab ühendust ja küsib tagasi lugemist.
 
-**Kontakt:** läbi operatsiooni võrgustiku ja Combat Ready kanalite (combatready.eu).
+**Kontakt:** läbi operatsiooni võrgustiku ja kanalite (reneealuste.com).
 
 **Kriisis (kohe):**
 - Eluliin: **655 8088**

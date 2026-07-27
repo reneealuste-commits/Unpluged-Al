@@ -1,8 +1,8 @@
 # Lisa U — Rasv, toit ja avatud meel
 ## „Vau, tõesti?" — Bellevue uuring (1928–1929) ja küsimused, mida sa ise võid küsida
 
-**Operatsioon „Peegel"** | Mitte dieedireklaam — **mõtlemise avamine**  
-**Kuupäev:** 24. juuli 2026  
+**Operatsioon „Peegel"** | Mitte dieedireklaam — **mõtlemise avamine** 
+**Kuupäev:** 24. juuli 2026 
 **Seotud:** Lisa H (taastumine), Lisa L (ministeeriumid), Lisa S (keha ja trauma), **Lisa V** (uni)
 
 **Täielik uurimustöö (PDF):** [TOITUMINE_UURIMUSTOO.pdf](../TOITUMINE_UURIMUSTOO.pdf) · [markdown](toitumine-uurimustoo.md) — Stefansson, Bellevue 1928–29, praktiline loogika taastumise kontekstis
@@ -63,13 +63,13 @@ New Yorgi **Bellevue Hospital** tegi kontrollitud katse: Stefansson ja Karsten A
 
 ```
 📁 Bellevue-rasv-uuring-1928-1929/
-├── 01_McClellan_DuBois_1930_peauuring.pdf      ← nutrire.ca link
-├── 02_Lieb_1929_kliiniline_kokkuvote.pdf       ← gwern.net link
-├── 03_Lisa-U_avatud-meele-kysimused.md           ← see dokument
-└── README.txt                                    ← "Avalikud allikad, mitte meditsiiniline nõuanne"
+├── 01_McClellan_DuBois_1930_peauuring.pdf ← nutrire.ca link
+├── 02_Lieb_1929_kliiniline_kokkuvote.pdf ← gwern.net link
+├── 03_Lisa-U_avatud-meele-kysimused.md ← see dokument
+└── README.txt ← "Avalikud allikad, mitte meditsiiniline nõuanne"
 ```
 
-**Kiirlink kopeerimiseks (põhi-PDF):**  
+**Kiirlink kopeerimiseks (põhi-PDF):** 
 `https://nutrire.ca/documents/Stefansson_study.pdf`
 
 ---
@@ -145,7 +145,7 @@ New Yorgi **Bellevue Hospital** tegi kontrollitud katse: Stefansson ja Karsten A
 
 > **„1928. aastal tõestasid kaks meest New Yorgi haiglas, et inimene saab elada peamiselt rasvast ja lihast — ja neil läks neerud korralikult. Miks ma seda koolis ei õppinud?"**
 
-Kopeeri see koos lingiga:  
+Kopeeri see koos lingiga: 
 `https://nutrire.ca/documents/Stefansson_study.pdf`
 
 ---

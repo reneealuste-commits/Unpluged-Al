@@ -18,7 +18,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | H | [lisa-h-kiirjuhend-kriisis-isale.md](lisa-h-kiirjuhend-kriisis-isale.md) | **Kiirjuhend kriisis isale** — kriisiteekond, lugemisjärjekord |
 | I | [lisa-i-inimesekeskne-juhtimine.md](lisa-i-inimesekeskne-juhtimine.md) | **Inimesekeskne juhtimine** — Steiger 1997; peakirjastaja **Heli Illipe-Sootak**; SOP |
 | J | [lisa-j-haridusasutuste-juhtkonnad.md](lisa-j-haridusasutuste-juhtkonnad.md) | **Haridusasutused** — Techno TLN, KVA, RaM Kool, TVW Waldorf, **Montessori** |
-| K | [lisa-k-vorgustiku-skeem-ja-ulesanded.md](lisa-k-vorgustiku-skeem-ja-ulesanded.md) | **Võrgustiku skeem** — kõik osalised, CR statistika, podcasti külalised |
+| K | [lisa-k-vorgustiku-skeem-ja-ulesanded.md](lisa-k-vorgustiku-skeem-ja-ulesanded.md) | **Võrgustiku skeem** — kõik osalised, võrgustiku statistika, podcasti külalised |
 | L | [lisa-l-ministeeriumid-ja-tai.md](lisa-l-ministeeriumid-ja-tai.md) | **Ministeeriumid ja TAI** — Muski 5-astmeline protsessijuhtimine |
 | M | [lisa-m-kodaniku-identiteet-ja-vanne.md](lisa-m-kodaniku-identiteet-ja-vanne.md) | **Kodaniku identiteet** — Robbins 5 sammu, manifest, vanne, LIHTSUS |
 | N | [lisa-n-aluste-kool.md](lisa-n-aluste-kool.md) | **Üksus Aluste_kool** — SOK demomehed; deviis *EE · Sõnaga mõõga vastu* / *Verbo contra gladium*; viisakuseeskiri, päevane checklist |
@@ -78,7 +78,7 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 
 **Juhtimine:** Lisa I (Steiger 1997, ISBN 9985901274).
 
-**Võrgustik:** Lisa K (kõik osalised, allüksuste ülesanded, Combat Ready statistika).
+**Võrgustik:** Lisa K (kõik osalised, allüksuste ülesanded, võrgustiku statistika).
 
 **Riik / TAI:** Lisa L (Muski algoritm ministeeriumidele).
 
@@ -154,7 +154,7 @@ Need failid on mõeldud lisamiseks Operatsioon „Peegel" lahingukäsu juurde ku
 
 Operatsiooni koordinaator: **Renee Aluste** (Kaitseliidu juhtimisinstruktor). Ma ei oota kirju — ma küsin sulle vastu: mida sa ise teed?
 
-Täiendavad kanalid OPORD-is: Katrin Lucase „Ava oma Silmad" taskuhääling, Kaitseväe Akadeemia juhtimiskultuur. *(Combat Ready — eraldi kanal; vt [strateegia-eraldumine-combat-ready.md](../kommunikatsioon/strateegia-eraldumine-combat-ready.md).)*
+Täiendavad kanalid OPORD-is: Katrin Lucase „Ava oma Silmad" taskuhääling, Kaitseväe Akadeemia juhtimiskultuur. *(— eraldi kanal; vt [strateegia-eraldumine-combat-ready.md](../kommunikatsioon/strateegia-eraldumine-combat-ready.md).)*
 
 ---
 

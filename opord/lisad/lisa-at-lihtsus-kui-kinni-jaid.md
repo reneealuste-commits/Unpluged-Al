@@ -1,10 +1,10 @@
 # Lisa AT — LIHTSUS: kui kinni jäid
 
-> **Lugeja saab:** ühe otsuspuu — mida teha, kui ei tea edasi minna.  
-> **Loe seda kui:** oled ülekoormatud, segaduses või ei tea järgmist sammu.  
+> **Lugeja saab:** ühe otsuspuu — mida teha, kui ei tea edasi minna. 
+> **Loe seda kui:** oled ülekoormatud, segaduses või ei tea järgmist sammu. 
 > **Ära loe kui:** tead juba oma tee (A–F) — ava vastav PDF ja järgi seda.
 
-**Operatsioon „Peegel“** | Lihtsuse printsiip kogu materjali läbiv reegel  
+**Operatsioon „Peegel“** | Lihtsuse printsiip kogu materjali läbiv reegel 
 **Seotud:** Lisa M (LIHTSUS), Lisa AP (audit), Lisa AQ (kihtid), PEEGEL_TUUM (K0)
 
 ---

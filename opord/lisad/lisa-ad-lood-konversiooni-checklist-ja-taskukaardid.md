@@ -128,12 +128,12 @@ Uuendamine: `python3 generate_loo_taskukaardid_pdf.py`
 
 *Kirjuta märkmikku. Vaata enne vestlust.*
 
-1. **KOHAL** — üks koht  
-2. **AEG** — üks aeg  
-3. **INIMENE** — üks (või mina)  
-4. **ENNE** — üks lause tunne kohta  
-5. **HELK** — üks hetk  
-6. **TUNNE** — kehas, mitte moraal  
+1. **KOHAL** — üks koht 
+2. **AEG** — üks aeg 
+3. **INIMENE** — üks (või mina) 
+4. **ENNE** — üks lause tunne kohta 
+5. **HELK** — üks hetk 
+6. **TUNNE** — kehas, mitte moraal 
 7. **SILD** — *„Kas see kõlab tuttavalt?"*
 
 **Reegel:** üks vestlus = üks lugu = üks teema (Lisa X).
@@ -184,15 +184,15 @@ Uuendamine: `python3 generate_loo_taskukaardid_pdf.py`
 *Kopeeri või prindi `LOO_CHECKLIST_PRINT.pdf`. Üks leht = üks vestlus.*
 
 ```
-VESTLUS KUUPÄEV: _______________  TEEMA (üks): _______________
+VESTLUS KUUPÄEV: _______________ TEEMA (üks): _______________
 
-[ ] 1. KOHAL:   _______________________________________________
-[ ] 2. AEG:     _______________________________________________
+[ ] 1. KOHAL: _______________________________________________
+[ ] 2. AEG: _______________________________________________
 [ ] 3. INIMENE: _______________________________________________
-[ ] 4. ENNE:    _______________________________________________
-[ ] 5. HELK:    _______________________________________________
-[ ] 6. TUNNE:   _______________________________________________
-[ ] 7. SILD:    „Kas _________________________________________?"
+[ ] 4. ENNE: _______________________________________________
+[ ] 5. HELK: _______________________________________________
+[ ] 6. TUNNE: _______________________________________________
+[ ] 7. SILD: „Kas _________________________________________?"
 
 [ ] Lisa X: OPSEC — ei avaldanud saladusi
 [ ] Lisa P: valideerisin enne kui vastasin

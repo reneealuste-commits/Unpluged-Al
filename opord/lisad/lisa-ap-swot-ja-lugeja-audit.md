@@ -1,11 +1,11 @@
 # Lisa AP — SWOT ja lugeja-audit (lugejale orienteeritud)
 
-**Põhimõte:** Iga dokument peab vastama küsimusele: **mida LUGEJA saab — mitte mida autor teab.**  
-**Eesmärk:** Aus enesehinnang enne levitamist; täiendused põhinevad lugeja kogemusel  
+**Põhimõte:** Iga dokument peab vastama küsimusele: **mida LUGEJA saab — mitte mida autor teab.** 
+**Eesmärk:** Aus enesehinnang enne levitamist; täiendused põhinevad lugeja kogemusel 
 **Seotud:** Lisa P, Lisa M (LIHTSUS), Lisa AD (lood), Lisa AM, Lisa AN, Lisa AO, **Lisa AQ**
 
-> **Lugeja saab:** ausa enesehinnangu — kas materjal on valmis levitamiseks.  
-> **Loe seda kui:** tahad näha SWOT-i ja auditi skoori.  
+> **Lugeja saab:** ausa enesehinnangu — kas materjal on valmis levitamiseks. 
+> **Loe seda kui:** tahad näha SWOT-i ja auditi skoori. 
 > **Ära loe kui:** otsid praktilist igapäevategu — alusta PEEGEL_TUUM.pdf.
 
 ---
@@ -151,11 +151,11 @@ Esimene kontakt alati: **`PEEGEL_TUUM.pdf`** (K0). Skeem: **Lisa AQ**.
 
 ## 7. Järgmised ettepanekud
 
-1. Kiht 0 RU trükk (kinnita emakeelekõnele)  
-2. 100 demomehe pilot P0-TUUM  
-3. Heli kinnitus RU kanal  
-4. Huber vastus enne Steigeri RU tekstis  
-5. Tagasiside 30 päeva pärast — uuenda audit  
+1. Kiht 0 RU trükk (kinnita emakeelekõnele) 
+2. 100 demomehe pilot P0-TUUM 
+3. Heli kinnitus RU kanal 
+4. Huber vastus enne Steigeri RU tekstis 
+5. Tagasiside 30 päeva pärast — uuenda audit 
 6. Lisa AT trükk demomehe taskusse (P0 kaasas)
 
 ---

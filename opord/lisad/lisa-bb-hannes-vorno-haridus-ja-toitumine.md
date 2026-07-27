@@ -1,7 +1,7 @@
 # Lisa BB — Hannes Võrno: haridus, meedia ja toitumise avatud mõte
 
-> **Lugeja saab:** kes on Hannes Võrno ja kuidas tema kogemus haakub hariduse ja toitumise teemaga OPORD-is.  
-> **Loe seda kui:** mõtled haridussüsteemi, meediakirjaoskust või toidu päritolu üle.  
+> **Lugeja saab:** kes on Hannes Võrno ja kuidas tema kogemus haakub hariduse ja toitumise teemaga OPORD-is. 
+> **Loe seda kui:** mõtled haridussüsteemi, meediakirjaoskust või toidu päritolu üle. 
 > **Ära loe kui:** otsid ametlikku meditsiinilist dieedinõu — alusta Lisa U ja perearst.
 
 **Seotud:** **Lisa J** (haridus), **Lisa I** (inimesekeskne juhtimine), **Lisa A** (meedia/manipulatsioon), **Lisa U** + `TOITUMINE_UURIMUSTOO.pdf` (rasv, liha, avatud meel), **Lisa H** (taastumine), **Lisa T** (süsteem vs inimene), **Lisa O** (vaktsineerimise vaidlus — kontekst, mitte kinnitus).

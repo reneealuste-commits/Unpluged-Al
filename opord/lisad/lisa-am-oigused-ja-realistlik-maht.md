@@ -1,9 +1,9 @@
 # Lisa AM — Õiguste päring ja realistlik müügimaht
 
-**Allikas:** Heli Illipe-Sootak tagasiside (2026-07-24)  
+**Allikas:** Heli Illipe-Sootak tagasiside (2026-07-24) 
 **Seotud:** Lisa AL (riiklik plaan), Lisa AK (taskuraamat), Lisa I (Steiger)
 
-> *Alustada tuleb õiguste päringust. Mitte Fonteselt, vaid autorilt või tema agendilt.*  
+> *Alustada tuleb õiguste päringust. Mitte Fonteselt, vaid autorilt või tema agendilt.* 
 > *— Heli Illipe-Sootak*
 
 ---
@@ -21,14 +21,14 @@
 ### Realistlik sihtturg (Eesti, esimene uustrükk)
 
 ```
-1 300 000  elanikku
-  −  300 000  mitte-eestikeelne / vähem sihtgrupp
-  ≈ 1 000 000  eestikeelne
-  −  330 000  lapsed + vanurid (ei osta ise)
-  ≈  670 000  täiskasvanud potentsiaal
-  −  ~50 000   juba omab vana Steigerit (hinnang)
-  −  ~90%      ei osta kunagi ühtegi raamatut
-  ≈   5 000–15 000  realistlik esimene trükk + müük
+1 300 000 elanikku
+ − 300 000 mitte-eestikeelne / vähem sihtgrupp
+ ≈ 1 000 000 eestikeelne
+ − 330 000 lapsed + vanurid (ei osta ise)
+ ≈ 670 000 täiskasvanud potentsiaal
+ − ~50 000 juba omab vana Steigerit (hinnang)
+ − ~90% ei osta kunagi ühtegi raamatut
+ ≈ 5 000–15 000 realistlik esimene trükk + müük
 ```
 
 | Tase | Eksemplarid | Mida see tähendab |
@@ -78,7 +78,7 @@
 
 ## 3. Õiguste päringu kiri (mustand Helile)
 
-**Keel:** inglise või saksa  
+**Keel:** inglise või saksa 
 **Saatja:** Heli Illipe-Sootak, peakirjastaja / Kodaniku Raamat MTÜ (kui asutatud)
 
 ---
@@ -102,8 +102,8 @@ Initial print run estimate: **2,000–5,000** copies; institutional orders possi
 We are **not** approaching Fontes publishing directly for rights, per your guidance.
 
 With respect,
-**Heli Illipe-Sootak**  
-Editorial lead, Estonian *Inimesekeskne juhtimine*  
+**Heli Illipe-Sootak** 
+Editorial lead, Estonian *Inimesekeskne juhtimine* 
 Raudhammas OÜ / Kodaniku Raamat MTÜ
 
 ---
@@ -168,7 +168,7 @@ See võib **turgu ületada**, aga see on **tellimus**, mitte bestseller.
 >
 > Kas sa saad saata Huberile päringu või kas ma võin sind aidata mustandiga? Lisa AM repos on kiri valmis.
 >
-> Kallis,  
+> Kallis, 
 > Renee
 
 ---
@@ -177,11 +177,11 @@ See võib **turgu ületada**, aga see on **tellimus**, mitte bestseller.
 
 Lisa AL (riiklik Šveitsi plaan) jääb **pika mängu visiooniks** (riiklik leibkondade jaotus), aga **esimene samm** on nüüd Lisa AM:
 
-1. Õigused Huberilt  
-2. Trükk 2 000–5 000  
-3. Müük 5 000–10 000  
-4. Alles siis institusionaalne bulk  
-5. Alles siis unistus 100k+ riiklik laine  
+1. Õigused Huberilt 
+2. Trükk 2 000–5 000 
+3. Müük 5 000–10 000 
+4. Alles siis institusionaalne bulk 
+5. Alles siis unistus 100k+ riiklik laine 
 
 ---
 

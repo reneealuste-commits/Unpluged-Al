@@ -88,7 +88,7 @@ Trükk suures mahus: **~1,2-1,8 -/eksemplar** ? 600k trükk ? **720k-1,08 mln -*
 | Peakirjastaja | **Heli Illipe-Sootak** (Raudhammas OÜ) |
 | Toimetaja-koordinaator | **Renee Aluste** |
 | Institucionaalne sild | **Rene Toomse** (Maakaitse käsiraamat) |
-| Levituse ja äri | **Remo Ojaste** / Combat Ready |
+| Levituse ja äri | Partnerid |
 | Õigused | Kirjastus Hermes (Fontese pärand) + Steigeri pärijad |
 | Trükk | Printon AS (sama mis Maakaitse käsiraamat) |
 
@@ -104,7 +104,7 @@ Iga ühiskonnakiht saab **oma kaane värvi**, **sama tuum** (Steigeri printsiibi
 |------|---------|----------|-------|----------------|
 | **K0** | *Peegel* - Kodanik | Kõik 16+ | Leibkond, post | 600 000 |
 | **K1** | *Peegel* - Isa ja Ema | Lapsevanemad | Koolid, PERH, perearstid | 150 000 |
-| **K2** | *Peegel* - Juht | Juhid, õpetajad | KOV, ettevõtted, CR | 100 000 |
+| **K2** | *Peegel* - Juht | Juhid, õpetajad | KOV, ettevõtted | 100 000 |
 | **K3** | *Peegel* - Noor | 16-25 | Gümnaasium, ülikool | 200 000 |
 | **K4** | *Peegel* - Kriis | Vabatahtlikud, KOV | Kaitseliit, PPA | 50 000 |
 | **K5** | *Peegel* - Demomees | SOK, Aluste_kool | Sõdurioskus, Lisa N | 20 000 |
@@ -117,7 +117,7 @@ Iga ühiskonnakiht saab **oma kaane värvi**, **sama tuum** (Steigeri printsiibi
 - Mõõt: **120 × 152 mm** (Ranger Handbook / Šveitsi taskuraamat)
 - Kaas K0: **must, peegli joon** (salapärane - Lisa AK)
 - Siseruumis: Steiger + Peegel + bushcraft + „ohtlikkus" (sisemine dialoog)
-- Premium: Combat Ready vahapitsat (Lisa AJ)
+- Premium: vahapitsat (Lisa AJ)
 
 ---
 
@@ -132,22 +132,22 @@ Iga ühiskonnakiht saab **oma kaane värvi**, **sama tuum** (Steigeri printsiibi
 | 3 | **Haridus- ja Teadusministeerium** | K3 noored, väärtuskasvatus | 0,5-1 mln - |
 | 4 | **Omavalitsused (600+ KOV)** | Leibkonna jaotus | 0,3-0,8 mln - |
 | 5 | **Kaitseliit** | Jätk Maakaitse käsiraamatule | 0,2-0,5 mln - |
-| 6 | **Combat Ready + partnerid** | Eeltellimus, BNI | 0,1-0,3 mln - |
+| 6 | **+ partnerid** | Eeltellimus, BNI | 0,1-0,3 mln - |
 | 7 | **RES / erakorralised vahendid** | Kodanikukaitse, infosõja vastu | löödav |
 
 ### Šveitsi mudel Eestis
 
 ```
 Riigikogu / Vabariigi Valitsus
-        ? (riigihanke otsus)
-        ?
-Kodaniku Raamat MTÜ  ???  õigused (Hermes + Steiger)
-        ?
-   Printon AS (trükk)
-        ?
-   Jaotus (Omniva / KOV)
-        ?
-   Iga leibkond / kool / üksus
+ ? (riigihanke otsus)
+ ?
+Kodaniku Raamat MTÜ ??? õigused (Hermes + Steiger)
+ ?
+ Printon AS (trükk)
+ ?
+ Jaotus (Omniva / KOV)
+ ?
+ Iga leibkond / kool / üksus
 ```
 
 **Riigihanke alus:** „Kodaniku vastupanuvõime ja inimesekeskse juhtimise õppematerjal" - sama kategooria mis Maakaitse käsiraamat (Kaitseliit, 2021).
@@ -164,14 +164,14 @@ Kodaniku Raamat MTÜ  ???  õigused (Hermes + Steiger)
 | 2 | Õiguste päring Huber Verlagilt (vt Lisa AM) | Heli |
 | 3 | K0 käsikiri valmis (240 lk) | Renee + Heli |
 | 4 | Proovitrükk **1 000 tk** | Printon |
-| 5 | **Eeltellimus** 7 - - combatready.eu | Remo |
+| 5 | **Eeltellimus** 7 - - reneealuste.com | Remo |
 | 6 | Jaotus: Lisa AJ (kuller + vahapitsat) | Renee |
 | 7 | Lugemiskinnitus + tagasiside | Google Form |
 | 8 | **100 demomeest** - loevad, annavad tagasisidet | Lisa N |
 
 ### Faas 1: VÕRGUSTIK (3-12 kuud) - 10 000 tk
 
-- Combat Ready koolituste osalejad
+- võrgustiku koolituste osalejad
 - Kaitseliidu malevad (pilot 3 malevat)
 - 10 gümnaasiumi (III kursus)
 - PERH, perearstikeskused (K1)

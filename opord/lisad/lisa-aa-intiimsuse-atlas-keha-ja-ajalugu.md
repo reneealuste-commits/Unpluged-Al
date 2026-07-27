@@ -262,7 +262,7 @@ Epp tõi tähelepanu **oma kehaga suhtlusele**. See ei tule loosungist. See tule
 | Tundeid hoitakse sees (alkohol, enese vastu vägivald) | Tundeid **tuntakse** — ja lastakse läbi |
 | „Võta kokku" | **Tervenemine = tundmine** |
 
-> **To heal is to feel.**  
+> **To heal is to feel.** 
 > *Tervenemine on tundmine.*
 
 **Mida see tähendab praktikas:**
@@ -307,7 +307,7 @@ Epp tõi tähelepanu **oma kehaga suhtlusele**. See ei tule loosungist. See tule
 ### Linna planeerimine — üks võtmeülesanne (Lisa Z)
 
 ```
-Täna:  asfalt → auto → king → stress → keha kinni
+Täna: asfalt → auto → king → stress → keha kinni
 Homme: muruväljak → paljajalu / kerged jalatsid → keha tunneb maad → rahunemine
 ```
 

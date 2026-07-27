@@ -1,7 +1,7 @@
 # Lisa BA — Keha vabastamine tasuta (lümf, puudutus, loomade õppetund)
 
-> **Lugeja saab:** tasuta tööriistad stressi ja kehasse kogunenud pingete vabastamiseks — ilma et esimene samm oleks raha.  
-> **Loe seda kui:** tunned, et kehas on „kinni" midagi, mida sõnad ei vabasta (tee A, Lisa H, Lisa P).  
+> **Lugeja saab:** tasuta tööriistad stressi ja kehasse kogunenud pingete vabastamiseks — ilma et esimene samm oleks raha. 
+> **Loe seda kui:** tunned, et kehas on „kinni" midagi, mida sõnad ei vabasta (tee A, Lisa H, Lisa P). 
 > **Ära loe kui:** oled aktiivses kriisis ilma turvaliseta — alusta Lisa H, siis professionaal (Kert Grünberg, EMDR).
 
 **Seotud:** **Lisa P** (turvalisus ? keha ? mõistus), **Lisa S** (trauma kehas), **Lisa H** (kriis), **Lisa V** (uni), **Lisa AB** (liikumine, rippumine), **Lisa AA** (*To heal is to feel*), Kert Grünberg (TRE, hingamistuba.ee).

@@ -1,13 +1,13 @@
 # Ava Silmad — Unplugged
 ## Kuidas tunda ära manipulatsioon ja võtta tagasi oma tähelepanu
 
-**Autor:** Renee Aluste  
-**Seeria:** Tugeva Isa seeria, köide 1/7  
+**Autor:** Renee Aluste 
+**Seeria:** Tugeva Isa seeria, köide 1/7 
 **Operatsioon:** Peegel — vastutegevus psühholoogilisele mõjutamisele
 
 ---
 
-> *„Ma ei manipuleeri sind nõrkuseks. Ma aitan sul saada tugevaks."*  
+> *„Ma ei manipuleeri sind nõrkuseks. Ma aitan sul saada tugevaks."* 
 > — Renee Aluste
 
 ---

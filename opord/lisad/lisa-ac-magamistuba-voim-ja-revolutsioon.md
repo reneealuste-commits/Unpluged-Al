@@ -94,8 +94,8 @@ Lisa Z kirjeldab tööstusmudelit: isa ära, ema ülekoormatud, lapsed mujal, li
 
 ```
 Ühiskond müüb → naine ostab (lootuses) → pettumus → rohkem müüki → stress kehas
-     ↑                                                              ↓
-     └──────────── magamistoas võimuvõitlus (viimane kontroll) ←───┘
+ ↑ ↓
+ └──────────── magamistoas võimuvõitlus (viimane kontroll) ←───┘
 ```
 
 | Tüüp | Näide | Tõde |
@@ -146,12 +146,12 @@ Lisa Z kirjeldab tööstusmudelit: isa ära, ema ülekoormatud, lapsed mujal, li
 ### Revolutsiooniline teekaart (mitte käsk)
 
 ```
-1. TURVALISUS (Lisa P)     →  ruum, mitte surve
-2. TOIMIMINE (Lisa V, AB)  →  uni, keha, liikumine
-3. TEOORIA (Lisa AA)       →  Intiimsuse atlas — kuidas keha töimib
-4. PRAKTIKA (Epp Kärsin)   →  yoni koolitus, aus vestlus
-5. STRUKTUUR (Lisa Z, E)   →  partnerlus, isa kohal, pere rindejoon
-6. KORDUS                    →  iga päev väike samm, mitte üks suur kõne
+1. TURVALISUS (Lisa P) → ruum, mitte surve
+2. TOIMIMINE (Lisa V, AB) → uni, keha, liikumine
+3. TEOORIA (Lisa AA) → Intiimsuse atlas — kuidas keha töimib
+4. PRAKTIKA (Epp Kärsin) → yoni koolitus, aus vestlus
+5. STRUKTUUR (Lisa Z, E) → partnerlus, isa kohal, pere rindejoon
+6. KORDUS → iga päev väike samm, mitte üks suur kõne
 ```
 
 ### Konkreetsed sammud mehele

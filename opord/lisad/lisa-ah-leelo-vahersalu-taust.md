@@ -1,8 +1,8 @@
 # Lisa AH — Leelo Vahersalu: taustauuring ja miks tema toetus loeb
 
-**Operatsioon „Peegel"** | Kodaniku profiil — *mitte kuulsus, vaid naaber*  
-**Kuupäev:** 24. juuli 2026  
-**Koostaja:** Renee Aluste (OSINT + isiklik tähendus)  
+**Operatsioon „Peegel"** | Kodaniku profiil — *mitte kuulsus, vaid naaber* 
+**Kuupäev:** 24. juuli 2026 
+**Koostaja:** Renee Aluste (OSINT + isiklik tähendus) 
 **Seotud:** Lisa H (keha, liikumine), Lisa M (kodaniku identiteet), Lisa E (pere rindejoon)
 
 > *„Kui keegi, kes ei pea midagi, ütleb ausalt, et see on oluline — see on tugevam kui iga ametlik lause."*
@@ -101,8 +101,8 @@ Leelo ei võitnud seda poliitika või kontaktidega. Ta võitis **käte ja hooliv
 
 Operatsioon „Peegel" ei ole eesmärk võita Twitterit või Toompead. See on kodanikualgatus:
 
-> *„Järgmine sõda on su köögis."*  
-> *„Riigikaitse algab kodus."*  
+> *„Järgmine sõda on su köögis."* 
+> *„Riigikaitse algab kodus."* 
 > *„Iga lapse elus on tugev, kohalolev eeskuju."*
 
 | Operatsiooni tuum | Leelo avalik elu |
@@ -144,7 +144,7 @@ See on kriitiline eristus:
 
 ```
 ÜKS OSAKOND võib olla edukas
-        ≠
+ ≠
 NOORTE ÜLDINE OLUKORD on hea
 ```
 

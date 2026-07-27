@@ -145,27 +145,27 @@ Uuendamine: `python3 generate_taskukaardid_pdf.py`
 ### OPERATSIOON „PEEGEL"
 #### Riigikaitse algab kodus
 
-**See ei ole riigi ega erakonna kampaania.**  
+**See ei ole riigi ega erakonna kampaania.** 
 See on kodanikualgatus: tugev pere, kriitiline mõtlemine, vastutus.
 
-**Viis sõna:**  
+**Viis sõna:** 
 **uni · liikumine · suhted · toit · ekraan**
 
-**Kui sa tunned, et oled põhjas — sa ei ole üksi:**  
+**Kui sa tunned, et oled põhjas — sa ei ole üksi:** 
 Eluliin **655 8088** · Kriisiabi **116 123**
 
-**Tahad rohkem teada?**  
+**Tahad rohkem teada?** 
 SMS **56980062** — sõnum **„Peegel"**
 
-*Avalik dokument. Jagamine lubatud.*  
+*Avalik dokument. Jagamine lubatud.* 
 *reneealuste-commits/Unpluged-Al · Operatsioon „Peegel"*
 
 ---
 
 ## MÄRKMiku ÜMBERKIRJUTAMISE JUHEND
 
-**Esimene nädal** — kirjuta Taskukaart 1 (mida EI tee).  
-**Teine nädal** — kirjuta Taskukaart 2 (mida ütled).  
+**Esimene nädal** — kirjuta Taskukaart 1 (mida EI tee). 
+**Teine nädal** — kirjuta Taskukaart 2 (mida ütled). 
 **Kolmas nädal** — lisa **üks oma lause**, mis sulle päriselt sobib.
 
 ### Minimaalne versioon (kui aega vähe)

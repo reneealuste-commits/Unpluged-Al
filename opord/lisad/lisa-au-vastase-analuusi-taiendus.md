@@ -1,163 +1,163 @@
-# Lisa AU — Vastase analüüsi täiendus: mitme vektori mõjutus
+# Lisa AU â€” Vastase analÃ¼Ã¼si tÃ¤iendus: mitme vektori mÃµjutus
 
-> **Lugeja saab:** faktilise pildi — kes ja **kuidas** mõjutab, ilma kontrollimata väideteta.  
-> **Loe seda kui:** tahad aru saada, miks OPORD ei räägi ainult ühe riigi üle.  
-> **Ära loe kui:** otsid kinnitust rassilisele või usulisele süüdistusele — seda siin ei ole.
+> **Lugeja saab:** faktilise pildi â€” kes ja **kuidas** mÃµjutab, ilma kontrollimata vÃ¤ideteta. 
+> **Loe seda kui:** tahad aru saada, miks OPORD ei rÃ¤Ã¤gi ainult Ã¼he riigi Ã¼le. 
+> **Ã„ra loe kui:** otsid kinnitust rassilisele vÃµi usulisele sÃ¼Ã¼distusele â€” seda siin ei ole.
 
-**Operatsioon „Peegel"** | Vastase analüüsi täiendus | **Kuupäev:** 25. juuli 2026  
-**Seotud:** OPORD §1a, Lisa T (demograafia), raamat A (algoritmid), Lisa P (vandenõud), Lisa S (grupikäitumine)
-
----
-
-## Põhireegel enne analüüsi
-
-> *Me analüüsime **tõestatavaid mehhanisme** — mitte ei pane süüdi rahvusele, usule ega salasele ülemaailmsele nõukogule.*
-
-Infosõja **eesmärk** on sageli see, et sa ei tea, kellele usaldada — ja hakkad **oma kaaslasi** süüdistama. See on sama lõhestumine, mida me tühistame.
-
-**Kohtleme kõiki asjaosalisi nagu terveid, täiesti normaalseid inimesi** — ka siis, kui nad on eksinud, manipuleeritud või ülekoormatud.
+**Operatsioon â€Peegel"** | Vastase analÃ¼Ã¼si tÃ¤iendus | **KuupÃ¤ev:** 25. juuli 2026 
+**Seotud:** OPORD Â§1a, Lisa T (demograafia), raamat A (algoritmid), Lisa P (vandenÃµud), Lisa S (grupikÃ¤itumine)
 
 ---
 
-## Sõbra tähelepanek (juuli 2026) — mida kontrollisime
+## PÃµhireegel enne analÃ¼Ã¼si
 
-Operatsiooni lugeja tõi välja järgmise **isikliku vaatluse** (kokkuvõte):
+> *Me analÃ¼Ã¼sime **tÃµestatavaid mehhanisme** â€” mitte ei pane sÃ¼Ã¼di rahvusele, usule ega salasele Ã¼lemaailmsele nÃµukogule.*
 
-1. Vastane ei ole ainult idanaaber — ka **USA-suunalised** sotsiaalmeedia algoritmid lõhestavad mehe ja naise ühistust.
-2. Mõlemat poolt toetav „kaose tagatuba" võib olla seotud juutide/vabamüürlastega; eesmärk: disharmoonia, kaos, populatsioonikontroll, tarbimine; peremudeli lõhkumine suurendab tarbimist; naised ilma tugeva mehe/juhita on meedia meelevallas ohtlikult juhitavad.
+InfosÃµja **eesmÃ¤rk** on sageli see, et sa ei tea, kellele usaldada â€” ja hakkad **oma kaaslasi** sÃ¼Ã¼distama. See on sama lÃµhestumine, mida me tÃ¼histame.
 
-Allpool: **mis on faktiliselt toetatav**, **mis on ülemüldus**, ja **mis OPORD-i ei lähe**.
+**Kohtleme kÃµiki asjaosalisi nagu terveid, tÃ¤iesti normaalseid inimesi** â€” ka siis, kui nad on eksinud, manipuleeritud vÃµi Ã¼lekoormatud.
 
 ---
 
-## 1. Dokumenteeritud (kõrge usaldusväärsus)
+## SÃµbra tÃ¤helepanek (juuli 2026) â€” mida kontrollisime
 
-### 1.1 Riiklik infosõda — Venemaa
+Operatsiooni lugeja tÃµi vÃ¤lja jÃ¤rgmise **isikliku vaatluse** (kokkuvÃµte):
 
-| Fakt | Allikas / märkus |
+1. Vastane ei ole ainult idanaaber â€” ka **USA-suunalised** sotsiaalmeedia algoritmid lÃµhestavad mehe ja naise Ã¼histust.
+2. MÃµlemat poolt toetav â€kaose tagatuba" vÃµib olla seotud juutide/vabamÃ¼Ã¼rlastega; eesmÃ¤rk: disharmoonia, kaos, populatsioonikontroll, tarbimine; peremudeli lÃµhkumine suurendab tarbimist; naised ilma tugeva mehe/juhita on meedia meelevallas ohtlikult juhitavad.
+
+Allpool: **mis on faktiliselt toetatav**, **mis on Ã¼lemÃ¼ldus**, ja **mis OPORD-i ei lÃ¤he**.
+
+---
+
+## 1. Dokumenteeritud (kÃµrge usaldusvÃ¤Ã¤rsus)
+
+### 1.1 Riiklik infosÃµda â€” Venemaa
+
+| Fakt | Allikas / mÃ¤rkus |
 |------|----------------|
-| Venemaa juhib pikaajalist psühholoogilist mõjutamist Eestis | Kaitsepolitseiamet aastaraamatud; NATO StratCom COE (Riia); EUvsDisinfo |
-| Eesmärk: usalduse nõrgestamine, polarisatsioon, pere vastu vaenu külvamine | OPORD §1a; Euroopa Parlamendi raportid infosõja kohta |
-| Kanalid: Telegram, RU-keelsed portaalid, võltsitud identiteedid | KAPO avalikud hoiatused |
+| Venemaa juhib pikaajalist psÃ¼hholoogilist mÃµjutamist Eestis | Kaitsepolitseiamet aastaraamatud; NATO StratCom COE (Riia); EUvsDisinfo |
+| EesmÃ¤rk: usalduse nÃµrgestamine, polarisatsioon, pere vastu vaenu kÃ¼lvamine | OPORD Â§1a; Euroopa Parlamendi raportid infosÃµja kohta |
+| Kanalid: Telegram, RU-keelsed portaalid, vÃµltsitud identiteedid | KAPO avalikud hoiatused |
 
-**Järeldus:** Idanaabri roll on **dokumenteeritud**. See ei ole spekulatsioon.
+**JÃ¤reldus:** Idanaabri roll on **dokumenteeritud**. See ei ole spekulatsioon.
 
-### 1.2 Kommertsmõjutus — globaalsed platvormid (sh USA-põhine ökosüsteem)
+### 1.2 KommertsmÃµjutus â€” globaalsed platvormid (sh USA-pÃµhine Ã¶kosÃ¼steem)
 
-Eesti kasutajad elavad peamiselt **globaalsetes** platvormides: Meta (Facebook/Instagram), Google (YouTube), Apple; TikTok — Hiina emaettevõte, kuid **sisu ja reklaam** globaalses lääne turus.
+Eesti kasutajad elavad peamiselt **globaalsetes** platvormides: Meta (Facebook/Instagram), Google (YouTube), Apple; TikTok â€” Hiina emaettevÃµte, kuid **sisu ja reklaam** globaalses lÃ¤Ã¤ne turus.
 
-| Fakt | Allikas / märkus |
+| Fakt | Allikas / mÃ¤rkus |
 |------|----------------|
-| Algoritmid optimeerivad **kaasatust** (aeg platvormil), mitte tervist ega tõde | Frances Haugen (Meta sisemised dokumendid, 2021); akadeemilised uuringud |
-| Emotsionaalselt tugev sisu (viha, hirm, õigustunne) levib kiiremini | Uuringud polariseeriva sisuga sotsiaalvõrgustikes |
-| Platvormid teenivad tähelepanu müügist — reklaam | Meta, Alphabet avalikud äriaruanded; Zuboff *Surveillance Capitalism* |
+| Algoritmid optimeerivad **kaasatust** (aeg platvormil), mitte tervist ega tÃµde | Frances Haugen (Meta sisemised dokumendid, 2021); akadeemilised uuringud |
+| Emotsionaalselt tugev sisu (viha, hirm, Ãµigustunne) levib kiiremini | Uuringud polariseeriva sisuga sotsiaalvÃµrgustikes |
+| Platvormid teenivad tÃ¤helepanu mÃ¼Ã¼gist â€” reklaam | Meta, Alphabet avalikud Ã¤riaruanded; Zuboff *Surveillance Capitalism* |
 
-**Järeldus:** Sõbra punkt „mitte ainult Venemaa" on **osaliselt õige**: lisaks riiklikule infosõjale on **kommertsmõjutus**, mis ei pea tahtma Eestit spetsiaalselt lõhkuda — piisab, kui **eraldatud, ärev ja töötlev inimene tarbib rohkem**.
+**JÃ¤reldus:** SÃµbra punkt â€mitte ainult Venemaa" on **osaliselt Ãµige**: lisaks riiklikule infosÃµjale on **kommertsmÃµjutus**, mis ei pea tahtma Eestit spetsiaalselt lÃµhkuda â€” piisab, kui **eraldatud, Ã¤rev ja tÃ¶Ã¶tlev inimene tarbib rohkem**.
 
-### 1.3 Demograafia ja pere — Eesti numbrid
+### 1.3 Demograafia ja pere â€” Eesti numbrid
 
-| KPI | Väärtus | Lisa |
+| KPI | VÃ¤Ã¤rtus | Lisa |
 |-----|--------|------|
-| Sündimuskordaja 2025 | **1,16** | Lisa T |
-| Sündide langus | **?30%** vs 2010–2021 keskmine | Lisa T |
-| Üksikvanemaga leibkonnad | kasvutrend (Eurostat; Statistikaamet) | mõõdik, mitte süüdistus |
+| SÃ¼ndimuskordaja 2025 | **1,16** | Lisa T |
+| SÃ¼ndide langus | **?30%** vs 2010â€“2021 keskmine | Lisa T |
+| Ãœksikvanemaga leibkonnad | kasvutrend (Eurostat; Statistikaamet) | mÃµÃµdik, mitte sÃ¼Ã¼distus |
 
-**Järeldus:** Pere mudeli surve on **reaalne tulemus**, mitte ainult narratiiv.
+**JÃ¤reldus:** Pere mudeli surve on **reaalne tulemus**, mitte ainult narratiiv.
 
 ---
 
-## 2. Osaliselt tõestatav — mehhanism, mitte üks salajane plaan
+## 2. Osaliselt tÃµestatav â€” mehhanism, mitte Ã¼ks salajane plaan
 
-### 2.1 Mehe–naise lõhestamine algoritmides
+### 2.1 Meheâ€“naise lÃµhestamine algoritmides
 
-| Muster | Mida näitab praktika | Mõju |
+| Muster | Mida nÃ¤itab praktika | MÃµju |
 |--------|---------------------|------|
-| **Eraldi kanalid** meestele ja naistele | Soovitusjärgib vaatamist; „manosphere" vs ilustandardid / relationship drama | Usaldus partneri vastu väheneb; **mõlemad pooled** saavad erinevat ärritust |
-| Võrdlus ja ilustandardid | Sotsiaalne võrdlus halvema enesetundega seotud | Intiimsus ja enesekindlus kannatavad |
-| „Relationship advice" sisu | Kõrge kaasatus; sageli konflikti amplifitseerimine | Kompromiss tundub nõrkus |
+| **Eraldi kanalid** meestele ja naistele | SoovitusjÃ¤rgib vaatamist; â€manosphere" vs ilustandardid / relationship drama | Usaldus partneri vastu vÃ¤heneb; **mÃµlemad pooled** saavad erinevat Ã¤rritust |
+| VÃµrdlus ja ilustandardid | Sotsiaalne vÃµrdlus halvema enesetundega seotud | Intiimsus ja enesekindlus kannatavad |
+| â€Relationship advice" sisu | KÃµrge kaasatus; sageli konflikti amplifitseerimine | Kompromiss tundub nÃµrkus |
 
-**Oluline nuance:** see ei tähenda, et üks sugu on „ohtlik" teisele. **Mõlemad** on eraldi sihtmärgid reklaami ja kaasatuse jaoks.
+**Oluline nuance:** see ei tÃ¤henda, et Ã¼ks sugu on â€ohtlik" teisele. **MÃµlemad** on eraldi sihtmÃ¤rgid reklaami ja kaasatuse jaoks.
 
-**Peegli seisukoht:** tugev pere = mees **ja** naine (või tugevad täiskasvanud eeskujud) **koos** — mitte üks sugupool teise üle.
+**Peegli seisukoht:** tugev pere = mees **ja** naine (vÃµi tugevad tÃ¤iskasvanud eeskujud) **koos** â€” mitte Ã¼ks sugupool teise Ã¼le.
 
-### 2.2 „Kaoses saab rikastuda" — ilma salase nõukoguta
+### 2.2 â€Kaoses saab rikastuda" â€” ilma salase nÃµukoguta
 
-| Mehhanism | Kes võidab | Kas vajab vandenõu? |
+| Mehhanism | Kes vÃµidab | Kas vajab vandenÃµu? |
 |-----------|-----------|-------------------|
-| Lahutuse järel kaks kodu | Mööbel, krediit, dating-appid | **Ei** — turumajandus |
-| Ärevus ja üksildus | Ravimid, alkohol, impulssostud, doom-scrolling | **Ei** — tarbimine |
-| Polariseeritud poliitika | Klikid, reklaam, „us vs them" | **Ei** — engagement |
+| Lahutuse jÃ¤rel kaks kodu | MÃ¶Ã¶bel, krediit, dating-appid | **Ei** â€” turumajandus |
+| Ã„revus ja Ã¼ksildus | Ravimid, alkohol, impulssostud, doom-scrolling | **Ei** â€” tarbimine |
+| Polariseeritud poliitika | Klikid, reklaam, â€us vs them" | **Ei** â€” engagement |
 
-**Järeldus:** kaosest **kasu saamine** on dokumenteeritav **incentiivide** kaudu. See ei tõesta ühte rahvuslikku või usulist tagatuba.
+**JÃ¤reldus:** kaosest **kasu saamine** on dokumenteeritav **incentiivide** kaudu. See ei tÃµesta Ã¼hte rahvuslikku vÃµi usulist tagatuba.
 
 ### 2.3 Populatsioonikontroll
 
-| Tõsi | Ebatõsi / liialdus |
+| TÃµsi | EbatÃµsi / liialdus |
 |-----|-------------------|
-| Iive langeb; riik muretseb demograafia üle (Lisa T) | Ühtset salaplaani „rahvast vähendada" ei saa faktiliselt näidata |
-| Sotsiaalpoliitika mõjutab pereotsuseid | „Tahtlik steriliseerimine algoritmidega" — kontrollimatu väide |
+| Iive langeb; riik muretseb demograafia Ã¼le (Lisa T) | Ãœhtset salaplaani â€rahvast vÃ¤hendada" ei saa faktiliselt nÃ¤idata |
+| Sotsiaalpoliitika mÃµjutab pereotsuseid | â€Tahtlik steriliseerimine algoritmidega" â€” kontrollimatu vÃ¤ide |
 
 ---
 
-## 3. Mitte integreeritav OPORD-i (faktivaba või kahjulik)
+## 3. Mitte integreeritav OPORD-i (faktivaba vÃµi kahjulik)
 
-| Väide | Miks OPORD seda ei kasuta |
+| VÃ¤ide | Miks OPORD seda ei kasuta |
 |-------|-------------------------|
-| „Juudid / vabamüürlased juhivad kaost" | **Süüdistav võltsnarratiiv** — operatiivset tõendit pole; **lõhestab** ühiskonda; mängib infosõja kätte |
-| „Naised ilma meheta on ohtlikult juhitavad" | **Dehumaniseerib** naisi; vastuolus Peegli reegliga; ignoreerib meeste mõjutamist samade algoritmidega |
-| Üks salajane tagatuba seletab kõik | **Falsifitseerimatu** — iga vastuargument muutub „osaks plaanist" |
+| â€Juudid / vabamÃ¼Ã¼rlased juhivad kaost" | **SÃ¼Ã¼distav vÃµltsnarratiiv** â€” operatiivset tÃµendit pole; **lÃµhestab** Ã¼hiskonda; mÃ¤ngib infosÃµja kÃ¤tte |
+| â€Naised ilma meheta on ohtlikult juhitavad" | **Dehumaniseerib** naisi; vastuolus Peegli reegliga; ignoreerib meeste mÃµjutamist samade algoritmidega |
+| Ãœks salajane tagatuba seletab kÃµik | **Falsifitseerimatu** â€” iga vastuargument muutub â€osaks plaanist" |
 
-> *Kui analüüs viib **rahvuse või usuni** — peatu. See on tõenäoliselt infosõja **teine lõige**, mitte lahendus.*
+> *Kui analÃ¼Ã¼s viib **rahvuse vÃµi usuni** â€” peatu. See on tÃµenÃ¤oliselt infosÃµja **teine lÃµige**, mitte lahendus.*
 
 ---
 
 ## 4. Mitme vektori mudel (operatiivne)
 
 ```
-                    ???????????????????????????
-                    ?   Eesti kodanik / pere   ?
-                    ???????????????????????????
-                               ?      ?
-              ??????????????????????????????????????????
-              ?                                       ?
-   ????????????????????                 ????????????????????
-   ? RIIGILINE (RU)   ?                 ? KOMMERTS (platv.) ?
-   ? usaldus, hirm    ?                 ? kaasatus, reklaam ?
-   ????????????????????                 ????????????????????
-              ?                                       ?
-              ?????????????????????????????????????????
-                               ?
-              ?????????????????????????????????????????
-              ? TULEMUS: üksildus, lootetus, pere surve ?
-              ?????????????????????????????????????????
+ ???????????????????????????
+ ? Eesti kodanik / pere ?
+ ???????????????????????????
+ ? ?
+ ??????????????????????????????????????????
+ ? ?
+ ???????????????????? ????????????????????
+ ? RIIGILINE (RU) ? ? KOMMERTS (platv.) ?
+ ? usaldus, hirm ? ? kaasatus, reklaam ?
+ ???????????????????? ????????????????????
+ ? ?
+ ?????????????????????????????????????????
+ ?
+ ?????????????????????????????????????????
+ ? TULEMUS: Ã¼ksildus, lootetus, pere surve ?
+ ?????????????????????????????????????????
 ```
 
-**Operatiivne reegel:** sama vastus kõigile — **tugev pere, kriitiline mõtlemine, algoritmidele mitte allumine** (raamat A, Lisa M, Lisa Q).
+**Operatiivne reegel:** sama vastus kÃµigile â€” **tugev pere, kriitiline mÃµtlemine, algoritmidele mitte allumine** (raamat A, Lisa M, Lisa Q).
 
 ---
 
-## 5. Tagajärjed ja mõju (Eesti kontekst)
+## 5. TagajÃ¤rjed ja mÃµju (Eesti kontekst)
 
-| Valdkond | Mõjumehhanism | Vektor | Tõenäoline tagajärg | Peegli vastus |
+| Valdkond | MÃµjumehhanism | Vektor | TÃµenÃ¤oline tagajÃ¤rg | Peegli vastus |
 |----------|---------------|--------|---------------------|---------------|
-| **Pere** | Eraldi „vood" meestele/naistele | Platvormid | Usaldus, konflikt | Pere aeg, ekraanivaba õhtu |
-| **Lapsed** | Eeskuju ekraanilt | Mõlemad | Puuduv kohalolev täiskasvanu | Raamat B, demomees |
-| **Usaldus riigi vastu** | Desinformatsioon | RU infosõda | „Kõik on korrumpeerunud" | Lisa T, kriitiline mõtlemine |
-| **Usaldus kaaslaste vastu** | Süüdistav narratiiv | RU + platvormid + vandenõud | Sõprus lööb | Lisa P; **ära süüdi rahvust** |
-| **Tarbimine** | Ärevus, üksildus | Platvormid + reklaam | Võlg, väsimus | Lisa M, uni (V) |
-| **Demograafia** | Majandus + kultuur + hirm | Kõik kihid | TFR 1,16 | Tugev eeskuju |
-| **Ühiskond** | Etniline/religioosne süüdistus | Vandenõud | Lõhe eestlaste vahel | **Tagasi lükata** |
+| **Pere** | Eraldi â€vood" meestele/naistele | Platvormid | Usaldus, konflikt | Pere aeg, ekraanivaba Ãµhtu |
+| **Lapsed** | Eeskuju ekraanilt | MÃµlemad | Puuduv kohalolev tÃ¤iskasvanu | Raamat B, demomees |
+| **Usaldus riigi vastu** | Desinformatsioon | RU infosÃµda | â€KÃµik on korrumpeerunud" | Lisa T, kriitiline mÃµtlemine |
+| **Usaldus kaaslaste vastu** | SÃ¼Ã¼distav narratiiv | RU + platvormid + vandenÃµud | SÃµprus lÃ¶Ã¶b | Lisa P; **Ã¤ra sÃ¼Ã¼di rahvust** |
+| **Tarbimine** | Ã„revus, Ã¼ksildus | Platvormid + reklaam | VÃµlg, vÃ¤simus | Lisa M, uni (V) |
+| **Demograafia** | Majandus + kultuur + hirm | KÃµik kihid | TFR 1,16 | Tugev eeskuju |
+| **Ãœhiskond** | Etniline/religioosne sÃ¼Ã¼distus | VandenÃµud | LÃµhe eestlaste vahel | **Tagasi lÃ¼kata** |
 
 ---
 
 ## 6. Mida meeskond teeb selle infoga
 
-| Tee | Ära tee |
+| Tee | Ã„ra tee |
 |-----|--------|
-| Räägi **kahest tõestatud vektorist**: RU + platvormide majandus | Ära ühenda juute, vabamüürlasi või ühte rahvust „tagatubaks" |
-| Näita **mõlemale poolele** austust | Ära tee ühest soost „ohtu" |
-| Anna konkreetne samm: unplugged, pere aeg | Ära jäta inimest hirmu ja spekulatsiooni taha |
-| Viita Lisa AU kui keegi küsib „kes võidab?" | Ära levita kontrollimata lõikeid |
+| RÃ¤Ã¤gi **kahest tÃµestatud vektorist**: RU + platvormide majandus | Ã„ra Ã¼henda juute, vabamÃ¼Ã¼rlasi vÃµi Ã¼hte rahvust â€tagatubaks" |
+| NÃ¤ita **mÃµlemale poolele** austust | Ã„ra tee Ã¼hest soost â€ohtu" |
+| Anna konkreetne samm: unplugged, pere aeg | Ã„ra jÃ¤ta inimest hirmu ja spekulatsiooni taha |
+| Viita Lisa AU kui keegi kÃ¼sib â€kes vÃµidab?" | Ã„ra levita kontrollimata lÃµikeid |
 
 ---
 
@@ -165,22 +165,22 @@ Eesti kasutajad elavad peamiselt **globaalsetes** platvormides: Meta (Facebook/I
 
 | Teema | Kus vaadata |
 |-------|-------------|
-| Venemaa mõjutus Eestis | KAPO aastaraamat; [EUvsDisinfo.eu](https://euvsdisinfo.eu) |
+| Venemaa mÃµjutus Eestis | KAPO aastaraamat; [EUvsDisinfo.eu](https://euvsdisinfo.eu) |
 | Algoritmid ja kaasatus | Frances Haugen senatiistung (2021); Meta siseuuringud (avalikud lekked) |
 | Demograafia | Statistikaamet; Lisa T |
-| Tähelepanumajandus | Center for Humane Technology; Zuboff |
-| Grupikäitumine | Lisa S §5b (*Rhythm 0*) |
+| TÃ¤helepanumajandus | Center for Humane Technology; Zuboff |
+| GrupikÃ¤itumine | Lisa S Â§5b (*Rhythm 0*) |
 
 ---
 
-## Kokkuvõte
+## KokkuvÃµte
 
-Sõbra tähelepanek on **osaliselt õige**: oht ei tule ainult idast. **Globaalsed platvormid** ja **kaasatuse majandus** lõhestavad peresid ilma salase nõukoguta.
+SÃµbra tÃ¤helepanek on **osaliselt Ãµige**: oht ei tule ainult idast. **Globaalsed platvormid** ja **kaasatuse majandus** lÃµhestavad peresid ilma salase nÃµukoguta.
 
-Aga kui analüüs viib **rahvuse või usuni** — see on **vale tee**. See on infosõja teine nõel: lõhesta ohvrid omavahel, et nad ei vaataks **tõestatud mehhanismide** poole.
+Aga kui analÃ¼Ã¼s viib **rahvuse vÃµi usuni** â€” see on **vale tee**. See on infosÃµja teine nÃµel: lÃµhesta ohvrid omavahel, et nad ei vaataks **tÃµestatud mehhanismide** poole.
 
-> **Peegli vastus:** tugev pere, kriitiline mõtlemine, ära usu — uuri. Mitte hirm. Mitte süüdistus. **Üks samm korraga.**
+> **Peegli vastus:** tugev pere, kriitiline mÃµtlemine, Ã¤ra usu â€” uuri. Mitte hirm. Mitte sÃ¼Ã¼distus. **Ãœks samm korraga.**
 
 ---
 
-*Lisa AU — Operatsioon „Peegel". Vastase analüüsi täiendus. 25. juuli 2026.*
+*Lisa AU â€” Operatsioon â€Peegel". Vastase analÃ¼Ã¼si tÃ¤iendus. 25. juuli 2026.*

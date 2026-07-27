@@ -1,7 +1,7 @@
 # Lisa BC — Digitaalne detoks: nuputelefon ja pärast-töö reegel
 
-> **Lugeja saab:** kahe-seadme mudel — nutitelefon jääb ankrupaika, nuputelefon pere ja hädaabiga pärast 17:00.  
-> **Loe seda kui:** ekraan võtab pere, une või tööpiiri ära (tee A, C, Raamat 01).  
+> **Lugeja saab:** kahe-seadme mudel — nutitelefon jääb ankrupaika, nuputelefon pere ja hädaabiga pärast 17:00. 
+> **Loe seda kui:** ekraan võtab pere, une või tööpiiri ära (tee A, C, Raamat 01). 
 > **Ära loe kui:** oled kriisis ilma turvaliseta — hädaabi numbrid peavad alati töötama.
 
 **Seotud:** Raamat **01** (Unplugged), **Lisa V** (uni), **Lisa Q** (perede aeg), **Lisa AC** (magamistuba), **Lisa P** (trauma — ära võta telefon ära ilma kokkuleppeta), **Lisa X** (OPSEC), **Lisa N** (demomees eeskuju).

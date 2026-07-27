@@ -1,7 +1,7 @@
 # Lisa H — Kiirjuhend kriisis isale
 
-> **Lugeja saab:** kiire abi ja turvalisuse sammud kriisis.  
-> **Loe seda kui:** oled põhjas või peres on kriis.  
+> **Lugeja saab:** kiire abi ja turvalisuse sammud kriisis. 
+> **Loe seda kui:** oled põhjas või peres on kriis. 
 > **Ära loe kui:** oled rahulik skeptik — alusta TUUM-ist (tee B).
 
 
@@ -149,7 +149,7 @@ Lääne arstid ei uskunud, et inimene saab ainult lihast elada. **1928–1929** 
 - Stefansson — *Not by Bread Alone* / *The Fat of the Land*
 - **Täielik allikate pakett + avatud meele küsimused:** **Lisa U** — `lisad/lisa-u-rasv-avatud-meele-uuring.md` (PDF lingid Drive'i jaoks, 30 eneseanalüüsi küsimust)
 
-> *Me ei ehita armastust emotsioonidega. Me kujundame seda käitumisega — austuse ja lugupidamise keeles.*  
+> *Me ei ehita armastust emotsioonidega. Me kujundame seda käitumisega — austuse ja lugupidamise keeles.* 
 > Sama kehtib keha kohta: hoolitsus toitumise eest on armastus, mis on nähtav.
 
 **Oluline:** see ei ole retsept „kõik peavad sööma nagu inuitid". See on tõend, et **tööstuslik toit ja ühekülgne süsivesikute üleküllus** võivad keha kurnata — eriti siis, kui vaim on juba põhjas. Enne suuri toitumismuutusi: **perearst või toitumisnõustaja**. Ravimid ja teraapia jäävad esikohale.

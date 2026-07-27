@@ -1,8 +1,8 @@
 # Pere rindejoon
 ## Kuidas perekond saab esimeseks kaitsejooneks
 
-**Autor:** Renee Aluste  
-**Seeria:** Tugeva Isa seeria, köide 5/7  
+**Autor:** Renee Aluste 
+**Seeria:** Tugeva Isa seeria, köide 5/7 
 **Operatsioon:** Peegel — vastutegevus psühholoogilisele mõjutamisele
 
 ---

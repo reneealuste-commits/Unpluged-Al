@@ -147,13 +147,13 @@ Krooniline stress võib põhjustada **aju kahanemist** — mõju võib ulatuda *
 
 ```
 KIUSAMINE / ALANDAMINE (laps, kool, KV, töö)
-        ↓
+ ↓
 AJU MUUTUSED (Imeline Teadus — struktuur, keemia)
-        ↓
+ ↓
 KEHAS SALVESTUNUD KOGEMUS (van der Kolk — pre-verbaalne, triggerid)
-        ↓
+ ↓
 TÄISKASVANU KÄITUMINE (impulsiivsus, ärevus, kiusaja või ohver, läbipõlemine)
-        ↓
+ ↓
 LAHENDUS: turvalisus + keha + mõistus (Lisa P) + vastutus + uus juhtimisstiil (Lisa I)
 ```
 

@@ -1,12 +1,12 @@
 # Lisa M — Kodaniku identiteet, kodaniku vanne ja peeglitööriist
 
-> **Lugeja saab:** kodaniku identiteedi ja LIHTSUS reegli.  
-> **Loe seda kui:** tugevdad pere või enda identiteeti (tee C).  
+> **Lugeja saab:** kodaniku identiteedi ja LIHTSUS reegli. 
+> **Loe seda kui:** tugevdad pere või enda identiteeti (tee C). 
 > **Ära loe kui:** oled kriisis — alusta Lisa H.
 
 
-**Seotud:** Operatsioon „Peegel" — iga kodaniku tööriist  
-**Eesmärk:** Identiteedi muutus läbi Tony Robbinsi viieastmelise juhendi; uus enesekuvand peegli ees; enesearmastus, õppija roll, avatud mõtlemine, sisetunde usaldamine.  
+**Seotud:** Operatsioon „Peegel" — iga kodaniku tööriist 
+**Eesmärk:** Identiteedi muutus läbi Tony Robbinsi viieastmelise juhendi; uus enesekuvand peegli ees; enesearmastus, õppija roll, avatud mõtlemine, sisetunde usaldamine. 
 **Uus etapp:** **LIHTSUS** — „Kui meeskond ei tea plaani, siis nad ei saa ju seda täita!"
 
 > *Sa ei muutu ühe päevaga. Sa muutud iga kord, kui valid teistmoodi olla — ja peegeldad seda endale näo ees.*
@@ -154,7 +154,7 @@ Ma võtan vastutuse oma perekonna, oma mõtete ja oma tegude eest. Ma ei oota, e
 
 *Ma ei vannu lipu ees hirmust. Ma vannun peegli ees aususest.*
 
-**Renee Aluste**  
+**Renee Aluste** 
 Operatsioon „Peegel" koordinaator
 
 ---

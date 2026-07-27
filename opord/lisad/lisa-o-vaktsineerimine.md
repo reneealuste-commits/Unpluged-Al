@@ -1,7 +1,7 @@
 # Lisa O — Vaktsineerimine: uuringud, ühiskond ja aus arutelu
 
-**Operatsioon „Peegel"** | Püsiv lisa | Autor: Renee Aluste  
-**Haldusala:** Sotsiaalkaitseministeerium · Terviseamet · TAI  
+**Operatsioon „Peegel"** | Püsiv lisa | Autor: Renee Aluste 
+**Haldusala:** Sotsiaalkaitseministeerium · Terviseamet · TAI 
 **Eesmärk:** Kriitiline mõtlemine ilma hirmu manipulatsioonita — mõlemalt poolt.
 
 > *Infosõjas võidakse sind hirmutada kas vaktsiinide või nende eitamisega. Operatsioon „Peegel" ei müü mõlemat äärmust. Me küsime: mis on tõendatud, mis on müüt, ja kes võidab sinu hirmust?*
@@ -163,7 +163,7 @@ Renee Aluste tegi oma **uue lapse** puhul teadliku otsuse:
 - Ta ei õpeta teisi keelduma. Ta näitab, et **teadlik vanem** võib valida teisiti — ja vastutab ise (sh kogukonna riski teadvustades).
 - Ta soovitab igal juhul **perearsti konsultatsiooni** enne otsust.
 
-> *„Ma ei ehita armastust emotsioonidega. Me kujundame seda käitumisega — austuse ja lugupidamise keeles."*  
+> *„Ma ei ehita armastust emotsioonidega. Me kujundame seda käitumisega — austuse ja lugupidamise keeles."* 
 > Sama kehtib lapse kohta: otsus peab tulema hoolivusest, mitte hirmust ega grupi survest.
 
 ---

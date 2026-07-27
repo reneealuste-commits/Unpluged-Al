@@ -1,7 +1,7 @@
 # Toitumine ja taastumine — uurimustöö
 
-**Operatsioon „Peegel"** | Toidu-uurimustöö (PDF: `TOITUMINE_UURIMUSTOO.pdf`) | Autor: Renee Aluste  
-**Seotud:** Lisa H, Lisa L, **Lisa U** (avatud meel, küsimused), **Lisa V** (uni, Walker), Lisa F, Lisa S  
+**Operatsioon „Peegel"** | Toidu-uurimustöö (PDF: `TOITUMINE_UURIMUSTOO.pdf`) | Autor: Renee Aluste 
+**Seotud:** Lisa H, Lisa L, **Lisa U** (avatud meel, küsimused), **Lisa V** (uni, Walker), Lisa F, Lisa S 
 **Kuupäev:** 24. juuli 2026
 
 > *See ei ole dieedireklaam. See on **uurimustöö** — teaduslikud viited, praktiline loogika ja aus hoiatus: enne suuri muutusi perearst või toitumisnõustaja.*
@@ -148,7 +148,7 @@ Renee ei alustanud toitumisest. Ta alustas **vaimsest taastumisest**:
 
 Stefanssoni ja Bellevue viide kinnitas intuitsiooni: **rasvarikas loomne toit** (kala, mererasv) võib toetada keha taastumist, kui vaim on juba abi saanud. See on **ajalooline tõend**, mitte müügikõne.
 
-> *Me ei ehita armastust emotsioonidega. Me kujundame seda käitumisega — austuse ja lugupidamise keeles.*  
+> *Me ei ehita armastust emotsioonidega. Me kujundame seda käitumisega — austuse ja lugupidamise keeles.* 
 > Sama kehtib keha kohta: hoolitsus toitumise eest on armastus, mis on **nähtav**.
 
 ---

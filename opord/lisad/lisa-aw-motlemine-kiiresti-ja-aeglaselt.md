@@ -1,382 +1,382 @@
-# Lisa AW — Mõtlemine kiiresti ja aeglaselt
+# Lisa AW â€” MÃµtlemine kiiresti ja aeglaselt
 
-> **Lugeja saab:** arusaama, kuidas aju tegelikult otsustab — ja miks stressis „kuuleme" teist asja, kui öeldakse.  
-> **Loe seda kui:** tahad harida enda pere, meeskonda või iseennast — enne kui hakkad vaidlema.  
-> **Ära loe kui:** otsid kiiret kriisiabi — alusta Lisa H.
+> **Lugeja saab:** arusaama, kuidas aju tegelikult otsustab â€” ja miks stressis â€kuuleme" teist asja, kui Ã¶eldakse. 
+> **Loe seda kui:** tahad harida enda pere, meeskonda vÃµi iseennast â€” enne kui hakkad vaidlema. 
+> **Ã„ra loe kui:** otsid kiiret kriisiabi â€” alusta Lisa H.
 
-**Operatsioon „Peegel"** | Teaduslik alus | Põhimõte: *aju ei ole kohtuprotsess — see on kiire mustrite masin*
+**Operatsioon â€Peegel"** | Teaduslik alus | PÃµhimÃµte: *aju ei ole kohtuprotsess â€” see on kiire mustrite masin*
 
-**Allikas:** Daniel Kahneman, *Thinking, Fast and Slow* (Farrar, Straus and Giroux, 2011; eesti keeles *Mõtlemine, kiiresti ja aeglaselt*, ISBN 978-9949-33-567-4). Seotud: **Lisa P** (valideerimine), **Lisa Q** (side), **Lisa S** (trauma, aju), **Lisa V** (uni), **Lisa I** (juhtimine), **Lisa AD** (lood).
+**Allikas:** Daniel Kahneman, *Thinking, Fast and Slow* (Farrar, Straus and Giroux, 2011; eesti keeles *MÃµtlemine, kiiresti ja aeglaselt*, ISBN 978-9949-33-567-4). Seotud: **Lisa P** (valideerimine), **Lisa Q** (side), **Lisa S** (trauma, aju), **Lisa V** (uni), **Lisa I** (juhtimine), **Lisa AD** (lood).
 
-> *„Me ei näe maailma nii, nagu see on. Me näeme maailma nii, nagu **meie aju** on valmis seda nägema."* — Kahneman (kokkuvõte)
+> *â€Me ei nÃ¤e maailma nii, nagu see on. Me nÃ¤eme maailma nii, nagu **meie aju** on valmis seda nÃ¤gema."* â€” Kahneman (kokkuvÃµte)
 
-> *Operatsiooni reegel: **enne kui vaidled — küsi, milline süsteem just rääkis.***
+> *Operatsiooni reegel: **enne kui vaidled â€” kÃ¼si, milline sÃ¼steem just rÃ¤Ã¤kis.***
 
 ---
 
 ## Miks see lisa on
 
-Inimesed vaidlevad igapäevaselt asjade üle, mida **keegi ei öelnud**.
+Inimesed vaidlevad igapÃ¤evaselt asjade Ã¼le, mida **keegi ei Ã¶elnud**.
 
-Mitte sest keegi on „halb". Mitte sest keegi valetab tahtlikult. Vaid sest **aju töötab kahe kiirusega** — ja stress, uni puudus ja trauma lülitavad aeglase mõtlemise välja.
+Mitte sest keegi on â€halb". Mitte sest keegi valetab tahtlikult. Vaid sest **aju tÃ¶Ã¶tab kahe kiirusega** â€” ja stress, uni puudus ja trauma lÃ¼litavad aeglase mÃµtlemise vÃ¤lja.
 
-Kahneman (Nobeli auhind majandusteaduses, 2002) kirjeldab seda raamistikku, mis aitab mõista:
+Kahneman (Nobeli auhind majandusteaduses, 2002) kirjeldab seda raamistikku, mis aitab mÃµista:
 
-| Mida me arvame | Mida teadus ütleb |
+| Mida me arvame | Mida teadus Ã¼tleb |
 |----------------|-------------------|
-| „Ma kuulsin täpselt, mida ta ütles" | Kuulamine on **konstruktsioon** — aju täidab lünki |
-| „Ma otsustasin loogiliselt" | Enamik otsuseid on **kiire, emotsionaalne**, alles siis põhjendatud |
-| „Ta tegi seda tahtlikult" | Aju eelistab **lugu** (agent, kavatsus) — isegi kui seda pole |
-| „Ma olen stressis, aga mõtlen selgelt" | Stress **nõrgendab** aeglase mõtlemise — System 2 on esimene, mis kukub |
+| â€Ma kuulsin tÃ¤pselt, mida ta Ã¼tles" | Kuulamine on **konstruktsioon** â€” aju tÃ¤idab lÃ¼nki |
+| â€Ma otsustasin loogiliselt" | Enamik otsuseid on **kiire, emotsionaalne**, alles siis pÃµhjendatud |
+| â€Ta tegi seda tahtlikult" | Aju eelistab **lugu** (agent, kavatsus) â€” isegi kui seda pole |
+| â€Ma olen stressis, aga mÃµtlen selgelt" | Stress **nÃµrgendab** aeglase mÃµtlemise â€” System 2 on esimene, mis kukub |
 
-See lisa **ei kopeeri raamatut**. See avab silmad: miks kelnerilauas üks lause võib muutuda tüliks — ja mida Peegel teeb teisiti.
+See lisa **ei kopeeri raamatut**. See avab silmad: miks kelnerilauas Ã¼ks lause vÃµib muutuda tÃ¼liks â€” ja mida Peegel teeb teisiti.
 
-**Harimise mõte:** kui inimene **mõistab oma aju**, ta ei võta iga tülki isiklikult. Ta saab valida: kas vastan System 1-ga või kutsun System 2.
+**Harimise mÃµte:** kui inimene **mÃµistab oma aju**, ta ei vÃµta iga tÃ¼lki isiklikult. Ta saab valida: kas vastan System 1-ga vÃµi kutsun System 2.
 
 ---
 
-## 0. Esimene samm — ära usu oma aju. Usu keha.
+## 0. Esimene samm â€” Ã¤ra usu oma aju. Usu keha.
 
-> *See on kõige olulisem reegel. Enne Kahnemani. Enne Steigerit. Enne kõike.*
+> *See on kÃµige olulisem reegel. Enne Kahnemani. Enne Steigerit. Enne kÃµike.*
 
-Inimene ütleb: *„Ma tean, mis mul vaja on. Ma tean, mida ta mõtles. Ma tean, et see on õige."*
+Inimene Ã¼tleb: *â€Ma tean, mis mul vaja on. Ma tean, mida ta mÃµtles. Ma tean, et see on Ãµige."*
 
-**Peegel ütleb: ära usu seda häält — see ei pruugi olla sinu.**
+**Peegel Ã¼tleb: Ã¤ra usu seda hÃ¤Ã¤lt â€” see ei pruugi olla sinu.**
 
 Su aju on aastaid **treenitud** asjadele, mida sa ise ei valinud:
 
-| Mis sinna läks | Kuidas see mõjutab |
+| Mis sinna lÃ¤ks | Kuidas see mÃµjutab |
 |----------------|-------------------|
-| **Algoritmid** (TikTok, uudised, voog) | Hirm, viha, paanika tunduvad „loomulikud" |
-| **Võõrkeelne sisu** | Narratiivid, mis ei ole sinu kogemus — aga tunduvad tuttavad |
-| **Võõrad lood** (reklaam, poliitika, draama) | Aju täidab lüngad **valmis mallidega** |
-| **Stress, uni puudus, trauma** | System 1 võtab juhtimise — ja sa usud seda |
+| **Algoritmid** (TikTok, uudised, voog) | Hirm, viha, paanika tunduvad â€loomulikud" |
+| **VÃµÃµrkeelne sisu** | Narratiivid, mis ei ole sinu kogemus â€” aga tunduvad tuttavad |
+| **VÃµÃµrad lood** (reklaam, poliitika, draama) | Aju tÃ¤idab lÃ¼ngad **valmis mallidega** |
+| **Stress, uni puudus, trauma** | System 1 vÃµtab juhtimise â€” ja sa usud seda |
 
-See ei tähenda, et aju on „halb". See tähendab: **automaatne mõte on sisse ehitatud** — nagu operatsioonisüsteem, millele keegi teine installis rakendusi.
+See ei tÃ¤henda, et aju on â€halb". See tÃ¤hendab: **automaatne mÃµte on sisse ehitatud** â€” nagu operatsioonisÃ¼steem, millele keegi teine installis rakendusi.
 
-**Keha ei valeta.** Keha räägib **enne** mõtet:
+**Keha ei valeta.** Keha rÃ¤Ã¤gib **enne** mÃµtet:
 
-| Keha ütleb | Mida see tähendab |
+| Keha Ã¼tleb | Mida see tÃ¤hendab |
 |------------|-------------------|
-| Kõht on pinges | Midagi on valesti — oht, hirm, vale olukord |
-| Hingamine on pinnal | Närvisüsteem ei ole rahul |
-| Kael on kivine | Kaitsepositsioon — mitte „nõrkus" |
-| Väsimus, tühjus | Keha küsib pausi — mitte uut informatsiooni |
-| Rahulik hingamine, soe rind | Turvaline — alles siis on mõistus usaldusväärne |
+| KÃµht on pinges | Midagi on valesti â€” oht, hirm, vale olukord |
+| Hingamine on pinnal | NÃ¤rvisÃ¼steem ei ole rahul |
+| Kael on kivine | Kaitsepositsioon â€” mitte â€nÃµrkus" |
+| VÃ¤simus, tÃ¼hjus | Keha kÃ¼sib pausi â€” mitte uut informatsiooni |
+| Rahulik hingamine, soe rind | Turvaline â€” alles siis on mÃµistus usaldusvÃ¤Ã¤rne |
 
 ```
-   VALE JÄRJEKORD (enamik inimesi):
-   Aju lugu ? emotsioon ? tegu ? „ma teadsin"
+ VALE JÃ„RJEKORD (enamik inimesi):
+ Aju lugu ? emotsioon ? tegu ? â€ma teadsin"
 
-   PEEGELI JÄRJEKORD:
-   Keha signaal ? paus ? küsimus ? alles siis mõte
+ PEEGELI JÃ„RJEKORD:
+ Keha signaal ? paus ? kÃ¼simus ? alles siis mÃµte
 ```
 
 ### Praktiline reegel
 
-1. **Ära usu esimest mõtet.** See on System 1 + algoritm + võõras sisu.
-2. **Küsi kehalt:** *Mis mul kehas toimub praegu?*
-3. **Alles siis** mõtle, räägi, otsusta.
+1. **Ã„ra usu esimest mÃµtet.** See on System 1 + algoritm + vÃµÃµras sisu.
+2. **KÃ¼si kehalt:** *Mis mul kehas toimub praegu?*
+3. **Alles siis** mÃµtle, rÃ¤Ã¤gi, otsusta.
 
-> *„**Keha ei valeta. Aju võib — eriti kui see on täis võõrast müra.**"*
+> *â€**Keha ei valeta. Aju vÃµib â€” eriti kui see on tÃ¤is vÃµÃµrast mÃ¼ra.**"*
 
-**Seos:** van der Kolk (Lisa P, S) — turvalisus ? **keha** ? mõistus. Kahneman — System 1 on kiire ja ekslik. Raamat 01 — algoritmid. Lisa AU — infosõda.
+**Seos:** van der Kolk (Lisa P, S) â€” turvalisus ? **keha** ? mÃµistus. Kahneman â€” System 1 on kiire ja ekslik. Raamat 01 â€” algoritmid. Lisa AU â€” infosÃµda.
 
 ---
 
-## 1. Kaks süsteemi — kuidas aju töötab
+## 1. Kaks sÃ¼steemi â€” kuidas aju tÃ¶Ã¶tab
 
-Kahneman kasutab metafoori (mitte päris ajuosad, vaid **mõtlemise reiimid**):
+Kahneman kasutab metafoori (mitte pÃ¤ris ajuosad, vaid **mÃµtlemise reÅ¾iimid**):
 
-### System 1 — „Kiire"
+### System 1 â€” â€Kiire"
 
-| Omadus | Näide |
+| Omadus | NÃ¤ide |
 |--------|-------|
-| Automaatne, kiire, vähe pingutust | Loe sõna „2+2" — vastus tuleb kohe |
-| Emotsioon, intuitsioon, assotsiatsioon | „See kelner vaatas mind imelikult" |
-| Ei tea, et ta eksib | Tundub nagu **fakt**, mitte tõlgendus |
-| Töötab alati | Isegi magades, isegi stressis |
+| Automaatne, kiire, vÃ¤he pingutust | Loe sÃµna â€2+2" â€” vastus tuleb kohe |
+| Emotsioon, intuitsioon, assotsiatsioon | â€See kelner vaatas mind imelikult" |
+| Ei tea, et ta eksib | Tundub nagu **fakt**, mitte tÃµlgendus |
+| TÃ¶Ã¶tab alati | Isegi magades, isegi stressis |
 
-### System 2 — „Aeglane"
+### System 2 â€” â€Aeglane"
 
-| Omadus | Näide |
+| Omadus | NÃ¤ide |
 |--------|-------|
-| Pingutus, tähelepanu, loogika | „23 × 47 =" — pead keskenduma |
-| Kontrollib System 1 impulsse | „Oota — kas ma tõesti kuulsin seda?" |
-| **Piiratud ressurss** | Kui oled väsinud, näljane, stressis — System 2 **ei tule appi** |
-| Aeglane | Sellepärast jätame vahele — ja elame System 1-ga |
+| Pingutus, tÃ¤helepanu, loogika | â€23 Ã— 47 =" â€” pead keskenduma |
+| Kontrollib System 1 impulsse | â€Oota â€” kas ma tÃµesti kuulsin seda?" |
+| **Piiratud ressurss** | Kui oled vÃ¤sinud, nÃ¤ljane, stressis â€” System 2 **ei tule appi** |
+| Aeglane | SellepÃ¤rast jÃ¤tame vahele â€” ja elame System 1-ga |
 
 ```
-        Igapäevane elu
-              ?
-    ?????????????????????
-    ?                   ?
- System 1            System 2
- (95% ajast)         (harva, kui on energiat)
-    ?                   ?
- Kiire lood          Kontroll, arvutus
- Emotsioon           „Mis ta TEGELIKULT ütles?"
- Assotsiatsioon      „Mis mul endal toimub?"
+ IgapÃ¤evane elu
+ ?
+ ?????????????????????
+ ? ?
+ System 1 System 2
+ (95% ajast) (harva, kui on energiat)
+ ? ?
+ Kiire lood Kontroll, arvutus
+ Emotsioon â€Mis ta TEGELIKULT Ã¼tles?"
+ Assotsiatsioon â€Mis mul endal toimub?"
 ```
 
-**Peegli seos (Lisa P, Lisa I):** Rogers ja Steiger ütlevad: **kuula enne õpetamist**. Kahneman ütleb: **aju ei kuula vaikimisi** — ta **kohendab** kuuldut vastavalt hetke emotsioonile. Õpetamine (System 2 sõnum) ei jõua kohale, kui kuulaja System 1 on juba loo ära kirjutanud.
+**Peegli seos (Lisa P, Lisa I):** Rogers ja Steiger Ã¼tlevad: **kuula enne Ãµpetamist**. Kahneman Ã¼tleb: **aju ei kuula vaikimisi** â€” ta **kohendab** kuuldut vastavalt hetke emotsioonile. Ã•petamine (System 2 sÃµnum) ei jÃµua kohale, kui kuulaja System 1 on juba loo Ã¤ra kirjutanud.
 
 ---
 
-## 2. Lugu — kelner, liha ja üks lause
+## 2. Lugu â€” kelner, liha ja Ã¼ks lause
 
-*Fiktiivne, aga iga päev korduv muster.*
+*Fiktiivne, aga iga pÃ¤ev korduv muster.*
 
 ---
 
-**Reede õhtu.** Marko ja Liis on restoranis. Lapsed on vanaema juures. Nad on mõlemad väsinud — terve nädal, lapsed, arved, uudised. Marko magas eile viis tundi (Lisa V). Liis oli päeval kolme koosoleku vahel ja ei söönud lõunat.
+**Reede Ãµhtu.** Marko ja Liis on restoranis. Lapsed on vanaema juures. Nad on mÃµlemad vÃ¤sinud â€” terve nÃ¤dal, lapsed, arved, uudised. Marko magas eile viis tundi (Lisa V). Liis oli pÃ¤eval kolme koosoleku vahel ja ei sÃ¶Ã¶nud lÃµunat.
 
-Kelner tuleb. Liis vaatab menüüd. Marko vaatab menüüd. Vaikus on veidi pingeline — mitte tüli, aga **laeng**.
+Kelner tuleb. Liis vaatab menÃ¼Ã¼d. Marko vaatab menÃ¼Ã¼d. Vaikus on veidi pingeline â€” mitte tÃ¼li, aga **laeng**.
 
-Marko tõstab pilgu kelnerile ja ütleb rahulikult:
+Marko tÃµstab pilgu kelnerile ja Ã¼tleb rahulikult:
 
-> **„Palun tooge ka vesi. Ja teate — see põrsasfilee siin, see on tõesti hea valik. Me sõime seda siin eelmisel aastal."**
+> **â€Palun tooge ka vesi. Ja teate â€” see pÃµrsasfilee siin, see on tÃµesti hea valik. Me sÃµime seda siin eelmisel aastal."**
 
-Ta mõtles: *väike soovitus, meeldejääv õhtu, teen kelnerile lihtsaks.*
+Ta mÃµtles: *vÃ¤ike soovitus, meeldejÃ¤Ã¤v Ãµhtu, teen kelnerile lihtsaks.*
 
-Kelner naeratab. Kirjutab. Läheb.
+Kelner naeratab. Kirjutab. LÃ¤heb.
 
-Liis vaatab Markot. Silmad on külmemad.
+Liis vaatab Markot. Silmad on kÃ¼lmemad.
 
-> **„Miks sa pead alati kõike paremini teadma? Ma just mõtlesin kalale. Sa ei saa lihtsalt istuda — sa pead kohe kelnerile näitama, et sina oled see, kes otsustab."**
+> **â€Miks sa pead alati kÃµike paremini teadma? Ma just mÃµtlesin kalale. Sa ei saa lihtsalt istuda â€” sa pead kohe kelnerile nÃ¤itama, et sina oled see, kes otsustab."**
 
 Marko:
 
-> **„Ma ütlesin ainult, et filee on hea. Ma ei kritiseerinud sind."**
+> **â€Ma Ã¼tlesin ainult, et filee on hea. Ma ei kritiseerinud sind."**
 
 Liis:
 
-> **„Sa ei öelnud seda mulle. Sa ütlesid seda **talle**. Nagu mina ei oskaks tellida. Nagu ma oleksin laps."**
+> **â€Sa ei Ã¶elnud seda mulle. Sa Ã¼tlesid seda **talle**. Nagu mina ei oskaks tellida. Nagu ma oleksin laps."**
 
-Marko tõuseb hääle:
+Marko tÃµuseb hÃ¤Ã¤le:
 
-> **„Sa kuulad jälle midagi, mida ma ei öelnud!"**
+> **â€Sa kuulad jÃ¤lle midagi, mida ma ei Ã¶elnud!"**
 
-Kelner tuleb veega. Nad vaikivad. Õhtu on rikutud.
+Kelner tuleb veega. Nad vaikivad. Ã•htu on rikutud.
 
 ---
 
-### Mis juhtus? — Kahnemanist läbi
+### Mis juhtus? â€” Kahnemanist lÃ¤bi
 
-**Marko ütles (sõnad):** vesi + filee soovitus + eelmise aasta kogemus.
+**Marko Ã¼tles (sÃµnad):** vesi + filee soovitus + eelmise aasta kogemus.
 
-**Liis „kuulis" (lugu):** *Sa alavääristad mind. Sa domineerid. Sa valid kelneri, mitte mind.*
+**Liis â€kuulis" (lugu):** *Sa alavÃ¤Ã¤ristad mind. Sa domineerid. Sa valid kelneri, mitte mind.*
 
 See ei olnud kuulmise viga. See oli **System 1 konstruktsioon**:
 
-| Mehhanism | Kuidas see lauas töötas |
+| Mehhanism | Kuidas see lauas tÃ¶Ã¶tas |
 |-----------|-------------------------|
-| **WYSIATI** (*What You See Is All There Is*) | Liisi aju nägi ainult hetke: mees räägib kelneriga, mitte temaga. Ülejäänud konteksti (väsimus, head kavatsused) **ei eksisteeri** otsuses |
-| **Affektiivne heuristika** | Väsimus + nälg + nädala pingutus = negatiivne emotsioon. Sama lause **tundub** ründav, kuigi sõnad on neutraalsed |
-| **Kavatsuse järeldamine** | Aju eelistab lugu, kus keegi **teeb midagi meile** — mitte juhuslikku soovitust |
-| **Asendamine** | Küsimus „kas see filee on hea?" asendus küsimusega „kas ta austab mind?" |
-| **Raamistus** | Marko raamistas hetke kui „head nõu kelnerile". Liis raamistas sama hetke kui „mind jäeti kõrvale" |
-| **Kinnituse kallutatus** | Kui suhtes on vana pinget, System 1 otsib **tõestust**, mitte täpsust |
+| **WYSIATI** (*What You See Is All There Is*) | Liisi aju nÃ¤gi ainult hetke: mees rÃ¤Ã¤gib kelneriga, mitte temaga. ÃœlejÃ¤Ã¤nud konteksti (vÃ¤simus, head kavatsused) **ei eksisteeri** otsuses |
+| **Affektiivne heuristika** | VÃ¤simus + nÃ¤lg + nÃ¤dala pingutus = negatiivne emotsioon. Sama lause **tundub** rÃ¼ndav, kuigi sÃµnad on neutraalsed |
+| **Kavatsuse jÃ¤reldamine** | Aju eelistab lugu, kus keegi **teeb midagi meile** â€” mitte juhuslikku soovitust |
+| **Asendamine** | KÃ¼simus â€kas see filee on hea?" asendus kÃ¼simusega â€kas ta austab mind?" |
+| **Raamistus** | Marko raamistas hetke kui â€head nÃµu kelnerile". Liis raamistas sama hetke kui â€mind jÃ¤eti kÃµrvale" |
+| **Kinnituse kallutatus** | Kui suhtes on vana pinget, System 1 otsib **tÃµestust**, mitte tÃ¤psust |
 
-**Stressi roll:** mõlemal oli System 2 nõrk. Keegi ei küsinud: *„Mida ta sõna-sõnalt ütles?"* Keegi ei teinud pausi. System 1 võitis **sekunditega**.
+**Stressi roll:** mÃµlemal oli System 2 nÃµrk. Keegi ei kÃ¼sinud: *â€Mida ta sÃµna-sÃµnalt Ã¼tles?"* Keegi ei teinud pausi. System 1 vÃµitis **sekunditega**.
 
 ---
 
-## 3. Mõttevead, mida stress igapäevas võimendab
+## 3. MÃµttevead, mida stress igapÃ¤evas vÃµimendab
 
-Kahneman kirjeldab kümneid **heuristikke ja kallutatusi**. Allpool need, mis **Peegli kontekstis** (pere, meeskond, infosõda, kriis) kõige rohkem kahju teevad.
+Kahneman kirjeldab kÃ¼mneid **heuristikke ja kallutatusi**. Allpool need, mis **Peegli kontekstis** (pere, meeskond, infosÃµda, kriis) kÃµige rohkem kahju teevad.
 
-### 3.1 Sa näed ainult seda, mis on laual (WYSIATI)
+### 3.1 Sa nÃ¤ed ainult seda, mis on laual (WYSIATI)
 
-Aju ehitab veenva loo **vähestest andmetest**. Sa ei tea, mis teisel päev oli. Sa ei tea, kas ta magas. Sa tead ainult **ühe hetke**.
+Aju ehitab veenva loo **vÃ¤hestest andmetest**. Sa ei tea, mis teisel pÃ¤ev oli. Sa ei tea, kas ta magas. Sa tead ainult **Ã¼he hetke**.
 
-| Igapäev | Näide |
+| IgapÃ¤ev | NÃ¤ide |
 |---------|-------|
-| Pere | „Sa ei hooli" — ühe unustatud asja põhjal |
-| Töö | „Juht on idiot" — ühe e-kirja toon |
-| Uudised | „Kõik on läbi" — ühe postituse põhjal |
-| Operatsioon | „See on pettus" — ühe nimekirja ilma kontekstita |
+| Pere | â€Sa ei hooli" â€” Ã¼he unustatud asja pÃµhjal |
+| TÃ¶Ã¶ | â€Juht on idiot" â€” Ã¼he e-kirja toon |
+| Uudised | â€KÃµik on lÃ¤bi" â€” Ã¼he postituse pÃµhjal |
+| Operatsioon | â€See on pettus" â€” Ã¼he nimekirja ilma kontekstita |
 
-**Stress:** kitsendab tähelepanu — näed **ohtu**, mitte tervikut.
+**Stress:** kitsendab tÃ¤helepanu â€” nÃ¤ed **ohtu**, mitte tervikut.
 
 ---
 
-### 3.2 Sa tunned, siis mõtled (affektiivne heuristika)
+### 3.2 Sa tunned, siis mÃµtled (affektiivne heuristika)
 
-**Emotsioon tuleb enne põhjendust.** Aju leiab kiiresti põhjused, miks tunda nii, nagu juba tunned.
+**Emotsioon tuleb enne pÃµhjendust.** Aju leiab kiiresti pÃµhjused, miks tunda nii, nagu juba tunned.
 
-| System 1 | System 2 (kui jõuad) |
+| System 1 | System 2 (kui jÃµuad) |
 |----------|----------------------|
-| „Mulle ei meeldi see inimene" ? leiab vead | „Mis mul täna endas toimub?" |
-| „See uudis on hirmus" ? jagad edasi | „Kust see tuli? Kes võidab?" |
-| „Ta solvas mind" ? vastad | „Mida ta sõna-sõnalt ütles?" |
+| â€Mulle ei meeldi see inimene" ? leiab vead | â€Mis mul tÃ¤na endas toimub?" |
+| â€See uudis on hirmus" ? jagad edasi | â€Kust see tuli? Kes vÃµidab?" |
+| â€Ta solvas mind" ? vastad | â€Mida ta sÃµna-sÃµnalt Ã¼tles?" |
 
-**Seos Lisa V:** unetu inimene on **emotsionaalselt kallutatud** — mandeltuum on tundlikum (Walker). **Seos Lisa S:** trauma trigger = System 1 täielik kontroll.
+**Seos Lisa V:** unetu inimene on **emotsionaalselt kallutatud** â€” mandeltuum on tundlikum (Walker). **Seos Lisa S:** trauma trigger = System 1 tÃ¤ielik kontroll.
 
 ---
 
-### 3.3 Sa vastad kergemale küsimusele (asendamine)
+### 3.3 Sa vastad kergemale kÃ¼simusele (asendamine)
 
-Keeruline küsimus asendub lihtsaga:
+Keeruline kÃ¼simus asendub lihtsaga:
 
-| Tegelik küsimus | Asendatud küsimusega |
+| Tegelik kÃ¼simus | Asendatud kÃ¼simusega |
 |-----------------|----------------------|
-| „Kas see investeering on kasulik?" | „Kas ma **tunnen** seda usaldusväärset?" |
-| „Kas see operatsioon on õige?" | „Kas see inimene **meeldib** mulle?" |
-| „Kas ma peaksin kuulama?" | „Kas see **tundub** ohtlik?" |
+| â€Kas see investeering on kasulik?" | â€Kas ma **tunnen** seda usaldusvÃ¤Ã¤rset?" |
+| â€Kas see operatsioon on Ãµige?" | â€Kas see inimene **meeldib** mulle?" |
+| â€Kas ma peaksin kuulama?" | â€Kas see **tundub** ohtlik?" |
 
-**Juhtimine (Lisa I):** Steiger ütleb — kuula. Kahneman ütleb — **aju ei kuula vaikimisi**, ta **asendab**.
+**Juhtimine (Lisa I):** Steiger Ã¼tleb â€” kuula. Kahneman Ã¼tleb â€” **aju ei kuula vaikimisi**, ta **asendab**.
 
 ---
 
-### 3.4 Ankur — esimene number või sõna katab kõik
+### 3.4 Ankur â€” esimene number vÃµi sÃµna katab kÃµik
 
 Esimene info **ankurdab** hinnangu, isegi kui see on juhuslik.
 
-| Näide | Mõju |
+| NÃ¤ide | MÃµju |
 |-------|------|
-| „See projekt läks 80% üle eelarve" | Kõik järgnev tundub ebaõnnestumisena |
-| „Ta on kunagi valetanud" | Kõik järgnev tundub kahtlasena |
-| „Üks laps sai halba hinnet" | Pere tundub läbikukkujana |
+| â€See projekt lÃ¤ks 80% Ã¼le eelarve" | KÃµik jÃ¤rgnev tundub ebaÃµnnestumisena |
+| â€Ta on kunagi valetanud" | KÃµik jÃ¤rgnev tundub kahtlasena |
+| â€Ãœks laps sai halba hinnet" | Pere tundub lÃ¤bikukkujana |
 
-**Stress:** ankur + hirm = **kinnistunud narratiiv**, mida System 2 ei jõua lahti teha.
+**Stress:** ankur + hirm = **kinnistunud narratiiv**, mida System 2 ei jÃµua lahti teha.
 
 ---
 
-### 3.5 Kättesaadavus — mida mäletad, see tundub tavaline
+### 3.5 KÃ¤ttesaadavus â€” mida mÃ¤letad, see tundub tavaline
 
-Mida hiljuti nägid või tundsid, see tundub **sagedasem ja tõenäolisem**.
+Mida hiljuti nÃ¤gid vÃµi tundsid, see tundub **sagedasem ja tÃµenÃ¤olisem**.
 
 | Allikas | Tulemus |
 |---------|---------|
-| TikTok, uudised, hirmulood | „Kõik lapsed on ohus" |
-| Üks halb kogemus juhtimises | „Kõik juhid on sikad" |
-| Üks reetur meeskonnas | „Kõiki ei saa usaldada" |
+| TikTok, uudised, hirmulood | â€KÃµik lapsed on ohus" |
+| Ãœks halb kogemus juhtimises | â€KÃµik juhid on sikad" |
+| Ãœks reetur meeskonnas | â€KÃµiki ei saa usaldada" |
 
-**Infosõda (Lisa AU):** algoritm valib **kättesaadavuse** — mida rohkem näed, seda „tõelisem" tundub.
+**InfosÃµda (Lisa AU):** algoritm valib **kÃ¤ttesaadavuse** â€” mida rohkem nÃ¤ed, seda â€tÃµelisem" tundub.
 
 ---
 
-### 3.6 Kaotuse vältimine — hirm võidab loogika
+### 3.6 Kaotuse vÃ¤ltimine â€” hirm vÃµidab loogika
 
-Kaotus **tundub** tugevamalt kui võit. Stressis inimene kaitseb seda, mis on, isegi kui see on halb.
+Kaotus **tundub** tugevamalt kui vÃµit. Stressis inimene kaitseb seda, mis on, isegi kui see on halb.
 
-| Igapäev | Käitumine |
+| IgapÃ¤ev | KÃ¤itumine |
 |---------|-----------|
-| Suhe | Pigem vaikus kui aus vestlus — „ära riski" |
-| Töö | Pigem vana muster kui uus katse |
+| Suhe | Pigem vaikus kui aus vestlus â€” â€Ã¤ra riski" |
+| TÃ¶Ã¶ | Pigem vana muster kui uus katse |
 | Pere | Pigem ekraan lastel kui ebamugav vestlus |
 
 ---
 
-### 3.7 Kinnituse kallutatus — otsid tõestust, mitte tõde
+### 3.7 Kinnituse kallutatus â€” otsid tÃµestust, mitte tÃµde
 
-Kui oled juba otsustanud (või tundnud), aju otsib **kinnitust**, mitte vastuargumente.
+Kui oled juba otsustanud (vÃµi tundnud), aju otsib **kinnitust**, mitte vastuargumente.
 
 | Olukord | System 1 |
 |---------|----------|
-| „Ma tean, et ta on vale" | Kuuled ainult seda, mis kinnitab |
-| „See liikumine on pettus" | Iga detail tundub kahtlane |
-| „Ma ei vääri abi" | Lükkad tagasi kõik, mis vastu peaks |
+| â€Ma tean, et ta on vale" | Kuuled ainult seda, mis kinnitab |
+| â€See liikumine on pettus" | Iga detail tundub kahtlane |
+| â€Ma ei vÃ¤Ã¤ri abi" | LÃ¼kkad tagasi kÃµik, mis vastu peaks |
 
-**Peegli vastus (Lisa P):** valideerimine **ei tähenda nõusolekut**. See tähendab: näen su emotsiooni **enne** kui hakkan fakte loendama.
-
----
-
-### 3.8 Ülekindlus — „ma tean, mida ta mõtles"
-
-Inimesed on **kindlad** oma tõlgenduses — isegi kui sõnad olid teised.
-
-Marko ja Liis mõlemad: *„Ma tean, mida sa tegelikult mõtlesid."*
-
-Kahneman: see on **üks levinumaid vigu**. Me ei tea. Me **modelleerime** teise aju oma System 1-ga.
+**Peegli vastus (Lisa P):** valideerimine **ei tÃ¤henda nÃµusolekut**. See tÃ¤hendab: nÃ¤en su emotsiooni **enne** kui hakkan fakte loendama.
 
 ---
 
-## 4. Stress + uni + trauma = System 2 väljalülitus
+### 3.8 Ãœlekindlus â€” â€ma tean, mida ta mÃµtles"
+
+Inimesed on **kindlad** oma tÃµlgenduses â€” isegi kui sÃµnad olid teised.
+
+Marko ja Liis mÃµlemad: *â€Ma tean, mida sa tegelikult mÃµtlesid."*
+
+Kahneman: see on **Ã¼ks levinumaid vigu**. Me ei tea. Me **modelleerime** teise aju oma System 1-ga.
+
+---
+
+## 4. Stress + uni + trauma = System 2 vÃ¤ljalÃ¼litus
 
 Kolm faktorit, mis Peeglis korduvad:
 
 ```
-        STRESS (töö, pere, uudised)
-              +
-        UNI PUUDUS (Lisa V)
-              +
-        TRAUMA / TRIGGER (Lisa S, Lisa P)
-              ?
-              ?
-     System 2 ei jõua kontrolli
-              ?
-              ?
-   System 1 kirjutab loo + reageerib
-              ?
-              ?
-   „Ta ütles X" (tegelikult: sa kuulsid Y)
+ STRESS (tÃ¶Ã¶, pere, uudised)
+ +
+ UNI PUUDUS (Lisa V)
+ +
+ TRAUMA / TRIGGER (Lisa S, Lisa P)
+ ?
+ ?
+ System 2 ei jÃµua kontrolli
+ ?
+ ?
+ System 1 kirjutab loo + reageerib
+ ?
+ ?
+ â€Ta Ã¼tles X" (tegelikult: sa kuulsid Y)
 ```
 
-| Faktor | Mõju mõtlemisele |
+| Faktor | MÃµju mÃµtlemisele |
 |--------|------------------|
 | **Uni puudus** | Halvem impulssikontroll, tugevam emotsioon (Walker) |
-| **Nälg / väsimus** | System 2 „kukub" esimesena (Kahneman: *glucose*, tähelepanu) |
-| **Ärevus** | Kitsendatud tähelepanu — näed ohtu, mitte konteksti |
-| **Krooniline stress** | Harjumuslik System 1 — reageerid enne, kui mõistad |
-| **Sotsiaalmeedia** | Lühikesed tugevad emotsioonid = System 1 treening |
+| **NÃ¤lg / vÃ¤simus** | System 2 â€kukub" esimesena (Kahneman: *glucose*, tÃ¤helepanu) |
+| **Ã„revus** | Kitsendatud tÃ¤helepanu â€” nÃ¤ed ohtu, mitte konteksti |
+| **Krooniline stress** | Harjumuslik System 1 â€” reageerid enne, kui mÃµistad |
+| **Sotsiaalmeedia** | LÃ¼hikesed tugevad emotsioonid = System 1 treening |
 
-**Operatsiooni reegel:** ära vaidle unetu, näljase või triggeris inimesega loogikaga. **Lisa P:** turvalisus ? keha ? mõistus.
+**Operatsiooni reegel:** Ã¤ra vaidle unetu, nÃ¤ljase vÃµi triggeris inimesega loogikaga. **Lisa P:** turvalisus ? keha ? mÃµistus.
 
 ---
 
-## 5. Mida teha teisiti — Peegli tööriistad
+## 5. Mida teha teisiti â€” Peegli tÃ¶Ã¶riistad
 
-Kahneman ei anna „5 lihtsat sammu". Ta annab **teadlikkuse**. Peegel lisab praktika:
+Kahneman ei anna â€5 lihtsat sammu". Ta annab **teadlikkuse**. Peegel lisab praktika:
 
 | Probleem (Kahneman) | Peegli vastus |
 |---------------------|---------------|
-| Kuulsid midagi, mida ei öeldud | **Spordikommentaator** (Lisa Q): „Ma kuulsin, et sa ütlesid X. Kas ma sain õigesti?" |
-| Emotsioon enne loogikat | **Valideerimine** (Lisa P): „Ma näen, et see tuli valusalt." |
-| System 2 puudub | **Uni, toit, paus** (Lisa V, Lisa U) — mitte „võta kokku" |
-| Vaidlus kelnerilauas | **Üks paus:** „Oota. Mida ma sõna-sõnalt ütlesin?" |
-| Infosõda, kättesaadavus | **Faktikontroll** (Lisa AU), **üks allikas** |
-| Õpetamine ei jõua kohale | **Kuula enne** (Lisa I, Rogers) — System 2 avab ukse |
+| Kuulsid midagi, mida ei Ã¶eldud | **Spordikommentaator** (Lisa Q): â€Ma kuulsin, et sa Ã¼tlesid X. Kas ma sain Ãµigesti?" |
+| Emotsioon enne loogikat | **Valideerimine** (Lisa P): â€Ma nÃ¤en, et see tuli valusalt." |
+| System 2 puudub | **Uni, toit, paus** (Lisa V, Lisa U) â€” mitte â€vÃµta kokku" |
+| Vaidlus kelnerilauas | **Ãœks paus:** â€Oota. Mida ma sÃµna-sÃµnalt Ã¼tlesin?" |
+| InfosÃµda, kÃ¤ttesaadavus | **Faktikontroll** (Lisa AU), **Ã¼ks allikas** |
+| Ã•petamine ei jÃµua kohale | **Kuula enne** (Lisa I, Rogers) â€” System 2 avab ukse |
 
-### Kolm küsimust enne tüli
+### Kolm kÃ¼simust enne tÃ¼li
 
-1. **Mida ta sõna-sõnalt ütles?** (mitte „mida ta mõtles")
-2. **Mis mul endal täna toimub?** (uni, nälg, vana valu)
-3. **Kas ma vastan kiirelt või aeglaselt?** (kas System 2 on üldse sees)
+1. **Mida ta sÃµna-sÃµnalt Ã¼tles?** (mitte â€mida ta mÃµtles")
+2. **Mis mul endal tÃ¤na toimub?** (uni, nÃ¤lg, vana valu)
+3. **Kas ma vastan kiirelt vÃµi aeglaselt?** (kas System 2 on Ã¼ldse sees)
 
 ---
 
-## 6. Igapäevased näited — mida System 1 teeb sinuga
+## 6. IgapÃ¤evased nÃ¤ited â€” mida System 1 teeb sinuga
 
-| Olukord | System 1 lugu | System 2 küsimus |
+| Olukord | System 1 lugu | System 2 kÃ¼simus |
 |---------|---------------|------------------|
-| Partner ei vasta sõnumile | „Ta ei hooli" | „Mis tal päev oli?" |
-| Laps karjub | „Ta on vastik" | „Mis teda triggerdas?" |
-| Uudis hirmutab | „Kõik on läbi" | „Kes seda levitab ja miks?" |
-| Juht kriitiseerib | „Ta vihkab mind" | „Mis täpselt oli viga?" |
-| Operatsiooni kiri | „See on käsk" | „Mis on minu üks järgmine samm?" (Lisa AT) |
-| Kelnerilaud | „Ta alavääristas mind" | „Mida ta sõna-sõnalt ütles?" |
+| Partner ei vasta sÃµnumile | â€Ta ei hooli" | â€Mis tal pÃ¤ev oli?" |
+| Laps karjub | â€Ta on vastik" | â€Mis teda triggerdas?" |
+| Uudis hirmutab | â€KÃµik on lÃ¤bi" | â€Kes seda levitab ja miks?" |
+| Juht kriitiseerib | â€Ta vihkab mind" | â€Mis tÃ¤pselt oli viga?" |
+| Operatsiooni kiri | â€See on kÃ¤sk" | â€Mis on minu Ã¼ks jÃ¤rgmine samm?" (Lisa AT) |
+| Kelnerilaud | â€Ta alavÃ¤Ã¤ristas mind" | â€Mida ta sÃµna-sÃµnalt Ã¼tles?" |
 
 ---
 
-## 7. 15 küsimust endale (avatud meel)
+## 7. 15 kÃ¼simust endale (avatud meel)
 
-1. Kas ma kuulsin **sõnu** või **tähendust**, mille aju ise juurde lõi?
-2. Kas ma olin väsinud, näljane või stressis, kui otsustasin?
-3. Kas ma otsin **tõestust** oma tundele või **tõde**?
-4. Kas ma eeldan teise halba kavatsust ilma küsimata?
-5. Kas see, mida ma mäletan, on **fakt** või **tugevaim hetk**?
-6. Kas ma vastasin kiiremini, kui jõudsin mõelda?
-7. Kas ma tean, mis **teisel** päeval toimus — või ainult ühe hetke?
-8. Kas ma ülehindan, kui hästi ma teisi „mõistan"?
-9. Kas ma jagasin infot, sest see **tundus** õige — või kontrollisin?
-10. Kas ma võrdlen enda **parimat** teise **halvima** hetkega?
+1. Kas ma kuulsin **sÃµnu** vÃµi **tÃ¤hendust**, mille aju ise juurde lÃµi?
+2. Kas ma olin vÃ¤sinud, nÃ¤ljane vÃµi stressis, kui otsustasin?
+3. Kas ma otsin **tÃµestust** oma tundele vÃµi **tÃµde**?
+4. Kas ma eeldan teise halba kavatsust ilma kÃ¼simata?
+5. Kas see, mida ma mÃ¤letan, on **fakt** vÃµi **tugevaim hetk**?
+6. Kas ma vastasin kiiremini, kui jÃµudsin mÃµelda?
+7. Kas ma tean, mis **teisel** pÃ¤eval toimus â€” vÃµi ainult Ã¼he hetke?
+8. Kas ma Ã¼lehindan, kui hÃ¤sti ma teisi â€mÃµistan"?
+9. Kas ma jagasin infot, sest see **tundus** Ãµige â€” vÃµi kontrollisin?
+10. Kas ma vÃµrdlen enda **parimat** teise **halvima** hetkega?
 11. Kas ma magasin piisavalt, enne kui tegin suure otsuse? (Lisa V)
-12. Kas ma proovisin **õpetada**, kui teine oli veel emotsioonis? (Lisa P)
-13. Kas ma raamistasin olukorra hirmus või lootuses?
-14. Kas ma võiksin küsida: „Kas ma sain sind õigesti aru?"
-15. Kas ma annan endale **24 tundi** enne lõplikku otsust?
+12. Kas ma proovisin **Ãµpetada**, kui teine oli veel emotsioonis? (Lisa P)
+13. Kas ma raamistasin olukorra hirmus vÃµi lootuses?
+14. Kas ma vÃµiksin kÃ¼sida: â€Kas ma sain sind Ãµigesti aru?"
+15. Kas ma annan endale **24 tundi** enne lÃµplikku otsust?
 
 ---
 
@@ -384,21 +384,21 @@ Kahneman ei anna „5 lihtsat sammu". Ta annab **teadlikkuse**. Peegel lisab prakt
 
 | Ei | Jah |
 |----|-----|
-| „Kõik on sinu peas" | Väline maailm on päris — aga **tõlgendus** on konstrueeritud |
-| „Sa ei tohi kunagi usaldada intuitsiooni" | System 1 on geniaalne paljudes olukordades — **tea, millal** |
-| „Loogika lahendab kõik" | Loogika ilma valideerimiseta **süvendab** tüli |
-| Meditsiiniline diagnoos | Hariduslik raamistik — mitte asendus abi jaoks |
-| Vandenõuteooria | Nobelipreemia majandusteaduses; ülikoolides õpetatud |
+| â€KÃµik on sinu peas" | VÃ¤line maailm on pÃ¤ris â€” aga **tÃµlgendus** on konstrueeritud |
+| â€Sa ei tohi kunagi usaldada intuitsiooni" | System 1 on geniaalne paljudes olukordades â€” **tea, millal** |
+| â€Loogika lahendab kÃµik" | Loogika ilma valideerimiseta **sÃ¼vendab** tÃ¼li |
+| Meditsiiniline diagnoos | Hariduslik raamistik â€” mitte asendus abi jaoks |
+| VandenÃµuteooria | Nobelipreemia majandusteaduses; Ã¼likoolides Ãµpetatud |
 
 ---
 
-## 9. Üks lause, mida võid jagada
+## 9. Ãœks lause, mida vÃµid jagada
 
-> **„Ära usu oma aju — see on täis algoritme ja võõrast müra. Usu keha. Keha ei valeta."**
+> **â€Ã„ra usu oma aju â€” see on tÃ¤is algoritme ja vÃµÃµrast mÃ¼ra. Usu keha. Keha ei valeta."**
 
-> **„Sa ei kuulnud valesti — su aju lõpetas lause ära enne, kui teine jõudis lõpuni. Küsi: mida ma sõna-sõnalt ütlesin?"**
+> **â€Sa ei kuulnud valesti â€” su aju lÃµpetas lause Ã¤ra enne, kui teine jÃµudis lÃµpuni. KÃ¼si: mida ma sÃµna-sÃµnalt Ã¼tlesin?"**
 
-**Raamat:** Daniel Kahneman, *Thinking, Fast and Slow* (2011). Eesti tõlge: *Mõtlemine, kiiresti ja aeglaselt* (ISBN 978-9949-33-567-4).
+**Raamat:** Daniel Kahneman, *Thinking, Fast and Slow* (2011). Eesti tÃµlge: *MÃµtlemine, kiiresti ja aeglaselt* (ISBN 978-9949-33-567-4).
 
 ---
 
@@ -406,15 +406,15 @@ Kahneman ei anna „5 lihtsat sammu". Ta annab **teadlikkuse**. Peegel lisab prakt
 
 | Lisa | Seos |
 |------|------|
-| **P** | Valideerimine enne vaidlust — System 1 rahunemine |
-| **Q** | Spordikommentaator — kirjelda hetke, ära argumenteeri |
-| **S** | Trauma = System 1 ülekaal |
-| **V** | Uni puudus nõrgendab System 2 |
+| **P** | Valideerimine enne vaidlust â€” System 1 rahunemine |
+| **Q** | Spordikommentaator â€” kirjelda hetke, Ã¤ra argumenteeri |
+| **S** | Trauma = System 1 Ã¼lekaal |
+| **V** | Uni puudus nÃµrgendab System 2 |
 | **I** | Steiger: kuulamine enne otsust |
-| **AD** | Lood — inimene mõistab maailma narratiivi kaudu |
-| **AT** | Üks järgmine samm — mitte kogu OPORD korraga |
-| **AU** | Kättesaadavus ja infosõda |
+| **AD** | Lood â€” inimene mÃµistab maailma narratiivi kaudu |
+| **AT** | Ãœks jÃ¤rgmine samm â€” mitte kogu OPORD korraga |
+| **AU** | KÃ¤ttesaadavus ja infosÃµda |
 
 ---
 
-*Koostatud Operatsioon „Peegel" raames. Parandused ja täiendused: GitHub / Lisa AW.*
+*Koostatud Operatsioon â€Peegel" raames. Parandused ja tÃ¤iendused: GitHub / Lisa AW.*

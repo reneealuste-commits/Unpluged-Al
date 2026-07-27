@@ -1,35 +1,35 @@
-# Lisa AX — Demo-perekond ja pereväärtuste promijad
+# Lisa AX â€” Demo-perekond ja perevÃ¤Ã¤rtuste promijad
 
-> **Lugeja saab:** kriteeriumid ja SOP — kuidas tuvastada, välja tuua ja toetada eeskujuperekondi.  
-> **Loe seda kui:** otsid inimesi, kes **elavad** pereväärtusi — mitte ainult räägivad.  
-> **Ära loe kui:** oled esimene kord — alusta PEEGEL_TUUM.pdf.
+> **Lugeja saab:** kriteeriumid ja SOP â€” kuidas tuvastada, vÃ¤lja tuua ja toetada eeskujuperekondi. 
+> **Loe seda kui:** otsid inimesi, kes **elavad** perevÃ¤Ã¤rtusi â€” mitte ainult rÃ¤Ã¤givad. 
+> **Ã„ra loe kui:** oled esimene kord â€” alusta PEEGEL_TUUM.pdf.
 
-**Operatsioon „Peegel"** | Võrgustiku laiendus | Põhimõte: *eeskuju enne sõna — pere enne platvormi*
+**Operatsioon â€Peegel"** | VÃµrgustiku laiendus | PÃµhimÃµte: *eeskuju enne sÃµna â€” pere enne platvormi*
 
-**Seotud:** **Lisa N** (demomees), **Lisa K** (võrgustik), **Lisa Q** (side), **Lisa P** (valideerimine), **Lisa M** (identiteet), **Lisa AD** (lood), **Lisa AW** (ära usu oma aju), raamat **E** (pere rindejoon), **Lisa W** (Montessori beebi).
+**Seotud:** **Lisa N** (demomees), **Lisa K** (vÃµrgustik), **Lisa Q** (side), **Lisa P** (valideerimine), **Lisa M** (identiteet), **Lisa AD** (lood), **Lisa AW** (Ã¤ra usu oma aju), raamat **E** (pere rindejoon), **Lisa W** (Montessori beebi).
 
-> *„Õpeta perele, kuidas aru saada, kes on päriselt sõber ja kes mitte. Nii annad neile tugeva **värbamisoskuse** — õigeid inimesi ellu valida."* — eeskujupostitus (ketlinkasak / jagatud Kaarel Kahni story kaudu)
+> *â€Ã•peta perele, kuidas aru saada, kes on pÃ¤riselt sÃµber ja kes mitte. Nii annad neile tugeva **vÃ¤rbamisoskuse** â€” Ãµigeid inimesi ellu valida."* â€” eeskujupostitus (ketlinkasak / jagatud Kaarel Kahni story kaudu)
 
-> *Demomees on üksik. **Demo-perekond** on üksus — isa, ema, lapsed koos laua taga. See on võimsam peegel.*
+> *Demomees on Ã¼ksik. **Demo-perekond** on Ã¼ksus â€” isa, ema, lapsed koos laua taga. See on vÃµimsam peegel.*
 
 ---
 
 ## Miks see lisa on
 
-Operatsioon vajab **demomehi** (Lisa N) — üksikuid, kes elavad checklisti ja viisakust.
+Operatsioon vajab **demomehi** (Lisa N) â€” Ã¼ksikuid, kes elavad checklisti ja viisakust.
 
-Aga Eesti vajab ka **demo-perekondi** — inimesi, kes näitavad:
+Aga Eesti vajab ka **demo-perekondi** â€” inimesi, kes nÃ¤itavad:
 
-| Mida nad näitavad | Mida see annab ühiskonnale |
+| Mida nad nÃ¤itavad | Mida see annab Ã¼hiskonnale |
 |-------------------|----------------------------|
-| Pere koos laua taga | Et tugev pere on **nähtav**, mitte abstraktne slogan |
+| Pere koos laua taga | Et tugev pere on **nÃ¤htav**, mitte abstraktne slogan |
 | Lapsed koos vanematega | Et eeskuju on **elu**, mitte TikTok |
-| Vestlus sõprusest ja valikutest | Et **värbamisoskus** algab kodus — kes on tõeline sõber |
+| Vestlus sÃµprusest ja valikutest | Et **vÃ¤rbamisoskus** algab kodus â€” kes on tÃµeline sÃµber |
 | Rahulik, kohalolev energia | Et alternatiiv algoritmile on **reaalne inimene** |
 
-**Pereväärtuste promija** ei ole poliitik ega influencer, kes müüb ideed. Ta on inimene või pere, kes **promib väärtusi elades** — söögiaeg, aus vestlus, valikud, piirid, sõpruskond.
+**PerevÃ¤Ã¤rtuste promija** ei ole poliitik ega influencer, kes mÃ¼Ã¼b ideed. Ta on inimene vÃµi pere, kes **promib vÃ¤Ã¤rtusi elades** â€” sÃ¶Ã¶giaeg, aus vestlus, valikud, piirid, sÃµpruskond.
 
-Meil on vaja selliseid inimesi programmi. See lisa ütleb: **kes nad on, kuidas neid tunnistada ja kuidas välja tuua.**
+Meil on vaja selliseid inimesi programmi. See lisa Ã¼tleb: **kes nad on, kuidas neid tunnistada ja kuidas vÃ¤lja tuua.**
 
 ---
 
@@ -37,153 +37,153 @@ Meil on vaja selliseid inimesi programmi. See lisa ütleb: **kes nad on, kuidas n
 
 | | **Demomees** (Lisa N) | **Demo-perekond** (Lisa AX) |
 |---|----------------------|----------------------------|
-| Üksus | Üks inimene (SOK / Aluste_kool) | Pere — vähemalt kaks täiskasvanut + lapsed või noored |
-| Fookus | Checklist, viisakus, side | **Pereväärtused**, sõpruskond, valikud |
-| Kanal | Tutvusringkond, 1-1 | Pere kui **nähtav eeskuju** — sotsiaalmeedia, kogukond, kool |
-| Reegel | Eeskuju enne sõna | **Elu enne loengut** |
-| Aktiveerija | Renee Aluste (Aluste_kool) | Koordinaator + võrgustik (Lisa K) |
+| Ãœksus | Ãœks inimene (SOK / Aluste_kool) | Pere â€” vÃ¤hemalt kaks tÃ¤iskasvanut + lapsed vÃµi noored |
+| Fookus | Checklist, viisakus, side | **PerevÃ¤Ã¤rtused**, sÃµpruskond, valikud |
+| Kanal | Tutvusringkond, 1-1 | Pere kui **nÃ¤htav eeskuju** â€” sotsiaalmeedia, kogukond, kool |
+| Reegel | Eeskuju enne sÃµna | **Elu enne loengut** |
+| Aktiveerija | Renee Aluste (Aluste_kool) | Koordinaator + vÃµrgustik (Lisa K) |
 
-Mõlemad on vajalikud. Demomees võib olla üksik isa. Demo-perekond on **täielik pilt** — mida laps ja naaber näevad.
+MÃµlemad on vajalikud. Demomees vÃµib olla Ã¼ksik isa. Demo-perekond on **tÃ¤ielik pilt** â€” mida laps ja naaber nÃ¤evad.
 
 ---
 
-## 2. Näide — mida eeskujuperekond teeb
+## 2. NÃ¤ide â€” mida eeskujuperekond teeb
 
-*Viide: ketlinkasak postitus (jagatud Kaarel Kahni story kaudu) — pere koos laua taga, toit, kohalolek.*
+*Viide: ketlinkasak postitus (jagatud Kaarel Kahni story kaudu) â€” pere koos laua taga, toit, kohalolek.*
 
-**Sõnum:**
+**SÃµnum:**
 
-1. **Õpeta perele** — kes on päriselt sõber ja kes mitte.
-2. **Anna perele värbamisoskus** — valida õiged inimesed ellu (sõbrad, partnerid, mentorid, kogukond).
+1. **Ã•peta perele** â€” kes on pÃ¤riselt sÃµber ja kes mitte.
+2. **Anna perele vÃ¤rbamisoskus** â€” valida Ãµiged inimesed ellu (sÃµbrad, partnerid, mentorid, kogukond).
 
-See ei ole üks loeng. See on **igapäevane praktika**:
+See ei ole Ã¼ks loeng. See on **igapÃ¤evane praktika**:
 
 | Olukord | Mida demo-perekond teeb |
 |---------|--------------------------|
-| Laps tuleb koolist | Kuulab — mitte kohe õpetab |
-| Keegi „sõber" teeb halba | Vestlus: *mis sa tundsid? kes see inimene tegelikult on?* |
-| Sõpruskond muutub | Pere arutab **koos** — mitte isa üksi otsustab |
-| Sotsiaalmeedia | Näitab alternatiivi: **päris elu** laua taga |
-| Võõrkeelne müra | Kodu on eestikeelne või oma keel — **oma narratiiv** |
+| Laps tuleb koolist | Kuulab â€” mitte kohe Ãµpetab |
+| Keegi â€sÃµber" teeb halba | Vestlus: *mis sa tundsid? kes see inimene tegelikult on?* |
+| SÃµpruskond muutub | Pere arutab **koos** â€” mitte isa Ã¼ksi otsustab |
+| Sotsiaalmeedia | NÃ¤itab alternatiivi: **pÃ¤ris elu** laua taga |
+| VÃµÃµrkeelne mÃ¼ra | Kodu on eestikeelne vÃµi oma keel â€” **oma narratiiv** |
 
-**Peegli filter (Lisa AW):** demo-perekond ei müü perfektsust. Nad näitavad **tervet, normaalset** pereelu — koos pingetega, aga koos ka **aususe ja kohalolekuga**.
+**Peegli filter (Lisa AW):** demo-perekond ei mÃ¼Ã¼ perfektsust. Nad nÃ¤itavad **tervet, normaalset** pereelu â€” koos pingetega, aga koos ka **aususe ja kohalolekuga**.
 
 ---
 
-## 3. Kes on pereväärtuste promija?
+## 3. Kes on perevÃ¤Ã¤rtuste promija?
 
-### Kohustuslikud tunnused (kõik peavad olema)
+### Kohustuslikud tunnused (kÃµik peavad olema)
 
 | # | Kriteerium | Mida vaatad |
 |---|------------|-------------|
-| 1 | **Elab enne kui räägib** | Sõnum ja elu klapivad — vähemalt 6 kuud nähtav muster |
-| 2 | **Pere on nähtav** | Lapsed / partner / pereaeg — mitte ainult üksik portree |
-| 3 | **Ei müü pettust** | Ei ole MLM, ei ole „perfektne pere" mask |
-| 4 | **Eesti keel primaarselt** | Lisa meedia-reegel — eestikeelne kanal enne võõrkeelset |
-| 5 | **Trauma-teadlik** | Ei häbista, ei sunni — Lisa P raamistik |
-| 6 | **Eeskuju enne OPORD-i** | Demomees või demomehe standard — Lisa N |
+| 1 | **Elab enne kui rÃ¤Ã¤gib** | SÃµnum ja elu klapivad â€” vÃ¤hemalt 6 kuud nÃ¤htav muster |
+| 2 | **Pere on nÃ¤htav** | Lapsed / partner / pereaeg â€” mitte ainult Ã¼ksik portree |
+| 3 | **Ei mÃ¼Ã¼ pettust** | Ei ole MLM, ei ole â€perfektne pere" mask |
+| 4 | **Eesti keel primaarselt** | Lisa meedia-reegel â€” eestikeelne kanal enne vÃµÃµrkeelset |
+| 5 | **Trauma-teadlik** | Ei hÃ¤bista, ei sunni â€” Lisa P raamistik |
+| 6 | **Eeskuju enne OPORD-i** | Demomees vÃµi demomehe standard â€” Lisa N |
 
-### Tugevused (üks või mitu)
+### Tugevused (Ã¼ks vÃµi mitu)
 
-| Tugevus | Näide |
+| Tugevus | NÃ¤ide |
 |---------|-------|
-| **Sõpruskonna õpetamine** | Lapsed õpivad, kes on tõeline sõber |
-| **Värbamisoskus** | Pere oskab valida inimesi — kool, sport, töö |
-| **Laua taga aeg** | Regulaarne koos söömine, vestlus |
-| **Isa + ema kohalolek** | Mõlemad rollid nähtavad (või kasuvanem, vanaema — Lisa M) |
-| **Kogukond** | Naabrid, kool, klubi — pere ulatub kojast välja |
-| **Aus keha ja uni** | Lisa V, AB — mitte läbipõlemise eeskuju |
+| **SÃµpruskonna Ãµpetamine** | Lapsed Ãµpivad, kes on tÃµeline sÃµber |
+| **VÃ¤rbamisoskus** | Pere oskab valida inimesi â€” kool, sport, tÃ¶Ã¶ |
+| **Laua taga aeg** | Regulaarne koos sÃ¶Ã¶mine, vestlus |
+| **Isa + ema kohalolek** | MÃµlemad rollid nÃ¤htavad (vÃµi kasuvanem, vanaema â€” Lisa M) |
+| **Kogukond** | Naabrid, kool, klubi â€” pere ulatub kojast vÃ¤lja |
+| **Aus keha ja uni** | Lisa V, AB â€” mitte lÃ¤bipÃµlemise eeskuju |
 
-### Punased lipud — ära too programmi
+### Punased lipud â€” Ã¤ra too programmi
 
 | ? | Miks |
 |----|------|
 | Perfektsuse teater | Lapsed ja partner on rekvisiit |
 | Poliitiline kampaania | Peegel ei ole erakond |
-| Etiline/religioosne sund | Lisa AU — ei scapegoat |
-| Müügitekib | OPORD ei ole toote müük |
-| Draama ja konflikt reklaamina | Lisa P — ära feedi haukumist |
-| Võõrkeelne mõjutus ilma filtrita | Lisa AN — eraldi kanal, mitte segamine |
+| Etiline/religioosne sund | Lisa AU â€” ei scapegoat |
+| MÃ¼Ã¼gitekib | OPORD ei ole toote mÃ¼Ã¼k |
+| Draama ja konflikt reklaamina | Lisa P â€” Ã¤ra feedi haukumist |
+| VÃµÃµrkeelne mÃµjutus ilma filtrita | Lisa AN â€” eraldi kanal, mitte segamine |
 
 ---
 
-## 4. Eeskujude välja toomine — SOP
+## 4. Eeskujude vÃ¤lja toomine â€” SOP
 
-Koordinaator ja võrgustik (Lisa K) kasutavad seda järjekorda:
+Koordinaator ja vÃµrgustik (Lisa K) kasutavad seda jÃ¤rjekorda:
 
 ```
-1. MÄRKA     ? keegi näeb pere, kes elab väärtusi
+1. MÃ„RKA ? keegi nÃ¤eb pere, kes elab vÃ¤Ã¤rtusi
 2. VALIDEERI ? 2 iseseisvat allikat (mitte ainult sotsiaalmeedia)
-3. KÜSI      ? kas pere tahab olla nähtav? (õigus öelda ei)
-4. TOETA     ? üks samm — mitte kogu OPORD korraga
-5. TOO VÄLJA ? lugu, mitte loeng (Lisa AD)
-6. JÄLGI     ? 90 päeva — kas muster püsib?
+3. KÃœSI ? kas pere tahab olla nÃ¤htav? (Ãµigus Ã¶elda ei)
+4. TOETA ? Ã¼ks samm â€” mitte kogu OPORD korraga
+5. TOO VÃ„LJA ? lugu, mitte loeng (Lisa AD)
+6. JÃ„LGI ? 90 pÃ¤eva â€” kas muster pÃ¼sib?
 ```
 
-### Samm 1 — Märka
+### Samm 1 â€” MÃ¤rka
 
-| Kus märkad | Mida otsid |
+| Kus mÃ¤rkad | Mida otsid |
 |------------|-------------|
-| Sotsiaalmeedia | Pere koos, **mitte** ainult üksik selfie |
+| Sotsiaalmeedia | Pere koos, **mitte** ainult Ã¼ksik selfie |
 | Kool / klubi | Vanemad kohal, lapsi toetavad |
 | Naabrus | Aus, rahulik, kohalolev |
-| Soovitus | Keegi ütleb: *„vaata seda peret"* |
+| Soovitus | Keegi Ã¼tleb: *â€vaata seda peret"* |
 
-**Näide märkamisest:** postitus, kus vanem õpetab lastele sõpruse ja valikute kohta — pere koos laua taga, mitte studio.
+**NÃ¤ide mÃ¤rkamisest:** postitus, kus vanem Ãµpetab lastele sÃµpruse ja valikute kohta â€” pere koos laua taga, mitte studio.
 
-### Samm 2 — Valideeri
+### Samm 2 â€” Valideeri
 
-- Kas see on **üks hetk** või muster?
+- Kas see on **Ã¼ks hetk** vÃµi muster?
 - Kas keegi teine tunneb seda peret samamoodi?
-- Kas peres on **turvalisus** — või draama varjatud ukse taga? (Lisa P, Lisa AV hindamisvorm)
+- Kas peres on **turvalisus** â€” vÃµi draama varjatud ukse taga? (Lisa P, Lisa AV hindamisvorm)
 
-### Samm 3 — Küsi luba
+### Samm 3 â€” KÃ¼si luba
 
-> *„Me ei too kedagi programmi ilma nõusolekuta. Eeskuju on vabatahtlik."*
+> *â€Me ei too kedagi programmi ilma nÃµusolekuta. Eeskuju on vabatahtlik."*
 
-Anna perele **kuldne taganemistee** (Lisa AJ). Nad võivad alati öelda: mitte nüüd, mitte avalikult, mitte üldse.
+Anna perele **kuldne taganemistee** (Lisa AJ). Nad vÃµivad alati Ã¶elda: mitte nÃ¼Ã¼d, mitte avalikult, mitte Ã¼ldse.
 
-### Samm 4 — Toeta (üks samm)
+### Samm 4 â€” Toeta (Ã¼ks samm)
 
-| Ära anna | Anna |
+| Ã„ra anna | Anna |
 |----------|------|
-| Kogu OPORD PDF | PEEGEL_TUUM või üks tee (C — pere) |
-| Kohe nimekirja | Üks vestlus, üks lugu |
-| Avalikku survet | Lisa Q — austav side |
+| Kogu OPORD PDF | PEEGEL_TUUM vÃµi Ã¼ks tee (C â€” pere) |
+| Kohe nimekirja | Ãœks vestlus, Ã¼ks lugu |
+| Avalikku survet | Lisa Q â€” austav side |
 
-### Samm 5 — Too välja (lugu, mitte loeng)
+### Samm 5 â€” Too vÃ¤lja (lugu, mitte loeng)
 
 **Lisa AD formaat:**
 
-1. **Kes** — lühike, inimlik (mitte CV)
-2. **Mida nad näitavad** — üks konkreetne harjumus (nt laua taga vestlus sõprusest)
-3. **Mida lugeja saab teha** — üks tegu täna
-4. **Link** — ainult kui pere lubas
+1. **Kes** â€” lÃ¼hike, inimlik (mitte CV)
+2. **Mida nad nÃ¤itavad** â€” Ã¼ks konkreetne harjumus (nt laua taga vestlus sÃµprusest)
+3. **Mida lugeja saab teha** â€” Ã¼ks tegu tÃ¤na
+4. **Link** â€” ainult kui pere lubas
 
-**Näidis-lause avalikuks kasutamiseks:**
+**NÃ¤idis-lause avalikuks kasutamiseks:**
 
-> *„See pere õpetab lastele, kuidas valida sõpru — mitte loenguga, vaid laua taga vestlusega. Sina võid täna teha sama: küsi oma lapselt, kes on tema päris sõber."*
+> *â€See pere Ãµpetab lastele, kuidas valida sÃµpru â€” mitte loenguga, vaid laua taga vestlusega. Sina vÃµid tÃ¤na teha sama: kÃ¼si oma lapselt, kes on tema pÃ¤ris sÃµber."*
 
-### Samm 6 — 90 päeva järel
+### Samm 6 â€” 90 pÃ¤eva jÃ¤rel
 
-| Küsimus | Otsus |
+| KÃ¼simus | Otsus |
 |---------|-------|
-| Kas muster püsib? | Jätka või peata |
-| Kas pere tahab sügavamat seotust? | Lisa N demomees / Lisa K võrgustik |
-| Kas midagi muutus? | Lisa AP audit — kas eeskuju töötab |
+| Kas muster pÃ¼sib? | JÃ¤tka vÃµi peata |
+| Kas pere tahab sÃ¼gavamat seotust? | Lisa N demomees / Lisa K vÃµrgustik |
+| Kas midagi muutus? | Lisa AP audit â€” kas eeskuju tÃ¶Ã¶tab |
 
 ---
 
 ## 5. Rollid programmis
 
-| Roll | Kes | Ülesanne |
+| Roll | Kes | Ãœlesanne |
 |------|-----|----------|
-| **Koordinaator** | Renee Aluste | Lõplik otsus, OPSEC, eetika |
-| **Märkaja** | Iga võrgustiku liige | Soovita — mitte avalikult süüdista |
+| **Koordinaator** | Renee Aluste | LÃµplik otsus, OPSEC, eetika |
+| **MÃ¤rkaja** | Iga vÃµrgustiku liige | Soovita â€” mitte avalikult sÃ¼Ã¼dista |
 | **Validaator** | 2+ iseseisvat kontakti | Kinnita muster |
-| **Demo-perekond** | Valitud pere | Ela eeskuju — vabatahtlikult |
-| **Promoja** | Lisa K meedia / podcast | Lugu, mitte reklaam — ainult nõusolekul |
-| **Demomees** | Lisa N | Üksik eeskuju — võib olla sama pere isa/emaga |
+| **Demo-perekond** | Valitud pere | Ela eeskuju â€” vabatahtlikult |
+| **Promoja** | Lisa K meedia / podcast | Lugu, mitte reklaam â€” ainult nÃµusolekul |
+| **Demomees** | Lisa N | Ãœksik eeskuju â€” vÃµib olla sama pere isa/emaga |
 
 ---
 
@@ -191,34 +191,34 @@ Anna perele **kuldne taganemistee** (Lisa AJ). Nad võivad alati öelda: mitte nüü
 
 | Mitte | Jah |
 |-------|-----|
-| Kuulsus | **Selgus** — miks nad on eeskuju |
-| Tasu | Võrgustiku tugi, materjalid (tee C), vestlus |
-| Surve | **Vabatahtlik** tempo — Lisa AT |
-| Perfektsiooni ootus | *„Terved, normaalsed inimesed"* — Lisa P |
+| Kuulsus | **Selgus** â€” miks nad on eeskuju |
+| Tasu | VÃµrgustiku tugi, materjalid (tee C), vestlus |
+| Surve | **Vabatahtlik** tempo â€” Lisa AT |
+| Perfektsiooni ootus | *â€Terved, normaalsed inimesed"* â€” Lisa P |
 
-**Ideaalne tulemus:** üks pere inspireerib kümmet naabrit. Kümmet naabrit inspireerib sajand. **Pikk mäng** — sama loogika nagu Lisa N orgaaniline levitamine.
+**Ideaalne tulemus:** Ã¼ks pere inspireerib kÃ¼mmet naabrit. KÃ¼mmet naabrit inspireerib sajand. **Pikk mÃ¤ng** â€” sama loogika nagu Lisa N orgaaniline levitamine.
 
 ---
 
-## 7. Esimesed kandidaadid (tüübid, mitte ametlik nimekiri)
+## 7. Esimesed kandidaadid (tÃ¼Ã¼bid, mitte ametlik nimekiri)
 
-Need on **näited**, millist profiili otsime — mitte automaatne liikmelisus:
+Need on **nÃ¤ited**, millist profiili otsime â€” mitte automaatne liikmelisus:
 
-| Tüüp | Mida nad näitavad |
+| TÃ¼Ã¼p | Mida nad nÃ¤itavad |
 |------|-------------------|
-| **Pere laua taga** | Koos söömine, vestlus, lapsed kaasatud |
-| **Sõpruskonna õpetaja** | Lapsed õpivad valima inimesi |
-| **Isa + ema meeskond** | Mõlemad rollid nähtavad |
-| **Kogukonna pere** | Naabrid, kool, sport — ulatus kaugemale toast |
-| **Taastunud pere** | Aus lugu — mitte perfektsus (Lisa H, P) |
+| **Pere laua taga** | Koos sÃ¶Ã¶mine, vestlus, lapsed kaasatud |
+| **SÃµpruskonna Ãµpetaja** | Lapsed Ãµpivad valima inimesi |
+| **Isa + ema meeskond** | MÃµlemad rollid nÃ¤htavad |
+| **Kogukonna pere** | Naabrid, kool, sport â€” ulatus kaugemale toast |
+| **Taastunud pere** | Aus lugu â€” mitte perfektsus (Lisa H, P) |
 
-*Konkreetne postitus-tüüp (ketlinkasak): pere koos, sõnum sõpruse ja värbamisoskuse kohta — **seda tüüpi sisu** otsime ja toetame.*
+*Konkreetne postitus-tÃ¼Ã¼p (ketlinkasak): pere koos, sÃµnum sÃµpruse ja vÃ¤rbamisoskuse kohta â€” **seda tÃ¼Ã¼pi sisu** otsime ja toetame.*
 
 ---
 
-## 8. Üks lause demomehele
+## 8. Ãœks lause demomehele
 
-> **„Sa ei pea rääkima kogu operatsioonist. Leia üks pere, kes elab nii nagu sina tahad, et Eesti elaks — ja too see lugu välja."**
+> **â€Sa ei pea rÃ¤Ã¤kima kogu operatsioonist. Leia Ã¼ks pere, kes elab nii nagu sina tahad, et Eesti elaks â€” ja too see lugu vÃ¤lja."**
 
 ---
 
@@ -226,15 +226,15 @@ Need on **näited**, millist profiili otsime — mitte automaatne liikmelisus:
 
 | Lisa | Seos |
 |------|------|
-| **N** | Demomees — üksik eeskuju; demo-perekond täiendab |
-| **K** | Võrgustik — kes märkab, kes valideerib |
-| **AD** | Loo formaat — kuidas eeskuju avalikult tuua |
-| **AJ** | Nõusolek, kuldne taganemistee |
-| **AW** | Ära usu oma aju — keha ja päris elu enne voogu |
-| **M** | Kodaniku identiteet — pere kui esimene kaitsejoon |
-| **W** | Beebi austus — pere algab algusest |
-| **AV** | Hindamisvorm — kas inimene/sobivus usaldusväärne |
+| **N** | Demomees â€” Ã¼ksik eeskuju; demo-perekond tÃ¤iendab |
+| **K** | VÃµrgustik â€” kes mÃ¤rkab, kes valideerib |
+| **AD** | Loo formaat â€” kuidas eeskuju avalikult tuua |
+| **AJ** | NÃµusolek, kuldne taganemistee |
+| **AW** | Ã„ra usu oma aju â€” keha ja pÃ¤ris elu enne voogu |
+| **M** | Kodaniku identiteet â€” pere kui esimene kaitsejoon |
+| **W** | Beebi austus â€” pere algab algusest |
+| **AV** | Hindamisvorm â€” kas inimene/sobivus usaldusvÃ¤Ã¤rne |
 
 ---
 
-*Koostatud Operatsioon „Peegel" raames. Parandused ja nominatsioonid: koordinaator / Lisa K.*
+*Koostatud Operatsioon â€Peegel" raames. Parandused ja nominatsioonid: koordinaator / Lisa K.*

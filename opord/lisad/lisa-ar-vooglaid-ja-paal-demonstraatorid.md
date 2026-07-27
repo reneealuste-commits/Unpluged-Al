@@ -1,10 +1,10 @@
 # Lisa AR — Ülo Vooglaid ja Indrek Paal (võtmetegijad, demonstraatorid)
 
-> **Lugeja saab:** kodaniku-mõtleja eeskuju ja praktilise levitaja rolli.  
-> **Loe seda kui:** tahad aru saada, kes on Vooglaid ja miks ta sobib Peegli tuuma.  
+> **Lugeja saab:** kodaniku-mõtleja eeskuju ja praktilise levitaja rolli. 
+> **Loe seda kui:** tahad aru saada, kes on Vooglaid ja miks ta sobib Peegli tuuma. 
 > **Ära loe kui:** otsid kiiret kriisiabi — alusta Lisa H.
 
-**Seotud:** Lisa M (kodaniku identiteet), Lisa Q (demonstraatorid), Lisa K, PEEGEL_TEE_B  
+**Seotud:** Lisa M (kodaniku identiteet), Lisa Q (demonstraatorid), Lisa K, PEEGEL_TEE_B 
 **Kuupäev:** 25. juuli 2026
 
 ---
@@ -87,9 +87,9 @@ Lisa Q määratleb demonstraatorid (demomehed) Aluste_kooli kaudu. Vooglaid ja P
 - **Roll:** Kodaniku-mõtleja eeskuju; filosoofiline tuum enne OPORD-i
 - **Eesmärk:** Näidata, et *elanikust kodanikuks* on Eestis juba ammu kirjas
 - **Ülesanded:**
-  1. Soovita lugejatel alustada **Elanikust kodanikuks** (tee B)
-  2. Anna isiklik tagasiside Reneele: kas Peegel ja Vooglaid klapivad
-  3. Jagada ainult vabatahtlikult — mitte surve all
+ 1. Soovita lugejatel alustada **Elanikust kodanikuks** (tee B)
+ 2. Anna isiklik tagasiside Reneele: kas Peegel ja Vooglaid klapivad
+ 3. Jagada ainult vabatahtlikult — mitte surve all
 - **Käitumisjuhis:** Rahulik, kriitiline, emakeele rikkus. Trauma-teadlik (Lisa P) teiste suhtes.
 
 ### Indrek Paal — operatsiooni roll
@@ -97,10 +97,10 @@ Lisa Q määratleb demonstraatorid (demomehed) Aluste_kooli kaudu. Vooglaid ja P
 - **Roll:** Praktiline demonstraator; mõttepäranda ja trüki levitaja
 - **Eesmärk:** Tuua Vooglaidi tuum kätte — raamat, seminar, isiklik vestlus
 - **Ülesanded:**
-  1. Levitada **Vanaisa uued lood** (2025) ja **Elanikust kodanikuks** sobivates ringkondades
-  2. Siduda sihtasutus ja Peegel ainult kui Vooglaid nõustub
-  3. Anna tagasiside: mis formaat töötab (raamat vs PDF vs vestlus)
-  4. Transport/infrastruktuur teema — Lisa Z kontekstis (riigi efektiivsus)
+ 1. Levitada **Vanaisa uued lood** (2025) ja **Elanikust kodanikuks** sobivates ringkondades
+ 2. Siduda sihtasutus ja Peegel ainult kui Vooglaid nõustub
+ 3. Anna tagasiside: mis formaat töötab (raamat vs PDF vs vestlus)
+ 4. Transport/infrastruktuur teema — Lisa Z kontekstis (riigi efektiivsus)
 - **Käitumisjuhis:** Asjatundlik, praktiline. Lisa Q austav keel. Mitte masspostitus.
 
 ---

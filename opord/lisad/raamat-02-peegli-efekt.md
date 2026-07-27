@@ -1,8 +1,8 @@
 # Peegli efekt
 ## Kuidas sinu eeskuju kujundab teiste ajud
 
-**Autor:** Renee Aluste  
-**Seeria:** Tugeva Isa seeria, köide 2/7  
+**Autor:** Renee Aluste 
+**Seeria:** Tugeva Isa seeria, köide 2/7 
 **Operatsioon:** Peegel — vastutegevus psühholoogilisele mõjutamisele
 
 ---

@@ -102,7 +102,7 @@ Kui linnas pole veel muruväljakut:
 
 ## 3. Vanja Moves meeskond — mobility ilma noata
 
-> *Üks miljardär on kunagi öelnud: **„A stretching master is a surgeon without a knife."**  
+> *Üks miljardär on kunagi öelnud: **„A stretching master is a surgeon without a knife."** 
 > Venitamise / liikuvuse meister on kirurg ilma noata. — Renee mäletab; täpne allikas uurimiseks.*
 
 **Renee positsioon:** *Kõik on tasuta — ma ütlen sulle. Alusta tasuta. Ära oota operatsiooni, kui saad liigutada.*
@@ -215,9 +215,9 @@ Renee positsioon operatsioonis:
 ### Näide — „keha sõlm" linnaosas
 
 ```
-[ Muruväljak / paljajalu tee ]  <-  [ Rippumisribad + tõmbekang ]
-         ^                                    ^
-    jalad tunnevad maad                  käed 90 sek päevas
+[ Muruväljak / paljajalu tee ] <- [ Rippumisribad + tõmbekang ]
+ ^ ^
+ jalad tunnevad maad käed 90 sek päevas
 ```
 
 **Üks plats, kaks vajadust** — nagu Pühali kombineerib looduse ja keha, nii võib linna plats kombineerida muru ja rippumise.

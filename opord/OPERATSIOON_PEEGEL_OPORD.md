@@ -1,5 +1,7 @@
 # OPERATSIOON „PEEGEL“
-## Paranemis-teekond — Kõrgetasemeline vastutegevus psühholoogilisele mõjutamisele
+## Paranemis-teekond — inimesekesksel juhtimisel vastutegevus psühholoogilisele mõjutamisele
+
+**Selgroog:** Rudolf Steiger — *Inimesekeskne juhtimine* (Fontes 1997, ISBN **9985901274**); peakirjastaja **Heli Illipe-Sootak** · eessõna **Johannes Kert** (2011) · täielik SOP: **Lisa I**
 
 **Klassifikatsioon:** Avalik — Eesti rahvale 
 **Kuupäev:** 24. juuli 2026 
@@ -29,6 +31,44 @@
 > *„**Kohtleme kõiki asjaosalisi nagu terveid, täiesti normaalseid inimesi.**" — operatsiooni põhireegel*
 
 > **Operatsioon „Peegel“** on **Renee Aluste kodanikualgatus** (reneealuste.com). See ei ole ühtegi koolitusfirma toode ega ärikanal.
+
+> *Kogu see teekond on ehitatud ühele raamatule: **inimesekeskne juhtimine** — inimene enne protsessi, kuulamine enne käsku, mõistmine enne vastutust. Kõik lisad on selle rakendus eri eluvaldkondades (Lisa I § Operatsiooni selgroog).*
+
+---
+
+## OPERATSIOONI SELGROOG — INIMESEKESKNE JUHTIMINE
+
+Kogu Operatsioon „Peegel" — peredest koolideni, kodanikust võrgustikuni — on ehitatud **ühele raamatule**:
+
+**Rudolf Steiger** — *Inimesekeskne juhtimine. Juhiseid tsiviil- ja sõjaväejuhtidele* (Fontes 1997; uustrükk Kaitseväe Ühendatud Õppeasutused 2011; ISBN **9985901274**).
+
+| Küsimus | Steigeri vastus | Operatsiooni tõlge |
+|---------|-----------------|-------------------|
+| Kuidas juhtida vabu inimesi? | Inimene enne protsessi | Pere, kool, KV — sama inimloomus |
+| Miks dominants ei tööta? | Võit = tagajärg inimeste juhtimisele | Veteranide jutt; Lisa Z (linnad) |
+| Mis tuleb enne vastutust? | Turvalisus, mõistmine, kuulamine | Lisa P → Lisa I → vastutus |
+| Kuidas vältida läbipõlemist? | V-formatsioon — rotatsioon | Üks eesmine ei veda igavesti |
+| Kuidas anda selgust ilma sundita? | Roll + eesmärk + juhis | Lisa K, N, Q |
+
+**Peakirjastaja:** Heli Illipe-Sootak (Raudhammas OÜ). **Eessõna:** kindral Johannes Kert — ülestõus domineeriva juhtimise vastu.
+
+> *„90-ndate aastate noori ei saa enam, nagu nende isasid, sõjaväeteenistuses kohelda ja juhtida teisiti kui tsiviilelus."* — Steiger / Kert
+
+**Kuidas kõik lisad haakuvad:** täielik kaart — **Lisa I § Operatsiooni selgroog**. Lühidalt:
+
+| Steigeri tuum | Kus operatsioonis |
+|---------------|-------------------|
+| Enesetundmine, palk enda silmas | Lisa R, AW, M |
+| Teise mõistmine, kuulamine | Lisa P, S, Q, W |
+| Faktorite analüüs (enne silti) | Lisa V, S, U, AW |
+| Dialoog, 1-1 vestlus | Lisa P, AD, AJ |
+| Roll + eesmärk + juhis | Lisa K, N, Q |
+| V-formatsioon, rotatsioon | Lisa I, K, operatsiooni juhtimine |
+| Pere ja kodu | Raamatud A–G, Lisa E, AG, AC |
+| Keha ja hooldus | Lisa AA, AF, AB, AE, V |
+| Ühiskond ja riik | Lisa Z, T, L, AY |
+
+**Üks lause:** *Paranemis-teekond ei ole eraldi ideoloogia. See on Steigeri inimesekeskne juhtimine, rakendatud Eesti peredele, kodanikele ja juhtidele — trauma-teadlikult (Lisa P), ausalt (Lisa R), lihtsalt (Lisa AT).*
 
 ---
 
@@ -100,12 +140,12 @@ Täielik juhend: **Lisa P § KRIITILINE REEGEL** · Lisa S (miks) · Lisa H (kri
 
 | Raamat | Miks |
 |--------|------|
+| **Lisa I — Steiger *Inimesekeskne juhtimine* (1997)** | **PÕHIRAAMAT / SELGROOG** — kogu operatsioon on sellele ehitatud; ISBN 9985901274; peakirjastaja **Heli Illipe-Sootak** |
 | **Tom Walsberg — *Intiimsuse atlas* (2024)** | Seksuaalsuse, naudingute ja suhete kompass; biokeemia, suhted, tabude murdmine ausa keelega. [teadlikseksuaalsus.ee](https://teadlikseksuaalsus.ee/intiimsuseatlas/) |
 | **Lisa V** — Matthew Walker *Why We Sleep* | Uni enne silti, enne „võta kokku" |
 | **Lisa U** + [TOITUMINE_UURIMUSTOO.pdf](TOITUMINE_UURIMUSTOO.pdf) | Toit, rasvad, avatud meel |
 | **Lisa Y** | ECS, CBD, toit, stress — mitte suitsetamise propageerimine |
 | **Lisa Z** | Linnad, tööstusmudel, partnerlus, ettevõtlus — reform Eestist |
-| **Lisa I** | Steiger 1997 — *Inimesekeskne juhtimine*; peakirjastaja **Heli Illipe-Sootak** |
 | **Lisa P** | **KRIITILINE trauma-reegel** — teistsugune reaalsus, koera metafoor, Cooper, ära feedi haukumist |
 | **Lisa AA** | *Intiimsuse atlas*, orgasmid, vibraatori ajalugu, **Epp Kärsin** yoni koolitus |
 | **Lisa AF** | **Meestele:** erektsioon — kuidas töötab, Sterling Cooper / dis-ease, „relva puhastamine" SOP |
@@ -246,7 +286,7 @@ Paljud inimesed **ei tee seda, mida nad peaksid tegema ametikoha juhendi järgi*
 | Koormus koondub vähestele | Läbipõlemine, lahkumine |
 | Süsteem kaotab parimad | Jäävad need, kes „põlevad läbi" või lahkuvad |
 
-**Lahendus on lihtne mõttes:** kui **kõik** hakkaksid vastutama — teeksid seda, mida nad peaksid tegema — **kõigi olukord paraneb**. Extreme Ownership. Roll + eesmärk + juhis. Mitte üks kangelane, kes kannab kõike.
+**Lahendus on lihtne mõttes:** kui **kõik** hakkaksid vastutama — teeksid seda, mida nad peaksid tegema — **kõigi olukord paraneb**. Aga vastutus tuleb **alles pärast** inimesekeskset juhtimist: turvalisus → mõistmine → roll + eesmärk + juhis (Steiger, Lisa I). Mitte üks kangelane, kes kannab kõike.
 
 Aga et inimesed **saaksid aru, mis üldse valesti on**, peab lõppema **kiusamine** ja vana **juhtimismeetodite ja -stiili** ajastu. Inimene ei võta vastutust keskkonnas, kus teda alandatakse, hirmutatakse või surutakse alla. Ta ei näe juurt — ta näeb ainult survet.
 
@@ -291,7 +331,7 @@ See ei ole erisoov. See on **operatsiooniline nõue** — ja see on **esimene sa
 
 **Miks traumateadlikkus?** Sest inimene reageerib **pre-verbaalselt** (van der Kolk). Kiusamine ja alandamine **muudavad aju** (Lisa S). Ilma traumateadlikkuseta juhid **sümptomeid** — ATH silti, tabletti, „võta kokku" — mitte juurt. Steiger: nimede taga on inimesed, mitte kliinilised juhtumid.
 
-Täielik ahel: **Lisa S** (miks) → **Lisa V** (uni) → **Lisa AW** (aju, otsused) → **Lisa I** (juhtimine) → **Lisa P** (vestlus) → vastutus.
+Täielik ahel: **Lisa P** (turvalisus) → **Lisa S** (miks) → **Lisa V** (uni) → **Lisa AW** (aju) → **Lisa I** (selgroog — inimesekeskne juhtimine) → kõik muud lisad (rakendus) → vastutus.
 
 | Põhimõte | Mida see tähendab |
 |----------|-------------------|
@@ -2556,7 +2596,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **F** | 6/7 | `lisad/raamat-06-murra-ring.md` | Murra ring — depressioon ja taastumine |
 | **G** | 7/7 | `lisad/raamat-07-juhi-ja-voida.md` | Juhi ja võida — kogukond ja kutse |
 | **H** | — | `lisad/lisa-h-kiirjuhend-kriisis-isale.md` | Kiirjuhend kriisis isale — kriisiteekond ja lugemisjärjekord |
-| **I** | — | `lisad/lisa-i-inimesekeskne-juhtimine.md` | Inimesekeskne juhtimine (Steiger 1997); peakirjastaja **Heli Illipe-Sootak**; Kert eessõna |
+| **I** | — | `lisad/lisa-i-inimesekeskne-juhtimine.md` | **PÕHIRAAMAT / SELGROOG** — Steiger 1997; kogu operatsioon ehitatud sellele; peakirjastaja **Heli Illipe-Sootak** |
 | **J** | — | `lisad/lisa-j-haridusasutuste-juhtkonnad.md` | Haridusasutused — Techno TLN, KVA, RaM Kool, TVW Waldorf, **Montessori koolid ja lasteaiad** |
 | **K** | — | `lisad/lisa-k-vorgustiku-skeem-ja-ulesanded.md` | Võrgustiku skeem — kõik osalised, allüksuste ülesanded, võrgustiku statistika, podcasti külalised |
 | **L** | — | `lisad/lisa-l-ministeeriumid-ja-tai.md` | Ministeeriumid ja TAI — Muski 5-astmeline protsessijuhtimine (küsi → kustuta → lihtsusta → kiirenda → automatiseeri) |

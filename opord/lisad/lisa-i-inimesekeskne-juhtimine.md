@@ -1,16 +1,90 @@
 # Lisa I — Inimesekeskne juhtimine (Steiger 1997)
 
-> **Lugeja saab:** Steigeri inimesekeskse juhtimise raamistiku. 
-> **Loe seda kui:** juhid inimesi või koolitad (tee D/F). 
+> **Lugeja saab:** Steigeri inimesekeskse juhtimise raamistiku — **kogu Operatsioon „Peegel" on sellele ehitatud**. 
+> **Loe seda kui:** juhid inimesi või koolitad (tee D/F) — või tahad mõista, miks kõik muu siin on. 
 > **Ära loe kui:** otsid kiiret kriisiabi — alusta Lisa H.
 
 
-**Operatsioon „Peegel"** | Juhtimisfilosoofia
+**Operatsioon „Peegel"** | Juhtimisfilosoofia | **PÕHIRAAMAT / SELGROOG**
 
 **Raamat:** Rudolf Steiger, *Inimesekeskne juhtimine. Juhiseid tsiviil- ja sõjaväejuhtidele* 
 **Peakirjastaja:** **Heli Illipe-Sootak** (Raudhammas OÜ) 
 **Originaalväljaanne:** Fontes, Tallinn 1997 · tõlkija **Piret Liivamägi** · ISBN **9985901274** 
 **Uustrükk:** Kaitseväe Ühendatud Õppeasutused, 2011 — eessõna: **Johannes Kert**, Kaspar Villiger
+
+---
+
+## Operatsiooni selgroog — kuidas kõik lisad haakuvad Steigeriga
+
+Kogu Operatsioon „Peegel" — OPORD, Tugeva Isa seeria, kõik lisad A–BC — on **rakendus** Steigeri inimesekesksele juhtimisele eri eluvaldkondades. See lisa on **kaart**, mitte kordamine.
+
+### Viis sammu — Steigeri järjekord operatsioonis
+
+```
+1. TURVALISUS (Lisa P) — enne vestlust, enne loogikat
+2. ENSETUNDMINE (Lisa R, AW, M) — tunne iseennast
+3. INIMESEKESKNE JUHTIMINE (Lisa I — see dokument)
+4. ROLL + EESMÄRK + JUHIS (Lisa K, N, Q)
+5. VASTUTUS — kõik teevad oma osa (alles siis)
+```
+
+> *Ilma sammudeta 1–3 muutub vastutus uueks sundimiseks.*
+
+### Steigeri kuus sammast → operatsiooni lisa(d)
+
+| Steigeri samm | Tähendus | Lisa(d) |
+|---------------|----------|---------|
+| **1. Enesetundmine** | Juht tunneb end; palk enda silmas | Lisa R, AW, M |
+| **2. Teise mõistmine** | Inimene, mitte kliiniline juhtum | Lisa P, S, W |
+| **3. Ettevalmistus** | Kohtumine ei juhtu juhuslikult | Lisa AT, AQ, AJ |
+| **4. Kuulamine** | Aega kuulamiseks, mitte ainult käsk | Lisa P, Q, AD |
+| **5. Dialoog** | Kahepoolne, mitte monoloog | Lisa P, N, demomehed |
+| **6. Ühine kasutamine** | Võimed koos, mitte ülepeakaela | Lisa K, E, võrgustik |
+
+### Steigeri põhimõtted → valdkonnad
+
+| Põhimõte | Rakendus operatsioonis |
+|----------|------------------------|
+| **Inimene enne protsessi** | Lisa L (ministeeriumid), Lisa T (valitsus), Lisa J (koolid) |
+| **Faktorite analüüs** (lk 32) | Lisa V, S, U — enne ATH-silti ja „võta kokku" |
+| **Mõista ≠ nõustu** (lk 35–37) | Lisa P spordikommentaator; Lisa Q side |
+| **Palk enda silmas** (lk 30) | Lisa R; Renee tunnistus kiusajana |
+| **Roll + eesmärk + juhis** | Lisa K (võrgustik), Lisa N (SOK), Lisa Q (GOTWA) |
+| **V-formatsioon** | Operatsiooni juhtimine; läbipõlemise vastu |
+| **Dominant vs inimesekeskne** | Lisa Z (linnad = vanglad); veteranide jutt |
+
+### Tugeva Isa seeria (A–G) Steigeri all
+
+| Köide | Steigeri tõlge |
+|-------|----------------|
+| **A** Ava silmad | Enesetundmine — näe müra |
+| **B** Peegli efekt | Teise mõistmine — peegelneuronid |
+| **C** Võta omaks | Vastutus — **alles pärast** I ja P |
+| **D** Tugev isa | Roll + eesmärk — isa kui juht |
+| **E** Pere rindejoon | Ühine kasutamine — pere meeskonnana |
+| **F** Murra ring | Faktorite analüüs — trauma, abi |
+| **G** Juhi ja võida | V-formatsioon — kogukonna juhtimine |
+
+### Muud lisad — kiire indeks
+
+| Valdkond | Lisa(d) | Steigeri kinnitus |
+|----------|---------|-------------------|
+| Kriis | H, P | Turvalisus enne mõistust |
+| Keha, uni, toit | V, U, AB, AE | Faktorite analüüs enne silti |
+| Intiimsus, pere | AA, AC, AG, AF | Inimene enne protsessi |
+| Suhtlus | Q, AD | Kuulamine, dialoog |
+| Haridus | J, W, N | Juht kujundab keskkonda |
+| Ühiskond | Z, T, L, AY | Inimene enne numbrit |
+| Levitamine | AJ, AL, AN | Ettevalmistus, trauma-teadlikkus |
+| Lihtsus | AT, AP, AQ | Üks samm — nagu Steiger soovitab |
+
+### Taskukaart — selgroog
+
+```
+TURVALISUS → STEIGER → ROLL → DIALOOG → VASTUTUS
+```
+
+> *Kui sa mõistad Lisa I — mõistad kogu operatsiooni loogikat. Ülejäänud on **rakendus** sinu olukorras.*
 
 ---
 
@@ -416,6 +490,8 @@ Laagri reegel oli: kaks õlut. SOP vastus küsimusele: *„This is my first!"* �
 ## Kutse
 
 Eesti inimesed väärivad parimaid juhte. Mitte neid, kes mängivad rolli. Neid, kes on päriselt kohal.
+
+Kogu see operatsioon seisneb ühel küsimusel, mille Steiger pani 1997. aastal paberile: **kas sa juhid inimest — või protsessi?**
 
 *Minu küsimus sulle: Kas sa juhid teisi nii, nagu sa tahaksid, et sind juhiks?*
 

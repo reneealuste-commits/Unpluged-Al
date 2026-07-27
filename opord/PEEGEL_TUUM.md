@@ -1,6 +1,8 @@
 # PEEGEL TUUM — K0
 ## Paranemis-teekond: esimene kontakt (~30 lk)
 
+**Selgroog:** Rudolf Steiger — *Inimesekeskne juhtimine* (ISBN 9985901274) · täielik SOP: **Lisa I**
+
 **Klassifikatsioon:** Avalik — Eesti rahvale  
 **Kuupäev:** 24. juuli 2026  
 **Koordinaator:** Renee Aluste  
@@ -108,11 +110,12 @@ Vali **üks** — mitte kõik:
 
 ## Mida see teekond pakub (lühidalt)
 
-Operatsioon „Peegel“ on **paranemis-teekond** vastutegevuseks psühholoogilisele mõjutamisele.
-See ei sündi teooriast — see sündis sellest, et **tulemused räägivad iseenda eest**.
+Operatsioon „Peegel" on **paranemis-teekond** — ehitatud **inimesekesksele juhtimisele** (Steiger 1997, Lisa I).
+Kõik muu — trauma, uni, pere, suhtlus — on selle **rakendus**.
 
 | Valdkond | Mida saad |
 |----------|----------|
+| **Selgroog** | Inimesekeskne juhtimine — inimene enne protsessi (Lisa I) |
 | Trauma-teadlikkus | Turvaline vestlus peres (Lisa P, S, H) |
 | Keha ja uni | Walker, toit, liikumine (Lisa V, U, AB) |
 | Suur pilt | Kardashev, Musk süsteem — hang on (Lisa AZ) |

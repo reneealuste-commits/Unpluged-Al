@@ -529,8 +529,8 @@ AVA SILMAD (kuud 1–3) → TUGEVDA (4–8) → PEEGELDA (9–12) → LIHTSUS (1
 ┌─────────▼──────────┐ ┌─────────────▼─────────────┐ ┌──────────▼──────────┐
 │ OPERATIIVNE / ÄRI │ │ TEADVUSTUSE TASE │ │ VETERANID / TUGI │
 │ │ │ Katrin Lucas │ │ Eero Kinnunen │
-│ KVA (Aarne Ermus) │ │ Villido, tantra, Pühali │ │ Marge Sillaste │
-│ ├─ Her Way (naised) │ │ │ │ (inimeste juhtimine) │
+│ KVA (Aarne Ermus) │ │ Villido, tantra, Pühali │ │ KV psühholoog (TK) │
+│ ├─ Her Way (naised) │ │ │ │ (tervisekeskuse süsteem) │
 │ ├─ Youth / Super- │ │ │ │ │
 │ │ mängud (Jäppinen)│ │ │ │ │
 │ ├─ Pertinax (Ojaots)│ │ │ │ │
@@ -896,11 +896,11 @@ AVA SILMAD (kuud 1–3) → TUGEVDA (4–8) → PEEGELDA (9–12) → LIHTSUS (1
 - **Taust:** Kolonel; MTÜ Eesti Kaitseväe Veteranid juhatuse esimees (alates 2014). Endine Viru jalaväepataljoni ülem; Kaitseliidu Harju maleva pealik (seitse aastat); Eesti kaitseattachee Ukrainas. Missioonid Iraagis ja Afganistanis. Kaitseväe Peastaabi operatiivjaoskonna endine ülem. Orden: Kotkaristi V klass (2004).
 - **Miks ta on siin:** Veteranid on elav mälestus, et vabadus ei ole tasuta. Kinnunen ühendab need, kes on teeninud, ja need, kes peavad tugevaks jääma kodus. Operatsioon vajab veteranide häält — mitte propaganda, vaid ausust ja kogemust.
 
-#### Marge Sillaste — Tugiteenused ja inimeste juhtimine
+#### Kaitseväe psühholoog (tervisekeskuse süsteem) — Vaimne tervis ja inimeste juhtimine
 
-- **Roll operatsioonis:** Juhtide ja abistajate supervisioon ning coaching; inimeste juhtimine protsesside asemel — Steigeri põhimõtete praktiline rakendamine tugiteenuste kontekstis.
-- **Taust:** Tervishoiu ja supervisiooni valdkonna praktik (FIE, alates 2017). Pakub supervisiooni, coachingut ja terapeutilist tuge — keskendub inimestele, mitte vaid protsessidele. Töötab tugiteenuste kontekstis, kus juhid ja spetsialistid vajavad peegeldust, mitte järjekordset kontrollnimekirja.
-- **Miks ta on siin:** Operatsioon „Peegel" ütleb: inimesekeskne juhtimine (Lisa I) ei ole ainult kaitseväe teema. Sillaste aitab neil, kes teenivad teisi — juhid, mentorid, tugispetsialistid — mitte läbi põleda ega muutuda masinaks. Ta juhib inimesi, mitte protsesse.
+- **Roll operatsioonis:** Kaitseväe psühholoog tervisekeskuse süsteemis — vaimse tervise tugi, juhtide ja tugispetsialistide supervisioon; inimene enne protsessi (Steigeri põhimõte) praktikas.
+- **Taust:** Tervisekeskuse süsteemi kaitseväe psühholoog — töötab seal, kus sõjaline teenistus ja tsiviiltervishoid põimuvad. Pakub psühholoogilist tuge, supervisiooni ja peegeldust neile, kes teenivad teisi — ilma isikliku nime sidumata avalikku võrgustikku.
+- **Miks ta on siin:** Operatsioon „Peegel" ütleb: inimesekeskne juhtimine (Lisa I) ei ole ainult kaitseväe teema. Tervisekeskuse süsteemi psühholoog aitab neil, kes teenivad teisi — juhid, mentorid, tugispetsialistid — mitte läbi põleda ega muutuda masinaks. Ta juhib inimesi, mitte protsesse. See on võtmeisiku roll ilma isikliku avaliku sidumiseta.
 
 #### Kaia Kapsta-Forrester — Pere- ja paariteraapia, kriisitugi
 
@@ -1059,14 +1059,14 @@ AVA SILMAD (kuud 1–3) → TUGEVDA (4–8) → PEEGELDA (9–12) → LIHTSUS (1
 | Toetus | Eesti Tantrafestivali võrgustik (Earthchild, Skalkina, Sarmet, Saul) | Tantralaagrid ja festivalid — aktiivne |
 | Toetus | Urmas Sõõrumaa / Pühali Hea Elu Keskus | Heaolu, loodus, puhkus — aktiivne |
 | Toetus | Eero Kinnunen / Eesti Kaitseväe Veteranid | Veteranide kogukond ja tugi — aktiivne |
-| Toetus | Marge Sillaste | Supervisioon, inimeste juhtimine — aktiivne |
+| Toetus | Kaitseväe psühholoog (tervisekeskuse süsteem) | Vaimne tervis, supervisioon — aktiivne (anonüümne roll) |
 | Riik / tervis | TAI + kõik ministeeriumid | Protsessijuhtimine, Muski algoritm — aktiivne (Lisa L) |
 
 **Kõrgema üksuse kavatsus:** Kaitsta Eesti inimeste vaimset ja füüsilist julgeolekut. See operatsioon toetab seda eesmärki, mitte ei asenda riiklikku kaitset.
 
 ## c. Tugevdused ja vähendused
 
-- **Tugevused:** Renee Aluste (isiklik kogemus + sõjaline väljaõpe); võrgustiku partnerid (sh Her Way, Youth, Pertinax); Ain Anslan (avaliku sektori juhtimiskultuur); Riho Ühtegi rahvuslik autoriteet; Rene Toomse strateegiline nägemus; Eerik Heldna kriisireguleerimine; Elmar Vaher kaitseinvesteeringute ja juhtimiskogemus; Steigeri inimesekeskne juhtimine kui SOP (Lisa I); teadlikkuse võrgustik (Lucas, Villido, Trofimov, tantralaagrid, Pühali); veteranid (Kinnunen); kohalikud allüksused (Järvsoo, Ambros); inimeste juhtimine (Sillaste).
+- **Tugevused:** Renee Aluste (isiklik kogemus + sõjaline väljaõpe); võrgustiku partnerid (sh Her Way, Youth, Pertinax); Ain Anslan (avaliku sektori juhtimiskultuur); Riho Ühtegi rahvuslik autoriteet; Rene Toomse strateegiline nägemus; Eerik Heldna kriisireguleerimine; Elmar Vaher kaitseinvesteeringute ja juhtimiskogemus; Steigeri inimesekeskne juhtimine kui SOP (Lisa I); teadlikkuse võrgustik (Lucas, Villido, Trofimov, tantralaagrid, Pühali); veteranid (Kinnunen); kohalikud allüksused (Järvsoo, Ambros); tervisekeskuse süsteemi psühholoogiline tugi (KV, anonüümne).
 - **Vähendused:** Puuduv ametlik riiklik volitus (kodanikualgatus); piiratud eelarve; sõltuvus vabatahtlikust osalusest.
 
 ---
@@ -1203,8 +1203,8 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 2. Levitada teadlikkust AMI-standardiga Montessori haridusest peredele ja koolidele.
 3. Sidestada Montessori lasteaiad ja kooliklassid operatsiooni pere- ja infosõja-vastase sõnumiga.
 
-### Marge Sillaste (tugiteenused, inimeste juhtimine)
-1. Supervisioon ja coaching juhtidele, mentoritele ja tugispetsialistidele — inimeste juhtimine, mitte protsesside kontroll.
+### Kaitseväe psühholoog (tervisekeskuse süsteem)
+1. Psühholoogiline tugi ja supervisioon juhtidele, mentoritele ja tugispetsialistidele — inimeste juhtimine, mitte protsesside kontroll.
 2. Steigeri inimesekeskse juhtimise põhimõtete rakendamine Lisa I järgi praktikas.
 3. Abi neile, kes teenivad teisi, et nad ei põleks läbi (vt Lisa H suunamine vajadusel).
 
@@ -1438,7 +1438,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 | Vanglateenistus | Ain Anslan / Viru vangla | Vanglateenistus (vt Lisa K) |
 | Podcast | Frontline podcast | jujutud.ee / @reneealuste |
 | Veteranid | Eero Kinnunen | ekvv.ee |
-| Supervisioon | Marge Sillaste | margemargarethe@gmail.com |
+| Vaimne tervis | Kaitseväe psühholoog (tervisekeskuse süsteem) | Tervisekeskuse süsteem |
 | Haridus | Ott Pärna / Techno TLN | techno.ee (Lisa J — täielik juhtkond) |
 | Haridus | Rocca al Mare Kool | ramkool.edu.ee (Lisa J — juhtkond + Vaherid) |
 | Haridus | Tallinna Vaba Waldorfkool | waldorf.ee (Lisa J — Ave Osa, võtmeisik) |

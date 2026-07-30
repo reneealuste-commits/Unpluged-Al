@@ -209,7 +209,7 @@ Hindamine ilma järgmise sammuta on **kriitika**, mitte peegel.
 
 - Vormid hoitakse **privaatselt** (mitte Slacki, mitte grupivestluses).
 - Pere: ühisesse märkmikku või kappi.
-- Meeskond: juht või supervisioon (Marge Sillaste mudel).
+- Meeskond: juht või supervisioon (tervisekeskuse süsteemi KV psühholoogi mudel).
 
 ---
 
@@ -262,7 +262,7 @@ Hindamine ilma järgmise sammuta on **kriitika**, mitte peegel.
 | **PEEGEL_HINDAMISVORM_PLANKETT.pdf** | A5 seinaplaat üksuse kausta |
 | **PEEGEL_HINDAMISVORM_RAHAKOTT.pdf** | 85×55 mm meeldetuletus |
 | PEEGEL_TEE_F | Juhtide jaoks: hindamisvestluse SOP |
-| Supervisioon | Marge Sillaste — juhid, kes hoiavad teisi juhte |
+| Vaimne tervis | Kaitseväe psühholoog (tervisekeskuse süsteem) — juhid, kes hoiavad teisi juhte |
 
 ### Faas 4 — Tagasiside operatsioonile
 

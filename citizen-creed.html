@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Citizen Creed — Who Am I?</title>
+  <style>
+    :root {
+      --text: #2c2c2c;
+      --muted: #5a5a5a;
+      --accent: #3d6b4f;
+      --accent-soft: #e8f2ec;
+      --warm: #f7f5f2;
+      --border: #ddd8d0;
+      --creed-bg: #faf8f5;
+      --source-bg: #f0ebe3;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      padding: 2rem 1.25rem 4rem;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 1.125rem;
+      line-height: 1.75;
+      color: var(--text);
+      background: var(--warm);
+    }
+
+    .page {
+      max-width: 42rem;
+      margin: 0 auto;
+      text-align: center;
+    }
+
+    .page p,
+    .page li,
+    .page blockquote {
+      text-align: center;
+    }
+
+    h1, h2, h3 {
+      font-family: "Segoe UI", system-ui, sans-serif;
+      font-weight: 600;
+      line-height: 1.3;
+      color: #1a1a1a;
+    }
+
+    h1 {
+      font-size: 2rem;
+      margin: 0 0 0.5rem;
+      letter-spacing: -0.02em;
+    }
+
+    .subtitle {
+      font-family: "Segoe UI", system-ui, sans-serif;
+      font-size: 1.05rem;
+      color: var(--muted);
+      margin-bottom: 2rem;
+    }
+
+    h2 {
+      font-size: 1.45rem;
+      margin: 2.75rem 0 1rem;
+      padding-top: 0.5rem;
+      border-top: 1px solid var(--border);
+    }
+
+    h3 {
+      font-size: 1.15rem;
+      margin: 1.75rem 0 0.75rem;
+      color: var(--accent);
+    }
+
+    p { margin: 0 0 1.1rem; }
+
+    .lead {
+      font-size: 1.25rem;
+      color: var(--muted);
+      font-style: italic;
+    }
+
+    .question {
+      font-size: 1.6rem;
+      font-weight: 600;
+      font-family: "Segoe UI", system-ui, sans-serif;
+      color: var(--accent);
+      margin: 2rem 0;
+      letter-spacing: -0.01em;
+    }
+
+    .creed-box {
+      background: var(--creed-bg);
+      border: 2px solid var(--accent);
+      border-radius: 14px;
+      padding: 2rem 1.75rem;
+      margin: 2rem 0;
+      text-align: center;
+    }
+
+    .creed-label {
+      font-family: "Segoe UI", system-ui, sans-serif;
+      font-size: 0.8rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 1.25rem;
+    }
+
+    .creed-text {
+      font-size: 1.2rem;
+      line-height: 1.85;
+      margin: 0;
+    }
+
+    .creed-text strong {
+      color: var(--accent);
+      font-weight: 600;
+    }
+
+    .source-note {
+      background: var(--source-bg);
+      border-radius: 10px;
+      padding: 1.25rem 1.5rem;
+      margin: 1.5rem 0;
+      font-size: 0.95rem;
+      color: var(--muted);
+      text-align: center;
+    }
+
+    .values {
+      list-style: none;
+      padding: 0;
+      margin: 1.25rem 0;
+    }
+
+    .values li {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1rem 1.25rem;
+      margin: 0.75rem 0;
+      text-align: center;
+    }
+
+    .values li strong {
+      display: block;
+      font-family: "Segoe UI", system-ui, sans-serif;
+      color: var(--accent);
+      margin-bottom: 0.35rem;
+    }
+
+    .identity-list {
+      list-style: none;
+      padding: 0;
+      margin: 1rem 0;
+    }
+
+    .identity-list li {
+      font-size: 1.15rem;
+      margin: 0.65rem 0;
+      padding: 0.5rem 0;
+    }
+
+    .identity-list li::before {
+      content: "— ";
+      color: var(--accent);
+    }
+
+    .adopt-box {
+      background: var(--accent-soft);
+      border-radius: 12px;
+      padding: 1.75rem 1.5rem;
+      margin: 2rem 0;
+    }
+
+    .adopt-box p {
+      margin-bottom: 0.75rem;
+    }
+
+    .signature-line {
+      border-bottom: 1px solid var(--accent);
+      width: 14rem;
+      margin: 1.5rem auto 0.5rem;
+      height: 1.5rem;
+    }
+
+    .lang-toggle {
+      font-family: "Segoe UI", system-ui, sans-serif;
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin-top: 1rem;
+    }
+
+    .lang-section { margin-top: 2rem; }
+
+    footer {
+      margin-top: 3rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--border);
+      font-size: 0.9rem;
+      color: var(--muted);
+      text-align: center;
+    }
+
+    @media (max-width: 480px) {
+      body { font-size: 1.05rem; padding: 1.25rem 1rem 3rem; }
+      h1 { font-size: 1.65rem; }
+      .creed-text { font-size: 1.1rem; }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+
+    <h1>The Citizen Creed</h1>
+    <p class="subtitle">An identity you can adopt — no thinking required</p>
+
+    <p class="question">Who am I?</p>
+
+    <p class="lead">
+      You do not have to invent yourself from scratch.
+      Take this creed. It is yours now.
+    </p>
+
+  <p>
+    This text is adapted from the official <strong>Estonian soldier's oath</strong>
+    (<em>kaitseväelase tõotus</em>) — reshaped for ordinary life,
+    for neighbors, parents, workers, students, and anyone asking
+    <em>who am I?</em>
+  </p>
+
+    <!-- MAIN CREED -->
+    <div class="creed-box">
+      <div class="creed-label">The Citizen Creed</div>
+      <p class="creed-text">
+        I, <strong>a human being</strong>, swear to remain faithful to
+        <strong>truth, dignity, and the people who depend on me</strong>;
+        to defend what is good in myself and in others with all my
+        <strong>reason and care</strong>;
+        to be ready to sacrifice <strong>comfort and ego</strong> for what is right;
+        to hold myself to <strong>inner discipline</strong>;
+        and to honor my commitments <strong>honestly and steadily</strong>,
+        knowing that if I do not, <strong>I alone bear the cost</strong>.
+      </p>
+    </div>
+
+    <div class="source-note">
+      <strong>Source:</strong> Adapted from the Estonian Defence Forces military oath
+      (Kaitseväeteenistuse seadus § 10), which reads in part:
+      <em>"I swear to remain faithful to the democratic Republic of Estonia…
+      to defend with all my reason and strength… to observe discipline…
+      and to perform all my duties precisely."</em>
+      Military language has been translated into the language of everyday citizenship.
+    </div>
+
+    <!-- WHO AM I -->
+    <h2>Who Am I? — Say It Out Loud</h2>
+
+    <p>You do not need a perfect answer. You need a standing answer. Use these:</p>
+
+    <ul class="identity-list">
+      <li>I am someone who keeps my word.</li>
+      <li>I am someone who protects what is good — starting with myself.</li>
+      <li>I am someone who tells the truth, even when it costs me.</li>
+      <li>I am someone who shows up for the people who count on me.</li>
+      <li>I am someone who chooses discipline over impulse.</li>
+      <li>I am someone who pays the price of my own choices.</li>
+      <li>I am a citizen — not of a border, but of decency.</li>
+    </ul>
+
+    <!-- SIX VALUES -->
+    <h2>The Six Values</h2>
+
+    <p>
+      Taken from the Estonian Defence Forces Code of Ethics
+      (<em>Kaitseväe eetikakoodeks</em>) — translated for daily life:
+    </p>
+
+    <ul class="values">
+      <li>
+        <strong>Honesty — Ausus</strong>
+        I speak truth to myself and others. I do not hide behind excuses.
+      </li>
+      <li>
+        <strong>Courage — Vaprus</strong>
+        I face what is hard. I do not run from necessary conversations or actions.
+      </li>
+      <li>
+        <strong>Competence — Asjatundlikkus</strong>
+        I do my work well. I keep learning. I take my responsibilities seriously.
+      </li>
+      <li>
+        <strong>Loyalty — Ustavus</strong>
+        I stay true to what I believe and to the people who trust me.
+      </li>
+      <li>
+        <strong>Cooperation — Koostöövalmidus</strong>
+        I help when I can. I do not leave others to carry what we share.
+      </li>
+      <li>
+        <strong>Openness — Avatus</strong>
+        I listen. I admit when I am wrong. I remain willing to grow.
+      </li>
+    </ul>
+
+    <!-- DAILY PRACTICE -->
+    <h2>Daily Practice — Three Minutes</h2>
+
+    <p>Each morning, read the creed once. Then ask yourself one question:</p>
+
+    <p class="lead" style="font-style: normal; font-weight: 600; color: var(--text);">
+      What is one thing today that a person like me would do?
+    </p>
+
+    <p>That is enough. Identity is not a mood. It is a pattern of choices.</p>
+
+    <!-- EXAMPLES -->
+    <h2>What This Looks Like in Real Life</h2>
+
+    <ul class="values">
+      <li>
+        <strong>At home</strong>
+        You are tired but your child needs attention. You show up anyway. That is the creed.
+      </li>
+      <li>
+        <strong>At work</strong>
+        You could cut a corner. You do the honest thing. That is inner discipline.
+      </li>
+      <li>
+        <strong>With a friend</strong>
+        They need hard truth, not comfort. You speak with care. That is courage.
+      </li>
+      <li>
+        <strong>Alone</strong>
+        No one is watching. You still keep your promise to yourself. That is who you are.
+      </li>
+      <li>
+        <strong>When you fail</strong>
+        You do not pretend. You own it, repair what you can, and begin again. That is paying the price.
+      </li>
+    </ul>
+
+    <!-- ADOPT -->
+    <h2>Adopt It — Right Now</h2>
+
+    <div class="adopt-box">
+      <p>You do not have to believe it perfectly today.</p>
+      <p>You only have to <strong>choose it</strong>.</p>
+      <p>Read the creed aloud. Sign your name below — on paper or in your mind.</p>
+      <div class="signature-line"></div>
+      <p style="font-size: 0.9rem; color: var(--muted);">Your name · Date</p>
+      <p style="margin-top: 1.25rem; font-size: 1rem;">
+        From this moment, when someone asks <em>who am I?</em> — you have an answer.
+      </p>
+    </div>
+
+    <!-- ESTONIAN VERSION -->
+    <div class="lang-section">
+      <h2>Kodaniku Tõotus — Estonian Version</h2>
+
+      <div class="creed-box">
+        <div class="creed-label">Kodaniku tõotus</div>
+        <p class="creed-text">
+          Mina, <strong>inimene</strong>, tõotan jääda ustavaks
+          <strong>tõele, väärikusele ja inimestele, kes minust sõltuvad</strong>;
+          kaitsta head endas ja teistes kogu oma
+          <strong>mõistuse ja hoole</strong> eest;
+          olla valmis ohverdama <strong>mugavust ja ego</strong> selle eest, mis on õige;
+          hoida kinni <strong>sisemisest distsipliinist</strong>;
+          ning täita oma kohustusi <strong>ausalt ja järjepidevalt</strong>,
+          teades, et vastasel korral <strong>maksan hinda ise</strong>.
+        </p>
+      </div>
+
+      <p class="lang-toggle">
+        Põhineb Eesti kaitseväelase ametlikul tõotusel (KVTS § 10),
+        kohandatud igapäevaseks eluks.
+      </p>
+
+      <h3>Kes ma olen?</h3>
+
+      <ul class="identity-list">
+        <li>Olen inimene, kes peab oma sõna.</li>
+        <li>Olen inimene, kes kaitseb head — alustades iseendast.</li>
+        <li>Olen inimene, kes räägib tõtt, isegi kui see maksab.</li>
+        <li>Olen inimene, kes ilmub kohale nende jaoks, kes minust loodavad.</li>
+        <li>Olen inimene, kes valib distsipliini impulsi asemel.</li>
+        <li>Olen inimene, kes kannab oma valikute hinna.</li>
+        <li>Olen kodanik — mitte piiri, vaid väärikuse mõttes.</li>
+      </ul>
+    </div>
+
+    <footer>
+      <p>
+        Adapted from the Estonian Defence Forces military oath and code of ethics.<br>
+        Offered freely to anyone asking: <em>Who am I?</em>
+      </p>
+      <p style="margin-top: 1rem; font-size: 0.85rem;">
+        Unpluged-Al · The Citizen Creed
+      </p>
+    </footer>
+
+  </main>
+</body>
+</html>

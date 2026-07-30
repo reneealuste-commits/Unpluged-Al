@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="et">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kodaniku tõotus — Kes ma olen?</title>
+  <style>
+    :root {
+      --text: #2c2c2c;
+      --muted: #5a5a5a;
+      --accent: #3d6b4f;
+      --accent-soft: #e8f2ec;
+      --warm: #f7f5f2;
+      --border: #ddd8d0;
+      --creed-bg: #faf8f5;
+      --source-bg: #f0ebe3;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      padding: 2rem 1.25rem 4rem;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 1.125rem;
+      line-height: 1.75;
+      color: var(--text);
+      background: var(--warm);
+    }
+
+    .page {
+      max-width: 42rem;
+      margin: 0 auto;
+      text-align: center;
+    }
+
+    .page p, .page li { text-align: center; }
+
+    h1, h2, h3 {
+      font-family: "Segoe UI", system-ui, sans-serif;
+      font-weight: 600;
+      line-height: 1.3;
+      color: #1a1a1a;
+    }
+
+    h1 { font-size: 2rem; margin: 0 0 0.5rem; }
+    .subtitle { font-family: "Segoe UI", system-ui, sans-serif; font-size: 1.05rem; color: var(--muted); margin-bottom: 2rem; }
+    h2 { font-size: 1.45rem; margin: 2.75rem 0 1rem; padding-top: 0.5rem; border-top: 1px solid var(--border); }
+    h3 { font-size: 1.15rem; margin: 1.75rem 0 0.75rem; color: var(--accent); }
+    p { margin: 0 0 1.1rem; }
+    .lead { font-size: 1.25rem; color: var(--muted); font-style: italic; }
+    .question { font-size: 1.6rem; font-weight: 600; font-family: "Segoe UI", system-ui, sans-serif; color: var(--accent); margin: 2rem 0; }
+
+    .creed-box {
+      background: var(--creed-bg);
+      border: 2px solid var(--accent);
+      border-radius: 14px;
+      padding: 2rem 1.75rem;
+      margin: 2rem 0;
+    }
+
+    .creed-label {
+      font-family: "Segoe UI", system-ui, sans-serif;
+      font-size: 0.8rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 1.25rem;
+    }
+
+    .creed-text { font-size: 1.2rem; line-height: 1.85; margin: 0; }
+    .creed-text strong { color: var(--accent); font-weight: 600; }
+
+    .source-note {
+      background: var(--source-bg);
+      border-radius: 10px;
+      padding: 1.25rem 1.5rem;
+      margin: 1.5rem 0;
+      font-size: 0.95rem;
+      color: var(--muted);
+    }
+
+    .values { list-style: none; padding: 0; margin: 1.25rem 0; }
+    .values li {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1rem 1.25rem;
+      margin: 0.75rem 0;
+    }
+    .values li strong { display: block; font-family: "Segoe UI", system-ui, sans-serif; color: var(--accent); margin-bottom: 0.35rem; }
+
+    .identity-list { list-style: none; padding: 0; margin: 1rem 0; }
+    .identity-list li { font-size: 1.15rem; margin: 0.65rem 0; padding: 0.5rem 0; }
+    .identity-list li::before { content: "— "; color: var(--accent); }
+
+    .adopt-box { background: var(--accent-soft); border-radius: 12px; padding: 1.75rem 1.5rem; margin: 2rem 0; }
+    .signature-line { border-bottom: 1px solid var(--accent); width: 14rem; margin: 1.5rem auto 0.5rem; height: 1.5rem; }
+
+    .download {
+      display: inline-block;
+      margin: 1.5rem 0;
+      padding: 0.75rem 1.5rem;
+      background: var(--accent);
+      color: #fff;
+      text-decoration: none;
+      border-radius: 8px;
+      font-family: "Segoe UI", system-ui, sans-serif;
+      font-weight: 600;
+    }
+
+    table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; font-size: 0.95rem; }
+    th, td { border: 1px solid var(--border); padding: 0.75rem; text-align: center; }
+    th { background: var(--accent-soft); color: var(--accent); font-family: "Segoe UI", system-ui, sans-serif; }
+
+    footer { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--border); font-size: 0.9rem; color: var(--muted); }
+  </style>
+</head>
+<body>
+  <main class="page">
+
+    <h1>Kodaniku tõotus</h1>
+    <p class="subtitle">Identiteet, mida võid kohe omaks võtta — mõtlemist pole vaja</p>
+
+    <p class="question">Kes ma olen?</p>
+
+    <p class="lead">
+      Sa ei pea ennast nullist leiutama.<br>
+      Võta see tõotus. See on nüüd sinu.
+    </p>
+
+    <p>
+      See tekst on kohandatud ametlikust <strong>Eesti kaitseväelase tõotusest</strong>
+      — ümber kujundatud tavaliseks eluks naabritele, vanematele, töötajatele,
+      õpilastele ja kõigile, kes küsivad: <em>kes ma olen?</em>
+    </p>
+
+    <a class="download" href="kodaniku-tootus.docx" download>Laadi alla Word fail (.docx)</a>
+
+    <div class="creed-box">
+      <div class="creed-label">Kodaniku tõotus</div>
+      <p class="creed-text">
+        Mina, <strong>inimene</strong>, tõotan jääda ustavaks
+        <strong>tõele, väärikusele ja inimestele, kes minust sõltuvad</strong>;
+        kaitsta head endas ja teistes kogu oma
+        <strong>mõistuse ja hoole</strong> eest;
+        olla valmis ohverdama <strong>mugavust ja ego</strong> selle eest, mis on õige;
+        hoida kinni <strong>sisemisest distsipliinist</strong>;
+        ning täita oma kohustusi <strong>ausalt ja järjepidevalt</strong>,
+        teades, et vastasel korral <strong>maksan hinda ise</strong>;
+        <strong>nõuan, et minuga käitutakse austusega ja õiglaselt</strong>
+        — ja käitun teistega samamoodi;
+        tean, et <strong>mida külvad, seda lõikad</strong>:
+        iga tegu paneb seemne, mis tuleb ringiga tagasi;
+        <strong>alustan heana</strong>, kuid ei lase kurja minna vastutuseta —
+        see on minu <strong>vastastikmõju strateegia</strong>.
+      </p>
+    </div>
+
+    <div class="source-note">
+      <strong>Allikas:</strong> Kohandatud Eesti kaitseväelase ametlikust tõotusest
+      (Kaitseväeteenistuse seadus § 10):
+      <em>„Mina, (ees- ja perekonnanimi), tõotan jääda ustavaks demokraatlikule
+      Eesti Vabariigile ja tema põhiseaduslikule korrale, kaitsta Eesti Vabariiki
+      vaenlase vastu kogu oma mõistuse ja jõuga…"</em>
+      Sõjaväeline keel on tõlgitud igapäevase kodaniku keelde.
+    </div>
+
+    <h2>Kes ma olen? — Ütle seda valjusti</h2>
+    <p>Sul pole vaja täiuslikku vastust. Sul on vaja kindlat vastust. Kasuta neid:</p>
+
+    <ul class="identity-list">
+      <li>Olen inimene, kes peab oma sõna.</li>
+      <li>Olen inimene, kes kaitseb head — alustades iseendast.</li>
+      <li>Olen inimene, kes räägib tõtt, isegi kui see maksab.</li>
+      <li>Olen inimene, kes ilmub kohale nende jaoks, kes minust loodavad.</li>
+      <li>Olen inimene, kes valib distsipliini impulsi asemel.</li>
+      <li>Olen inimene, kes kannab oma valikute hinna.</li>
+      <li>Olen kodanik — mitte piiri, vaid väärikuse mõttes.</li>
+      <li>Nõuan, et minuga käitutakse austusega ja õiglaselt — ja annan seda tagasi.</li>
+      <li>Külvin head, sest tean: mida külvad, seda lõikad.</li>
+      <li>Alustan heana, kuid ei lase kurja minna vastutuseta.</li>
+    </ul>
+
+    <h2>Loodusseadus ja vastastikmõju</h2>
+
+    <h3>Konversioonilugu — kuidas ma sinna jõudsin</h3>
+
+    <p class="lead">
+      Ma ei teadnud pikka aega, mida ma tegelikult teen.
+    </p>
+
+    <p>
+      Elasin, reageerisin, põrkasin inimestega kokku — aga mul polnud strateegiat.
+      Ma ei teadnud, miks mõned suhted lagunevad ja teised püsivad.
+      Ma ei teadnud, miks mõnikord tundus, et annan liiga palju, ja mõnikord liiga vähe.
+      Lihtsalt elasin edasi, ilma raamita.
+    </p>
+
+    <p>
+      Siis sattusin YouTube'i peale. Üks video rääkis strateegiatest —
+      kuidas arvutiprogrammid võistlevad üksteise vastu, korduvalt, tuhandeid kordi.
+      Kokku oli <strong>42 erinevat strateegiat</strong>. Igaüks püüdis võita.
+      Mõni oli alati kuri. Mõni alati hell. Mõni püüdis petta. Mõni andis alla.
+    </p>
+
+    <p>
+      Võitja oli <strong>tit-for-tat</strong> — vastastikmõju.
+      Alusta heana. Vasta samaga, mida saad. Kui teine on hea — ole hea.
+      Kui teine on kuri — sea piir. Ära löö kunagi esimesena.
+    </p>
+
+    <p>
+      See ei olnud lihtsalt arvutimäng. See oli <strong>päriselu</strong>.
+      Sellest sai mulle selgeks, miks <em>mida külvad, seda lõikad</em> on loodusseadus —
+      mitte ainult vana õpetus, vaid reegel, mis töötab inimeste, sõprade,
+      laste ja sinu enda vahel.
+    </p>
+
+    <div class="creed-box" style="border-width: 1px; padding: 1.5rem;">
+      <p class="creed-text" style="font-size: 1.1rem;">
+        Tit-for-tat on ainus strateegia, kus <strong>keegi ei kaota</strong>.<br>
+        Inimesed ei kaota. Sõbrad ei kaota.<br>
+        Suhted lastega ei kaota.<br>
+        Ja sina ise ei kaota.
+      </p>
+    </div>
+
+    <p>
+      Sa ei pea olema nõrk ega kange. Sa ei pea andma ennast ära ega sõdima iga päev.
+      Sa alustad heana — sest see on see, mida sa tahad lõigata.
+      Ja kui keegi ei vasta heaga, sa ei jää vaikides kannatama.
+      Sa sead piiri. See on ausus. See on väärikus. See on loodusseadus.
+    </p>
+
+    <p class="lead" style="font-style: normal; font-size: 1.05rem; color: var(--muted);">
+      Nii jõudsin ma siia. Mitte teooria kaudu. Elu kaudu. Ja ühe video kaudu, mis muutis kõik.
+    </p>
+
+    <p class="lead">
+      Mida külvad, seda lõikad — see pole ainult vanasõna. See on loodusseadus.
+    </p>
+
+    <p>
+      Iga sõna, iga tegu, iga valik paneb seemne. Head seemned kasvavad head saagi.
+      Halvad seemned tulevad ringiga tagasi — mitte alati kohe, aga alati.
+      Sa ei kontrolli saaki, aga sa kontrollid külvikut.
+    </p>
+
+    <ul class="values">
+      <li>
+        <strong>Külvamine</strong>
+        Enne kui teed, küsi: mida ma praegu külvin? Kas see on see, mida tahan lõigata?
+      </li>
+      <li>
+        <strong>Lõikamine</strong>
+        Kui elu toob sulle rasket, vaata ausalt: kas ma ise külvatasin selle seemne?
+      </li>
+      <li>
+        <strong>Vastastikmõju (tit-for-tat)</strong>
+        Alusta alati heana. Kui teine on hea — ole hea. Kui teine on kuri — sea piir.
+        Anna teine võimalus, kui keegi eksib. Ära ole lollukindel. Ära ole ka nõrk.
+      </li>
+    </ul>
+
+    <div class="source-note">
+      <strong>Vastastikmõju strateegia lihtsalt:</strong><br>
+      1. Alusta koostööga · 2. Vasta samaga, mida saad · 3. Anna andeks üks kord ·
+      4. Kui kurjus kordub — kaitse end · 5. Ära kunagi löö esimesena
+    </div>
+
+    <h2>Kuus väärtust</h2>
+    <p>Võetud <em>Kaitseväe eetikakoodeksist</em> — tõlgitud igapäevaseks eluks:</p>
+
+    <ul class="values">
+      <li><strong>Ausus</strong>Räägin endale ja teistele tõtt. Ei peida end vabanduste taha.</li>
+      <li><strong>Vaprus</strong>Seisan silmitsi raskega. Ei põgu vajalikest vestlustest ega tegudest.</li>
+      <li><strong>Asjatundlikkus</strong>Teen oma tööd hästi. Õpin pidevalt. Võtan kohustusi tõsiselt.</li>
+      <li><strong>Ustavus</strong>Jään truuks sellele, mida usun, ja inimestele, kes minusse usaldavad.</li>
+      <li><strong>Koostöövalmidus</strong>Aitan, kui saan. Ei jäta teisi üksi kandma seda, mis on meie ühine.</li>
+      <li><strong>Avatus</strong>Kuulan. Tunnistan, kui eksin. Jään valmis kasvama.</li>
+    </ul>
+
+    <h2>Igapäevane praktika — kolm minutit</h2>
+    <p>Iga hommik loe tõotus üks kord läbi. Siis küsi endalt üks küsimus:</p>
+    <p class="lead" style="font-style: normal; font-weight: 600; color: var(--text);">
+      Mis on üks asi täna, mida minu-sugune inimene teeks?
+    </p>
+    <p>See on piisav. Identiteet pole meeleolu. See on valikute muster.</p>
+
+    <h2>Kuidas see päriselus välja näeb</h2>
+
+    <ul class="values">
+      <li><strong>Kodus</strong>Oled väsinud, aga su laps vajab tähelepanu. Sa ilmud ikkagi kohale. See on tõotus.</li>
+      <li><strong>Tööl</strong>Võiksid nurgast lõigata. Sa teed ausa asja. See on sisemine distsipliin.</li>
+      <li><strong>Sõbraga</strong>Talle on vaja karmi tõde, mitte mugavust. Sa räägid hoolikalt. See on vaprus.</li>
+      <li><strong>Üksi</strong>Keegi ei vaata. Sa pead ikkagi oma sõna. See oled sina.</li>
+      <li><strong>Kui sind ei austa</strong>Sa ei vihastu ega põgene. Sa ütled selgelt: minuga tuleb käituda austusega. See on sinu õigus.</li>
+      <li><strong>Kui keegi on hea</strong>Sa vastad heaga. Külvid head. See on loodusseadus töös.</li>
+      <li><strong>Kui keegi kurjust kordab</strong>Sa ei tasu kurja kurjaga — aga sa sead piiri. Vastastikmõju: üks hoiatus, siis kaitse.</li>
+      <li><strong>Kui eksid</strong>Sa ei teeskle. Võtad vastutuse, parandad, mis saad, ja alustad uuesti. See on hinna maksmine.</li>
+    </ul>
+
+    <h2>Sõduri tõotus ja kodaniku tõotus</h2>
+
+    <table>
+      <tr><th>Sõduri tõotus</th><th>Kodaniku tõotus</th></tr>
+      <tr><td>Ustavus vabariigile</td><td>Ustavus tõele ja väärikusele</td></tr>
+      <tr><td>Kaitseb vaenlase eest</td><td>Kaitseb head endas ja teistes</td></tr>
+      <tr><td>Ohverdab elu isamaa eest</td><td>Ohverdab mugavust ja ego õige eest</td></tr>
+      <tr><td>Kaitseväe distsipliin</td><td>Sisemine distsipliin</td></tr>
+      <tr><td>Kohustused täpselt</td><td>Ausad ja järjepidevad kohustused</td></tr>
+      <tr><td>Seadus karistab</td><td>Maksan hinda ise</td></tr>
+    </table>
+
+    <h2>Võta see omaks — kohe praegu</h2>
+
+    <div class="adopt-box">
+      <p>Sa ei pea seda täna täiuslikult uskuma.</p>
+      <p>Sa pead seda ainult <strong>valima</strong>.</p>
+      <p>Loe tõotus valjusti. Allkirjasta all — paberil või mõttes.</p>
+      <div class="signature-line"></div>
+      <p style="font-size: 0.9rem; color: var(--muted);">Sinu nimi · Kuupäev</p>
+      <p style="margin-top: 1.25rem;">
+        Sellest hetkest, kui keegi küsib <em>kes ma olen?</em> — on sul vastus.
+      </p>
+    </div>
+
+    <a class="download" href="kodaniku-tootus.docx" download>Laadi alla Word fail (.docx)</a>
+
+    <footer>
+      <p>
+        Kohandatud Eesti kaitseväelase tõotusest ja eetikakoodeksist.<br>
+        Vabalt kõigile, kes küsivad: <em>Kes ma olen?</em>
+      </p>
+      <p style="margin-top: 1rem; font-size: 0.85rem;">Unpluged-Al · Kodaniku tõotus</p>
+    </footer>
+
+  </main>
+</body>
+</html>

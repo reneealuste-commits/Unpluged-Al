@@ -50,6 +50,16 @@ PACKAGES = {
             "Failid: lisad/lisa-t-valitsuse-ipb-analuus.md jne.\n"
         ),
     },
+    "P4-RIIK-PEEGEL": {
+        "pdfs": [
+            "PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf",
+            "PEEGEL_RIIK_PLANKETT.pdf",
+        ],
+        "readme": (
+            "Riiklik peegel \u2014 Lisa BD. Hindamisvorm juhtkonnale ja esiliinile.\n"
+            "Kvartal + 2 hindajat + luurekusimus + uks tegu.\n"
+        ),
+    },
 }
 
 SKIP_IN_KOGU = {".git", "__pycache__", "sidepakkid", ".DS_Store"}

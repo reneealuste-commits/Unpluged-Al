@@ -35,13 +35,14 @@ Steiger (Lisa I): hindamine on **kahepoolne dialoog**, mitte ülemuse monoloog.
 
 ---
 
-## Kolm vormi — üks tuum
+## Neli vormi — üks tuum
 
 | Vorm | Kus | Sagedus | Kes hindab |
 |------|-----|---------|------------|
 | **AV-PERE** | Kodu | 1× kuus (15–20 min) | Partner + lapsevanem teineteist; vanemad ?12a laps võib kutsuda (vabatahtlik) |
 | **AV-MEESKOND** | Töö, kool, MTÜ | 1× kvartal | Juht + 2 kolleegi iga liikme kohta |
 | **AV-SOK** | Aluste_kool demomehed | 1× kvartal + pärast suurt sündmust | Ringis: igaüks saab 2 häält (mitte enda) |
+| **AV-RIIK** | Asutus, riigisektor | 1× kvartal (juhtkond) / 2× aastas (esiliin) | Vt **Lisa BD** — `PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf` |
 
 **Reegel:** Iga hinnatav saab **vähemalt 2** täidetud vormi + **ühe** iserefleksiooni. Iserefleksioon üksi **ei ole** hindamine.
 
@@ -209,7 +210,7 @@ Hindamine ilma järgmise sammuta on **kriitika**, mitte peegel.
 
 - Vormid hoitakse **privaatselt** (mitte Slacki, mitte grupivestluses).
 - Pere: ühisesse märkmikku või kappi.
-- Meeskond: juht või supervisioon (Marge Sillaste mudel).
+- Meeskond: juht või supervisioon (tugispetsialist / Kapten Mets mudel).
 
 ---
 
@@ -262,7 +263,7 @@ Hindamine ilma järgmise sammuta on **kriitika**, mitte peegel.
 | **PEEGEL_HINDAMISVORM_PLANKETT.pdf** | A5 seinaplaat üksuse kausta |
 | **PEEGEL_HINDAMISVORM_RAHAKOTT.pdf** | 85×55 mm meeldetuletus |
 | PEEGEL_TEE_F | Juhtide jaoks: hindamisvestluse SOP |
-| Supervisioon | Marge Sillaste — juhid, kes hoiavad teisi juhte |
+| Supervisioon | Tugispetsialist — juhid, kes hoiavad teisi juhte |
 
 ### Faas 4 — Tagasiside operatsioonile
 

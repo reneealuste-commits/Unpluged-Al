@@ -55,6 +55,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | AT | [lisa-at-lihtsus-kui-kinni-jaid.md](lisa-at-lihtsus-kui-kinni-jaid.md) | **LIHTSUS** — kui kinni jäid, otsuspuu |
 | AU | [lisa-au-vastase-analuusi-taiendus.md](lisa-au-vastase-analuusi-taiendus.md) | **Vastase analüüs** — mitme vektori mõjutus (RU + platvormid), faktikontroll |
 | AV | [lisa-av-peegel-hindamisvorm.md](lisa-av-peegel-hindamisvorm.md) | **Peegli hindamisvorm** — pere, meeskond, SOK; prindi `PEEGEL_HINDAMISVORM_PRINT.pdf` |
+| BD | [lisa-bd-riiklik-peegel-hindamisvorm.md](lisa-bd-riiklik-peegel-hindamisvorm.md) | **Riiklik peegel** — AV-RIIK riigisektoris; `PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf` |
 | AW | [lisa-aw-motlemine-kiiresti-ja-aeglaselt.md](lisa-aw-motlemine-kiiresti-ja-aeglaselt.md) | **Mõtlemine kiiresti ja aeglaselt** — Kahneman; System 1/2, mõttevead, stress, kelnerilaua lugu |
 | AX | [lisa-ax-demo-perekond-ja-eeskujud.md](lisa-ax-demo-perekond-ja-eeskujud.md) | **Demo-perekond** — pereväärtuste promijad, eeskujude välja toomine, värbamisoskus |
 | AY | [lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md](lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md) | **Kuldne sild** — Sun Tzu + Art of the Deal; esimene manööver; AI; juhtide kutse |

@@ -17,6 +17,8 @@ LIGHT = colors.HexColor("#e8efe8")
 FORM_PDF = BASE / "PEEGEL_HINDAMISVORM_PRINT.pdf"
 PLANKETT_PDF = BASE / "PEEGEL_HINDAMISVORM_PLANKETT.pdf"
 MINI_PDF = BASE / "PEEGEL_HINDAMISVORM_RAHAKOTT.pdf"
+RIIK_FORM_PDF = BASE / "PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf"
+RIIK_PLANKETT_PDF = BASE / "PEEGEL_RIIK_PLANKETT.pdf"
 
 CRITERIA = [
     ("Initsiatiiv", "Kas ta teeb ara ilma, et keegi palub?"),
@@ -25,6 +27,11 @@ CRITERIA = [
     ("Tahelepanu", "Kas ta markab detaile - sonu, peret, allikaid?"),
     ("Teadlikkus", "Kas ta teab plaani ja kontrollib infot?"),
     ("Vastupidavus", "Uni, liikumine, taastumine - kas hoiab masinat?"),
+]
+
+RIIK_EXTRA = [
+    ("Austus ja lugupidamine", "Kas teine tunneb end vaartustatuna? Ei solva ega habista."),
+    ("Turvalisus ja selgus", "Kas teatab ohtudest ja jargib protsessi?"),
 ]
 
 
@@ -63,9 +70,11 @@ def draw_circle_choice(c, x, y, label):
     c.drawString(x + 5 * mm, y - 1 * mm, label)
 
 
-def build_form_pdf():
+def build_form_pdf(riik=False):
     """A4 kirjalik hindamisvorm - uks taitmine lehe kohta."""
-    c = canvas.Canvas(str(FORM_PDF), pagesize=A4)
+    out = RIIK_FORM_PDF if riik else FORM_PDF
+    criteria = CRITERIA + (RIIK_EXTRA if riik else [])
+    c = canvas.Canvas(str(out), pagesize=A4)
     pw, ph = A4
     m = 12 * mm
     w = pw - 2 * m
@@ -75,9 +84,10 @@ def build_form_pdf():
     c.rect(m, ph - m - 16 * mm, w, 16 * mm, fill=1, stroke=0)
     c.setFillColor(colors.white)
     c.setFont("Helvetica-Bold", 13)
-    c.drawCentredString(pw / 2, ph - m - 7 * mm, "PEEGLI HINDAMISVORM")
+    c.drawCentredString(pw / 2, ph - m - 7 * mm, "PEEGLI HINDAMISVORM" + (" — RIIK" if riik else ""))
     c.setFont("Helvetica", 8)
-    c.drawCentredString(pw / 2, ph - m - 12 * mm, "Lisa AV | Kirjalik | Konfidentsiaalne | Vahemalt 2 hindajat")
+    sub = "Lisa BD | Riigisektor | Konfidentsiaalne | Vahemalt 2 hindajat" if riik else "Lisa AV | Kirjalik | Konfidentsiaalne | Vahemalt 2 hindajat"
+    c.drawCentredString(pw / 2, ph - m - 12 * mm, sub)
 
     y = ph - m - 22 * mm
     c.setFillColor(GRAY)
@@ -91,7 +101,7 @@ def build_form_pdf():
     y2 = y + 7 * mm
     y2 = draw_line_field(c, m + w * 0.58, y2, "Vorm:", w * 0.38, label_w=18 * mm)
     c.setFont("Helvetica", 7)
-    c.drawString(m + w * 0.58 + 18 * mm, y2 - 4 * mm, "PERE / MEESKOND / SOK")
+    c.drawString(m + w * 0.58 + 18 * mm, y2 - 4 * mm, "PERE / MEESKOND / SOK / RIIK" if riik else "PERE / MEESKOND / SOK")
     y -= 2 * mm
     y = draw_line_field(c, m, y, "Hindaja (nimi):", w)
     y -= 4 * mm
@@ -102,7 +112,7 @@ def build_form_pdf():
     right_x = m + col_w + 6 * mm
     y_left = y
     y_right = y
-    for i, (title, hint) in enumerate(CRITERIA):
+    for i, (title, hint) in enumerate(criteria):
         if i % 2 == 0:
             y_left = draw_comment_box(c, left_x, y_left, col_w, title, hint, lines=2)
         else:
@@ -164,22 +174,24 @@ def build_form_pdf():
         "Ennast keegi ise ei hinda | Turvalisus enne loogikat (Lisa P) | Prindi uus leht iga hindaja kohta",
     )
     c.save()
-    print(f"Generated: {FORM_PDF}")
+    print(f"Generated: {out}")
 
 
-def build_plankett_pdf():
-    """A5 uksuse plankett - seinale / kausta kaanele."""
-    c = canvas.Canvas(str(PLANKETT_PDF), pagesize=A5)
-    pw, ph = A5
+def build_plankett_pdf(riik=False):
+    """A5/A4 plankett - seinale / kausta kaanele."""
+    out = RIIK_PLANKETT_PDF if riik else PLANKETT_PDF
+    pagesize = A4 if riik else A5
+    c = canvas.Canvas(str(out), pagesize=pagesize)
+    pw, ph = pagesize
     m = 10 * mm
 
     c.setFillColor(GREEN)
     c.rect(0, ph - 22 * mm, pw, 22 * mm, fill=1, stroke=0)
     c.setFillColor(colors.white)
     c.setFont("Helvetica-Bold", 12)
-    c.drawCentredString(pw / 2, ph - 10 * mm, "PEEGLI PLANKETT")
+    c.drawCentredString(pw / 2, ph - 10 * mm, "PEEGLI PLANKETT" + (" — RIIK" if riik else ""))
     c.setFont("Helvetica", 7)
-    c.drawCentredString(pw / 2, ph - 16 * mm, "Lisa AV | Iga pere ja uksus")
+    c.drawCentredString(pw / 2, ph - 16 * mm, "Lisa BD | Asutus ja riigisektor" if riik else "Lisa AV | Iga pere ja uksus")
 
     y = ph - 30 * mm
     c.setFillColor(GREEN)
@@ -194,7 +206,7 @@ def build_plankett_pdf():
     rules = [
         "1. Kirjalikult. Prindi vorm. Taida enne vestlust.",
         "2. Vahemalt KAKS hindajat. Iseenda hinnang ei loe.",
-        "3. Kuus (pere) voi kvartal (meeskond).",
+        "3. Kvartal (juhtkond) voi 2x aastas (esiliin)." if riik else "3. Kuus (pere) voi kvartal (meeskond).",
         "4. Uks tegu parast - mitte ainult kriitika.",
         "5. Konfidentsiaalne. Mitte grupivestlusesse.",
     ]
@@ -209,11 +221,12 @@ def build_plankett_pdf():
 
     c.setFont("Helvetica-Bold", 8)
     c.setFillColor(GREEN)
-    c.drawString(m, y, "6 kriteeriumi (kirjuta konkreetsed naited vormile):")
+    c.drawString(m, y, "8 kriteeriumi (Lisa BD):" if riik else "6 kriteeriumi (kirjuta konkreetsed naited vormile):")
     y -= 5 * mm
     c.setFont("Helvetica", 7.5)
     c.setFillColor(GRAY)
-    for title, _ in CRITERIA:
+    all_c = list(CRITERIA) + (list(RIIK_EXTRA) if riik else [])
+    for title, _ in all_c:
         c.drawString(m + 2 * mm, y, f"- {title}")
         y -= 4.5 * mm
 
@@ -231,9 +244,9 @@ def build_plankett_pdf():
     c.drawCentredString(pw / 2, y - 9 * mm, "Peegel naitab seda, mida ise ei nae.")
 
     c.setFont("Helvetica", 6)
-    c.drawCentredString(pw / 2, 6 * mm, "PEEGEL_HINDAMISVORM_PRINT.pdf | Lamineeri | Hoia uksuse kaustas")
+    c.drawCentredString(pw / 2, 6 * mm, ("PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf" if riik else "PEEGEL_HINDAMISVORM_PRINT.pdf") + " | Lamineeri | Hoia uksuse kaustas")
     c.save()
-    print(f"Generated: {PLANKETT_PDF}")
+    print(f"Generated: {out}")
 
 
 def build_mini_pdf():
@@ -284,9 +297,11 @@ def build_mini_pdf():
 
 
 def main():
-    build_form_pdf()
-    build_plankett_pdf()
+    build_form_pdf(riik=False)
+    build_plankett_pdf(riik=False)
     build_mini_pdf()
+    build_form_pdf(riik=True)
+    build_plankett_pdf(riik=True)
 
 
 if __name__ == "__main__":

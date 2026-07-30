@@ -72,6 +72,7 @@ LISA_FILES = [
     "lisa-bc-digitaalne-detoks-ja-nuputelefon.md",
     "lisa-bd-riiklik-peegel-hindamisvorm.md",
     "lisa-be-kaaslase-hindamine-ranger.md",
+    "lisa-bf-suhte-hindamise-toovihik.md",
     "renee-aluste-profiil.md",
 ]
 

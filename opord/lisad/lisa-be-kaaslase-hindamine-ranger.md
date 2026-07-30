@@ -6,11 +6,11 @@
 
 ## Olemasolev suhte hindamise vorm — ära dubleeri
 
-**Suhte hindamise vorm on juba olemas:** Lisa AV, vorm **AV-PERE** — `PEEGEL_HINDAMISVORM_PRINT.pdf`.
+**Suhte hindamise töövihik on juba olemas:** Lisa BF — `SUHTE_HINDAMISE_TOOVIHIK_KATA_JA_LIIGU.pdf` (SOK 24, *Kata ja liigu*, sama taseme juhid).
 
-Lisa BE **ei ole** teine hindamisvorm. See on **mikropeegel**: igapäevane tagasiside ja taskukaart, mis **toidab** kuist suhte hindamise vormi. Kui sul on AV-PERE prinditud ja protsess käimas — kasuta BE-d ainult vahepealsete näidete kogumiseks.
+Lisa BE **ei ole** teine hindamisvorm. See on **mikropeegel**: igapäevane tagasiside, mis **toidab** töövihikut (meeskond/SOK) või Lisa AV **AV-PERE** vormi (pere/partner). Kui töövihik on olemas — kasuta BE-d ainult vahepealsete näidete kogumiseks.
 
-**Seotud:** Lisa AV (suhte hindamise vorm — AV-PERE), Lisa Q (GOTWA alguses), Lisa P (trauma-teadlik tagasiside), Lisa BD (riiklik vorm), Lisa N (demomees)
+**Seotud:** Lisa BF (suhte hindamise töövihik), Lisa AV (AV-PERE perele), Lisa Q (GOTWA, kata ja liigu), Lisa P (trauma-teadlik tagasiside), Lisa BD (riiklik vorm), Lisa N (demomees)
 
 **Prindi:**
 
@@ -43,10 +43,10 @@ Ranger Schoolis ei oota sa kolme kuud kuni keegi ütleb, mis valesti oli. **Iga p
 | Kiht | Tööriist | Millal |
 |------|----------|--------|
 | **1. Igapäev** | Lisa BE — kaaslase hindamine | Iga olukord, sobival hetkel |
-| **2. Sügav** | Lisa AV — **suhte hindamise vorm** (AV-PERE) / meeskonna vorm | Kuu (pere) / kvartal (meeskond) |
+| **2. Sügav** | Lisa BF — **suhte hindamise töövihik** / Lisa AV (AV-PERE perele) | Kui suhe vajab parandamist / kuu (pere) |
 | **3. Riiklik** | Lisa BD — AV-RIIK | Kvartal / 2× aastas (asutus) |
 
-**BE ei asenda AV-d.** BE on **mikropeegel** — AV (sh suhte hindamise vorm) on **sügav peegel**.
+**BE ei asenda BF-d ega AV-d.** BE on **mikropeegel** — töövihik (BF) või AV-PERE on **sügav peegel**.
 
 ---
 
@@ -120,7 +120,18 @@ MIS VÕIKS TEISITI: _______________________
 Luure sama olukorras uuesti?  ? Jah  ? Ei
 ```
 
-Kui sama inimene kordub — kogu nädalas, võta **suhte hindamise vorm** (Lisa AV, AV-PERE) ette.
+Kui sama inimene kordub — kogu nädalas, võta **suhte hindamise töövihik** (Lisa BF) või **AV-PERE** (Lisa AV) ette.
+
+---
+
+## BE ? BF voog (sama taseme juhid / SOK)
+
+| Samm | Millal | Mida teed |
+|------|--------|-----------|
+| 1 | **Iga päev** | BE taskukaart või 4 lause — üks situatsioon |
+| 2 | **Kui kordub** | Täida **töövihik** — Usalda/austa + Kuula/mõjuta |
+| 3 | **Enne vestlust** | Nelja küsimuse tegevusplaan (Lisa BF) |
+| 4 | **Vestlus** | Lisa P; üks tegu kolleegiga |
 
 ---
 
@@ -133,7 +144,7 @@ Kui sama inimene kordub — kogu nädalas, võta **suhte hindamise vorm** (Lisa AV, 
 | 3 | **Kuu lõpus** | Täida **AV-PERE** (`PEEGEL_HINDAMISVORM_PRINT.pdf`) — BE märkmed ? konkreetsed read vormil |
 | 4 | **Vestlus** | 15–20 min vormi põhjal; üks tegu järgmiseks kuuks |
 
-**Meeskonnas:** sama loogika — BE igapäev, AV-MEESKOND kvartalis.
+**Meeskonnas (ametlik):** BE igapäev, AV-MEESKOND kvartalis.
 
 ---
 
@@ -155,4 +166,4 @@ Kui sama inimene kordub — kogu nädalas, võta **suhte hindamise vorm** (Lisa AV, 
 
 ---
 
-*Lisa BE — Kaaslase hindamine. Täiendab olemasolevat suhte hindamise vormi (Lisa AV) ja riiklikku peeglit (Lisa BD). Viimati uuendatud: 2026-07-30.*
+*Lisa BE — Kaaslase hindamine. Täiendab olemasolevat suhte hindamise töövihikut (Lisa BF) ja pere vormi (Lisa AV). Viimati uuendatud: 2026-07-30.*

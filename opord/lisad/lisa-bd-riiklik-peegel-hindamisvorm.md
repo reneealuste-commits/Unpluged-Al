@@ -13,7 +13,8 @@
 | [PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf](../PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf) | **A4** — juht, kolleeg, allüksuse juht (iga hindaja eraldi) |
 | [PEEGEL_RIIK_PLANKETT.pdf](../PEEGEL_RIIK_PLANKETT.pdf) | **A3/A4 sein** — asutuse fuajee, personaliruum, õppejõudude tuba |
 | [PEER_HINDAMINE_RAHAKOTT.pdf](../PEER_HINDAMINE_RAHAKOTT.pdf) | **85×55 mm** — igapäevane kaaslase hindamine (Lisa BE) |
-| [PEEGEL_HINDAMISVORM_PRINT.pdf](../PEEGEL_HINDAMISVORM_PRINT.pdf) | **Suhte hindamise vorm** / pere (Lisa AV — AV-PERE) |
+| [PEEGEL_HINDAMISVORM_PRINT.pdf](../PEEGEL_HINDAMISVORM_PRINT.pdf) | Pere / partner (Lisa AV — AV-PERE) |
+| [SUHTE_HINDAMISE_TOOVIHIK_KATA_JA_LIIGU.pdf](../SUHTE_HINDAMISE_TOOVIHIK_KATA_JA_LIIGU.pdf) | **Suhte hindamise töövihik** — sama taseme juhid (Lisa BF) |
 
 Genereeri: `python3 generate_hindamisvorm_pdf.py`
 
@@ -30,7 +31,8 @@ Riiklikul tasandil on peegel **hindamisvorm**. Vorm on plankett. Vestlus on prot
 | Tase | Vorm | Sagedus |
 |------|------|---------|
 | **Iga päev** | **AV-PEER (Lisa BE)** | Iga olukord — alguses + sobival hetkel |
-| **Kodu** | **Suhte hindamise vorm** (AV-PERE, Lisa AV) | 1× kuus |
+| **Kodu** | AV-PERE (Lisa AV) | 1× kuus |
+| **Sama taseme juhid** | **Suhte hindamise töövihik** (Lisa BF) | Kui suhe vajab parandamist / kvartal |
 | **Meeskond / SOK** | AV-MEESKOND / AV-SOK | 1× kvartal |
 | **Asutus / riigisektor** | **AV-RIIK** (see lisa) | 1× kvartal (juhtkond), 2× aastas (ülejäänud) |
 

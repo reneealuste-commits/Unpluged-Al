@@ -330,7 +330,7 @@ NO_EMAIL = [
     ("Peeter J\u00e4rvsoo", "Noorte Kotkad", "nooredkotkad.ee", "Lisa K \u00a73.10"),
     ("Andrei Ambros", "Harku judo", "estjutsu.ee", "Lisa K \u00a73.10"),
     ("Eero Kinnunen", "Veteranid", "ekvv.ee", "Lisa K \u00a73.11"),
-    ("Tervisekeskuse KV ps\u00fchholoog", "Kaitsev\u00e4e ps\u00fchholoog tervisekeskuse s\u00fcsteemis", "Tervisekeskuse s\u00fcsteem (anon\u00fc\u00fcmne roll)", "Lisa K \u00a73.11"),
+    ("Kapten Mets", "KV ps\u00fchholoog tervisekeskuse s\u00fcsteemis", "Tervisekeskuse s\u00fcsteem (Lisa BE)", "Lisa K \u00a73.11"),
     ("Margus L\u00f5oke", "KV mustri tunnistaja", "Isiklik kontakt Renee", "Lisa K \u00a73.2b"),
 ]
 

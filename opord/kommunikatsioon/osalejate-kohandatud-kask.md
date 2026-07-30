@@ -734,7 +734,7 @@ Asjatundlik, praktiline. Lisa Q austav keel. Mitte masspostitus.
 | Peeter Järvsoo | Noorte Kotkad | nooredkotkad.ee |
 | Andrei Ambros | Harku judo | estjutsu.ee |
 | Eero Kinnunen | Veteranid | ekvv.ee |
-| Tervisekeskuse KV psühholoog | Kaitseväe psühholoog tervisekeskuse süsteemis | Tervisekeskuse süsteem (anonüümne roll) |
+| Kapten Mets | KV psühholoog tervisekeskuse süsteemis | Tervisekeskuse süsteem (Lisa BE) |
 | Margus Lõoke | KV mustri tunnistaja | Isiklik kontakt Renee |
 
 ---

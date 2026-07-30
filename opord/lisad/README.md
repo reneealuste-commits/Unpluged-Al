@@ -58,6 +58,8 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | BD | [lisa-bd-riiklik-peegel-hindamisvorm.md](lisa-bd-riiklik-peegel-hindamisvorm.md) | **Riiklik peegel** — AV-RIIK riigisektoris; `PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf` |
 | BE | [lisa-be-kaaslase-hindamine-ranger.md](lisa-be-kaaslase-hindamine-ranger.md) | **Kaaslase hindamine** — Ranger mikropeegel, iga päev; toidab Lisa BF ja AV |
 | BF | [lisa-bf-suhte-hindamise-toovihik.md](lisa-bf-suhte-hindamise-toovihik.md) | **Suhte hindamise töövihik** — SOK 24, kata ja liigu; `SUHTE_HINDAMISE_TOOVIHIK_KATA_JA_LIIGU.pdf` |
+| BG | [lisa-bg-inimesekeskne-juhtimine-oppekava.md](lisa-bg-inimesekeskne-juhtimine-oppekava.md) | **IJK õppekava** — Steiger 12-nädalane programm, K0–K3 |
+| BH | [lisa-bh-inimesekeskne-juhtimine-ainekava.md](lisa-bh-inimesekeskne-juhtimine-ainekava.md) | **IJK ainekava** — 6 moodulit, tunnid, ülesanded, hindamine |
 | AW | [lisa-aw-motlemine-kiiresti-ja-aeglaselt.md](lisa-aw-motlemine-kiiresti-ja-aeglaselt.md) | **Mõtlemine kiiresti ja aeglaselt** — Kahneman; System 1/2, mõttevead, stress, kelnerilaua lugu |
 | AX | [lisa-ax-demo-perekond-ja-eeskujud.md](lisa-ax-demo-perekond-ja-eeskujud.md) | **Demo-perekond** — pereväärtuste promijad, eeskujude välja toomine, värbamisoskus |
 | AY | [lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md](lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md) | **Kuldne sild** — Sun Tzu + Art of the Deal; esimene manööver; AI; juhtide kutse |

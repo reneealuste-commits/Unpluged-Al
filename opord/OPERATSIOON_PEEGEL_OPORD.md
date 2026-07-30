@@ -23,6 +23,7 @@
 **Suhte hindamise töövihik (Lisa BF):** [SUHTE_HINDAMISE_TOOVIHIK_KATA_JA_LIIGU.pdf](SUHTE_HINDAMISE_TOOVIHIK_KATA_JA_LIIGU.pdf) — SOK 24, kata ja liigu, sama taseme juhid
 **Riiklik peegel (Lisa BD):** [PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf](PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf) · [PEEGEL_RIIK_PLANKETT.pdf](PEEGEL_RIIK_PLANKETT.pdf) — hindamisvorm riigisektoris 
 **Kaaslase hindamine (Lisa BE):** [PEER_HINDAMINE_RAHAKOTT.pdf](PEER_HINDAMINE_RAHAKOTT.pdf) · [PEER_HINDAMINE_SOP_PRINT.pdf](PEER_HINDAMINE_SOP_PRINT.pdf) — Ranger mikropeegel, iga päev; **toidab** töövihikut (BF) ja AV-PERE
+**Inimesekeskne juhtimine (Lisa BG/BH):** [õppekava](lisad/lisa-bg-inimesekeskne-juhtimine-oppekava.md) · [ainekava](lisad/lisa-bh-inimesekeskne-juhtimine-ainekava.md) — Steiger 12-nädalane IJK programm (tee F)
 **Podcastid (eesti keeles):** [Papsid.ee](https://papsid.ee/podcast/) (isa/pere) · [Maatriksi Lapsed](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) (laste kaitse) 
 **Meedia keel:** eesti keel primaarselt — [`soovitus-meedia-eesti-primaar.md`](kommunikatsioon/soovitus-meedia-eesti-primaar.md) 
 **Repo / PR:** [github.com/reneealuste-commits/Unpluged-Al/pull/1](https://github.com/reneealuste-commits/Unpluged-Al/pull/1)
@@ -2749,6 +2750,8 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **BD** | — | `lisad/lisa-bd-riiklik-peegel-hindamisvorm.md` | **Riiklik peegel** — AV-RIIK, hindamisvorm asutustes ja riigisektoris |
 | **BE** | — | `lisad/lisa-be-kaaslase-hindamine-ranger.md` | **Kaaslase hindamine** — Ranger mikropeegel, iga päev; toidab Lisa BF ja AV |
 | **BF** | — | `lisad/lisa-bf-suhte-hindamise-toovihik.md` | **Suhte hindamise töövihik** — SOK 24, kata ja liigu, sama taseme juhid |
+| **BG** | — | `lisad/lisa-bg-inimesekeskne-juhtimine-oppekava.md` | **IJK õppekava** — inimesekeskne juhtimine, 12 nädalat, K0–K3 |
+| **BH** | — | `lisad/lisa-bh-inimesekeskne-juhtimine-ainekava.md` | **IJK ainekava** — 6 moodulit, praktikumid, hindamine |
 | **AW** | — | `lisad/lisa-aw-motlemine-kiiresti-ja-aeglaselt.md` | **Mõtlemine kiiresti ja aeglaselt** — Kahneman; System 1/2, mõttevead, stress, kelnerilaua lugu |
 | **AX** | — | `lisad/lisa-ax-demo-perekond-ja-eeskujud.md` | **Demo-perekond** — pereväärtuste promijad, eeskujude välja toomine, värbamisoskus |
 | **AY** | — | `lisad/lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md` | **Kuldne sild** — Sun Tzu + Art of the Deal; esimene manööver; K0 mini-kursus |

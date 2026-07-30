@@ -501,7 +501,7 @@ Kogu see operatsioon seisneb ühel küsimusel, mille Steiger pani 1997. aastal p
 
 | Lõpetasid | Ava |
 |-----------|-----|
-| Juht / koolitaja (tee F) | Lisa **P** → Lisa **L** |
+| Juht / koolitaja (tee F) | Lisa **BG** → Lisa **BH** → Lisa **P** → Lisa **L** |
 | Demomees | Lisa **N** → Lisa **Q** |
 | Tahad raamatut | Steiger ISBN **9985901274** (Heli Illipe-Sootak) |
 | Kinni jäid | Lisa **AT** rida #7 |

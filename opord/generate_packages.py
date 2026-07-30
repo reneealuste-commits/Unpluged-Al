@@ -41,7 +41,14 @@ PACKAGES = {
     },
     "P1-TEE-F-JUHT": {
         "pdfs": ["PEEGEL_TEE_F.pdf"],
-        "readme": "Tee F \u2014 juht / koolitus.\n",
+        "readme": (
+            "Tee F \u2014 juht / koolitus.\n"
+            "Lisa BG (oppekava) + Lisa BH (ainekava) \u2014 12-nadaline IJK programm.\n"
+        ),
+        "extras": [
+            "lisad/lisa-bg-inimesekeskne-juhtimine-oppekava.md",
+            "lisad/lisa-bh-inimesekeskne-juhtimine-ainekava.md",
+        ],
     },
     "P2-TAIS": {
         "pdfs": ["OPERATSIOON_PEEGEL_OPORD.pdf"],
@@ -88,6 +95,12 @@ def build_sidepakkid() -> None:
                 shutil.copy2(src, pkg_dir / pdf_name)
             else:
                 print(f"  WARN missing PDF for {pkg_name}: {pdf_name}")
+        for extra in cfg.get("extras", []):
+            src = BASE / extra
+            if src.exists():
+                shutil.copy2(src, pkg_dir / Path(extra).name)
+            else:
+                print(f"  WARN missing extra for {pkg_name}: {extra}")
 
     with zipfile.ZipFile(ZIP_SIDEPAKKID, "w", zipfile.ZIP_DEFLATED) as zf:
         for path in sorted(SIDEPAKKID.rglob("*")):

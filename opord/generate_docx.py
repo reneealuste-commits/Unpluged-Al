@@ -73,6 +73,8 @@ LISA_FILES = [
     "lisa-bd-riiklik-peegel-hindamisvorm.md",
     "lisa-be-kaaslase-hindamine-ranger.md",
     "lisa-bf-suhte-hindamise-toovihik.md",
+    "lisa-bg-inimesekeskne-juhtimine-oppekava.md",
+    "lisa-bh-inimesekeskne-juhtimine-ainekava.md",
     "renee-aluste-profiil.md",
 ]
 

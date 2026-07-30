@@ -20,7 +20,8 @@
 **Lood ja konversioon (Lisa AD):** [LOO_CHECKLIST_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/LOO_CHECKLIST_PRINT.pdf) · [LOO_TASKUKAARDID_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/LOO_TASKUKAARDID_PRINT.pdf) · [LOO_TASKUKAARDID_RAHAKOTT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/LOO_TASKUKAARDID_RAHAKOTT.pdf) 
 **Õhk ja olukorra teadlikkus (Lisa AE):** [OLUKORDA_TEADLIKKUS_SOP_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OLUKORDA_TEADLIKKUS_SOP_PRINT.pdf) · [OLUKORDA_TEADLIKKUS_TASKUKAARDID_RAHAKOTT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OLUKORDA_TEADLIKKUS_TASKUKAARDID_RAHAKOTT.pdf) 
 **Peegli hindamisvorm (Lisa AV):** [PEEGEL_HINDAMISVORM_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/PEEGEL_HINDAMISVORM_PRINT.pdf) · [plankett A5](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/PEEGEL_HINDAMISVORM_PLANKETT.pdf) · [rahakott 85×55mm](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/PEEGEL_HINDAMISVORM_RAHAKOTT.pdf) 
-**Riiklik peegel (Lisa BD):** [PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf](PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf) · [PEEGEL_RIIK_PLANKETT.pdf](PEEGEL_RIIK_PLANKETT.pdf) — hindamisvorm riigisektoris
+**Riiklik peegel (Lisa BD):** [PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf](PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf) · [PEEGEL_RIIK_PLANKETT.pdf](PEEGEL_RIIK_PLANKETT.pdf) — hindamisvorm riigisektoris 
+**Kaaslase hindamine (Lisa BE):** [PEER_HINDAMINE_RAHAKOTT.pdf](PEER_HINDAMINE_RAHAKOTT.pdf) · [PEER_HINDAMINE_SOP_PRINT.pdf](PEER_HINDAMINE_SOP_PRINT.pdf) — Ranger mudel, iga päev
 **Podcastid (eesti keeles):** [Papsid.ee](https://papsid.ee/podcast/) (isa/pere) · [Maatriksi Lapsed](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) (laste kaitse) 
 **Meedia keel:** eesti keel primaarselt — [`soovitus-meedia-eesti-primaar.md`](kommunikatsioon/soovitus-meedia-eesti-primaar.md) 
 **Repo / PR:** [github.com/reneealuste-commits/Unpluged-Al/pull/1](https://github.com/reneealuste-commits/Unpluged-Al/pull/1)
@@ -2745,6 +2746,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **AU** | — | `lisad/lisa-au-vastase-analuusi-taiendus.md` | **Vastase analüüs** — mitme vektori mõjutus (RU + platvormid), faktikontroll |
 | **AV** | — | `lisad/lisa-av-peegel-hindamisvorm.md` | **Peegli hindamisvorm** — pere, meeskond, SOK; MKKo → peegel, dialoog |
 | **BD** | — | `lisad/lisa-bd-riiklik-peegel-hindamisvorm.md` | **Riiklik peegel** — AV-RIIK, hindamisvorm asutustes ja riigisektoris |
+| **BE** | — | `lisad/lisa-be-kaaslase-hindamine-ranger.md` | **Kaaslase hindamine** — Ranger peer eval, iga päev ja olukord |
 | **AW** | — | `lisad/lisa-aw-motlemine-kiiresti-ja-aeglaselt.md` | **Mõtlemine kiiresti ja aeglaselt** — Kahneman; System 1/2, mõttevead, stress, kelnerilaua lugu |
 | **AX** | — | `lisad/lisa-ax-demo-perekond-ja-eeskujud.md` | **Demo-perekond** — pereväärtuste promijad, eeskujude välja toomine, värbamisoskus |
 | **AY** | — | `lisad/lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md` | **Kuldne sild** — Sun Tzu + Art of the Deal; esimene manööver; K0 mini-kursus |

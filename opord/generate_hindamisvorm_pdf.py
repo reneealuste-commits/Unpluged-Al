@@ -19,6 +19,8 @@ PLANKETT_PDF = BASE / "PEEGEL_HINDAMISVORM_PLANKETT.pdf"
 MINI_PDF = BASE / "PEEGEL_HINDAMISVORM_RAHAKOTT.pdf"
 RIIK_FORM_PDF = BASE / "PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf"
 RIIK_PLANKETT_PDF = BASE / "PEEGEL_RIIK_PLANKETT.pdf"
+PEER_MINI_PDF = BASE / "PEER_HINDAMINE_RAHAKOTT.pdf"
+PEER_SOP_PDF = BASE / "PEER_HINDAMINE_SOP_PRINT.pdf"
 
 CRITERIA = [
     ("Initsiatiiv", "Kas ta teeb ara ilma, et keegi palub?"),
@@ -296,12 +298,119 @@ def build_mini_pdf():
     print(f"Generated: {MINI_PDF}")
 
 
+def build_peer_mini_pdf():
+    """85x55 mm — igapaevane kaaslase hindamine (Lisa BE)."""
+    c = canvas.Canvas(str(PEER_MINI_PDF), pagesize=A4)
+    pw, ph = A4
+    cw, ch = 85 * mm, 55 * mm
+    cols, rows = 2, 4
+    gap_x = (pw - cols * cw) / (cols + 1)
+    gap_y = (ph - rows * ch) / (rows + 1)
+
+    fields = [
+        "KAASLASE HINDAMINE",
+        "Lisa BE | Ranger mudel",
+        "",
+        "OLUKORD:",
+        "MIS TOIMIS:",
+        "MIS VOIB TEISITI:",
+        "UKS SOOVITUS:",
+        "Luure uuesti? J / E",
+    ]
+
+    for i in range(6):
+        col = i % cols
+        row = rows - 1 - (i // cols)
+        x = gap_x + col * (cw + gap_x)
+        y = gap_y + row * (ch + gap_y)
+        c.setStrokeColor(GREEN)
+        c.rect(x, y, cw, ch, fill=0, stroke=1)
+        c.setFillColor(GREEN)
+        c.rect(x, y + ch - 9 * mm, cw, 9 * mm, fill=1, stroke=0)
+        c.setFillColor(colors.white)
+        c.setFont("Helvetica-Bold", 6.5)
+        c.drawCentredString(x + cw / 2, y + ch - 5.5 * mm, "PEER | Iga paev")
+        c.setFillColor(GRAY)
+        ty = y + ch - 12 * mm
+        for line in fields:
+            c.setFont("Helvetica-Bold" if line.endswith(":") else "Helvetica", 5.5 if line.endswith(":") else 5)
+            c.drawString(x + 2 * mm, ty, line)
+            ty -= 3.8 * mm
+
+    c.setFont("Helvetica", 7)
+    c.drawCentredString(pw / 2, 5 * mm, "85x55 mm | Lisa BE | Kaaslase hindamine")
+    c.save()
+    print(f"Generated: {PEER_MINI_PDF}")
+
+
+def build_peer_sop_pdf():
+    """A5 — millal ja kuidas (Lisa BE)."""
+    c = canvas.Canvas(str(PEER_SOP_PDF), pagesize=A5)
+    pw, ph = A5
+    m = 10 * mm
+
+    c.setFillColor(GREEN)
+    c.rect(0, ph - 20 * mm, pw, 20 * mm, fill=1, stroke=0)
+    c.setFillColor(colors.white)
+    c.setFont("Helvetica-Bold", 11)
+    c.drawCentredString(pw / 2, ph - 9 * mm, "KAASLASE HINDAMINE")
+    c.setFont("Helvetica", 7)
+    c.drawCentredString(pw / 2, ph - 15 * mm, "Lisa BE | Ranger School mudel")
+
+    y = ph - 28 * mm
+    c.setFillColor(GREEN)
+    c.setFont("Helvetica-Bold", 9)
+    c.drawString(m, y, "Millal:")
+    y -= 6 * mm
+    c.setFillColor(GRAY)
+    c.setFont("Helvetica", 8)
+    for t in [
+        "ALGUSES — 60 sek: eesmark, rollid, STOP, debrief aeg (nagu GOTWA)",
+        "PARAST — sobival hetkel: 4 lauset (olukord, nain, mojutas, soovitus)",
+        "IGA PAEV — vahemalt uks aus tagasiside kaaslasele",
+    ]:
+        c.drawString(m + 2 * mm, y, f"- {t}")
+        y -= 5 * mm
+
+    y -= 3 * mm
+    c.setFillColor(GREEN)
+    c.setFont("Helvetica-Bold", 9)
+    c.drawString(m, y, "4 lauset:")
+    y -= 6 * mm
+    c.setFillColor(GRAY)
+    c.setFont("Helvetica", 7.5)
+    for t in [
+        "1. OLUKORD: mis juhtus",
+        "2. NAGIN: konkreetne tegu (mitte silt)",
+        "3. MOJUTAS: kuidas see mojutas",
+        "4. SOOVITUS: uks asi jargmiseks",
+    ]:
+        c.drawString(m + 2 * mm, y, t)
+        y -= 4.5 * mm
+
+    y -= 3 * mm
+    c.setFillColor(LIGHT)
+    c.rect(m, y - 14 * mm, pw - 2 * m, 14 * mm, fill=1, stroke=0)
+    c.setFillColor(GRAY)
+    c.setFont("Helvetica-Oblique", 7)
+    c.drawCentredString(pw / 2, y - 5 * mm, "Iga paev = mikropeegel (BE)")
+    c.drawCentredString(pw / 2, y - 9 * mm, "Kuu/kvartal = sugav peegel (Lisa AV)")
+    c.drawCentredString(pw / 2, y - 13 * mm, "Turvalisus enne loogikat (Lisa P)")
+
+    c.setFont("Helvetica", 6)
+    c.drawCentredString(pw / 2, 6 * mm, "PEER_HINDAMINE_RAHAKOTT.pdf | Lamineeri")
+    c.save()
+    print(f"Generated: {PEER_SOP_PDF}")
+
+
 def main():
     build_form_pdf(riik=False)
     build_plankett_pdf(riik=False)
     build_mini_pdf()
     build_form_pdf(riik=True)
     build_plankett_pdf(riik=True)
+    build_peer_mini_pdf()
+    build_peer_sop_pdf()
 
 
 if __name__ == "__main__":

@@ -71,6 +71,7 @@ LISA_FILES = [
     "lisa-bb-hannes-vorno-haridus-ja-toitumine.md",
     "lisa-bc-digitaalne-detoks-ja-nuputelefon.md",
     "lisa-bd-riiklik-peegel-hindamisvorm.md",
+    "lisa-be-kaaslase-hindamine-ranger.md",
     "renee-aluste-profiil.md",
 ]
 

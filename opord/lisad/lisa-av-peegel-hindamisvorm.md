@@ -5,7 +5,7 @@
 > **Ära loe kui:** oled kriisis — alusta Lisa H; ära kasuta vormi karistusena.
 
 **Allikas:** MKKo Maakaitse Kompanii *Võitleja hindamisvorm* — kohandatud Operatsioon „Peegel". 
-**Seotud:** Lisa I (Steiger — dialoog, mitte monoloog), Lisa P (trauma-teadlik tagasiside), Lisa M (peegel), Lisa N (demomees), Lisa Q (GOTWA), Lisa AT (lihtsus)
+**Seotud:** Lisa I (Steiger — dialoog, mitte monoloog), Lisa P (trauma-teadlik tagasiside), Lisa M (peegel), Lisa N (demomees), Lisa Q (GOTWA), Lisa AT (lihtsus), **Lisa BE (kaaslase hindamine — iga päev)**
 
 **Prindi (kirjalik — see on põhiviis):**
 
@@ -35,7 +35,7 @@ Steiger (Lisa I): hindamine on **kahepoolne dialoog**, mitte ülemuse monoloog.
 
 ---
 
-## Neli vormi — üks tuum
+## Neli vormi + igapäevane peer
 
 | Vorm | Kus | Sagedus | Kes hindab |
 |------|-----|---------|------------|
@@ -43,6 +43,7 @@ Steiger (Lisa I): hindamine on **kahepoolne dialoog**, mitte ülemuse monoloog.
 | **AV-MEESKOND** | Töö, kool, MTÜ | 1× kvartal | Juht + 2 kolleegi iga liikme kohta |
 | **AV-SOK** | Aluste_kool demomehed | 1× kvartal + pärast suurt sündmust | Ringis: igaüks saab 2 häält (mitte enda) |
 | **AV-RIIK** | Asutus, riigisektor | 1× kvartal (juhtkond) / 2× aastas (esiliin) | Vt **Lisa BD** — `PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf` |
+| **AV-PEER (BE)** | Iga meeskond, kool, üksus | **Iga päev** — situatsioonipõhine | Vt **Lisa BE** — `PEER_HINDAMINE_RAHAKOTT.pdf` |
 
 **Reegel:** Iga hinnatav saab **vähemalt 2** täidetud vormi + **ühe** iserefleksiooni. Iserefleksioon üksi **ei ole** hindamine.
 

@@ -54,10 +54,12 @@ PACKAGES = {
         "pdfs": [
             "PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf",
             "PEEGEL_RIIK_PLANKETT.pdf",
+            "PEER_HINDAMINE_RAHAKOTT.pdf",
+            "PEER_HINDAMINE_SOP_PRINT.pdf",
         ],
         "readme": (
-            "Riiklik peegel \u2014 Lisa BD. Hindamisvorm juhtkonnale ja esiliinile.\n"
-            "Kvartal + 2 hindajat + luurekusimus + uks tegu.\n"
+            "Riiklik peegel \u2014 Lisa BD + BE.\n"
+            "Kvartal (vorm) + iga paev (peer). Luurekusimus + uks tegu.\n"
         ),
     },
 }

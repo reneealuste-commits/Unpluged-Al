@@ -121,6 +121,70 @@ def main():
         add_centered(doc, f"- {line}", space_after=6)
 
     add_heading_centered(doc, "Loodusseadus ja vastastikmõju", level=2)
+
+    add_heading_centered(doc, "Konversioonilugu - kuidas ma sinna jõudsin", level=2)
+    add_centered(doc, "Ma ei teadnud pikka aega, mida ma tegelikult teen.", italic=True, size=12, space_after=10)
+    add_centered(
+        doc,
+        "Elasin, reageerisin, põrkasin inimestega kokku - aga mul polnud strateegiat. "
+        "Ma ei teadnud, miks mõned suhted lagunevad ja teised püsivad. "
+        "Ma ei teadnud, miks mõnikord tundus, et annan liiga palju, ja mõnikord liiga vähe. "
+        "Lihtsalt elasin edasi, ilma raamita.",
+        size=11,
+        space_after=10,
+    )
+    add_centered(
+        doc,
+        "Siis sattusin YouTube'i peale. Üks video rääkis strateegiatest - "
+        "kuidas arvutiprogrammid võistlevad üksteise vastu, korduvalt, tuhandeid kordi. "
+        "Kokku oli 42 erinevat strateegiat. Igaüks püüdis võita. "
+        "Mõni oli alati kuri. Mõni alati hell. Mõni püüdis petta. Mõni andis alla.",
+        size=11,
+        space_after=10,
+    )
+    add_centered(
+        doc,
+        "Võitja oli tit-for-tat - vastastikmõju. "
+        "Alusta heana. Vasta samaga, mida saad. Kui teine on hea - ole hea. "
+        "Kui teine on kuri - sea piir. Ära löö kunagi esimesena.",
+        size=11,
+        space_after=10,
+    )
+    add_centered(
+        doc,
+        "See ei olnud lihtsalt arvutimäng. See oli päriselu. "
+        "Sellest sai mulle selgeks, miks mida külvad, seda lõikad on loodusseadus - "
+        "mitte ainult vana õpetus, vaid reegel, mis töötab inimeste, sõprade, "
+        "laste ja sinu enda vahel.",
+        size=11,
+        space_after=12,
+    )
+    add_centered(
+        doc,
+        "Tit-for-tat on ainus strateegia, kus keegi ei kaota.\n"
+        "Inimesed ei kaota. Sõbrad ei kaota.\n"
+        "Suhted lastega ei kaota. Ja sina ise ei kaota.",
+        bold=True,
+        size=12,
+        space_after=12,
+    )
+    add_centered(
+        doc,
+        "Sa ei pea olema nõrk ega kange. Sa ei pea andma ennast ära ega sõdima iga päev. "
+        "Sa alustad heana - sest see on see, mida sa tahad lõigata. "
+        "Ja kui keegi ei vasta heaga, sa ei jää vaikides kannatama. "
+        "Sa sead piiri. See on ausus. See on väärikus. See on loodusseadus.",
+        size=11,
+        space_after=10,
+    )
+    add_centered(
+        doc,
+        "Nii jõudsin ma siia. Mitte teooria kaudu. Elu kaudu. Ja ühe video kaudu, mis muutis kõik.",
+        italic=True,
+        size=11,
+        space_after=14,
+    )
+
     add_centered(
         doc,
         "Mida külvad, seda lõikad - see pole ainult vanasõna. See on loodusseadus.",

@@ -1,0 +1,212 @@
+#!/usr/bin/env python3
+"""Generate Kodaniku tõotus Word document in Estonian."""
+
+from docx import Document
+from docx.enum.text import WD_ALIGN_PARAGRAPH
+from docx.shared import Pt, Cm
+from docx.oxml.ns import qn
+from docx.oxml import OxmlElement
+
+
+def set_cell_shading(cell, color):
+    shading = OxmlElement("w:shd")
+    shading.set(qn("w:fill"), color)
+    shading.set(qn("w:val"), "clear")
+    cell._tc.get_or_add_tcPr().append(shading)
+
+
+def add_centered(doc, text, bold=False, size=12, italic=False, space_after=10):
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run(text)
+    run.bold = bold
+    run.italic = italic
+    run.font.size = Pt(size)
+    run.font.name = "Georgia"
+    p.paragraph_format.space_after = Pt(space_after)
+    return p
+
+
+def add_heading_centered(doc, text, level=1):
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run(text)
+    run.bold = True
+    run.font.size = Pt(18 if level == 1 else 14)
+    run.font.name = "Calibri"
+    p.paragraph_format.space_before = Pt(18)
+    p.paragraph_format.space_after = Pt(10)
+    return p
+
+
+def main():
+    doc = Document()
+    for section in doc.sections:
+        section.top_margin = Cm(2.5)
+        section.bottom_margin = Cm(2.5)
+        section.left_margin = Cm(2.5)
+        section.right_margin = Cm(2.5)
+
+    style = doc.styles["Normal"]
+    style.font.name = "Georgia"
+    style.font.size = Pt(12)
+
+    add_heading_centered(doc, "Kodaniku tõotus", level=1)
+    add_centered(doc, "Identiteet, mida võid kohe omaks võtta — mõtlemist pole vaja", italic=True, size=11)
+    add_centered(doc, "Kes ma olen?", bold=True, size=16, space_after=14)
+
+    add_centered(
+        doc,
+        "Sa ei pea ennast nullist leiutama.\nVõta see tõotus. See on nüüd sinu.",
+        italic=True,
+        size=12,
+        space_after=14,
+    )
+
+    add_centered(
+        doc,
+        "See tekst on kohandatud ametlikust Eesti kaitseväelase tõotusest "
+        "(kaitseväelase tõotus) — ümber kujundatud tavaliseks eluks: "
+        "naabritele, vanematele, töötajatele, õpilastele ja kõigile, "
+        "kes küsivad: kes ma olen?",
+        size=11,
+        space_after=16,
+    )
+
+    # Creed box
+    add_centered(doc, "KODANIKU TÕOTUS", bold=True, size=10, space_after=8)
+    creed = (
+        "Mina, inimene, tõotan jääda ustavaks tõele, väärikusele ja inimestele, "
+        "kes minust sõltuvad; kaitsta head endas ja teistes kogu oma mõistuse ja hoole eest; "
+        "olla valmis ohverdama mugavust ja ego selle eest, mis on õige; "
+        "hoida kinni sisemisest distsipliinist; ning täita oma kohustusi ausalt ja järjepidevalt, "
+        "teades, et vastasel korral maksan hinda ise."
+    )
+    p = add_centered(doc, creed, size=13, space_after=16)
+    for run in p.runs:
+        run.bold = False
+
+    add_centered(
+        doc,
+        "Allikas: Kohandatud Eesti kaitseväelase ametlikust tõotusest "
+        "(Kaitseväeteenistuse seadus § 10): "
+        "„Mina, (ees- ja perekonnanimi), tõotan jääda ustavaks demokraatlikule "
+        "Eesti Vabariigile ja tema põhiseaduslikule korrale, kaitsta Eesti Vabariiki "
+        "vaenlase vastu kogu oma mõistuse ja jõuga… "
+        "Sõjaväeline keel on tõlgitud igapäevase kodaniku keelde.",
+        italic=True,
+        size=10,
+        space_after=18,
+    )
+
+    add_heading_centered(doc, "Kes ma olen? — Ütle seda valjusti", level=2)
+    add_centered(doc, "Sul pole vaja täiuslikku vastust. Sul on vaja kindlat vastust. Kasuta neid:", space_after=10)
+
+    identity = [
+        "Olen inimene, kes peab oma sõna.",
+        "Olen inimene, kes kaitseb head — alustades iseendast.",
+        "Olen inimene, kes räägib tõtt, isegi kui see maksab.",
+        "Olen inimene, kes ilmub kohale nende jaoks, kes minust loodavad.",
+        "Olen inimene, kes valib distsipliini impulsi asemel.",
+        "Olen inimene, kes kannab oma valikute hinna.",
+        "Olen kodanik — mitte piiri, vaid väärikuse mõttes.",
+    ]
+    for line in identity:
+        add_centered(doc, f"— {line}", space_after=6)
+
+    add_heading_centered(doc, "Kuus väärtust", level=2)
+    add_centered(
+        doc,
+        "Võetud Kaitseväe eetikakoodeksist — tõlgitud igapäevaseks eluks:",
+        space_after=12,
+    )
+
+    values = [
+        ("Ausus", "Räägin endale ja teistele tõtt. Ei peida end vabanduste taha."),
+        ("Vaprus", "Seisan silmitsi raskega. Ei põgu vajalikest vestlustest ega tegudest."),
+        ("Asjatundlikkus", "Teen oma tööd hästi. Õpin pidevalt. Võtan kohustusi tõsiselt."),
+        ("Ustavus", "Jään truuks sellele, mida usun, ja inimestele, kes minusse usaldavad."),
+        ("Koostöövalmidus", "Aitan, kui saan. Ei jäta teisi üksi kandma seda, mis on meie ühine."),
+        ("Avatus", "Kuulan. Tunnistan, kui eksin. Jään valmis kasvama."),
+    ]
+    for title, desc in values:
+        add_centered(doc, title, bold=True, size=12, space_after=4)
+        add_centered(doc, desc, size=11, space_after=10)
+
+    add_heading_centered(doc, "Igapäevane praktika — kolm minutit", level=2)
+    add_centered(doc, "Iga hommik loe tõotus üks kord läbi. Siis küsi endalt üks küsimus:", space_after=8)
+    add_centered(doc, "Mis on üks asi täna, mida minu-sugune inimene teeks?", bold=True, space_after=10)
+    add_centered(doc, "See on piisav. Identiteet pole meeleolu. See on valikute muster.", space_after=16)
+
+    add_heading_centered(doc, "Kuidas see päriselus välja näeb", level=2)
+
+    examples = [
+        ("Kodus", "Oled väsinud, aga su laps vajab tähelepanu. Sa ilmud ikkagi kohale. See on tõotus."),
+        ("Tööl", "Võiksid nurgast lõigata. Sa teed ausa asja. See on sisemine distsipliin."),
+        ("Sõbraga", "Talle on vaja karmi tõde, mitte mugavust. Sa räägid hoolikalt. See on vaprus."),
+        ("Üksi", "Keegi ei vaata. Sa pead ikkagi oma sõna. See oled sina."),
+        ("Kui eksid", "Sa ei teeskle. Võtad vastutuse, parandad, mis saad, ja alustad uuesti. See on hinna maksmine."),
+    ]
+    for title, desc in examples:
+        add_centered(doc, title, bold=True, size=12, space_after=4)
+        add_centered(doc, desc, size=11, space_after=10)
+
+    add_heading_centered(doc, "Võta see omaks — kohe praegu", level=2)
+    add_centered(doc, "Sa ei pea seda täna täiuslikult uskuma.", space_after=6)
+    add_centered(doc, "Sa pead seda ainult valima.", bold=True, space_after=8)
+    add_centered(doc, "Loe tõotus valjusti. Allkirjasta all — paberil või mõttes.", space_after=20)
+    add_centered(doc, "_________________________________", space_after=6)
+    add_centered(doc, "Sinu nimi · Kuupäev", size=10, space_after=14)
+    add_centered(
+        doc,
+        "Sellest hetkest, kui keegi küsib 'kes ma olen?' - on sul vastus.",
+        italic=True,
+        space_after=20,
+    )
+
+    # Comparison table
+    add_heading_centered(doc, "Sõduri tõotus ja kodaniku tõotus", level=2)
+    table = doc.add_table(rows=1, cols=2)
+    table.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    hdr = table.rows[0].cells
+    hdr[0].text = "Sõduri tõotus"
+    hdr[1].text = "Kodaniku tõotus"
+    for cell in hdr:
+        for p in cell.paragraphs:
+            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            for run in p.runs:
+                run.bold = True
+
+    rows = [
+        ("Ustavus vabariigile", "Ustavus tõele ja väärikusele"),
+        ("Kaitseb vaenlase eest", "Kaitseb head endas ja teistes"),
+        ("Ohverdab elu isamaa eest", "Ohverdab mugavust ja ego õige eest"),
+        ("Kaitseväe distsipliin", "Sisemine distsipliin"),
+        ("Kohustused täpselt", "Ausad ja järjepidevad kohustused"),
+        ("Seadus karistab", "Maksan hinda ise"),
+    ]
+    for left, right in rows:
+        row = table.add_row().cells
+        row[0].text = left
+        row[1].text = right
+        for cell in row:
+            for p in cell.paragraphs:
+                p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+
+    doc.add_paragraph()
+    add_centered(
+        doc,
+        "Kohandatud Eesti kaitseväelase tõotusest ja eetikakoodeksist.\n"
+        "Vabalt kõigile, kes küsivad: Kes ma olen?",
+        size=10,
+        italic=True,
+    )
+    add_centered(doc, "Unpluged-Al · Kodaniku tõotus", size=9, space_after=0)
+
+    output = "/workspace/kodaniku-tootus.docx"
+    doc.save(output)
+    print(f"Saved: {output}")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,20 +1,22 @@
 # Unpluged-Al
 
-Resources for identity, calm, and everyday strength.
+Ressursid identiteedi, rahu ja igapäevase tugevuse jaoks.
 
-## The Citizen Creed — Who Am I?
+## Kodaniku tõotus — Kes ma olen?
 
-An identity you can adopt without overthinking it.
+Identiteet, mida võid kohe omaks võtta — mõtlemist pole vaja.
 
-**Open the creed:** [citizen-creed.html](citizen-creed.html)
+- **Veebiversioon:** [kodaniku-tootus.html](kodaniku-tootus.html)
+- **Word fail:** [kodaniku-tootus.docx](kodaniku-tootus.docx)
 
-Adapted from the official **Estonian soldier's oath** (*kaitseväelase tõotus*) and Defence Forces ethics code — reshaped for ordinary citizens and daily life.
+Kohandatud ametlikust **Eesti kaitseväelase tõotusest** (*kaitseväelase tõotus*) ja Kaitseväe eetikakoodeksist — ümber kujundatud tavaliseks inimeseks ja igapäevaseks eluks.
 
-Includes:
+Sisaldab:
 
-- The Citizen Creed (English and Estonian)
-- "Who am I?" identity statements — ready to use
-- Six values from the Estonian military ethics code, translated for home and work
-- Real-life examples and a simple daily practice
+- Kodaniku tõotuse täisteksti eesti keeles
+- „Kes ma olen?" identiteedilauseid
+- Kuut väärtust igapäevase elu jaoks
+- Päriselu näiteid ja lihtsat igapäevast praktikat
+- Sõduri tõotuse ja kodaniku tõotuse võrdlustabelit
 
-> You do not have to invent yourself. Take the creed. It is yours.
+> Sa ei pea ennast leiutama. Võta tõotus. See on sinu.

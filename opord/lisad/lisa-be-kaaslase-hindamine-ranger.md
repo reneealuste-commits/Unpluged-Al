@@ -4,7 +4,13 @@
 > **Loe seda kui:** oled meeskonnas, koolis, üksuses, peres või riigisektoris.  
 > **Ära loe kui:** oled kriisis — Lisa H; formaalne kuu/kvartali peegel — Lisa AV.
 
-**Seotud:** Lisa Q (GOTWA alguses), Lisa P (trauma-teadlik tagasiside), Lisa AV (sügav peegel), Lisa BD (riiklik vorm), Lisa N (demomees)
+## Olemasolev suhte hindamise vorm — ära dubleeri
+
+**Suhte hindamise vorm on juba olemas:** Lisa AV, vorm **AV-PERE** — `PEEGEL_HINDAMISVORM_PRINT.pdf`.
+
+Lisa BE **ei ole** teine hindamisvorm. See on **mikropeegel**: igapäevane tagasiside ja taskukaart, mis **toidab** kuist suhte hindamise vormi. Kui sul on AV-PERE prinditud ja protsess käimas — kasuta BE-d ainult vahepealsete näidete kogumiseks.
+
+**Seotud:** Lisa AV (suhte hindamise vorm — AV-PERE), Lisa Q (GOTWA alguses), Lisa P (trauma-teadlik tagasiside), Lisa BD (riiklik vorm), Lisa N (demomees)
 
 **Prindi:**
 
@@ -37,10 +43,10 @@ Ranger Schoolis ei oota sa kolme kuud kuni keegi ütleb, mis valesti oli. **Iga p
 | Kiht | Tööriist | Millal |
 |------|----------|--------|
 | **1. Igapäev** | Lisa BE — kaaslase hindamine | Iga olukord, sobival hetkel |
-| **2. Sügav** | Lisa AV — hindamisvorm | Kuu (pere) / kvartal (meeskond) |
+| **2. Sügav** | Lisa AV — **suhte hindamise vorm** (AV-PERE) / meeskonna vorm | Kuu (pere) / kvartal (meeskond) |
 | **3. Riiklik** | Lisa BD — AV-RIIK | Kvartal / 2× aastas (asutus) |
 
-**BE ei asenda AV-d.** BE on **mikropeegel** — AV on **sügav peegel**.
+**BE ei asenda AV-d.** BE on **mikropeegel** — AV (sh suhte hindamise vorm) on **sügav peegel**.
 
 ---
 
@@ -114,7 +120,20 @@ MIS VÕIKS TEISITI: _______________________
 Luure sama olukorras uuesti?  ? Jah  ? Ei
 ```
 
-Kui sama inimene kordub — kogu nädalas, võta Lisa AV vorm ette.
+Kui sama inimene kordub — kogu nädalas, võta **suhte hindamise vorm** (Lisa AV, AV-PERE) ette.
+
+---
+
+## BE ? AV voog (pere ja partner)
+
+| Samm | Millal | Mida teed |
+|------|--------|-----------|
+| 1 | **Iga päev** | BE taskukaart või 4 lause — üks situatsioon |
+| 2 | **Nädala lõpus** | Vaata üle: mis kordus? Mis jäi ütlemata? |
+| 3 | **Kuu lõpus** | Täida **AV-PERE** (`PEEGEL_HINDAMISVORM_PRINT.pdf`) — BE märkmed ? konkreetsed read vormil |
+| 4 | **Vestlus** | 15–20 min vormi põhjal; üks tegu järgmiseks kuuks |
+
+**Meeskonnas:** sama loogika — BE igapäev, AV-MEESKOND kvartalis.
 
 ---
 
@@ -136,4 +155,4 @@ Kui sama inimene kordub — kogu nädalas, võta Lisa AV vorm ette.
 
 ---
 
-*Lisa BE — Kaaslase hindamine. Täiendab Lisa AV ja BD. Viimati uuendatud: 2026-07-30.*
+*Lisa BE — Kaaslase hindamine. Täiendab olemasolevat suhte hindamise vormi (Lisa AV) ja riiklikku peeglit (Lisa BD). Viimati uuendatud: 2026-07-30.*

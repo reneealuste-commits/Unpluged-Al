@@ -80,7 +80,10 @@ def main():
         "kes minust sõltuvad; kaitsta head endas ja teistes kogu oma mõistuse ja hoole eest; "
         "olla valmis ohverdama mugavust ja ego selle eest, mis on õige; "
         "hoida kinni sisemisest distsipliinist; ning täita oma kohustusi ausalt ja järjepidevalt, "
-        "teades, et vastasel korral maksan hinda ise."
+        "teades, et vastasel korral maksan hinda ise; "
+        "nõuan, et minuga käitutakse austusega ja õiglaselt - ja käitun teistega samamoodi; "
+        "tean, et mida külvad, seda lõikad: iga tegu paneb seemne, mis tuleb ringiga tagasi; "
+        "alustan heana, kuid ei lase kurja minna vastutuseta - see on minu vastastikmõju strateegia."
     )
     p = add_centered(doc, creed, size=13, space_after=16)
     for run in p.runs:
@@ -109,10 +112,53 @@ def main():
         "Olen inimene, kes ilmub kohale nende jaoks, kes minust loodavad.",
         "Olen inimene, kes valib distsipliini impulsi asemel.",
         "Olen inimene, kes kannab oma valikute hinna.",
-        "Olen kodanik — mitte piiri, vaid väärikuse mõttes.",
+        "Olen kodanik - mitte piiri, vaid väärikuse mõttes.",
+        "Nõuan, et minuga käitutakse austusega ja õiglaselt - ja annan seda tagasi.",
+        "Külvin head, sest tean: mida külvad, seda lõikad.",
+        "Alustan heana, kuid ei lase kurja minna vastutuseta.",
     ]
     for line in identity:
-        add_centered(doc, f"— {line}", space_after=6)
+        add_centered(doc, f"- {line}", space_after=6)
+
+    add_heading_centered(doc, "Loodusseadus ja vastastikmõju", level=2)
+    add_centered(
+        doc,
+        "Mida külvad, seda lõikad - see pole ainult vanasõna. See on loodusseadus.",
+        italic=True,
+        size=12,
+        space_after=10,
+    )
+    add_centered(
+        doc,
+        "Iga sõna, iga tegu, iga valik paneb seemne. Head seemned kasvavad head saagi. "
+        "Halvad seemned tulevad ringiga tagasi - mitte alati kohe, aga alati. "
+        "Sa ei kontrolli saaki, aga sa kontrollid külvikut.",
+        size=11,
+        space_after=12,
+    )
+
+    natural_law = [
+        ("Külvamine", "Enne kui teed, küsi: mida ma praegu külvin? Kas see on see, mida tahan lõigata?"),
+        ("Lõikamine", "Kui elu toob sulle rasket, vaata ausalt: kas ma ise külvatasin selle seemne?"),
+        (
+            "Vastastikmõju (tit-for-tat)",
+            "Alusta alati heana. Kui teine on hea - ole hea. Kui teine on kuri - sea piir. "
+            "Anna teine võimalus, kui keegi eksib. Ära ole lollukindel. Ära ole ka nõrk.",
+        ),
+    ]
+    for title, desc in natural_law:
+        add_centered(doc, title, bold=True, size=12, space_after=4)
+        add_centered(doc, desc, size=11, space_after=10)
+
+    add_centered(
+        doc,
+        "Vastastikmõju strateegia lihtsalt: "
+        "1. Alusta koostööga · 2. Vasta samaga, mida saad · 3. Anna andeks üks kord · "
+        "4. Kui kurjus kordub - kaitse end · 5. Ära kunagi löö esimesena",
+        italic=True,
+        size=10,
+        space_after=16,
+    )
 
     add_heading_centered(doc, "Kuus väärtust", level=2)
     add_centered(
@@ -145,6 +191,9 @@ def main():
         ("Tööl", "Võiksid nurgast lõigata. Sa teed ausa asja. See on sisemine distsipliin."),
         ("Sõbraga", "Talle on vaja karmi tõde, mitte mugavust. Sa räägid hoolikalt. See on vaprus."),
         ("Üksi", "Keegi ei vaata. Sa pead ikkagi oma sõna. See oled sina."),
+        ("Kui sind ei austa", "Sa ei vihastu ega põgene. Sa ütled selgelt: minuga tuleb käituda austusega. See on sinu õigus."),
+        ("Kui keegi on hea", "Sa vastad heaga. Külvid head. See on loodusseadus töös."),
+        ("Kui keegi kurjust kordab", "Sa ei tasu kurja kurjaga - aga sa sead piiri. Vastastikmõju: üks hoiatus, siis kaitse."),
         ("Kui eksid", "Sa ei teeskle. Võtad vastutuse, parandad, mis saad, ja alustad uuesti. See on hinna maksmine."),
     ]
     for title, desc in examples:

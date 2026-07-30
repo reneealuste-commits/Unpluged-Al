@@ -8,6 +8,8 @@ Sisekorra eeskirjad ja rollipõhised juhendid riigisektori töökohtadele.
 |----------|-----------|
 | [techno-tln-austus-sisekorra-eeskiri.docx](techno-tln-austus-sisekorra-eeskiri.docx) | Kolledi sisekorra eeskiri — väärtused, rollid, konflikt, turvalisus |
 | [riigisektor-rollipohine-austus-juhend.docx](riigisektor-rollipohine-austus-juhend.docx) | Kõik rollid ja tasandid (haridus, tervis, haldus, IT, turvalisus) |
+| [y-juhtimine-riigisektor-juhend.docx](y-juhtimine-riigisektor-juhend.docx) | Y-juhtimine Alar Ojastu põhimõtetel — juhtimine riigisektoris |
+| [lisa-y-juhtimine-alar-ojastu.md](lisa-y-juhtimine-alar-ojastu.md) | Allika kokkuvõte ja seos teiste juhenditega |
 
 ## Taasgenereerimine
 

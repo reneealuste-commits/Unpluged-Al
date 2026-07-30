@@ -8,6 +8,7 @@ from docx.shared import Pt, Cm, RGBColor
 
 OUT = "/workspace/riigisektor/techno-tln-austus-sisekorra-eeskiri.docx"
 OUT_ALL = "/workspace/riigisektor/riigisektor-rollipohine-austus-juhend.docx"
+OUT_Y = "/workspace/riigisektor/y-juhtimine-riigisektor-juhend.docx"
 
 
 def h(doc, text, level=1):
@@ -181,6 +182,16 @@ def build_techno_tln(doc):
     p(doc, "Kuula -> Vasta -> Ole kohal -> Aita suunata -> Teata ohtu", bold=True, center=True)
     p(doc, "Techno TLN: Kvaliteet | K\u00e4ttesaadavus | Hoolivus", center=True)
 
+    h(doc, "8. Y-juhtimine ja lugupidav juhtimine (Alar Ojastu)", 2)
+    p(doc, "Allikas: Ratsionaalne emotsionaalsus, peat\u00fckk 3 - Y-juhtimine. P\u00f5him\u00f5te riigisektoris: noor \u00f5ppija ja noor t\u00f6\u00f6taja vajavad vastust k\u00fcsimusele MIKS, mitte ainult k\u00e4sku.")
+    b(doc, "Probleem ei ole \u00f5pilane v\u00f5i t\u00f6\u00f6taja - vana juhtimismudel ei t\u00f6\u00f6ta")
+    b(doc, "\u00dclemus asendub treeneriga: eesm\u00e4rk, areng, vastutus koos")
+    b(doc, "Missioon enne numbrit: miks Techno TLN on oluline, mitte ainult tulemused")
+    b(doc, "Pidev vestlus, mitte \u00fcks arenguvestlus aastas")
+    b(doc, "Juht on aus - s\u00f5nad ja teod peavad klappima (maski kandmine \u00f5petab teisi valetama)")
+    b(doc, "Hoolivus on ratsionaalne: turvaline keskkond -> p\u00fchendumus -> tulemus")
+    p(doc, "Vt t\u00e4ielik juhend: y-juhtimine-riigisektor-juhend.docx", italic=True)
+
     p(doc, "")
     p(doc, "Dokument on koostatud kooli p\u00f5hiv\u00e4\u00e4rtuste ja riigisektori lugupidava suhtluse raamistiku alusel.", italic=True, center=True)
 
@@ -249,6 +260,60 @@ def build_riigisektor_all(doc):
     p(doc, "1. Kas ma kuulan? 2. Kas ma alav\u00e4\u00e4ristan? 3. Kas on turvaline? 4. Kuhu raporteerin?", center=True)
 
 
+def build_y_juhtimine(doc):
+    h(doc, "Y-JUHTIMINE RIIGISEKTORIS", 1)
+    p(doc, "Kuidas juhtida inimesi, kes tunduvad juhitamatud | Alar Ojastu p\u00f5him\u00f5tted", center=True)
+    p(doc, "Allikas: Ratsionaalne emotsionaalsus (2023), audioraamat peat\u00fckk 3", italic=True, center=True)
+
+    h(doc, "1. P\u00f5hiidee", 2)
+    p(doc, "Riigisektoris k\u00fcsitakse sageli: kuidas juhtida noori, kes ei kuula, ei austa hierarhiat ega j\u00e4rgi reegleid? Vastus: nad ei ole juhitamatud - nad vajavad teistsugust juhtimist.")
+    p(doc, "Ratsionaalne emotsionaalsus t\u00e4hendab, et inimeste emotsioonid ja motivatsioon on tulemuste alus. Hoolimine ei ole pehme lisav\u00e4\u00e4rtus - see on t\u00f6\u00f6korraldus.")
+
+    h(doc, "2. Vana mudel vs Y-juhtimine", 2)
+    rows = [
+        ("Vana fookus", "Y-juhtimise fookus"),
+        ("Minu palk ja number", "Minu missioon - miks see t\u00f6\u00f6 on oluline"),
+        ("Minu tugevus", "Minu areng"),
+        ("Minu \u00fclemus", "Minu treener / koosjuht"),
+        ("Arenguvestlus \u00fcks kord aastas", "Pidev arutelu"),
+        ("N\u00f5rkused peita", "Ausus ja tugi"),
+        ("Minu t\u00f6\u00f6", "Minu elu tervikuna"),
+        ("\"Nii on alati tehtud\"", "Selge vastus k\u00fcsimusele MIKS"),
+    ]
+    for a, btxt in rows:
+        p(doc, f"{a}  ->  {btxt}")
+
+    h(doc, "3. Reeglid juhile riigisektoris", 2)
+    n(doc, "Selgita MIKS enne kui n\u00f5uad. \u00d5pilane ja t\u00f6\u00f6taja peavad m\u00f5istma otsuse m\u00f5tet.")
+    n(doc, "Ole treener, mitte ainult \u00fclemus. Aita seada eesm\u00e4rgid ja v\u00f5ta vastutus koos.")
+    n(doc, "Suhtle regulaarselt. L\u00fchike silmast-silma kontakt on parem kui \u00fcks pikk koosolek aastas.")
+    n(doc, "Ole aus. Kui juht r\u00e4\u00e4gib positiivsusest, aga k\u00e4itub negatiivselt, \u00f5petab ta teisi maski kandma.")
+    n(doc, "Loo ps\u00fchholoogiline turvalisus. Eksimine on lubatud, kui sellest \u00f5pitakse.")
+    n(doc, "Kuula ka elu v\u00e4ljaspool ametit. Inimene tuleb t\u00f6\u00f6le tervikuna.")
+    n(doc, "Missioon peab olema t\u00f5eline. Noored tunnetavad \u00f5hukat juttu kohe \u00e4ra.")
+
+    h(doc, "4. Techno TLN ja koolimaja", 2)
+    b(doc, "Kvaliteet + K\u00e4ttesaadavus + Hoolivus = Ojastu \"hooliv organisatsioon\" kooli keeles")
+    b(doc, "\u00d5petaja on treener: praktika, tagasiside, areng - mitte ainult hinde andja")
+    b(doc, "Direktor selgitab \u00fchendamise MIKS: miks neli kooli, mis see annab \u00f5ppijale")
+    b(doc, "Personalijuht loob turvalisuse neljas linnakus - inimesed enne protsesse")
+    b(doc, "\u00d5pilane k\u00fcsib MIKS - see ei ole l\u00f5unatus, see on kriitiline m\u00f5tlemine")
+
+    h(doc, "5. Mida mitte teha", 2)
+    b(doc, "\"Noored on lihtsalt sellised\" - see on vana mudeli vabandus")
+    b(doc, "Reeglid ilma selgituseta - see tekitab protesti, mitte distsipliini")
+    b(doc, "Avalik alandamine - \u00f5pilane v\u00f5i t\u00f6\u00f6taja l\u00e4heb \u00e4ra v\u00f5i sulgub")
+    b(doc, "Ronimisseinad ja m\u00f6ngutoad ilma sisuta - vorm ilma missioonita ei hoia")
+    b(doc, "Juhil endal mask - kui s\u00f5nad ja teod ei klapi, juhendit ei j\u00e4rgita")
+
+    h(doc, "6. Kiirviide juhile", 2)
+    p(doc, "MIKS -> Kuula -> Ole aus -> Ole kohal -> Aita arendada -> Tunnusta", bold=True, center=True)
+    p(doc, "Kui inimene tundub juhitamatu, k\u00fcsige esmalt: kas mina juhin nii, et ta saaks kuulda?", center=True)
+
+    p(doc, "")
+    p(doc, "Koostatud Alar Ojastu \"Ratsionaalne emotsionaalsus\" peat\u00fcki 3 alusel, kohandatud riigisektori austusjuhendite raamistikku.", italic=True, center=True)
+
+
 def main():
     doc1 = Document()
     for s in doc1.sections:
@@ -264,8 +329,16 @@ def main():
     build_riigisektor_all(doc2)
     doc2.save(OUT_ALL)
 
+    doc3 = Document()
+    for s in doc3.sections:
+        s.top_margin = s.bottom_margin = Cm(2)
+        s.left_margin = s.right_margin = Cm(2.5)
+    build_y_juhtimine(doc3)
+    doc3.save(OUT_Y)
+
     print(f"Saved: {OUT}")
     print(f"Saved: {OUT_ALL}")
+    print(f"Saved: {OUT_Y}")
 
 
 if __name__ == "__main__":

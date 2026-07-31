@@ -22,6 +22,7 @@
 **Peegli hindamisvorm (Lisa AV):** [PEEGEL_HINDAMISVORM_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/PEEGEL_HINDAMISVORM_PRINT.pdf) · [plankett A5](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/PEEGEL_HINDAMISVORM_PLANKETT.pdf) · [rahakott 85×55mm](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/PEEGEL_HINDAMISVORM_RAHAKOTT.pdf) — AV-PERE pere/partnerile (kuu)
 **Suhte hindamise töövihik (Lisa BF):** [SUHTE_HINDAMISE_TOOVIHIK_KATA_JA_LIIGU.pdf](SUHTE_HINDAMISE_TOOVIHIK_KATA_JA_LIIGU.pdf) — SOK 24, kata ja liigu, sama taseme juhid
 **Vesi ja plastik (Lisa BG):** [lisa-bg-vesi-plastik-ja-taaskasutus.md](lisad/lisa-bg-vesi-plastik-ja-taaskasutus.md) — plastivaba veekultuur, joogikraanid, korduvkasutatav pudel (metall/klaas); Šveitsi, Dubai, Tofino mudel
+**Võitluse teadus (Lisa BH):** [lisa-bh-voitluse-teadus.md](lisad/lisa-bh-voitluse-teadus.md) — Hilli kasuta-või-kaota, takistused kui kasv, konflikt ei ole vaenlane; hirm vs võimalus
 **Riiklik peegel (Lisa BD):** [PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf](PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf) · [PEEGEL_RIIK_PLANKETT.pdf](PEEGEL_RIIK_PLANKETT.pdf) — hindamisvorm riigisektoris 
 **Kaaslase hindamine (Lisa BE):** [PEER_HINDAMINE_RAHAKOTT.pdf](PEER_HINDAMINE_RAHAKOTT.pdf) · [PEER_HINDAMINE_SOP_PRINT.pdf](PEER_HINDAMINE_SOP_PRINT.pdf) — Ranger mikropeegel, iga päev; **toidab** töövihikut (BF) ja AV-PERE
 **Podcastid (eesti keeles):** [Papsid.ee](https://papsid.ee/podcast/) (isa/pere) · [Maatriksi Lapsed](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) (laste kaitse) 
@@ -172,7 +173,7 @@ Kogu Operatsioon „Peegel" — peredest koolideni, kodanikust võrgustikuni —
 
 | Steigeri tuum | Kus operatsioonis |
 |---------------|-------------------|
-| Enesetundmine, palk enda silmas | Lisa R, AW, M |
+| Enesetundmine, palk enda silmas | Lisa R, AW, M, **BH** |
 | Teise mõistmine, kuulamine | Lisa P, S, Q, W |
 | Faktorite analüüs (enne silti) | Lisa V, S, U, AW |
 | Dialoog, 1-1 vestlus | Lisa P, AD, AJ |
@@ -1352,7 +1353,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 | **„Juhul kui…" (juhtimine)** | Loe Lisa I (Steiger 1997). Küsi: kas ma juhin inimest või kontrollin teda? Anna inimesele **roll + eesmärk + konkreetne juhis** — siis ta tihti teebki seda. **V-formatsioon:** üks ei veda igavesti — tugevaim alustab, otsib asendajat, vahetab rolli. |
 | **„Juhul kui…" (keegi ütleb WTF)** | Loe **Lisa P** — **spordikommentaator** enne vastust: „Ma märkan, et see teeb mind kahtlevaks." |
 | **„Juhul kui…" (kes sa oled / kahtlus taustas)** | **Lisa R** — lühike fakt, üks meedialink, ära müü. Täielik profiil: `renee-aluste-profiil.md` |
-| **„Juhul kui…" (takistus / konflikt)** | Lisa P — 5 sammu: turvalisus → spordikommentaator → valideeri → ausus → valik. Ära ütle „ära ole tundlik". |
+| **„Juhul kui…" (takistus / konflikt)** | Lisa P — 5 sammu: turvalisus → spordikommentaator → valideeri → ausus → valik. Lisa **BH** — kui turvalisus on: konflikt on kasvu võimalus, mitte oht. Ära ütle „ära ole tundlik". |
 | **„Juhul kui…" (trauma / trigger)** | **Keha enne mõistust** (van der Kolk): turvalisus → rahunemine → alles siis vestlus. Suust tulev sõna on signaal, mitte alati tõde. **Lisa P KRIITILINE REEGEL:** ära vaidle trauma olekus; ignoreeri „haukumist"; tasusta rahulikku. Suuna: Kert Grünberg, Priit Lilleväli, Kaia Kapsta-Forrester, Lisa H/F, EMDR. Inimene kontrollib tempot. |
 | **„Juhul kui…" (identiteet)** | Loe Lisa M — Robbinsi 5 sammu, manifest peegli ees, kodaniku vanne. LIHTSUS: üks plaan, üks tegu. |
 | **„Juhul kui…" (riik / bürokraatia)** | Loe Lisa L (Musk): küsi → kustuta → lihtsusta → kiirenda → automatiseeri. Automatiseeri viimasena. |
@@ -2751,6 +2752,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **BE** | — | `lisad/lisa-be-kaaslase-hindamine-ranger.md` | **Kaaslase hindamine** — Ranger mikropeegel, iga päev; toidab Lisa BF ja AV |
 | **BF** | — | `lisad/lisa-bf-suhte-hindamise-toovihik.md` | **Suhte hindamise töövihik** — SOK 24, kata ja liigu, sama taseme juhid |
 | **BG** | — | `lisad/lisa-bg-vesi-plastik-ja-taaskasutus.md` | **Vesi, plastik ja taaskasutus** — plastivaba veekultuur; joogikraanid, Refill-võrk, metall/klaas pudel; Šveits, Dubai, Tofino mudel |
+| **BH** | — | `lisad/lisa-bh-voitluse-teadus.md` | **Võitluse teadus** — Hilli kasuta-või-kaota; takistused kui kasv; konflikt ja hirm kui aju treening (mitte vaenlane); seotud Lisa P, AW |
 | **AW** | — | `lisad/lisa-aw-motlemine-kiiresti-ja-aeglaselt.md` | **Mõtlemine kiiresti ja aeglaselt** — Kahneman; System 1/2, mõttevead, stress, kelnerilaua lugu |
 | **AX** | — | `lisad/lisa-ax-demo-perekond-ja-eeskujud.md` | **Demo-perekond** — pereväärtuste promijad, eeskujude välja toomine, värbamisoskus |
 | **AY** | — | `lisad/lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md` | **Kuldne sild** — Sun Tzu + Art of the Deal; esimene manööver; K0 mini-kursus |

@@ -620,6 +620,7 @@ Kui keegi tunneb end nähtuna, kaob pool takistustest iseenesest.
 |-----------|-----|
 | Õppisid valideerima | Lisa **Q** — GOTWA + hääl igapäevas |
 | Tahad mõista „miks" | Lisa **S** (aju, trauma) |
+| Turvalisus on — tahad kasvada | Lisa **BH** — võitluse teadus, konflikt kui kasv |
 | Kriisis | Lisa **H** — numbrid käes |
 | Kinni jäid / upud | Lisa **AT** |
 

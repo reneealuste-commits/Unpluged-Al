@@ -24,6 +24,7 @@
 **Vesi ja plastik (Lisa BG):** [lisa-bg-vesi-plastik-ja-taaskasutus.md](lisad/lisa-bg-vesi-plastik-ja-taaskasutus.md) — plastivaba veekultuur, joogikraanid, korduvkasutatav pudel (metall/klaas); Šveitsi, Dubai, Tofino mudel
 **Võitluse teadus (Lisa BH):** [lisa-bh-voitluse-teadus.md](lisad/lisa-bh-voitluse-teadus.md) — Hilli kasuta-või-kaota, takistused kui kasv, konflikt ei ole vaenlane; hirm vs võimalus
 **Kogukond Tallinnas (Lisa BI):** [lisa-bi-kogukond-tallinnas.md](lisad/lisa-bi-kogukond-tallinnas.md) — kuidas inimesed kogukonna loovad, Peegli kvartal visioon, Grok Imagine prompt
+**Loomariik ja inimlik tuum (Lisa BJ):** [lisa-bj-loomariik-aju-ja-inimlik-tuum.md](lisad/lisa-bj-loomariik-aju-ja-inimlik-tuum.md) — seened, putukad, aju lihtsus; naer, intiimsus, kütmine, mäng, looming
 **Riiklik peegel (Lisa BD):** [PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf](PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf) · [PEEGEL_RIIK_PLANKETT.pdf](PEEGEL_RIIK_PLANKETT.pdf) — hindamisvorm riigisektoris 
 **Kaaslase hindamine (Lisa BE):** [PEER_HINDAMINE_RAHAKOTT.pdf](PEER_HINDAMINE_RAHAKOTT.pdf) · [PEER_HINDAMINE_SOP_PRINT.pdf](PEER_HINDAMINE_SOP_PRINT.pdf) — Ranger mikropeegel, iga päev; **toidab** töövihikut (BF) ja AV-PERE
 **Podcastid (eesti keeles):** [Papsid.ee](https://papsid.ee/podcast/) (isa/pere) · [Maatriksi Lapsed](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) (laste kaitse) 
@@ -2755,6 +2756,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **BG** | — | `lisad/lisa-bg-vesi-plastik-ja-taaskasutus.md` | **Vesi, plastik ja taaskasutus** — plastivaba veekultuur; joogikraanid, Refill-võrk, metall/klaas pudel; Šveits, Dubai, Tofino mudel |
 | **BH** | — | `lisad/lisa-bh-voitluse-teadus.md` | **Võitluse teadus** — Hilli kasuta-või-kaota; takistused kui kasv; konflikt ja hirm kui aju treening (mitte vaenlane); seotud Lisa P, AW |
 | **BI** | — | `lisad/lisa-bi-kogukond-tallinnas.md` | **Kogukonna loomine Tallinnas** — tõlgete audit; viis mudelit; Peegli kvartal visioon; 90-päeva plaan; Grok Imagine prompt |
+| **BJ** | — | `lisad/lisa-bj-loomariik-aju-ja-inimlik-tuum.md` | **Loomariik ja inimlik tuum** — seened/putukad; aju lihtsus; naer, intiimsus, kütmine, mäng, looming; bioloogiline OPORD |
 | **AW** | — | `lisad/lisa-aw-motlemine-kiiresti-ja-aeglaselt.md` | **Mõtlemine kiiresti ja aeglaselt** — Kahneman; System 1/2, mõttevead, stress, kelnerilaua lugu |
 | **AX** | — | `lisad/lisa-ax-demo-perekond-ja-eeskujud.md` | **Demo-perekond** — pereväärtuste promijad, eeskujude välja toomine, värbamisoskus |
 | **AY** | — | `lisad/lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md` | **Kuldne sild** — Sun Tzu + Art of the Deal; esimene manööver; K0 mini-kursus |

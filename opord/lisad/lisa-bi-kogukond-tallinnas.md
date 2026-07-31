@@ -2,7 +2,7 @@
 
 **Operatsioon „Peegel"** | Uurimustöö + visioon | Põhimõte: *kogukond ei tule riigist — see tuleb inimestest*
 
-**Seotud:** Lisa Z (linnad, partnerlus) · Lisa K (võrgustik) · Lisa BG (vesi, plastik) · Lisa I (inimesekeskne juhtimine) · Lisa M (kodaniku identiteet) · Lisa BH (võitlus kui kasv)
+**Seotud:** Lisa Z (linnad, partnerlus) · Lisa K (võrgustik) · Lisa BG (vesi, plastik) · Lisa I (inimesekeskne juhtimine) · Lisa M (kodaniku identiteet) · Lisa BH (võitlus kui kasv) · Lisa BJ (loomariik, inimlik tuum)
 
 > *?? **Ära usu mind.** See ei ole plaan, mida riik teeb sinu eest. See on raamistik, kuidas **sina ja sinu naabrid** saate kogukonna luua — ja milline see Tallinnas võiks välja näha.*
 

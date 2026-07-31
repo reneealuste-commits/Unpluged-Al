@@ -21,6 +21,7 @@
 **Õhk ja olukorra teadlikkus (Lisa AE):** [OLUKORDA_TEADLIKKUS_SOP_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OLUKORDA_TEADLIKKUS_SOP_PRINT.pdf) · [OLUKORDA_TEADLIKKUS_TASKUKAARDID_RAHAKOTT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/OLUKORDA_TEADLIKKUS_TASKUKAARDID_RAHAKOTT.pdf) 
 **Peegli hindamisvorm (Lisa AV):** [PEEGEL_HINDAMISVORM_PRINT.pdf](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/PEEGEL_HINDAMISVORM_PRINT.pdf) · [plankett A5](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/PEEGEL_HINDAMISVORM_PLANKETT.pdf) · [rahakott 85×55mm](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/opord-peegel-1a16/opord/PEEGEL_HINDAMISVORM_RAHAKOTT.pdf) — AV-PERE pere/partnerile (kuu)
 **Suhte hindamise töövihik (Lisa BF):** [SUHTE_HINDAMISE_TOOVIHIK_KATA_JA_LIIGU.pdf](SUHTE_HINDAMISE_TOOVIHIK_KATA_JA_LIIGU.pdf) — SOK 24, kata ja liigu, sama taseme juhid
+**Vesi ja plastik (Lisa BG):** [lisa-bg-vesi-plastik-ja-taaskasutus.md](lisad/lisa-bg-vesi-plastik-ja-taaskasutus.md) — plastivaba veekultuur, joogikraanid, korduvkasutatav pudel (metall/klaas); Šveitsi, Dubai, Tofino mudel
 **Riiklik peegel (Lisa BD):** [PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf](PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf) · [PEEGEL_RIIK_PLANKETT.pdf](PEEGEL_RIIK_PLANKETT.pdf) — hindamisvorm riigisektoris 
 **Kaaslase hindamine (Lisa BE):** [PEER_HINDAMINE_RAHAKOTT.pdf](PEER_HINDAMINE_RAHAKOTT.pdf) · [PEER_HINDAMINE_SOP_PRINT.pdf](PEER_HINDAMINE_SOP_PRINT.pdf) — Ranger mikropeegel, iga päev; **toidab** töövihikut (BF) ja AV-PERE
 **Podcastid (eesti keeles):** [Papsid.ee](https://papsid.ee/podcast/) (isa/pere) · [Maatriksi Lapsed](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) (laste kaitse) 
@@ -179,7 +180,7 @@ Kogu Operatsioon „Peegel" — peredest koolideni, kodanikust võrgustikuni —
 | V-formatsioon, rotatsioon | Lisa I, K, operatsiooni juhtimine |
 | Pere ja kodu | Raamatud A–G, Lisa E, AG, AC |
 | Keha ja hooldus | Lisa AA, AF, AB, AE, V |
-| Ühiskond ja riik | Lisa Z, T, L, AY |
+| Ühiskond ja riik | Lisa Z, T, L, AY, **BG** (vesi, plastik) |
 
 **Üks lause:** *Paranemis-teekond ei ole eraldi ideoloogia. See on Steigeri inimesekeskne juhtimine, rakendatud Eesti peredele, kodanikele ja juhtidele — trauma-teadlikult (Lisa P), ausalt (Lisa R), lihtsalt (Lisa AT).*
 
@@ -2749,6 +2750,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **BD** | — | `lisad/lisa-bd-riiklik-peegel-hindamisvorm.md` | **Riiklik peegel** — AV-RIIK, hindamisvorm asutustes ja riigisektoris |
 | **BE** | — | `lisad/lisa-be-kaaslase-hindamine-ranger.md` | **Kaaslase hindamine** — Ranger mikropeegel, iga päev; toidab Lisa BF ja AV |
 | **BF** | — | `lisad/lisa-bf-suhte-hindamise-toovihik.md` | **Suhte hindamise töövihik** — SOK 24, kata ja liigu, sama taseme juhid |
+| **BG** | — | `lisad/lisa-bg-vesi-plastik-ja-taaskasutus.md` | **Vesi, plastik ja taaskasutus** — plastivaba veekultuur; joogikraanid, Refill-võrk, metall/klaas pudel; Šveits, Dubai, Tofino mudel |
 | **AW** | — | `lisad/lisa-aw-motlemine-kiiresti-ja-aeglaselt.md` | **Mõtlemine kiiresti ja aeglaselt** — Kahneman; System 1/2, mõttevead, stress, kelnerilaua lugu |
 | **AX** | — | `lisad/lisa-ax-demo-perekond-ja-eeskujud.md` | **Demo-perekond** — pereväärtuste promijad, eeskujude välja toomine, värbamisoskus |
 | **AY** | — | `lisad/lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md` | **Kuldne sild** — Sun Tzu + Art of the Deal; esimene manööver; K0 mini-kursus |

@@ -60,6 +60,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | BF | [lisa-bf-suhte-hindamise-toovihik.md](lisa-bf-suhte-hindamise-toovihik.md) | **Suhte hindamise töövihik** — SOK 24, kata ja liigu; `SUHTE_HINDAMISE_TOOVIHIK_KATA_JA_LIIGU.pdf` |
 | BG | [lisa-bg-vesi-plastik-ja-taaskasutus.md](lisa-bg-vesi-plastik-ja-taaskasutus.md) | **Vesi ja plastik** — plastivaba veekultuur, joogikraanid, Šveitsi/Dubai mudel |
 | BH | [lisa-bh-voitluse-teadus.md](lisa-bh-voitluse-teadus.md) | **Võitluse teadus** — Hilli kasuta-või-kaota; takistused kui kasv; konflikt ei ole vaenlane |
+| BI | [lisa-bi-kogukond-tallinnas.md](lisa-bi-kogukond-tallinnas.md) | **Kogukond Tallinnas** — tõlgete audit; kogukonna loomine; Peegli kvartal; Grok Imagine prompt |
 | AW | [lisa-aw-motlemine-kiiresti-ja-aeglaselt.md](lisa-aw-motlemine-kiiresti-ja-aeglaselt.md) | **Mõtlemine kiiresti ja aeglaselt** — Kahneman; System 1/2, mõttevead, stress, kelnerilaua lugu |
 | AX | [lisa-ax-demo-perekond-ja-eeskujud.md](lisa-ax-demo-perekond-ja-eeskujud.md) | **Demo-perekond** — pereväärtuste promijad, eeskujude välja toomine, värbamisoskus |
 | AY | [lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md](lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md) | **Kuldne sild** — Sun Tzu + Art of the Deal; esimene manööver; AI; juhtide kutse |
@@ -118,6 +119,8 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 **Kanep, ECS, CBD ja toit (mitte suitsetamine):** Lisa Y — endokannabinoidsüsteem, CBD tooted, kanepiseemneõli, case study'd, varimajandus; kriitiline mõtlemine — ära usu, uuri ise.
 
 **Linnad, tööstusühiskond, partnerlus:** Lisa Z — suletud toad, isa eemal raha teenimas, Rockefelleri ajastu mudel; tagasipöördumine ettevõtluse ja pere-partnerluse juurde; reform Eestist seestpoolt valitsust.
+
+**Kogukond Tallinnas (inimestena):** Lisa BI — tõlgete audit; viis mudelit (koht, talgud, kolmas koht, ressurss, rituaal); Peegli kvartal visioon (Kopli/Kalamaja); 90-päeva plaan; Grok Imagine prompt. Täiendab Lisa Z, K, BG, H.
 
 **Intiimsus (kohustuslik):** Lisa AA — Tom Walsberg *Intiimsuse atlas*; mees/naise erinevus; orgasmid; vibraatori ajalugu; **pane end kirja** Epp Kärsini yoni koolitusele ([eppkarsin.com](https://www.eppkarsin.com), tel 5362 8568).
 

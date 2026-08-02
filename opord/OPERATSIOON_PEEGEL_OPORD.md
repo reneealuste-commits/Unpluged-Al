@@ -24,9 +24,10 @@
 **Vesi ja plastik (Lisa BG):** [lisa-bg-vesi-plastik-ja-taaskasutus.md](lisad/lisa-bg-vesi-plastik-ja-taaskasutus.md) — plastivaba veekultuur, joogikraanid, korduvkasutatav pudel (metall/klaas); Šveitsi, Dubai, Tofino mudel
 **Võitluse teadus (Lisa BH):** [lisa-bh-voitluse-teadus.md](lisad/lisa-bh-voitluse-teadus.md) — Hilli kasuta-või-kaota, takistused kui kasv, konflikt ei ole vaenlane; hirm vs võimalus
 **Kogukond Tallinnas (Lisa BI):** [lisa-bi-kogukond-tallinnas.md](lisad/lisa-bi-kogukond-tallinnas.md) — kuidas inimesed kogukonna loovad, Peegli kvartal visioon, Grok Imagine prompt
+**Lapse kiindumus ja ekraanid (Lisa BJ):** [lisa-bj-erica-komisar-lapse-attachement-ja-tehnoloogia.md](lisad/lisa-bj-erica-komisar-lapse-attachement-ja-tehnoloogia.md) — Dr Erica Komisar (DOAC 2025-03-03): kohalolek, stress, ADHD kui stressivastus, lasteaed, ekraanid; [Spotify](https://open.spotify.com/episode/0vXjbmobEhSX0p0REMkEVo)
 **Riiklik peegel (Lisa BD):** [PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf](PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf) · [PEEGEL_RIIK_PLANKETT.pdf](PEEGEL_RIIK_PLANKETT.pdf) — hindamisvorm riigisektoris 
 **Kaaslase hindamine (Lisa BE):** [PEER_HINDAMINE_RAHAKOTT.pdf](PEER_HINDAMINE_RAHAKOTT.pdf) · [PEER_HINDAMINE_SOP_PRINT.pdf](PEER_HINDAMINE_SOP_PRINT.pdf) — Ranger mikropeegel, iga päev; **toidab** töövihikut (BF) ja AV-PERE
-**Podcastid (eesti keeles):** [Papsid.ee](https://papsid.ee/podcast/) (isa/pere) · [Maatriksi Lapsed](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) (laste kaitse) 
+**Podcastid (eesti keeles):** [Papsid.ee](https://papsid.ee/podcast/) (isa/pere) · [Maatriksi Lapsed](https://shows.acast.com/avaomasilmad/episodes/ee-jata-navigatsioon-vahele-loomine-avataripilt-ava-oma-silm) (laste kaitse) · **Lisa BJ** — Dr Erica Komisar (inglise, DOAC): kiindumus, lasteaed, ekraanid — [Spotify](https://open.spotify.com/episode/0vXjbmobEhSX0p0REMkEVo) 
 **Meedia keel:** eesti keel primaarselt — [`soovitus-meedia-eesti-primaar.md`](kommunikatsioon/soovitus-meedia-eesti-primaar.md) 
 **Repo / PR:** [github.com/reneealuste-commits/Unpluged-Al/pull/1](https://github.com/reneealuste-commits/Unpluged-Al/pull/1)
 
@@ -180,7 +181,7 @@ Kogu Operatsioon „Peegel" — peredest koolideni, kodanikust võrgustikuni —
 | Dialoog, 1-1 vestlus | Lisa P, AD, AJ |
 | Roll + eesmärk + juhis | Lisa K, N, Q |
 | V-formatsioon, rotatsioon | Lisa I, K, operatsiooni juhtimine |
-| Pere ja kodu | Raamatud A–G, Lisa E, AG, AC |
+| Pere ja kodu | Raamatud A–G, Lisa E, AG, AC, **BJ** (Komisar: kiindumus, ekraanid) |
 | Keha ja hooldus | Lisa AA, AF, AB, AE, V |
 | Ühiskond ja riik | Lisa Z, T, L, AY, **BG** (vesi, plastik) |
 
@@ -935,7 +936,7 @@ AVA SILMAD (kuud 1–3) → TUGEVDA (4–8) → PEEGELDA (9–12) → LIHTSUS (1
 - **Roll operatsioonis:** Üleriigiline haridusvõrgustik — lapse **õppija-identiteet**, autonoomia ja austus lapse vastu algab varakult (Lisa M).
 - **Taust:** **Eesti Montessori Ühing** ([montessorieesti.ee](https://www.montessorieesti.ee)) koondab AMI juhendajatega lastehoiud, lasteaiarühmad ja kooliklassid üle Eesti. **Eesti Montessori Instituut** ([mariamontessori.ee](https://mariamontessori.ee)) koolitab AMI juhendajaid. Deviss: *„Aita mind seda ise teha!"* — 4 AMI kooliklassi (RaM Kool, Mahtra PK, Keila Kool, Tartu Forselius); lasteaiarühmad Harjumaal, Tartus, Pärnus, Haapsalus, Nõos ja mujal.
 - **Võtmeisikud:** **Ruth Maria Roosi-Ott** ja **Kerli-Kristi Allikvee** (AMI juhendajad, instituudi juhatus).
-- **Miks siin:** Montessori õpetab last **ise mõtlema** — mitte kuuletuma algoritmile. See on vastupanuvõime enne nutitelefoni. **Beebi eas** (0–3): austus algusest — *austus = armastus*, stressivaba vanemlus (**Lisa W**). Kattub operatsiooni põhireegliga: terve, normaalne inimene algusest. Täielik nimekiri ja piirkondlikud MTÜ-d: **Lisa J §5**.
+- **Miks siin:** Montessori õpetab last **ise mõtlema** — mitte kuuletuma algoritmile. See on vastupanuvõime enne nutitelefoni. **Beebi eas** (0–3): austus algusest — *austus = armastus*, stressivaba vanemlus (**Lisa W**). Kiindumus ja ekraanid: **Lisa BJ** (Komisar DOAC). Kattub operatsiooni põhireegliga: terve, normaalne inimene algusest. Täielik nimekiri ja piirkondlikud MTÜ-d: **Lisa J §5**.
 - **Kontakt:** info@mariamontessori.ee · [montessorieesti.ee/montessori-haridusasutused-eestis](https://www.montessorieesti.ee/montessori-haridusasutused-eestis/)
 
 #### Võrgustiku toetajad (taktikaline tase)
@@ -1117,7 +1118,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 1. **Õppija roll:** Enne juhtimist õpi ennast tundma. 15 minutit päevas vaikust, päevikut või eneserefleksiooni.
 2. **Identiteet (Lisa M):** Tony Robbinsi 5 sammu — tuvasta uskumused, küsi ja kahtle, katkesta muster, ehita tõestust, loe manifesti peegli ees; kodaniku vanne.
 3. **Infohügieen:** Kontrolli uudiseallikat. Piira TikToki/sotsiaalmeedia aega. Jälgi, mis emotsiooni kanal tekitab.
-4. **Perekond:** Planeeri iganädalane „perede aeg" — ilma ekraanideta. **Lisa BC** — nutitelefon ankrus (kodu/auto/kontor); pärast 17:00 ainult nuputelefon (pere + hädaabi).
+4. **Perekond:** Planeeri iganädalane „perede aeg" — ilma ekraanideta. **Lisa BC** — nutitelefon ankrus (kodu/auto/kontor); pärast 17:00 ainult nuputelefon (pere + hädaabi). **Lisa BJ** — lapse kohalolek 0–3 ja teismelis eas; ekraanireeglid; stress enne „ADHD" silti.
 5. **Eeskuju:** Ole see inimene, keda sa ise noorena vajasid.
 6. **Demomees enne levitamist:** Loe Lisa N — ole **demomees** enne kui räägid operatsioonist tutvusringkonnas. Eeskuju enne sõna.
 7. **Demo-perekond:** Loe **Lisa AX** — otsi ja too välja peresid, kes elavad pereväärtusi nähtavalt (laua taga aeg, sõpruskonna valikud, värbamisoskus).
@@ -1377,7 +1378,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 | Klass | Sisu |
 |-------|------|
 | **I (toit)** | Soe pere eine 1× nädalas — ilma ekraanideta |
-| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet), **Lisa N (Aluste_kool)**, **Lisa O (vaktsineerimine)**, **Lisa P (takistused)**, **Lisa Q (side)**, **Lisa R (taust / kahtlus)**, **Lisa S (kiusamine, aju, trauma)**, **Lisa V (uni, Walker)**, **Lisa W (Montessori beebi)**; Alar Ojastu *Ratsionaalne emotsionaalsus*; Tiit Trofimov *Lõpp on algus*; Liivamägi/Talpsepp/Vaarmets *Eraisiku rahandus*; Stefansson *Not by Bread Alone* / *The Fat of the Land*; McClellan & Du Bois (1929–1930, Bellevue lihadieet); „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee; Davies & Uzodike *The Montessori Baby*, Lisa W); Gordon (sinamina.ee); Imelised aastad (pk.ee); **Imeline Teadus** 11/2023 (kiusamine); Papsid.ee; Starfish Academy; BMI Institute; BNI Eesti; Äripäev Investor Toomas (aripaev.ee/raadio); Rahakratt (rahakratt.rahajutud.ee); Marko Oolo Exceli tööriistad (oolomarko.ee); Blondcast (tasku.delfi.ee); **Sõduri käsiraamat + Kaitseväe sisemäärustik** (mil.ee) |
+| **II (varustus)** | Raamatud: Tugeva Isa seeria (Lisa A–G), Lisa H, Lisa I (Steiger), Lisa J (koolijuhtkonnad), Lisa K (võrgustik), Lisa L (ministeeriumid), Lisa M (identiteet), **Lisa N (Aluste_kool)**, **Lisa O (vaktsineerimine)**, **Lisa P (takistused)**, **Lisa Q (side)**, **Lisa R (taust / kahtlus)**, **Lisa S (kiusamine, aju, trauma)**, **Lisa V (uni, Walker)**, **Lisa W (Montessori beebi)**, **Lisa BJ (Komisar: kiindumus, ekraanid)**; Komisar *Being There* / *Chicken Little* (Lisa BJ); Alar Ojastu *Ratsionaalne emotsionaalsus*; Tiit Trofimov *Lõpp on algus*; Liivamägi/Talpsepp/Vaarmets *Eraisiku rahandus*; Stefansson *Not by Bread Alone* / *The Fat of the Land*; McClellan & Du Bois (1929–1930, Bellevue lihadieet); „Extreme Ownership", „The Body Keeps the Score", Villido *Teadvuse praktiline kasutamine*; Montessori (montessorieesti.ee; Davies & Uzodike *The Montessori Baby*, Lisa W); Gordon (sinamina.ee); Imelised aastad (pk.ee); **Imeline Teadus** 11/2023 (kiusamine); Papsid.ee; Starfish Academy; BMI Institute; BNI Eesti; Äripäev Investor Toomas (aripaev.ee/raadio); Rahakratt (rahakratt.rahajutud.ee); Marko Oolo Exceli tööriistad (oolomarko.ee); Blondcast (tasku.delfi.ee); **Sõduri käsiraamat + Kaitseväe sisemäärustik** (mil.ee) |
 | **III (kütus)** | Uni 7–8h; liikumine 30 min/päev; **toit** — eelistada täisväärtuslikku, vähe töödeldud toitu (kohalik kala, liha, rasv koos); enne suuri dieedimuutusi perearst. Vt Lisa H (Renee saamise lugu, Stefanssoni viide) |
 | **V (laskemoon)** | Sõnad — kasuta neid mõistlikult. Iga sõnum on lask |
 | **VIII (meditsiin)** | Vaimne tervis: psühholoog, juhendaja, usaldusväärne sõber; [narko.ee](https://www.narko.ee) chatbot/tugiliin (Renee alustas siit); [ohvriabi.ee](https://ohvriabi.ee) — koduvägivalla korral kuni 940 € psühholoogilise abi toetus 2 aasta jooksul (sh **EMDR** sessioonid); Märt Avandi lugu YouTube'is: [watch?v=nNuHGdQdrZY](https://www.youtube.com/watch?v=nNuHGdQdrZY) |
@@ -2167,6 +2168,8 @@ Koos **Lisa AA** (*Intiimsuse atlas*) — mehe keha teadlikult, ilma porri kui �
 
 **Lisa BC** — digitaalne detoks: nutitelefon jääb ankrupaika (kodu, auto või kontor); pärast **17:00** kannad nuputelefoni — pere ja hädaabi valges nimekirjas. **Töö pärast tundi ei ole OK.**
 
+**Lisa BJ** — Dr Erica Komisar (DOAC 2025-03-03): lapse **kiindumus**, **stress** ja **ekraanid**; ADHD kui võimalik stressivastus; lasteaia riskid (vaidlusalune); 30-päevane pere-SOP; täiendab Lisa W (0–3), Lisa BC ja Raamat 01.
+
 *Minu küsimus sulle: Millal sa viimati rippusid 90 sekundit — ja kas sa teadsid, et see võib olla tasuta?*
 
 ---
@@ -2180,7 +2183,7 @@ Koos **Lisa AA** (*Intiimsuse atlas*) — mehe keha teadlikult, ilma porri kui �
 
 **K: Mis on see „perede aeg" iganädalaselt? Mul ei ole aega.**
 
-**V:** Üks õhtu nädalas ilma ekraanideta — kas või 60 minutit. Laua taga koos. Jalutuskäik. Mäng. See ei pea olema täiuslik. Algus ongi väike. Kui sa ütled „mul pole aega", siis küsi: kellele see aeg tegelikult läheb? Enamasti ekraanile. Me ei süüdista. Me kutsume üles valima teadlikult. **Lisa BC** — 17:00 vahetus nuputelefonile teeb selle automaatseks iga õhtu, mitte ainult üks kord nädalas.
+**V:** Üks õhtu nädalas ilma ekraanideta — kas või 60 minutit. Laua taga koos. Jalutuskäik. Mäng. See ei pea olema täiuslik. Algus ongi väike. Kui sa ütled „mul pole aega", siis küsi: kellele see aeg tegelikult läheb? Enamasti ekraanile. Me ei süüdista. Me kutsume üles valima teadlikult. **Lisa BC** — 17:00 vahetus nuputelefonile teeb selle automaatseks iga õhtu, mitte ainult üks kord nädalas. **Lisa BJ** — lapse ekraanireeglid ja kohalolek 0–3.
 
 *Minu küsimus sulle: Mida sina selle teadmisega täna teed — mitte homme?*
 ---

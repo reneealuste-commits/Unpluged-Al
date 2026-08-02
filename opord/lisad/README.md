@@ -61,6 +61,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | BG | [lisa-bg-vesi-plastik-ja-taaskasutus.md](lisa-bg-vesi-plastik-ja-taaskasutus.md) | **Vesi ja plastik** — plastivaba veekultuur, joogikraanid, Šveitsi/Dubai mudel |
 | BH | [lisa-bh-voitluse-teadus.md](lisa-bh-voitluse-teadus.md) | **Võitluse teadus** — Hilli kasuta-või-kaota; takistused kui kasv; konflikt ei ole vaenlane |
 | BI | [lisa-bi-kogukond-tallinnas.md](lisa-bi-kogukond-tallinnas.md) | **Kogukond Tallinnas** — tõlgete audit; kogukonna loomine; Peegli kvartal; Grok Imagine prompt |
+| BJ | [lisa-bj-erica-komisar-lapse-attachement-ja-tehnoloogia.md](lisa-bj-erica-komisar-lapse-attachement-ja-tehnoloogia.md) | **Dr Erica Komisar (DOAC)** — kiindumus 0–3, stress/ADHD, lasteaed, ekraanid; Spotify episood 2025-03-03 |
 | AW | [lisa-aw-motlemine-kiiresti-ja-aeglaselt.md](lisa-aw-motlemine-kiiresti-ja-aeglaselt.md) | **Mõtlemine kiiresti ja aeglaselt** — Kahneman; System 1/2, mõttevead, stress, kelnerilaua lugu |
 | AX | [lisa-ax-demo-perekond-ja-eeskujud.md](lisa-ax-demo-perekond-ja-eeskujud.md) | **Demo-perekond** — pereväärtuste promijad, eeskujude välja toomine, värbamisoskus |
 | AY | [lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md](lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md) | **Kuldne sild** — Sun Tzu + Art of the Deal; esimene manööver; AI; juhtide kutse |
@@ -145,6 +146,8 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 **Hannes Võrno (haridus + toit):** Lisa BB — meedia praktik vs koolibürokraatia (Kohtla-Järve õppetund); toidu päritolu ja avatud mõte; seos Lisa U / Bellevue liiniga. Kandidaat: `kommunikatsioon/kandidaat-hannes-vorno.md`.
 
 **Digitaalne detoks (nuputelefon):** Lisa BC — nutitelefon ankrus (kodu/auto/kontor); pärast 17:00 ainult nuputelefon (pere + hädaabi); töö pärast tundi ei ole OK. Täiendab Raamat 01, Lisa V, Lisa Q.
+
+**Lapse kiindumus ja ekraanid (Komisar):** Lisa BJ — Dr Erica Komisar DOAC podcast (inglise): kohalolek, prioriseerimine, ennetus; ADHD kui stressivastus; lasteaed (vaidlusalune); ekraanireeglid &lt;2 / teismeline. Täiendab Lisa W, Lisa BC, Lisa E, Lisa J, Raamat 01.
 
 **Venekeelne 1 lk:** [kiht0-ru-tuum-1-leht.md](kiht0-ru-tuum-1-leht.md) — Lisa AN tee E.
 

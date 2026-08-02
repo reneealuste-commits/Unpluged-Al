@@ -68,6 +68,7 @@ Enne kui mõistad kedagi „nõrgaks" või „liiga tundlikuks", loe **Lisa S §
 | **Rivi eeskiri** | Mis ütled ja millal — tervitus, raport, auavaldus | Sisemäärustiku rivi- ja vormistusosa |
 | **Lisa I (Steiger)** | Inimesekeskne juhtimine + **V-formatsioon** — üks ei veda igavesti; tugevaim alustab, otsib asendajat | `lisa-i-inimesekeskne-juhtimine.md` |
 | **Lisa Q (Side)** | Hääl, GOTWA, austav keel — kuidas me suhtleme | `lisa-q-side-eeskirjad-ja-suhtlus.md` |
+| **Lisa BF (Suhted)** | **Suhte hindamise töövihik** — kata ja liigu, sama taseme juhid (SOK 24) | `SUHTE_HINDAMISE_TOOVIHIK_KATA_JA_LIIGU.pdf` · `lisa-bf-suhte-hindamise-toovihik.md` |
 
 **Eesmärk:** mitte militaarne teatri, vaid **lugupidav suhtlus** — konkreetne keel, mitte üldine „ole kena".
 

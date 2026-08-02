@@ -1,11 +1,13 @@
-# Lisa AV — Peegli hindamisvorm (pere, meeskond, allüksus)
+# Lisa AV — Peegli hindamisvorm (suhte hindamise vorm, meeskond, allüksus)
 
 > **Lugeja saab:** standardiseeritud vorm ja protsess, kuidas näha end peeglist — mitte kohtu alt. 
 > **Loe seda kui:** juhid peret, meeskonda, SOK-i või allüksust. 
 > **Ära loe kui:** oled kriisis — alusta Lisa H; ära kasuta vormi karistusena.
 
+**Suhte hindamise vorm on olemas** — see on **Lisa BF** töövihik (`SUHTE_HINDAMISE_TOOVIHIK_KATA_JA_LIIGU.pdf`, SOK 24, kata ja liigu, sama taseme juhid). Pere/partneri jaoks on eraldi **AV-PERE** (`PEEGEL_HINDAMISVORM_PRINT.pdf`). Lisa BE (iga päev) **ei loo uut vormi**, vaid kogub näiteid, mis lähevad töövihikusse või AV-PERE vormi. Ära dubleeri.
+
 **Allikas:** MKKo Maakaitse Kompanii *Võitleja hindamisvorm* — kohandatud Operatsioon „Peegel". 
-**Seotud:** Lisa I (Steiger — dialoog, mitte monoloog), Lisa P (trauma-teadlik tagasiside), Lisa M (peegel), Lisa N (demomees), Lisa Q (GOTWA), Lisa AT (lihtsus)
+**Seotud:** Lisa I (Steiger — dialoog, mitte monoloog), Lisa P (trauma-teadlik tagasiside), Lisa M (peegel), Lisa N (demomees), Lisa Q (GOTWA), Lisa AT (lihtsus), **Lisa BE (kaaslase hindamine — iga päev)**, **Lisa BF (suhte hindamise töövihik — sama taseme juhid)**
 
 **Prindi (kirjalik — see on põhiviis):**
 
@@ -35,15 +37,41 @@ Steiger (Lisa I): hindamine on **kahepoolne dialoog**, mitte ülemuse monoloog.
 
 ---
 
-## Kolm vormi — üks tuum
+## Neli vormi + igapäevane peer
 
 | Vorm | Kus | Sagedus | Kes hindab |
 |------|-----|---------|------------|
-| **AV-PERE** | Kodu | 1× kuus (15–20 min) | Partner + lapsevanem teineteist; vanemad ?12a laps võib kutsuda (vabatahtlik) |
+| **AV-PERE** *(pere / partner)* | Kodu | 1× kuus (15–20 min) | Partner + lapsevanem teineteist; vanemad ≥12a laps võib kutsuda (vabatahtlik) |
 | **AV-MEESKOND** | Töö, kool, MTÜ | 1× kvartal | Juht + 2 kolleegi iga liikme kohta |
 | **AV-SOK** | Aluste_kool demomehed | 1× kvartal + pärast suurt sündmust | Ringis: igaüks saab 2 häält (mitte enda) |
+| **AV-RIIK** | Asutus, riigisektor | 1× kvartal (juhtkond) / 2× aastas (esiliin) | Vt **Lisa BD** — `PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf` |
+| **AV-PEER (BE)** | Iga meeskond, kool, üksus | **Iga päev** — situatsioonipõhine | Vt **Lisa BE** — `PEER_HINDAMINE_RAHAKOTT.pdf` |
+| **BF (töövihik)** | SOK, sama taseme juhid | Kui suhe vajab parandamist / kvartal | Vt **Lisa BF** — `SUHTE_HINDAMISE_TOOVIHIK_KATA_JA_LIIGU.pdf` |
 
 **Reegel:** Iga hinnatav saab **vähemalt 2** täidetud vormi + **ühe** iserefleksiooni. Iserefleksioon üksi **ei ole** hindamine.
+
+---
+
+## Lisa BE → sügav vorm (mikropeegel)
+
+| Kontekst | Igapäev (BE) | Sügav vorm |
+|----------|--------------|------------|
+| **Sama taseme juhid / SOK** | `PEER_HINDAMINE_RAHAKOTT.pdf` | **Suhte hindamise töövihik** (Lisa BF) |
+| **Pere / partner** | BE — üks aus lause | **AV-PERE** — `PEEGEL_HINDAMISVORM_PRINT.pdf` |
+| **Meeskond (ametlik)** | BE igapäev | AV-MEESKOND kvartalis |
+
+**Voog (sama taseme juhid — töövihik):**
+
+1. **Iga päev** — BE: üks situatsioon või taskukaart.
+2. **Kui teema kordub** — täida Lisa BF töövihik (Usalda/austa, Kuula/mõjuta).
+3. **Enne vestlust** — neli küsimust + tegevusplaan.
+4. **Vestlus** — Lisa P; üks tegu.
+
+**Voog (pere — AV-PERE):**
+
+1. **Iga päev** — BE: üks aus lause.
+2. **Kuu lõpus** — täida AV-PERE kirjalikult; BE märkmed → konkreetsed read.
+3. **Vestlus** — 15–20 min; üks tegu järgmiseks kuuks.
 
 ---
 
@@ -209,7 +237,7 @@ Hindamine ilma järgmise sammuta on **kriitika**, mitte peegel.
 
 - Vormid hoitakse **privaatselt** (mitte Slacki, mitte grupivestluses).
 - Pere: ühisesse märkmikku või kappi.
-- Meeskond: juht või supervisioon (Marge Sillaste mudel).
+- Meeskond: juht või supervisioon (tugispetsialist / Kapten Mets mudel).
 
 ---
 
@@ -262,7 +290,7 @@ Hindamine ilma järgmise sammuta on **kriitika**, mitte peegel.
 | **PEEGEL_HINDAMISVORM_PLANKETT.pdf** | A5 seinaplaat üksuse kausta |
 | **PEEGEL_HINDAMISVORM_RAHAKOTT.pdf** | 85×55 mm meeldetuletus |
 | PEEGEL_TEE_F | Juhtide jaoks: hindamisvestluse SOP |
-| Supervisioon | Marge Sillaste — juhid, kes hoiavad teisi juhte |
+| Supervisioon | Tugispetsialist — juhid, kes hoiavad teisi juhte |
 
 ### Faas 4 — Tagasiside operatsioonile
 
@@ -290,4 +318,4 @@ Hindamine ilma järgmise sammuta on **kriitika**, mitte peegel.
 
 ---
 
-*Lisa AV — Operatsioon „Peegel". MKKo vorm ? kodaniku peegel. Viimati uuendatud: 2026-07-25.*
+*Lisa AV — Operatsioon „Peegel". MKKo vorm → kodaniku peegel; AV-PERE = suhte hindamise vorm. Viimati uuendatud: 2026-07-30.*

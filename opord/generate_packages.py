@@ -28,8 +28,12 @@ PACKAGES = {
         "readme": "Tee C \u2014 pere tugevdamine.\n",
     },
     "P1-TEE-D-DEMO": {
-        "pdfs": ["PEEGEL_TEE_D.pdf"],
-        "readme": "Tee D \u2014 demomees (Aluste_kool).\nS\u00f5jakooli deviis: EE \u00b7 S\u00f5naga m\u00f5\u00f5ga vastu \u2014 Verbo contra gladium.\n",
+        "pdfs": [
+            "PEEGEL_TEE_D.pdf",
+            "SUHTE_HINDAMISE_TOOVIHIK_KATA_JA_LIIGU.pdf",
+            "PEER_HINDAMINE_RAHAKOTT.pdf",
+        ],
+        "readme": "Tee D \u2014 demomees (Aluste_kool).\nS\u00f5jakooli deviis: EE \u00b7 S\u00f5naga m\u00f5\u00f5ga vastu \u2014 Verbo contra gladium.\nSuhte hindamise t\u00f6\u00f6vihik + peer taskukaart.\n",
     },
     "P1-TEE-E-RU": {
         "pdfs": ["PEEGEL_RU_KIHT0.pdf"],
@@ -48,6 +52,19 @@ PACKAGES = {
         "readme": (
             "K3 \u2014 spetsialist. Lisa T, AL, AA, AF, AC, Y \u2014 ainult n\u00f5udmisel.\n"
             "Failid: lisad/lisa-t-valitsuse-ipb-analuus.md jne.\n"
+        ),
+    },
+    "P4-RIIK-PEEGEL": {
+        "pdfs": [
+            "PEEGEL_RIIK_HINDAMISVORM_PRINT.pdf",
+            "PEEGEL_RIIK_PLANKETT.pdf",
+            "PEER_HINDAMINE_RAHAKOTT.pdf",
+            "PEER_HINDAMINE_SOP_PRINT.pdf",
+            "SUHTE_HINDAMISE_TOOVIHIK_KATA_JA_LIIGU.pdf",
+        ],
+        "readme": (
+            "Riiklik peegel \u2014 Lisa BD + BE.\n"
+            "Kvartal (vorm) + iga paev (peer). Luurekusimus + uks tegu.\n"
         ),
     },
 }

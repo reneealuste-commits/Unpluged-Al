@@ -15,7 +15,11 @@
 
 ## 1. Üks lause vastus
 
-**Renee Aluste** on Eesti kaitseväe ja Kaitseliidu taustaga juhtimisinstruktor, USA Army Ranger Schooli läbinud eriväelane, **endine** koolitaja (2023–2026) ja Operatsioon „Peegel" koordinaator — inimene, kes on elanud läbi depressiooni ja infosõja mõju ning ehitanud sellest kodanikualgatuse, mitte riiklikku käsku.
+**Renee Aluste** on Eesti kaitseväe ja Kaitseliidu taustaga juhtimisinstruktor, USA Army Ranger Schooli läbinud eriväelane — **Ranger Al**, **Onu Al** — **endine** koolitaja (2023–2026) ja Operatsioon „Peegel" koordinaator.
+
+> *Küsimus: Kes sa oled? Vastus: Ranger Al. See on kogu lugu.* (Lisa BD)
+
+Inimene, kes on elanud läbi depressiooni ja infosõja mõju ning ehitanud sellest kodanikualgatuse, mitte riiklikku käsku.
 
 ---
 

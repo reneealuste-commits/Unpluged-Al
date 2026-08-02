@@ -138,6 +138,10 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 
 **Digitaalne detoks (nuputelefon):** Lisa BC — nutitelefon ankrus (kodu/auto/kontor); pärast 17:00 ainult nuputelefon (pere + hädaabi); töö pärast tundi ei ole OK. Täiendab Raamat 01, Lisa V, Lisa Q.
 
+**Lühim lugu on nimi:** Lisa BD — Ranger Al / Onu Al (Renee); Kapten Mets (KV psühholoog).
+
+**Metsavenna käsiraamat:** Lisa BE — Kapten Mets, ellujäämisõpetus, tase 7 KV psühholoog.
+
 **Venekeelne 1 lk:** [kiht0-ru-tuum-1-leht.md](kiht0-ru-tuum-1-leht.md) — Lisa AN tee E.
 
 ---

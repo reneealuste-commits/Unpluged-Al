@@ -27,6 +27,8 @@ Täielik tuum: `OPERATSIOON_PEEGEL_OPORD.md` — sektsioon **„MIKS? AJEND. EES
 
 ![Renee Aluste](images/profiles/renee-aluste.jpg)
 
+**Ranger Al.** **Onu Al.** See on lühim lugu. (Lisa BD)
+
 Renee Aluste on Operatsioon „Peegel" eestvedaja ja peamine sõnumitooja. Ta ühendab isikliku kogemuse sõjalise distsipliiniga, autentsuse juhtimiskoolitusega ja ausa vestluse kultuuriga — ilma manipulatsiooni ja ohvriidentiteedi tugevdamiseta.
 
 Ta ei õpeta teooriat. Ta on elanud läbi selle, mida õpetab.

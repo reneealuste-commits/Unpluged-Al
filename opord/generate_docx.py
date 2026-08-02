@@ -70,6 +70,8 @@ LISA_FILES = [
     "lisa-ba-keha-vabastamine-tasuta.md",
     "lisa-bb-hannes-vorno-haridus-ja-toitumine.md",
     "lisa-bc-digitaalne-detoks-ja-nuputelefon.md",
+    "lisa-bd-luhim-lugu-on-nimi.md",
+    "lisa-be-metsavenna-kasiraamat-ja-kapten-mets.md",
     "renee-aluste-profiil.md",
 ]
 

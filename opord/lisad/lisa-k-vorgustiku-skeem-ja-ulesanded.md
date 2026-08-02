@@ -42,7 +42,7 @@
 ┌────────▼────▼───┐ ┌───────────▼──────────┐ ┌────▼─────────────┐ ┌────────────────▼──────────────────┐
 │ KOHALIKUD │ │ VETERANID / TUGI │ │ PODCAST / Meedia │ │ VÕRGUSTIKU TOETAJAD │
 │ Järvsoo (Kotkad) │ │ Kinnunen (veteranid) │ │ 24 episoodi │ │ Tegusad ettevõtjad (hajutatud) │
-│ Ambros (Harku) │ │ Sillaste (supervis) │ │ jujutud.ee │ │ hajutatud ettevõtjad (vt 3.13) │
+│ Ambros (Harku) │ │ Kapten Mets (KV) │ │ jujutud.ee │ │ hajutatud ettevõtjad (vt 3.13) │
 └──────────────────┘ └───────────────────────┘ └───────────────────┘ └───────────────────────────────────┘
 ```
 
@@ -202,7 +202,7 @@
 | Üksus | Eesmärk |
 |-------|---------|
 | Eesti Kaitseväe Veteranid (Kinnunen) | Veteranide tugi, ausad lood, kogukond |
-| Marge Sillaste | Supervisioon — inimeste juhtimine, mitte protsesside kontroll |
+| Kapten Mets (KV psühholoog, TK süsteem) | Vaimne tervis ja supervisioon — Metsavenna käsiraamat (Lisa BE) |
 
 ### 3.12 Üksus Aluste_kool (SOK — demomehed) — AKTIVEERITUD
 
@@ -612,11 +612,11 @@
 - **Eesmärk:** Veteranide tugi ja ausad lood
 - **Ülesanne:** Kogukond; side tsiviilühiskonnaga (ekvv.ee)
 
-#### Marge Sillaste — Supervisioon
+#### Kapten Mets — KV psühholoog (tervisekeskuse süsteem)
 
-- **Roll:** Supervisioon ja coaching
-- **Eesmärk:** Inimeste juhtimine protsesside asemel
-- **Ülesanne:** Juhtide tugi; Steigeri põhimõtted praktikas
+- **Roll:** Kaitseväe psühholoog tervisekeskuse süsteemis (operatiivne nimi)
+- **Eesmärk:** Vaimne tervis; inimeste juhtimine protsesside asemel
+- **Ülesanne:** Juhtide ja tugispetsialistide psühholoogiline tugi; Steigeri põhimõtted; *Metsavenna käsiraamat* (Lisa BE)
 
 #### Kaia Kapsta-Forrester — Pere- ja paariteraapia
 

@@ -1,66 +1,66 @@
-# Lisa BJ — Dr Erica Komisar: lapse kiindumus, stress ja ekraanid
+# Lisa BJ â€” Dr Erica Komisar: lapse kiindumus, stress ja ekraanid
 
-> **Lugeja saab:** teadlikku raamistikku lapse närvisüsteemi, kiindumuse ja ekraanide kohta — ilma süüdistamiseta, koos praktiliste sammudega.
-> **Loe seda kui:** oled lapsevanem, vanaema/vanaisa, õpetaja või mentor ja tahad mõista, miks „ADHD", ärevus ja ekraanid võivad olla seotud **stressiga**, mitte ainult „diagnoosiga".
-> **Ära loe kui:** otsid ühe lause meditsiinilist diagnoosi — see on **haridusmaterjal**, mitte arsti otsus.
+> **Lugeja saab:** teadlikku raamistikku lapse nÃ¤rvisÃ¼steemi, kiindumuse ja ekraanide kohta â€” ilma sÃ¼Ã¼distamiseta, koos praktiliste sammudega.
+> **Loe seda kui:** oled lapsevanem, vanaema/vanaisa, Ãµpetaja vÃµi mentor ja tahad mÃµista, miks â€ADHD", Ã¤revus ja ekraanid vÃµivad olla seotud **stressiga**, mitte ainult â€diagnoosiga".
+> **Ã„ra loe kui:** otsid Ã¼he lause meditsiinilist diagnoosi â€” see on **haridusmaterjal**, mitte arsti otsus.
 
-**Allikas:** Dr Erica Komisar — *The Diary Of A CEO* (Steven Bartlett), 3. märts 2025, ~2h 37min · [Spotify](https://open.spotify.com/episode/0vXjbmobEhSX0p0REMkEVo) · [DOAC uurimustöö (PDF)](https://stevenbartlett.com/wp-content/uploads/2025/03/DOAC-Erica-Komisar-Independent-research-further-reading.pdf) · [ericakomisar.com](https://www.ericakomisar.com/)
+**Allikas:** Dr Erica Komisar â€” *The Diary Of A CEO* (Steven Bartlett), 3. mÃ¤rts 2025, ~2h 37min Â· [Spotify](https://open.spotify.com/episode/0vXjbmobEhSX0p0REMkEVo) Â· [DOAC uurimustÃ¶Ã¶ (PDF)](https://stevenbartlett.com/wp-content/uploads/2025/03/DOAC-Erica-Komisar-Independent-research-further-reading.pdf) Â· [ericakomisar.com](https://www.ericakomisar.com/)
 
-**Seotud:** **Lisa W** (Montessori 0–3, austus) · **Lisa BC** (nuputelefon, 17:00 reegel) · **Lisa V** (uni) · **Lisa P** (trauma, valideerimine) · **Lisa S** (kiusamine, aju) · **Lisa E** (pere rindejoon) · **Lisa J** (haridus, lasteaiad) · Raamat **01** (Unplugged) · Raamat **05** (Pere rindejoon)
+**Seotud:** **Lisa W** (Montessori 0â€“3, austus) Â· **Lisa BC** (nuputelefon, 17:00 reegel) Â· **Lisa V** (uni) Â· **Lisa P** (trauma, valideerimine) Â· **Lisa S** (kiusamine, aju) Â· **Lisa E** (pere rindejoon) Â· **Lisa J** (haridus, lasteaiad) Â· Raamat **01** (Unplugged) Â· Raamat **05** (Pere rindejoon)
 
-**Operatsioon „Peegel"** | Põhimõte: *kohalolek enne silti — stress enne „haigust"*
+**Operatsioon â€Peegel"** | PÃµhimÃµte: *kohalolek enne silti â€” stress enne â€haigust"*
 
-> *?? **Ära usu mind.** Komisar on üks ekspert ühe podcasti sees. Tema lasteaia- ja ema-rolli rõhuasetused on **vaidlusalused**. Loe DOAC PDF-i ja vastuargumendid. Kasuta seda lisa **küsimuste tekitamiseks**, mitte süüdistamiseks.*
+> *?? **Ã„ra usu mind.** Komisar on Ã¼ks ekspert Ã¼he podcasti sees. Tema lasteaia- ja ema-rolli rÃµhuasetused on **vaidlusalused**. Loe DOAC PDF-i ja vastuargumendid. Kasuta seda lisa **kÃ¼simuste tekitamiseks**, mitte sÃ¼Ã¼distamiseks.*
 
-> *Üks lause: **Lapse närvisüsteem vajab kohalolekut ja rahu — ekraan ja varajane eraldatus lisavad stressi; „ADHD" võib olla signaal, et süsteem on ülekoormatud.***
+> *Ãœks lause: **Lapse nÃ¤rvisÃ¼steem vajab kohalolekut ja rahu â€” ekraan ja varajane eraldatus lisavad stressi; â€ADHD" vÃµib olla signaal, et sÃ¼steem on Ã¼lekoormatud.***
 
 ---
 
-## 0. Renee hüpotees — üks lause
+## 0. Renee hÃ¼potees â€” Ã¼ks lause
 
-**Unplugged ei algab teismelisest — see algab beebi eas.** Kui laps kasvab kroonilise stressi, eraldatus ja ekraanide keskel, ei on ime, et sildid (ADHD, ärevus) kuhjuvad. Peegel ütleb: **kõigepealt vähenda stressiallikaid** (kohalolek, uni, ekraan, pere), siis vaata, mis jäi alles.
+**Unplugged ei algab teismelisest â€” see algab beebi eas.** Kui laps kasvab kroonilise stressi, eraldatus ja ekraanide keskel, ei on ime, et sildid (ADHD, Ã¤revus) kuhjuvad. Peegel Ã¼tleb: **kÃµigepealt vÃ¤henda stressiallikaid** (kohalolek, uni, ekraan, pere), siis vaata, mis jÃ¤i alles.
 
 ---
 
 ## 1. MIKS SEE ON OPORD-IS?
 
-| Küsimus | Vastus |
+| KÃ¼simus | Vastus |
 |---------|--------|
-| **Mis see EI ole** | Meditsiiniline diagnoosimise juhend; emade süüdistamine; „lasteaed = kurjus" ilma kontekstita |
-| **Mis see ON** | Komisari keskne sõnum **eesti keeles**, sidestatud Peegli pere-, ekraan- ja haridusliiniga |
-| **Miks Peegel?** | Operatsioon kaitseb **pere kohalolekut** ja **ekraanivaba aega** — sama telg mis Komisaril |
-| **Miks podcast?** | Üks populaarsemaid lapsevanemate teemasid 2025 — 4M+ vaatamist; paljud kuulsid, vähe struktureeritud kokkuvõtet |
+| **Mis see EI ole** | Meditsiiniline diagnoosimise juhend; emade sÃ¼Ã¼distamine; â€lasteaed = kurjus" ilma kontekstita |
+| **Mis see ON** | Komisari keskne sÃµnum **eesti keeles**, sidestatud Peegli pere-, ekraan- ja haridusliiniga |
+| **Miks Peegel?** | Operatsioon kaitseb **pere kohalolekut** ja **ekraanivaba aega** â€” sama telg mis Komisaril |
+| **Miks podcast?** | Ãœks populaarsemaid lapsevanemate teemasid 2025 â€” 4M+ vaatamist; paljud kuulsid, vÃ¤he struktureeritud kokkuvÃµtet |
 
 **Komisari kolm sammast:**
 
-| Samm | Tähendus | Peegli tõlge |
+| Samm | TÃ¤hendus | Peegli tÃµlge |
 |------|----------|--------------|
-| **Kohalolek** (presence) | Füüsiline ja emotsionaalne olemasolu | Lisa BC 17:00 · perede aeg · Lisa W austus |
-| **Prioriseerimine** (prioritization) | Laps enne karjääri-konveieri | Lisa E · Lisa I (inimene enne protsessi) |
-| **Ennetus** (prevention) | Juur, mitte ainult sümptomid | Lisa P · Lisa V · mitte ainult meditsin |
+| **Kohalolek** (presence) | FÃ¼Ã¼siline ja emotsionaalne olemasolu | Lisa BC 17:00 Â· perede aeg Â· Lisa W austus |
+| **Prioriseerimine** (prioritization) | Laps enne karjÃ¤Ã¤ri-konveieri | Lisa E Â· Lisa I (inimene enne protsessi) |
+| **Ennetus** (prevention) | Juur, mitte ainult sÃ¼mptomid | Lisa P Â· Lisa V Â· mitte ainult meditsin |
 
 ---
 
-## 2. OLUKORD — mida Komisar kirjeldab
+## 2. OLUKORD â€” mida Komisar kirjeldab
 
-### Numbrid (tema sõnast, podcast)
+### Numbrid (tema sÃµnast, podcast)
 
-| Näitaja | Hinnang |
+| NÃ¤itaja | Hinnang |
 |---------|---------|
-| Lapsed, kellel tõsine vaimne haigus enne täiskasvanuks saamist | ~**1/5** (USA); UK ~1/6 |
-| ADHD / ärevus / depressioon / käitumine | Kasvav trend; ta seostab **stressi** ja **keskkonna** muutustega |
-| Sündide langus | Ühiskond ei prioriseerib lastekasvatust (sidestab Lisa T KPI-dega) |
+| Lapsed, kellel tÃµsine vaimne haigus enne tÃ¤iskasvanuks saamist | ~**1/5** (USA); UK ~1/6 |
+| ADHD / Ã¤revus / depressioon / kÃ¤itumine | Kasvav trend; ta seostab **stressi** ja **keskkonna** muutustega |
+| SÃ¼ndide langus | Ãœhiskond ei prioriseerib lastekasvatust (sidestab Lisa T KPI-dega) |
 
-### Vastane narratiiv (mitte inimene — **mehhanism**)
+### Vastane narratiiv (mitte inimene â€” **mehhanism**)
 
 | Mehhanism | Mida see lapsele teeb |
 |-----------|----------------------|
-| **Algoritm + ekraan** | Krooniline dopamiini ja amügdala aktiveerimine |
-| **„Kvaliteetaeg" müüt** | Vanem kohal ainult oma graafiku järgi — laps vajab **oma tempos** kohalolekut |
-| **Varajane gruppihoid** (lasteaed &lt;3) | Eraldatus peamisest kiindumusfiguurist — tema sõnul ? stress, agressioon |
-| **Sümptomite vaikistamine** | Ravi ilma küsimuseta „kus stress tuleb?" |
+| **Algoritm + ekraan** | Krooniline dopamiini ja amÃ¼gdala aktiveerimine |
+| **â€Kvaliteetaeg" mÃ¼Ã¼t** | Vanem kohal ainult oma graafiku jÃ¤rgi â€” laps vajab **oma tempos** kohalolekut |
+| **Varajane gruppihoid** (lasteaed &lt;3) | Eraldatus peamisest kiindumusfiguurist â€” tema sÃµnul ? stress, agressioon |
+| **SÃ¼mptomite vaikistamine** | Ravi ilma kÃ¼simuseta â€kus stress tuleb?" |
 
-> *Peegel ei ütle: „ära mine lasteaeda." Peegel ütleb: **mõista riski**, vähenda stressi, tugevda kiindumust — ja vali ausalt, mis sinu perele võimalik on.*
+> *Peegel ei Ã¼tle: â€Ã¤ra mine lasteaeda." Peegel Ã¼tleb: **mÃµista riski**, vÃ¤henda stressi, tugevda kiindumust â€” ja vali ausalt, mis sinu perele vÃµimalik on.*
 
 ---
 
@@ -68,45 +68,45 @@
 
 | Window | Vanus | Miks loeb |
 |--------|-------|-----------|
-| **Esimene** | **0–3** | Kiindumus, emotsiooniregulatsioon, parem aju areng; „imeendumisperiood" (Montessori, Lisa W) |
-| **Teine** | **~9–25** (adolescents) | Sotsiaalne surve, kool, **sotsiaalmeedia**, identiteet; neuroplastilisus veel olemas |
+| **Esimene** | **0â€“3** | Kiindumus, emotsiooniregulatsioon, parem aju areng; â€imeendumisperiood" (Montessori, Lisa W) |
+| **Teine** | **~9â€“25** (adolescents) | Sotsiaalne surve, kool, **sotsiaalmeedia**, identiteet; neuroplastilisus veel olemas |
 
-**Parandus on võimalik:** esimese windowi „möödalaskmine" ei tähendab lõplikku kahju — teismelis eas ja täiskasvanusel reparatiivne suhe (terapeut, hooliv vanem) aitab (Komisar + Lisa P).
+**Parandus on vÃµimalik:** esimese windowi â€mÃ¶Ã¶dalaskmine" ei tÃ¤hendab lÃµplikku kahju â€” teismelis eas ja tÃ¤iskasvanusel reparatiivne suhe (terapeut, hooliv vanem) aitab (Komisar + Lisa P).
 
 ---
 
-## 4. KIINDUMUS — lühike tabel
+## 4. KIINDUMUS â€” lÃ¼hike tabel
 
-| Stiil | Varajane kogemus (lihtsustatud) | Täiskasvanu mustrid (lihtsustatud) |
+| Stiil | Varajane kogemus (lihtsustatud) | TÃ¤iskasvanu mustrid (lihtsustatud) |
 |-------|--------------------------------|-------------------------------------|
-| **Turvaline** | Järjepidev, tundlik hooldus | Tasakaal intiimsuses ja autonoomias |
-| **Vältiv** | Emotsionaalne distantseeritus | Intiimsuse vältimine |
-| **Ambivalentne** | Ebaühtlane kättesaadavus | Ärevus, klammerdumine |
-| **Desorganiseeritud** | Hirmutav või kaootiline hooldus | Volatiilsus, enesekahjustus |
+| **Turvaline** | JÃ¤rjepidev, tundlik hooldus | Tasakaal intiimsuses ja autonoomias |
+| **VÃ¤ltiv** | Emotsionaalne distantseeritus | Intiimsuse vÃ¤ltimine |
+| **Ambivalentne** | EbaÃ¼htlane kÃ¤ttesaadavus | Ã„revus, klammerdumine |
+| **Desorganiseeritud** | Hirmutav vÃµi kaootiline hooldus | Volatiilsus, enesekahjustus |
 
-**Peegli reegel:** kohtle lapsi (ja vanemaid) **tervete, normaalsete inimestena** — Lisa W, Lisa P, Steiger.
+**Peegli reegel:** kohtle lapsi (ja vanemaid) **tervete, normaalsete inimestena** â€” Lisa W, Lisa P, Steiger.
 
 ---
 
 ## 5. ADHD kui stressivastus (Komisari framing)
 
-> *Ta ütleb: võta **D** ära — see ei ole alati „häire", vaid **stressivastus**.*
+> *Ta Ã¼tleb: vÃµta **D** Ã¤ra â€” see ei ole alati â€hÃ¤ire", vaid **stressivastus**.*
 
 | Element | Komisari kirjeldus |
 |---------|-------------------|
-| **Amügdala** | „Sisselülitus" — hüpervigilantsus, hirm |
-| **Hippokampus** | „Väljalülitus" — ei reguleerib stressi tagasi |
-| **Tulemus** | „Gaas täis, pidurid puuduvad" — käitumine, tähelepanu |
-| **Stressiallikad** | Perekonflikt, eraldatus, kool, sõbrad, õpiraskused, **ülestimulatsioon** |
-| **Ravi** | Uuri stressi; meditsin = sümptomihaldus, mitte alati juur |
+| **AmÃ¼gdala** | â€SisselÃ¼litus" â€” hÃ¼pervigilantsus, hirm |
+| **Hippokampus** | â€VÃ¤ljalÃ¼litus" â€” ei reguleerib stressi tagasi |
+| **Tulemus** | â€Gaas tÃ¤is, pidurid puuduvad" â€” kÃ¤itumine, tÃ¤helepanu |
+| **Stressiallikad** | Perekonflikt, eraldatus, kool, sÃµbrad, Ãµpiraskused, **Ã¼lestimulatsioon** |
+| **Ravi** | Uuri stressi; meditsin = sÃ¼mptomihaldus, mitte alati juur |
 
 **Peegli positsioon:**
 
 | Tee | Kui |
 |-----|-----|
-| Vähenda stressi (kohalolek, uni, ekraan, kiusamine) | **Alati esimene samm** |
-| Spetsialist / diagnoos | Kui sümptomid püsivad või on oht |
-| Ära süüdi vanemat | Stress on **süsteemne** — majandus, üksikvanem, töö, infosõda |
+| VÃ¤henda stressi (kohalolek, uni, ekraan, kiusamine) | **Alati esimene samm** |
+| Spetsialist / diagnoos | Kui sÃ¼mptomid pÃ¼sivad vÃµi on oht |
+| Ã„ra sÃ¼Ã¼di vanemat | Stress on **sÃ¼steemne** â€” majandus, Ã¼ksikvanem, tÃ¶Ã¶, infosÃµda |
 
 ---
 
@@ -114,28 +114,28 @@
 
 **Komisari positsioon:**
 
-- Beebi vajab esimesel kolmel aastal **peamise kiindumusfiguuri** järjepidevust (ta rõhutab ema bioloogilist rolli oksütocini kaudu).
-- Lasteaed **ei ole** tema sõnul ideaalne „sotsialiseerimine" beebile — võib suurendada cortisoli, agressiooni, kiindumushäireid.
-- „Kvaliteetaeg" ei asenda **kogus + lapse tempo**.
+- Beebi vajab esimesel kolmel aastal **peamise kiindumusfiguuri** jÃ¤rjepidevust (ta rÃµhutab ema bioloogilist rolli oksÃ¼tocini kaudu).
+- Lasteaed **ei ole** tema sÃµnul ideaalne â€sotsialiseerimine" beebile â€” vÃµib suurendada cortisoli, agressiooni, kiindumushÃ¤ireid.
+- â€Kvaliteetaeg" ei asenda **kogus + lapse tempo**.
 
 **Vastuargumendid (loe ka neid):**
 
-- Pikauuringud: **pere dünaamika** ja hoolduse **kvaliteet** mõjutavad rohkem kui ainult setting.
-- Paljud pered **ei saavad** ilma lasteaiata — majandus, üksikvanem.
-- Head lasteaiad (Mad Montessori, Lisa J) võivad **toetada**, mitte asendada kiindumust.
+- Pikauuringud: **pere dÃ¼naamika** ja hoolduse **kvaliteet** mÃµjutavad rohkem kui ainult setting.
+- Paljud pered **ei saavad** ilma lasteaiata â€” majandus, Ã¼ksikvanem.
+- Head lasteaiad (Mad Montessori, Lisa J) vÃµivad **toetada**, mitte asendada kiindumust.
 
 **Peegli praktiline tabel:**
 
 | Sinu olukord | Samm |
 |--------------|------|
-| Võimalus olla kodus 0–3 | Kaalu — aga ära süüdi teisi |
-| Lasteaed vajalik | Vali **väike rühm**, stabiilne hooldaja, lühike päev |
-| Üksikvanem | Kinship / naabrus / Lisa BI kogukond |
-| Mure lapse käitumise pärast | Lisa P ? spetsialist ? **mitte ainult silt** |
+| VÃµimalus olla kodus 0â€“3 | Kaalu â€” aga Ã¤ra sÃ¼Ã¼di teisi |
+| Lasteaed vajalik | Vali **vÃ¤ike rÃ¼hm**, stabiilne hooldaja, lÃ¼hike pÃ¤ev |
+| Ãœksikvanem | Kinship / naabrus / Lisa BI kogukond |
+| Mure lapse kÃ¤itumise pÃ¤rast | Lisa P ? spetsialist ? **mitte ainult silt** |
 
 ---
 
-## 7. TEHNOLOOGIA JA EKRAANID — Unplugged tuum
+## 7. TEHNOLOOGIA JA EKRAANID â€” Unplugged tuum
 
 **Podcast timestamp ~2:22:23**
 
@@ -143,72 +143,72 @@
 
 | Vanus | Reegel |
 |-------|--------|
-| **&lt; 2 aastat** | **Ei tehnoloogiat** — ei iPhone, ei iPad |
-| **~2 aastat** | Koos vaadata üks rahulik saade (nt Mr. Rogers) — **koos**, mitte iseseisvalt |
-| **Pärast 2** | Rangelt reguleeritud; ekraan ei asenda vanemat |
-| **Teismeline** | Sotsiaalmeedia = eriti riskantne (perfektsionism, võrdlus, hirm) |
+| **&lt; 2 aastat** | **Ei tehnoloogiat** â€” ei iPhone, ei iPad |
+| **~2 aastat** | Koos vaadata Ã¼ks rahulik saade (nt Mr. Rogers) â€” **koos**, mitte iseseisvalt |
+| **PÃ¤rast 2** | Rangelt reguleeritud; ekraan ei asenda vanemat |
+| **Teismeline** | Sotsiaalmeedia = eriti riskantne (perfektsionism, vÃµrdlus, hirm) |
 
 ### Mehhanismid
 
 | Mehhanism | Mida see teeb |
 |-----------|---------------|
-| **Dopamiin** | Teismelise aju võib reageerida **~10×** tugevamalt kui täiskasvanu (tema analoog) |
-| **Amügdala** | Krooniline stress, hüpervigilantsus — eriti sotsiaalmeedia |
-| **Sõltuvus** | Raske „lahutada" seadmest pärast aktiveerimist |
+| **Dopamiin** | Teismelise aju vÃµib reageerida **~10Ã—** tugevamalt kui tÃ¤iskasvanu (tema analoog) |
+| **AmÃ¼gdala** | Krooniline stress, hÃ¼pervigilantsus â€” eriti sotsiaalmeedia |
+| **SÃµltuvus** | Raske â€lahutada" seadmest pÃ¤rast aktiveerimist |
 | **Asendus** | **Mitte midagi** asendab kohalolevat vanemat |
 
 ### Sidestus Peegliga
 
-| Tööriist | Kuidas |
+| TÃ¶Ã¶riist | Kuidas |
 |----------|--------|
-| **Lisa BC** | Isa/emme nutitelefon ankrus; pärast 17:00 nupp — **laps näeb eeskuju** |
-| **Raamat 01** | Unplugged — algoritmid ja tähelepanu |
-| **Perede aeg** | Ekraanivaba õhtu — mitte üks kord kuus, vaid **rituaal** |
-| **Lisa V** | Ekraan enne und = amügdala + halb uni |
+| **Lisa BC** | Isa/emme nutitelefon ankrus; pÃ¤rast 17:00 nupp â€” **laps nÃ¤eb eeskuju** |
+| **Raamat 01** | Unplugged â€” algoritmid ja tÃ¤helepanu |
+| **Perede aeg** | Ekraanivaba Ãµhtu â€” mitte Ã¼ks kord kuus, vaid **rituaal** |
+| **Lisa V** | Ekraan enne und = amÃ¼gdala + halb uni |
 
 ---
 
-## 8. EMA JA ISA — erinevad rollid (Komisari bioloogiline framing)
+## 8. EMA JA ISA â€” erinevad rollid (Komisari bioloogiline framing)
 
-| | Ema (oksütocin) | Isa (vasopressiin) |
+| | Ema (oksÃ¼tocin) | Isa (vasopressiin) |
 |---|-----------------|-------------------|
-| **Funktsioon** | Tundlik hooldus, rahustamine, nahk-nahk | Mänguline, kehaline stimulatsioon, uurimine |
-| **Peegel** | Beg mõlemad **vajalikud**; üksikvanem = rohkem koormus, mitte vähem armastus |
+| **Funktsioon** | Tundlik hooldus, rahustamine, nahk-nahk | MÃ¤nguline, kehaline stimulatsioon, uurimine |
+| **Peegel** | Beg mÃµlemad **vajalikud**; Ã¼ksikvanem = rohkem koormus, mitte vÃ¤hem armastus |
 
-> *Ära kasuta seda tabelit partneri süüdistamiseks. Kasuta **rollide täpsustamiseks**, kuidas mõlemad saavad kohal olla.*
+> *Ã„ra kasuta seda tabelit partneri sÃ¼Ã¼distamiseks. Kasuta **rollide tÃ¤psustamiseks**, kuidas mÃµlemad saavad kohal olla.*
 
 ---
 
-## 9. TÄIDEVIIMINE — 30-päevane SOP (pere)
+## 9. TÃ„IDEVIIMINE â€” 30-pÃ¤evane SOP (pere)
 
-### Faas 1 — STOP (nädal 1)
-
-| # | Tegevus |
-|---|---------|
-| 1 | **Ekraanireegel:** &lt;2 = null; ülejäänud = kirjalik limiit (vt §7) |
-| 2 | **Lisa BC:** kui vanemad — 17:00 nuputelefon |
-| 3 | **Üks kohaloleku blok** 20 min/päev — lapse tempos, telefon teises ruumis |
-| 4 | **Uni** (Lisa V): ekraan välja magamistoast |
-
-### Faas 2 — TUGEVDA (nädalad 2–4)
+### Faas 1 â€” STOP (nÃ¤dal 1)
 
 | # | Tegevus |
 |---|---------|
-| 5 | **Perede aeg** 1× nädalas — 60 min ilma ekraanita |
-| 6 | **Vestlus:** „Mis sind täna stressis tegi?" — mitte „miks sa nii käitud" |
-| 7 | Kui silt (ADHD jms) — küsi spetsialistilt: **mis stressiallikad?** |
-| 8 | Loe **Lisa W** — austus beebi eas; **Lisa P** — valideeri enne parandamist |
+| 1 | **Ekraanireegel:** &lt;2 = null; Ã¼lejÃ¤Ã¤nud = kirjalik limiit (vt Â§7) |
+| 2 | **Lisa BC:** kui vanemad â€” 17:00 nuputelefon |
+| 3 | **Ãœks kohaloleku blok** 20 min/pÃ¤ev â€” lapse tempos, telefon teises ruumis |
+| 4 | **Uni** (Lisa V): ekraan vÃ¤lja magamistoast |
 
-### Faas 3 — HINNA (kuu 2–3)
+### Faas 2 â€” TUGEVDA (nÃ¤dalad 2â€“4)
 
-| Küsimus | Hea märk | Halb märk |
+| # | Tegevus |
+|---|---------|
+| 5 | **Perede aeg** 1Ã— nÃ¤dalas â€” 60 min ilma ekraanita |
+| 6 | **Vestlus:** â€Mis sind tÃ¤na stressis tegi?" â€” mitte â€miks sa nii kÃ¤itud" |
+| 7 | Kui silt (ADHD jms) â€” kÃ¼si spetsialistilt: **mis stressiallikad?** |
+| 8 | Loe **Lisa W** â€” austus beebi eas; **Lisa P** â€” valideeri enne parandamist |
+
+### Faas 3 â€” HINNA (kuu 2â€“3)
+
+| KÃ¼simus | Hea mÃ¤rk | Halb mÃ¤rk |
 |---------|----------|-----------|
-| Õhtune ekraan | Väheneb | Kasvab |
-| Pere koosolekud | Regulaarsed | „Pole aega" |
-| Lapse ärevus / käitumine | Stabiliseerub või selgitus | Ilma toeta halveneb |
-| Vanema stress | Jagatud, toetatud | Üksik, läbipõlemine |
+| Ã•htune ekraan | VÃ¤heneb | Kasvab |
+| Pere koosolekud | Regulaarsed | â€Pole aega" |
+| Lapse Ã¤revus / kÃ¤itumine | Stabiliseerub vÃµi selgitus | Ilma toeta halveneb |
+| Vanema stress | Jagatud, toetatud | Ãœksik, lÃ¤bipÃµlemine |
 
-**Kui halb märk:** spetsialist (perearst, psühholoog) — **mitte ainult podcast**.
+**Kui halb mÃ¤rk:** spetsialist (perearst, psÃ¼hholoog) â€” **mitte ainult podcast**.
 
 ---
 
@@ -216,10 +216,10 @@
 
 | Tase | Mida teha |
 |------|-----------|
-| **Lasteaed / kool** | Küsi: rühma suurus, hooldaja stabiilsus, ekraanipoliitika |
-| **Montessori / Waldorf** | Lapse autonoomia + vähem algoritmiline surve (Lisa J) |
-| **Papsid.ee** | Isa kohalolek — Komisari „mõlemad rollid" praktikas |
-| **Maatriksi Lapsed** | Närvisüsteem, ellujäämisreiim — täiendab Lisa S, Lisa P |
+| **Lasteaed / kool** | KÃ¼si: rÃ¼hma suurus, hooldaja stabiilsus, ekraanipoliitika |
+| **Montessori / Waldorf** | Lapse autonoomia + vÃ¤hem algoritmiline surve (Lisa J) |
+| **Papsid.ee** | Isa kohalolek â€” Komisari â€mÃµlemad rollid" praktikas |
+| **Maatriksi Lapsed** | NÃ¤rvisÃ¼steem, ellujÃ¤Ã¤misreÅ¾iim â€” tÃ¤iendab Lisa S, Lisa P |
 
 ---
 
@@ -227,21 +227,21 @@
 
 | Raamat | Teema |
 |--------|-------|
-| *Being There: Why Prioritizing Motherhood in the First Three Years Matters* | 0–3, kohalolek |
-| *Chicken Little the Sky Isn't Falling* | Teismeline, ärevus, resilientsus |
+| *Being There: Why Prioritizing Motherhood in the First Three Years Matters* | 0â€“3, kohalolek |
+| *Chicken Little the Sky Isn't Falling* | Teismeline, Ã¤revus, resilientsus |
 
 ---
 
-## 12. VASTUARGUMENDID — aus lugu
+## 12. VASTUARGUMENDID â€” aus lugu
 
-| Komisari väide | Kriitika |
+| Komisari vÃ¤ide | Kriitika |
 |----------------|----------|
-| Lasteaed kahjustab kõiki | Kvaliteet ja kontekst loevad; paljud uuringud näitavad neutraalset või positiivset tulemust |
-| Ema roll bioloogiliselt ülim | Isa, teine hooldaja, vanavanem võivad olla turvaline kiindumus |
-| ADHD = ainult stress | ADHD on keerukas; meditsin aitab paljudel; ära lõpeta ravi ilma arstita |
-| Ühiskond „mõjutab valesti" | Struktuuriline surve (elukallidus, üksikvanem) — süüdi üksikvanemat mitte |
+| Lasteaed kahjustab kÃµiki | Kvaliteet ja kontekst loevad; paljud uuringud nÃ¤itavad neutraalset vÃµi positiivset tulemust |
+| Ema roll bioloogiliselt Ã¼lim | Isa, teine hooldaja, vanavanem vÃµivad olla turvaline kiindumus |
+| ADHD = ainult stress | ADHD on keerukas; meditsin aitab paljudel; Ã¤ra lÃµpeta ravi ilma arstita |
+| Ãœhiskond â€mÃµjutab valesti" | Struktuuriline surve (elukallidus, Ã¼ksikvanem) â€” sÃ¼Ã¼di Ã¼ksikvanemat mitte |
 
-**Peegel:** kuula podcasti, loe PDF, räägi spetsialistiga, **vali oma perele**.
+**Peegel:** kuula podcasti, loe PDF, rÃ¤Ã¤gi spetsialistiga, **vali oma perele**.
 
 ---
 
@@ -249,20 +249,20 @@
 
 | OPORD element | Lisa BJ |
 |---------------|---------|
-| Perede aeg ilma ekraanita | §7 + §9 |
+| Perede aeg ilma ekraanita | Â§7 + Â§9 |
 | Lisa BC nuputelefon | Vanema eeskuju lapsele |
-| Lisa W 0–3 | Sama window mis Komisar |
-| Lisa T sündide langus | Ühiskond ei prioriseerib lapsi |
-| Lisa P trauma | Ära süüdi; valideeri |
+| Lisa W 0â€“3 | Sama window mis Komisar |
+| Lisa T sÃ¼ndide langus | Ãœhiskond ei prioriseerib lapsi |
+| Lisa P trauma | Ã„ra sÃ¼Ã¼di; valideeri |
 | Raamat 01 Unplugged | Ekraan = vastane narratiiv |
 | Haridus Lisa J | Lasteaedade teadlik valik |
 
 ---
 
-## 14. Üks lause perele
+## 14. Ãœks lause perele
 
-> *Sa ei pead olema täiuslik vanem. Sa pead olema **piisavalt kohal**, et lapse närvisüsteem saaks rahulikult kasvada — ja piisavalt teadlik, et ekraan ei asenda sind.*
+> *Sa ei pead olema tÃ¤iuslik vanem. Sa pead olema **piisavalt kohal**, et lapse nÃ¤rvisÃ¼steem saaks rahulikult kasvada â€” ja piisavalt teadlik, et ekraan ei asenda sind.*
 
 ---
 
-*Edukatõendusmaterjal. Mitte meditsiiniline nõuanne. Allikas: DOAC podcast 2025-03-03. Operatsioon „Peegel" — Renee Aluste kodanikualgatus.*
+*EdukatÃµendusmaterjal. Mitte meditsiiniline nÃµuanne. Allikas: DOAC podcast 2025-03-03. Operatsioon â€Peegel" â€” Renee Aluste kodanikualgatus.*

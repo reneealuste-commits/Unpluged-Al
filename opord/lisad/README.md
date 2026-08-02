@@ -61,7 +61,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | BG | [lisa-bg-vesi-plastik-ja-taaskasutus.md](lisa-bg-vesi-plastik-ja-taaskasutus.md) | **Vesi ja plastik** — plastivaba veekultuur, joogikraanid, Šveitsi/Dubai mudel |
 | BH | [lisa-bh-voitluse-teadus.md](lisa-bh-voitluse-teadus.md) | **Võitluse teadus** — Hilli kasuta-või-kaota; takistused kui kasv; konflikt ei ole vaenlane |
 | BI | [lisa-bi-kogukond-tallinnas.md](lisa-bi-kogukond-tallinnas.md) | **Kogukond Tallinnas** — tõlgete audit; kogukonna loomine; Peegli kvartal; Grok Imagine prompt |
-| BJ | [lisa-bj-erica-komisar-lapse-attachement-ja-tehnoloogia.md](lisa-bj-erica-komisar-lapse-attachement-ja-tehnoloogia.md) | **Dr Erica Komisar (DOAC)** — kiindumus 0–3, stress/ADHD, lasteaed, ekraanid; Spotify episood 2025-03-03 |
+| BJ | [lisa-bj-erica-komisar-lapse-attachement-ja-tehnoloogia.md](lisa-bj-erica-komisar-lapse-attachement-ja-tehnoloogia.md) · [PDF](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/komisar-opord-est-cd84/opord/LISA_BJ_KOMISAR_PRINT.pdf) | **Dr Erica Komisar (DOAC)** — kiindumus 0–3, stress/ADHD, lasteaed, ekraanid; Spotify episood 2025-03-03 |
 | AW | [lisa-aw-motlemine-kiiresti-ja-aeglaselt.md](lisa-aw-motlemine-kiiresti-ja-aeglaselt.md) | **Mõtlemine kiiresti ja aeglaselt** — Kahneman; System 1/2, mõttevead, stress, kelnerilaua lugu |
 | AX | [lisa-ax-demo-perekond-ja-eeskujud.md](lisa-ax-demo-perekond-ja-eeskujud.md) | **Demo-perekond** — pereväärtuste promijad, eeskujude välja toomine, värbamisoskus |
 | AY | [lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md](lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md) | **Kuldne sild** — Sun Tzu + Art of the Deal; esimene manööver; AI; juhtide kutse |

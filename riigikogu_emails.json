@@ -1,0 +1,394 @@
+[
+  {
+    "nimi": "Aivar Kokk",
+    "email": "aivar.kokk@riigikogu.ee"
+  },
+  {
+    "nimi": "Aivar Sõerd",
+    "email": "aivar.soerd@riigikogu.ee"
+  },
+  {
+    "nimi": "Alar Laneman",
+    "email": "alar.laneman@riigikogu.ee"
+  },
+  {
+    "nimi": "Aleksandr Tšaplõgin",
+    "email": "aleksandr.tsaplogin@riigikogu.ee"
+  },
+  {
+    "nimi": "Aleksei Jevgrafov",
+    "email": "aleksei.jevgrafov@riigikogu.ee"
+  },
+  {
+    "nimi": "Anastassia Kovalenko-Kõlvart",
+    "email": "anastassia.kovalenko-kolvart@riigikogu.ee"
+  },
+  {
+    "nimi": "Ando Kiviberg",
+    "email": "ando.kiviberg@riigikogu.ee"
+  },
+  {
+    "nimi": "Andre Hanimägi",
+    "email": "andre.hanimagi@riigikogu.ee"
+  },
+  {
+    "nimi": "Andrei Korobeinik",
+    "email": "andrei.korobeinik@riigikogu.ee"
+  },
+  {
+    "nimi": "Andres Metsoja",
+    "email": "andres.metsoja@riigikogu.ee"
+  },
+  {
+    "nimi": "Andrus Seeme",
+    "email": "andrus.seeme@riigikogu.ee"
+  },
+  {
+    "nimi": "Annely Akkermann",
+    "email": "annely.akkermann@riigikogu.ee"
+  },
+  {
+    "nimi": "Anti Allas",
+    "email": "anti.allas@riigikogu.ee"
+  },
+  {
+    "nimi": "Anti Haugas",
+    "email": "anti.haugas@riigikogu.ee"
+  },
+  {
+    "nimi": "Anti Poolamets",
+    "email": "anti.poolamets@riigikogu.ee"
+  },
+  {
+    "nimi": "Ants Frosch",
+    "email": "ants.frosch@riigikogu.ee"
+  },
+  {
+    "nimi": "Diana Ingerainen",
+    "email": "diana.ingerainen@riigikogu.ee"
+  },
+  {
+    "nimi": "Eerik-Niiles Kross",
+    "email": "eerik-niiles.kross@riigikogu.ee"
+  },
+  {
+    "nimi": "Eero Merilind",
+    "email": "eero.merilind@riigikogu.ee"
+  },
+  {
+    "nimi": "Enn Eesmaa",
+    "email": "enn.eesmaa@riigikogu.ee"
+  },
+  {
+    "nimi": "Ester Karuse",
+    "email": "ester.karuse@riigikogu.ee"
+  },
+  {
+    "nimi": "Evelin Poolamets",
+    "email": "evelin.poolamets@riigikogu.ee"
+  },
+  {
+    "nimi": "Hanah Lahe",
+    "email": "hanah.lahe@riigikogu.ee"
+  },
+  {
+    "nimi": "Helir-Valdor Seeder",
+    "email": "helir-valdor.seeder@riigikogu.ee"
+  },
+  {
+    "nimi": "Heljo Pikhof",
+    "email": "heljo.pikhof@riigikogu.ee"
+  },
+  {
+    "nimi": "Helle-Moonika Helme",
+    "email": "helle-moonika.helme@riigikogu.ee"
+  },
+  {
+    "nimi": "Helmen Kütt",
+    "email": "helmen.kytt@riigikogu.ee"
+  },
+  {
+    "nimi": "Henn Põlluaas",
+    "email": "henn.polluaas@riigikogu.ee"
+  },
+  {
+    "nimi": "Irja Lutsar",
+    "email": "irja.lutsar@riigikogu.ee"
+  },
+  {
+    "nimi": "Jaak Aab",
+    "email": "jaak.aab@riigikogu.ee"
+  },
+  {
+    "nimi": "Jaak Valge",
+    "email": "jaak.valge@riigikogu.ee"
+  },
+  {
+    "nimi": "Jaanus Karilaid",
+    "email": "jaanus.karilaid@riigikogu.ee"
+  },
+  {
+    "nimi": "Juku-Kalle Raid",
+    "email": "juku-kalle.raid@riigikogu.ee"
+  },
+  {
+    "nimi": "Jüri Jaanson",
+    "email": "jyri.jaanson@riigikogu.ee"
+  },
+  {
+    "nimi": "Kadri Tali",
+    "email": "kadri.tali@riigikogu.ee"
+  },
+  {
+    "nimi": "Kalev Stoicescu",
+    "email": "kalev.stoicescu@riigikogu.ee"
+  },
+  {
+    "nimi": "Kalle Grünthal",
+    "email": "kalle.grynthal@riigikogu.ee"
+  },
+  {
+    "nimi": "Kalle Laanet",
+    "email": "kalle.laanet@riigikogu.ee"
+  },
+  {
+    "nimi": "Katrin Kuusemäe",
+    "email": "katrin.kuusemae@riigikogu.ee"
+  },
+  {
+    "nimi": "Kersti Sarapuu",
+    "email": "kersti.sarapuu@riigikogu.ee"
+  },
+  {
+    "nimi": "Kristina Šmigun-Vähi",
+    "email": "kristina.smigun-vahi@riigikogu.ee"
+  },
+  {
+    "nimi": "Kristo Enn Vaga",
+    "email": "kristoenn.vaga@riigikogu.ee"
+  },
+  {
+    "nimi": "Lauri Laats",
+    "email": "lauri.laats@riigikogu.ee"
+  },
+  {
+    "nimi": "Lauri Läänemets",
+    "email": "lauri.laanemets@riigikogu.ee"
+  },
+  {
+    "nimi": "Lea Danilson-Järg",
+    "email": "lea.danilson-jarg@riigikogu.ee"
+  },
+  {
+    "nimi": "Leo Kunnas",
+    "email": "leo.kunnas@riigikogu.ee"
+  },
+  {
+    "nimi": "Liina Kersna",
+    "email": "liina.kersna@riigikogu.ee"
+  },
+  {
+    "nimi": "Luisa Värk",
+    "email": "luisa.vark@riigikogu.ee"
+  },
+  {
+    "nimi": "Madis Kallas",
+    "email": "madis.kallas@riigikogu.ee"
+  },
+  {
+    "nimi": "Madis Timpson",
+    "email": "madis.timpson@riigikogu.ee"
+  },
+  {
+    "nimi": "Maido Ruusmann",
+    "email": "maido.ruusmann@riigikogu.ee"
+  },
+  {
+    "nimi": "Mait Klaassen",
+    "email": "mait.klaassen@riigikogu.ee"
+  },
+  {
+    "nimi": "Marek Reinaas",
+    "email": "marek.reinaas@riigikogu.ee"
+  },
+  {
+    "nimi": "Margit Sutrop",
+    "email": "margit.sutrop@riigikogu.ee"
+  },
+  {
+    "nimi": "Maria Jufereva-Skuratovski",
+    "email": "maria.jufereva-skuratovski@riigikogu.ee"
+  },
+  {
+    "nimi": "Mario Kadastik",
+    "email": "mario.kadastik@riigikogu.ee"
+  },
+  {
+    "nimi": "Maris Lauri",
+    "email": "maris.lauri@riigikogu.ee"
+  },
+  {
+    "nimi": "Marko Mihkelson",
+    "email": "marko.mihkelson@riigikogu.ee"
+  },
+  {
+    "nimi": "Mart Helme",
+    "email": "mart.helme@riigikogu.ee"
+  },
+  {
+    "nimi": "Mart Maastik",
+    "email": "mart.maastik@riigikogu.ee"
+  },
+  {
+    "nimi": "Mart Võrklaev",
+    "email": "mart.vorklaev@riigikogu.ee"
+  },
+  {
+    "nimi": "Martin Helme",
+    "email": "martin.helme@riigikogu.ee"
+  },
+  {
+    "nimi": "Mati Raidma",
+    "email": "mati.raidma@riigikogu.ee"
+  },
+  {
+    "nimi": "Meelis Kiili",
+    "email": "meelis.kiili@riigikogu.ee"
+  },
+  {
+    "nimi": "Mihkel Lees",
+    "email": "mihkel.lees@riigikogu.ee"
+  },
+  {
+    "nimi": "Peeter Ernits",
+    "email": "peeter.ernits@riigikogu.ee"
+  },
+  {
+    "nimi": "Peeter Tali",
+    "email": "peeter.tali@riigikogu.ee"
+  },
+  {
+    "nimi": "Pipi-Liis Siemann",
+    "email": "pipi-liis.siemann@riigikogu.ee"
+  },
+  {
+    "nimi": "Priit Sibul",
+    "email": "priit.sibul@riigikogu.ee"
+  },
+  {
+    "nimi": "Raimond Kaljulaid",
+    "email": "raimond.kaljulaid@riigikogu.ee"
+  },
+  {
+    "nimi": "Rain Epler",
+    "email": "rain.epler@riigikogu.ee"
+  },
+  {
+    "nimi": "Reili Rand",
+    "email": "reili.rand@riigikogu.ee"
+  },
+  {
+    "nimi": "Rene Kokk",
+    "email": "rene.kokk@riigikogu.ee"
+  },
+  {
+    "nimi": "Riina Sikkut",
+    "email": "riina.sikkut@riigikogu.ee"
+  },
+  {
+    "nimi": "Signe Kivi",
+    "email": "signe.kivi@riigikogu.ee"
+  },
+  {
+    "nimi": "Signe Riisalo",
+    "email": "signe.riisalo@riigikogu.ee"
+  },
+  {
+    "nimi": "Siim Pohlak",
+    "email": "siim.pohlak@riigikogu.ee"
+  },
+  {
+    "nimi": "Stig Rästa",
+    "email": "stig.rasta@riigikogu.ee"
+  },
+  {
+    "nimi": "Tanel Kiik",
+    "email": "tanel.kiik@riigikogu.ee"
+  },
+  {
+    "nimi": "Tanel Tein",
+    "email": "tanel.tein@riigikogu.ee"
+  },
+  {
+    "nimi": "Tarmo Tamm",
+    "email": "tarmo.tamm@riigikogu.ee"
+  },
+  {
+    "nimi": "Tiit Maran",
+    "email": "tiit.maran@riigikogu.ee"
+  },
+  {
+    "nimi": "Timo Suslov",
+    "email": "timo.suslov@riigikogu.ee"
+  },
+  {
+    "nimi": "Toomas Järveoja",
+    "email": "toomas.jarveoja@riigikogu.ee"
+  },
+  {
+    "nimi": "Toomas Uibo",
+    "email": "toomas.uibo@riigikogu.ee"
+  },
+  {
+    "nimi": "Tõnis Lukas",
+    "email": "tonis.lukas@riigikogu.ee"
+  },
+  {
+    "nimi": "Tõnis Mölder",
+    "email": "tonis.molder@riigikogu.ee"
+  },
+  {
+    "nimi": "Urmas Kruuse",
+    "email": "urmas.kruuse@riigikogu.ee"
+  },
+  {
+    "nimi": "Urmas Reinsalu",
+    "email": "urmas.reinsalu@riigikogu.ee"
+  },
+  {
+    "nimi": "Urve Tiidus",
+    "email": "urve.tiidus@riigikogu.ee"
+  },
+  {
+    "nimi": "Vadim Belobrovtsev",
+    "email": "vadim.belobrovtsev@riigikogu.ee"
+  },
+  {
+    "nimi": "Valdo Randpere",
+    "email": "valdo.randpere@riigikogu.ee"
+  },
+  {
+    "nimi": "Varro Vooglaid",
+    "email": "varro.vooglaid@riigikogu.ee"
+  },
+  {
+    "nimi": "Vilja Toomast",
+    "email": "vilja.toomast@riigikogu.ee"
+  },
+  {
+    "nimi": "Vladimir Arhipov",
+    "email": "vladimir.arhipov@riigikogu.ee"
+  },
+  {
+    "nimi": "Yoko Alender",
+    "email": "yoko.alender@riigikogu.ee"
+  },
+  {
+    "nimi": "Züleyxa Izmailova",
+    "email": "zuleyxa.izmailova@riigikogu.ee"
+  },
+  {
+    "nimi": "Õnne Pillak",
+    "email": "onne.pillak@riigikogu.ee"
+  }
+]

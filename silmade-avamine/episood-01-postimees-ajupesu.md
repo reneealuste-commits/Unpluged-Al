@@ -14,6 +14,53 @@ Postimees avaldas juhtkirja **„Ajupesu koht pole koolis“** (Urmas Nemvaltsi 
 
 ---
 
+## Mõtteviga — ühes selge reas
+
+**Postimees vastab küsimusele „mis sisu õppekavas puudu on?“ argumendiga „info on juba kättesaadav“.**
+
+See on loogiline viga. Kättesaadavus ja pädevus on eri asjad.
+
+| Küsimus | Mida Naulainen / Mondo ütlevad | Mida PM vastab |
+|--------|--------------------------------|----------------|
+| Mis **sisu** on õppekavas nõrk? | Globaliseerumine, arengukoostöö, kliima, ränne — laiem maailmapilt | Schengen, uudised, geograafia — **info on juba olemas** |
+| Mis **oskus** on vaja? | Kriitiline mõtlemine nende teemade kaudu | (PM nõustub) kriitiline mõtlemine on vajalik |
+
+PM ütleb sisuliselt: *„Me ei tea, mis puudu on“* — aga vastab ise küsimusele *„miks peaks midagi lisama?“* teise küsimusega: *„lapsed leiavad info ise“*.
+
+**See ei vastab.** Kui probleem on info üleküllus, siis kriitiline mõtlemine on vajalik *just nimelt* nendel teemadel, millega lapsed meedias kõige rohkem kokku puutuvad — mitte nendest teemadest kõneluse vältimisega.
+
+---
+
+## PM-i argumendi skeem (ja kus see murdub)
+
+```
+ETTEPANEK:  Õppekavasse rohkem maailmaharidust (globaliseerumine, arengukoostöö…)
+                    ↓
+PM LOOGIKA:  Info on juba kättesaadav (Schengen, uudised, geograafia)
+                    ↓
+PM JÄRELDUS:  Ei saa aru, mis täpsemalt puudu on
+                    ↓
+PM SILD:      „Ajupesu“ + karikatuur (1952 = 2024)
+```
+
+**Murdumispunkt:** samm „info on kättesaadav“ → „ei saa aru, mis puudu on“.
+
+Kättesaadav info ei tähendab, et õppekava on täielik. See tähendab ainult, et **ilma juhendamiseta** jõuab lapseni kõige rohkem just see info, mida populistid ja emotsionaalsed narratiivid kõige rohkem toodavad — ränne, kliima, „globaalne“ vs „oma“.
+
+Kui PM ise kirjutab, et vaja on kriitilist mõtlemist, siis **just need teemad** on kohad, kus seda pädevust arendada — mitte kohad, mida õppekavast välja jätta.
+
+---
+
+## Kolm lisamõtteviga (lühidalt)
+
+1. **Vastuolu:** „Ei saa aru, mis puudu on“ ↔ „Kriitilist mõtlemist on vaja arendada.“ Kui tead, mis pädevus on vajalik, küsi praktikutelt, mis **sisu** seda pädevust toetab.
+
+2. **Sildistamine argumenti asemel:** „Ajupesu“ ja karikatuur ei näitavad, *miks* ettepanek on vale — nad ütlevad ainult, et see *tundub* nagu ajupesu. See on emotsionaalne silt, mitte argumendi lükkamine.
+
+3. **Allika määrgistamine:** „Pagulasabiga tegelev MTÜ Mondo“ — enne argumendini jõudmist on ettepaneku tegija juba halvustatud. See on *poisoning the well*, mitte debatt.
+
+---
+
 ## Miks see sobib „Silmade avamise“ sarja?
 
 See ei on hariduspoliitiline nõuandev tekst. See on **näide**, kuidas:
@@ -71,17 +118,21 @@ Pärast lugemist:
 
 **Silmade avamine #01**
 
-Postimehe juhtkiri „Ajupesu koht pole koolis“ on täpne näide sellest, miks kriitiline mõtlemine ei saa olla eraldi tund — see peab toimuma *päris* tekstide ja *päris* karikatuuride juures.
+Postimehe juhtkiri „Ajupesu koht pole koolis“ — üks mõtteviga, ühes reas:
 
-Toimetus kirjutab, et ei saa aru, mis õppekavades puudu on. Samal lehel: õpilastel tuleb arendada kriitilist mõtlemist. Kui see tundub loogiline, loe uuesti. See on vastuolu, mitte positsioon.
+**PM vastab küsimusele „mis sisu õppekavas puudu on?“ argumendiga „info on juba kättesaadav“.**
 
-Õpetaja Siim Ruul pani praktiku nurga kirja paremini kui mina seda teha saaks: globaliseerumine, arengukoostöö, kliimamuutused ja ränne — need on teemad, millega lapsed juba kokku puutuvad ja mida populistid kõige rohkem ründavad. Pädevusi ei õpetatakse tühjas ruumis. Need kasvavad sisust.
+See on loogiline viga. Kättesaadavus ≠ pädevus.
 
-Ja karikatuur? 1952 vs 2024 — sama muster, uus silt. See ei on haridusdebatt. See on ajupesu *demonstratsioon*, mitte hoiatus.
+Kui info on ülekülluses, siis kriitiline mõtlemine on vajalik *just* nendel teemadel, millega lapsed meedias kõige rohkem kokku puutuvad — globaliseerumine, kliima, ränne. Neid teemasid õppekavast välja jättes ei õpetad kriitilist mõtlemist. Sa lased lapse infosetti ilma tööriistadeta.
 
-Aitäh, Postimees — tõesti. See juhtkiri on õppetund. Mitte ajaloo tunnis. Meediakriitikas.
+PM ütleb: „Ei saa aru, mis puudu on.“ Samal lehel: „Kriitilist mõtlemist on vaja arendada.“ Kui tead, mis pädevus on vajalik — küsi praktikutelt, mis **sisu** seda toetab. Õpetaja Siim Ruul vastas juba: just need maailmahariduse teemad.
 
-Kui tahad näha, kuidas sildistamine asendab argumenti, loe juhtkiri. Kui tahad näha, kuidas praktik vastab, loe Siim Ruuli postitus.
+Ja karikatuur? 1952 vs 2024 — sama muster, uus silt. See ei lükkab argumenti ümber. See sildistab. Ajupesu *demonstratsioon*, mitte hoiatus.
+
+Aitäh, Postimees. See juhtkiri on õppetund. Mitte ajaloo tunnis — meediakriitikas.
+
+#SilmadeAvamine #KriitilineMõtlemine #Meediakriitika
 
 #SilmadeAvamine #KriitilineMõtlemine #Meediakriitika
 
@@ -91,7 +142,7 @@ Kui tahad näha, kuidas sildistamine asendab argumenti, loe juhtkiri. Kui tahad 
 
 *(kui tahad toetada Siim Ruuli argumenti ilma tema teksti kopeerimata)*
 
-> Praktikud vastavad: globaliseerumine, arengukoostöö, kliimamuutused, ränne — teemad, millega lapsed juba kokku puutuvad. Kriitilist mõtlemist ei õpetatakse eraldi tunnis. See juhtkiri koos karikatuuriga on ise hea näide, miks meediakriitika vajab sisu, mitte loosungeid.
+> PM-i mõtteviga ühes reas: vastab küsimusele „mis sisu puudu on?“ argumendiga „info on kättesaadav“. Kättesaadavus ≠ pädevus. Kui info on ülekülluses, tuleb kriitilist mõtlemist arendada just nendel teemadel, millega lapsed kokku puutuvad — mitte neid õppekavast välja jättes. Praktikud vastavad: globaliseerumine, kliima, ränne.
 
 ---
 

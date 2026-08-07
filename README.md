@@ -12,6 +12,7 @@ Riik viib ellu TI-hüppe; õpetajate igapäevane olukord sõltub paljuski **koha
 | [docs/kov-luhiteave.md](docs/kov-luhiteave.md) | Üheleheline lühiteave volikogule / ametnikele |
 | [docs/kohtumise-agenda.md](docs/kohtumise-agenda.md) | 60–90 min kohtumise mall |
 | [docs/peegli-metoodika.md](docs/peegli-metoodika.md) | Peegli harjutus enne TI-otsuseid |
+| [docs/ekiri-harju-kov.md](docs/ekiri-harju-kov.md) | E-kirja mall Harju KOV haridusspetsialistidele |
 
 ## Peegel
 

@@ -35,6 +35,10 @@ Seega: **muudatuse aisse viimiseks pead tõesti minema KOV-i** — volikogu hari
 
 ## Praktiline rada (12 kuud)
 
+### Esimene samm: 1-1 kaugemalt
+
+Ära alusta masskirjaga ega koduvaldaga. Üks inimene, üks videokõne, üks KOV — järjekord ja mallid: `1-1-algus-plan.md`. **Esimene siht: Kuusalu vald** (`ekiri-1-1-kuusalu.md`).
+
 ### Kuud 1–2: Kontakt ja üks KOV
 
 - Vali **üks** vald või linn (sul on side või geograafiline loogika)

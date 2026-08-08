@@ -4,6 +4,12 @@ Materjalid õpetajate ja tehisintellekti teemale — eriti **KOV tasandi** otsus
 
 Riik viib ellu TI-hüppe; õpetajate igapäevane olukord sõltub paljuski **kohalikust omavalitsusest** (munitsipaalkoolid, aeg, tugi, töökorraldus).
 
+## DOCX allalaadimised
+
+**[Unpluged-Al KOV pakett (DOCX)](https://github.com/reneealuste-commits/Unpluged-Al/raw/main/docs/docx/Unpluged-Al-KOV-pakett.docx)** — kõik peamised materjalid ühes failis.
+
+Täielik nimekiri: [docs/ALLALAADIMISED.md](docs/ALLALAADIMISED.md)
+
 ## Dokumentid
 
 | Fail | Sisu |

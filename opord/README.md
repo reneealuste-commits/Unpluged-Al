@@ -31,6 +31,13 @@ Eesti keeles koostatud viiepunktiline **paranemis-teekond** (OPORD-formaat) vast
 
 Skeem: [Lisa AQ](lisad/lisa-aq-sidepakkide-jaotus-skeem.md)
 
+### Koolitused (koolitajale)
+
+| Kood | Teema | Markdown | DOCX |
+|------|-------|----------|------|
+| **KK1** | Inimlik tuum — turvalisus, naer, puudutus, kütmine, mäng, looming (90 min) | [KK1-inimlik-tuum-koolituskaart.md](kursid/KK1-inimlik-tuum-koolituskaart.md) | [KK1-inimlik-tuum-koolituskaart.docx](kursid/KK1-inimlik-tuum-koolituskaart.docx) |
+| **K0** | Ava silmad mini-kursus (EN videod) | [K0-ava-silmad-mini-en.md](kursid/K0-ava-silmad-mini-en.md) | — |
+
 ### Täielik pakett (K2)
 
 | Formaat | Link |

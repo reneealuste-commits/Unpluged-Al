@@ -6,6 +6,8 @@ Riik viib ellu TI-hüppe; õpetajate igapäevane olukord sõltub paljuski **koha
 
 ## DOCX allalaadimised
 
+**[OPORD — täielik operatiivkorraldus (DOCX)](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/kov-peegli-materjalid-ea2e/docs/docx/OPORD-Unpluged-Al-KOV.docx)**
+
 **[Unpluged-Al KOV pakett (DOCX)](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/kov-peegli-materjalid-ea2e/docs/docx/Unpluged-Al-KOV-pakett.docx)** — kõik peamised materjalid ühes failis.
 
 Täielik nimekiri: [docs/ALLALAADIMISED.md](docs/ALLALAADIMISED.md)

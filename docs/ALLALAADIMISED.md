@@ -4,6 +4,10 @@ Haru: `cursor/kov-peegli-materjalid-ea2e` (pärast PR merge’i asendub `main`).
 
 ## Täispakett (soovitatav)
 
+**OPORD** — täielik operatiivkorraldus kampaania jaoks.
+
+[Laadi alla OPORD-Unpluged-Al-KOV.docx](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/kov-peegli-materjalid-ea2e/docs/docx/OPORD-Unpluged-Al-KOV.docx)
+
 **Unpluged-Al KOV pakett** — lühiteave, agenda, peegli metoodika, strateegia, 1-1 plaan ja esimesed e-kirjad ühes failis.
 
 [Laadi alla Unpluged-Al-KOV-pakett.docx](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/kov-peegli-materjalid-ea2e/docs/docx/Unpluged-Al-KOV-pakett.docx)

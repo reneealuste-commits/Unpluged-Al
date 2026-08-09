@@ -1,6 +1,6 @@
 # Lisa BD - Maria puhastusplaan (co-parenting Clean-Up)
 
-> **Lugeja saab:** nelja faasi raamistik, parallel parenting reeglid, NVC-skriptid ja "naeratuse märgid" õppetund.  
+> **Lugeja saab:** nelja faasi raamistik, parallel parenting reeglid, **DARVO selgitus**, NVC-skriptid ja "naeratuse märgid" õppetund.  
 > **Loe seda kui:** oled lapse teise hooldaja ja vajad **selget laeva**, mitte elurännaku päästmist.  
 > **Ära loe kui:** otsid kiiret "tagasi saamise" skripti või diagnoosimist vestluses reaalajas.
 
@@ -32,7 +32,50 @@
 
 Eesmärk **EI OLE** "Maria tagasi saada". Eesmärk: **Maria on reguleeritud piisavalt, et valida stabiilse, täiskasvanu juhitud raami - ilma vanade trauma-dünaamikatega.**
 
+
 ---
+
+## DARVO - mis see on (ja miks see loeb siin)
+
+**DARVO** on psühholoog **Jennifer Freyd** lühend (1997). See kirjeldab mustrit, kuidas inimene **vastutuse alt väljumiseks** sageli teeb kolm sammu järjest:
+
+| Samm | Inglise keeles | Mida see tähendab |
+|------|----------------|-------------------|
+| **D** | **Deny** (eitamine) | „Ma ei tegin seda." / „Sa mõtled valesti." / „See ei juhtus nii." |
+| **A** | **Attack** (rünne) | Süüdistab vastu: „Sa oled hull / ohtlik / AI / manipuleerija." |
+| **RVO** | **Reverse Victim and Offender** | Pöördab rollid: *ta* on ohver, *sa* on süüdlane — „Sa võtsid lapse ära", „Sa teed mulle haiget", „Ma olen üksik ema, sina mind ründad." |
+
+**Üks lause:**
+
+> Kui keegi tunneb, et tema tegu või piir on nähtavaks tulnud, võib ta **eitada**, **rünnata** ja **pöörata** nii, et tema tundub ohver ja teine süüdlane.
+
+See ei on automaatne diagnoos. See on **muster**, mida saad **märkida** ja **dokumenteerida** — mitte reaalajas diagnoosida ega avalikult süüdistada.
+
+### Kuidas see võib kõlada co-parentingus
+
+| Faas | Näide (illustratiivne) |
+|------|------------------------|
+| **D - eitamine** | „Ma ei sea sulle tingimusi" (kui piir on just seatud) · „Ma ei ründasin" |
+| **A - rünne** | „Sa oled AI" · „Sa oled ohtlik" · „Sa vajad teraapiat" · „Sa manipuleerid elatisega kontakti saamiseks" |
+| **RVO - rollide pööramine** | „Sa võtsid lapse ära" · „Politsei / lapse kaitse aitab minul" · „Ma olen üksik, sina mind hülgad" · „Ma igatsen tõelist meest — sa oled vale versioon" |
+
+**Miks laps on siin kriitiline:** DARVO väljas ei jää ainult kahe täiskasvanu vahel. Laps **elab** emotsioonide väljas — eriti kui laps on kasutatud regulaatorina või kui narratiiv (ohver / ohtlik isa) kujuneb lapse ümber.
+
+### Sinu pool (Clean-Up raam)
+
+| Tee | Ära tee |
+|-----|---------|
+| **Märgi muster** kirjas (kuupäev, lühike fakt, lapse fookus) | Ära ütle vestluses: „Sa teed DARVO" |
+| **Hoia raam** — praktiline vastus või stop | Ära lähe vasturünnakuks („sina ka...") |
+| **Parallel parenting** — kirjalik, lapse fookus | Ära püüa „võita" tõe lahingut |
+| **Lisa Q** — NVC ilma süüdistuseta | Ära naerata / emoji piiri järel (Lisa AE, naeratuse märgid) |
+
+### Faas 4 tingimus „Ei DARVO" tähendab
+
+Enne uut lähenemist peab olema **mõõdetav muutus**: kui piir või vastutus tuleb teemaks, ei järgneb automaatselt rünnak + „ma olen ohver, sa oled süüdlane". See on **käitumise** kriteerium — mitte üks „hea vestlus".
+
+**Seotud:** Lisa **P** (valideerimine — ära võta isiklikult, aga hoia piir), Lisa **S** (trauma — keha kaitsepositsioonis reageerib kiiremini), Lisa **Q** (austav keel ilma dominantsita).
+
 
 ## 1. Olukorra hinnang (andmete põhjal)
 

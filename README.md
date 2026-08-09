@@ -1,16 +1,32 @@
 # Unpluged-Al
 
-**0-etapp kehas → EMDR eeskujulik liigutus → Operatsioon Peegel**
+## SÕNUM
 
-Strateegia kahes kihtis:
-1. **EMDR liigutus** — keegi läheb ja näitab, kuidas puurist välja tulla (0. etapp)
-2. **Operatsioon Peegel** — poliitiline koordineerimine, kui keha on valmis sõnumit vastu võtma (4. etapp)
+> **Kõik jääb lukku kehasse. Kuni keha on lukus, ei tööta ükski vastus.**
+
+Süsteem 2 (loogika, otsused, vastused) läheb **ainult siis** tööle, kui Süsteem 1 (keha) on reguleeritud ja vabastatud häirivatest mõtetest.
+
+**[Loe täielikku sõnumit →](docs/SONUM.md)**
+
+---
+
+## Strateegia
+
+```
+0. LUKK KEHAS     → EMDR vabastab (kodujuhised testitud: 3a mälestus vabaks)
+1. EESKUJU        → Keegi läheb ja näitab
+2. USALDUS        → Unit, horisontaalselt
+3. VASTUSED       → Alles siis Süsteem 2
+4. PEEGEL         → Operatsioon Peegel (poliitika)
+```
 
 ## Dokumendid
 
 | Dokument | Kirjeldus |
 |----------|-----------|
-| [EMDR eeskujulik liigutus](docs/EMDR_EESKUJULIK_LIIGUTUS.md) | 0-etapp: keegi läheb ja näitab |
+| **[SÕNUM](docs/SONUM.md)** | **Tuum — ei tohi müra alla mattuda** |
+| [EMDR kodujuhised](docs/EMDR_KODUJUHISED.md) | Testitud. 3a mälestus vabaks. |
+| [EMDR eeskujulik liigutus](docs/EMDR_EESKUJULIK_LIIGUTUS.md) | Keegi läheb ja näitab |
 | [Pioneer One-Sheet](docs/EMDR_PIONEERI_ONE_SHEET.md) | Vestluse ettevalmistamine |
 | [Operatsioon Peegel](docs/operatsioon-peegel/) | Poliitiline koordineerimine (4. etapp) |
 

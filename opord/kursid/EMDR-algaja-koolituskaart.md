@@ -6,13 +6,49 @@
 |---|---|
 | **Kood** | EMDR1 |
 | **Teema** | Bilateral stimulatsioon kodus — iseendale ja paarilisele |
-| **Versioon** | 1.0 · 9. august 2026 |
+| **Versioon** | 1.1 · 9. august 2026 |
 | **Kasutaja** | Ise / paar kodus |
 | **Sihtgrupp** | Täiskasvanud — kerge stress, mure, igapäevane pinge |
 | **Eeldused** | **Mitte** trauma, PTSD, raske kriis — siis EMDR-terapeut |
 | **Seotud** | emdr-algaja-juhised.docx, emdr-home-guide.html |
 
 > *See juhend on hariduslik. Ei asenda psühholoogi või EMDR-terapeudi abi.*
+
+---
+
+## Lugu — kuidas EMDR sündis
+
+**Mai 1987. Üks jalutuskäik pargis.**
+
+Francine Shapiro oli psühholoogia doktorant, kes otsis dissertatsiooni teemat ja katsetas oma kehaga nagu laboratooriumis. Ühel päeval jalutaski ta pargis ja märkas midagi imelikku: häiriv mõte tuli peas — ja siis kadus. Ilma igasuguse pingutuseta. Ta pole maha maganud, ta ei unustanud. See lihtsalt kaotas oma haava.
+
+Ta hakkas tähele panna. Iga kord, kui selline mõte tuli, liikusid silmad kergelt, kiiresti — vasakule, paremale, ja tagasi. Ja mõte nõrgene. Kadus.
+
+Siis ta proovis teadlikult. Tõi meelde midagi, mis teda häiris. Liigutas silmi sama viisil. Ja see toimus uuesti. Emotsioon lahjenes. Mõte oli ikka seal — aga enam ei haavanud.
+
+Francine ei leiutanud midagi uut. Ta märkas, mis kehas juba toimub — ja hakkas seda tahtlikult kasutama. Ta kutsus sõpru: *„Too midagi, mis sind häirib."* Juhendas neid liigutama silmi. See töötas ka nemal.
+
+Kuue kuuga katsetas ta umbes 70 inimesega. 1989. aastal avaldas ta esimese kontrollitud uuringu. Täna on EMDR üks maailma enim uuritud traumateraapia meetodeid — ja see algas ühest jalutuskäigust.
+
+---
+
+## Miks see sind puudutab?
+
+Sa ei pea olema katki, et seda proovida. Sa ei pea aru saama, kuidas see töötab. Piisab 15 minutist.
+
+Sinu aju töötleb igal ööl unes mõtteid — silmad liiguvad REM une ajal vasakule ja paremale. See on looduslik. Aga mõnikord jääb mõte kinni: homme esitlus, tüliline lause, pingutus kaelas. See tuleb tagasi ja tagasi, isegi kui sa „ei taha sellele mõelda."
+
+EMDR kodune versioon aitab ajul seda kinniolevat mõtet liikuma lükata — nagu Shapiro silmad pargis jalutades tegid. Mitte sellepärast, et sa oleksid haige. Sellepärast, et su keha juba teab, kuidas tulla rahule. Sa annad sellele 15 minutit ja natuke abi.
+
+> *Sa ei pea uskuma mind. Proovi ühe korra. 15 minutit. Üks kerge mõte. Ja vaata, kas su keha vastab.*
+
+---
+
+## Mis on EMDR?
+
+**EMDR** (Eye Movement Desensitization and Reprocessing) kasutab **bilateral stimulatsiooni** — vahelduvat signaali mõlemale poole keha: silmaliigutused, koputused või heli vasakul ja paremal. See aitab ajul töödelda häirivaid mõtteid ja emotsioone loomulikul viisil — mitte surudes, mitte unustades, vaid läbi töötades.
+
+Kodus saad kasutada lihtsustatud versiooni. See ei asenda terapeuti raske trauma korral, aga võib aidata kerge pinge, ärevuse ja uneprobleemide juures — esimene samm tagasi rahusse.
 
 ---
 

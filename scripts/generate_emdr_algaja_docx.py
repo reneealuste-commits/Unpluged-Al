@@ -61,16 +61,30 @@ def main():
     body(doc, "Iseendale ja paarilisele kodus", italic=True, center=True)
     body(doc, "Lihtsad sammud bilateral stimulatsiooniga — 15–20 minutit", center=True)
 
+    heading(doc, "Lugu — kuidas EMDR sündis", 2)
+    body(doc, "Mai 1987. Üks jalutuskäik pargis.", bold=True)
+    body(doc, "Francine Shapiro oli psühholoogia doktorant, kes otsis dissertatsiooni teemat ja katsetas oma kehaga nagu laboratooriumis. Ühel päeval jalutaski ta pargis ja märkas midagi imelikku: häiriv mõte tuli peas — ja siis kadus. Ilma igasuguse pingutuseta. Ta pole maha maganud, ta ei unustanud. See lihtsalt kaotas oma haava.")
+    body(doc, "Ta hakkas tähele panna. Iga kord, kui selline mõte tuli, liikusid silmad kergelt, kiiresti — vasakule, paremale, ja tagasi. Ja mõte nõrgene. Kadus.")
+    body(doc, "Siis ta proovis teadlikult. Tõi meelde midagi, mis teda häiris. Liigutas silmi sama viisil. Ja see toimus uuesti. Emotsioon lahjenes. Mõte oli ikka seal — aga enam ei haavanud.")
+    body(doc, 'Francine ei leiutanud midagi uut. Ta märkas, mis kehas juba toimub — ja hakkas seda tahtlikult kasutama. Ta kutsus sõpru: "Too midagi, mis sind häirib." Juhendas neid liigutama silmi. See töötas ka nemal.')
+    body(doc, "Kuue kuuga katsetas ta umbes 70 inimesega. 1989. aastal avaldas ta esimese kontrollitud uuringu. Täna on EMDR üks maailma enim uuritud traumateraapia meetodeid — ja see algas ühest jalutuskäikust.")
+
+    heading(doc, "Miks see sind puudutab?", 2)
+    body(doc, "Sa ei pea olema katki, et seda proovida. Sa ei pea aru saama, kuidas see töötab. Piisab 15 minutist.")
+    body(doc, 'Sinu aju töötleb igal ööl unes mõtteid — silmad liiguvad REM une ajal vasakule ja paremale. See on looduslik. Aga mõnikord jääb mõte kinni: homme esitlus, tüliline lause, pingutus kaelas. See tuleb tagasi ja tagasi, isegi kui sa "ei taha sellele mõelda."')
+    body(doc, "EMDR kodune versioon aitab ajul seda kinniolevat mõtet liikuma lükata — nagu Shapiro silmad pargis jalutades tegid. Mitte sellepärast, et sa oleksid haige. Sellepärast, et su keha juba teab, kuidas tulla rahule. Sa annad sellele 15 minutit ja natuke abi.")
+    body(doc, "Sa ei pea uskuma mind. Proovi ühe korra. 15 minutit. Üks kerge mõte. Ja vaata, kas su keha vastab.", italic=True, center=True)
+
+    heading(doc, "Mis on EMDR?", 2)
+    body(doc, "EMDR (Eye Movement Desensitization and Reprocessing) kasutab bilateral stimulatsiooni — vahelduvat signaali mõlemale poole keha (silma liigutused, koputused, heli). See aitab ajul töödelda häirivaid mõtteid ja emotsioone loomulikul viisil — mitte surudes, mitte unustades, vaid läbi töötades.")
+    body(doc, "Kodus saad kasutada lihtsustatud versiooni. See ei asenda terapeuti raske trauma korral, aga võib aidata kerge pinge, ärevuse ja uneprobleemide juures.")
+
     body(doc, "")
     p = body(doc, "OLULINE — loe enne alustamist", bold=True)
     bullet(doc, "See juhend on kerge stressi, mure ja igapäevase pingete jaoks — mitte trauma või PTSD raviks.")
     bullet(doc, "Kui sul on raske trauma, vägistamine, peksmine, sõjalaagrid, enesetapumõtted või dissotsiatsioon — pöördu EMDR-terapeudi poole.")
     bullet(doc, "Kui distress tõuseb üle 8/10, lõpeta kohe ja kasuta maandamist (lõpus).")
     bullet(doc, "Paariline töö nõuab usaldust. Te ei pea jagama kogu lugu — piisab ühest kergest teemast.")
-
-    heading(doc, "Mis on EMDR?", 2)
-    body(doc, "EMDR (Eye Movement Desensitization and Reprocessing) kasutab bilateral stimulatsiooni — vahelduvat signaali mõlemale poole keha (silma liigutused, koputused, heli). See aitab ajul töödelda tülisid mõtteid ja emotsioone.")
-    body(doc, "Kodus saad kasutada lihtsustatud versiooni. See ei asenda terapeuti, aga võib aidata kerge pinge, ärevuse ja uneprobleemide korral.")
 
     heading(doc, "1. Valmistumine (mõlemale)", 2)
     numbered(doc, "Vali vaikne koht. Istu mugavalt. Vesi lähedal.")

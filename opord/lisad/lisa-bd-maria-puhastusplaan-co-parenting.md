@@ -1,14 +1,19 @@
-# Lisa BD — Maria puhastusplaan (co-parenting Clean-Up)
+# Lisa BD - Maria puhastusplaan (co-parenting Clean-Up)
 
-> **Lugeja saab:** nelja faasi raamistik, parallel parenting reeglid, NVC-skriptid ja „naeratuse märgid" õppetund.  
-> **Loe seda kui:** oled lapse teise hooldaja ja vajad **selget laeva**, mitte elurännaku päästmist.  
-> **Ära loe kui:** otsid kiiret „tagasi saamise" skripti või diagnoosimist vestluses reaalajas.
+> **Lugeja saab:** nelja faasi raamistik, parallel parenting reeglid, NVC-skriptid ja "naeratuse mÃ¤rgid" Ãµppetund.  
+> **Loe seda kui:** oled lapse teise hooldaja ja vajad **selget laeva**, mitte elurÃ¤nnaku pÃ¤Ã¤stmist.  
+> **Ã„ra loe kui:** otsid kiiret "tagasi saamise" skripti vÃµi diagnoosimist vestluses reaalajas.
 
-**Operatsioon „Peegel"** | Kiht **K3** | Isiklik juhtimisdokument  
+**Operatsioon "Peegel"** | Kiht **K3** | Isiklik juhtimisdokument  
 **Allikas:** Grok vestlus *High-Stakes Co-Parenting: Elatis Somatic Needs* (shard-3)  
 **Kaust:** [pereleptus](../pereleptus/README.md)
 
-> ?? **Levitamine:** mitte K0/K1. Ainult isiklik kasutus või usaldatud nõustaja (terapeut, jurist). Ära jaga avalikult ega vestluses „tõe" üle vaieldes.
+| Formaat | Link |
+|---------|------|
+| **Word (DOCX)** | [Maria-puhastusplaan.docx](../pereleptus/Maria-puhastusplaan.docx) |
+| **Markdown** | See fail |
+
+> **Hoiatus - levitamine:** mitte K0/K1. Ainult isiklik kasutus vÃµi usaldatud nÃµustaja (terapeut, jurist). Ã„ra jaga avalikult ega vestluses "tÃµe" Ã¼le vaieldes.
 
 ---
 
@@ -17,72 +22,72 @@
 | Allikas | Mida see annab |
 |---------|----------------|
 | **Extreme Ownership** | Oma laeva juhtimine; rescue ei asendab juhtimist |
-| **The Body Keeps the Score** (van der Kolk) | Närvisüsteem kaitsepositsioonis — keha enne loogikat |
+| **The Body Keeps the Score** (van der Kolk) | NÃ¤rvisÃ¼steem kaitsepositsioonis - keha enne loogikat |
 | **NVC** (Lisa Q) | Praktiline keel ilma DARVO-ta |
-| **Juhtimislaev** | Tartu siht; laps turvaliselt; täiskasvanu töö eraldi |
+| **Juhtimislaev** | Tartu siht; laps turvaliselt; tÃ¤iskasvanu tÃ¶Ã¶ eraldi |
 
-**Põhireegel:**
+**PÃµhireegel:**
 
-> *Sa jääd oma laevale. Ta teeb töö, et laevale tulla. Sa ei hüppad täis auguga elurännakusse.*
+> *Sa jÃ¤Ã¤d oma laevale. Ta teeb tÃ¶Ã¶, et laevale tulla. Sa ei hÃ¼ppad tÃ¤is auguga elurÃ¤nnakusse.*
 
-Eesmärk **EI OLE** „Maria tagasi saada". Eesmärk: **Maria on reguleeritud piisavalt, et valida stabiilse, täiskasvanu juhitud raami — ilma vanade trauma-dünaamikatega.**
+EesmÃ¤rk **EI OLE** "Maria tagasi saada". EesmÃ¤rk: **Maria on reguleeritud piisavalt, et valida stabiilse, tÃ¤iskasvanu juhitud raami - ilma vanade trauma-dÃ¼naamikatega.**
 
 ---
 
-## 1. Olukorra hinnang (andmete põhjal)
+## 1. Olukorra hinnang (andmete pÃµhjal)
 
-| Tema | Märkus |
+| Tema | MÃ¤rkus |
 |------|--------|
-| **Trauma taust** | Võimalik keeruk trauma (lapsepõne, hülgamine, enesetapukatsed, reenactment-mustrid) — **mitte diagnoos vestluses** |
-| **Närvisüsteem** | Kaitsepositsioon; keha võib keelduda täielikust kontaktist, kui tunneb ohtu |
-| **Splitting** | „Tõeline Renee" vs „AI, mis võttis üle" — emotsionaalne mustvalge |
-| **Lapse kasutamine** | Laps võib olla emotsioonide regulaator — see on lapsele ohtlik |
-| **Elatis küsimused** | Sageli **ühenduse pakk** (turvalisus, usaldus, „kas sa ikka oled olemas?") — mitte ainult raha |
-| **Hooldaja koormus** | Üksik hooldaja amplifitseerib kõike |
+| **Trauma taust** | VÃµimalik keeruk trauma (lapsepÃµne, hÃ¼lgamine, enesetapukatsed, reenactment-mustrid) - **mitte diagnoos vestluses** |
+| **NÃ¤rvisÃ¼steem** | Kaitsepositsioon; keha vÃµib keelduda tÃ¤ielikust kontaktist, kui tunneb ohtu |
+| **Splitting** | "TÃµeline Renee" vs "AI, mis vÃµttis Ã¼le" - emotsionaalne mustvalge |
+| **Lapse kasutamine** | Laps vÃµib olla emotsioonide regulaator - see on lapsele ohtlik |
+| **Elatis kÃ¼simused** | Sageli **Ã¼henduse pakk** (turvalisus, usaldus, "kas sa ikka oled olemas?") - mitte ainult raha |
+| **Hooldaja koormus** | Ãœksik hooldaja amplifitseerib kÃµike |
 
-**Mis plaan ebaõnnestub:**
+**Mis plaan ebaÃµnnestub:**
 
 - Plaan, mis ignoreerib trauma keha tasandil
-- Plaan, mis **rescue'ib** (hüppab elurännakusse, loobub oma laevast)
+- Plaan, mis **rescue'ib** (hÃ¼ppab elurÃ¤nnakusse, loobub oma laevast)
 
 ---
 
-## 2. Põhiülesanne — neli faasi
+## 2. PÃµhiÃ¼lesanne - neli faasi
 
-### Faas 1 — Turvalisus ja stabiliseerimine (0–3 kuud)
+### Faas 1 - Turvalisus ja stabiliseerimine (0-3 kuud)
 
-**Prioriteet:** verejooksu peatamine; lapse närvisüsteemi kaitse.
+**Prioriteet:** verejooksu peatamine; lapse nÃ¤rvisÃ¼steemi kaitse.
 
 | Tegevus | Sisu |
 |---------|------|
-| **Parallel parenting** | Kirjalik side; lapse fookus; 24 h vastuse aken; **mitte** emotsiooniline töö sinu kaudu |
+| **Parallel parenting** | Kirjalik side; lapse fookus; 24 h vastuse aken; **mitte** emotsiooniline tÃ¶Ã¶ sinu kaudu |
 | **Individuaalne teraapia** (tema pool) | Trauma-teadlik kliinik; EMDR-koolitus; keeruk trauma / BPD-tunnused arusaadav |
 | **Aine ajalugu** | Avatud screening ja tugi vajadusel (osana rekordist, mida omastatakse) |
 | **Emme-beebi praktiline tugi** | Uni, reguleerimine, Montessori-kaldkriips rahulik keskkond (Lisa W) |
-| **Raha** | Puhas finantspanus **kui reaalne ja kokku lepitud** — mitte emotsiooniline valuuta |
+| **Raha** | Puhas finantspanus **kui reaalne ja kokku lepitud** - mitte emotsiooniline valuuta |
 
-### Faas 2 — Trauma töö (3–9 kuud)
+### Faas 2 - Trauma tÃ¶Ã¶ (3-9 kuud)
 
-**Tööriist:** EMDR (või EMDR + DBT oskused) — PTSD ja trauma-tunnuste puhul.
+**TÃ¶Ã¶riist:** EMDR (vÃµi EMDR + DBT oskused) - PTSD ja trauma-tunnuste puhul.
 
-**Sihtmärgid (järjekord):**
+**SihtmÃ¤rgid (jÃ¤rjekord):**
 
-1. Lapsepõne tuumamälestused
-2. Suhte triggerid (lahusolek, „AI" narratiiv, hirm lapsega üksi)
+1. LapsepÃµne tuumamÃ¤lestused
+2. Suhte triggerid (lahusolek, "AI" narratiiv, hirm lapsega Ã¼ksi)
 3. Praegune somaatiline sulgumine sinu suunas
 
-> **Paariteraapia on enneaegne** ja sageli kahjulik selles faasis. Individuaalne töö esmalt.
+> **Paariteraapia on enneaegne** ja sageli kahjulik selles faasis. Individuaalne tÃ¶Ã¶ esmalt.
 
-### Faas 3 — Võimekuse ehitus (tema pool)
+### Faas 3 - VÃµimekuse ehitus (tema pool)
 
 Extreme Ownership **tema poolel:**
 
-- Omastada rünnaku mustrid ja mõju lapsele
-- Distress tolerance — distants ei toobiks paanikat ega viha
-- Majanduslik ja emotsionaalne iseseisvus (elatis-küsimused kui ühenduse pakk)
-- Reguleerimine **ilma** et laps või sa oleksid väline regulaator
+- Omastada rÃ¼nnaku mustrid ja mÃµju lapsele
+- Distress tolerance - distants ei toobiks paanikat ega viha
+- Majanduslik ja emotsionaalne iseseisvus (elatis-kÃ¼simused kui Ã¼henduse pakk)
+- Reguleerimine **ilma** et laps vÃµi sa oleksid vÃ¤line regulaator
 
-### Faas 4 — Uus lähenemine (ainult pärast muutust)
+### Faas 4 - Uus lÃ¤henemine (ainult pÃ¤rast muutust)
 
 **Tingimused enne uut kontakti:**
 
@@ -93,116 +98,116 @@ Extreme Ownership **tema poolel:**
 
 **Kutse:**
 
-> *„Laev läheb Tartusse. See on stabiilne. Kui tahad laevale tulla, tuled täiskasvanuna, kes on oma töö teinud. Ma ei lahku laevast, et sind järele tulla."*
+> *"Laev lÃ¤heb Tartusse. See on stabiilne. Kui tahad laevale tulla, tuled tÃ¤iskasvanuna, kes on oma tÃ¶Ã¶ teinud. Ma ei lahku laevast, et sind jÃ¤rele tulla."*
 
 ---
 
-## 3. Täideviimine — sinu juhtimisroll (mitteülevaatav)
+## 3. TÃ¤ideviimine - sinu juhtimisroll (mitteÃ¼levaatav)
 
 | # | Tegevus |
 |---|---------|
-| 1 | **Hoia raam** — ära diagnoosi ega kaitse reaalajas |
-| 2 | **Dokumenteeri** — mustrid, kuupäevad, lapse fookus |
-| 3 | **Kaitse oma närvisüsteemi** — see on Extreme Ownership lapse eest |
-| 4 | **Parallel parenting vaikimisi** kuni võimekuse tõendid |
-| 5 | **Juhi siht** (Tartu) — tema valib, kas on valmis järgima |
+| 1 | **Hoia raam** - Ã¤ra diagnoosi ega kaitse reaalajas |
+| 2 | **Dokumenteeri** - mustrid, kuupÃ¤evad, lapse fookus |
+| 3 | **Kaitse oma nÃ¤rvisÃ¼steemi** - see on Extreme Ownership lapse eest |
+| 4 | **Parallel parenting vaikimisi** kuni vÃµimekuse tÃµendid |
+| 5 | **Juhi siht** (Tartu) - tema valib, kas on valmis jÃ¤rgima |
 
 ---
 
-## 4. Kohe teha (24–72 h)
+## 4. Kohe teha (24-72 h)
 
 | # | Tee |
 |---|-----|
-| 1 | **Ära vasta** emotsioonilist narratiivi (AI, oht, politsei, „kes lapse ära võttis") |
-| 2 | **Ära vaielda** AI, ohu, politsei või „kes lapse ära võttis" üle |
-| 3 | **Praktilised küsimused** — lühike, neutraalne (vt skriptid allpool) |
-| 4 | **Eemalda emotsionaalne värvitus** — naeratavad emojid piiri järel, iroonia, „sa vajad ka teraapiat" |
-| 5 | **Parallel parenting** — kirjalik, lapse fookus, 24 h |
-| 6 | **Raha** — ainult kui reaalne ja kokku lepitud; mitte emotsiooniline valuuta |
+| 1 | **Ã„ra vasta** emotsioonilist narratiivi (AI, oht, politsei, "kes lapse Ã¤ra vÃµttis") |
+| 2 | **Ã„ra vaielda** AI, ohu, politsei vÃµi "kes lapse Ã¤ra vÃµttis" Ã¼le |
+| 3 | **Praktilised kÃ¼simused** - lÃ¼hike, neutraalne (vt skriptid allpool) |
+| 4 | **Eemalda emotsionaalne vÃ¤rvitus** - naeratavad emojid piiri jÃ¤rel, iroonia, "sa vajad ka teraapiat" |
+| 5 | **Parallel parenting** - kirjalik, lapse fookus, 24 h |
+| 6 | **Raha** - ainult kui reaalne ja kokku lepitud; mitte emotsiooniline valuuta |
 
-### Ära tee
+### Ã„ra tee
 
 - Sunni teraapiasse
-- Selgita, miks ta üksik on
-- Sööda tsüklit edasi
-- Hüppa elurännakusse
+- Selgita, miks ta Ã¼ksik on
+- SÃ¶Ã¶da tsÃ¼klit edasi
+- HÃ¼ppa elurÃ¤nnakusse
 - Kasuta last hoobina
 - DARVO vastu
 
 ---
 
-## 5. Side — NVC skriptid (Lisa Q täiendus)
+## 5. Side - NVC skriptid (Lisa Q tÃ¤iendus)
 
-### Elatis — kui ta küsib konkreetselt
+### Elatis - kui ta kÃ¼sib konkreetselt
 
-> *Ma näen, et sa küsisid konkreetselt elatise kohta, sest sul on vaja planeerida.*  
-> *Ma saan aru, et see teema on seotud ka sügavama vajadusega tunda, et ma olen endiselt olemas.*  
+> *Ma nÃ¤en, et sa kÃ¼sisid konkreetselt elatise kohta, sest sul on vaja planeerida.*  
+> *Ma saan aru, et see teema on seotud ka sÃ¼gavama vajadusega tunda, et ma olen endiselt olemas.*  
 > *Minu keha on praegu vaba.*  
-> *Ütle mulle, mis summa ja mis ajagraafik sulle praegu majanduslikult hingamisruumi annaks — siis saan ma selle peale konkreetse vastuse anda.*
+> *Ãœtle mulle, mis summa ja mis ajagraafik sulle praegu majanduslikult hingamisruumi annaks - siis saan ma selle peale konkreetse vastuse anda.*
 
-### Kui vestlus läheb narratiivi
+### Kui vestlus lÃ¤heb narratiivi
 
 **Variant A (konkreetne):**
 
-> *Ma osalen lapse ülalpidamisel. Ütle konkreetne summa ja kuupäev, millega sa arvestad — siis annan vastuse.*
+> *Ma osalen lapse Ã¼lalpidamisel. Ãœtle konkreetne summa ja kuupÃ¤ev, millega sa arvestad - siis annan vastuse.*
 
 **Variant B (puhas piir):**
 
-> *Elatise küsimusele vastan eraldi. Praegu ma selle vestlusega ei jätka.*
+> *Elatise kÃ¼simusele vastan eraldi. Praegu ma selle vestlusega ei jÃ¤tka.*
 
-Siis **stop** — mitte üks sõna rohkem.
+Siis **stop** - mitte Ã¼ks sÃµna rohkem.
 
 ### GOTWA enne lapsega seotud kohtumist
 
 | G | O | T | W | A |
 |---|---|---|---|---|
-| Lapse turvalisus ja rahu | Lapse fookus, praktiline | 24 h kirjalik side | Kui oht — 112 / lapse kaitse | Järgmine kontakt ainult kirjas |
+| Lapse turvalisus ja rahu | Lapse fookus, praktiline | 24 h kirjalik side | Kui oht - 112 / lapse kaitse | JÃ¤rgmine kontakt ainult kirjas |
 
 ---
 
-## 6. Naeratuse märgid — õppetund
+## 6. Naeratuse mÃ¤rgid - Ãµppetund
 
-**Kontekst:** *„Need on minu naeratuse märgid"* — Grok vestluse kirjeldus.
+**Kontekst:** *"Need on minu naeratuse mÃ¤rgid"* - Grok vestluse kirjeldus.
 
-| Mis juhtus | Mõju tema närvisüsteemis |
+| Mis juhtus | MÃµju tema nÃ¤rvisÃ¼steemis |
 |------------|--------------------------|
-| Tema ütles: *„Sina ei sea mulle tingimusi"* | Piiri seadmine |
-| Sinu vastus: naeratavad emojid | Loetud kui **naeruvääristamine**, **üleolek**, **piiri eiramine** |
-| Trauma + splitting kontekstis | Uus tõend narratiivile: „AI / ohtlik / ei austab" |
+| Tema Ã¼tles: *"Sina ei sea mulle tingimusi"* | Piiri seadmine |
+| Sinu vastus: naeratavad emojid | Loetud kui **naeruvÃ¤Ã¤ristamine**, **Ã¼leolek**, **piiri eiramine** |
+| Trauma + splitting kontekstis | Uus tÃµend narratiivile: "AI / ohtlik / ei austab" |
 
 **Extreme Ownership:**
 
 > *Selge. Omastan vea.*  
-> Naeratavad emojid piiri järel on **inconsistent** Clean-Up raamiga — need annavad splittingule uut materjali.
+> Naeratavad emojid piiri jÃ¤rel on **inconsistent** Clean-Up raamiga - need annavad splittingule uut materjali.
 
-**Lisa AE reegel:** olukorra teadlikkus ja kiitus **ei** tähendab emojide kasutamist, kui teine inimene on just seadnud piiri.
-
----
-
-## 7. Tsükkel — mida sa kontrollid
-
-```
-Tema rünnak ? sa tõmbud tagasi või vastad ? ta tunneb hülgamist ? rünnak tugevneb ? laps elab selle väljas
-```
-
-Sa ei kontrollid tema närvisüsteemi. Sa kontrollid **oma poole** tsüklis täieliku selgusega.
-
-**Raha kui sõiduk:**
-
-Elatis ei on peamiselt raha. See on sõiduk vajadustele: turvalisus, usaldus, jagatud reaalsus, lubadus „ma olen ikka olemas".
+**Lisa AE reegel:** olukorra teadlikkus ja kiitus **ei** tÃ¤hendab emojide kasutamist, kui teine inimene on just seadnud piiri.
 
 ---
 
-## 8. Teraapiakriteeriumid (tema pool — orienteeruv)
+## 7. TsÃ¼kkel - mida sa kontrollid
 
-Kui ta läheb (või kui küsitakse soovitust), eelda:
+```
+Tema rÃ¼nnak -> sa tÃµmbud tagasi vÃµi vastad -> ta tunneb hÃ¼lgamist -> rÃ¼nnak tugevneb -> laps elab selle vÃ¤ljas
+```
 
-| Kriteerium | Põhjus |
+Sa ei kontrollid tema nÃ¤rvisÃ¼steemi. Sa kontrollid **oma poole** tsÃ¼klis tÃ¤ieliku selgusega.
+
+**Raha kui sÃµiduk:**
+
+Elatis ei on peamiselt raha. See on sÃµiduk vajadustele: turvalisus, usaldus, jagatud reaalsus, lubadus "ma olen ikka olemas".
+
+---
+
+## 8. Teraapiakriteeriumid (tema pool - orienteeruv)
+
+Kui ta lÃ¤heb (vÃµi kui kÃ¼sitakse soovitust), eelda:
+
+| Kriteerium | PÃµhjus |
 |------------|--------|
-| EMDR-koolitus | Trauma töö |
+| EMDR-koolitus | Trauma tÃ¶Ã¶ |
 | Keeruk trauma / kiire reguleerimine | BPD-tunnused arusaadav |
 | **Mitte** paariteraapia esimeses faasis | Kahjulik enneaegne |
-| Lapse areng — Montessori / beebi austus (Lisa W) | Praktiline tugi |
+| Lapse areng - Montessori / beebi austus (Lisa W) | Praktiline tugi |
 
 ---
 
@@ -210,10 +215,10 @@ Kui ta läheb (või kui küsitakse soovitust), eelda:
 
 | Kiht | See dokument |
 |------|----------------|
-| K0 | ? |
-| K1 | ? |
-| K2 | ? |
-| **K3** | ? ainult nõudmisel |
+| K0 | Ei |
+| K1 | Ei |
+| K2 | Ei |
+| **K3** | Jah - ainult nÃµudmisel |
 
 Lisa **AQ** sidepakk: `P3-SPETSIALIST` (koos Lisa T, AA, AF jt).
 
@@ -223,27 +228,27 @@ Lisa **AQ** sidepakk: `P3-SPETSIALIST` (koos Lisa T, AA, AF jt).
 
 | Lisa | Seos |
 |------|------|
-| **H** | Kriisis isale — esimene abi |
+| **H** | Kriisis isale - esimene abi |
 | **P** | Valideerimine, trauma-reegel |
 | **Q** | Side, GOTWA, austav keel |
 | **S** | Trauma, Body Keeps the Score |
-| **W** | Montessori beebi — lapse keskkond |
-| **AT** | Lihtsus — üks järgmine samm |
-| **AE** | Naeratus, olukorra teadlikkus — mitte piiri eiramine |
+| **W** | Montessori beebi - lapse keskkond |
+| **AT** | Lihtsus - Ã¼ks jÃ¤rgmine samm |
+| **AE** | Naeratus, olukorra teadlikkus - mitte piiri eiramine |
 | **E** (raamat 5) | Pere rindejoon |
-| **AA** | Intiimsus — „Maria ja laps Il kõrval" lava kontekst |
+| **AA** | Intiimsus - "Maria ja laps Il kÃµrval" lava kontekst |
 
 ---
 
-## Üks tegu täna
+## Ãœks tegu tÃ¤na
 
-Vali **üks**:
+Vali **Ã¼ks**:
 
-1. Kirjuta parallel parenting reegel ühele paberile (kirjalik, lapse fookus, 24 h)
-2. Kopeeri **üks** elatise skript märkmikku
-3. Eemalda emojid ja iroonia järgmisest vastusest
-4. Dokumenteeri üks vahejuhtum kuupäevaga (lapse fookus)
+1. Kirjuta parallel parenting reegel Ã¼hele paberile (kirjalik, lapse fookus, 24 h)
+2. Kopeeri **Ã¼ks** elatise skript mÃ¤rkmikku
+3. Eemalda emojid ja iroonia jÃ¤rgmisest vastusest
+4. Dokumenteeri Ã¼ks vahejuhtum kuupÃ¤evaga (lapse fookus)
 
 ---
 
-*Eesti rahvale — see konkreetne lisa on isiklik juhtimisdokument, mitte avalik levitus.*
+*Eesti rahvale - see konkreetne lisa on isiklik juhtimisdokument, mitte avalik levitus.*

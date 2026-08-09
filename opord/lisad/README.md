@@ -60,7 +60,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | BA | [lisa-ba-keha-vabastamine-tasuta.md](lisa-ba-keha-vabastamine-tasuta.md) | **Keha vabastamine tasuta** — lümf, enesemassaaž, karu/puu meetod, raputamine (TRE), partner |
 | BB | [lisa-bb-hannes-vorno-haridus-ja-toitumine.md](lisa-bb-hannes-vorno-haridus-ja-toitumine.md) | **Hannes Võrno** — haridus, meedia praktik, toidu päritolu; Lisa U karnivoor-uuurimisliin |
 | BC | [lisa-bc-digitaalne-detoks-ja-nuputelefon.md](lisa-bc-digitaalne-detoks-ja-nuputelefon.md) | **Digitaalne detoks** — nuputelefon pärast 17:00, ankrupaik, valge nimekiri; töö pärast tundi ei ole OK |
-| BD | [lisa-bd-maria-puhastusplaan-co-parenting.md](lisa-bd-maria-puhastusplaan-co-parenting.md) | **Maria puhastusplaan** — parallel parenting, elatis, somaatilised piirid, naeratuse märgid (**K3**, [pereleptus](../pereleptus/README.md)) |
+| BD | [lisa-bd-maria-puhastusplaan-co-parenting.md](lisa-bd-maria-puhastusplaan-co-parenting.md) | **Maria puhastusplaan** — parallel parenting, elatis, somaatilised piirid, naeratuse märgid (**K3**, [pereleptus](../pereleptus/README.md), [DOCX](../pereleptus/Maria-puhastusplaan.docx)) |
 | — | [kiht0-ru-tuum-1-leht.md](kiht0-ru-tuum-1-leht.md) | **Kiht 0 RU** — 1 lk venekeelne tuum (Lisa AN tee E) |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
 

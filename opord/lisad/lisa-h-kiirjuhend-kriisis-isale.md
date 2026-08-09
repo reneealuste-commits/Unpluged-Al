@@ -176,6 +176,7 @@ Kriisis loe **mitte** järjekorras 1→7. Alusta siit:
 | **Depressioon, lootusetus, enesetapumõtted** | **Lisa F** — *Murra ring* | Lisa A, D, E |
 | **Tunned, et sind manipuleeritakse** | **Lisa A** — *Ava silmad* | Lisa B, F |
 | **Pere laguneb, konflikt kodus** | **Lisa E** — *Pere rindejoon* | Lisa D, F |
+| **Co-parenting, parallel parenting, elatis** | **Lisa BD** — Maria puhastusplaan (**K3**) | Lisa H, P, Q, AT |
 | **Tunned, et oled ebaõnnestunud isa** | **Lisa D** — *Tugev isa* | Lisa C, F |
 | **Tahad distsipliini, aga oled väsinud** | **Lisa C** — *Võta omaks* | Lisa F, G |
 | **Valmis teisi aitama** | **Lisa G** — *Juhi ja võida* | Kogu seeria |
@@ -210,6 +211,7 @@ Kriisis loe **mitte** järjekorras 1→7. Alusta siit:
 | Tahad struktuuri | **PEEGEL_TEE_A.pdf** või Lisa **AT** |
 | Aitad kedagi teist | Lisa **Q** §4 (kata ja liigu) → Lisa **P** |
 | Kinni jäid / upud | **Lisa AT** — vali üks rida, tee see |
+| **Co-parenting / parallel parenting** | **Lisa BD** (**K3**) — neli faasi, skriptid |
 | **Isa / pere podcast** | [Papsid.ee Podcast](https://papsid.ee/podcast/) — valikuline; üks episood, üks tegu täna |
 
 ---

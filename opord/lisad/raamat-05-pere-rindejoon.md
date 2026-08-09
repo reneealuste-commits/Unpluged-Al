@@ -91,6 +91,8 @@ Kui tuhanded pered tugevnevad, muutub riik vastupidavamaks. See ei ole metafoor.
 
 Järgmine köide — *Murra ring* — aitab neil, kes on kinni depressioonis või manipulatsiooni tsüklis. Aga tugev pere on parim ennetus.
 
+**Co-parenting kriisis (parallel parenting, elatis):** Lisa **BD** — Maria puhastusplaan (**K3**, [pereleptus](../pereleptus/README.md)). Mitte avalik K0 levitus.
+
 ---
 
 *Tugeva Isa seeria, köide 5/7. Kaitse algab kodus.*

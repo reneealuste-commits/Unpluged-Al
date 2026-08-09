@@ -281,7 +281,7 @@ Uuendamine: `python3 generate_olukorda_teadlikkus_pdf.py`
 1. **Ole kohal** — ära kiirusta
 2. **Märka** üks konkreetne detail (10 sek)
 3. **Tunne** — mida see minus tekitas? (enesega kontakt)
-4. **Valikuline:** üks lause väljas — naeratus — edasi
+4. **Valikuline:** üks lause väljas — naeratus — edasi *(mitte emojid piiri järel — vt Lisa **BD** „naeratuse märgid")*
 5. **Ära seleta** operatsiooni
 
 ### Pärast (treeningu logi)

@@ -3,16 +3,16 @@
 
 ---
 
-## Süüdistuste audit
+## Süüdistuste audit (Voss)
 
-Enne sisu lugemist — tunnistame ausalt, mida see pakett võib tunduda:
+Enne sisu lugemist — ütle **enne ettepanekut** (labelid, mitte vastused):
 
-| Süüdistus | Vastus |
-|-----------|--------|
-| *"See võib tunduda kui ebarealistlik kodanikualgatus — sisepoliitika on parlamendi mäng, mitte operatsioon."* | Parlamendi mäng ongi see, mida see kirjeldab. OP-Peegel ei muuda poliitikat — see tagab, et PM sõnum ei satu parlamendis vastuollu omaenda joonega. |
-| *"Koalitsioonipartnerite eelteavitamine 24h on utoopia."* | 24h on siht, mitte seadus. Isegi 4h eelteavitamine on parem kui null. Pakett tunnistab, et ideaal ja reaalsus erinevad. |
-| *"Opositsiooni narratiivi ei saa ju kontrollida."* | Ei saagi. Sa saad ette valmistada vastuseid ja mõista nende argumente — Steigeri ptk 05: mõista ≠ nõus olla. |
-| *"Infotunni Q&A 4h varem on liigne ettevalmistus."* | PM infotunnis ilma Q&A-ta on risk, mida büroo kannab koos. 4h on minimaalne kaitse, mitte luksus. |
+- *"Tundub, et see võib tunduda kui ebarealistlik kodanikualgatus."*
+- *"Tundub, et sisepoliitika on parlamendi mäng — mitte operatsioon."*
+- *"Kõlab nagu 24h eelteavitamine koalitsioonile on utoopia."*
+- *"Näib, et kui PM infotunnis eksib, süüdistatakse mind."*
+
+*Ära ütle "ma saan aru". Vestluse One-Sheet: [käsupakett](../kaskupaketid/03_Katlin_Atonen_KASK.md)*
 
 ---
 

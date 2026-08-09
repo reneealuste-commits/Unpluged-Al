@@ -3,16 +3,16 @@
 
 ---
 
-## Süüdistuste audit
+## Süüdistuste audit (Voss)
 
-Enne sisu lugemist — tunnistame ausalt, mida see pakett võib tunduda:
+Enne sisu lugemist — ütle **enne ettepanekut** (labelid, mitte vastused):
 
-| Süüdistus | Vastus |
-|-----------|--------|
-| *"See võib tunduda kui ebarealistlik kodanikualgatus — ma juba teen kommunikatsiooni, miks vaja eraldi operatsiooni?"* | Sa juba teed. OP-Peegel paneb kirja, mida teised sinult ootavad ja millal — et sa ei peaks ise meenutama, et Ardo peab memo saatma enne pressiteadet. |
-| *"Kriisikommunikatsioon 1h on ilus paberil, aga reaalsus on teine."* | 1h on siht, mitte garantii. Pakett eristab kriisi (1h) ja tavapäeva (2h). Isegi 2h on parem kui koordineerimata vastus. |
-| *"Pressiteade ja sotsiaalmeedia ei saa kunagi 100% ühtsed olla."* | Sisu peab ühtima, vorm võib erineda. 100% ühtsus tähendab sama joont, mitte sama lauset igas kanalis. |
-| *"PM ütleb infotunnis ikkagi midagi, mida ma pole koordineerinud."* | See risk on tõeline. Sellepärast on Q&A ja ettevalmistus sinu tööriist — mitte süüdistuse põhjus. |
+- *"Tundub, et see võib tunduda kui ebarealistlik kodanikualgatus."*
+- *"Tundub, et ma juba teen kommunikatsiooni — miks vaja eraldi operatsiooni?"*
+- *"Kõlab nagu kriisikommunikatsioon 1h on ilus paberil, aga reaalsus teine."*
+- *"Näib, et kui PM ütleb infotunnis midagi ettevalmistamata, süüdistatakse mind."*
+
+*Ära ütle "ma saan aru". Vestluse One-Sheet: [käsupakett](../kaskupaketid/05_Silver_Pukk_KASK.md)*
 
 ---
 

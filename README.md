@@ -6,10 +6,9 @@ Peaministri büroo sisemine koordineerimisraamistik **Operatsioon Peegel**.
 
 | Dokument | Kirjeldus |
 |----------|-----------|
-| [Üldraamistik](docs/operatsioon-peegel/00_OPERATSIOON_PEEGEL_RAAMISTIK.md) | OP-Peegel eesmärgid, faasid, Steigeri struktuur |
-| [Vestluse ettevalmistamine](docs/operatsioon-peegel/VESTLUSE_ETTEVALMISTAMINE_MUDEL.md) | Vossi One-Sheet mudel |
-| [One-pagerid](docs/operatsioon-peegel/one-pager/) | Üheleheline ülevaade iga nõuniku rollist |
-| [Käsupaketid](docs/operatsioon-peegel/kaskupaketid/) | Isikupärased käsupaketid (Steiger + Voss One-Sheet) |
+| [EMDR eeskujulik liigutus](docs/EMDR_EESKUJULIK_LIIGUTUS.md) | 0-etapp: keegi läheb ja näitab |
+| [Pioneer One-Sheet](docs/EMDR_PIONEERI_ONE_SHEET.md) | Vestluse ettevalmistamine |
+| [Operatsioon Peegel](docs/operatsioon-peegel/) | Poliitiline koordineerimine (4. etapp) |
 
 ## Meeskond
 

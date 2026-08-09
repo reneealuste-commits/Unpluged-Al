@@ -3,16 +3,16 @@
 
 ---
 
-## Süüdistuste audit
+## Süüdistuste audit (Voss)
 
-Enne sisu lugemist — tunnistame ausalt, mida see pakett võib tunduda:
+Enne sisu lugemist — ütle **enne ettepanekut** (labelid, mitte vastused):
 
-| Süüdistus | Vastus |
-|-----------|--------|
-| *"See võib tunduda kui ebarealistlik kodanikualgatus — keegi väljastpoolt tuleb rääkima Steigeri raamatust ja operatsioonidest."* | See ei ole kodanikualgatus ega väline nõuanne. See on sisemine tööriist, mis paneb kirja seda, mida büroo juba teeb — lihtsalt selgema vastutuse ja koordineerimisega. |
-| *"Meil on juba igapäevane koordineerimine — miks vaja uut operatsiooni?"* | OP-Peegel ei asenda olemasolevat tööd, vaid annab sellele nime, rütmi ja kontrollpunktid. Kui koordineerimine juba toimib, siis see pakett kinnitab seda. |
-| *"15-minutiline hommikuring on bürokraatia, mitte juhtimine."* | Ring on lühike just sellepärast, et see ei muutuks koosolekuks. Steigeri loogika: enne käsku kuula — 15 min kuulamist säästab tunde parandamist. |
-| *"Ma ei vaja paberit, et bürood juhtida."* | Sa ei vaja. See on meeskonnale, mitte sulle. Sinu roll on jagada see nii, et teised teavad, mida peegeldada. |
+- *"Tundub, et see võib tunduda kui ebarealistlik kodanikualgatus."*
+- *"Tundub, et keegi väljastpoolt tuleb rääkima Steigeri raamatust ja operatsioonidest."*
+- *"Kõlab nagu järjekordne bürokraatia kiht minu juba keerulisele tööle."*
+- *"Näib, et ma ei usaldata meeskonda piisavalt."*
+
+*Ära ütle "ma saan aru". Paus iga labeli järel. Vestluse One-Sheet: [käsupakett](../kaskupaketid/01_Risto_Kaljurand_KASK.md)*
 
 ---
 

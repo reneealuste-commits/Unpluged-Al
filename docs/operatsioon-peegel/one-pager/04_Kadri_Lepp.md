@@ -3,16 +3,16 @@
 
 ---
 
-## Süüdistuste audit
+## Süüdistuste audit (Voss)
 
-Enne sisu lugemist — tunnistame ausalt, mida see pakett võib tunduda:
+Enne sisu lugemist — ütle **enne ettepanekut** (labelid, mitte vastused):
 
-| Süüdistus | Vastus |
-|-----------|--------|
-| *"See võib tunduda kui ebarealistlik kodanikualgatus — diplomaatia nõuab diskreetsust, mitte sisemist operatsiooni."* | OP-Peegel on sisemine, mitte avalik. Liitlased ei näe seda — nad näevad ainult tulemust: ühtset ja õigeaegset sõnumit. |
-| *"Välispoliitika muutub kiiremini kui 48h memo võimaldab."* | 48h on visiidi ettevalmistuseks, mitte kriisiks. Kriisis on memo 30 min — pakett eristab neid selgelt. |
-| *"VM-iga kooskõlastamine igal sõnumil aeglustab reageerimist."* | VM-iga vastuolu avalikus ruumis aeglustab palju rohkem — ja kahjustab usaldust. Kooskõlastamine on kiirendus, mitte pidurdus. |
-| *"Liitlased ei vaja meie sisemist koordineerimist."* | Nad ei vaja protsessi — nad vajavad tulemust. Eelteavitamine enne meediat on diplomaatiline hüve, mitte nõue. |
+- *"Tundub, et see võib tunduda kui ebarealistlik kodanikualgatus."*
+- *"Tundub, et diplomaatia nõuab diskreetsust — mitte sisemist operatsiooni."*
+- *"Kõlab nagu VM-iga kooskõlastamine igal sõnumil aeglustab."*
+- *"Näib, et liitlane kuuleb meie seisukohta esimest korda meediast."*
+
+*Ära ütle "ma saan aru". Vestluse One-Sheet: [käsupakett](../kaskupaketid/04_Kadri_Lepp_KASK.md)*
 
 ---
 

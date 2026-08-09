@@ -4,6 +4,19 @@
 
 ---
 
+## Süüdistuste audit
+
+Enne käsu lugemist — tunnistame ausalt, mida see võib tunduda:
+
+| Süüdistus | Vastus |
+|-----------|--------|
+| *"See võib tunduda kui ebarealistlik kodanikualgatus."* | Sisepoliitika nõuab just seda, mida kodanikud ootavad: et valitsus räägiks ühtselt. See pakett ei loo uut poliitikat — see kaitseb olemasolevat joont parlamendis. |
+| *"Ma ei saa koalitsioonipartnereid sundida kooskõlastama."* | Sa ei sunni — sa teavitad. Erinevus on suur: teavitamine on lugupidamine, sundimine on võim. |
+| *"Kadri'ga ristmõju memod võtavad liiga palju aega."* | Üks ühine memo võtab vähem aega kui kaks vastuolulist sõnumit ja nende parandamine. |
+| *"Kui PM infotunnis eksib, süüdistatakse mind."* | Riskimemo ja Q&A on sinu kaitse. Kui neid ei kasutata, on risk suurem — mitte väiksem. |
+
+---
+
 > *"Midagi mõista ei tähenda alati nõus olla. Aga mõistmata ei saa ka juhtida."*
 > — Steiger, ptk 05
 

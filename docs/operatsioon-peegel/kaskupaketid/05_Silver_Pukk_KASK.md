@@ -4,6 +4,19 @@
 
 ---
 
+## Süüdistuste audit
+
+Enne käsu lugemist — tunnistame ausalt, mida see võib tunduda:
+
+| Süüdistus | Vastus |
+|-----------|--------|
+| *"See võib tunduda kui ebarealistlik kodanikualgatus."* | Kommunikatsioon ongi see koht, kus büroo koordineerimine kõige rohkem puudujääki annab. See pakett ei lisa sulle tööd — see annab teistele selged tähtaegad, et sinu töö oleks võimalik. |
+| *"Ma ei saa oodata Ardo/Kadri/Kätlin memot — mul on deadline."* | Ilma memota on deadline ohtlikum. Pakett seab prioriteedi: faktid enne vormi. Kui memo ei tule, on see Risto kontrollpunkt, mitte sinu süü. |
+| *"Eliise postitab enne minu pressiteadet — see on probleem."* | Kui sisu on õige, on see initsiatiiv (Steiger, ptk 11). Kui sisu on vale, on see koordineerimise probleem. Erinevus on oluline. |
+| *"Kui sõnum läheb valesti, süüdistatakse mind."* | Jah — sest sa oled viimane vormistaja. Sellepärast on faktikontroll sinu kontrollpunktis, mitte ainult Ardo omal. |
+
+---
+
 > *"Tähelepanu on inimese jaoks nagu vesi taimedele. Ilma selleta kuivatab sõnum ära."*
 > — Steiger, ptk 09
 

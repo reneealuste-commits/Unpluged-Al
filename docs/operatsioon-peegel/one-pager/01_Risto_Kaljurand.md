@@ -3,6 +3,19 @@
 
 ---
 
+## Süüdistuste audit
+
+Enne sisu lugemist — tunnistame ausalt, mida see pakett võib tunduda:
+
+| Süüdistus | Vastus |
+|-----------|--------|
+| *"See võib tunduda kui ebarealistlik kodanikualgatus — keegi väljastpoolt tuleb rääkima Steigeri raamatust ja operatsioonidest."* | See ei ole kodanikualgatus ega väline nõuanne. See on sisemine tööriist, mis paneb kirja seda, mida büroo juba teeb — lihtsalt selgema vastutuse ja koordineerimisega. |
+| *"Meil on juba igapäevane koordineerimine — miks vaja uut operatsiooni?"* | OP-Peegel ei asenda olemasolevat tööd, vaid annab sellele nime, rütmi ja kontrollpunktid. Kui koordineerimine juba toimib, siis see pakett kinnitab seda. |
+| *"15-minutiline hommikuring on bürokraatia, mitte juhtimine."* | Ring on lühike just sellepärast, et see ei muutuks koosolekuks. Steigeri loogika: enne käsku kuula — 15 min kuulamist säästab tunde parandamist. |
+| *"Ma ei vaja paberit, et bürood juhtida."* | Sa ei vaja. See on meeskonnale, mitte sulle. Sinu roll on jagada see nii, et teised teavad, mida peegeldada. |
+
+---
+
 **Kontakt:** risto.kaljurand@riigikantselei.ee | 693 5705  
 **Amet:** Juhib peaministri bürood, nõustab ja toetab peaministrit
 

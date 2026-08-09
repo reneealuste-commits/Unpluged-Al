@@ -4,6 +4,19 @@
 
 ---
 
+## Süüdistuste audit
+
+Enne käsu lugemist — tunnistame ausalt, mida see võib tunduda:
+
+| Süüdistus | Vastus |
+|-----------|--------|
+| *"See võib tunduda kui ebarealistlik kodanikualgatus."* | Välispoliitika ongi see koht, kus väike riik peab rääkima ühe häälega. See pakett ei loo uut diplomaatiat — see kaitseb olemasolevat joont enne, kui see puruneb. |
+| *"Venemaa vastunarratiiv 12h jooksul on ebareaalne."* | 12h on siht, mitte garantii. Isegi 24h vastus on parem kui vaikus. Pakett tunnistab, et infooperatsioonid liiguvad kiiremini kui diplomaatia. |
+| *"Ma ei saa kontrollida, mida liitlane meediast loeb."* | Ei peagi. Sa saad kontrollida, mida Eesti esimesena ütleb — ja kas see on kooskõlas VM-iga. |
+| *"Kätlin'iga ristmõju võtab aega, mida mul pole."* | Üks ühine memo kaitseb mõlemat. Ilma selleta parandate vastuolusid päevi. |
+
+---
+
 > *"Otsitud põhjus on see, mida inimene ütleb. Tõeline põhjus on see, miks ta seda tegelikult teeb."*
 > — Steiger, ptk 06
 

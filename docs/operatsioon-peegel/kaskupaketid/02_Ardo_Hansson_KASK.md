@@ -4,6 +4,19 @@
 
 ---
 
+## Süüdistuste audit
+
+Enne käsu lugemist — tunnistame ausalt, mida see võib tunduda:
+
+| Süüdistus | Vastus |
+|-----------|--------|
+| *"See võib tunduda kui ebarealistlik kodanikualgatus."* | Keegi väljastpoolt ei ütle sulle, mis on õige majandusnumber. See pakett tunnistab, et sinu roll on viimane kaitse enne, kui number peegelduseks saab. |
+| *"Memo 30 minutiga kriisis on ebareaalne."* | Kriisis ei oodata täiuslikku analüüsi — oodatakse õiget joont. Lühike memo kolme numbri ja ühe soovitusega on parem kui täiuslik analüüs, mis tuleb liiga hilja. |
+| *"Ma ei ole kommunikatsiooninõunik."* | Sa ei pea olema. Anna numbrid Silverile ja Eliisele — see on koordineerimine, mitte kommunikeerimine. |
+| *"Kui number osutub valeks, süüdistatakse mind."* | Jah. Sellepärast on faktikontroll sinu kontrollpunkt, mitte Silveri oma. See kaitseb sind, kui protsessi järgitakse. |
+
+---
+
 > *"Faktorite analüüs tähendab: mõista, mis mõjutab inimese reaktsiooni — mitte ainult numbrit, vaid seda, mida number talle tähendab."*
 > — Steiger, ptk 04
 

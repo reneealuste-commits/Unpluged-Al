@@ -4,6 +4,19 @@
 
 ---
 
+## Süüdistuste audit
+
+Enne käsu lugemist — tunnistame ausalt, mida see võib tunduda:
+
+| Süüdistus | Vastus |
+|-----------|--------|
+| *"See võib tunduda kui ebarealistlik kodanikualgatus."* | Sotsiaalmeedia on reaalajas — just seetõttu vajab see selget joont, mitte vaba mängu. See pakett annab sulle raamistiku, mitte piirangu. |
+| *"Kui ma ootan Silveri kinnitust, kaotan aja."* | Tavapäevas jah. Kriisis: kui joond on selge, postita enne kinnitust ja teavita kohe. Pakett eristab neid olukordi. |
+| *"Iga platvorm on erinev — ühtne joon on võimatu."* | Ühtne joon ≠ identne tekst. Steigeri ptk 08: kohanda vormi, hoia sisu. See on platvormispetsiifilisus, mitte vastuolu. |
+| *"Kui postitus läheb valesti, süüdistatakse mind."* | Jah — sest sa oled reaalajas peegel. Sellepärast on Silveri kinnitus tavapäevas ja Risto kinnitus kriisis sinu kaitse. |
+
+---
+
 > *"Võimete ja eelduste arvestamine tähendab: iga inimene on erinev, iga platvorm on erinev, aga põhimõte on sama."*
 > — Steiger, ptk 08
 

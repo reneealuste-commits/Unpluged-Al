@@ -14,6 +14,14 @@ Operatsioon Peegel on peaministri büroo sisemine koordineerimisraamistik, mille
 
 Nimi tuleneb põhimõttest: iga nõunik peegeldab peaministri joont oma valdkonnas, kuid peegel peab olema **täpne**, mitte moonutav. Vale peegeldus on hullem kui vaikus.
 
+## Süüdistuste audit (üldine)
+
+Iga pakett algab süüdistuste auditiga — ausa tunnistusega, mida see võib tunduda enne sisu lugemist. Näide:
+
+> *"See võib tunduda kui ebarealistlik kodanikualgatus."*
+
+See on tahtlik. OP-Peegel ei eita skeptitsismi — see vastab sellele. Iga isiku paketis on audit kohandatud tema rollile ja võimalikele vastuväidetele.
+
 ## Operatsiooni eesmärgid
 
 1. **Ühtne narratiiv** — kõik kanalid ja valdkonnad kajastavad sama põhisõnumit

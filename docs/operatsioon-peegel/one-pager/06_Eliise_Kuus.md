@@ -3,6 +3,19 @@
 
 ---
 
+## Süüdistuste audit
+
+Enne sisu lugemist — tunnistame ausalt, mida see pakett võib tunduda:
+
+| Süüdistus | Vastus |
+|-----------|--------|
+| *"See võib tunduda kui ebarealistlik kodanikualgatus — sotsiaalmeedia on kiire, bürokraatia aeglustab."* | 30 min postitamise aeg on kiirem kui enamik pressiteateid. Pakett ei aeglusta — see annab sulle selge loa postitada, kui joond on paigas. |
+| *"PM kanal ei ole bürokraatia koht."* | PM kanal on ka ametlik kanal. Koordineerimine ei tähenda tsenseerimist — see tähendab, et postitus ei vastuolu pressiteatega. |
+| *"Postitamine enne pressiteadet on vastuolus meie töökorraldusega."* | Kriisis on kiirus olulisem kui järjekord. Steigeri ptk 11: initsiatiiv ilma vigadeta. Kui joond on selge, postita. |
+| *"Ma ei saa jälgida kõike, mis sotsiaalmeedias toimub."* | Ei peagi kõike. Pakett keskendub PM narratiivile ja negatiivsele narratiivile, mis võib PM joont kahjustada. |
+
+---
+
 **Kontakt:** eliise.kuus@riigikantselei.ee  
 **Amet:** Nõustab peaministrit sotsiaalmeedia alal
 

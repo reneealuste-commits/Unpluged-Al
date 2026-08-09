@@ -4,6 +4,19 @@
 
 ---
 
+## Süüdistuste audit
+
+Enne käsu lugemist — tunnistame ausalt, mida see võib tunduda:
+
+| Süüdistus | Vastus |
+|-----------|--------|
+| *"See võib tunduda kui ebarealistlik kodanikualgatus."* | See ei ole väljast tulev ettepanek, vaid büroo enda koordineerimiskeel. Kui see tundub võõras, siis ongi aeg see ühiseks töökeeleks muuta — mitte ignoreerida. |
+| *"Steigeri sõjaväeline juhtimine ei sobi poliitilisse büroosse."* | Steigeri tuum ei ole käskude andmine, vaid inimeste kuulamine. See sobib igasse büroosse, kus inimesed teevad koostööd surve all. |
+| *"Ma ei saa olla korraga PM-i toetaja ja operatsiooni juht."* | Sa ei pea olema mõlemat eraldi. Operatsiooni juhtimine **on** PM-i toetamine — tagades, et tema tahe jõuab büroost välja ühtselt. |
+| *"Kui sõnum läheb valesti, süüdistatakse mind."* | Jah, see on võimalik. Sellepärast on kontrollpunktid ja tagasivaated — mitte sellepärast, et kedagi süüdistada, vaid et vigu tunnistada ja parandada. |
+
+---
+
 > *"Inimesekeskses juhtimises on võtmeroll inimesel — mitte protsessil, mitte vormil, mitte korraldusel. Käsk on inimese jaoks, mitte inimene käsu jaoks."*
 > — Steiger, ptk 01
 

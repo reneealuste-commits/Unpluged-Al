@@ -3,6 +3,19 @@
 
 ---
 
+## Süüdistuste audit
+
+Enne sisu lugemist — tunnistame ausalt, mida see pakett võib tunduda:
+
+| Süüdistus | Vastus |
+|-----------|--------|
+| *"See võib tunduda kui ebarealistlik kodanikualgatus — miks majandusnõunik peab tegelema 'peegeldamisega'?"* | Sa ei pea tegelema peegeldamisega — sa tagad, et numbrid on õiged. Kui number on vale, peegeldub vale kogu valitsusele. See on sinu töö tuum, mitte uus ülesanne. |
+| *"Faktikontroll on juba minu töö, miks vaja eraldi paketti?"* | Pakett ei lisa tööd — see paneb kirja aja, vormi ja koordineerimise, mida sa juba teed. Memo ≤ 2h ja kooskõlastus RM-iga on standard, mitte bürokraatia. |
+| *"Steigeri inimkeskne juhtimine ei sobi majandusanalüüsiga."* | Steigeri ptk 04 (faktorite analüüs) on otseselt sinu valdkond: inimene ei reageeri SKP-le, vaid sellele, mida see tema elus tähendab. |
+| *"PM kasutab ikkagi numbreid, mida ma pole kinnitanud."* | See risk on tõeline. Sellepärast on siin punane lipp ja kontrollpunkt — mitte et sind süüdistada, vaid et protsess kaitseks sind. |
+
+---
+
 **Kontakt:** ardo.hansson@riigikantselei.ee | 693 5709  
 **Amet:** Nõustab peaministrit majanduse ja rahanduse valdkonnas
 

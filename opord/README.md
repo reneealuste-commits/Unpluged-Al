@@ -36,6 +36,7 @@ Skeem: [Lisa AQ](lisad/lisa-aq-sidepakkide-jaotus-skeem.md)
 | Kood | Teema | Markdown | DOCX |
 |------|-------|----------|------|
 | **KK1** | Inimlik tuum — turvalisus, naer, puudutus, kütmine, mäng, looming (90 min) | [KK1-inimlik-tuum-koolituskaart.md](kursid/KK1-inimlik-tuum-koolituskaart.md) | [KK1-inimlik-tuum-koolituskaart.docx](kursid/KK1-inimlik-tuum-koolituskaart.docx) |
+| **EMDR1** | Algaja juhised — bilateral stimulatsioon kodus (15–20 min) | [EMDR-algaja-koolituskaart.md](kursid/EMDR-algaja-koolituskaart.md) | [EMDR-algaja-koolituskaart.docx](kursid/EMDR-algaja-koolituskaart.docx) |
 | **K0** | Ava silmad mini-kursus (EN videod) | [K0-ava-silmad-mini-en.md](kursid/K0-ava-silmad-mini-en.md) | — |
 
 ### Täielik pakett (K2)

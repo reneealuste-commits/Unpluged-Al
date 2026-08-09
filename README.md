@@ -1,6 +1,10 @@
 # Unpluged-Al
 
-Peaministri büroo sisemine koordineerimisraamistik **Operatsioon Peegel**.
+**0-etapp kehas → EMDR eeskujulik liigutus → Operatsioon Peegel**
+
+Strateegia kahes kihtis:
+1. **EMDR liigutus** — keegi läheb ja näitab, kuidas puurist välja tulla (0. etapp)
+2. **Operatsioon Peegel** — poliitiline koordineerimine, kui keha on valmis sõnumit vastu võtma (4. etapp)
 
 ## Dokumendid
 

@@ -16,7 +16,7 @@ Tere, Risto!
 
 Manuses on **Operatsioon Peegel** info paketid peaministri büroo koordineerimiseks. Pakett on koostatud sinu juhitud meeskonna rollide järgi ning struktuur põhineb R. Steigeri raamatul *Inimesekeskne juhtimine*.
 
-Iga pakett algab **süüdistuste auditiga** — ausa tunnistusega, mida see võib tunduda (nt "ebarealistlik kodanikualgatus"), koos vastusega. See on tahtlik: me ei eita skeptitsismi, vaid vastame sellele enne sisu lugemist.
+Iga pakett algab **süüdistuste auditiga** (Vossi meetod) — enne ettepanekut tunnistatakse ausalt, mida see võib tunduda (nt *"Tundub, et see võib tunduda kui ebarealistlik kodanikualgatus"*). Iga käsupakett sisaldab ka **vestluse ettevalmistamise One-Sheet'i**.
 
 **Manuses:**
 - üldraamistik (OP-PEEGEL)

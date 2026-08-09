@@ -4,7 +4,7 @@
 **Kehtivus:** Peaministri volituste periood  
 **Viimati uuendatud:** 09.08.2026  
 **Juht:** Risto Kaljurand (büroojuhataja)  
-**Metoodika:** R. Steiger, *Inimesekeskne juhtimine* (struktuur: [Google Drive kaust](https://drive.google.com/drive/folders/18cIBYQvzMxpKOrhtIdCyg8W2eTrQix8B))
+**Metoodika:** R. Steiger, *Inimesekeskne juhtimine* + Chris Voss, *Never Split the Difference* (vestluse ettevalmistamine)
 
 ---
 
@@ -16,11 +16,12 @@ Nimi tuleneb põhimõttest: iga nõunik peegeldab peaministri joont oma valdkonn
 
 ## Süüdistuste audit (üldine)
 
-Iga pakett algab süüdistuste auditiga — ausa tunnistusega, mida see võib tunduda enne sisu lugemist. Näide:
+Iga pakett algab **Vossi süüdistuste auditiga** — enne ettepanekut loetletakse kõige hullemad asjad, mida vestluspartner võib mõelda. Kasutatakse labeleid (*"Tundub, et..."*), mitte vastuseid. **Ära ütle kunagi:** *"Ma saan aru"*.
 
-> *"See võib tunduda kui ebarealistlik kodanikualgatus."*
+Näide:
+> *"Tundub, et see võib tunduda kui ebarealistlik kodanikualgatus."*
 
-See on tahtlik. OP-Peegel ei eita skeptitsismi — see vastab sellele. Iga isiku paketis on audit kohandatud tema rollile ja võimalikele vastuväidetele.
+Iga käsupakett sisaldab lisaks **vestluse ettevalmistamise One-Sheet'i** (eesmärk, kokkuvõte, kalibreeritud küsimused, mitte-sõnalised pakkumised). Mudel: [VESTLUSE_ETTEVALMISTAMINE_MUDEL.md](VESTLUSE_ETTEVALMISTAMINE_MUDEL.md) (põhineb Chris Vossi *Never Split the Difference* meetodil).
 
 ## Operatsiooni eesmärgid
 
@@ -79,5 +80,6 @@ Iga isiku käsupakett järgib R. Steigeri *Inimesekeskne juhtimine* peatükkide 
 
 ## Dokumendid
 
+- `VESTLUSE_ETTEVALMISTAMINE_MUDEL.md` — vestluse One-Sheet mudel (Voss)
 - `one-pager/` — üheleheline ülevaade iga isiku rollist
-- `kaskupaketid/` — isikupärane käsupakett Steigeri vormis
+- `kaskupaketid/` — isikupärane käsupakett (Steiger + Voss One-Sheet)

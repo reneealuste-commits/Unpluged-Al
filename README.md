@@ -7,6 +7,7 @@ Peaministri büroo sisemine koordineerimisraamistik **Operatsioon Peegel**.
 | Dokument | Kirjeldus |
 |----------|-----------|
 | [Üldraamistik](docs/operatsioon-peegel/00_OPERATSIOON_PEEGEL_RAAMISTIK.md) | OP-Peegel eesmärgid, faasid, Steigeri struktuur |
+| [Vestluse ettevalmistamine](docs/operatsioon-peegel/VESTLUSE_ETTEVALMISTAMINE_MUDEL.md) | Vossi One-Sheet mudel |
 | [One-pagerid](docs/operatsioon-peegel/one-pager/) | Üheleheline ülevaade iga nõuniku rollist |
 | [Käsupaketid](docs/operatsioon-peegel/kaskupaketid/) | Isikupärased käsupaketid Steigeri vormis |
 

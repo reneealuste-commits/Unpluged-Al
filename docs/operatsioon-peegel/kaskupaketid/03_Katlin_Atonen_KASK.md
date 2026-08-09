@@ -6,14 +6,40 @@
 
 ## Süüdistuste audit
 
-Enne käsu lugemist — tunnistame ausalt, mida see võib tunduda:
+Enne käsu lugemist — **Vossi meetod:** loetle kõigepealt kõige hullemad asjad, mida vestluspartner võib mõelda. Ära ütle *"ma saan aru"* — kasuta labeleid.
 
-| Süüdistus | Vastus |
-|-----------|--------|
-| *"See võib tunduda kui ebarealistlik kodanikualgatus."* | Sisepoliitika nõuab just seda, mida kodanikud ootavad: et valitsus räägiks ühtselt. See pakett ei loo uut poliitikat — see kaitseb olemasolevat joont parlamendis. |
-| *"Ma ei saa koalitsioonipartnereid sundida kooskõlastama."* | Sa ei sunni — sa teavitad. Erinevus on suur: teavitamine on lugupidamine, sundimine on võim. |
-| *"Kadri'ga ristmõju memod võtavad liiga palju aega."* | Üks ühine memo võtab vähem aega kui kaks vastuolulist sõnumit ja nende parandamine. |
-| *"Kui PM infotunnis eksib, süüdistatakse mind."* | Riskimemo ja Q&A on sinu kaitse. Kui neid ei kasutata, on risk suurem — mitte väiksem. |
+| Label (enne ettepanekut) | Mida see avab |
+|--------------------------|---------------|
+| *"Tundub, et see võib tunduda kui ebarealistlik kodanikualgatus."* | Annab loa skeptitsismile. |
+| *"Tundub, et sisepoliitika on parlamendi mäng — mitte operatsioon."* | Tunnistab reaalsust. Avab dialoogi kaitsest. |
+| *"Kõlab nagu 24h eelteavitamine koalitsioonile on utoopia."* | Võimaldab rääkida realistlikest tähtaegadest. |
+| *"Näib, et kui PM infotunnis eksib, süüdistatakse mind."* | Aus risk. Võimaldab rääkida Q&A kui kaitsest. |
+
+**Paus iga labeli järel.**
+
+---
+
+## Vestluse ettevalmistamine (One-Sheet)
+
+> Mudel: [VESTLUSE_ETTEVALMISTAMINE_MUDEL.md](../VESTLUSE_ETTEVALMISTAMINE_MUDEL.md)
+
+### 1. Eesmärk
+*Koalitsioonipartnerid saavad PM suurest sõnumist eelteavituse. Infotunni Q&A on valmis ≥ 4h varem. Opositsiooni narratiiv ei jää vastamata.*
+
+### 2. Kokkuvõte (eesmärk: "Täpselt nii")
+*"PM infotunnis on viimasel ajal tulnud küsimusi, millele polnud ette valmistatud. Koalitsioonipartnerid on kuulnud uudiseid meediast enne büroost. Opositsioon on kasutanud vastuolusid ära. Sa juba teed seda tööd — OP-Peegel paneb kirja tähtaegu ja vorme."*
+
+### 3. Kalibreeritud küsimused
+- *"Mis on kõige valusam hetk, kui koalitsioonipartner saab PM sõnumist viimasena teada?"*
+- *"Kuidas sa näed realistlikku eelteavitamise aega?"*
+- *"Mis teeb opositsiooni narratiivi kõige raskemini vastatavaks?"*
+- *"Kuidas see mõjutab Kadri'ga ristmõju teemasid?"*
+- *"Mis peaks juhtuma, et infotunni Q&A oleks sinu tööriist, mitte lisakoormus?"*
+
+### 4. Mitte-sõnalised pakkumised
+- Riskimemo vorm on sinu disain
+- 24h on siht, mitte sanktsioon — 4h ongi parem kui null
+- Kadri'ga ühine memo ristmõju teemadel — üks dokument, mitte kaks
 
 ---
 

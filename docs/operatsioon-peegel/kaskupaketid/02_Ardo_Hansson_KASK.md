@@ -6,14 +6,40 @@
 
 ## Süüdistuste audit
 
-Enne käsu lugemist — tunnistame ausalt, mida see võib tunduda:
+Enne käsu lugemist — **Vossi meetod:** loetle kõigepealt kõige hullemad asjad, mida vestluspartner võib mõelda. Ära ütle *"ma saan aru"* — kasuta labeleid.
 
-| Süüdistus | Vastus |
-|-----------|--------|
-| *"See võib tunduda kui ebarealistlik kodanikualgatus."* | Keegi väljastpoolt ei ütle sulle, mis on õige majandusnumber. See pakett tunnistab, et sinu roll on viimane kaitse enne, kui number peegelduseks saab. |
-| *"Memo 30 minutiga kriisis on ebareaalne."* | Kriisis ei oodata täiuslikku analüüsi — oodatakse õiget joont. Lühike memo kolme numbri ja ühe soovitusega on parem kui täiuslik analüüs, mis tuleb liiga hilja. |
-| *"Ma ei ole kommunikatsiooninõunik."* | Sa ei pea olema. Anna numbrid Silverile ja Eliisele — see on koordineerimine, mitte kommunikeerimine. |
-| *"Kui number osutub valeks, süüdistatakse mind."* | Jah. Sellepärast on faktikontroll sinu kontrollpunkt, mitte Silveri oma. See kaitseb sind, kui protsessi järgitakse. |
+| Label (enne ettepanekut) | Mida see avab |
+|--------------------------|---------------|
+| *"Tundub, et see võib tunduda kui ebarealistlik kodanikualgatus."* | Annab loa skeptitsismile. |
+| *"Tundub, et ma ei peaks tegelema peegeldamisega — minu töö on numbrid."* | Tunnistab rolli. Avab dialoogi faktikontrolli tähtsusest. |
+| *"Kõlab nagu keegi lisab mulle bürokraatiat memo vormistamisega."* | Võimaldab selgitada, et memo on kaitse, mitte koormus. |
+| *"Näib, et kui PM kasutab valet numbrit, süüdistatakse mind."* | Aus risk. Võimaldab rääkida kontrollpunktidest. |
+
+**Paus iga labeli järel.**
+
+---
+
+## Vestluse ettevalmistamine (One-Sheet)
+
+> Mudel: [VESTLUSE_ETTEVALMISTAMINE_MUDEL.md](../VESTLUSE_ETTEVALMISTAMINE_MUDEL.md)
+
+### 1. Eesmärk
+*Silver ja PM saavad iga majandussõnumi jaoks faktikontrollitud memo ≤ 2h jooksul. RM-iga kooskõlastatud joon enne avaldamist.*
+
+### 2. Kokkuvõte (eesmärk: "Täpselt nii")
+*"PM on viimasel ajal kasutanud majandusnäitajaid, mida pole eelnevalt koordineeritud. See on tekitanud nii meedia kui RM-i küsimusi. Minu roll on viimane kaitse enne, kui number peegelduseks saab — aga praegu pole see protsess kirjas."*
+
+### 3. Kalibreeritud küsimused
+- *"Mis on kõige ohtlikum majandusnäitaja, mida PM võiks kasutada ilma sinu kinnituseta?"*
+- *"Kuidas sa näed, et memo 2h jooksul on realistlik?"*
+- *"Mis teeb RM-iga kooskõlastamise keeruliseks?"*
+- *"Kuidas see mõjutab Silveri tööd, kui memo tuleb hilja?"*
+- *"Mis peaks juhtuma, et sa tunneksid end kaitstuna, mitte süüdistatuna?"*
+
+### 4. Mitte-sõnalised pakkumised
+- Memo vorm on sinu disain — mitte keegi teine ei dikteeri
+- Kriisis 30 min memo (mitte täiuslik analüüs) on aktsepteeritud standard
+- Faktikontrolli tegemata jätmine on Silveri, mitte sinu vastutus
 
 ---
 

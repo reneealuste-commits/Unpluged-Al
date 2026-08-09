@@ -6,14 +6,40 @@
 
 ## Süüdistuste audit
 
-Enne käsu lugemist — tunnistame ausalt, mida see võib tunduda:
+Enne käsu lugemist — **Vossi meetod:** loetle kõigepealt kõige hullemad asjad, mida vestluspartner võib mõelda. Ära ütle *"ma saan aru"* — kasuta labeleid.
 
-| Süüdistus | Vastus |
-|-----------|--------|
-| *"See võib tunduda kui ebarealistlik kodanikualgatus."* | Välispoliitika ongi see koht, kus väike riik peab rääkima ühe häälega. See pakett ei loo uut diplomaatiat — see kaitseb olemasolevat joont enne, kui see puruneb. |
-| *"Venemaa vastunarratiiv 12h jooksul on ebareaalne."* | 12h on siht, mitte garantii. Isegi 24h vastus on parem kui vaikus. Pakett tunnistab, et infooperatsioonid liiguvad kiiremini kui diplomaatia. |
-| *"Ma ei saa kontrollida, mida liitlane meediast loeb."* | Ei peagi. Sa saad kontrollida, mida Eesti esimesena ütleb — ja kas see on kooskõlas VM-iga. |
-| *"Kätlin'iga ristmõju võtab aega, mida mul pole."* | Üks ühine memo kaitseb mõlemat. Ilma selleta parandate vastuolusid päevi. |
+| Label (enne ettepanekut) | Mida see avab |
+|--------------------------|---------------|
+| *"Tundub, et see võib tunduda kui ebarealistlik kodanikualgatus."* | Annab loa skeptitsismile. |
+| *"Tundub, et diplomaatia nõuab diskreetsust — mitte sisemist operatsiooni."* | Tunnistab erinevust. OP-Peegel on sisemine. |
+| *"Kõlab nagu VM-iga kooskõlastamine igal sõnumil aeglustab."* | Võimaldab rääkida vastuolude hinnast. |
+| *"Näib, et liitlane kuuleb meie seisukohta esimest korda meediast."* | Aus probleem. Avab eelteavitamise teema. |
+
+**Paus iga labeli järel.**
+
+---
+
+## Vestluse ettevalmistamine (One-Sheet)
+
+> Mudel: [VESTLUSE_ETTEVALMISTAMINE_MUDEL.md](../VESTLUSE_ETTEVALMISTAMINE_MUDEL.md)
+
+### 1. Eesmärk
+*VM ja liitlased saavad PM välispoliitilise joone enne meediat. Kohtumismemo on valmis ≥ 48h varem. Venemaa narratiivile vastus ≤ 12h.*
+
+### 2. Kokkuvõte (eesmärk: "Täpselt nii")
+*"Eesti välispoliitiline joon on viimasel ajal jõudnud avalikkuseni enne, kui VM või liitlased on kursis. See on kahjustanud diplomaatilist usaldust. Sa juba koordineerid VM-iga — OP-Peegel paneb kirja tähtaegu ja vastutuse."*
+
+### 3. Kalibreeritud küsimused
+- *"Mis on kõige ohtlikum hetk, kui liitlane kuuleb Eesti seisukohta meediast?"*
+- *"Kuidas sa näed VM-iga kooskõlastamise realistlikku rütmi?"*
+- *"Mis teeb Venemaa vastunarratiivile reageerimise keeruliseks?"*
+- *"Kuidas see mõjutab Kätlin'iga ristmõju teemasid?"*
+- *"Mis peaks juhtuma, et 48h memo on sinu tööriist, mitte lisakoormus?"*
+
+### 4. Mitte-sõnalised pakkumised
+- Kohtumismemo vorm on sinu disain
+- Kriisis 30 min memo on aktsepteeritud (mitte 48h)
+- Kätlin'iga ühine memo ristmõju teemadel
 
 ---
 

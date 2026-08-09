@@ -6,14 +6,40 @@
 
 ## Süüdistuste audit
 
-Enne käsu lugemist — tunnistame ausalt, mida see võib tunduda:
+Enne käsu lugemist — **Vossi meetod:** loetle kõigepealt kõige hullemad asjad, mida vestluspartner võib mõelda. Ära ütle *"ma saan aru"* — kasuta labeleid.
 
-| Süüdistus | Vastus |
-|-----------|--------|
-| *"See võib tunduda kui ebarealistlik kodanikualgatus."* | Sotsiaalmeedia on reaalajas — just seetõttu vajab see selget joont, mitte vaba mängu. See pakett annab sulle raamistiku, mitte piirangu. |
-| *"Kui ma ootan Silveri kinnitust, kaotan aja."* | Tavapäevas jah. Kriisis: kui joond on selge, postita enne kinnitust ja teavita kohe. Pakett eristab neid olukordi. |
-| *"Iga platvorm on erinev — ühtne joon on võimatu."* | Ühtne joon ≠ identne tekst. Steigeri ptk 08: kohanda vormi, hoia sisu. See on platvormispetsiifilisus, mitte vastuolu. |
-| *"Kui postitus läheb valesti, süüdistatakse mind."* | Jah — sest sa oled reaalajas peegel. Sellepärast on Silveri kinnitus tavapäevas ja Risto kinnitus kriisis sinu kaitse. |
+| Label (enne ettepanekut) | Mida see avab |
+|--------------------------|---------------|
+| *"Tundub, et see võib tunduda kui ebarealistlik kodanikualgatus."* | Annab loa skeptitsismile. |
+| *"Tundub, et sotsiaalmeedia on kiire — bürokraatia aeglustab."* | Tunnistab kiirust. Avab dialoogi koordineerimisest kiirusena. |
+| *"Kõlab nagu PM kanal ei ole bürokraatia koht."* | Võimaldab selgitada, et koordineerimine ≠ tsenseerimine. |
+| *"Näib, et kui postitus läheb valesti, süüdistatakse mind."* | Aus risk. Võimaldab rääkida kinnituse protsessist. |
+
+**Paus iga labeli järel.**
+
+---
+
+## Vestluse ettevalmistamine (One-Sheet)
+
+> Mudel: [VESTLUSE_ETTEVALMISTAMINE_MUDEL.md](../VESTLUSE_ETTEVALMISTAMINE_MUDEL.md)
+
+### 1. Eesmärk
+*PM digitaalne narratiiv peegeldab Silveri pressiteadet. Postitus ≤ 30 min pärast PM sõnumit. Kriisireageerimine ≤ 1h.*
+
+### 2. Kokkuvõte (eesmärk: "Täpselt nii")
+*"PM sotsiaalmeedia kanal on viimasel ajal postitanud sisu, mis erineb pressiteatest. Viraalsed narratiivid on jõudnud enne ametlikku vastust. Sa juba haldad kanaleid — OP-Peegel annab selge loa ja piirid, millal postitada enne või pärast Silverit."*
+
+### 3. Kalibreeritud küsimused
+- *"Mis on kõige valusam hetk, kui pead ootama Silveri kinnitust?"*
+- *"Kuidas sa näed realistlikku postitamise aega?"*
+- *"Mis teeb platvormide vahelise kohandamise keeruliseks?"*
+- *"Kuidas see mõjutab negatiivse narratiivi jälgimist?"*
+- *"Mis peaks juhtuma, et kriisis saaksid postitada enne pressiteadet?"*
+
+### 4. Mitte-sõnalised pakkumised
+- Kriisis: kui joond on selge, postita enne kinnitust — see on aktsepteeritud
+- Platvormispetsiifiline vorm on sinu otsus — sisu peab ühtima, mitte tekst
+- Iganädalane analytics raport on sinu tööriist, mitte aruandlus
 
 ---
 

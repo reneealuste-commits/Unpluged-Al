@@ -6,14 +6,40 @@
 
 ## Süüdistuste audit
 
-Enne käsu lugemist — tunnistame ausalt, mida see võib tunduda:
+Enne käsu lugemist — **Vossi meetod:** loetle kõigepealt kõige hulgemad asjad, mida vestluspartner võib mõelda. Ära ütle *"ma saan aru"* — kasuta labeleid.
 
-| Süüdistus | Vastus |
-|-----------|--------|
-| *"See võib tunduda kui ebarealistlik kodanikualgatus."* | Kommunikatsioon ongi see koht, kus büroo koordineerimine kõige rohkem puudujääki annab. See pakett ei lisa sulle tööd — see annab teistele selged tähtaegad, et sinu töö oleks võimalik. |
-| *"Ma ei saa oodata Ardo/Kadri/Kätlin memot — mul on deadline."* | Ilma memota on deadline ohtlikum. Pakett seab prioriteedi: faktid enne vormi. Kui memo ei tule, on see Risto kontrollpunkt, mitte sinu süü. |
-| *"Eliise postitab enne minu pressiteadet — see on probleem."* | Kui sisu on õige, on see initsiatiiv (Steiger, ptk 11). Kui sisu on vale, on see koordineerimise probleem. Erinevus on oluline. |
-| *"Kui sõnum läheb valesti, süüdistatakse mind."* | Jah — sest sa oled viimane vormistaja. Sellepärast on faktikontroll sinu kontrollpunktis, mitte ainult Ardo omal. |
+| Label (enne ettepanekut) | Mida see avab |
+|--------------------------|---------------|
+| *"Tundub, et see võib tunduda kui ebarealistlik kodanikualgatus."* | Annab loa skeptitsismile. |
+| *"Tundub, et ma juba teen kommunikatsiooni — miks vaja eraldi operatsiooni?"* | Tunnistab olemasolevat tööd. Avab dialoogi teiste tähtaegadest. |
+| *"Kõlab nagu kriisikommunikatsioon 1h on ilus paberil, aga reaalsus teine."* | Võimaldab rääkida realistlikest sihtidest. |
+| *"Näib, et kui PM ütleb infotunnis midagi ettevalmistamata, süüdistatakse mind."* | Aus risk. Võimaldab rääkida Q&A-st. |
+
+**Paus iga labeli järel.**
+
+---
+
+## Vestluse ettevalmistamine (One-Sheet)
+
+> Mudel: [VESTLUSE_ETTEVALMISTAMINE_MUDEL.md](../VESTLUSE_ETTEVALMISTAMINE_MUDEL.md)
+
+### 1. Eesmärk
+*Iga PM avalik sõnum on koordineeritud enne avaldamist. Kriisikommunikatsioon aktiveerub ≤ 1h. Valdkondade memod jõuavad Silverile õigeaegselt.*
+
+### 2. Kokkuvõte (eesmärk: "Täpselt nii")
+*"PM sõnum on viimasel ajal jõudnud avalikkuseni enne, kui büroo on koordineerinud. Meedia on saanud erinevat infot eri allikatest. Sa juba juhid kommunikatsiooni — OP-Peegel annab teistele selged tähtaegad, et sinu töö oleks võimalik."*
+
+### 3. Kalibreeritud küsimused
+- *"Mis on kõige valusam hetk, kui pead pressiteate kirjutama ilma Ardo/Kadri/Kätlin memota?"*
+- *"Kuidas sa näed realistlikku kriisiaega — 1h, 2h, muu?"*
+- *"Mis teeb Eliise ja sinu kanalite ühtsuse keeruliseks?"*
+- *"Kuidas see mõjutab PM-i infotunni ettevalmistust?"*
+- *"Mis peaks juhtuma, et valdkondade memod tuleksid õigeaegselt?"*
+
+### 4. Mitte-sõnalised pakkumised
+- Kui memo ei tule õigeaegselt, see on Risto kontrollpunkt — mitte sinu süü
+- Eliise initsiatiiv kriisis on aktsepteeritud, kui sisu on õige
+- Kommunikatsiooniplaani vorm on sinu disain
 
 ---
 

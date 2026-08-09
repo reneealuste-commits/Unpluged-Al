@@ -6,14 +6,41 @@
 
 ## Süüdistuste audit
 
-Enne käsu lugemist — tunnistame ausalt, mida see võib tunduda:
+Enne käsu lugemist — **Vossi meetod:** loetle kõigepealt kõige hullemad asjad, mida vestluspartner võib mõelda. Ära ütle *"ma saan aru"* — kasuta labeleid.
 
-| Süüdistus | Vastus |
-|-----------|--------|
-| *"See võib tunduda kui ebarealistlik kodanikualgatus."* | See ei ole väljast tulev ettepanek, vaid büroo enda koordineerimiskeel. Kui see tundub võõras, siis ongi aeg see ühiseks töökeeleks muuta — mitte ignoreerida. |
-| *"Steigeri sõjaväeline juhtimine ei sobi poliitilisse büroosse."* | Steigeri tuum ei ole käskude andmine, vaid inimeste kuulamine. See sobib igasse büroosse, kus inimesed teevad koostööd surve all. |
-| *"Ma ei saa olla korraga PM-i toetaja ja operatsiooni juht."* | Sa ei pea olema mõlemat eraldi. Operatsiooni juhtimine **on** PM-i toetamine — tagades, et tema tahe jõuab büroost välja ühtselt. |
-| *"Kui sõnum läheb valesti, süüdistatakse mind."* | Jah, see on võimalik. Sellepärast on kontrollpunktid ja tagasivaated — mitte sellepärast, et kedagi süüdistada, vaid et vigu tunnistada ja parandada. |
+| Label (enne ettepanekut) | Mida see avab |
+|--------------------------|---------------|
+| *"Tundub, et see võib tunduda kui ebarealistlik kodanikualgatus."* | Annab loa skeptitsismile. Partner ei pea kaitsma. |
+| *"Tundub, et sa mõtled — järjekordne protsess minu juba keerulisele tööle."* | Tunnistab koormust. Avab dialoogi, mitte kaitsepositsiooni. |
+| *"Kõlab nagu Steigeri sõjaväeline juhtimine ei sobi poliitilisse büroosse."* | Võimaldab selgitada inimkeskset tuuma. |
+| *"Näib, et kui sõnum läheb valesti, süüdistatakse mind."* | Aus vastutuskoht. Võimaldab rääkida kaitsemehhanismidest. |
+
+**Paus iga labeli järel.** Lase partneril täita vaikus.
+
+---
+
+## Vestluse ettevalmistamine (One-Sheet)
+
+> Täida enne büroo tutvustusvestlust või koordineerimisringi. Mudel: [VESTLUSE_ETTEVALMISTAMINE_MUDEL.md](../VESTLUSE_ETTEVALMISTAMINE_MUDEL.md)
+
+### 1. Eesmärk
+*Büroo nõustub OP-Peegel raamistikuga ja alustab igapäevast 15-minutilist hommikuringi. Igaüks teab oma rolli ja piire.*
+
+### 2. Kokkuvõte (eesmärk: "Täpselt nii")
+*"Viimastel kuudel on PM sõnum jõudnud avalikkuseni vastuoluliselt — eri valdkonnad on andnud erinevat infot. See on tekitanud küsimusi nii koalitsioonis kui meedias. Me kõik koordineerime juba, aga ilma ühise keeleta ja selgete tähtaegadeta. OP-Peegel paneb kirja seda, mida me juba teeme."*
+
+### 3. Kalibreeritud küsimused
+- *"Mis on sinu valdkonnas kõige suurem risk, et sõnum läheb valesti?"*
+- *"Kuidas sa näed, et koordineerimine peaks töötama — mis on realistlik?"*
+- *"Mis teeb selle keeruliseks just sinu rollis?"*
+- *"Kuidas see mõjutab ülejäänud meeskonda?"*
+- *"Mis peaks juhtuma, et sa tunneksid, et see on sinu tööriist, mitte koormus?"*
+
+### 4. Mitte-sõnalised pakkumised
+- Vabadus valida hommikuringi aeg (kuni 09:30)
+- Võimalus öelda "see ei tööta minu jaoks" esimesel korral ilma süüdistuseta
+- Selge piir: Risto koordineerib, aga ei mikrojuhi valdkondi
+- Tagasivaade pärast esimest kuud — kui ei tööta, muudame koos
 
 ---
 

@@ -9,7 +9,7 @@ Peaministri büroo sisemine koordineerimisraamistik **Operatsioon Peegel**.
 | [Üldraamistik](docs/operatsioon-peegel/00_OPERATSIOON_PEEGEL_RAAMISTIK.md) | OP-Peegel eesmärgid, faasid, Steigeri struktuur |
 | [Vestluse ettevalmistamine](docs/operatsioon-peegel/VESTLUSE_ETTEVALMISTAMINE_MUDEL.md) | Vossi One-Sheet mudel |
 | [One-pagerid](docs/operatsioon-peegel/one-pager/) | Üheleheline ülevaade iga nõuniku rollist |
-| [Käsupaketid](docs/operatsioon-peegel/kaskupaketid/) | Isikupärased käsupaketid Steigeri vormis |
+| [Käsupaketid](docs/operatsioon-peegel/kaskupaketid/) | Isikupärased käsupaketid (Steiger + Voss One-Sheet) |
 
 ## Meeskond
 
@@ -24,4 +24,4 @@ Peaministri büroo sisemine koordineerimisraamistik **Operatsioon Peegel**.
 
 ## Metoodika
 
-Paketid järgivad R. Steigeri *Inimesekeskne juhtimine* struktuuri ([Google Drive kaust](https://drive.google.com/drive/folders/18cIBYQvzMxpKOrhtIdCyg8W2eTrQix8B)).
+Paketid järgivad R. Steigeri *Inimesekeskne juhtimine* struktuuri ja Chris Vossi vestluse ettevalmistamise mudelit ([One-Sheet](docs/operatsioon-peegel/VESTLUSE_ETTEVALMISTAMINE_MUDEL.md)).

@@ -3,16 +3,16 @@
 
 ---
 
-## Süüdistuste audit
+## Süüdistuste audit (Voss)
 
-Enne sisu lugemist — tunnistame ausalt, mida see pakett võib tunduda:
+Enne sisu lugemist — ütle **enne ettepanekut** (labelid, mitte vastused):
 
-| Süüdistus | Vastus |
-|-----------|--------|
-| *"See võib tunduda kui ebarealistlik kodanikualgatus — sotsiaalmeedia on kiire, bürokraatia aeglustab."* | 30 min postitamise aeg on kiirem kui enamik pressiteateid. Pakett ei aeglusta — see annab sulle selge loa postitada, kui joond on paigas. |
-| *"PM kanal ei ole bürokraatia koht."* | PM kanal on ka ametlik kanal. Koordineerimine ei tähenda tsenseerimist — see tähendab, et postitus ei vastuolu pressiteatega. |
-| *"Postitamine enne pressiteadet on vastuolus meie töökorraldusega."* | Kriisis on kiirus olulisem kui järjekord. Steigeri ptk 11: initsiatiiv ilma vigadeta. Kui joond on selge, postita. |
-| *"Ma ei saa jälgida kõike, mis sotsiaalmeedias toimub."* | Ei peagi kõike. Pakett keskendub PM narratiivile ja negatiivsele narratiivile, mis võib PM joont kahjustada. |
+- *"Tundub, et see võib tunduda kui ebarealistlik kodanikualgatus."*
+- *"Tundub, et sotsiaalmeedia on kiire — bürokraatia aeglustab."*
+- *"Kõlab nagu PM kanal ei ole bürokraatia koht."*
+- *"Näib, et kui postitus läheb valesti, süüdistatakse mind."*
+
+*Ära ütle "ma saan aru". Vestluse One-Sheet: [käsupakett](../kaskupaketid/06_Eliise_Kuus_KASK.md)*
 
 ---
 

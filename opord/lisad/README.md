@@ -60,7 +60,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | AY | [lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md](lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md) | **Kuldne sild** — Sun Tzu + Art of the Deal; esimene manööver; AI; juhtide kutse |
 | AZ | [lisa-az-suur-pilt-kardashev-musk-ja-susteem.md](lisa-az-suur-pilt-kardashev-musk-ja-susteem.md) | **Suur pilt** — Kardashev T-I/II/III, Musk ökosüsteem, Tesla/SpaceX/Starlink, „hang on" |
 | BA | [lisa-ba-keha-vabastamine-tasuta.md](lisa-ba-keha-vabastamine-tasuta.md) | **Keha vabastamine tasuta** — lümf, enesemassaaž, karu/puu meetod, raputamine (TRE), partner |
-| BB | [lisa-bb-hannes-vorno-haridus-ja-toitumine.md](lisa-bb-hannes-vorno-haridus-ja-toitumine.md) | **Hannes Võrno** — haridus, meedia praktik, toidu päritolu; Lisa U karnivoor-uuurimisliin |
+| BB | [lisa-bb-hannes-vorno-haridus-ja-toitumine.md](lisa-bb-hannes-vorno-haridus-ja-toitumine.md) | **Hannes Võrno** — haridus, meedia, toit, poliitiline muster; tunnustus |
 | BC | [lisa-bc-digitaalne-detoks-ja-nuputelefon.md](lisa-bc-digitaalne-detoks-ja-nuputelefon.md) | **Digitaalne detoks** — nuputelefon pärast 17:00, ankrupaik, valge nimekiri; töö pärast tundi ei ole OK |
 | — | [kiht0-ru-tuum-1-leht.md](kiht0-ru-tuum-1-leht.md) | **Kiht 0 RU** — 1 lk venekeelne tuum (Lisa AN tee E) |
 | — | [renee-aluste-profiil.md](renee-aluste-profiil.md) | **Renee Aluste** — eraldi profiilileht (operatsiooni koordinaator) |
@@ -134,7 +134,7 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 
 **Keha vabastamine tasuta:** Lisa BA — kui trauma on kehas kinni: lümf/enesemassaaž, kõnd, raputus, selg puu või ukse vastu (karu meetod); partner nõusolekuga. Täiendab Lisa P, AB, H.
 
-**Hannes Võrno (haridus + toit):** Lisa BB — meedia praktik vs koolibürokraatia (Kohtla-Järve õppetund); toidu päritolu ja avatud mõte; seos Lisa U / Bellevue liiniga. Kandidaat: `kommunikatsioon/kandidaat-hannes-vorno.md`.
+**Hannes Võrno (haridus + toit + poliitiline muster):** Lisa BB — meedia praktik vs koolibürokraatia; toidu päritolu; august 2026 poliitilised märkamised tunnustatud; Renee kohtumine karnivooride õhtusöögil. Kandidaat: `kommunikatsioon/kandidaat-hannes-vorno.md`.
 
 **Digitaalne detoks (nuputelefon):** Lisa BC — nutitelefon ankrus (kodu/auto/kontor); pärast 17:00 ainult nuputelefon (pere + hädaabi); töö pärast tundi ei ole OK. Täiendab Raamat 01, Lisa V, Lisa Q.
 

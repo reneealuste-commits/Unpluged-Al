@@ -2749,7 +2749,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **AY** | — | `lisad/lisa-ay-kuldne-sild-valitsus-ja-esimene-manover.md` | **Kuldne sild** — Sun Tzu + Art of the Deal; esimene manööver; K0 mini-kursus |
 | **AZ** | — | `lisad/lisa-az-suur-pilt-kardashev-musk-ja-susteem.md` | **Suur pilt** — Kardashev T-I/II/III; Musk ökosüsteem; Tesla, SpaceX, Starlink |
 | **BA** | — | `lisad/lisa-ba-keha-vabastamine-tasuta.md` | **Keha vabastamine tasuta** — lümf, enesemassaaž, karu/puu meetod, raputamine (TRE), partner |
-| **BB** | — | `lisad/lisa-bb-hannes-vorno-haridus-ja-toitumine.md` | **Hannes Võrno** — hariduse kriitika, meedia praktik, toidu päritolu; seos Lisa U (karnivoor uurimisliin) |
+| **BB** | — | `lisad/lisa-bb-hannes-vorno-haridus-ja-toitumine.md` | **Hannes Võrno** — haridus, meedia, toit, poliitiline muster; tunnustus (august 2026) |
 | **BC** | — | `lisad/lisa-bc-digitaalne-detoks-ja-nuputelefon.md` | **Digitaalne detoks** — nuputelefon pärast 17:00, ankrupaik, valge nimekiri; töö pärast tundi ei ole OK |
 | **AQ** | — | `lisad/lisa-aq-sidepakkide-jaotus-skeem.md` | **Sidepakkide jaotus** — K0–K3 kihtide arhitektuur, paketid P0–P3, kanalid, levitamise reeglid |
 | — | — | `lisad/kiht0-ru-tuum-1-leht.md` | **Kiht 0 RU** — 1 lk venekeelne tuum (Lisa AN) |

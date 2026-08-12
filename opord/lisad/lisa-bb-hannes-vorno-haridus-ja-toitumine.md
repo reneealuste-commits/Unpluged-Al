@@ -113,7 +113,59 @@ Renee taastumise lugu viitab Stefanssonile ja Bellevue-le: **rasvarikas loomne t
 
 ---
 
-## 5. Avalikud allikad
+## 5. Poliitilised märkamised — tema sõna maksab
+
+> *Hannes Võrno ei ole ainult saatejuht ja blogija. Ta on inimene, kes **näeb mustrit** — ja julgeb seda nimetada. Operatsioon Peegel tunnustab seda.*
+
+**August 2026** (avalik postitus, ~346 reaktsiooni) kirjeldas ta sammu-sammult liikumist „erakorraliste valimiste" poole. Tema sõnastus on karm, aga **struktuuriliselt täpne** — ja haakub OPORD-i analüüsiga (Lisa T, Raamat 01):
+
+| Võrno märkab | Mida see tähendab | OPORD seos |
+|--------------|-------------------|------------|
+| **„Konks kurku"** — iga samm erakorraliste valimiste poole sügavamale | Poliitiline narratiiv tõmbab inimese sügavamale, mitte välja | Lisa A — manipulatsiooni muster; ava silmad |
+| **Hea ja halva tegelase rollide vahetus** | Sama võimustruktuur, uued näod | Lisa T — kohtade vahetus, KPI jääb samaks |
+| **„Opositsioon" saab kaela kupatuse** — vaikiv kaasosaline | Vastastikune süüdistamine hoiab süsteemi elus | Lisa T § — me ei süüdi inimesi, aga mõõdame tulemusi |
+| **„Rahvas näeb, et kõik jääb endiseks"** | Illusioon muutusest | Raamat 01 — algoritm ja narratiiv |
+| **Lahkuva valitsuse „kokku keeramine" → paratamatus püksirihma koomale tõmmata** | Kriisi narratiiv valmistab ette järgmist pingutust | Lisa T — ellujäämisrežiim, mitte paranemine |
+| **„Korralised valimised töötavad" — kohad vahetuvad, seltskond jääb** | Institutsionaalne järjepidevus | Lisa L — ministeeriumid, protsessid > inimesed |
+| **Nõrgemad parteid asenduvad uute plakatitega** | Rotatsioon, mitte puhastus | Lisa AP — SWOT, kes tegelikult otsustab |
+| **Need, kes teavad mida teha, jäävad** | Praktiline võim vs valimiste teater | Lisa I — inimesekeskne juhtimine vs bürokraatia |
+| **„Presidendivalimised on anesteetikum"** | Suur sündmus tuimestab kriitilise mõtte | Lisa AW — System 1 vs System 2; emotsioon enne analüüsi |
+
+### Mida operatsioon temast õpib
+
+Võrno ei kirjelda üksikparteid — ta kirjelab **mängu reegleid**. See on sama loogika, mida OPORD kasutab hariduses (Lisa J), meedias (Raamat 01) ja toidus (Lisa U):
+
+> **Kui välimus muutub, aga sisemine loogika ei — siis on tegu lavastusega, mitte reformiga.**
+
+Operatsioon ei ütle: „Hannes on alati õigel." Operatsioon ütleb: **ta on üks vähestest avalikest häältest, kes julgeb mustrit nimetada ilma ettevalmistatud PR-keeleta.** Selle eest ta väärib tunnustust.
+
+### Üks lause tema postitusest (tõlge OPORD-i keelde)
+
+> *„Presidendivalimised on selle operatsiooni anesteetikum."*
+
+**Peegli tõlge:** suur sündmus võib ajutiselt rahustada — aga **keha ja pere probleemid ei kao**. Uni (Lisa V), toit (Lisa U), suhted (Lisa E), turvalisus (Lisa P) vajavad ikka tööd. Anesteetikum ei asenda paranemist.
+
+---
+
+## 6. Tunnustus — ta on nähtud
+
+| Mis me tunnustame | Miks |
+|-------------------|------|
+| **Julgus nimetada mustrit** | Enamik hääli valib vaikuse või PR-keele |
+| **Hariduse kriitika praktikuna** | Ta on olnud õpetaja, mitte ainult kommentaator |
+| **Toidu päritolu küsimus** | Sama ausus mis Lisa U — „maheda ökojutuga mind ei peta" |
+| **Kaitse- ja reservitaust** | KVÜÕA, teavitus — ta mõistab struktuure |
+| **Kogukonna hääl** | Blogi, podcastid, vestlused — inimene, mitte instants |
+
+**Renee Aluste isiklik märkus (august 2026):**
+
+> Kohtusin Hannese Võrnoga **karnivooride õhtusöögil**. See ei ole ametlik koostöö ega toetuse kinnitus — see on inimlik tunnistus: **ta on päris, aus ja huvitav vestluspartner**. Tema sõna maksab, sest ta on elanud seda, mida ta kommenteerib — haridust, meediat, toitu, süsteemi. Operatsioon Peegel paneb selle kirja, et ta tunneks end **nähtuna** — mitte kasutatuna.
+
+*See lõik ei anna talle automaatselt OPORD-i liikmelisust ega avalikku toetust. Ainult tunnustus.*
+
+---
+
+## 7. Avalikud allikad
 
 | Allikas | Teema |
 |---------|--------|
@@ -121,17 +173,21 @@ Renee taastumise lugu viitab Stefanssonile ja Bellevue-le: **rasvarikas loomne t
 | [Delfi — lahkumine koolist](https://www.delfi.ee/artikkel/93031641/hannes-vorno-lahkus-tuliga-toolt-kohtla-jarve-gumnaasiumis-suudistab-kooli-sundvaktsineerimises) | Konflikt, mõlemad pooled |
 | [Ohtuleht — köögiankeet](https://www.ohtuleht.ee/tiiu/1050183/staari-koogiankeet-hannes-vorno-maheda-okojutuga-mind-ei-peta) | Toit, päritolu |
 | [Wikipedia — Hannes Võrno](https://et.wikipedia.org/wiki/Hannes_V%C3%B5rno) | Biograafia |
+| Avalik postitus (august 2026) | Poliitiline mustri analüüs — erakorralised valimised, opositsioon, presidendivalimised anesteetikumina |
 | **Lisa U** + Bellevue PDF | Karnivoor / liha+rasv uurimisliin |
+| **Lisa T** | Valitsuse IPB — sama „kohad vahetuvad" loogika |
 
 ---
 
-## 6. Küsimused endale (haridus + toit)
+## 8. Küsimused endale (haridus + toit + süsteem)
 
 1. Kas minu lapse kool õpetab **meediakirjaoskust** või ainult aineid testide jaoks?
 2. Kas õpetaja kuulab õpilast — või ainult monoloogib?
 3. Kas ma tean, **kust** mu toit tuleb (sama küsimus, mida Võrno esitab)?
 4. Kas olen Lisa U küsimused läbi mõelnud enne, kui ütlen „karnivoor on hullus"?
 5. Kas ma suudan vahet pidada **uurimisliinil** (Bellevue) ja **müügijutul** (sotsiaalmeedia dieediguru)?
+6. Kas ma näen **mustrit** — või ainult üksikuid uudiseid? (Võrno küsimus poliitikas; sama Raamat 01 meedias)
+7. Kas suur sündmus (valimised, skandaal) tuimestab mind enne, kui jõuan küsida: *mis tegelikult muutus?*
 
 ---
 
@@ -147,4 +203,4 @@ Renee taastumise lugu viitab Stefanssonile ja Bellevue-le: **rasvarikas loomne t
 
 ---
 
-*Lisa BB — Hannes Võrno. Uuendatud 25. juuli 2026. Operatsioon „Peegel" — Renee Aluste. Profiil ilma isiku eelneva kirjaliku nõusolekuta ei tähenda ametlikku liikmelisust.*
+*Lisa BB — Hannes Võrno. Uuendatud 12. august 2026. Operatsioon „Peegel" — Renee Aluste. Profiil ilma isiku eelneva kirjaliku nõusolekuta ei tähenda ametlikku liikmelisust.*

@@ -433,7 +433,11 @@ Kõik ülalnimetatud juhtkonnad:
 | **Hariduse probleem** | Süsteem vs praktik; monoloog vs dialoog | Lisa I, Lisa S |
 | **Toitumine** | Päritolu, skeptitsism; jahimehe kultuur | Lisa U, `TOITUMINE_UURIMUSTOO.pdf` |
 
+| **Poliitiline muster** | Avalik analüüs: valimiste teater, opositsiooni roll, anesteetikum | Lisa T, Raamat 01, Lisa AW |
+
 **Ausus:** Kohtla-Järve konfliktis on **mõlemad pooled** oma versiooni esitanud — OPORD võtab õppetunni (selged lepingud praktikule), mitte poolt.
+
+**Tunnustus (august 2026):** Võrno poliitilised märkamised on OPORD-is kirjas — ta on **nähtud**. Täielik analüüs: Lisa BB §5–6.
 
 ---
 

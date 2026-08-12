@@ -100,7 +100,7 @@ def build_combined_markdown() -> str:
         "title: \"Operatsioon Peegel\"\n",
         "subtitle: \"OPORD koos koigi lisadega\"\n",
         "author: Renee Aluste\n",
-        "date: 24. juuli 2026\n",
+        "date: 12. august 2026\n",
         "lang: et-EE\n",
         "toc: true\n",
         "toc-title: Sisukord\n",

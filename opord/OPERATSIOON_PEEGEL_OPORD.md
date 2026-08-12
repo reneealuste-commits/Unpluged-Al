@@ -1519,7 +1519,7 @@ Laagri reegel oli: kaks õlut. Kui keegi küsis, oli SOP vastus: *„This is my 
 - **Uni, Why We Sleep, ava silmad:** Lisa V — `lisad/lisa-v-uni-miks-me-magame.md` (Matthew Walker, une teadus, 25 küsimust, uni enne ATH-silti)
 - **Montessori beebi, austus algusest:** Lisa W — `lisad/lisa-w-montessori-beebi-austus-algusest.md` (0–3, *austus = armastus*, stressivaba vanemlus)
 - **Taskukaardid, väljapoole suhtlemine:** Lisa X — `lisad/lisa-x-taskukaardid-valjasuhtlus.md` (OPSEC, 5 teemat, lendleht, märkmikku kirjutamine)
-- **Kanep, endokannabinoidsüsteem, CBD ja toit (mitte suitsetamine):** Lisa Y — `lisad/lisa-y-kanep-endokannabinoid-ja-ajalugu.md` (ECS, CBD, rasvad, case study'd, kriitiline mõtlemine)
+- **Kanep, endokannabinoidsüsteem, CBD ja toit (mitte suitsetamine):** Lisa Y — `lisad/lisa-y-kanep-endokannabinoid-ja-ajalugu.md` (ECS, CBD, LRCUG harm reduction, meditsiiniline kanep, teadlik tarvitamine, case study'd)
 - **Linnad, tööstusühiskond ja partnerlus:** Lisa Z — `lisad/lisa-z-linnad-toostusuhiskond-ja-partnerlus.md` (suletud toad, isa eemal, ettevõtlus, reform Eestist)
 - **Intiimsuse atlas, keha, orgasmid, yoni koolitus:** Lisa AA — `lisad/lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md` (Walsberg 2024, vibraatori ajalugu, **Epp Kärsin** — pane end kirja: eppkarsin.com)
 - **Paljajalu kohandamine ja rippumine linnas:** Lisa AB — `lisad/lisa-ab-paljajalu-ja-rippumine-linnas.md` (muruväljakud, Korea mudel, **90 sek rippumist päevas**, Vanja Moves / schoolofmobility.com)
@@ -1919,9 +1919,10 @@ Sinu kehas on **endokannabinoidsüsteem** — retseptorid ja molekulid (anandami
 
 1. **Surve on reaalne** — inimesed otsivad rahu (Lisa V, Lisa H). Keelustamine on tekitanud **varimajanduse** — kvaliteet teadmata, noored kaitseta. Operatsioon küsib: kas poliitika teenib inimest?
 2. **Eesmärk on efekt, mitte aine** — CBD tooted, kanepiseemneõli, omega-rasvhapped, uni, teraapia. Suitsetamine on sümptomi kustutamine, mitte lahendus.
-3. **Kriitiline mõtlemine** — Lisa Y sisaldab case study'sid, et igaüks saaks teha **kaalutud valiku**. Ära usu mind — uuri ise.
+3. **Kriitiline mõtlemine** — Lisa Y sisaldab case study'sid, **LRCUG madala riskiga juhiseid** (2021 uuendus) ja **meditsiinilise kanepi** Eesti rada (arst + retsept). Ära usu mind — uuri ise.
+4. **Inimsõbralikum lähenemine** — kui keegi tarvitab: madal doos, harva, mitte suitsetada, mitte mustalt, mitte juhtida; trauma-teadlik keha kuulamine (Lisa P). Parim valik on ikka **mitte tarvitada** või **arsti juures meditsiiniliselt**.
 
-Taastumise järjekord ei muutu: vaimne abi → uni, liikumine, toit → struktuur. **Lisa Y** — ECS, CBD, toit, ajalugu, case study'd. Kriisis: narko.ee **641 4110**, Eluliin **655 8088**.
+Taastumise järjekord ei muutu: vaimne abi → uni, liikumine, toit → struktuur. **Lisa Y** — ECS, CBD, toit, LRCUG, teadlik tarvitamine, ajalugu, case study'd. Kriisis: narko.ee **641 4110**, Eluliin **655 8088**.
 
 *Minu küsimus sulle: Kas sa teadsid, et sul on endokannabinoidsüsteem — enne kui lugesid seda?*
 
@@ -2721,7 +2722,7 @@ Need seitse köidet täiendavad käesolevat paranemis-teekonda. Iga köide on is
 | **V** | — | `lisad/lisa-v-uni-miks-me-magame.md` | **Uni** — Matthew Walker *Why We Sleep*; NREM/REM, uni ja aju, müüdid vs faktid, 25 avatud meele küsimust |
 | **W** | — | `lisad/lisa-w-montessori-beebi-austus-algusest.md` | **Montessori beebi** — austus algusest (0–3); *austus = armastus*; stressivaba vanemlus, kodus ja lasteaias |
 | **X** | — | `lisad/lisa-x-taskukaardid-valjasuhtlus.md` | **Taskukaardid** — väljapoole suhtlemine, OPSEC, 5 teemat, lendlehe tekst, demomehed |
-| **Y** | — | `lisad/lisa-y-kanep-endokannabinoid-ja-ajalugu.md` | **ECS, CBD, toit** — mitte suitsetamine; efekt stressist välja; case study'd; varimajandus |
+| **Y** | — | `lisad/lisa-y-kanep-endokannabinoid-ja-ajalugu.md` | **ECS, CBD, LRCUG** — mitte suitsetamine; harm reduction; meditsiiniline kanep; teadlik tarvitamine |
 | **Z** | — | `lisad/lisa-z-linnad-toostusuhiskond-ja-partnerlus.md` | **Linnad = vanglad** — dominantne süsteem; Steiger 1997 vastus; partnerlus |
 | **AA** | — | `lisad/lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md` | **Intiimsuse atlas** — mees/naise erinevus, orgasmid, vibraatori ajalugu, Epp Kärsin yoni koolitus |
 | **AB** | — | `lisad/lisa-ab-paljajalu-ja-rippumine-linnas.md` | **Paljajalu linnas** + **rippumine 90 sek/päev** — Vanja Moves, schoolofmobility.com, omavalitsuse checklist |

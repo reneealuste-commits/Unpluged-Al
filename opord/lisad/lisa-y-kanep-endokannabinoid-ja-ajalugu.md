@@ -2,9 +2,9 @@
 
 **Operatsioon „Peegel"** | Ava silmad — uurimustöö | Põhimõte: *kriitiline mõtlemine, mitte käsu täitmine*
 
-**Allikad:** Harvard Health (ECS); Ravimiamet (CBD, THC); Mechoulam et al. (anandamiid, 1992); Hall W. (2026) *Addiction*; EMCDDA; Eesti NSPS; PTA (uuendtoit). Seotud: **Lisa H** (taastumine), **Lisa V** (uni, surve), **Lisa S** (trauma), **Lisa U** (toit, rasvad), **Lisa X** (OPSEC).
+**Allikad:** Harvard Health (ECS); Ravimiamet (CBD, THC); Mechoulam et al. (anandamiid, 1992); Hall W. (2026) *Addiction*; EMCDDA; Eesti NSPS; PTA (uuendtoit); Fischer et al. (2021) LRCUG uuendus; WHO ECDD (2018); Eesti Arstide Liit (meditsiiniline kanep, 2023). Seotud: **Lisa H** (taastumine), **Lisa V** (uni, surve), **Lisa S** (trauma), **Lisa P** (valideerimine, „ma ei tunne midagi"), **Lisa U** (toit, rasvad), **Lisa X** (OPSEC).
 
-> *?? **Ära usu mind. Kaitse eelkõige oma uskumusi ja veendumusi.** Uuri. Kaalu. Vali ise.*
+> *⚠️ **Ära usu mind. Kaitse eelkõige oma uskumusi ja veendumusi.** Uuri. Kaalu. Vali ise.*
 
 > *See lisa **ei õhuta kanepi suitsetamist**. See räägib **CBD toodetest, toidust ja rasvadest**, mis sisaldavad rahustavaid aineid — ja **efektist**: inimene saab stressist välja, et langetada paremaid otsuseid. Mõni lõpetab hiljem teadlikult suitsetamise.*
 
@@ -15,7 +15,7 @@
 | Mis see ON | Mis see EI OLE |
 |------------|----------------|
 | CBD tooted, kanepiseemneõli, toit, rasvad | Kutse suitsetada või kasvatada |
-| Efekt: stressist välja ? paremad otsused | „Pea kõik kanepit suitsetama" |
+| Efekt: stressist välja → paremad otsused | „Pea kõik kanepit suitsetama" |
 | Kriitiline mõtlemine, case study'd | Käsu täitmine või mõtlemata järgimine |
 | Varimajanduse mõistmine | Seaduse rikkumise õigustamine |
 | Kaalutud valik iga inimese jaoks | Üks retsept kõigile |
@@ -23,12 +23,12 @@
 **Loogika:**
 
 ```
-Surve ? keha otsib rahu ? mõni läheb illegaalsele kanalile (suitsetamine, must turg)
- ? efekt on lühiajaline ? otsused halvenevad ? sõltuvus süveneb
+Surve → keha otsib rahu → mõni läheb illegaalsele kanalile (suitsetamine, must turg)
+ → efekt on lühiajaline → otsused halvenevad → sõltuvus süveneb
 
 Alternatiiv:
-Surve ? uni + toit + liikumine + teraapia + (vajadusel) seaduslikud CBD/vahendid
- ? efekt: rahunemine ? paremad otsused ? teadlikult ei suitseta enam
+Surve → uni + toit + liikumine + teraapia + (vajadusel) seaduslikud CBD/vahendid
+ → efekt: rahunemine → paremad otsused → teadlikult ei suitseta enam
 ```
 
 ---
@@ -92,7 +92,7 @@ ECS reguleerib **und, valu, põletikku, stressi, meeleolu** — homeostaasi (tas
 | Magneesium (tumedad lehtköögiviljad, pähklid) | Lihaste lõdvestus, uni |
 | L-teaniin (roheline tee) | Rahunemine ilma uimasuseta |
 | Tryptofaani allikad (kalkun, munad, banaan) | Serotoniini eelkäija |
-| Fermenteeritud toidud (soolestik ? aju telg) | Lisa U, mikrobioom |
+| Fermenteeritud toidud (soolestik → aju telg) | Lisa U, mikrobioom |
 
 ---
 
@@ -105,7 +105,7 @@ Keelustamine **ei lõpeta nõudlust**. See suunab nõudluse **illegaalsele turul
 | **Must turg** | THC tase teadmata; võimalik reostus, synteetilised kannabinoidid (HHC jms) |
 | **Hinnakontroll kriminaalidel** | Kvaliteet ei ole garanteeritud |
 | **Noorte kaitsetus** | Müüja ei küsi ID-d; diiler ei hooli |
-| **Kriminaalne karistus** | ?7,5 g = trahv; rohkem = vangis |
+| **Kriminaalne karistus** | ≤7,5 g = väärtegu (trahv kuni ~2400 € või kuni 30 päeva arest); rohkem = kuritegu |
 | **Varimajandus võidab** | Keegi teenib — mitte inimene, kes vajab rahu |
 
 > *„Inimesed võtsid ära, hakkasid kontrollima — et teha raha."* — Osaliselt tõsi: must turg, vanglad, testid, farma monopol. Keelustamine **ei kaitse** inimest — see **suunab** ta ohtlikumale kanalile.
@@ -196,13 +196,24 @@ See ei õigusta rekreaatsiooni. See näitab: molekulil on roll — **kontekst ja
 
 | Tegevus | Seis |
 |---------|------|
-| Rekreaatsiooniline suitsetamine | **Keelatud** |
-| ?7,5 g isiklik omamine | **Väärtegu** (trahv ~1200 € või kuni 30 päeva arest) |
-| Kasvatus, müük | **Kriminaalne** |
-| Kanepiseemned, -õli toidus | **Lubatud** (madal THC) |
-| CBD kosmeetika | **Lubatud** (tingimustega) |
-| CBD toidulisand suukaudseks | **Ei tohi** ilma uuendtoidu loata |
-| Epidyolex | Retseptiravim |
+| Rekreaatsiooniline suitsetamine / tarvitamine | **Keelatud** |
+| ≤7,5 g isiklikuks tarbimiseks (omamine) | **Väärtegu** (trahv kuni ~2400 € või kuni 30 päeva arest) |
+| Edasiandmine või müük (ka tasuta) | **Kriminaalne** — ka alla 7,5 g |
+| Kasvatus (ükski taim) | **Kriminaalne** |
+| Avalik tarvitamine | **Väärtegu** |
+| Kanepiseemned, -õli toidus | **Lubatud** (madal THC, EL sortide nimekiri) |
+| CBD kosmeetika | **Lubatud** (tingimustega; mitte terviseväited) |
+| CBD toidulisand suukaudseks | **Ei tohi** ilma EL uuendtoidu autoriseerimiseta |
+| Meditsiiniline kanep / kannabinoidravimid | **Retsept + Ravimiameti luba** (müügiloata ravim) |
+| Epidyolex (CBD) | Retseptiravim (epilepsia) |
+
+**Meditsiiniline kanep Eestis (arstide soovitused, 2023):**
+
+- Kaaluda **kroonilise neuropaatilise valu** korral 3. valikuna, kui tavapärased ravimid ei sobi
+- Eelistada **madala THC** preparaate; **mitte üle 12,5% THC** sisaldusega
+- Ainult **kogenud arsti** juures, multidistsiplinaarse ravi osana, täiendusravimina
+- Arst esitab taotluse **Ravimiametile**; apteek tellib hulgimüüja kaudu
+- **Ei ole** rekreaatsiooni legaliseerimine — eraldi meditsiiniline rada
 
 **Abi:** [narko.ee](https://www.narko.ee) · **641 4110** · Eluliin **655 8088**
 
@@ -283,9 +294,112 @@ See ei õigusta rekreaatsiooni. See näitab: molekulil on roll — **kontekst ja
 
 ---
 
-## 12. Üks lause, mida võid jagada
+## 12. Madala riskiga tarvitamise juhised (LRCUG) — mida teadus ütleb
 
-> **„Ma ei õhuta suitsetamist. Ma räägin efektist — stressist välja, et langetada paremaid otsuseid. Keelustamine tekitas varimajanduse. Uuri ise. Ära usu mind — kaitse oma veendumusi."**
+> *See lõik on **informatiivne**, mitte kutse tarvitada. Kui sa ei tarvita — see on teaduslikult kõige turvalisem valik.*
+
+Kanada ja rahvusvahelised eksperdid on koostanud **Lower-Risk Cannabis Use Guidelines (LRCUG)** — tõenduspõhised soovitused, mida igaüks saab teha, et **vähendada** (mitte nullida) terviseriske. Uuendus (Fischer et al., 2021, *International Journal of Drug Policy*) kinnitab 10 põhisuunda:
+
+| # | Soovitus | Miks |
+|---|----------|------|
+| 1 | **Abstinents on ainus nullrisk** | Kõik muu on riski vähendamine |
+| 2 | **Ära alusta enne 16.–25. eluaastat** | Aju areng, sõltuvus, psüühika |
+| 3 | **Madal THC või tasakaalustatud THC:CBD** | Kõrge THC → ärevus, psühhoos, sõltuvus |
+| 4 | **Ära kasuta sünteetilisi kannabinoide** (HHC jms) | Etteaimamatu, ohtlik |
+| 5 | **Väldi suitsetamist** — eelista aurustamist või suukaudset | Põletusproduktid kahjustavad kopse |
+| 6 | **Ära sügava hingamise / hoidmise trikke** | Suurem toksiline koormus |
+| 7 | **Harva, mitte igapäev** | Sagedus on tugevaim riskitegur |
+| 8 | **Ära juhi ega tööta masinatega** | Impairment 2–3× suurem õnnetuse risk |
+| 9 | **Kõrge riskiga grupid hoidugu** | Rasedad, psüühika taust, noored |
+| 10 | **Ära kombineeri riskikäitumisi** | Nt noor + igapäev + kõrge THC + suitsetamine |
+
+**WHO positsioon:** puhas CBD ei kuulu rahvusvahelisse narkootikumide nimekirja; kanepi tarvitamine võib mõjutada kognitsiooni, sõitmist, vaimset tervist — eriti noorte puhul.
+
+---
+
+## 13. Tarvitamisviiside võrdlus — kumb on „inimsõbralikum"?
+
+**Ühtegi viisi ei saa nimetada täiesti ohutuks.** Igal meetodil on oma riskid:
+
+| Viis | Plussid | Miinused |
+|------|---------|----------|
+| **Mitte tarvitada** | Null risk | Ei lahenda meditsiinilist vajadust (kui see on olemas) |
+| **Retseptiravim (suukaudne, reguleeritud)** | Täpne doos, järelevalve, seaduslik | Kitsas näidustus; kõrvaltoimed; mitte kõigile |
+| **Aurustamine (taim, mitte õli)** | Vähem kopsusümptomeid kui suitsetamisel | Endiselt THC mõju; võimalikud saasteained |
+| **Suukaudne (edible, tinktuur)** | Ei põleta kopse | Hiline algus (30–120 min) → üledoosimine; pikem mõju |
+| **Suitsetamine** | Kiire algus | Kõige enam kopsukahju; põletusproduktid |
+| **„Dabbing" / kõrge kontsentraat** | — | Ägeim äge reaktsioon; kõrgeim risk |
+
+**Järeldus operatsiooni keeles:** inimsõbralikum = **vähem keha kahjustav + vähem otsuseid halvendav + võimalikult seaduslik ja reguleeritud**. See tähendab tavaliselt: **ei suitseta, madal doos, harva, arsti juures kui meditsiiniline vajadus**.
+
+---
+
+## 14. Teadlik tarvitamine — trauma-teadlik lähenemine (Lisa P)
+
+Kui keegi tarvitab (või kaalub), siis **inimsõbralikum** ei ole „rohkem" — vaid **teadlikum**:
+
+### Enne
+
+1. **Peatu.** Küsi: *Mida ma praegu vajan?* (uni / valu / rahunemine / põgenemine?)
+2. **Kontrolli keha.** Kus on pinge? Skala 0–10. Kui „ma ei tunne midagi" — see võib olla kaitse (Lisa P); alusta kehast, mitte sundimisest.
+3. **Vali väike doos.** Alusta madalalt; oota (eriti suukaudsel).
+
+### Ajal
+
+4. **Turvaline koht** — tuttav keskkond, mitte auto, töö, avalik koht
+5. **Kuula keha** — spordikommentaatori režiim: *„Praegu on rind pinges, pulss tõuseb"* — ilma hukkamõisteta
+6. **Ära sunni tundeid** — kanep ei asenda teraapiat ega und
+
+### Pärast
+
+7. **Kirjuta üles** — mis doos, mis efekt, mis järgmine kord teisiti
+8. **Hinda:** kas see aitas **põhjusel** või ainult **sümptomil**?
+
+### Mikrodoseerimine (kui tarvitatakse)
+
+Uuringud viitavad, et THC on **bifaasiline**: väike doos (~7,5 mg) võib stressi vähendada, suurem (~12,5 mg) ärevust suurendada (Childs et al., 2017). Mikrodoseerimine tähendab **minimaalset tõhusat doosi** — mitte joobet. See ei sobi: sõltuvuse ajaloo, raseduse, psüühika, noorte puhul.
+
+> **Alternatiiv ilma kanepita:** tasuta **Aju vabadus** rakendus (NVC, eesti keeles) — tähelepanek → keha → tunded → vajadused → palve. Repo: `ajuvabadus/`. See on suhtlus **endaga**, mitte aine.
+
+---
+
+## 15. Inimsõbralik otsustuspuu (kokkuvõte)
+
+```
+1. Kas ma saan ilma? → JAH = parim (uni Lisa V, toit Lisa U, teraapia Lisa H)
+2. Kas on meditsiiniline põhjus? → Arst + retsept + Ravimiamet
+3. Kui keegi ikkagi tarvitab (me ei õhuta):
+   - eesmärk selge (mitte paoksmine)
+   - madal THC, THC:CBD tasakaal
+   - mitte suitsetada
+   - harva, mitte igapäev
+   - mitte juhtida
+   - reguleeritud toode (mitte must turg)
+   - pausid (tolerantsi vältimiseks)
+4. Kriisis → narko.ee, Eluliin — mitte aine
+```
+
+---
+
+## 16. Uuendatud allikad (2026)
+
+| Allikas | Mida see annab |
+|---------|----------------|
+| Fischer et al. (2021) LRCUG uuendus | 10 madala riskiga soovitust |
+| WHO ECDD (2018) | CBD positsioon; kanepi mõjud |
+| Ravimiamet — kanep, THC, CBD | Eesti seadus |
+| Eesti Arstide Liit — M. Kolk (2023) | Meditsiiniline kanep, 12,5% piir |
+| Hall W. (2026) *Addiction* | Keelustamise ajaloo kriitika |
+| EMCDDA — Portugal | Dekriminaliseerimise andmed |
+| Childs et al. (2017) | THC bifaasiline stressi/ärevuse efekt |
+| National Academies (2017) | Kopsukahju, aurustamine vs suitsetamine |
+| Lisa H, P, V, U | Taastumine, trauma, uni, toit |
+
+---
+
+## 17. Üks lause, mida võid jagada
+
+> **„Ma ei õhuta suitsetamist. Ma räägin efektist — stressist välja, et langetada paremaid otsuseid. Kui keegi tarvitab, siis teadus ütleb: vähem, madalam, harvem, mitte suitsetada, mitte mustalt. Keelustamine tekitas varimajanduse. Uuri ise. Ära usu mind — kaitse oma veendumusi."**
 
 ---
 

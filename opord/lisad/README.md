@@ -34,7 +34,7 @@ Seitsmeköiteline õppematerjal, mis täiendab [OPERATSIOON_PEEGEL_OPORD.md](../
 | V | [lisa-v-uni-miks-me-magame.md](lisa-v-uni-miks-me-magame.md) | **Uni** — Matthew Walker *Why We Sleep*; ava silmad, 25 küsimust, uni enne ATH-silti |
 | W | [lisa-w-montessori-beebi-austus-algusest.md](lisa-w-montessori-beebi-austus-algusest.md) | **Montessori beebi** — austus algusest (0–3); *austus = armastus*; stressivaba vanemlus |
 | X | [lisa-x-taskukaardid-valjasuhtlus.md](lisa-x-taskukaardid-valjasuhtlus.md) | **Taskukaardid** — väljapoole suhtlemine, OPSEC, 5 teemat, lendlehe tekst, märkmikku kirjutamise juhend |
-| Y | [lisa-y-kanep-endokannabinoid-ja-ajalugu.md](lisa-y-kanep-endokannabinoid-ja-ajalugu.md) | **ECS, CBD, toit** — mitte suitsetamine; efekt stressist välja; case study'd; kriitiline mõtlemine |
+| Y | [lisa-y-kanep-endokannabinoid-ja-ajalugu.md](lisa-y-kanep-endokannabinoid-ja-ajalugu.md) | **ECS, CBD, LRCUG** — mitte suitsetamine; harm reduction; meditsiiniline kanep; teadlik tarvitamine |
 | Z | [lisa-z-linnad-toostusuhiskond-ja-partnerlus.md](lisa-z-linnad-toostusuhiskond-ja-partnerlus.md) | **Linnad ja tööstusmudel** — vanglad, politsei kui süsteem; Steiger 1997 vastus |
 | AA | [lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md](lisa-aa-intiimsuse-atlas-keha-ja-ajalugu.md) | **Intiimsuse atlas** — orgasmid, vibraatori ajalugu, Epp Kärsin yoni koolitus |
 | AB | [lisa-ab-paljajalu-ja-rippumine-linnas.md](lisa-ab-paljajalu-ja-rippumine-linnas.md) | **Paljajalu linnas** + **Vanja Moves meeskond** — riippumine 90 sek/päev, tasuta mobility |
@@ -110,7 +110,7 @@ Köited A–G on nummerdatud progressiivseks õppeks:
 
 **Rollid, juhised, NL-skeem (partnerlus):** Lisa AG — mehe roll, naise juhised, **meeste SOP** (uks, kotid, kohting), **kapteni metafoor**, **Orion Taraban** *The Value of Others* (2024), **Rich Cooper / Monica Almaguer** podcast (hypergamy, frame, vetting).
 
-**Kanep, ECS, CBD ja toit (mitte suitsetamine):** Lisa Y — endokannabinoidsüsteem, CBD tooted, kanepiseemneõli, case study'd, varimajandus; kriitiline mõtlemine — ära usu, uuri ise.
+**Kanep, ECS, CBD ja harm reduction (mitte suitsetamine):** Lisa Y — endokannabinoidsüsteem, LRCUG madala riskiga juhised (2021), meditsiiniline kanep Eestis, teadlik tarvitamine (Lisa P), case study'd, varimajandus; kriitiline mõtlemine — ära usu, uuri ise.
 
 **Linnad, tööstusühiskond, partnerlus:** Lisa Z — suletud toad, isa eemal raha teenimas, Rockefelleri ajastu mudel; tagasipöördumine ettevõtluse ja pere-partnerluse juurde; reform Eestist seestpoolt valitsust.
 

@@ -61,7 +61,7 @@ Malevapealik juba today:
 |-------|---------|----------------|
 | Sakala | Viljandi, Põhja-Lõuna | Puukoolid, Tactical Foodpack, kanep |
 | Jõgeva | Jõgevamaa | Sadala Agro, Nordic Hemp partnerid |
-| Tartu | Tartu + ümbrus | EPM, teadus, Nordic Hemp tehas |
+| Tartu | Tartu + ümbrus | EPM, teadus, Nordic Hemp tehas · **KOV: Sandra Laur** (hariduskomisjon) |
 | Harju | Harjumaa | Growshopid, urban farm, KOV |
 | ... | ... | ... |
 
@@ -184,6 +184,9 @@ Tulemus: nõudlus → pakkumine → töökohad → maksud → Inimeste Fond
 | 4 | Kriisikoolitus (Järvamaa mudel) | 1× aastas | Osalejate arv |
 | 5 | Noorte programm (aiad, karjäär) | Pidev | Kotkad/Kodutütarde |
 | 6 | JUP kursuste suunamine tsiviilile | Pidev | Juhtide arv ühiskonnas |
+| 7 | **Igakuine debrief** (Annex A) | Igakuiselt | 1 lk raport esindajatekogule |
+
+**Debrief kaart:** `debrief-kaart-malevapealik.pdf` · juhend `OPORD-sise.md` v1.1 · Extreme Ownership (Remo/Ühtegi)
 
 ### Malevkonna pealikule
 
@@ -247,4 +250,4 @@ Tulemus: nõudlus → pakkumine → töökohad → maksud → Inimeste Fond
 
 ---
 
-*Seotud: `Operation-Mirror-Pivot-Finants.xlsx` · `riiklik-kanepiettevotte-mudel.md` · `sverre-puustusmaa-osint-kandidaat.md` · `myles-munroe-juhtimiskuld-analyys.md`*
+*Seotud: `OPORD-sise.md` · `debrief-kaart-malevapealik.pdf` · `sandra-laur-osint-koostoo.md` · `Operation-Mirror-Pivot-Finants.xlsx` · `riiklik-kanepiettevotte-mudel.md` · `sverre-puustusmaa-osint-kandidaat.md` · `juhtimisvideo-riho-remo-oppejuhend.md`*

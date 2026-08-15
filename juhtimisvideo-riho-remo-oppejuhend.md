@@ -306,6 +306,8 @@ Pärast iga projekti / õppust / koosolekut:
 | Ühtegi: inimesed > struktuur | Malevapealik = **koordinaator**, mitte poliitik |
 | Debrief | Igakuine maleva "mis läks valesti?" — **juht esimesena** |
 
+**Materjalid:** `debrief-kaart-malevapealik.pdf` · `OPORD-sise.md` v1.1 · Tartu KOV: `sandra-laur-osint-koostoo.md`
+
 ### 9.3 Kaitsevägi akadeemia → tsiviilühiskond
 
 Remo juba õpetab akadeemias. Video loogika:
@@ -325,7 +327,7 @@ JUP / sõdurioskused → juhtimisoskused → malevapealik → KOV / farmer / kog
 | Nädal | Tegevus | Mõõdik |
 |-------|---------|--------|
 | 1–2 | Vali 1 klient-organisatsioon — **juhtide viga-tunnistamise audit** | 5 juhi intervjuu |
-| 3–4 | Loo **1-leheküljeline Debrief kaart** eesti keeles | PDF + slaid |
+| 3–4 | Loo **1-leheküljeline Debrief kaart** eesti keeles | ✅ `debrief-kaart-malevapealik.pdf` |
 | 5–8 | **JuJuTud M6** stiilis live Q&A — "tunnistan viga" sessioon | 1 live / kuu |
 | 9–12 | Kaitsevägi akadeemia — **case study: Ühtegi** ametlik õppetund | 1 kursus integreeritud |
 
@@ -427,6 +429,9 @@ Küsi endalt: *"Kas ma olen viimased 30 päeva olnud võitlejatega lõkke ääre
 | **Dixon / intelligentsed juhid** | [Remo LinkedIn](https://www.linkedin.com/posts/remoojaste_miks-intelligentsed-juhid-teevad-saatuslikke-activity-7447885319720345600-dSFq) | 4 õppetundi |
 | **Vaikimise premeerimine** | [Motivaator](https://motivaator.ee/kas-juhtimiskultuur-premeerib-vaikimist/) | Eesti kontekst |
 | **Õlessanded** | [olessanded-alluksustele.md](./olessanded-alluksustele.md) | Malevapealik kiht |
+| **OPORD sise** | [OPORD-sise.md](./OPORD-sise.md) | Operatiivkorraldus v1.1 |
+| **Debrief kaart** | [debrief-kaart-malevapealik.pdf](./debrief-kaart-malevapealik.pdf) | Malevapealik — Annex A |
+| **Sandra Laur OSINT** | [sandra-laur-osint-koostoo.md](./sandra-laur-osint-koostoo.md) | Tartu koostöö |
 | **Operation Mirror** | [Operation-Mirror-Pivot-Finants.xlsx](./Operation-Mirror-Pivot-Finants.xlsx) | Bürokratia kärp |
 
 **Raamatud:**

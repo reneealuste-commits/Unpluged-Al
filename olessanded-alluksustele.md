@@ -247,4 +247,4 @@ Tulemus: nõudlus → pakkumine → töökohad → maksud → Inimeste Fond
 
 ---
 
-*Seotud: `Operation-Mirror-Pivot-Finants.xlsx` · `riiklik-kanepiettevotte-mudel.md` · `sverre-puustusmaa-osint-kandidaat.md`*
+*Seotud: `Operation-Mirror-Pivot-Finants.xlsx` · `riiklik-kanepiettevotte-mudel.md` · `sverre-puustusmaa-osint-kandidaat.md` · `myles-munroe-juhtimiskuld-analyys.md`*

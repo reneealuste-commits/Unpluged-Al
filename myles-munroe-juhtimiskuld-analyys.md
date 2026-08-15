@@ -1,7 +1,12 @@
 # 🦁 Dr. Myles Munroe — Juhtimiskuld
 ## Täielik analüüs: *Rediscovering The Leadership Attitude of Kings* + seeria
 
-> **Sinu video:** [Rediscovering The Leadership Attitude of Kings Part 1](https://youtu.be/xc7OrJj0Sp8)  
+> ⚠️ **URL PARANDUS (2026-08-15):** Link `xc7OrJj0Sp8` viitab nüüd YouTube'is teisele videole:  
+> **[Miks Eesti juhid ei tunnista vigu? — Ühtegi × Ojaste (JuJuTud)](https://youtu.be/xc7OrJj0Sp8)**  
+> Selle kohta vt **`juhtimisvideo-riho-remo-oppejuhend.md`**.  
+> Allpool olev Munroe-analüüs on **eraldi teema** (võib olla teine video ID).
+
+> **Algne Munroe video (kui eraldi link):** *Rediscovering The Leadership Attitude of Kings Part 1*  
 > **Kestus:** ~80 min (Part 1) · **Seeria kokku:** ~5–6 h (5 plaati)  
 > **Kontekst:** Munroe Global · *Kingdom Leadership: Developing The Right Attitude*  
 > **Allikas:** videodb.org transkriptid + Munroe Global ametlik seeria kirjeldus
@@ -10,7 +15,7 @@
 
 ## 0. Mis see video tegelikult on?
 
-Sa saatsid **xc7OrJj0Sp8** — see on **"Rediscovering The Leadership Attitude of Kings Part 1"**, mitte eraldi 3-tunnine compilation. Kui tundus ~3h, siis tõenäoliselt:
+Kui sul on **Munroe** video (mitte JuJuTud Ühtegi/Ojaste), siis see on **"Rediscovering The Leadership Attitude of Kings Part 1"**. Kui tundus ~3h, siis tõenäoliselt:
 
 - vaatasid **playlisti** või YouTube automaatselt mängis edasi (Part 1 → Cultivating Attitudes → jne), **või**
 - seeria esimesed 3 osa kokku on **~218 min (~3,6 h)**:

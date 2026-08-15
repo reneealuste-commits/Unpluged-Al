@@ -197,7 +197,22 @@ Klient ostab toodet                Masin on ERMA oma
 
 ---
 
-## 10. Aus kokkuvõte
+## 10. Kiht 7: Õlessanded allüksustele
+
+**Malevapealikud** Kaitseliidus on maastiku juhid — koordineerivad, mida tsiviilid teevad ja kuidas see mõjutab kohalikke elanikke.
+
+| Element | Roll |
+|---------|------|
+| **Malevapealik** | 15 maleva koordinaator (KOV + ERMA + farmer) |
+| **Malevkonna pealik** | "Õlg" — kuulab vallas/linnas |
+| **Sõdurioskuste kursus** | Juhtimisoskused liiguvad tsiviilühiskonda |
+| **JUP 1–3** | Pipeline: meeskond → KOV → malev |
+
+Täielik dokument: **`olessanded-alluksustele.md`**
+
+---
+
+## 11. Aus kokkuvõte
 
 | Küsimus | Vastus |
 |---------|--------|

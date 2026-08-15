@@ -406,5 +406,59 @@ for r in [4, 5, 8, 9, 10, 11]:
         if isinstance(v, (int, float)):
             ws11.cell(row=r, column=c).number_format = EUR
 
+# ═══════════════════════════════════════════════════════════
+# LEHT 12: ÕLESSANDED ALLÜKSUSTELE
+# ═══════════════════════════════════════════════════════════
+ws12 = wb.create_sheet("Olessanded")
+add_title(ws12, "ÕLESSANDED ALLÜKSUSTELE — MALEVAPEALIKUD MAASTIKUL", 6)
+set_widths(ws12, [22, 28, 28, 28, 22, 30])
+
+oless = [
+    ("Kiht", "Kes", "Mida teeb maastikul", "Mõju elanikele", "A5 eesmärk", "Seos teiste kihtidega"),
+    ("7. OLESSANDED", "Malevapealik", "Koordineerib tsiviiltegevust", "Töökohad, turvalisus", "15 maleva aktiivne", "Operation Mirror elluviija"),
+    ("Õlg", "Malevkonna pealik", "Kuulab vallas/linnas", "Farmer↔KOV↔tarbija", "150+ kuulamispunkti", "ERMA nõudlus"),
+    ("Õlg", "JUP 2 lõpetaja", "Probleemide lahendaja", "Kriisikomisjonid", "500+ juhti ühiskonnas", "KOV Šveitsi mudel"),
+    ("Õlg", "Sõdurioskuste kursus", "Juhtimisoskused koju", "Iga KL liige = juht", "10 000+ juhti", "Tasuta koolitus"),
+    ("Partner", "KOV", "Otsused lähedal", "Kooli aiad, LEADER", "Kõik KOV kaasatud", "Puukoolid"),
+    ("Partner", "ERMA / farmer", "Pakkumine", "Kohalik toode", "30 puukooli", "Hemp Authority"),
+    ("Partner", "Tarbija", "Nõudlus", "Osta Eesti", "Reguleeritud turg", "Inimeste Fond"),
+    ("", "", "", "", "", ""),
+    ("PILOOT 2026", "Sakala malev", "Viljandi, Tactical Foodpack", "Puukoolid", "3 maleva", "Sverre võrgustik"),
+    ("", "Jõgeva malev", "Sadala Agro, kanep", "Farmerid", "", "Nordic Hemp"),
+    ("", "Tartu malev", "EPM, teadus", "Koolitus", "", "ERMA klaster"),
+]
+write_rows(ws12, 3, oless)
+style_header(ws12, 3, 6, fill=PatternFill("solid", fgColor="1565C0"))
+style_table(ws12, 4, 14, 6)
+
+# Malevapealiku ülesanded
+ws12.cell(row=16, column=1, value="MALEVAPEALIKU ÜLEANDED").font = BOLD
+tasks = [
+    ("#", "Ülesanne", "Sagedus", "Mõõdik", "Kulu", "Märkus"),
+    ("1", "Kohtumine KOV juhtidega", "Kvartaalselt", "Protokoll", 0, "Järvamaa mudel"),
+    ("2", "Tsiviil-maastiku kaart", "1×/a", "Farmerid, poed, koolid", 0, "Anonüümne"),
+    ("3", "Nõudluse raport ERMA-le", "Kvartaalselt", "Osta Eesti statistika", 0, "Maleva piirkond"),
+    ("4", "Kriisikoolitus (CIMIC)", "1×/a", "Osalejad", "LEADER/KL", "Partnerid kaasatud"),
+    ("5", "Noorte aiaprogramm", "Pidev", "Kotkad/Kodutütarde", "KOV", "Loodus kooli"),
+    ("6", "JUP suunamine tsiviilile", "Pidev", "Juhtide arv", 0, "Sõdurioskuste export"),
+]
+write_rows(ws12, 17, tasks)
+style_header(ws12, 17, 6, fill=GREEN)
+style_table(ws12, 18, 24, 6)
+
+# JUP pipeline
+ws12.cell(row=26, column=1, value="JUP → TSIVIIL PIPELINE").font = BOLD
+jup = [
+    ("Kursus", "Mida annab", "Kuhu liigub", "Näide", "Kool", "A5 maht"),
+    ("Sõdurioskused / alus", "Meeskond, distsipliin", "Iga kodukohas", "KL liige", "KL kool", "10 000+"),
+    ("JUP 1", "Juhtimise baas", "Meeskonnajuht", "Malevkond", "Alu mõis", "2 000+"),
+    ("JUP 2", "Probleemi lahendus", "KOV kriisikomisjon", "Järvamaa", "Alu mõis", "500+"),
+    ("JUP 3", "Ülesandekeskne juht", "Malevapealik", "15 maleva", "Alu mõis", "50+"),
+    ("CIMIC koolitus", "Tsiviil-sõjaline", "Omavalitsus + partner", "Kriis", "Õõlg", "15 KOV/a"),
+]
+write_rows(ws12, 27, jup)
+style_header(ws12, 27, 6)
+style_table(ws12, 28, 33, 6)
+
 wb.save(OUTPUT)
 print(f"Salvestatud: {OUTPUT}")

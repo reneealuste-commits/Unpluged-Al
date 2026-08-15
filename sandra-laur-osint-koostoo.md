@@ -20,7 +20,9 @@
 | **Koostöö väärtus** | ⭐⭐⭐⭐ Tartu sõlm — haridus, noored, KOV, Isamaa toru |
 | **Risk** | ⚠️⚠️ Polariseeriv retorika · noor · parteivahetus · populism |
 
-**Ühe lausega:** Laur on **Tartu poliitiline uks** haridusse ja noortesse — **mitte** kanepi ega maleva operatiivjuht, aga **jah** kooli aiad, Kotkad, kutseharidus, EPM-ühendused.
+**Ühe lausega:** Laur on **Tartu poliitiline uks** haridusse ja noortesse — koolid, Kotkad, debrief, malev-KOV koostöö. **Kanepi teema kõrvale** — temaga ei alusta.
+
+> **Kanep/ERMA:** sise-dokumentides alles; Lauriga vestluses **mitte tuum**.
 
 ---
 
@@ -70,7 +72,7 @@
 | **Riigikaitse** | Sõjateadus, kaitseministri ambitsioon | Isamaa toru kaitse- ja malevateemadesse |
 | **Noored** | Noortevolikogu kogemus, hariduskomisjon | Kotkad, kooli programmid, stipendiumid |
 | **Eesti keel / väärtused** | Rõhk eestikeelsel haridusel | Kooskõlas inimesekeskse kogukonnaga |
-| **Tartu** | Volikogu + haridusjuht | **Pilootlinn** Õlessanded + ERMA (EPM, Nordic Hemp) |
+| **Tartu** | Volikogu + haridusjuht | **Pilootlinn** Õlessanded (haridus, noored, EPM) |
 | **Juhtimiskogemus** | CCF — ootamatult juhtimise ülevõtmine (võistlusmäng) | Debrief / Extreme Ownership resonants |
 | **Brüssel / NATO** | EP + NATO cyber praktika | Euroopa sõnumid (ettevaatlikult) |
 
@@ -81,7 +83,7 @@
 | **Reformierakond** | Väga kriitiline ("tuumasõda majanduse vastu") | Parteiline sõlm — ära seo Operation Mirror Reformi-vastase kampaaniaga |
 | **Populism** | Daniel Kõiv: "populistlikud loosungid" | Projekt peab olema **konkreetne**, mitte loosung |
 | **Haridusminister Kallas** | "Koole tuleb kaitsta Kallase eest" | Konflikt haridusministeeriumiga — kasuta **KOV**, mitte riigi vastu |
-| **Kliima** | Kriitiline kliimapoliitika suhtes | Roheline kanep — **majandus**, mitte kliimaideoloogia |
+| **Kliima** | Kriitiline kliimapoliitika suhtes | Ära seo rohelise majanduse ideedega — **kanep kõrvale** |
 | **Parteivahetus** | Kesk → Isamaa enne valimisi | Usaldus küsimärk — **tulemused enne lubadusi** |
 | **Meediakäitumine** | TikTok, tulised artiklid | Ühe valed sõnumi korral projekt seotakse poliitikaga |
 
@@ -112,8 +114,7 @@ SANDRA LAUR  ←—— KOV: haridus, noored, volikogu otsused
 
 **Laur EI ole:**
 - malevapealiku ülemus  
-- ERMA esindaja  
-- Operation Mirror avalik nägu  
+- avalik nägu Operation Mirrorile (vabatahtlikult)  
 
 **Laur ON:**
 - Tartu **ukseava** haridus- ja noorteprojektidele  
@@ -129,11 +130,11 @@ SANDRA LAUR  ←—— KOV: haridus, noored, volikogu otsused
 | **1** | **Kooli aiaprogramm** | Hariduskomisjon — 1 gümnaasium pilot | Kotkad + malevkond vabatahtlikud | 1 aed Q4 2026 |
 | **2** | **JUP export info** | Kutsub kooli + noortejuhi koosolekule | Combat Ready / KL 2h intro | 1 üritus |
 | **3** | **Debrief hariduses** | Juhib hariduskomisjonis "mis läks valesti" sessiooni | `debrief-kaart-malevapealik.pdf` | Igakuiselt |
-| **4** | **EPM + kutseharidus** | Ühendab EPM / Nordic Hemp / kutsekool | ERMA karjäärinfo | 2027 |
-| **5** | **Tartu gümnaasiumikohtade kriis** | Tema teema — lahenduste otsimine | Mitte kanep — **planeerimine** | Protokoll |
-| **6** | **Kriisivalmidus koolides** | 2 nädala toiduvaru teadlikkus | Tactical Foodpack / malev | Info päev |
+| **4** | **EPM + kutseharidus** | Ühendab EPM / kutsekool / teadus | Karjäärinfo, praktika | 2027 |
+| **5** | **Tartu gümnaasiumikohtade kriis** | Tema teema — lahenduste otsimine | Planeerimine + malev-KOV ruum | Protokoll |
+| **6** | **Kriisivalmidus koolides** | 2 nädala reegli teadlikkus | KL + malev | Info päev |
 
-**Ära alusta:** reguleeritud turu poliitikast, kanepi legaliseerimisest volikogu saalis — **enne** usaldus projektidega.
+**Ära alusta:** kanepi, reguleeritud turu, riigiettevõtte — **need on kõrvale**, mitte Lauri vestlus.
 
 ---
 
@@ -152,7 +153,7 @@ SANDRA LAUR  ←—— KOV: haridus, noored, volikogu otsused
 6. *"Kas hariduskomisjon saaks **pilootida** ühe kooli aiaprogrammi koos Kaitseliidu malevaga — malevkond aitab, volikogu toetab ruumi/ressurssi?"*  
 7. *"Kas oleksid huvitatud **debrief** metoodikast — juht tunnistab esimesena viga? Meil on 1-leheküljeline kaart malevapealikutele."*  
 8. *"Kas sa saad **ühendada** EPM-i või kutsekooli inimesi, kui me räägime rohelisest majandusest **töökohtade**, mitte kliima loosungite kaudu?"*  
-9. *"Milline on sinu **piir** — mida sa ei tee (nt kanep, parteikampaania, TikTok)?"*  
+9. *"Milline on sinu **piir** — mida sa ei tee (nt parteikampaania, TikTok)?"*  
 10. *"Kas Isamaa fraktsioonis on keegi, kes tahaks **Järvamaa mudelit** (KOV + malev kriisikoosolek) Tartus?"*
 
 ### Riskide test
@@ -170,14 +171,14 @@ SANDRA LAUR  ←—— KOV: haridus, noored, volikogu otsused
 | Laur liigub edasi (London) | Keskmine | Keskmine | Protokollid + asendus Isamaas |
 | Konflikt haridusministeeriumiga | Kõrge | Keskmine | KOV-tase, mitte riigi ründamine |
 | Populism ilma tulemuseta | Keskmine | Kõrge | **KPI-d** — 1 projekt korraga |
-| Sinu projekt = Isamaa kanep | Madal | Väga kõrge | Kanep **eraldi** kanal · Laur = haridus |
+| Sinu projekt politiseerub | Keskmine | Kõrge | Tuum = juhtimine + haridus, **kanep kõrvale** |
 | Usaldus kaob pärast parteivahetust | Keskmine | Keskmine | Väike algus, dokumenteeritud tulemus |
 
 ---
 
 ## 🗣️ SOOVITATUD PITCH (30 sek)
 
-> *"Me ehitame Tartus **praktilist** kihti — kooli aiad, noored, kriisivalmidus — koostöös Kaitseliidu malevaga. Mitte loosungeid, vaid **protokolliga projekt**. Sina juhid hariduskomisjonis, malevapealik maastikul. Kas alustame **ühe kooliga**?"*
+> *"Me ehitame Tartus praktilist kihti — noored, juhtimine, kool ja malev koos. Mitte loosungeid, vaid protokolliga projekt. Sina juhid hariduskomisjonis, malev maastikul. Kas alustame **ühe kooliga**?"*
 
 ---
 
@@ -209,7 +210,7 @@ SANDRA LAUR  ←—— KOV: haridus, noored, volikogu otsused
 | Jah, kui… | Ei, kui… |
 |-----------|----------|
 | Ta nõustub **projektipõhise** koostööga | Ta tahab ainult **meediat ja loosungeid** |
-| Esimene projekt on **kooli aed / noored** | Ta seob sind kohe **Isamaa kanepi kampaaniaga** |
+| Esimene projekt on **kool / noored / debrief** | Ta seob sind teemaga, mida sa hetkel ei propageeri |
 | Protokollid — malev juhib operatsiooni | Ta nõuab **partei otsustusõigust** maleva üle |
 | Ta läbib **debrief testi** (küsimus 11) | Ta ei tunnista **ühtegi** viga / vastutust |
 

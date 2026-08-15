@@ -37,7 +37,9 @@
 | **Combat Ready / Remo Ojaste** | Juhtimiskoolitus (JUP export) |
 | **Kindral Riho Ühtegi** | Eeskuju + mentor (alandlik juhtimine) |
 | **Sverre Puustusmaa / Tactical Foodpack** | Kriisitoidu, Sakala piirkond |
-| **Sandra Laur** | Tartu KOV — hariduskomisjon, Isamaa, noored *(vt Annex C)* |
+| **Sandra Laur** | Tartu KOV — hariduskomisjon, Isamaa, noored *(vt Annex C)* · **kanep/ERMA temaga mitte** |
+
+> **Partner-side reegel (v1.1):** Kanepi/reguleeritud turu idee on **sise-arhiivis**, aga **välisvestlustes (sh Laur) kõrvale** — tuum = juhtimine + Õlessanded + haridus.
 
 ### 1.4 Seotud dokumendid
 

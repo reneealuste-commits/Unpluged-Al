@@ -186,7 +186,7 @@ Tulemus: nõudlus → pakkumine → töökohad → maksud → Inimeste Fond
 | 6 | JUP kursuste suunamine tsiviilile | Pidev | Juhtide arv ühiskonnas |
 | 7 | **Igakuine debrief** (Annex A) | Igakuiselt | 1 lk raport esindajatekogule |
 
-**Debrief kaart:** `debrief-kaart-malevapealik.pdf` · juhend `OPORD-sise.md` v1.1 · Extreme Ownership (Remo/Ühtegi)
+**Debrief kaart:** `debrief-kaart-malevapealik.pdf` · juhend `OPORD-sise.md` v1.1 · **Faas 0 ajakava:** `WARNO-001-sise.md` · Extreme Ownership (Remo/Ühtegi)
 
 ### Malevkonna pealikule
 
@@ -250,4 +250,4 @@ Tulemus: nõudlus → pakkumine → töökohad → maksud → Inimeste Fond
 
 ---
 
-*Seotud: `OPORD-sise.md` · `debrief-kaart-malevapealik.pdf` · `sandra-laur-osint-koostoo.md` · `Operation-Mirror-Pivot-Finants.xlsx` · `riiklik-kanepiettevotte-mudel.md` · `sverre-puustusmaa-osint-kandidaat.md` · `juhtimisvideo-riho-remo-oppejuhend.md`*
+*Seotud: `OPORD-sise.md` · `WARNO-001-sise.md` · `debrief-kaart-malevapealik.pdf` · `sandra-laur-osint-koostoo.md` · `Operation-Mirror-Pivot-Finants.xlsx` · `riiklik-kanepiettevotte-mudel.md` · `sverre-puustusmaa-osint-kandidaat.md` · `juhtimisvideo-riho-remo-oppejuhend.md`*

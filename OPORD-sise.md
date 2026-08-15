@@ -4,7 +4,8 @@
 > **Operatsioon:** OPERATION MIRROR / ÕLESSANDED ALLÜKSUSTELE  
 > **Versioon:** 1.1 · **Kuupäev:** 2026-08-15  
 > **Klassifikatsioon:** SISE — partneritele jagada valikuliselt  
-> **Asukoht:** Eesti (15 malevat) · piloot: Sakala, Jõgeva, **Tartu**
+> **Asukoht:** Eesti (15 malevat) · piloot: Sakala, Jõgeva, **Tartu**  
+> **Faas 0 juhtimine:** `WARNO-001-sise.md` · `WARNO-001-Operation-Mirror.docx`
 
 ---
 
@@ -230,6 +231,7 @@ Kõik piloodid alluvad **juhtimisvideo** standardile:
 | **C** | `sandra-laur-osint-koostoo.md` | Taustakontroll + koostöö |
 | **D** | `olessanded-alluksustele.md` | Malevapealiku ülesanded |
 | **E** | `Operation-Mirror-Pivot-Finants.xlsx` | Numbrid |
+| **F** | `WARNO-001-sise.md` · `WARNO-001-Operation-Mirror.docx` | Faas 0 hoiatkorraldus + 90-päeva plaan |
 
 ---
 
@@ -238,11 +240,12 @@ Kõik piloodid alluvad **juhtimisvideo** standardile:
 | Ver | Kuupäev | Muudatus |
 |-----|---------|----------|
 | 1.0 | 2026-08-15 | Esialgne OPORD (Mirror + Õlessanded) |
-| **1.1** | **2026-08-15** | **+ Debrief Annex A · + Sandra Laur Tartu sõlm · + juhtimisstandard** |
+| **1.1** | **2026-08-15** | **+ Debrief Annex A · + Sandra Laur Tartu sõlm · + juhtimisstandard · kanep Lauriga kõrvale** |
+| **1.1+** | **2026-08-15** | **+ WARNO 001 (Faas 0) — H-14/H-7/H-Hour ajakava, 3 maleva pilot** |
 
 ---
 
-> **Järgmine samm:** Piloot Sakala malev — debrief kaart + kvartalikohtumine Viljandi KOV.  
-> **Tartu:** Kinnita Lauriga **üks** projekt (T1 kooli aed) enne laiemat koostööd.
+> **Järgmine samm (WARNO 001):** H-14 (29.08) — debrief kaart 3 malevale · Laur docx · Tartu malevapealik.  
+> **H-7 (05.09):** Laur Zoom — pilot kinnitamine. **H-Hour (~15.09):** esimene Tartu KOV kohtumine.
 
 *SISE — Operation Mirror / Õlessanded*

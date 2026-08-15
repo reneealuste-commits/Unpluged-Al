@@ -228,4 +228,12 @@ SANDRA LAUR  ←—— KOV: haridus, noored, volikogu otsused
 
 ---
 
-*Seotud: `OPORD-sise.md` · `olessanded-alluksustele.md` · `debrief-kaart-malevapealik.pdf`*
+## 📨 Visioon Sandra Laurile (alusta miksist)
+
+Kui jagad temaga **miks + mida + miks nii** — loe / saada:
+
+**`sandra-laur-visioon-jagamine.md`**
+
+See on vestluse tekst, mitte KPI-memo. OSINT ja operatiivsed rollid jäävad eraldi (selles failis).
+
+---

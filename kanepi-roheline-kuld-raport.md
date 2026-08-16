@@ -221,18 +221,22 @@ pie title Kuhu läheb kanepimaksu 25 mln €?
 
 Investeerimisguru **Ray Dalio** (Bridgewater) — ja **Tony Robbins**, kes seda eesti lugejale tutvustas — ütleb:
 
-> *Leia **15–20 mitte-korrelatsioonset** varaklassi ja investeeri neisse. Kui üks langeb, teised ei kukuvad koos.*
+> *Leia **mitte-korrelatsioonseid** varaklasse ja investeeri neisse. Kui üks langeb, teised ei kukuvad koos.* (Dalio soovitab 15–20; meie mudel **8 voogu**.)
 
-Eesti mudelis see tähendab: **ära pane kogu kanepimaksu ühte asja** (ainult growshop või ainult päike). Jaota **18 erinevat tuluvoogu** — energia, tootmine, maaelu, haridus, sotsiaal, teadus, kriisivarud — nii et üks poliitiline või majanduslik kriis ei võtab kõike ära.
+Eesti mudelis see tähendab: **ära pane kogu kanepimaksu ühte asja**. Jaota **8 erinevat tuluvoogu** — energia, tootmine, tarbimine, maaelu, haridus, teadus, säästud, sotsiaal — nii et üks kriis ei võtab kõike ära.
 
-| Macro-kott | % | Näide voogudest (mitte-korrelatsioon) |
-|------------|---|--------------------------------------|
-| Päike + salvestus | 40% | Elekter ≠ börs, ≠ tarbimine |
-| Tööstus + robotid | 30% | Liising, eksport, growshop, hampcrete |
-| Basic income | 20% | Sotsiaal ≠ tootmine |
-| Haridus + uurimus | 10% | Inimkapital, patendid |
+| Voog | % | Macro-kott |
+|------|---|------------|
+| Päikesepargid + salvestus | 40% | Energia |
+| Liisingumasinad + robotid | 10% | Tööstus |
+| Tööstuskanep + eksport + CBD | 10% | Tööstus |
+| Growshop + reguleeritud turg | 10% | Tööstus |
+| Puukoolid + maaelu | 5% | Haridus / maa |
+| Haridus + kutsekool | 5% | Haridus |
+| Mirror säästud + teadus | 5% | Haridus |
+| Basic income + kriisivarud | 20% | Sotsiaal |
 
-Täpne 18-voogude tabel: `riiklik-kanepiettevotte-mudel.md` §2.1 · Excel: `Finantsstrateegia` leht.
+Täpne tabel: `riiklik-kanepiettevotte-mudel.md` §2.1 · Excel: `Finantsstrateegia` leht.
 
 ### 👶 Lapsele
 

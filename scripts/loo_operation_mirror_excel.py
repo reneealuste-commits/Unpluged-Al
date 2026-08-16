@@ -100,7 +100,7 @@ summary = [
     ("", "", "", "", "", "", ""),
     ("PÕHIMÕTE", "Operation Mirror", "", "", "", "Peegeldab bürokraatiat, ei hävita taristut", ""),
     ("", "Hemp Authority", "", "", "", "Maksab enda eest A3-st", ""),
-    ("", "Inimeste Fond", "", "", "", "Dalio: 18 voogu; macro 40/30/20/10", ""),
+    ("", "Inimeste Fond", "", "", "", "Dalio: 8 voogu; macro 40/30/20/10", ""),
 ]
 write_rows(ws, 3, summary)
 style_header(ws, 3, 7)
@@ -464,7 +464,7 @@ style_table(ws12, 28, 33, 6)
 # LEHT 13: FINANTSSTRATEEGIA — DALIO / ROBBINS
 # ═══════════════════════════════════════════════════════════
 ws13 = wb.create_sheet("Finantsstrateegia")
-add_title(ws13, "EESTI FINANTSSTRATEEGIA — 15–20 MITTE-KORRELATSIOONSET VOOGU (RAY DALIO / TONY ROBBINS)", 6)
+add_title(ws13, "EESTI FINANTSSTRATEEGIA — 8 MITTE-KORRELATSIOONSET VOOGU (RAY DALIO / TONY ROBBINS)", 6)
 set_widths(ws13, [8, 28, 22, 12, 14, 38])
 
 ws13.merge_cells("A2:F2")
@@ -472,47 +472,28 @@ ws13.cell(
     row=2,
     column=1,
     value=(
-        "Põhimõte — Ray Dalio (Bridgewater): leia 15–20 mitte-korrelatsioonset tuluvoogu ja investeeri neisse. "
-        "Tony Robbins populariseeris (*Money: Master the Game*, All Seasons portfell). "
-        "Üks sektori krahh ei viib kogu portfelli alla."
+        "Põhimõte — Ray Dalio (Bridgewater): leia mitte-korrelatsioonseid tulovooge ja investeeri neisse "
+        "(täisversioon 15–20). Eesti mudel: 8 voogu = macro 40/30/20/10. "
+        "Tony Robbins: *Money: Master the Game*, All Seasons portfell."
     ),
 ).alignment = Alignment(wrap_text=True)
 
 fin_strat = [
     ("#", "Tuluvoog / varaklass", "Korrelatsioon", "Siht %", "A5 € (84M)", "Märkus"),
-    ("1", "Päikesepargid + salvestus", "Energia ≠ tarbimine", 0.12, "=D4*84000000", "8× 5MW parki"),
-    ("2", "Liisingumasinad (tootlik vara)", "≠ börs", 0.08, "=D5*84000000", "Paid off → vaba kassa"),
-    ("3", "Tööstuskanep — kiud, eksport", "Ekspordi tsükkel", 0.07, "=D6*84000000", "Nordic Hemp"),
-    ("4", "CBD kosmeetika", "Tarbimine", 0.05, "=D7*84000000", "Kreemid, õlid"),
-    ("5", "Growshop võrgustik", "Kohalik müük", 0.06, "=D8*84000000", "Asendab importi"),
-    ("6", "Reguleeritud täiskasvanute turg", "Siseriiklik", 0.05, "=D9*84000000", "Maksud + ohutus"),
-    ("7", "Meditsiiniline kanep", "Haigekassa", 0.04, "=D10*84000000", "Stabiilne ostja"),
-    ("8", "Puukoolid + seemikumüük", "Maaelu, ≠ börs", 0.06, "=D11*84000000", "30 puukooli"),
-    ("9", "Kutsekool + koolitus", "Inimkapital", 0.05, "=D12*84000000", "Pipeline töökohtadele"),
-    ("10", "Operation Mirror säästud", "Bürokraatia efektiivsus", 0.05, "=D13*84000000", "~€35M/a"),
-    ("11", "LEADER / EAS / CAP", "Grantid, ≠ börs", 0.04, "=D14*84000000", "Olemasolev raha"),
-    ("12", "Urban farm + KOV aiad", "Kohalik kogukond", 0.03, "=D15*84000000", "Linn + maa"),
-    ("13", "Teadus + patendid (EPM)", "Pikaajaline", 0.04, "=D16*84000000", "Eksport tulevikus"),
-    ("14", "Hampcrete + ehitus", "Ehitustsükkel", 0.03, "=D17*84000000", "Avalik sektor"),
-    ("15", "Kriisitoit / varud", "Kriis, defensiivne", 0.03, "=D18*84000000", "2-nädala reegel"),
-    ("16", "Turism + kogemuskeskus", "Hooajaline", 0.02, "=D19*84000000", "Farm visits"),
-    ("17", "IT + IoT kasvatus", "Tehnoloogia", 0.03, "=D20*84000000", "Efektiivsus"),
-    ("18", "Basic income pilot", "Sotsiaal", 0.06, "=D21*84000000", "10k × 200€/kuu"),
-    ("", "KOKKU (18 voogu)", "Dalio siht: 15–20", "=SUM(D4:D21)", "=SUM(E4:E21)", "100% Inimeste Fond A5"),
-    ("", "", "", "", "", ""),
-    ("Macro", "4 kotti (vanem mudel)", "Endiselt kehtib", "", "", ""),
-    ("", "Päikesepargid + salvestus", "", 0.40, "=84000000*0.4", "Macro ≠ voogude detail"),
-    ("", "Tööstus + robotid", "", 0.30, "=84000000*0.3", ""),
-    ("", "Basic income pilot", "", 0.20, "=84000000*0.2", ""),
-    ("", "Haridus + koolid + loodus", "", 0.10, "=84000000*0.1", ""),
+    ("1", "Päikesepargid + salvestus", "Energia ≠ tarbimine", 0.40, "=D4*84000000", "8× 5MW parki"),
+    ("2", "Liisingumasinad + robotid", "Tootlik vara ≠ börs", 0.10, "=D5*84000000", "Paid off → vaba kassa"),
+    ("3", "Tööstuskanep + eksport + CBD", "Ekspordi tsükkel", 0.10, "=D6*84000000", "Kiud, kosmeetika"),
+    ("4", "Growshop + reguleeritud turg", "Kohalik tarbimine", 0.10, "=D7*84000000", "Asendab importi"),
+    ("5", "Puukoolid + maaelu (LEADER)", "Maaelu ≠ börs", 0.05, "=D8*84000000", "30 puukooli"),
+    ("6", "Haridus + kutsekool", "Inimkapital", 0.05, "=D9*84000000", "Uus eriala"),
+    ("7", "Mirror säästud + teadus (EPM)", "Bürokraatia + pikaajaline", 0.05, "=D10*84000000", "~€35M/a + patendid"),
+    ("8", "Basic income + kriisivarud", "Sotsiaal, defensiivne", 0.20, "=D11*84000000", "10k × 200€ + varud"),
+    ("", "KOKKU (8 voogu)", "Macro 40/30/20/10", "=SUM(D4:D11)", "=SUM(E4:E11)", "100% Inimeste Fond A5"),
 ]
 write_rows(ws13, 4, fin_strat)
 style_header(ws13, 4, 6, fill=PatternFill("solid", fgColor="6A1B9A"))
-style_table(ws13, 5, 27, 6)
-for r in range(5, 22):
-    ws13.cell(row=r, column=4).number_format = PCT
-    ws13.cell(row=r, column=5).number_format = EUR
-for r in range(24, 28):
+style_table(ws13, 5, 13, 6)
+for r in range(5, 12):
     ws13.cell(row=r, column=4).number_format = PCT
     ws13.cell(row=r, column=5).number_format = EUR
 

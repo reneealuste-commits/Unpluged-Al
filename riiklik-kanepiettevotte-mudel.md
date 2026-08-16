@@ -30,7 +30,7 @@ Fail: **`Eesti-Kanepimajandus-5a-Finantsmudel.xlsx`**
 | Tulud | 9 tuluvoogu (tööstus, growshop, liising, turg…) |
 | Kulud | Palgad, toetused, liising, koolid |
 | Kasumiaruanne | P&L + Eesti Tuleviku Fondi jaotus |
-| Finantsstrateegia | Ray Dalio: 18 mitte-korrelatsioonset tuluvoogu |
+| Finantsstrateegia | Ray Dalio: 8 mitte-korrelatsioonset tuluvoogu |
 | 5a arenguplaan | Aasta-kaupa tegevused |
 | Puukoolid | Toetused ja boonused |
 | Growshop mudel | Välismaa vs Eesti võrdlus |
@@ -52,11 +52,11 @@ Fail: **`Eesti-Kanepimajandus-5a-Finantsmudel.xlsx`**
 
 *A1 on investeeringuaasta — see on normaalne ja planeeritud.*
 
-### 2.1 Eesti finantsstrateegia — 15–20 mitte-korrelatsioonset varaklassi
+### 2.1 Eesti finantsstrateegia — 8 mitte-korrelatsioonset varaklassi
 
 **Ray Dalio** (Bridgewater) põhimõte, mida **Tony Robbins** populariseeris raamatus *Money: Master the Game* (*All Seasons* portfell):
 
-> *Leia 15–20 **mitte-korrelatsioonset** tuluvoogu ja investeeri neisse — nii üks sektori krahh ei viib kõike alla.*
+> *Leia mitte-korrelatsioonseid tuluvooge ja investeeri neisse — nii üks sektori krahh ei viib kõike alla.* (Dalio soovitab 15–20; Eesti mudel **8 voogu** — lihtne juhtida.)
 
 See ei tähenda börsil 20 aktsiat. See tähendab: **Eesti riigi ja Inimeste Fondi raha ei peaks sõltuma ühest majandusharust, ühest poliitilisest otsusest ega ühest turust.**
 
@@ -64,34 +64,24 @@ See ei tähenda börsil 20 aktsiat. See tähendab: **Eesti riigi ja Inimeste Fon
 
 | Dalio loogika | Eesti rakendus |
 |---------------|----------------|
-| Mitte-korrelatsioon = risk jaotatud | 4 macro-kotti (40/30/20/10) + 18 konkreetset tuluvoogu |
+| Mitte-korrelatsioon = risk jaotatud | 8 voogu = macro 40/30/20/10 |
 | Defensiiv + offensiiv koos | Päikesepargid (energia) + growshop (tarbimine) + Mirror säästud |
 | Inflatsioon + deflatsioon | Tootlik vara (masinad) + sotsiaal (BI) + teadus |
 | Üks lugu ei tapab portfelli | Must turg väheneb, eksport kasvab — erinevad ajastused |
 
-#### 18 mitte-korrelatsioonset tuluvoogu (A5 sihtmudel)
+#### 8 mitte-korrelatsioonset tuluvoogu (A5 sihtmudel)
 
 | # | Tuluvoog / varaklass | Korrelatsioon | Fondi siht % | Märkus |
 |---|----------------------|---------------|--------------|--------|
-| 1 | Päikesepargid + salvestus | Energia ≠ tarbimine | 12% | Odav elekter, iseseisev |
-| 2 | Liisingumasinad (tootlik vara) | ≠ börs | 8% | Paid off → vaba kassa |
-| 3 | Tööstuskanep — kiud, eksport | Ekspordi tsükkel | 7% | Nordic Hemp |
-| 4 | CBD kosmeetika | Tarbimine | 5% | Kreemid, õlid |
-| 5 | Growshop võrgustik | Kohalik müük | 6% | Asendab importi |
-| 6 | Reguleeritud täiskasvanute turg | Siseriiklik | 5% | Maksud + ohutus |
-| 7 | Meditsiiniline kanep | Haigekassa | 4% | Stabiilne ostja |
-| 8 | Puukoolid + seemikumüük | Maaelu, ≠ börs | 6% | 30 puukooli A5 |
-| 9 | Kutsekool + koolitus | Inimkapital | 5% | Töökohtade pipeline |
-| 10 | Operation Mirror säästud | Bürokratia efektiivsus | 5% | ~€35M/a |
-| 11 | LEADER / EAS / CAP | Grantid, ≠ börs | 4% | Olemasolev raha |
-| 12 | Urban farm + KOV aiad | Kohalik kogukond | 3% | Linn + maa |
-| 13 | Teadus + patendid (EPM) | Pikaajaline | 4% | Eksport tulevikus |
-| 14 | Hampcrete + ehitus | Ehitustsükkel | 3% | Avalik sektor |
-| 15 | Kriisitoit / varud | Kriis, defensiivne | 3% | 2-nädala reegel |
-| 16 | Turism + kogemuskeskus | Hooajaline | 2% | Farm visits |
-| 17 | IT + IoT kasvatus | Tehnoloogia | 3% | Efektiivsus |
-| 18 | Basic income pilot | Sotsiaal | 6% | 10k × 200€/kuu |
-| | **KOKKU** | **18 voogu** | **100%** | Dalio siht: 15–20 |
+| 1 | Päikesepargid + salvestus | Energia ≠ tarbimine | 40% | 8× 5MW parki |
+| 2 | Liisingumasinad + robotid | Tootlik vara ≠ börs | 10% | Paid off → vaba kassa |
+| 3 | Tööstuskanep + eksport + CBD | Ekspordi tsükkel | 10% | Kiud, kosmeetika |
+| 4 | Growshop + reguleeritud turg | Kohalik tarbimine | 10% | Asendab importi |
+| 5 | Puukoolid + maaelu (LEADER) | Maaelu ≠ börs | 5% | 30 puukooli A5 |
+| 6 | Haridus + kutsekool | Inimkapital | 5% | Uus eriala |
+| 7 | Mirror säästud + teadus (EPM) | Bürokraatia + pikaajaline | 5% | ~€35M/a + patendid |
+| 8 | Basic income + kriisivarud | Sotsiaal, defensiivne | 20% | 10k × 200€ + 2-nädala reegel |
+| | **KOKKU** | **8 voogu** | **100%** | Dalio täisversioon: 15–20 |
 
 **Reegel:** uut raha ei suunata ühte projekti, kui see **dubleerib** olemasolevat korrelatsiooni (nt veel üks growshop samas linnas). Eelistada voogu, mis **täiendab** portfelli.
 

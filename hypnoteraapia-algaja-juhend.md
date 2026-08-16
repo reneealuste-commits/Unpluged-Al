@@ -6,11 +6,13 @@
 |---|---|
 | **Kood** | HY1 |
 | **Teema** | Turvaline hüpnoos — fookus, lõdvestus, sisemise ressursi aktiveerimine |
-| **Versioon** | 1.1 · 16. august 2026 |
-| **Kasutaja** | Ise / paar / väike grupp (max 12) |
-| **Sihtgrupp** | Täiskasvanud — stress, ärevus, uni, fookus, eneseregulatsioon |
+| **Versioon** | 1.2 · 16. august 2026 |
+| **Kasutaja** | Iga mees kaaslasega (abikaasa, sõber, meeskonnakaaslane) |
+| **Sihtgrupp** | Täiskasvanud mehed — juhtivad kaaslasele turvalist 15-min protokolli |
 | **Eeldused** | **Mitte** raske trauma, PTSD, psühhootilised episoodid, kriis — siis spetsialist |
-| **Seotud** | `hypnoteraapia-algaja-koolituskaart.md` · `hypnoteraapia-algaja-plaankonspekt.md` · `Hypnoteraapia-HY1.docx` |
+| **Seotud** | `hypnoteraapia-test-nr1-kaaslasega.md` · `hypnoteraapia-algaja-koolituskaart.md` · `Hypnoteraapia-HY1.docx` |
+
+> *Iga mees saab seda õppida ja teha oma kaaslasele. Formaalne test: `hypnoteraapia-test-nr1-kaaslasega.md` (kaitseväe Automaadi test vorming).*
 
 > *See juhend on hariduslik. Ei asenda psühholoogi, psühhiaatri ega sertifitseeritud hünoterapeudi abi.*
 
@@ -149,9 +151,11 @@ Kui grupp: lühike debrief — mitte süüdistus, vaid õpe.
 
 ---
 
-## 7. Paariline protokoll
+## 7. Paariline protokoll — iga mees kaaslasele
 
-| Samm | Juht (B) | Osaleja (A) |
+**Juht (mees A)** juhib. **Kaaslane (B)** kuulab. B võib igal hetkel silmad avada ja lõpetada.
+
+| Samm | Juht (A) | Kaaslane (B) |
 |------|----------|-------------|
 | 1 | Lepi kokku eesmärk ja STOP | Valib kerge eesmärgi |
 | 2 | “Sul on alati kontroll. Ava silmad igal hetkel.” | Kinnitab |
@@ -159,6 +163,8 @@ Kui grupp: lühike debrief — mitte süüdistus, vaid õpe.
 | 4 | Loe suggestioonid 8–10 min | Kuulab, hingab |
 | 5 | “Loendame 5–1. Ava silmad.” | Tagasi |
 | 6 | “Mis muutus? Stress 0–10?” | Vastab |
+
+**Formaalne hindamine:** vt `hypnoteraapia-test-nr1-kaaslasega.md` — OT vead, käsklused, 14/18 punkti.
 
 **Juht EI tohi:** sundida, diagnoosida, avada trauma ilma oskuseta, öelda “sa oled hüpnoosis ja ei mäleta”.
 
@@ -211,4 +217,4 @@ Kui grupp: lühike debrief — mitte süüdistus, vaid õpe.
 
 > **Kokkuvõte:** Hüpnoos = fookus + lõdvestus + turvalisus + üks eesmärk. Mitte müstika. Mitte kontrolli kaotus. Proovi lühidalt. STOP, kui keha ütleb ei.
 
-*HY1 v1.1 · Unpluged-Al · hariduslik juhend*
+*HY1 v1.2 · Unpluged-Al · hariduslik juhend · iga mees kaaslasele*

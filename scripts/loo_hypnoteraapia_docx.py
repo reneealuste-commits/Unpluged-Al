@@ -93,7 +93,7 @@ r2.font.color.rgb = GRAY
 doc.add_paragraph()
 m = doc.add_paragraph()
 m.alignment = WD_ALIGN_PARAGRAPH.CENTER
-m.add_run(f"Unpluged-Al  |  {TODAY}  |  Hariduslik  |  v1.1").font.size = Pt(10)
+m.add_run(f"Unpluged-Al  |  {TODAY}  |  Hariduslik  |  v1.2").font.size = Pt(10)
 
 add_table(
     ["Vali", "Andmed"],
@@ -318,6 +318,49 @@ add_normal("Kohustun kasutama STOP reegleid.")
 add_normal("Kuupäev: ______________    Allkiri: ___________________________")
 
 doc.add_page_break()
+
+# === OSA 4: TEST NR 1 (Automaadi test vorming) ===
+add_heading("OSA 4 — Hüpnoosi test nr. 1 (kaaslasega)", 1)
+add_normal(
+    "Iga mees saab seda õppida ja teha oma kaaslasele. "
+    "Vorm: kaitseväe Automaadi test nr. 1 eeskujul.",
+    bold=True,
+)
+add_heading("Õppetunni eesmärk", 2)
+add_normal(
+    "Kontrollida turvalise hüpnoosi juhtimise taset kaaslasega — "
+    "15 min protokoll ilma OT vigadeta."
+)
+add_heading("OT vead (test mittesooritatud)", 2)
+for item in [
+    "Sundib silmi kinni / keelab lõpetamise",
+    "Avab trauma ilma spetsialistita",
+    "Jätkab kui distress > 8/10",
+    "Diagnoosib või lubab meditsiinilist väidet",
+    "Alustab ilma nõusolekuta",
+]:
+    add_bullet(item)
+
+add_heading("Protseduur — peamised käsklused", 2)
+add_table(
+    ["#", "Käsklus"],
+    [
+        ["1", "Liikuge vaiksesse ruumi ja tehke ohutuskontroll"],
+        ["2", "Lepi kokku üks eesmärk"],
+        ["3", "Sul on alati kontroll. Ava silmad igal hetkel"],
+        ["4", "Ankur — sisse 4, välja 6 × 3"],
+        ["5", "Keha skaneering → Turvakoht → Suggestioon 8-12 min"],
+        ["6", "Tagasi 5-1 → Vesi → Mis muutus?"],
+    ],
+)
+
+add_heading("Hindamine", 2)
+add_normal(
+    "Sooritatud: 0 OT viga + min 14 punkti 18-st. "
+    "Kaaslane kinnitab: Sain igal hetkel lõpetada."
+)
+
+doc.add_page_break()
 add_heading("Allkiri — HY1 kasutamine", 2)
 add_table(
     ["Roll", "Allkiri / kuupäev"],
@@ -330,8 +373,8 @@ add_table(
 p = doc.add_paragraph()
 p.alignment = WD_ALIGN_PARAGRAPH.CENTER
 run = p.add_run(
-    f"HY1 v1.1  |  {TODAY}  |  Unpluged-Al  |  "
-    "debrief-kaart-malevapealik.pdf"
+    f"HY1 v1.2  |  {TODAY}  |  Unpluged-Al  |  "
+    "hypnoteraapia-test-nr1-kaaslasega.md"
 )
 run.font.size = Pt(9)
 run.font.color.rgb = GRAY

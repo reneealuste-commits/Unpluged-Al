@@ -52,7 +52,7 @@ def build():
     story.append(Paragraph("HY1 — HÜPNOOSI ALGAJA KOOLITUSKAART", title))
     story.append(
         Paragraph(
-            "Unpluged-Al · 15–25 min · ise / paar · v1.1 · 2026 · "
+            "Unpluged-Al · 15–25 min · iga mees kaaslasele · v1.2 · 2026 · "
             "Hariduslik — ei asenda spetsialisti",
             sub,
         )

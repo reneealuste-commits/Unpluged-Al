@@ -6,7 +6,7 @@ Strateegiline ja hariduslik dokumentatsioon — Operation Mirror, HY1, DP1.
 
 | Kood | Sisu | Failid |
 |------|------|--------|
-| **HY1** | Hüpnoteraapia algaja | `hypnoteraapia-algaja-*.md` · `Hypnoteraapia-HY1.docx` |
+| **HY1** | Hüpnoteraapia algaja | `hypnoteraapia-algaja-*.md` · `hypnoteraapia-test-nr1-kaaslasega.md` · `Hypnoteraapia-HY1.docx` |
 | **DP1** | Diplomaatia sõltlasega | `diplomaatia-soltlasega-*.md` · `Diplomaatia-DP1.docx` |
 | **Raport** | Hüpnoteraapia + ohvriabi | `hupnoteraapia-teenused-ohvriabi-raport.md` |
 
@@ -26,4 +26,12 @@ python3 scripts/loo_diplomaatia_koolituskaart.py
 
 ## HY1 — kiirlinkid
 
+- [Test nr 1 kaaslasega](hypnoteraapia-test-nr1-kaaslasega.md) — Automaadi test vorming
+- [Test nr 1 PDF](hypnoteraapia-test-nr1-kaaslasega.pdf)
 - [Word HY1](https://github.com/reneealuste-commits/Unpluged-Al/raw/main/Hypnoteraapia-HY1.docx)
+
+```bash
+python3 scripts/loo_hypnoteraapia_test_nr1.py
+python3 scripts/loo_hypnoteraapia_docx.py
+python3 scripts/loo_hypnoteraapia_koolituskaart.py
+```

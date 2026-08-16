@@ -6,11 +6,11 @@
 |---|---|
 | **Kood** | HY1 |
 | **Teema** | Turvaline hüpnoos — rahunemine, uni, fookus |
-| **Versioon** | 1.1 · 16. august 2026 |
-| **Kasutaja** | Ise / paar kodus |
-| **Sihtgrupp** | Täiskasvanud — kerge stress, ärevus, uni, enne olulist tegevust |
+| **Versioon** | 1.2 · 16. august 2026 |
+| **Kasutaja** | Iga mees — juhib kaaslasele |
+| **Sihtgrupp** | Mees juhib kaaslasele (abikaasa, sõber, meeskonnakaaslane) |
 | **Eeldused** | **Mitte** trauma, PTSD, kriis, psühhootiline episood — siis spetsialist |
-| **Seotud** | `hypnoteraapia-algaja-juhend.md` · `hypnoteraapia-algaja-plaankonspekt.md` · `Hypnoteraapia-HY1.docx` |
+| **Seotud** | `hypnoteraapia-test-nr1-kaaslasega.md` · `hypnoteraapia-algaja-juhend.md` · `Hypnoteraapia-HY1.docx` |
 
 > *See kaart on hariduslik. Ei asenda hünoterapeudi ega psühholoogi abi.*
 
@@ -21,7 +21,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║  HY1 — HÜPNOOSI ALGAJA JUHISED                   15–25 min       ║
-║  Unpluged-Al · iseendale ja paarilisele                         ║
+║  Unpluged-Al · iga mees · kaaslasele juhtimine                  ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  OLULINE — loe enne alustamist                                   ║
 ║  Kerge stress, uni, fookus — MITTE trauma/PTSD/kriis.            ║
@@ -117,6 +117,7 @@
 
 | Fail | Sisu |
 |------|------|
+| `hypnoteraapia-test-nr1-kaaslasega.md` | Formaalne test (Automaadi test vorming) |
 | `hypnoteraapia-algaja-juhend.md` | Täielik juhend + SWOT |
 | `hypnoteraapia-algaja-plaankonspekt.md` | 90 min grupikoolitus |
 | `Hypnoteraapia-HY1.docx` | Word (juhend + kaart + plaankonspekt) |
@@ -124,4 +125,4 @@
 
 ---
 
-*HY1 v1.1 · Unpluged-Al · prinditav koolituskaart*
+*HY1 v1.2 · Unpluged-Al · prinditav koolituskaart · iga mees kaaslasele*

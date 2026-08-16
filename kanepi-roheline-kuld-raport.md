@@ -217,6 +217,27 @@ pie title Kuhu läheb kanepimaksu 25 mln €?
     "Uurimine ja haridus" : 10
 ```
 
+#### 📊 Finantsstrateegia: Ray Dalio põhimõte (Tony Robbins *All Seasons*)
+
+Investeerimisguru **Ray Dalio** (Bridgewater) — ja **Tony Robbins**, kes seda eesti lugejale tutvustas — ütleb:
+
+> *Leia **mitte-korrelatsioonseid** varaklasse ja investeeri neisse. Kui üks langeb, teised ei kukuvad koos.* (Dalio soovitab 15–20; meie mudel **8 voogu**.)
+
+Eesti mudelis see tähendab: **ära pane kogu kanepimaksu ühte asja**. Jaota **8 erinevat tuluvoogu** — energia, tootmine, tarbimine, maaelu, haridus, teadus, säästud, sotsiaal — nii et üks kriis ei võtab kõike ära.
+
+| Voog | % | Macro-kott |
+|------|---|------------|
+| Päikesepargid + salvestus | 40% | Energia |
+| Liisingumasinad + robotid | 10% | Tööstus |
+| Tööstuskanep + eksport + CBD | 10% | Tööstus |
+| Growshop + reguleeritud turg | 10% | Tööstus |
+| Puukoolid + maaelu | 5% | Haridus / maa |
+| Haridus + kutsekool | 5% | Haridus |
+| Mirror säästud + teadus | 5% | Haridus |
+| Basic income + kriisivarud | 20% | Sotsiaal |
+
+Täpne tabel: `riiklik-kanepiettevotte-mudel.md` §2.1 · Excel: `Finantsstrateegia` leht.
+
 ### 👶 Lapsele
 
 Kui riik saab raha, siis targad inimesed otsustavad:

@@ -6,7 +6,7 @@
 |---|---|
 | **Kood** | HY1-G |
 | **Teema** | Mis on hüpnoos · turvalisus · praktiline algprotokoll |
-| **Versioon** | 1.1 · 16. august 2026 |
+| **Versioon** | 2.0 · 16. august 2026 |
 | **Koolitaja** | Sertifitseeritud taust või juhendatud praktik (vt nõuded) |
 | **Sihtgrupp** | Täiskasvanud — max 12 (pere, meeskond, malev, kogukond) |
 | **Eeldused** | Lisa P / trauma-teadlikkus; **mitte** aktiivne kriis |

@@ -6,7 +6,7 @@ Strateegiline ja hariduslik dokumentatsioon — Operation Mirror, HY1, DP1.
 
 | Kood | Sisu | Failid |
 |------|------|--------|
-| **HY1** | Hüpnoteraapia algaja | `hypnoteraapia-algaja-*.md` · `hypnoteraapia-test-nr1-kaaslasega.md` · `Hypnoteraapia-HY1.docx` |
+| **HY1** | Hüpnoteraapia algajale (EMDR eeskuju vorming) | `hypnoteraapia-algaja-juhend.md` · `Hypnoteraapia-HY1.docx` |
 | **TLP** | Perekonna ehitamine (5 etappi) | `plaankonspekt-tlp-ranger-perekonna-ehitamine.md` · `Plaankonspekt-TLP-Ranger-Perekonna-Ehitamine.docx` |
 | **DP1** | Diplomaatia sõltlasega | `diplomaatia-soltlasega-*.md` · `Diplomaatia-DP1.docx` |
 | **Raport** | Hüpnoteraapia + ohvriabi | `hupnoteraapia-teenused-ohvriabi-raport.md` |

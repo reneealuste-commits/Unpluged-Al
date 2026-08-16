@@ -161,10 +161,12 @@ pl = [
     ("EBITDA %", "=B6/B4", "=C6/C4", "=D6/D4", "=E6/E4", "=F6/F4", ""),
     ("", "", "", "", "", "", ""),
     ("Jaotus Eesti Tuleviku Fondi:", "", "", "", "", "", ""),
-    ("  Päikesepargid (40%)", "=MAX(0,B6*0.4)", "=MAX(0,C6*0.4)", "=D6*0.4", "=E6*0.4", "=F6*0.4", ""),
-    ("  Tööstus + robotid (30%)", "=MAX(0,B6*0.3)", "=MAX(0,C6*0.3)", "=D6*0.3", "=E6*0.3", "=F6*0.3", ""),
-    ("  Basic income pilot (20%)", "=MAX(0,B6*0.2)", "=MAX(0,C6*0.2)", "=D6*0.2", "=E6*0.2", "=F6*0.2", ""),
-    ("  Uurimine + koolid (10%)", "=MAX(0,B6*0.1)", "=MAX(0,C6*0.1)", "=D6*0.1", "=E6*0.1", "=F6*0.1", ""),
+    ("  Päikesepargid (40%)", "=MAX(0,B6*0.4)", "=MAX(0,C6*0.4)", "=D6*0.4", "=E6*0.4", "=F6*0.4", "Macro-kott"),
+    ("  Tööstus + robotid (30%)", "=MAX(0,B6*0.3)", "=MAX(0,C6*0.3)", "=D6*0.3", "=E6*0.3", "=F6*0.3", "Macro-kott"),
+    ("  Basic income pilot (20%)", "=MAX(0,B6*0.2)", "=MAX(0,C6*0.2)", "=D6*0.2", "=E6*0.2", "=F6*0.2", "Macro-kott"),
+    ("  Uurimine + koolid (10%)", "=MAX(0,B6*0.1)", "=MAX(0,C6*0.1)", "=D6*0.1", "=E6*0.1", "=F6*0.1", "Macro-kott"),
+    ("", "", "", "", "", "", ""),
+    ("Dalio põhimõte", "18 mitte-korrelatsioonset voogu", "", "", "", "", "Vt leht Finantsstrateegia"),
     ("", "", "", "", "", "", ""),
     ("5-aasta kumulatiivne EBITDA", "=SUM(B6:F6)", "", "", "", "", "Eesmärk: positiivne A2-st"),
 ]
@@ -384,6 +386,53 @@ style_header(ws12, 3, 4)
 style_table(ws12, 4, 9, 4)
 for r in range(4, 10):
     ws12.row_dimensions[r].height = 40
+
+# ─────────────────────────────────────────────
+# LEHT 13: FINANTSSTRATEEGIA — DALIO / ROBBINS
+# ─────────────────────────────────────────────
+ws13 = wb.create_sheet("Finantsstrateegia")
+add_title(ws13, "EESTI FINANTSSTRATEEGIA — 18 MITTE-KORRELATSIOONSET VOOGU (RAY DALIO / TONY ROBBINS)", 5)
+set_widths(ws13, [8, 30, 22, 12, 40])
+
+ws13.merge_cells("A2:E2")
+ws13.cell(
+    row=2,
+    column=1,
+    value=(
+        "Ray Dalio põhimõte (Tony Robbins *All Seasons*): leia 15–20 mitte-korrelatsioonset tuluvoogu. "
+        "ERMA kasum → Eesti Tuleviku Fond jaotatakse nii, et üks kriis ei võtab kõike."
+    ),
+).alignment = Alignment(wrap_text=True)
+
+dalio = [
+    ("#", "Tuluvoog / varaklass", "Korrelatsioon", "Siht %", "Märkus"),
+    ("1", "Päikesepargid + salvestus", "Energia ≠ tarbimine", 0.12, "Macro-kott 40% alamvoog"),
+    ("2", "Liisingumasinad", "≠ börs", 0.08, "Vaba kassa A5+"),
+    ("3", "Tööstuskanep eksport", "Ekspordi tsükkel", 0.07, "Kiud, seemned"),
+    ("4", "CBD kosmeetika", "Tarbimine", 0.05, "Kreemid, õlid"),
+    ("5", "Growshop võrgustik", "Kohalik müük", 0.06, "25 poodi A5"),
+    ("6", "Reguleeritud täiskasvanute turg", "Siseriiklik", 0.05, "A3 piloot"),
+    ("7", "Meditsiiniline kanep", "Haigekassa", 0.04, "Stabiilne ostja"),
+    ("8", "Puukoolid + seemik", "Maaelu", 0.06, "30 puukooli"),
+    ("9", "Kutsekool + koolitus", "Inimkapital", 0.05, "Uus eriala"),
+    ("10", "Operation Mirror säästud", "Bürokraatia", 0.05, "Koostöö Mirror mudeliga"),
+    ("11", "LEADER / EAS / CAP", "Grantid", 0.04, "Olemasolev raha"),
+    ("12", "Urban farm + KOV", "Kogukond", 0.03, "Linn + maa"),
+    ("13", "Teadus + patendid", "Pikaajaline", 0.04, "EPM"),
+    ("14", "Hampcrete + ehitus", "Ehitus", 0.03, "Riigihanke"),
+    ("15", "Kriisitoit / varud", "Defensiivne", 0.03, "2-nädala reegel"),
+    ("16", "Turism + kogemus", "Hooajaline", 0.02, "Farm visits"),
+    ("17", "IT + IoT kasvatus", "Tehnoloogia", 0.03, "Efektiivsus"),
+    ("18", "Basic income pilot", "Sotsiaal", 0.06, "Macro-kott 20%"),
+    ("", "KOKKU", "18 voogu (Dalio: 15–20)", "=SUM(D4:D21)", "100% fondi"),
+]
+for i, row in enumerate(dalio, start=4):
+    for j, val in enumerate(row, start=1):
+        ws13.cell(row=i, column=j, value=val)
+style_header(ws13, 4, 5, fill=PatternFill("solid", fgColor="6A1B9A"))
+style_table(ws13, 5, 22, 5)
+for r in range(5, 22):
+    ws13.cell(row=r, column=4).number_format = "0.0%"
 
 wb.save(OUTPUT)
 print(f"Salvestatud: {OUTPUT}")

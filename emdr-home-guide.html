@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EMDR Home Guide — A Handbook for Everyone</title>
+  <style>
+    :root {
+      --text: #2c2c2c;
+      --muted: #5a5a5a;
+      --accent: #4a6fa5;
+      --accent-soft: #e8f0f8;
+      --warm: #f7f5f2;
+      --border: #ddd8d0;
+      --example-bg: #faf8f5;
+      --warning-bg: #fff8e6;
+      --warning-border: #e6c84a;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 2rem 1.25rem 4rem;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 1.125rem;
+      line-height: 1.75;
+      color: var(--text);
+      background: var(--warm);
+    }
+
+    /* Inimese keskne teksti paigutus — human-centered centered layout */
+    .page {
+      max-width: 42rem;
+      margin: 0 auto;
+      text-align: center;
+    }
+
+    .page p,
+    .page li,
+    .page .example-body,
+    .page .step-detail {
+      text-align: center;
+    }
+
+    h1, h2, h3 {
+      font-family: "Segoe UI", system-ui, sans-serif;
+      font-weight: 600;
+      line-height: 1.3;
+      color: #1a1a1a;
+    }
+
+    h1 {
+      font-size: 2rem;
+      margin: 0 0 0.5rem;
+      letter-spacing: -0.02em;
+    }
+
+    .subtitle {
+      font-family: "Segoe UI", system-ui, sans-serif;
+      font-size: 1.05rem;
+      color: var(--muted);
+      margin-bottom: 2.5rem;
+    }
+
+    h2 {
+      font-size: 1.45rem;
+      margin: 2.75rem 0 1rem;
+      padding-top: 0.5rem;
+      border-top: 1px solid var(--border);
+    }
+
+    h3 {
+      font-size: 1.15rem;
+      margin: 1.75rem 0 0.75rem;
+      color: var(--accent);
+    }
+
+    p {
+      margin: 0 0 1.1rem;
+    }
+
+    .lead {
+      font-size: 1.2rem;
+      color: var(--muted);
+    }
+
+    .notice {
+      background: var(--warning-bg);
+      border: 1px solid var(--warning-border);
+      border-radius: 10px;
+      padding: 1.25rem 1.5rem;
+      margin: 1.5rem 0 2rem;
+      font-size: 1rem;
+      text-align: center;
+    }
+
+    .notice strong {
+      display: block;
+      margin-bottom: 0.5rem;
+      font-family: "Segoe UI", system-ui, sans-serif;
+    }
+
+    .card {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.5rem 1.75rem;
+      margin: 1.25rem 0;
+      text-align: center;
+    }
+
+    .example {
+      background: var(--example-bg);
+      border-left: 4px solid var(--accent);
+      border-radius: 0 10px 10px 0;
+      padding: 1.25rem 1.5rem;
+      margin: 1.5rem 0;
+      text-align: center;
+    }
+
+    .example-label {
+      font-family: "Segoe UI", system-ui, sans-serif;
+      font-size: 0.8rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 0.75rem;
+    }
+
+    .steps {
+      list-style: none;
+      padding: 0;
+      margin: 1rem 0;
+      counter-reset: step;
+    }
+
+    .steps li {
+      counter-increment: step;
+      margin: 1.25rem 0;
+      padding: 1rem 1.25rem;
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      text-align: center;
+    }
+
+    .steps li::before {
+      content: "Step " counter(step);
+      display: block;
+      font-family: "Segoe UI", system-ui, sans-serif;
+      font-size: 0.85rem;
+      font-weight: 700;
+      color: var(--accent);
+      margin-bottom: 0.5rem;
+      letter-spacing: 0.04em;
+    }
+
+    ul.simple {
+      list-style: none;
+      padding: 0;
+      margin: 0.75rem 0;
+    }
+
+    ul.simple li {
+      margin: 0.5rem 0;
+      padding: 0;
+    }
+
+    ul.simple li::before {
+      content: "· ";
+      color: var(--accent);
+      font-weight: bold;
+    }
+
+    .highlight-box {
+      background: var(--accent-soft);
+      border-radius: 10px;
+      padding: 1.25rem 1.5rem;
+      margin: 1.25rem 0;
+    }
+
+    .tag {
+      display: inline-block;
+      font-family: "Segoe UI", system-ui, sans-serif;
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 0.2rem 0.6rem;
+      border-radius: 999px;
+      background: var(--accent-soft);
+      color: var(--accent);
+      margin: 0.15rem;
+    }
+
+    footer {
+      margin-top: 3rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--border);
+      font-size: 0.95rem;
+      color: var(--muted);
+      text-align: center;
+    }
+
+    @media (max-width: 480px) {
+      body { font-size: 1.05rem; padding: 1.25rem 1rem 3rem; }
+      h1 { font-size: 1.65rem; }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+
+    <h1>EMDR Home Guide</h1>
+    <p class="subtitle">A practical handbook for calm, focused self-care at home</p>
+
+    <p class="lead">
+      This guide explains how to use gentle bilateral stimulation techniques
+      inspired by EMDR — in plain language, with real examples,
+      designed for comfortable reading.
+    </p>
+
+    <h2>The Story — How EMDR Was Discovered</h2>
+
+    <p><strong>May 1987. A walk in the park.</strong></p>
+
+    <p>
+      Francine Shapiro was a psychology Ph.D. student searching for a dissertation topic,
+      using her own mind and body as a laboratory. One day while walking in a park,
+      she noticed something strange: a disturbing thought arose — and then it vanished.
+      Without any effort. She hadn't fallen asleep. She hadn't forgotten.
+      It simply lost its sting.
+    </p>
+
+    <p>
+      She started paying attention. Each time such a thought appeared, her eyes moved
+      lightly and quickly — left, right, and back. And the thought softened. Faded.
+    </p>
+
+    <p>
+      Then she tried it deliberately. She brought up something that bothered her.
+      Moved her eyes the same way. And it happened again. The emotion thinned.
+      The thought was still there — but it no longer hurt.
+    </p>
+
+    <p>
+      Francine didn't invent something new. She noticed what the body already does —
+      and began using it on purpose. She asked friends: <em>"Bring up something that bothers you."</em>
+      Guided them to move their eyes. It worked for them too.
+    </p>
+
+    <p>
+      Within six months she had tested it with roughly 70 people. In 1989 she published
+      the first controlled study. Today EMDR is one of the most researched trauma therapies
+      in the world — and it began with a single walk.
+    </p>
+
+    <h2>Why This Matters to You</h2>
+
+    <p>
+      You don't have to be broken to try this. You don't have to understand how it works.
+      Fifteen minutes is enough.
+    </p>
+
+    <p>
+      Your brain processes thoughts every night in sleep — eyes moving left and right during REM.
+      That's natural. But sometimes a thought gets stuck: tomorrow's presentation, a harsh sentence,
+      tension in your neck. It returns again and again, even when you "don't want to think about it."
+    </p>
+
+    <p>
+      A simplified home version of EMDR helps your brain nudge that stuck thought into motion —
+      just as Shapiro's eyes did on that walk. Not because you're sick.
+      Because your body already knows how to settle. You give it 15 minutes and a little help.
+    </p>
+
+    <div class="highlight-box">
+      <p><em>You don't have to believe me. Try it once. Fifteen minutes. One gentle thought.
+      See if your body responds.</em></p>
+    </div>
+
+    <div class="notice">
+      <strong>Important — read first</strong>
+      EMDR was developed for trauma processing and is most effective with a trained therapist.
+      This home guide is for mild stress, worry, and everyday emotional relief — not a replacement
+      for professional care. If you have trauma, flashbacks, suicidal thoughts, or feel unsafe,
+      please contact a mental health professional or crisis line before trying these exercises.
+    </div>
+
+    <!-- SECTION 1 -->
+    <h2>What Is EMDR?</h2>
+
+    <p>
+      <strong>EMDR</strong> stands for <em>Eye Movement Desensitization and Reprocessing</em>.
+      It is a therapy approach that helps the brain process difficult memories and emotions
+      using <strong>bilateral stimulation</strong> — gentle alternating input to both sides of the body,
+      such as moving your eyes left and right, tapping your knees, or listening to sounds that shift
+      from ear to ear.
+    </p>
+
+    <p>
+      At home, you can use simplified versions of these techniques to reduce tension,
+      soften intrusive thoughts, and return to a calmer state — a first step back toward ease.
+    </p>
+
+    <!-- SECTION 2 -->
+    <h2>Who Is This For?</h2>
+
+    <div class="card">
+      <p><span class="tag">Good for</span></p>
+      <ul class="simple">
+        <li>Daily stress and worry</li>
+        <li>Mild anxiety before sleep or meetings</li>
+        <li>Unsettling memories that feel manageable</li>
+        <li>Grounding after a difficult day</li>
+        <li>Building emotional resilience between therapy sessions</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <p><span class="tag">Not enough on its own for</span></p>
+      <ul class="simple">
+        <li>PTSD, complex trauma, or abuse history</li>
+        <li>Panic attacks or dissociation</li>
+        <li>Self-harm urges or suicidal thoughts</li>
+        <li>Substance dependence</li>
+      </ul>
+      <p style="margin-top: 1rem; font-size: 0.95rem; color: var(--muted);">
+        In these cases, seek a licensed EMDR therapist.
+      </p>
+    </div>
+
+    <!-- SECTION 3 -->
+    <h2>Before You Begin</h2>
+
+    <p>Take five minutes to prepare your space and your mind.</p>
+
+    <ol class="steps">
+      <li>
+        <strong>Choose a quiet, safe place.</strong><br>
+        Sit comfortably. Put your phone on silent. Have water nearby.
+      </li>
+      <li>
+        <strong>Pick your bilateral method</strong> (see next section).<br>
+        Eyes, tapping, or audio — use what feels natural.
+      </li>
+      <li>
+        <strong>Rate your distress from 0 to 10.</strong><br>
+        0 = completely calm. 10 = the most distressed you can imagine right now.
+        Write the number down. You will check it again at the end.
+      </li>
+      <li>
+        <strong>Identify a support person or resource.</strong><br>
+        Someone you can call, or a calming image (a beach, a loved one's face, a pet).
+      </li>
+      <li>
+        <strong>Set a time limit: 15–20 minutes.</strong><br>
+        Stop if you feel overwhelmed. You can always try again another day.
+      </li>
+    </ol>
+
+  <div class="example">
+    <div class="example-label">Example — preparation</div>
+    <p>
+      Maria feels nervous before a job interview tomorrow. She sits on her sofa,
+      rates her anxiety as <strong>7/10</strong>, chooses eye-movement bilateral stimulation,
+      and sets a timer for 15 minutes. She keeps her sister's name in mind as her support resource.
+    </p>
+  </div>
+
+    <!-- SECTION 4 -->
+    <h2>Bilateral Stimulation Methods</h2>
+
+    <h3>1. Eye movements (visual)</h3>
+    <p>
+      Hold your index fingers at eye level, about shoulder-width apart.
+      Move your eyes smoothly from left finger to right finger, then back.
+      Keep your head still. Move at a comfortable, steady pace — about one second per side.
+    </p>
+
+    <h3>2. Tapping (tactile)</h3>
+    <p>
+      Cross your arms and alternately tap your shoulders.
+      Or tap your left knee, then right knee, then left again.
+      Use a slow, rhythmic pace — roughly one tap per second.
+    </p>
+
+    <h3>3. Audio (auditory)</h3>
+    <p>
+      Use bilateral music or apps that play tones alternating between left and right ear.
+      Wear headphones. Keep the volume low and comfortable.
+    </p>
+
+    <h3>4. Walking or swaying (movement)</h3>
+    <p>
+      Walk slowly while noticing each footfall — left, right, left, right.
+      Or gently sway side to side while seated. This works well for people who find stillness difficult.
+    </p>
+
+    <div class="example">
+      <div class="example-label">Example — choosing a method</div>
+      <p>
+        James gets dizzy when moving his eyes side to side. He switches to knee tapping instead
+        and finds it equally calming. There is no single "correct" method — use what works for your body.
+      </p>
+    </div>
+
+    <!-- SECTION 5 -->
+    <h2>The Home Protocol — Step by Step</h2>
+
+    <p>
+      This is a simplified self-help version of the EMDR process.
+      Follow each step in order.
+    </p>
+
+    <ol class="steps">
+      <li>
+        <strong>Safe place (2–3 minutes)</strong><br>
+        Close your eyes. Imagine a place where you feel completely safe and at peace —
+        real or imagined. Notice what you see, hear, smell, and feel there.
+        Stay until you feel a small sense of calm in your body.
+      </li>
+      <li>
+        <strong>Identify the target (1 minute)</strong><br>
+        Choose <em>one</em> specific thought, image, or body sensation to work on.
+        Keep it simple: a single scene, a single sentence, or a single feeling.
+      </li>
+      <li>
+        <strong>Negative belief (optional, 1 minute)</strong><br>
+        Notice what negative belief connects to this target.
+        For example: "I am not good enough" or "I am in danger."
+      </li>
+      <li>
+        <strong>Positive belief (1 minute)</strong><br>
+        Choose a positive belief you would rather hold.
+        For example: "I can handle this" or "I am safe now."
+      </li>
+      <li>
+        <strong>Bilateral sets (10–15 minutes)</strong><br>
+        Bring the target to mind. Start bilateral stimulation.
+        After each set of about 24–30 movements or taps, pause.
+        Notice what comes up — images, thoughts, feelings, body sensations.
+        Do not force anything. Then begin the next set.
+      </li>
+      <li>
+        <strong>Check your distress rating</strong><br>
+        Rate 0–10 again. If the number has dropped by 2 or more, you are making progress.
+        If it has risen above 8, stop and use grounding (see below).
+      </li>
+      <li>
+        <strong>Install the positive belief</strong><br>
+        Hold the positive belief in mind while doing 2–3 more bilateral sets.
+        Notice how true it feels, from 1 (not at all) to 7 (completely true).
+      </li>
+      <li>
+        <strong>Close and ground</strong><br>
+        Take three slow breaths. Open your eyes. Drink water.
+        Write a few words about what shifted.
+      </li>
+    </ol>
+
+    <div class="example">
+      <div class="example-label">Example — full session</div>
+      <p>
+        <strong>Target:</strong> The image of being criticized at work last week.<br>
+        <strong>Negative belief:</strong> "I always mess up."<br>
+        <strong>Positive belief:</strong> "I learn and improve."<br>
+        <strong>Starting distress:</strong> 6/10<br><br>
+        After four sets of eye movements, Maria notices the critical voice sounds quieter.
+        Her shoulders relax. Distress drops to 3/10. She installs "I learn and improve"
+        with two more sets, rates it 5/7 true, drinks water, and ends the session.
+      </p>
+    </div>
+
+    <!-- SECTION 6 -->
+    <h2>More Examples for Everyday Situations</h2>
+
+    <div class="example">
+      <div class="example-label">Example — sleep worry</div>
+      <p>
+        <strong>Situation:</strong> Lying awake, replaying an argument.<br>
+        <strong>Target:</strong> The last harsh sentence spoken.<br>
+        <strong>Method:</strong> Shoulder tapping, 3 sets of 24 taps.<br>
+        <strong>Result:</strong> Distress goes from 5 to 2. Falls asleep 20 minutes later.
+      </p>
+    </div>
+
+    <div class="example">
+      <div class="example-label">Example — performance anxiety</div>
+      <p>
+        <strong>Situation:</strong> Presentation in one hour.<br>
+        <strong>Target:</strong> Image of blanking out in front of the audience.<br>
+        <strong>Negative belief:</strong> "Everyone will laugh at me."<br>
+        <strong>Positive belief:</strong> "I know my material."<br>
+        <strong>Method:</strong> Eye movements, 5 sets.<br>
+        <strong>Result:</strong> Anxiety drops from 8 to 4. Feels ready to begin.
+      </p>
+    </div>
+
+    <div class="example">
+      <div class="example-label">Example — grief moment</div>
+      <p>
+        <strong>Situation:</strong> Sudden wave of sadness after seeing an old photo.<br>
+        <strong>Target:</strong> The heaviness in the chest.<br>
+        <strong>Method:</strong> Slow walking bilateral (left-right steps) for 10 minutes.<br>
+        <strong>Result:</strong> Sadness remains but feels softer and less overwhelming. Distress 7 → 4.
+      </p>
+    </div>
+
+    <div class="example">
+      <div class="example-label">Example — between therapy sessions</div>
+      <p>
+        <strong>Situation:</strong> Therapist gave homework to practice bilateral stimulation on a mild trigger.<br>
+        <strong>Target:</strong> The specific memory discussed in session.<br>
+        <strong>Method:</strong> As directed by therapist — often tapping or audio.<br>
+        <strong>Note:</strong> Only practice targets your therapist has approved for home use.
+      </p>
+    </div>
+
+    <!-- SECTION 7 -->
+    <h2>Grounding — When to Stop and Reset</h2>
+
+    <p>
+      If at any point you feel flooded, panicky, numb, or disconnected,
+      <strong>stop bilateral stimulation immediately</strong> and ground yourself.
+    </p>
+
+    <div class="highlight-box">
+      <p><strong>5-4-3-2-1 grounding exercise</strong></p>
+      <ul class="simple">
+        <li>Name <strong>5</strong> things you can see</li>
+        <li>Name <strong>4</strong> things you can touch</li>
+        <li>Name <strong>3</strong> things you can hear</li>
+        <li>Name <strong>2</strong> things you can smell</li>
+        <li>Name <strong>1</strong> thing you can taste</li>
+      </ul>
+    </div>
+
+    <p>
+      Splash cold water on your face. Hold ice. Press your feet firmly into the floor.
+      Call your support person. Return to your safe place image without doing bilateral work.
+    </p>
+
+    <div class="example">
+      <div class="example-label">Example — stopping safely</div>
+      <p>
+        During a session, old memories surface and distress jumps to 9/10.
+        Alex stops tapping, names five objects in the room, drinks cold water,
+        and texts a friend. They do not continue the session that day.
+        This is the correct and healthy response.
+      </p>
+    </div>
+
+    <!-- SECTION 8 -->
+    <h2>After Your Session</h2>
+
+    <ul class="simple">
+      <li>Rest for at least 10 minutes before demanding tasks</li>
+      <li>Drink water and eat something light if needed</li>
+      <li>Journal one or two sentences about what changed</li>
+      <li>Avoid alcohol or intense media for a few hours</li>
+      <li>Be gentle with yourself — processing can continue subtly for a day or two</li>
+    </ul>
+
+    <p>
+      Mild dreams, tiredness, or emotional waves in the next 24 hours can be normal.
+      If symptoms worsen or persist, contact a professional.
+    </p>
+
+    <!-- SECTION 9 -->
+    <h2>Quick Reference Card</h2>
+
+    <div class="card">
+      <p><strong>One-page summary</strong></p>
+      <p>
+        Prepare → Rate distress (0–10) → Safe place → Pick one target →
+        Bilateral sets (24–30 per set) → Re-rate distress →
+        Install positive belief → Ground and close
+      </p>
+      <p style="margin-top: 1rem;">
+        <span class="tag">Time</span> 15–20 min &nbsp;
+        <span class="tag">Stop if</span> distress &gt; 8 &nbsp;
+        <span class="tag">Methods</span> eyes · tap · audio · walk
+      </p>
+    </div>
+
+    <!-- SECTION 10 -->
+    <h2>When to See a Professional</h2>
+
+    <p>
+      Consider working with a certified EMDR therapist if:
+    </p>
+
+    <ul class="simple">
+      <li>Home practice does not reduce your distress over several attempts</li>
+      <li>Memories feel too big, vivid, or frightening to face alone</li>
+      <li>You have a trauma diagnosis or suspect you do</li>
+      <li>You want to process events from childhood, abuse, accidents, or combat</li>
+      <li>Your daily life, relationships, or work are significantly affected</li>
+    </ul>
+
+    <p>
+      To find a therapist, search for "EMDR therapist" in your area or visit
+      <a href="https://www.emdria.org" style="color: var(--accent);">emdria.org</a> (USA)
+      or your country's EMDR association.
+    </p>
+
+    <footer>
+      <p>
+        This handbook is for educational and self-care purposes only.<br>
+        It does not constitute medical or psychological advice.<br>
+        Layout designed with human-centered, centered text for comfortable reading.
+      </p>
+      <p style="margin-top: 1rem; font-size: 0.85rem;">
+        Unpluged-Al · EMDR Home Guide
+      </p>
+    </footer>
+
+  </main>
+</body>
+</html>

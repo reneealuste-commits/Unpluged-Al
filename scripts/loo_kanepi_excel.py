@@ -174,8 +174,8 @@ for i, row in enumerate(pl, start=3):
     for j, val in enumerate(row, start=1):
         ws4.cell(row=i, column=j, value=val)
 style_header(ws4, 3, 6)
-style_table(ws4, 4, 15, 6)
-for r in [4, 5, 6, 9, 10, 11, 12, 15]:
+style_table(ws4, 4, 18, 6)
+for r in [4, 5, 6, 9, 10, 11, 12, 18]:
     for c in range(2, 7):
         ws4.cell(row=r, column=c).number_format = '#,##0'
 for r in [7]:

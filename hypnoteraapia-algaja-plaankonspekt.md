@@ -6,11 +6,11 @@
 |---|---|
 | **Kood** | HY1-G |
 | **Teema** | Mis on hüpnoos · turvalisus · praktiline algprotokoll |
-| **Versioon** | 1.0 · 16. august 2026 |
+| **Versioon** | 1.1 · 16. august 2026 |
 | **Koolitaja** | Sertifitseeritud taust või juhendatud praktik (vt nõuded) |
 | **Sihtgrupp** | Täiskasvanud — max 12 (pere, meeskond, malev, kogukond) |
 | **Eeldused** | Lisa P / trauma-teadlikkus; **mitte** aktiivne kriis |
-| **Seotud** | `hypnoteraapia-algaja-juhend.md` · `hypnoteraapia-algaja-koolituskaart.md` |
+| **Seotud** | `hypnoteraapia-algaja-juhend.md` · `hypnoteraapia-algaja-koolituskaart.md` · `Hypnoteraapia-HY1.docx` |
 
 ---
 
@@ -101,7 +101,7 @@ Pärast 90 minutit osaleja:
 
 ### Avamine (näide)
 
-> *“Täna ei muuda me teid kellegi teistsuguseks. Me harime fookust ja rahunemist — nii nagu enne olulist otsust või pärast pingelist päeva. Te saate igal hetkil silmad avada ja lahkuda. Üks eesmärk korraga.”*
+> *“Täna ei muuda me teid kellegi teistsuguseks. Me harime fookust ja rahunemist — nii nagu enne olulist otsust või pärast pingelist päeva. Te saate igal hetkel silmad avada ja lahkuda. Üks eesmärk korraga.”*
 
 ### Enne praktikat (näide)
 
@@ -121,7 +121,7 @@ Pärast 90 minutit osaleja:
 | Oskab nimetada 3 “ei ole” | ☐ |
 | Oskab STOP reegli | ☐ |
 | Teostas HY1 ise | ☐ |
-| Kirjutas integratsioonilause | ☐ |
+| Kirjutas ühe integratsioonilause | ☐ |
 
 **Tunnistus (valikuline):** Mina, __________, osalesin HY1-G „Hüpnoteraapia algteadmised". Kohustun kasutama STOP reegleid. Kuupäev: ______ Allkiri: ______
 
@@ -168,10 +168,11 @@ Pärast 90 minutit osaleja:
 | `hypnoteraapia-algaja-juhend.md` | Täielik juhend |
 | `hypnoteraapia-algaja-koolituskaart.md` | Taskukaart |
 | `hypnoteraapia-algaja-plaankonspekt.md` | See dokument |
+| `Hypnoteraapia-HY1.docx` | Word (juhend + kaart + plaankonspekt) |
 | `debrief-kaart-malevapealik.pdf` | Pärast olulist tegevust |
 
-**Järgmine tase (mitte HY1):** sertifitseeritud hüpoterapeudi koolitus; trauma-spetsiifiline töö.
+**Järgmine tase (mitte HY1):** sertifitseeritud hünoterapeudi koolitus; trauma-spetsiifiline töö.
 
 ---
 
-*HY1-G v1.0 · Unpluged-Al · plaankonspekt 90 min grupikoolitusele*
+*HY1-G v1.1 · Unpluged-Al · plaankonspekt 90 min grupikoolitusele*

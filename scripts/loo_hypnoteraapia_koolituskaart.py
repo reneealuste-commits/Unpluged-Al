@@ -52,7 +52,7 @@ def build():
     story.append(Paragraph("HY1 — HÜPNOOSI ALGAJA KOOLITUSKAART", title))
     story.append(
         Paragraph(
-            "Unpluged-Al · 15–25 min · ise / paar · v1.0 · 2026 · "
+            "Unpluged-Al · 15–25 min · ise / paar · v1.1 · 2026 · "
             "Hariduslik — ei asenda spetsialisti",
             sub,
         )
@@ -62,7 +62,7 @@ def build():
     story.append(Paragraph("OLULINE — loe enne alustamist", h2))
     for line in [
         "Kerge stress, uni, fookus — <b>MITTE</b> trauma / PTSD / kriis.",
-        "Sa saad igal hetkil silmad avada ja lõpetada.",
+        "Sa saad igal hetkel silmad avada ja lõpetada.",
         "STOP kohe, kui distress &gt; 8/10 või tunned end „õhust väljas”.",
     ]:
         story.append(Paragraph(f"• {line}", body))

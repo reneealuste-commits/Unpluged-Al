@@ -93,7 +93,7 @@ r2.font.color.rgb = GRAY
 doc.add_paragraph()
 m = doc.add_paragraph()
 m.alignment = WD_ALIGN_PARAGRAPH.CENTER
-m.add_run(f"Unpluged-Al  |  {TODAY}  |  Hariduslik  |  v1.0").font.size = Pt(10)
+m.add_run(f"Unpluged-Al  |  {TODAY}  |  Hariduslik  |  v1.1").font.size = Pt(10)
 
 add_table(
     ["Vali", "Andmed"],
@@ -127,7 +127,7 @@ for item in [
     "une peale sundimine",
     "tahte kaotamine",
     "kontrolli kaotamine",
-    "kiire imeravi koigele",
+    "kiire imeravi kõigele",
 ]:
     add_bullet(item)
 
@@ -141,9 +141,9 @@ for item in [
 
 add_heading("SWOT — lühikokkuvõte", 2)
 add_table(
-    ["", "Kokkuvote"],
+    ["", "Kokkuvõte"],
     [
-        ["Tugevused", "Kiire abi stressile, uneale; keha kaudu ligipaas"],
+        ["Tugevused", "Kiire abi stressile, uneale; keha kaudu ligipääs"],
         ["Nõrkused", "Kvaliteet kõikub; vale arusaam avalikkuses"],
         ["Võimalused", "Juhtimine, debrief, tervishoid"],
         ["Ohud", "Ülemüük; trauma vale käsitlus; asendada ravi"],
@@ -158,7 +158,7 @@ add_table(
         ["2. Üks eesmärk", "Uni / rahunemine / fookus — mitte kõik korraga"],
         ["3. Teadlikkus", "Kuuled, tunned keha, saad silmad avada"],
         ["4. STOP trauma/kriis", "Raske minevik, dissotsiatsioon → mitte ise"],
-        ["5. Ei asenda arsti", "Tosine haigus vajab spetsialisti"],
+        ["5. Ei asenda arsti", "Tõsine haigus vajab spetsialisti"],
         ["6. Protokoll", "1 lause: mis muutus? (debrief stiil)"],
     ],
 )
@@ -180,7 +180,7 @@ add_table(
     ["Samm", "Faas", "Aeg"],
     [
         ["0", "Valmistumine — vaikne koht, vesi, üks eesmärk, stress 0-10", "2 min"],
-        ["1", "Ankur — hingamine sisse 4, valja 6 x 3", "2 min"],
+        ["1", "Ankur — hingamine sisse 4, välja 6 × 3", "2 min"],
         ["2", "Keha skaneering — peast jalgadeni", "3 min"],
         ["3", "Turvakoht — kujutle turvalist kohta", "2 min"],
         ["4", "Suggestioon — HY1 lause 8-12 min", "8-12 min"],
@@ -213,7 +213,7 @@ add_table(
     ["Vali", "Sisu"],
     [
         ["OLULINE", "Kerge stress/uni/fookus — MITTE trauma/PTSD/kriis"],
-        ["Kontroll", "Sa SAAD igal hetkil silmad avada"],
+        ["Kontroll", "Sa SAAD igal hetkel silmad avada"],
         ["STOP", "Distress > 8/10 või õhust väljas → lõpeta"],
     ],
 )
@@ -238,7 +238,7 @@ add_table(
 add_table(
     ["KEELATUD", "KOHUSTUSLIK"],
     [
-        ["Trauma avamine ilma oskuseta", "Uks eesmark korraga"],
+        ["Trauma avamine ilma oskuseta", "Üks eesmärk korraga"],
         ["Sund / sa ei mäleta", "Nõusolek enne alustamist"],
         ["Diagnoosimine", "1 lause integratsioon/debrief"],
     ],
@@ -272,7 +272,7 @@ add_table(
         ["3", "Teostab HY1 protokolli ise (15 min)"],
         ["4", "Juhib 5-min kiirvarianti"],
         ["5", "Teeb teadliku valiku spetsialisti poole"],
-        ["6", "Kirjutab integratsioonilause (debrief)"],
+        ["6", "Kirjutab ühe integratsioonilause (debrief)"],
     ],
 )
 
@@ -283,7 +283,7 @@ add_table(
         ["0-10", "Avamine", "Reeglid, STOP, üks sõna kehast, SWOT 2 min"],
         ["10-25", "Mis on hüpnoos?", "Definitsioon, mida EI ole, paarivestlus"],
         ["25-35", "Tõendus ja piirid", "Kus aitab / ei aita / spetsialist"],
-        ["35-50", "Demo", "Grupi luhike HY1 — stress enne/pärast"],
+        ["35-50", "Demo", "Grupi lühike HY1 — stress enne/pärast"],
         ["50-65", "Iseseisev", "12 min vaikne praktika, üks kerge eesmärk"],
         ["65-75", "Paariline", "5-min skript, vahetus"],
         ["75-85", "Debrief", "Üks lause ringis — mis muutus?"],
@@ -294,7 +294,7 @@ add_table(
 add_heading("Koolitaja skript — võtmehetked", 2)
 add_quote(
     "Täna ei muuda me teid kellegi teistsuguseks. Me harime fookust ja rahunemist. "
-    "Te saate igal hetkil silmad avada. Üks eesmärk korraga."
+    "Te saate igal hetkel silmad avada. Üks eesmärk korraga."
 )
 add_quote(
     "Kui distress läheb 8 — STOP. Me ei ava raskeid minevikuid. "
@@ -303,17 +303,17 @@ add_quote(
 
 add_heading("Kodutöö (7 päeva)", 2)
 add_table(
-    ["Paev", "Ulesanne"],
+    ["Päev", "Ülesanne"],
     [
-        ["1-3", "1x HY1 (15 min) — logi stress enne/pärast"],
-        ["4", "1x 5-min kiirvariant enne olulist tegevust"],
+        ["1-3", "1× HY1 (15 min) — logi stress enne/pärast"],
+        ["4", "1× 5-min kiirvariant enne olulist tegevust"],
         ["5", "Loe SWOT uuesti läbi"],
         ["6-7", "1× paariline HY1 või debrief pärast sessiooni"],
     ],
 )
 
 add_heading("Tunnistus (valikuline)", 2)
-add_normal("Mina, ___________________________, osalesin HY1-G Hünoteraapia algteadmised.")
+add_normal('Mina, ___________________________, osalesin HY1-G koolitusel „Hünoteraapia algteadmised".')
 add_normal("Kohustun kasutama STOP reegleid.")
 add_normal("Kuupäev: ______________    Allkiri: ___________________________")
 
@@ -330,7 +330,7 @@ add_table(
 p = doc.add_paragraph()
 p.alignment = WD_ALIGN_PARAGRAPH.CENTER
 run = p.add_run(
-    f"HY1 v1.0  |  {TODAY}  |  Unpluged-Al  |  "
+    f"HY1 v1.1  |  {TODAY}  |  Unpluged-Al  |  "
     "debrief-kaart-malevapealik.pdf"
 )
 run.font.size = Pt(9)

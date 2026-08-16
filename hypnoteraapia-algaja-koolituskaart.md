@@ -6,11 +6,11 @@
 |---|---|
 | **Kood** | HY1 |
 | **Teema** | Turvaline hüpnoos — rahunemine, uni, fookus |
-| **Versioon** | 1.0 · 16. august 2026 |
+| **Versioon** | 1.1 · 16. august 2026 |
 | **Kasutaja** | Ise / paar kodus |
 | **Sihtgrupp** | Täiskasvanud — kerge stress, ärevus, uni, enne olulist tegevust |
 | **Eeldused** | **Mitte** trauma, PTSD, kriis, psühhootiline episood — siis spetsialist |
-| **Seotud** | `hypnoteraapia-algaja-juhend.md` · `hypnoteraapia-algaja-plaankonspekt.md` |
+| **Seotud** | `hypnoteraapia-algaja-juhend.md` · `hypnoteraapia-algaja-plaankonspekt.md` · `Hypnoteraapia-HY1.docx` |
 
 > *See kaart on hariduslik. Ei asenda hünoterapeudi ega psühholoogi abi.*
 
@@ -59,7 +59,7 @@
 | Samm | Faas | Mida teed | Aeg |
 |------|------|-----------|-----|
 | **0** | **Valmistumine** | Vaikne koht. Vesi. Üks eesmärk kirja. Stress 0–10. | 2 min |
-| **1** | **Ankur** | Istu/lamba. Jalad maas. Hingamine: sisse 4, välja 6 × 3. | 2 min |
+| **1** | **Ankur** | Istu/lama. Jalad maas. Hingamine: sisse 4, välja 6 × 3. | 2 min |
 | **2** | **Keha skaneering** | Tähelepanu peast jalgadeni. Igas kohas: “Lõdvestu.” | 3 min |
 | **3** | **Turvakoht** | Kujutle turvalist kohta. Mida näed, kuuled, tunned? | 2 min |
 | **4** | **Suggestioon** | Too eesmärk meelde. Korda HY1 lauset. Hinga aeglaselt. | 8–12 min |
@@ -119,8 +119,9 @@
 |------|------|
 | `hypnoteraapia-algaja-juhend.md` | Täielik juhend + SWOT |
 | `hypnoteraapia-algaja-plaankonspekt.md` | 90 min grupikoolitus |
+| `Hypnoteraapia-HY1.docx` | Word (juhend + kaart + plaankonspekt) |
 | `debrief-kaart-malevapealik.pdf` | Debrief pärast olulist tegevust |
 
 ---
 
-*HY1 v1.0 · Unpluged-Al · prinditav koolituskaart*
+*HY1 v1.1 · Unpluged-Al · prinditav koolituskaart*

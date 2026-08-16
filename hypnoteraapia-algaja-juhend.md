@@ -6,11 +6,11 @@
 |---|---|
 | **Kood** | HY1 |
 | **Teema** | Turvaline hüpnoos — fookus, lõdvestus, sisemise ressursi aktiveerimine |
-| **Versioon** | 1.0 · 16. august 2026 |
+| **Versioon** | 1.1 · 16. august 2026 |
 | **Kasutaja** | Ise / paar / väike grupp (max 12) |
 | **Sihtgrupp** | Täiskasvanud — stress, ärevus, uni, fookus, eneseregulatsioon |
 | **Eeldused** | **Mitte** raske trauma, PTSD, psühhootilised episoodid, kriis — siis spetsialist |
-| **Seotud** | `hypnoteraapia-algaja-koolituskaart.md` · `hypnoteraapia-algaja-plaankonspekt.md` |
+| **Seotud** | `hypnoteraapia-algaja-koolituskaart.md` · `hypnoteraapia-algaja-plaankonspekt.md` · `Hypnoteraapia-HY1.docx` |
 
 > *See juhend on hariduslik. Ei asenda psühholoogi, psühhiaatri ega sertifitseeritud hünoterapeudi abi.*
 
@@ -103,7 +103,7 @@ OLUKORD → TÄHELEPANU → LÕDVESTUS → SOOVITUD SISU → INTEGRATSIOON
 
 ### Samm 1 — Ankur (2 min)
 
-Istu või lamba. Jalad maas. 3 aeglast hingetõmmet:
+Istu või lama. Jalad maas. 3 aeglast hingetõmmet:
 - sisse 4 loendit
 - välja 6 loendit
 
@@ -211,4 +211,4 @@ Kui grupp: lühike debrief — mitte süüdistus, vaid õpe.
 
 > **Kokkuvõte:** Hüpnoos = fookus + lõdvestus + turvalisus + üks eesmärk. Mitte müstika. Mitte kontrolli kaotus. Proovi lühidalt. STOP, kui keha ütleb ei.
 
-*HY1 v1.0 · Unpluged-Al · hariduslik juhend*
+*HY1 v1.1 · Unpluged-Al · hariduslik juhend*

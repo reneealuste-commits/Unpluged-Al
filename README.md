@@ -7,6 +7,7 @@ Strateegiline ja hariduslik dokumentatsioon — Operation Mirror, HY1, DP1.
 | Kood | Sisu | Failid |
 |------|------|--------|
 | **HY1** | Hüpnoteraapia algaja | `hypnoteraapia-algaja-*.md` · `hypnoteraapia-test-nr1-kaaslasega.md` · `Hypnoteraapia-HY1.docx` |
+| **TLP** | Perekonna ehitamine (5 etappi) | `plaankonspekt-tlp-ranger-perekonna-ehitamine.md` · `Plaankonspekt-TLP-Ranger-Perekonna-Ehitamine.docx` |
 | **DP1** | Diplomaatia sõltlasega | `diplomaatia-soltlasega-*.md` · `Diplomaatia-DP1.docx` |
 | **Raport** | Hüpnoteraapia + ohvriabi | `hupnoteraapia-teenused-ohvriabi-raport.md` |
 
@@ -22,6 +23,15 @@ python3 scripts/dp1_demo_koordinaator.py --list
 python3 scripts/dp1_demo_koordinaator.py --demo DP1-D01 --check
 python3 scripts/loo_diplomaatia_docx.py
 python3 scripts/loo_diplomaatia_koolituskaart.py
+```
+
+## TLP — perekonna ehitamine
+
+- [Plaankonspekt](plaankonspekt-tlp-ranger-perekonna-ehitamine.md)
+- [Word](https://github.com/reneealuste-commits/Unpluged-Al/raw/main/Plaankonspekt-TLP-Ranger-Perekonna-Ehitamine.docx)
+
+```bash
+python3 scripts/loo_plaankonspekt_tlp_ranger.py
 ```
 
 ## HY1 — kiirlinkid

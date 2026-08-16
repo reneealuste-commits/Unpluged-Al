@@ -10,7 +10,7 @@
 | **Kasutaja** | Iga mees kaaslasega (abikaasa, sõber, meeskonnakaaslane) |
 | **Sihtgrupp** | Täiskasvanud mehed — juhtivad kaaslasele turvalist 15-min protokolli |
 | **Eeldused** | **Mitte** raske trauma, PTSD, psühhootilised episoodid, kriis — siis spetsialist |
-| **Seotud** | `hypnoteraapia-test-nr1-kaaslasega.md` · `hypnoteraapia-algaja-koolituskaart.md` · `Hypnoteraapia-HY1.docx` |
+| **Seotud** | `plaankonspekt-tlp-ranger-perekonna-ehitamine.md` · `hypnoteraapia-algaja-koolituskaart.md` · `Hypnoteraapia-HY1.docx` |
 
 > *Iga mees saab seda õppida ja teha oma kaaslasele. Formaalne test: `hypnoteraapia-test-nr1-kaaslasega.md` (kaitseväe Automaadi test vorming).*
 

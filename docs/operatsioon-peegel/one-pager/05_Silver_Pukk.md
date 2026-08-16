@@ -1,0 +1,76 @@
+# ONE-PAGER: Silver Pukk
+### Peaministri nõunik (kommunikatsioon) | Operatsioon Peegel
+
+---
+
+## Süüdistuste audit (Voss)
+
+Enne sisu lugemist — ütle **enne ettepanekut** (labelid, mitte vastused):
+
+- *"Tundub, et see võib tunduda kui ebarealistlik kodanikualgatus."*
+- *"Tundub, et ma juba teen kommunikatsiooni — miks vaja eraldi operatsiooni?"*
+- *"Kõlab nagu kriisikommunikatsioon 1h on ilus paberil, aga reaalsus teine."*
+- *"Näib, et kui PM ütleb infotunnis midagi ettevalmistamata, süüdistatakse mind."*
+
+*Ära ütle "ma saan aru". Vestluse One-Sheet: [käsupakett](../kaskupaketid/05_Silver_Pukk_KASK.md)*
+
+---
+
+**Kontakt:** silver.pukk@riigikantselei.ee | 5623 0685  
+**Amet:** Nõustab peaministrit kommunikatsiooni valdkonnas
+
+---
+
+## Sinu roll Operatsioon Peegel raames
+
+Sa oled **kommunikatsioonipeegli omanik**. Kui kõik valdkonnad peegeldavad PM joont, siis sina oled see, kes **vormistab peegelduse** — pressiteated, intervjuud, kõned, meediapäringud. Sa ei loo narratiivi, vaid **peegeldad** seda, mis büroos kokku lepitakse.
+
+## Põhiülesanded
+
+| # | Ülesanne | Väljund |
+|---|----------|---------|
+| 1 | Juhi kommunikatsioonistrateegiat OP-Peegel raames | Kommunikatsiooniplaan |
+| 2 | Koordineeri meediapäringuid ja pressiteateid | Ühtne meediasõnum |
+| 3 | Valmista PM kõned, intervjuud ja avalikud esinemised | Lõplik tekst |
+| 4 | Aktiveeri kriisikommunikatsioon | Kriisiplaan < 1h |
+| 5 | Koordineeri Riigikantselei pressiteenistusega | Kanalite ühtsus |
+
+## Millal sind kaasatakse
+
+- Iga avalik PM sõnum (pressiteade, kõne, intervjuu)
+- Meediakriis ja negatiivne pressikajastus
+- Suured riiklikud sündmused (kriisiõppused, visiidid, katastroofid)
+- Riigikogu infotund — meediakajastuse juhtimine
+- Kommunikatsiooniline riskianalüüs enne poliitilisi otsuseid
+
+## Koordineerimine
+
+| Partner | Miks |
+|---------|------|
+| Eliise Kuus | Digitaalse ja traditsioonilise meedia ühtsus |
+| Kõik valdkonnad | Sisu ja faktid |
+| Risto Kaljurand | PM prioriteedid ja koordineerimisring |
+| Riigikantselei pressiteenistus | Avalik levitamine |
+
+## Steigeri põhimõte sinu jaoks
+
+> *"Tähelepanu, kiitus ja laitus."* — Steiger, ptk 09
+
+Kommunikatsioonis on tähelepanu valuuta. Anna meeskonnale kiitust, kui sõnum jõudis kohale. Kui mitte — analüüsi, miks, mitte süüdista.
+
+## Punased lipud
+
+- PM avaldab sõnumi ilma sinu koordineerimiseta
+- Meediapäring jäetud vastuseta > 2h (kriisiolukorras > 30 min)
+- Pressiteade ja sotsiaalmeedia post erinevad sisult
+- Kolm erinevat büroo liiget annab meediale erinevat infot
+
+## KPI-d
+
+- Kriisikommunikatsiooni aktiveerimine < 1h
+- Meediapäringute vastamise aeg < 2h (tavaline) / < 30 min (kriis)
+- Sõnumite ühtsus kõigis kanalites = 100%
+
+---
+
+*Operatsioon Peegel | Kommunikatsiooninõuniku one-pager | Konfidentsiaalne — sisemine kasutus*

@@ -1,0 +1,37 @@
+# DOCX allalaadimised
+
+Haru: `cursor/kov-peegli-materjalid-ea2e` (pärast PR merge’i asendub `main`).
+
+## Täispakett (soovitatav)
+
+**OPORD** — täielik operatiivkorraldus kampaania jaoks.
+
+[Laadi alla OPORD-Unpluged-Al-KOV.docx](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/kov-peegli-materjalid-ea2e/docs/docx/OPORD-Unpluged-Al-KOV.docx)
+
+**PEEGEL TUUM** — üheleheline tuum (3 küsimust, kord, keel).
+
+[Laadi alla peegel-tuum.docx](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/kov-peegli-materjalid-ea2e/docs/docx/peegel-tuum.docx)
+
+**Unpluged-Al KOV pakett** — lühiteave, agenda, peegli metoodika, strateegia, 1-1 plaan ja esimesed e-kirjad ühes failis.
+
+[Laadi alla Unpluged-Al-KOV-pakett.docx](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/kov-peegli-materjalid-ea2e/docs/docx/Unpluged-Al-KOV-pakett.docx)
+
+## Üksikud failid
+
+| Dokument | DOCX |
+|----------|------|
+| KOV lühiteave | [kov-luhiteave.docx](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/kov-peegli-materjalid-ea2e/docs/docx/kov-luhiteave.docx) |
+| Kohtumise agenda | [kohtumise-agenda.docx](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/kov-peegli-materjalid-ea2e/docs/docx/kohtumise-agenda.docx) |
+| Peegli metoodika | [peegli-metoodika.docx](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/kov-peegli-materjalid-ea2e/docs/docx/peegli-metoodika.docx) |
+| KOV strateegia | [kov-strateegia.docx](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/kov-peegli-materjalid-ea2e/docs/docx/kov-strateegia.docx) |
+| 1-1 algusplaan | [1-1-algus-plan.docx](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/kov-peegli-materjalid-ea2e/docs/docx/1-1-algus-plan.docx) |
+| E-kiri Kuusalu (1-1) | [ekiri-1-1-kuusalu.docx](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/kov-peegli-materjalid-ea2e/docs/docx/ekiri-1-1-kuusalu.docx) |
+| E-kiri Harju KOV | [ekiri-harju-kov.docx](https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/kov-peegli-materjalid-ea2e/docs/docx/ekiri-harju-kov.docx) |
+
+## Otse URL (kopeeri brauserisse)
+
+Täispakett:
+
+```
+https://github.com/reneealuste-commits/Unpluged-Al/raw/cursor/kov-peegli-materjalid-ea2e/docs/docx/Unpluged-Al-KOV-pakett.docx
+```

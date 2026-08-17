@@ -19,97 +19,53 @@ from reportlab.platypus import (
 OUTPUT = "/workspace/toendus-pakk-SKA.pdf"
 
 NAVY = colors.HexColor("#1A237E")
-LIGHT = colors.HexColor("#E8EAF6")
 DARK = colors.HexColor("#212121")
 GRAY = colors.HexColor("#616161")
 RED = colors.HexColor("#B71C1C")
+GREEN = colors.HexColor("#1B5E20")
 
 
 def styles():
     base = getSampleStyleSheet()
     return {
         "title": ParagraphStyle(
-            "Title",
-            parent=base["Heading1"],
-            fontSize=18,
-            textColor=NAVY,
-            spaceAfter=6,
-            fontName="Helvetica-Bold",
-            alignment=TA_CENTER,
+            "Title", parent=base["Heading1"], fontSize=18, textColor=NAVY,
+            spaceAfter=6, fontName="Helvetica-Bold", alignment=TA_CENTER,
         ),
         "subtitle": ParagraphStyle(
-            "Subtitle",
-            parent=base["Normal"],
-            fontSize=10,
-            textColor=GRAY,
-            spaceAfter=10,
-            alignment=TA_CENTER,
+            "Subtitle", parent=base["Normal"], fontSize=10, textColor=GRAY,
+            spaceAfter=10, alignment=TA_CENTER,
         ),
         "h1": ParagraphStyle(
-            "H1",
-            parent=base["Heading1"],
-            fontSize=14,
-            textColor=NAVY,
-            spaceBefore=10,
-            spaceAfter=6,
-            fontName="Helvetica-Bold",
+            "H1", parent=base["Heading1"], fontSize=14, textColor=NAVY,
+            spaceBefore=10, spaceAfter=6, fontName="Helvetica-Bold",
         ),
         "h2": ParagraphStyle(
-            "H2",
-            parent=base["Heading2"],
-            fontSize=11,
-            textColor=NAVY,
-            spaceBefore=8,
-            spaceAfter=4,
-            fontName="Helvetica-Bold",
+            "H2", parent=base["Heading2"], fontSize=11, textColor=NAVY,
+            spaceBefore=8, spaceAfter=4, fontName="Helvetica-Bold",
         ),
         "body": ParagraphStyle(
-            "Body",
-            parent=base["Normal"],
-            fontSize=10,
-            leading=14,
-            textColor=DARK,
-            alignment=TA_JUSTIFY,
+            "Body", parent=base["Normal"], fontSize=10, leading=14,
+            textColor=DARK, alignment=TA_JUSTIFY,
         ),
         "body_bold": ParagraphStyle(
-            "BodyBold",
-            parent=base["Normal"],
-            fontSize=10,
-            leading=14,
-            textColor=DARK,
-            fontName="Helvetica-Bold",
+            "BodyBold", parent=base["Normal"], fontSize=10, leading=14,
+            textColor=DARK, fontName="Helvetica-Bold",
         ),
         "bullet": ParagraphStyle(
-            "Bullet",
-            parent=base["Normal"],
-            fontSize=10,
-            leading=14,
-            leftIndent=12,
-            textColor=DARK,
+            "Bullet", parent=base["Normal"], fontSize=10, leading=14,
+            leftIndent=12, textColor=DARK,
         ),
         "small": ParagraphStyle(
-            "Small",
-            parent=base["Normal"],
-            fontSize=8,
-            leading=10,
-            textColor=GRAY,
-        ),
-        "fill": ParagraphStyle(
-            "Fill",
-            parent=base["Normal"],
-            fontSize=10,
-            leading=14,
-            textColor=RED,
-            fontName="Helvetica-Oblique",
+            "Small", parent=base["Normal"], fontSize=8, leading=10, textColor=GRAY,
         ),
         "deadline": ParagraphStyle(
-            "Deadline",
-            parent=base["Normal"],
-            fontSize=11,
-            textColor=RED,
-            fontName="Helvetica-Bold",
-            alignment=TA_CENTER,
-            spaceAfter=8,
+            "Deadline", parent=base["Normal"], fontSize=11, textColor=RED,
+            fontName="Helvetica-Bold", alignment=TA_CENTER, spaceAfter=8,
+        ),
+        "highlight": ParagraphStyle(
+            "Highlight", parent=base["Normal"], fontSize=10, leading=14,
+            textColor=GREEN, fontName="Helvetica-Bold",
         ),
     }
 
@@ -131,13 +87,11 @@ def table(data, col_widths, header=False):
         ("INNERGRID", (0, 0), (-1, -1), 0.25, colors.lightgrey),
     ]
     if header:
-        style.extend(
-            [
-                ("BACKGROUND", (0, 0), (-1, 0), NAVY),
-                ("TEXTCOLOR", (0, 0), (-1, 0), colors.white),
-                ("FONTNAME", (0, 0), (-1, 0), "Helvetica-Bold"),
-            ]
-        )
+        style.extend([
+            ("BACKGROUND", (0, 0), (-1, 0), NAVY),
+            ("TEXTCOLOR", (0, 0), (-1, 0), colors.white),
+            ("FONTNAME", (0, 0), (-1, 0), "Helvetica-Bold"),
+        ])
     t.setStyle(TableStyle(style))
     return t
 
@@ -150,14 +104,14 @@ def cover(story, s):
     story.append(Paragraph("Vastuväide vanemahüvitise määramise kohta", s["subtitle"]))
     story.append(Spacer(1, 12))
     hr(story)
-
     meta = [
         ["Laps:", "Indie Eva Alexandra Aluste"],
         ["Isa / taotleja:", "Renee Aluste"],
         ["Ema / vastu:", "Maria-Isabelle Aluste"],
         ["SKA viide:", "Arvamuse küsimine, 11.08.2026"],
         ["Spetsialist:", "Galina Družkova (perehüvitised)"],
-        ["Koostatud:", "12.08.2026"],
+        ["Koostatud:", "17.08.2026"],
+        ["Põhiargument:", "Vanemate finantskokkulepe ja leibkonna sissetulek"],
     ]
     story.append(table(meta, [45 * mm, 125 * mm]))
     story.append(Spacer(1, 10))
@@ -206,56 +160,71 @@ def vastuvade(story, s):
 
     sections = [
         (
-            "1. Olen lapse peamine igapäevane hooldaja",
+            "1. Praegune olukord — laps elab emaga",
             [
-                "Olen lapse isa Renee Aluste. Olen praegu <b>vanemapuhkusel</b> (töötamisregistri andmed).",
-                "Olen lapse eest hoolitsenud alates sündimisest.",
-                "Laps Indie Eva Alexandra Aluste sündis meie ühises elukohas aadressil:",
-                "<i>[TÄIDA: korteri täisaadress, linn]</i>",
-                "Elasime emaga selles korteris koos umbes 1–2 aastat. See on lapse kodune keskkond alates sündimisest.",
+                "Tunnistan, et laps <b>Indie Eva Alexandra Aluste elab hetkel ema Maria-Isabelle Alustega</b>. "
+                "Ma ei vaidlusta seda fakti ega esita vastupidist väidet.",
+                "Minu vastuväide <b>ei põhine elukohal</b>, vaid vanemate vahelisel "
+                "<b>finantskokkuleppel</b> ja lapse/leibkonna rahalistes huvides.",
             ],
         ),
         (
-            "2. Laps ei elanud ema juures taotluse esitamise ajal",
+            "2. Vanemate finantskokkulepe",
             [
-                "<b>Juuli lõpp 2026 (umbes 21.–31. juuli):</b> Ema Maria-Isabelle Aluste kolis välja meie ühisest elukohast oma eraldi korterisse.",
-                "<b>Oluline:</b> Laps <b>jäi minu juurde</b>. Ema lahkus üksi — laps ei kolinud koos temaga.",
-                "<b>31. juuli – 12. august 2026:</b> Olin lapse ainus igapäevane hooldaja (~2 nädalat).",
-                "<b>12. august 2026:</b> Ema võttis lapse minu juurest ilma minu nõusolekuta.",
-                "<b>11. august 2026</b> (Teie kirja kuupäev): Ema esitas taotluse, viidates, et laps elab temaga. "
-                "<b>See ei vastanud tõele</b> — laps elas minu juures kuni 12.08.2026.",
-                "Lapse tegelik elukoht on minu korter, kus ta on elanud alates sündimisest.",
+                "Meil on kehtiv kokkulepe: vanemahüvitis jääb <b>mulle (isale)</b>, "
+                "kuna minu hüvitis on <b>~84 €/päev</b> (~2520 €/kuus), "
+                "ema oma nimel saaks aga vaid <b>~31 €/päev</b> (~930 €/kuus).",
+                "Maksan emale igakuiselt <b>tema emapalga/vanemahüvitise summa</b> "
+                "— nii saab ema oma osa ja leibkonna kogusissetulek on suurem.",
+                "Kokkulepe on ellu viidud <b>järjepidevalt</b> — esitan pangatõendid (vt osa 3).",
             ],
         ),
         (
-            "3. Kehtiv finantskokkulepe — ema saab juba raha",
+            "3. SKA ametniku algne soovitus",
             [
-                "Vanemahüvitis jääb mulle (~84 €/päev), maksan emale igakuiselt tema õigustatud osa (~31 €/päev ≈ ~930 €/kuus).",
-                "Kokkulepe on ellu viidud pangas sildistatud ülekannetega (vt finantstõendid).",
-                "Viimane makse: <b>07.08.2026 — 977,43 € ('vanemapalk')</b> — pärast ema väljakolimist.",
-                "Ema taotluse eesmärk <b>ei ole lapse rahaline huvi</b> — ema saab juba raha, mida ta vanemahüvitise korral saaks.",
+                "See kordade seadmine oli <b>Sotsiaalkindlustusameti ametniku soovitus</b> "
+                "kohe alguses, kui vanemahüvitist taotlesime.",
+                "Ametnik soovitas, et hüvitis jääks <b>kõrgema määra saajale (isale)</b>, "
+                "kuna see tagab perele suurima kogusumma.",
+                "[TÄIDA: lisa detailid — millal, kellega vestlesite, kui on kirjalik tõend]",
+                "Palun arvestada seda algset nõustamist otsuse tegemisel.",
             ],
         ),
         (
-            "4. Ema taotlus kahjustab lapse huve",
+            "4. Miks ema taotlus kahjustab leibkonda",
             [
-                "Kui vanemahüvitis läheks emale (~31 €/päev), kaotaks pere <b>~53 € päevas</b> ehk <b>~1590 € kuus</b>, "
-                "mis praegu läheb lapse kasvatamiseks.",
+                "Kui vanemahüvitis läheb emale (~31 €/päev), kaotab leibkond "
+                "<b>~53 € päevas</b> ehk <b>~1590 € kuus</b> võrreldes praeguse korraldusega.",
+                "Praegu saab ema oma osa minult igakuiselt (~930–980 €) "
+                "<b>PLUSS</b> leibkond säilitab vahe (~1590 €) lapse ja pere jaoks.",
+                "Ema taotlus ei suurenda pere sissetulekut — see <b>vähendab</b> seda oluliselt.",
+                "See on vastuolus lapse huvidega.",
             ],
         ),
         (
-            "5. Palun uurida tegelikku olukorda",
+            "5. Järjepidevad maksed — tõendid",
             [
-                "Palun teha päring lapse elukohajärgsele kohalikule omavalitsusele ja vajadusel <b>koduvisiit</b>.",
-                "Selgitada: kus laps elas enne 12.08.2026; kes igapäevaselt hoolitseb; kas ema väide vastab tõele.",
+                "Olen maksnud emale kokkuleppe kohaselt igakuiselt. "
+                "Pangas sildistatud maksed (vt finantstõendid):",
+                "06.02.2026 — 864,00 € ('1. makse')",
+                "08.04.2026 — 893,68 € ('elatisraha')",
+                "08.05.2026 — 515,00 € ('emaduspalk')",
+                "08.06.2026 — 957,43 € ('vanema palk')",
+                "08.07.2026 — 945,90 € ('emapalk')",
+                "07.08.2026 — 977,43 € ('vanemapalk')",
+                "Lisaks regulaarsed 'toiduraha (L)' ja muud maksed.",
+                "Kokku sildistatud maksed 2026: <b>5 553,44 €</b>.",
+                "Maksed jätkuvad ka pärast seda, kui ema kolis eraldi elama.",
             ],
         ),
         (
-            "6. Kontaktisikud uurimisel",
+            "6. Minu palve",
             [
-                "Sotsiaaltöötaja: [TÄIDA: nimi, amet, telefon, e-post]",
-                "Lastekaitse: [TÄIDA: nimi, üksus, telefon]",
-                "Politsei: [TÄIDA: juhtumi number, kontakt]",
+                "Palun <b>jätkata vanemahüvitise maksmist mulle</b> kuni lõpliku otsuseni.",
+                "Palun <b>mitte määrata</b> vanemahüvitist emale, kuna see kahjustaks "
+                "leibkonna sissetulekut ja on vastuolus meie kokkuleppega ning "
+                "algse SKA soovitusega.",
+                "Olen valmis jätkama emale igakuiselt tema õigustatud summa maksmist.",
             ],
         ),
     ]
@@ -266,15 +235,7 @@ def vastuvade(story, s):
             story.append(Paragraph(f"• {item}", s["bullet"]))
         story.append(Spacer(1, 4))
 
-    story.append(Paragraph("PALVE", s["h2"]))
-    story.append(
-        Paragraph(
-            "Palun <b>jätkata vanemahüvitise maksmist mulle</b> kuni Teie lõpliku otsuseni. "
-            "Palun <b>mitte määrata</b> vanemahüvitist emale.",
-            s["body"],
-        )
-    )
-    story.append(Spacer(1, 12))
+    story.append(Spacer(1, 8))
     story.append(Paragraph("Lugupidamisega,", s["body"]))
     story.append(Spacer(1, 6))
     sign = [
@@ -282,34 +243,43 @@ def vastuvade(story, s):
         ["Isikukood:", "[TÄIDA]"],
         ["Telefon:", "[TÄIDA]"],
         ["E-post:", "[TÄIDA]"],
-        ["Aadress:", "[TÄIDA: korteri täisaadress]"],
-        ["Kuupäev:", "12.08.2026"],
+        ["Aadress:", "[TÄIDA]"],
+        ["Kuupäev:", "17.08.2026"],
     ]
     story.append(table(sign, [35 * mm, 135 * mm]))
     story.append(PageBreak())
 
 
-def ajajoon(story, s):
-    story.append(Paragraph("2. AJAJOON", s["h1"]))
+def kokkulepe(story, s):
+    story.append(Paragraph("2. FINANTSKOKKULEPPE LOOGIKA", s["h1"]))
     hr(story)
-    rows = [
-        ["Kuupäev / periood", "Sündmus", "Tähendus"],
-        ["~2024–2025", "Ühine elu Renee korteris", "Lapse kodune keskkond"],
-        ["[TÄIDA: sünnikuupäev]", "Indie sündis Renee korteris", "Elukoht alates sündimisest"],
-        ["Juuli lõpp 2026\n(~21.–31.07)", "Maria kolis välja", "Laps JÄI isa juurde"],
-        ["31.07 – 12.08.2026", "Laps elas isa juures", "Isa ainus hooldaja (~2 nädalat)"],
-        ["07.08.2026", "Makse 977,43 € ('vanemapalk')", "Kokkulepe kehtib pärast lahkumist"],
-        ["11.08.2026", "SKA: ema taotlus", "Väide 'laps elab emaga' — ei vasta tõele"],
-        ["12.08.2026", "Ema võttis lapse", "Ilma isa nõusolekuta"],
+    story.append(
+        Paragraph(
+            "Meie argument põhineb sellel, et vanemate kokkuleppe korral "
+            "saab leibkond rohkem raha, kui hüvitis määrataks emale.",
+            s["body"],
+        )
+    )
+    story.append(Spacer(1, 8))
+    story.append(Paragraph("Võrdlus", s["h2"]))
+    cmp_rows = [
+        ["", "Variant A: hüvitis ISALE (kokkulepe)", "Variant B: hüvitis EMALE"],
+        ["Isa saab SKA-st", "~2520 €/kuus", "0 €"],
+        ["Ema saab SKA-st", "0 €", "~930 €/kuus"],
+        ["Ema saab isalt", "~930 €/kuus", "0 €"],
+        ["Ema kokku", "~930 €/kuus", "~930 €/kuus"],
+        ["Isa/leibkond kokku", "~2520 €/kuus", "~930 €/kuus"],
+        ["LEIBKONNA KAOTUS", "—", "~1590 €/kuus"],
     ]
-    story.append(table(rows, [40 * mm, 55 * mm, 75 * mm], header=True))
+    story.append(table(cmp_rows, [40 * mm, 65 * mm, 65 * mm], header=True))
     story.append(Spacer(1, 10))
-    story.append(Paragraph("Olulised järeldused", s["h2"]))
+    story.append(Paragraph("Kokkuleppe sisu", s["h2"]))
     for line in [
-        "Lapse kodune keskkond on Renee korter (sündimisest kuni 12.08.2026).",
-        "Ema lahkus enne lapse võtmist — laps ei olnud ema juures loomulik elukoht.",
-        "Ema SKA taotlus (11.08) esitati, kui laps veel elas isa juures.",
-        "Lapse äravõtmine (12.08) toimus pärast taotluse esitamist — taktikaline samm.",
+        "Vanemahüvitis jääb isale (kõrgem määr: ~84 €/päev).",
+        "Isa maksab emale igakuiselt tema õigustatud summa (~930–980 €).",
+        "Ema saab oma osa — ei jää ilma.",
+        "Leibkond säilitab ~1590 €/kuus rohkem raha lapse ja pere jaoks.",
+        "See korraldus vastab SKA ametniku algsele soovitusele.",
     ]:
         story.append(Paragraph(f"• {line}", s["bullet"]))
     story.append(PageBreak())
@@ -326,20 +296,6 @@ def finants(story, s):
         )
     )
     story.append(Spacer(1, 6))
-    story.append(Paragraph("Kokkulepe", s["h2"]))
-    story.append(
-        table(
-            [
-                ["Pool", "Hüvitis", "Kuusumma"],
-                ["Renee Aluste (isa)", "~84 €/päev", "~2520 €/kuus"],
-                ["Maria-Isabelle Aluste (ema)", "~31 €/päev", "~930 €/kuus"],
-                ["Erinevus (lapse kasuks)", "~53 €/päev", "~1590 €/kuus"],
-            ],
-            [55 * mm, 45 * mm, 70 * mm],
-            header=True,
-        )
-    )
-    story.append(Spacer(1, 10))
     story.append(Paragraph("Sildistatud maksed (2026)", s["h2"]))
     pay = [
         ["Kuupäev", "Summa", "Selgitus pangas"],
@@ -355,7 +311,8 @@ def finants(story, s):
     story.append(Spacer(1, 6))
     story.append(
         Paragraph(
-            "<b>Kokku sildistatud maksed 2026: 5 553,44 €</b> + regulaarsed 'toiduraha (L)' maksed.",
+            "<b>Kokku sildistatud maksed 2026: 5 553,44 €</b> + regulaarsed "
+            "'toiduraha (L)' maksed ja muud toetused.",
             s["body_bold"],
         )
     )
@@ -363,11 +320,11 @@ def finants(story, s):
     story.append(Paragraph("Mida tõendid kinnitavad", s["h2"]))
     proof = [
         ["#", "Väide", "Tõend"],
-        ["1", "Kokkulepe on reaalne", "Pangas sildistatud vanemapalk, emaduspalk, elatisraha"],
-        ["2", "Ema saab juba raha", "~930–980 €/kuus — rohkem kui SKA hüvitis emale"],
-        ["3", "Kokkulepe kehtib pärast lahuselu", "Viimane makse 07.08.2026"],
-        ["4", "Taotluse eesmärk ei ole raha", "Ema saab juba ekvivalendi"],
-        ["5", "Pere kaotaks raha", "~1590 €/kuus, kui hüvitis läheb emale"],
+        ["1", "Kokkulepe on reaalne", "Pangas sildistatud: vanemapalk, emapalk, emaduspalk, elatisraha"],
+        ["2", "Maksed on järjepidevad", "Igakuised ülekanded alates veebruar 2026"],
+        ["3", "Ema saab oma osa", "~930–980 €/kuus — ema ei jää ilma"],
+        ["4", "Kokkulepe kehtib pärast lahuselu", "Maksed jätkuvad ka pärast eraldi elama asumist"],
+        ["5", "Leibkond kaotaks raha", "~1590 €/kuus, kui hüvitis läheb emale"],
     ]
     story.append(table(proof, [10 * mm, 55 * mm, 105 * mm], header=True))
     story.append(PageBreak())
@@ -379,29 +336,33 @@ def olukord(story, s):
     blocks = [
         (
             "Perekonna taust",
-            "Renee Aluste ja Maria-Isabelle Aluste elasid koos Renee korteris ~1–2 aastat. "
-            "Tütar Indie Eva Alexandra Aluste sündis selles korteris. "
-            "Renee on olnud peamine hooldaja ja on vanemapuhkusel (~84 €/päev).",
+            "Renee Aluste ja Maria-Isabelle Aluste elasid koos umbes 1–2 aastat. "
+            "Tütar Indie Eva Alexandra Aluste sündis nende ühises elukohas. "
+            "Renee on vanemapuhkusel (~84 €/päev). Ema oma nimel saaks ~31 €/päev.",
         ),
         (
-            "Ema väljakolimine",
-            "Juuli lõpus 2026 kolis ema välja ühisest elukohast. Laps jäi isa juurde ~2 nädalaks. "
-            "Renee oli ainus igapäevane hooldaja.",
+            "Praegune elukord",
+            "Ema kolis juuli lõpus 2026 eraldi elama. "
+            "Laps elab hetkel ema juures. "
+            "Isa ei vaidlusta lapse elukohta — see fakt on tunnistatud.",
         ),
         (
             "Finantskokkulepe",
-            "Isa maksab emale igakuiselt ~930–980 €. Viimane makse 07.08.2026 (977,43 €, 'vanemapalk'). "
-            "Pere säilitab ~1590 €/kuus rohkem raha lapse jaoks.",
+            "Vanemate kokkulepe: hüvitis jääb isale, isa maksab emale igakuiselt "
+            "tema õigustatud summa. See tagab suurima leibkonna sissetuleku. "
+            "Kokkulepe vastab SKA ametniku algsele soovitusele.",
         ),
         (
-            "SKA taotlus ja lapse äravõtmine",
-            "11.08.2026 esitas ema taotluse — väitis, et laps elab temaga. "
-            "Tegelikkuses elas laps isa juures kuni 12.08.2026, mil ema võttis ta ilma nõusolekuta.",
+            "Ema SKA taotlus",
+            "11.08.2026 esitas ema taotluse vanemahüvitise saamiseks enda nimele. "
+            "See kahjustaks leibkonna sissetulekut (~1590 €/kuus kaotus) "
+            "ilma et ema saaks rohkem — ta saab juba oma osa isalt.",
         ),
         (
-            "E-kirjadele mitte vastamine",
-            "Ema väide 'kuritarvitamine' ei vasta tõele. Isa seab piire surve eest, "
-            "kuid maksab emale edasi kokkuleppe kohaselt.",
+            "Isa seisukoht",
+            "Renee Aluste tunnistab, et laps elab emaga. "
+            "Ta palub säilitada finantskokkuleppe, sest see on lapse ja leibkonna huvides. "
+            "Ta jätkab emale maksmist ja esitab tõendid järjepidevatest maksetest.",
         ),
     ]
     for head, text in blocks:
@@ -431,23 +392,24 @@ def lisad(story, s):
         ["6", "1. makse", "06.02.2026 — 864 €"],
         ["7", "toiduraha (L) maksed", "2025–2026"],
         ["8", "Otsing 'maria' — kõik maksed", "2024–2026"],
+        ["9", "[TÄIDA] SKA algne nõustamine", "Kui on kirjalik tõend ametniku soovituse kohta"],
     ]
     story.append(table(attachments, [12 * mm, 70 * mm, 88 * mm], header=True))
     story.append(Spacer(1, 12))
     story.append(Paragraph("Esitamise juhend", s["h2"]))
     for step in [
-        "Täida punased [TÄIDA] väljad dokumendis 1. osas.",
+        "Täida [TÄIDA] väljad dokumendis 1. osas.",
         "Logi sisse SKA iseteenindusse.",
         "Vasta kirjale 'Arvamuse küsimine' (11.08.2026).",
         "Kopeeri vastuväide (osa 1) vastuse väljale.",
         "Lisa pangaväljavõtte ekraanipildid manusena.",
         "Saada enne tähtaega: 19.08.2026.",
     ]:
-        story.append(Paragraph(f"{step}", s["bullet"]))
+        story.append(Paragraph(f"• {step}", s["bullet"]))
     story.append(Spacer(1, 16))
     story.append(
         Paragraph(
-            "Renee Aluste · Tõenduspakk · 12.08.2026 · "
+            "Renee Aluste · Tõenduspakk · 17.08.2026 · "
             "Sotsiaalkindlustusamet — vanemahüvitis, Indie Eva Alexandra Aluste",
             s["small"],
         )
@@ -469,7 +431,7 @@ def build():
     story = []
     cover(story, s)
     vastuvade(story, s)
-    ajajoon(story, s)
+    kokkulepe(story, s)
     finants(story, s)
     olukord(story, s)
     lisad(story, s)

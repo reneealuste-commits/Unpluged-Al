@@ -19,6 +19,12 @@ Strateegiline ja hariduslik dokumentatsioon — Operation Mirror, HY1, DP1, LVJ.
 - [Koolituskaart](lahinguvaljal-juhtimine-koolituskaart.md) · [PDF](lahinguvaljal-juhtimine-koolituskaart.pdf)
 - [30-päevane plaan](lahinguvaljal-juhtimine-30paeva-plaan.md)
 
+### LVJ v2 — TBKTS-struktuur (mustand)
+
+- [Struktuurianalüüs: Body Keeps the Score](lahinguvaljal-juhtimine-v2-struktuurianalyys.md)
+- [Komposiitlood — tuttava lugu](lahinguvaljal-juhtimine-v2-komposiitlood-mustand.md)
+- [Peatükk 18 — silmaliigutused (enne EMDR)](lahinguvaljal-juhtimine-v2-peatykk18-silmaliigutused.md)
+
 ```bash
 python3 scripts/loo_lahinguvaljal_koolituskaart.py
 ```

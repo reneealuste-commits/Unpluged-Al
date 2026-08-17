@@ -22,8 +22,11 @@ Strateegiline ja hariduslik dokumentatsioon — Operation Mirror, HY1, DP1, LVJ.
 ### LVJ v2 — TBKTS-struktuur (mustand)
 
 - [Struktuurianalüüs: Body Keeps the Score](lahinguvaljal-juhtimine-v2-struktuurianalyys.md)
-- [Komposiitlood — tuttava lugu](lahinguvaljal-juhtimine-v2-komposiitlood-mustand.md)
-- [Peatükk 18 — silmaliigutused (enne EMDR)](lahinguvaljal-juhtimine-v2-peatykk18-silmaliigutused.md)
+- [Isiklike lugude kaart](lahinguvaljal-juhtimine-v2-isiklike-loodude-kaart.md) — päris lood → peatükid
+- [Peatükk 16 — Ema](lahinguvaljal-juhtimine-v2-peatykk16-ema.md)
+- [Peatükk 17 — Andestus (Foxhole)](lahinguvaljal-juhtimine-v2-peatykk17-andestus.md)
+- [Peatükk 18 — silmaliigutused](lahinguvaljal-juhtimine-v2-peatykk18-silmaliigutused.md)
+- [Komposiitlood (varu)](lahinguvaljal-juhtimine-v2-komposiitlood-mustand.md)
 
 ```bash
 python3 scripts/loo_lahinguvaljal_koolituskaart.py

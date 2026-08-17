@@ -26,6 +26,7 @@ Strateegiline ja hariduslik dokumentatsioon — Operation Mirror, HY1, DP1, LVJ.
 - [Peatükk 16 — Ema](lahinguvaljal-juhtimine-v2-peatykk16-ema.md)
 - [Peatükk 17 — Andestus (Foxhole)](lahinguvaljal-juhtimine-v2-peatykk17-andestus.md)
 - [Peatükk 18 — silmaliigutused](lahinguvaljal-juhtimine-v2-peatykk18-silmaliigutused.md)
+- [Conversiooni lood — 5 vaatlust](lahinguvaljal-juhtimine-v2-conversiooni-lood.md)
 - [Komposiitlood (varu)](lahinguvaljal-juhtimine-v2-komposiitlood-mustand.md)
 
 ```bash

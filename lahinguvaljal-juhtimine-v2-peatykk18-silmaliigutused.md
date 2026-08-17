@@ -7,37 +7,57 @@
 
 ◆ **LUGU**
 
-**SOK kursus — debrief pärast ööharjutust**
+**Kolm kohta, kus ma õppisin — enne kui teadsin sõna "EMDR"**
 
-Kell oli 05:40. Öine marsruut läbi. Kursuslased istusid ringis. Mõned nutavad. Mõned vaikivad. Mõned naeravad — see on ka reaktsioon, mida keha kasutab, kui sõnu pole.
+### 1. Kutsekool Tihemetsa
 
-Üks mees — kutsume teda **Tanelit** — ei rääkinud terve öö jooksul midagi. Ei debriefis. Ei grupis. Lihtsalt istus.
+Ma olin rahutu. Segasin tundi. Istusin taga pingis. Teised õpetajad viskasid raamatuga.
 
-Ma lähenen. Istun kõrvale. Mitte vastu. Külg külje kõrval.
+Siis tuli üks õpetaja — naljakas vanamees, käitumispsühholoogia. IQ test: 59/60. *"Ära lase oma aju raisku."*
 
-**Renee:** „Sa ei pea rääkima. Aga ma küsin ühe asja. Mis sa tunned kehas praegu?“
+Ta ei karistanud. Ta kutsus mind klassi ette **demo meheks**.
 
-**Tanel:** „… Kõhus. Nagu löök.“
+Tunni teema: **miimika ja kehakeel.**
+
+Õpetaja ütleb emotsiooni. Mina demonstreerin klassile.
+
+Keha enne sõna. Emotsioon läbi keha. Klass naerab. Mina saan tegevust. Austus tõuseb.
+
+Ma ei teadnud tollal, et see on teraapia. Ma teadsin, et **keha teab enne kui keel.**
+
+### 2. Imelised aastad — lapse liigutused
+
+Aastaid hiljem, pärast lahutust, läbisin vanemlusprogrammi *Imelised aastad*.
+
+Üks reegel: **kirjelda lapse liigutusi.** Ta õpib läbi selle sõnu. Õpib, milline käitumine on ühiskonnale sobilik.
+
+Liigutus → sõna. Sama suund mis EMDR: keha enne narratiivi.
+
+Rene ja minu suhe õitses. Ta õppis kuulama. Sest ma lõpetasin rääkimise — ja hakkasin **kuulma keha.**
+
+### 3. SOK kursus — debrief pärast ööharjutust
+
+Kell 05:40. Öine marsruut läbi. Kursuslane istub. Vaikib. Ei räägi debriefis.
+
+Ma lähenen. Külg külje kõrval.
+
+**Renee:** „Sa ei pea rääkima. Mis sa tunned kehas?“
+
+**Kursuslane:** „Kõhus. Nagu löök.“
 
 **Renee:** „Vaata siia.“
 
-Tõstan parema käe. Sõrm silmade ees. Aeglaselt. Vasakult paremale. Aeglaselt tagasi.
+Tõstan sõrme. Aeglaselt vasakult paremale. Tagasi.
 
-„Jälgi sõrme. Ära mõtle. Lihtsalt jälgi.“
+„Jälgi. Ära mõtle.“
 
-Kolm korda üle. Iga tsükkel umbes kümme sekundit.
+30 sekundit. Sügav hingamine. Siis üks lause:
 
-Tanel hakkab hingama. Mitte pindmiselt — sügavalt. Rind liigub. Kõht lõdvestub.
+**„Ma kartsin.“**
 
-Siis tuleb üks lause. Mitte lugu. Mitte selgitus.
+Ma ei teadnud, et see on **EMDR**. Hiljem lugesin van der Kolk *The Body Keeps the Score* — peatükk 15. Naersin. Aju töötleb REM-uni silmaliigutuste ajal. Trauma jääb kehasse, sest protsess ei lõppenud.
 
-**Tanel:** „Ma kartsin.“
-
-Ma ei teadnud tollal, et see on **EMDR**. Ma teadsin, et see töötab. Olin seda teinud kümnetele meestele. Enne kui keegi mulle ütles sõna *bilateral stimulation*.
-
-Hiljem, kui lugesin van der Kolk raamatut *The Body Keeps the Score*, naersin. Seal oli peatükk 15: *Letting Go of the Past: EMDR*. Aju töötleb mälu REM-uni silmaliigutuste ajal. Trauma jääb kehasse, sest keha ei saanud protsessi lõpetada.
-
-Ma olin seda juba teinud. Ilma sertifikaadita. Ilma teooriata. Sest **keha ütles mulle**, et see vajab liikumist.
+Ma olin seda juba teinud. Kutsekoolis. Lapsevanemana. SOK-is. Ilma sertifikaadita. Sest **keha ütles mulle**, et see vajab liikumist.
 
 ---
 

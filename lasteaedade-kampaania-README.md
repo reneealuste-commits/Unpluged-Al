@@ -8,8 +8,9 @@ Tasuta uuring lasteaedade direktoritele: 5–10 minutine rahulik hetk ühe lapse
 |------|-----------|
 | `roheline-vaikuse-uuring-lasteaedadele.pdf` | **Saada lasteaedadele** — lihtne uuring (nagu 5-aastasele) |
 | `lasteaedade-email-mustand.md` | E-kirja tekst direktoritele |
-| `data/lasteaedade-andmebaas.csv` | ~648 lasteaeda (OSM) |
-| `data/lasteaedade-email-list.csv` | 151 emailiga lasteaeda |
+| `data/lasteaedade-andmebaas.csv` | ~656 lasteaeda (OSM + teatmik) |
+| `data/lasteaedade-kontakt-list.csv` | **185 lasteaeda telefoniga ja/või emailiga** |
+| `data/lasteaedade-andmebaas.json` | Sama andmebaas JSON-is |
 | `scripts/loo_lasteaedade_andmebaas.py` | Andmebaasi uuendamine |
 | `scripts/loo_roheline_vaikuse_uuring.py` | PDF genereerimine |
 

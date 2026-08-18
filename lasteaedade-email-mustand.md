@@ -55,7 +55,7 @@ Lugupidamisega,
 2. **Isikusta** — lisa lasteaia nimi ja linn.
 3. **Manus max 5 MB** — PDF sobib.
 4. **GDPR** — saadad haridusasutuse avalikule kontaktile, mitte eraisikule.
-5. **Email-list:** `data/lasteaedade-email-list.csv` (155+ email OSM-ist; lisa direktor_email käsitsi).
+5. **Kontakt-list:** `data/lasteaedade-kontakt-list.csv` (185 lasteaeda telefoniga ja/või emailiga)
 
 ## Allikad andmebaasi täiendamiseks
 
@@ -64,4 +64,5 @@ Lugupidamisega,
 | EHIS avaandmed | enda.ehis.ee/avaandmed | Reg.kood, kontaktid (API hetkel ebastabiilne) |
 | Haridussilm.ee | haridussilm.ee | Statistika, eksport |
 | Teatmik.haridus.ee | teatmik.haridus.ee/kindergartens | Direktorid, emailid (Tallinn jt) |
-| Meie OSM andmebaas | data/lasteaedade-andmebaas.csv | ~665 lasteaeda, 155 emailiga |
+| Meie andmebaas | data/lasteaedade-andmebaas.csv | ~656 lasteaeda, 169 telefoniga, 155 emailiga |
+| Kontakt-list | data/lasteaedade-kontakt-list.csv | 185 kirjet telefon + email saatmiseks |

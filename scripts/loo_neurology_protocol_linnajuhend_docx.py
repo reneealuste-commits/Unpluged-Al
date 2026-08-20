@@ -1,9 +1,16 @@
 #!/usr/bin/env python3
 """Genereerib NEUROLOGY PROTOCOL linnajuhendi Wordi dokumendina (korter, pakiautomaat, linnarajad)."""
 
+import sys
 from datetime import date
+from pathlib import Path
 
 from docx import Document
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from loo_np1_kalender import generate_all  # noqa: E402
+
+GITHUB_ICS_BASE = "https://github.com/reneealuste-commits/Unpluged-Al/raw/main/np1-calendar/"
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
@@ -376,6 +383,63 @@ add_table(
         ["Metüleenisinine", "VitaBlue", "~30–40 €", "3–7 p"],
         ["RLT paneel (valikuline)", "Kratomit", "~446 €", "1–2 näd"],
     ],
+)
+
+doc.add_page_break()
+
+# === KALENDRIKUTSED ===
+cal = generate_all()
+
+add_heading("Kalendrikutsed — ühe klõpsuga", 1)
+add_normal(
+    "Klõpsa lingil → kinnita kalendris → igapäevane meeldetuletus on olemas. "
+    "Iga sündmus kordub iga päev; 10 min enne tuleb alarm.",
+    size=10,
+)
+
+add_heading("Google Calendar (telefon + arvuti)", 2)
+add_normal("Soovitatav. Avab Google'i kalendri Lisa sündmus ekraani - vajuta Salvesta.", size=10)
+add_link_line(
+    "Mobiilileht — kõik nupud ühes kohas",
+    "https://htmlpreview.github.io/?https://github.com/reneealuste-commits/Unpluged-Al/raw/main/np1-calendar/index.html",
+    "ava telefonis, klõpsa sündmust",
+)
+for title, url in cal["google"]:
+    add_link_line(title, url, "→ Lisa kalendrisse")
+
+add_heading("Apple Calendar / Outlook (.ics fail)", 2)
+add_normal(
+    "Laadi .ics alla, ava fail, vali Lisa kõik / Add to Calendar. Või impordi Outlookis.",
+    size=10,
+)
+add_link_line(
+    "KÕIK 6 meeldetuletust korraga",
+    GITHUB_ICS_BASE + "NP1-koik-meeldetuletused.ics",
+    "soovitatav — üks import",
+)
+for title, filename in cal["ics"]:
+    if "korraga" in title.lower():
+        continue
+    add_link_line(title, GITHUB_ICS_BASE + filename)
+
+add_heading("Outlook.com (veeb)", 2)
+for title, url in cal["outlook"]:
+    add_link_line(title, url)
+
+add_table(
+    ["Aeg", "Sündmus", "Kestus"],
+    [
+        ["07:00", "Hommik — MB, Mag, seened, nikotiin", "30 min"],
+        ["12:30", "Keskpäev — punane valgus + lisandid", "30 min"],
+        ["17:30", "Õhtu — 1 h looduses", "60 min"],
+        ["20:30", "Loojang — melatoniin + glutatioon", "15 min"],
+        ["22:00", "Öö — meditatsioon 35 min", "35 min"],
+        ["05:30", "Varahommik", "15 min"],
+    ],
+)
+add_normal(
+    "Kohanda kellaaegu oma rütmi järgi. Loojangu aega (20:30) muuda hooajaliselt.",
+    size=10,
 )
 
 add_heading("Linna nipid", 1)

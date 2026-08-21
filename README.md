@@ -10,6 +10,7 @@ Strateegiline ja hariduslik dokumentatsioon — Operation Mirror, HY1, DP1.
 | **TLP** | Perekonna ehitamine (5 etappi) | `plaankonspekt-tlp-ranger-perekonna-ehitamine.md` · `Plaankonspekt-TLP-Ranger-Perekonna-Ehitamine.docx` |
 | **DP1** | Diplomaatia sõltlasega | `diplomaatia-soltlasega-*.md` · `Diplomaatia-DP1.docx` |
 | **Raport** | Hüpnoteraapia + ohvriabi | `hupnoteraapia-teenused-ohvriabi-raport.md` |
+| **MN×H2H** | Maleva Nõukogu × How2Human — juhtide ruum | `maleva-noukogu-how2human-plaankonspekt.md` |
 
 ## DP1 — kiirlinkid
 

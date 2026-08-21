@@ -10,7 +10,7 @@ Strateegiline ja hariduslik dokumentatsioon — Operation Mirror, HY1, DP1.
 | **TLP** | Perekonna ehitamine (5 etappi) | `plaankonspekt-tlp-ranger-perekonna-ehitamine.md` · `Plaankonspekt-TLP-Ranger-Perekonna-Ehitamine.docx` |
 | **DP1** | Diplomaatia sõltlasega | `diplomaatia-soltlasega-*.md` · `Diplomaatia-DP1.docx` |
 | **Raport** | Hüpnoteraapia + ohvriabi | `hupnoteraapia-teenused-ohvriabi-raport.md` |
-| **MN×H2H** | Maleva Nõukogu × How2Human — juhtide ruum | `maleva-noukogu-how2human-plaankonspekt.md` |
+| **MN×H2H** | Maleva Nõukogu × How2Human — juhtide ruum | `maleva-noukogu-how2human-plaankonspekt.md` · `how2human-elicitation-juhend.md` · `how2human-elicitation-koolituskaart.pdf` |
 
 ## DP1 — kiirlinkid
 
@@ -33,6 +33,16 @@ python3 scripts/loo_diplomaatia_koolituskaart.py
 
 ```bash
 python3 scripts/loo_plaankonspekt_tlp_ranger.py
+```
+
+## MN×H2H — Maleva Nõukogu + How2Human
+
+- [Plaankonspekt](maleva-noukogu-how2human-plaankonspekt.md)
+- [Juhend H2H](how2human-elicitation-juhend.md)
+- [Koolituskaart PDF](how2human-elicitation-koolituskaart.pdf)
+
+```bash
+python3 scripts/loo_how2human_koolituskaart.py
 ```
 
 ## HY1 — kiirlinkid

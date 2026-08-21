@@ -12,7 +12,7 @@
 | **Formaat** | 12–20 kohta · 2 päeva · 1-on-1 + debrief |
 | **Koostaja** | Renee Aluste |
 | **Versioon** | 1.1 · 21. august 2026 |
-| **Seotud** | `juhtimisvideo-riho-remo-oppejuhend.md` · `debrief-kaart-malevapealik.pdf` · `olessanded-alluksustele.md` · EF Council ([video](https://youtu.be/tU_Dl0Ic3ao)) |
+| **Seotud** | `how2human-elicitation-juhend.md` · `how2human-elicitation-koolituskaart.md` · `juhtimisvideo-riho-remo-oppejuhend.md` · `debrief-kaart-malevapealik.pdf` · `olessanded-alluksustele.md` · EF Council ([video](https://youtu.be/tU_Dl0Ic3ao)) |
 
 ---
 
@@ -57,15 +57,12 @@ See **on**:
                     MALEVA NÕUKOGU
                    (juhtide ruum · 2 päeva)
                            │
-        ┌──────────────────┼──────────────────┐
-        │                  │                  │
-    RATS              SUHTLUS           HOW2HUMAN
-  (hobune)         (juht ↔ meeskond)   (inimene ↔ inimene)
-        │                  │                  │
-        └──────────────────┴──────────────────┘
-                           │
-                    ELICITATION
-            (väljakutsumine · ilma uurimiseta)
+     ┌─────────┬───────────┼───────────┬─────────┐
+     │         │           │           │         │
+   RATS    SUHTLUS    HOW2HUMAN   ELICITATION
+ (hobune) (debrief)  (2 inimest) (väljakutsumine)
+     │         │           │           │         │
+     └─────────┴───────────┴───────────┴─────────┘
                            │
                       DEBRIEF
               (lahendused · 1-on-1 · protokoll)
@@ -308,6 +305,7 @@ Combat Ready intro (2h)  →  Maleva Nõukogu (2p)  →  Igakuine debrief (malev
 | 2 | Rantso partner + rats + ambu/vibu instruktor | 4 nädalat |
 | 3 | Piloot **12 kohta** — 1 malev + 5 tsiviiljuhti + 6 ettevõtte | Q1 2027 |
 | 4 | Landing (1 leht) + kvalifikatsioonivorm | 6 nädalat |
+| 4b | **H2H** juhend + koolituskaart (`how2human-elicitation-*`) | ✅ v1.0 |
 | 5 | EF Council video stiilis **60s reklaam** (eesti keeles) | 8 nädalat |
 | 6 | Debrief #1 — skaleeri või korrigeeri | +2 nädalat pärast pilooti |
 
@@ -320,4 +318,4 @@ Combat Ready intro (2h)  →  Maleva Nõukogu (2p)  →  Igakuine debrief (malev
 
 ---
 
-*Seotud: `OPORD-sise.md` · `debrief-kaart-malevapealik.pdf` · `juhtimisvideo-riho-remo-oppejuhend.md` · [EF Council video](https://youtu.be/tU_Dl0Ic3ao)*
+*Seotud: `how2human-elicitation-juhend.md` · `how2human-elicitation-koolituskaart.pdf` · `OPORD-sise.md` · `debrief-kaart-malevapealik.pdf` · `juhtimisvideo-riho-remo-oppejuhend.md` · [EF Council video](https://youtu.be/tU_Dl0Ic3ao)*

@@ -11,14 +11,14 @@
 | **Asukoht** | Hobuserantso (ratsutamine + vaiksed „vahehetked“) |
 | **Formaat** | 12–20 kohta · 2 päeva · 1-on-1 + debrief |
 | **Koostaja** | Renee Aluste |
-| **Versioon** | 1.0 · 21. august 2026 |
+| **Versioon** | 1.1 · 21. august 2026 |
 | **Seotud** | `juhtimisvideo-riho-remo-oppejuhend.md` · `debrief-kaart-malevapealik.pdf` · `olessanded-alluksustele.md` · EF Council ([video](https://youtu.be/tU_Dl0Ic3ao)) |
 
 ---
 
 ## 1. MIS SEE ON — ÜHE LAUSEGA
 
-> **Maleva Nõukogu** on piiratud kohtadega **juhtide ruum**, kus neli kihti — **rats, suhtlus, How2Human, debrief** — annavad tippjuhile praktilised lahendused unikaalsetele väljakutsetele.
+> **Maleva Nõukogu** on piiratud kohtadega **juhtide ruum**, kus viis kihti — **rats, suhtlus, How2Human, elicitation, debrief** — annavad tippjuhile praktilised lahendused unikaalsetele väljakutsetele.
 
 See **ei ole**:
 - ❌ konverents ega „juhtimispäev“
@@ -64,6 +64,9 @@ See **on**:
         │                  │                  │
         └──────────────────┴──────────────────┘
                            │
+                    ELICITATION
+            (väljakutsumine · ilma uurimiseta)
+                           │
                       DEBRIEF
               (lahendused · 1-on-1 · protokoll)
 ```
@@ -73,7 +76,8 @@ See **on**:
 | **1** | **Rats Juhtimine** | Usaldus, fookus, juht ilma sundimata — hobune peegeldab juhti |
 | **2** | **Suhtlus Juht** | Aus side meeskonnaga; debrief; „mida ma tegelikult ütlesin?“ |
 | **3** | **How2Human** | Kehakeel, peegeldamine, kuulamine — **kaks inimest**, üks ruum |
-| **4** | **Debrief & Lahendus** | Extreme Ownership + `debrief-kaart-malevapealik.pdf` protokoll |
+| **4** | **Elicitation** | Tõe, hirmu ja tegelike motiivide **väljakutsumine** ilma „miks sa seda tegid?“ |
+| **5** | **Debrief & Lahendus** | Extreme Ownership + `debrief-kaart-malevapealik.pdf` protokoll |
 
 ---
 
@@ -83,13 +87,14 @@ See **on**:
 
 Kaks inimest. Üks ruum. Null slaidi.
 
-### 4.1 Kolm oskust
+### 4.1 Neljaks oskust
 
 | Oskus | Mida õpid | Praktiline tulemus |
 |-------|-----------|-------------------|
 | **Kehakeele lugemine** | Mikroilmid, postuur, tempo, vaikus | Sa näed, **mis tegelikult toimub**, enne kui keegi seda ütleb |
 | **Peegeldamine (mirroring)** | Keha, tempo, sõnavalik (subtle) | Rapport ilma manipulatsioonita — teine tunneb, et teda **nähtakse** |
 | **Peegeldamine (reflecting)** | „Ma kuulen, et…“ + emotsiooni nimetamine | Konflikt → selgus; alluv julgeb rääkida |
+| **Elicitation** | Info ja aususe **väljakutsumine** ilma uurimisena | Sa kuuled, mida meeskond **tegelikult** arvab — mitte seda, mida nad arvavad, et sa tahad kuulda |
 
 ### 4.2 How2Human harjutused (rantso)
 
@@ -100,13 +105,55 @@ Kaks inimest. Üks ruum. Null slaidi.
 | H3 | **Vaikuse 90 sek** | 10 min | Kaks juhti. 90 s vaikus. Mida märkasid teises? |
 | H4 | **Rats peegeldab** | 45 min | Hobune reageerib kohe — juht näeb oma keha-keha suhet **reaalajas** |
 | H5 | **1-on-1 nõu** | 30 min | Mentor + osaleja. How2Human protokoll. Konfidentsiaalne. |
+| H6 | **Elicitation ring** | 25 min | Rolimäng: too välja **tegelik** mure ilma otsese küsimuseta. Debrief. |
 
-### 4.3 How2Human reeglid
+### 4.3 Elicitation — väljakutsumine
+
+**Elicitation** = kunst panna teine **julgelt rääkima**, ilma et ta tunneks uurimist, kohtupingi ega „360-kraadi tagasisidet“.
+
+Juht vajab seda, sest:
+- Meeskond **vaikib**, kui juht küsib otse: *„Mis on probleem?“*
+- Partner/partnerid **kaitsvad**, kui tunnevad otsust juba tehtud
+- Tippjuht elab **info mullis** — keegi ei ütle talle tõde
+
+**Eetika (kohustuslik):**
+- Eesmärk = **mõista ja lahendada**, mitte manipuleerida või petta
+- Kehtib **konfidentsiaalsus** — see, mis tuleb välja, ei tohi saada relvaks
+- **Ei ole** luuretehnika vaenlase vastu — on **juhi aususe** tööriist
+- Seotud DP1 loogikaga: kuula, ära uuri (`diplomaatia-soltlasega-juhend.md`)
+
+#### 4.3.1 Viis elicitation-tehnikat
+
+| # | Tehnika | Näide | Mida saad |
+|---|---------|-------|-----------|
+| E1 | **Eeldus-lause** | „Enamik juhte sinu positsioonis kurdavad, et meeskond lihtsalt kuuleb, aga ei tee…“ | Teine parandab või kinnitab — **tõde tuleb välja** |
+| E2 | **Tahtlik eksitus** | „Mulle tundus, et eile koosolekul kõik olid nõus.“ | „Ei, tegelikult…“ — keegi täidab lüngad |
+| E3 | **Vahemik** | „Kas see venis nädalaid või kuudeks?“ | Täpsem vastus ilma „kui kaua?“ |
+| E4 | **Kolmas osapool** | „Mõni inimene on maininud, et protsess on aeglane — ma ei tea, kas see on õige…“ | Teine distantsilt räägib ausalt |
+| E5 | **Vaikus pärast osalist vastust** | Nods + 5 sek vaikust | Inimene täidab vaikuse **täisega** |
+
+#### 4.3.2 Elicitation + kehakeel
+
+| Kehasignaal | Tõlgendus | Sinu tegevus |
+|-------------|-----------|--------------|
+| Keha eemale, käed ristis | Kaitse | **Ära** küsi otse. Kasuta E1 või E4. |
+| Mikro-kõhkumine enne „jah“ | Ei ole nõus | E2: „Mulle tundus teistmoodi…“ |
+| Kiire jutt, üldised sõnad | Varjab konkreetset | E3 + vaikus (E5) |
+| Silmade vältimine → vaatab | Valmis rääkima, aga ootab luba | Reflect: „Ma näen, et sul on midagi…“ |
+
+#### 4.3.3 Juhi debrief pärast elicitationit
+
+1. **Mis ma kuulsin**, mida varem ei kuulnud?
+2. **Kuidas ma seda välja kutsusin** — milline tehnika töötas?
+3. **Mis muutus minu otsuses** 72h jooksul?
+
+### 4.4 How2Human reeglid
 
 1. **Konfidentsiaalsus** — mis ruumis, jääb ruumi (v.a. oht)
 2. **Juht räägib esimesena ausalt** — siis teised julgevad
 3. **Peegeldamine ≠ kopeerimine** — subtle, mitte karikatuur
 4. **Keha enne sõna** — enne vastamist 3 sekundit: „mis mu kehas toimub?“
+5. **Elicitation ≠ manipulatsioon** — kui sa ei ole valmis kuulma vastust, ära küsi
 
 ---
 
@@ -136,6 +183,7 @@ Põhineb Remo Ojaste / Extreme Ownership loogikal (`juhtimisvideo-riho-remo-oppe
 | Vastutus | „Mida **mina** tegin valesti?“ |
 | Ego | „Kus ma kaitse ennast, mitte missiooni?“ |
 | Info | „Mida ma ei tahtnud kuulda?“ |
+| Elicitation | „Kuidas ma info mulli ise lõin?“ |
 | Tegevus | „Mis on **üks** samm homme?“ |
 
 **Tööriist:** `debrief-kaart-malevapealik.pdf` — igale osalejale kaasa.
@@ -152,7 +200,7 @@ Põhineb Remo Ojaste / Extreme Ownership loogikal (`juhtimisvideo-riho-remo-oppe
 | 09:30 | **Avamine** | Miks sa siin oled? Mis on sinu **unique challenge**? (max 2 min inimese kohta) |
 | 10:30 | **Rats Juhtimine I** | Turvalisus, hobune, esimene kontakt |
 | 12:30 | Lõuna | Ühine laud — vestlus, mitte programm |
-| 14:00 | **How2Human H1–H3** | Kaks tooli · vaikus · kehakeel |
+| 14:00 | **How2Human H1–H3 + H6** | Kaks tooli · vaikus · kehakeel · **elicitation ring** |
 | 16:00 | **Precision** | Ambu/vibu (valik) + debrief iga seeria järel |
 | 18:00 | Vaba | Rantso, sauna, „vahehetked“ |
 | 20:00 | **Tule ring** | 1-on-1 vestlused · konfidentsiaalsus |
@@ -165,7 +213,7 @@ Põhineb Remo Ojaste / Extreme Ownership loogikal (`juhtimisvideo-riho-remo-oppe
 | 09:30 | **Suhtlus Juht** | Extreme Ownership tuum · Dixon / Ühtegi kontrast |
 | 11:00 | **Rats Juhtimine II** | Grupiülesanne hobustega · debrief |
 | 12:30 | Lõuna | |
-| 14:00 | **How2Human H5** | 1-on-1 mentorlus (30 min × osaleja) |
+| 14:00 | **How2Human H5 + Elicitation** | 1-on-1 mentorlus · elicitation tegeliku väljakutse jaoks |
 | 16:00 | **Lahenduste kaart** | Iga osaleja: 1 väljakutse · 1 lahendus · 1 samm 72h jooksul |
 | 17:00 | **Lõpetus** | Mitte „tänan, et tulite“ — *„Mida sa varastad ja rakendad?“* |
 
@@ -177,7 +225,7 @@ Põhineb Remo Ojaste / Extreme Ownership loogikal (`juhtimisvideo-riho-remo-oppe
 |---|---|---|
 | Keel | Inglise | **Eesti** (+ vajadusel EN grupp) |
 | Asukoht | Montana ranch | **Eesti hobuserantso** |
-| Precision | Tulirelv | **Ambu/vibu** + How2Human |
+| Precision | Tulirelv | **Ambu/vibu** + How2Human + elicitation |
 | Kultuur | Echelon Front | **Ühtegi + Remo + Malev** — kohalik identiteet |
 | Film/DNA | — | **Malev (2005)** — kärajad, Uru, kokku kutsumine |
 | Hind | $$$$$ | Premium, aga **Eesti reaalsus** (vt all) |
@@ -207,7 +255,7 @@ Põhineb Remo Ojaste / Extreme Ownership loogikal (`juhtimisvideo-riho-remo-oppe
 **Alapealkiri:** *Mitte seminar. Mitte retreat. Mitte grupp.*  
 
 **Keha:**
-> Kui sinu otsused mõjutavad miljoneid — vajad rohkem kui slaidid. Hobune. How2Human. Debrief. **12 kohta.**
+> Kui sinu otsused mõjutavad miljoneid — vajad rohkem kui slaidid. Hobune. How2Human. Elicitation. Debrief. **12 kohta.**
 
 **CTA:** *„Kas see on minu jaoks?“* → lühike kvalifikatsioonivorm (5 küsimust), mitte avalik piletimüük.
 
@@ -236,7 +284,7 @@ Combat Ready intro (2h)  →  Maleva Nõukogu (2p)  →  Igakuine debrief (malev
 | **Combat Ready / Remo** | Extreme Ownership intro enne nõukogu (valikuline) |
 | **Kaitseliit / malev** | Malevapealikud + maastiku side |
 | **Rantso** | Asukoht, rats, majutus |
-| **How2Human instruktor** | Kehakeel, peegeldamine |
+| **How2Human instruktor** | Kehakeel, peegeldamine, elicitation |
 | **Ambu/vibu instruktor** | Precision + ohutus |
 
 ---
@@ -247,7 +295,7 @@ Combat Ready intro (2h)  →  Maleva Nõukogu (2p)  →  Igakuine debrief (malev
 |---------|------|
 | Ratsutamine | Kiiver, kogenud instruktor, kindlustus |
 | Ambu/vibu | Ohutuskoolitus, 3D sihtmärgid, written brief |
-| How2Human | Konfidentsiaalsus leping · psühholoogiline turvalisus |
+| How2Human / Elicitation | Konfidentsiaalsus leping · psühholoogiline turvalisus · eetika brief enne H6 |
 | Üritus | Osaleja leping · foto/video reeglid |
 
 ---

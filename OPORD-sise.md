@@ -2,7 +2,7 @@
 ## Siseoperatiivkorraldus (MITTE AVALIK)
 
 > **Operatsioon:** OPERATION MIRROR / ÕLESSANDED ALLÜKSUSTELE  
-> **Versioon:** 1.1 · **Kuupäev:** 2026-08-15  
+> **Versioon:** 1.1++ · **Kuupäev:** 2026-09-20  
 > **Klassifikatsioon:** SISE — partneritele jagada valikuliselt  
 > **Asukoht:** Eesti (15 malevat) · piloot: Sakala, Jõgeva, **Tartu**  
 > **Faas 0 juhtimine:** `WARNO-001-sise.md` · `WARNO-001-Operation-Mirror.docx`
@@ -52,6 +52,7 @@
 | `juhtimisvideo-riho-remo-oppejuhend.md` | Juhtimiskuld |
 | `debrief-kaart-malevapealik.pdf` | **Annex A** — igakuine debrief |
 | `sandra-laur-osint-koostoo.md` | **Annex C** — taust + koostöö |
+| `annex-g-ajuvabadus-peegel-youtube.md` | **Annex G** — #ajuvabadus #peegel YouTube allikas |
 
 ---
 
@@ -174,10 +175,11 @@ Sakala: Sverre          JUP→KOV pipeline        Inimeste Fond täis
 
 | Dokument | Uuendus |
 |----------|---------|
-| OPORD sise | v1.1 — debrief + Laur |
+| OPORD sise | v1.1++ — + Annex G (#ajuvabadus #peegel) |
 | Debrief PDF | v1.0 |
 | Sandra Laur OSINT | v1.0 |
 | Excel Olessanded | Olemas |
+| Annex G YouTube | v1.0 — 2026-09-20 |
 
 ---
 
@@ -232,6 +234,7 @@ Kõik piloodid alluvad **juhtimisvideo** standardile:
 | **D** | `olessanded-alluksustele.md` | Malevapealiku ülesanded |
 | **E** | `Operation-Mirror-Pivot-Finants.xlsx` | Numbrid |
 | **F** | `WARNO-001-sise.md` · `WARNO-001-Operation-Mirror.docx` | Faas 0 hoiatkorraldus + 90-päeva plaan |
+| **G** | `annex-g-ajuvabadus-peegel-youtube.md` | YouTube allikas — `#ajuvabadus #peegel` (teabeväli; ei ole FRAGO) |
 
 ---
 
@@ -242,6 +245,7 @@ Kõik piloodid alluvad **juhtimisvideo** standardile:
 | 1.0 | 2026-08-15 | Esialgne OPORD (Mirror + Õlessanded) |
 | **1.1** | **2026-08-15** | **+ Debrief Annex A · + Sandra Laur Tartu sõlm · + juhtimisstandard · kanep Lauriga kõrvale** |
 | **1.1+** | **2026-08-15** | **+ WARNO 001 (Faas 0) — H-14/H-7/H-Hour ajakava, 3 maleva pilot** |
+| **1.1++** | **2026-09-20** | **+ Annex G — YouTube `#ajuvabadus #peegel` allikas (Putin / Ukraina sõja algus narratiiv)** |
 
 ---
 

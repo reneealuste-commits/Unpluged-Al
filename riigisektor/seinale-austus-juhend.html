@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="et">
+<head>
+  <meta charset="utf-8">
+  <title>Seinale - Austus ja lugupidav suhtlus</title>
+  <style>
+    @page { size: A4 portrait; margin: 8mm; }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: "Segoe UI", Calibri, Arial, sans-serif;
+      color: #1a2e44; background: #fff; line-height: 1.35;
+    }
+    .poster { max-width: 194mm; margin: 0 auto; padding: 2mm 1mm; }
+    header {
+      text-align: center; border-bottom: 3px solid #1a3a5c;
+      padding-bottom: 3mm; margin-bottom: 3mm;
+    }
+    .org {
+      font-size: 11pt; letter-spacing: 0.12em; text-transform: uppercase;
+      color: #4a6278; font-weight: 600;
+    }
+    h1 { font-size: 22pt; color: #1a3a5c; margin: 2mm 0 1mm; line-height: 1.1; }
+    .subtitle { font-size: 10pt; color: #3d5568; }
+    .values {
+      display: flex; justify-content: center; gap: 3mm;
+      margin: 3mm 0 4mm; flex-wrap: wrap;
+    }
+    .value {
+      background: #1a3a5c; color: #fff; padding: 2.5mm 5mm;
+      border-radius: 3mm; font-weight: 700; font-size: 11pt;
+    }
+    .hero {
+      background: linear-gradient(135deg, #eef4fa 0%, #f8fbfe 100%);
+      border: 2px solid #1a3a5c; border-radius: 3mm;
+      padding: 3mm 4mm; text-align: center; margin-bottom: 3mm;
+    }
+    .hero-label {
+      font-size: 10pt; text-transform: uppercase; letter-spacing: 0.1em;
+      color: #4a6278; margin-bottom: 3mm; font-weight: 600;
+    }
+    .chain { font-size: 13pt; font-weight: 800; color: #1a3a5c; line-height: 1.35; }
+    .chain span { color: #2d6a9f; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 3mm; margin-bottom: 3mm; }
+    .card {
+      border: 1.5px solid #c5d4e3; border-radius: 2mm;
+      padding: 2.5mm; background: #fafcfe;
+    }
+    .card h2 {
+      font-size: 11pt; color: #1a3a5c; margin-bottom: 3mm;
+      text-transform: uppercase; letter-spacing: 0.06em;
+      border-bottom: 2px solid #1a3a5c; padding-bottom: 1.5mm;
+    }
+    .card ul { list-style: none; }
+    .card li { font-size: 9pt; padding: 0.6mm 0 0.6mm 4mm; position: relative; }
+    .card li::before {
+      content: "\2022"; position: absolute; left: 0;
+      color: #2d6a9f; font-weight: bold;
+    }
+    .card .chain-sm {
+      font-size: 10.5pt; font-weight: 700; color: #1a3a5c;
+      line-height: 1.45; margin-top: 1mm;
+    }
+    .questions {
+      background: #1a3a5c; color: #fff; border-radius: 3mm;
+      padding: 3mm; text-align: center; margin-bottom: 3mm;
+    }
+    .questions h2 {
+      font-size: 10pt; text-transform: uppercase; letter-spacing: 0.1em;
+      margin-bottom: 3mm; opacity: 0.9;
+    }
+    .questions p { font-size: 12pt; font-weight: 700; line-height: 1.5; }
+    .footer {
+      display: grid; grid-template-columns: 1fr 1fr; gap: 4mm;
+      font-size: 9pt; color: #4a6278;
+      border-top: 1px solid #c5d4e3; padding-top: 4mm;
+    }
+    .footer strong { color: #1a3a5c; display: block; margin-bottom: 1mm; }
+    .emergency {
+      background: #fff3f3; border: 1.5px solid #c44; border-radius: 2mm;
+      padding: 2mm; font-size: 9pt; color: #8b1a1a; font-weight: 700;
+      text-align: center; margin-bottom: 3mm;
+    }
+    @media print {
+      body { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+      .poster { max-width: none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="poster">
+    <header>
+      <div class="org">Tallinna Tehnoloogiakolledz Techno TLN · Riigisektor</div>
+      <h1>Austus ja lugupidav suhtlus</h1>
+      <div class="subtitle">Seinale riputatav juhend · Selgus ja turvalisus kogu kooliperele</div>
+    </header>
+    <div class="values">
+      <span class="value">Kvaliteet</span>
+      <span class="value">Kättesaadavus</span>
+      <span class="value">Hoolivus</span>
+    </div>
+    <section class="hero">
+      <div class="hero-label">Iga päev · Kõigile rollidele</div>
+      <div class="chain">
+        Kuula <span>→</span> Vasta <span>→</span> Ole kohal <span>→</span>
+        Aita suunata <span>→</span> Teata ohtu
+      </div>
+    </section>
+    <div class="grid">
+      <section class="card">
+        <h2>Enne kui reageerid</h2>
+        <ul>
+          <li>Kas ma kuulan?</li>
+          <li>Kas ma alavääristan?</li>
+          <li>Kas on turvaline?</li>
+          <li>Kuhu raporteerin?</li>
+        </ul>
+      </section>
+      <section class="card">
+        <h2>Y-juhtimine · Juht ja õpetaja</h2>
+        <div class="chain-sm">
+          MIKS <span style="color:#2d6a9f">→</span> Kuula <span style="color:#2d6a9f">→</span> Ole aus
+          <span style="color:#2d6a9f">→</span> Ole kohal <span style="color:#2d6a9f">→</span>
+          Aita arendada <span style="color:#2d6a9f">→</span> Tunnusta
+        </div>
+        <ul style="margin-top:3mm">
+          <li>Selgita MIKS enne kui nõuad</li>
+          <li>Ole treener, mitte ainult ülemus</li>
+          <li>Sõnad ja teod peavad klappima</li>
+        </ul>
+      </section>
+      <section class="card">
+        <h2>Ei ole lubatud</h2>
+        <ul>
+          <li>Solvamine, häbistamine, alavääristamine</li>
+          <li>Karjumine, ignoreerimine, diskrimineerimine</li>
+          <li>Vägivald, ähvardus või selle õhutamine</li>
+          <li>Kiusamise vaikimine — reageeritakse 24 h jooksul</li>
+        </ul>
+      </section>
+      <section class="card">
+        <h2>Kuhu pöörduda</h2>
+        <ul>
+          <li>Vahetu ülemus / klassijuhataja</li>
+          <li>Sotsiaalpedagoog, personal, õppejuht</li>
+          <li>info@techno.ee · personal@techno.ee</li>
+          <li>Kriis: turvatöö, juhtkond, 112</li>
+        </ul>
+      </section>
+    </div>
+    <div class="emergency">
+      Oht elule või tervisele: 112 &nbsp;|&nbsp; Vaimne kriis: 116 123 &nbsp;|&nbsp;
+      Tööõnnetus töökojas: peata töö, teata kohe
+    </div>
+    <section class="questions">
+      <h2>Kui inimene tundub juhitamatu</h2>
+      <p>Kas mina juhin nii, et ta saaks kuulda?</p>
+    </section>
+    <footer class="footer">
+      <div>
+        <strong>Põhimõte</strong>
+        Austus on käitumine. Lugupidamine on protsess. Turvalisus on esimene.
+      </div>
+      <div>
+        <strong>Allikad</strong>
+        Techno TLN sisekorra eeskiri · Alar Ojastu, Ratsionaalne emotsionaalsus
+        <br>techno.ee · Prindi A4 või A3 · Kehtib kogu kooliperele
+      </div>
+    </footer>
+  </div>
+</body>
+</html>

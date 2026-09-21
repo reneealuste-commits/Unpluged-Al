@@ -1,0 +1,1 @@
+Tee F — juht / koolitus.

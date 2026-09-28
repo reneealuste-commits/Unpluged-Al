@@ -30,6 +30,7 @@ Fail: **`Eesti-Kanepimajandus-5a-Finantsmudel.xlsx`**
 | Tulud | 9 tuluvoogu (tööstus, growshop, liising, turg…) |
 | Kulud | Palgad, toetused, liising, koolid |
 | Kasumiaruanne | P&L + Eesti Tuleviku Fondi jaotus |
+| Finantsstrateegia | Ray Dalio: 8 mitte-korrelatsioonset tuluvoogu |
 | 5a arenguplaan | Aasta-kaupa tegevused |
 | Puukoolid | Toetused ja boonused |
 | Growshop mudel | Välismaa vs Eesti võrdlus |
@@ -50,6 +51,41 @@ Fail: **`Eesti-Kanepimajandus-5a-Finantsmudel.xlsx`**
 | **Töökohad** | 45 | 120 | 280 | 450 | 650 |
 
 *A1 on investeeringuaasta — see on normaalne ja planeeritud.*
+
+### 2.1 Eesti finantsstrateegia — 8 mitte-korrelatsioonset varaklassi
+
+**Ray Dalio** (Bridgewater) põhimõte, mida **Tony Robbins** populariseeris raamatus *Money: Master the Game* (*All Seasons* portfell):
+
+> *Leia mitte-korrelatsioonseid tuluvooge ja investeeri neisse — nii üks sektori krahh ei viib kõike alla.* (Dalio soovitab 15–20; Eesti mudel **8 voogu** — lihtne juhtida.)
+
+See ei tähenda börsil 20 aktsiat. See tähendab: **Eesti riigi ja Inimeste Fondi raha ei peaks sõltuma ühest majandusharust, ühest poliitilisest otsusest ega ühest turust.**
+
+#### Miks see sobib ERMA + Inimeste Fondi mudeliga
+
+| Dalio loogika | Eesti rakendus |
+|---------------|----------------|
+| Mitte-korrelatsioon = risk jaotatud | 8 voogu = macro 40/30/20/10 |
+| Defensiiv + offensiiv koos | Päikesepargid (energia) + growshop (tarbimine) + Mirror säästud |
+| Inflatsioon + deflatsioon | Tootlik vara (masinad) + sotsiaal (BI) + teadus |
+| Üks lugu ei tapab portfelli | Must turg väheneb, eksport kasvab — erinevad ajastused |
+
+#### 8 mitte-korrelatsioonset tuluvoogu (A5 sihtmudel)
+
+| # | Tuluvoog / varaklass | Korrelatsioon | Fondi siht % | Märkus |
+|---|----------------------|---------------|--------------|--------|
+| 1 | Päikesepargid + salvestus | Energia ≠ tarbimine | 40% | 8× 5MW parki |
+| 2 | Liisingumasinad + robotid | Tootlik vara ≠ börs | 10% | Paid off → vaba kassa |
+| 3 | Tööstuskanep + eksport + CBD | Ekspordi tsükkel | 10% | Kiud, kosmeetika |
+| 4 | Growshop + reguleeritud turg | Kohalik tarbimine | 10% | Asendab importi |
+| 5 | Puukoolid + maaelu (LEADER) | Maaelu ≠ börs | 5% | 30 puukooli A5 |
+| 6 | Haridus + kutsekool | Inimkapital | 5% | Uus eriala |
+| 7 | Mirror säästud + teadus (EPM) | Bürokraatia + pikaajaline | 5% | ~€35M/a + patendid |
+| 8 | Basic income + kriisivarud | Sotsiaal, defensiivne | 20% | 10k × 200€ + 2-nädala reegel |
+| | **KOKKU** | **8 voogu** | **100%** | Dalio täisversioon: 15–20 |
+
+**Reegel:** uut raha ei suunata ühte projekti, kui see **dubleerib** olemasolevat korrelatsiooni (nt veel üks growshop samas linnas). Eelistada voogu, mis **täiendab** portfelli.
+
+Täielik tabel Excelis: `Operation-Mirror-Pivot-Finants.xlsx` → leht **Finantsstrateegia**.
 
 ---
 

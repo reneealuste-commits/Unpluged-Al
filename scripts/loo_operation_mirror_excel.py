@@ -100,7 +100,7 @@ summary = [
     ("", "", "", "", "", "", ""),
     ("PÕHIMÕTE", "Operation Mirror", "", "", "", "Peegeldab bürokraatiat, ei hävita taristut", ""),
     ("", "Hemp Authority", "", "", "", "Maksab enda eest A3-st", ""),
-    ("", "Inimeste Fond", "", "", "", "40% päike, 30% tööstus, 20% BI, 10% haridus", ""),
+    ("", "Inimeste Fond", "", "", "", "Dalio: 8 voogu; macro 40/30/20/10", ""),
 ]
 write_rows(ws, 3, summary)
 style_header(ws, 3, 7)
@@ -459,6 +459,43 @@ jup = [
 write_rows(ws12, 27, jup)
 style_header(ws12, 27, 6)
 style_table(ws12, 28, 33, 6)
+
+# ═══════════════════════════════════════════════════════════
+# LEHT 13: FINANTSSTRATEEGIA — DALIO / ROBBINS
+# ═══════════════════════════════════════════════════════════
+ws13 = wb.create_sheet("Finantsstrateegia")
+add_title(ws13, "EESTI FINANTSSTRATEEGIA — 8 MITTE-KORRELATSIOONSET VOOGU (RAY DALIO / TONY ROBBINS)", 6)
+set_widths(ws13, [8, 28, 22, 12, 14, 38])
+
+ws13.merge_cells("A2:F2")
+ws13.cell(
+    row=2,
+    column=1,
+    value=(
+        "Põhimõte — Ray Dalio (Bridgewater): leia mitte-korrelatsioonseid tulovooge ja investeeri neisse "
+        "(täisversioon 15–20). Eesti mudel: 8 voogu = macro 40/30/20/10. "
+        "Tony Robbins: *Money: Master the Game*, All Seasons portfell."
+    ),
+).alignment = Alignment(wrap_text=True)
+
+fin_strat = [
+    ("#", "Tuluvoog / varaklass", "Korrelatsioon", "Siht %", "A5 € (84M)", "Märkus"),
+    ("1", "Päikesepargid + salvestus", "Energia ≠ tarbimine", 0.40, "=D4*84000000", "8× 5MW parki"),
+    ("2", "Liisingumasinad + robotid", "Tootlik vara ≠ börs", 0.10, "=D5*84000000", "Paid off → vaba kassa"),
+    ("3", "Tööstuskanep + eksport + CBD", "Ekspordi tsükkel", 0.10, "=D6*84000000", "Kiud, kosmeetika"),
+    ("4", "Growshop + reguleeritud turg", "Kohalik tarbimine", 0.10, "=D7*84000000", "Asendab importi"),
+    ("5", "Puukoolid + maaelu (LEADER)", "Maaelu ≠ börs", 0.05, "=D8*84000000", "30 puukooli"),
+    ("6", "Haridus + kutsekool", "Inimkapital", 0.05, "=D9*84000000", "Uus eriala"),
+    ("7", "Mirror säästud + teadus (EPM)", "Bürokraatia + pikaajaline", 0.05, "=D10*84000000", "~€35M/a + patendid"),
+    ("8", "Basic income + kriisivarud", "Sotsiaal, defensiivne", 0.20, "=D11*84000000", "10k × 200€ + varud"),
+    ("", "KOKKU (8 voogu)", "Macro 40/30/20/10", "=SUM(D4:D11)", "=SUM(E4:E11)", "100% Inimeste Fond A5"),
+]
+write_rows(ws13, 4, fin_strat)
+style_header(ws13, 4, 6, fill=PatternFill("solid", fgColor="6A1B9A"))
+style_table(ws13, 5, 13, 6)
+for r in range(5, 12):
+    ws13.cell(row=r, column=4).number_format = PCT
+    ws13.cell(row=r, column=5).number_format = EUR
 
 wb.save(OUTPUT)
 print(f"Salvestatud: {OUTPUT}")

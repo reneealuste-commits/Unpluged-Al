@@ -10,6 +10,7 @@ Strateegiline ja hariduslik dokumentatsioon — Operation Mirror, HY1, DP1.
 | **TLP** | Perekonna ehitamine (5 etappi) | `plaankonspekt-tlp-ranger-perekonna-ehitamine.md` · `Plaankonspekt-TLP-Ranger-Perekonna-Ehitamine.docx` |
 | **DP1** | Diplomaatia sõltlasega | `diplomaatia-soltlasega-*.md` · `Diplomaatia-DP1.docx` |
 | **Raport** | Hüpnoteraapia + ohvriabi | `hupnoteraapia-teenused-ohvriabi-raport.md` |
+| **IKJ** | Inimesekeskne juhtimine (Steiger) — TTS-tekstikoond | `Inimesekeskne-Juhtimine-TTS.docx` · `Inimesekeskne-Juhtimine-TTS.txt` |
 
 ## DP1 — kiirlinkid
 
@@ -44,4 +45,15 @@ python3 scripts/loo_plaankonspekt_tlp_ranger.py
 python3 scripts/loo_hypnoteraapia_test_nr1.py
 python3 scripts/loo_hypnoteraapia_docx.py
 python3 scripts/loo_hypnoteraapia_koolituskaart.py
+```
+
+## IKJ — Inimesekeskne juhtimine (TTS)
+
+Rudolf Steigeri raamatu kogu kõneldav tekst ühes failis: eessõnad, sissejuhatus ja peatükid 1–20. Sobib kopeerimiseks kõnerakendusse.
+
+- [Word DOCX](https://github.com/reneealuste-commits/Unpluged-Al/raw/main/Inimesekeskne-Juhtimine-TTS.docx)
+- [Puhas tekst](https://github.com/reneealuste-commits/Unpluged-Al/raw/main/Inimesekeskne-Juhtimine-TTS.txt)
+
+```bash
+python3 scripts/loo_inimesekeskne_tts_docx.py
 ```

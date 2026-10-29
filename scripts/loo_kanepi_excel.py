@@ -161,10 +161,12 @@ pl = [
     ("EBITDA %", "=B6/B4", "=C6/C4", "=D6/D4", "=E6/E4", "=F6/F4", ""),
     ("", "", "", "", "", "", ""),
     ("Jaotus Eesti Tuleviku Fondi:", "", "", "", "", "", ""),
-    ("  Päikesepargid (40%)", "=MAX(0,B6*0.4)", "=MAX(0,C6*0.4)", "=D6*0.4", "=E6*0.4", "=F6*0.4", ""),
-    ("  Tööstus + robotid (30%)", "=MAX(0,B6*0.3)", "=MAX(0,C6*0.3)", "=D6*0.3", "=E6*0.3", "=F6*0.3", ""),
-    ("  Basic income pilot (20%)", "=MAX(0,B6*0.2)", "=MAX(0,C6*0.2)", "=D6*0.2", "=E6*0.2", "=F6*0.2", ""),
-    ("  Uurimine + koolid (10%)", "=MAX(0,B6*0.1)", "=MAX(0,C6*0.1)", "=D6*0.1", "=E6*0.1", "=F6*0.1", ""),
+    ("  Päikesepargid (40%)", "=MAX(0,B6*0.4)", "=MAX(0,C6*0.4)", "=D6*0.4", "=E6*0.4", "=F6*0.4", "Macro-kott"),
+    ("  Tööstus + robotid (30%)", "=MAX(0,B6*0.3)", "=MAX(0,C6*0.3)", "=D6*0.3", "=E6*0.3", "=F6*0.3", "Macro-kott"),
+    ("  Basic income pilot (20%)", "=MAX(0,B6*0.2)", "=MAX(0,C6*0.2)", "=D6*0.2", "=E6*0.2", "=F6*0.2", "Macro-kott"),
+    ("  Uurimine + koolid (10%)", "=MAX(0,B6*0.1)", "=MAX(0,C6*0.1)", "=D6*0.1", "=E6*0.1", "=F6*0.1", "Macro-kott"),
+    ("", "", "", "", "", "", ""),
+    ("Dalio põhimõte", "8 mitte-korrelatsioonset voogu", "", "", "", "", "Vt leht Finantsstrateegia"),
     ("", "", "", "", "", "", ""),
     ("5-aasta kumulatiivne EBITDA", "=SUM(B6:F6)", "", "", "", "", "Eesmärk: positiivne A2-st"),
 ]
@@ -172,8 +174,8 @@ for i, row in enumerate(pl, start=3):
     for j, val in enumerate(row, start=1):
         ws4.cell(row=i, column=j, value=val)
 style_header(ws4, 3, 6)
-style_table(ws4, 4, 15, 6)
-for r in [4, 5, 6, 9, 10, 11, 12, 15]:
+style_table(ws4, 4, 18, 6)
+for r in [4, 5, 6, 9, 10, 11, 12, 18]:
     for c in range(2, 7):
         ws4.cell(row=r, column=c).number_format = '#,##0'
 for r in [7]:
@@ -384,6 +386,43 @@ style_header(ws12, 3, 4)
 style_table(ws12, 4, 9, 4)
 for r in range(4, 10):
     ws12.row_dimensions[r].height = 40
+
+# ─────────────────────────────────────────────
+# LEHT 13: FINANTSSTRATEEGIA — DALIO / ROBBINS
+# ─────────────────────────────────────────────
+ws13 = wb.create_sheet("Finantsstrateegia")
+add_title(ws13, "EESTI FINANTSSTRATEEGIA — 8 MITTE-KORRELATSIOONSET VOOGU (RAY DALIO / TONY ROBBINS)", 5)
+set_widths(ws13, [8, 30, 22, 12, 40])
+
+ws13.merge_cells("A2:E2")
+ws13.cell(
+    row=2,
+    column=1,
+    value=(
+        "Ray Dalio põhimõte (Tony Robbins *All Seasons*): mitte-korrelatsioon (täisversioon 15–20). "
+        "ERMA kasum → 8 voogu = macro 40/30/20/10."
+    ),
+).alignment = Alignment(wrap_text=True)
+
+dalio = [
+    ("#", "Tuluvoog / varaklass", "Korrelatsioon", "Siht %", "Märkus"),
+    ("1", "Päikesepargid + salvestus", "Energia ≠ tarbimine", 0.40, "Macro 40%"),
+    ("2", "Liisingumasinad + robotid", "Tootlik vara ≠ börs", 0.10, "Macro 30%"),
+    ("3", "Tööstuskanep + eksport + CBD", "Ekspordi tsükkel", 0.10, "Macro 30%"),
+    ("4", "Growshop + reguleeritud turg", "Kohalik tarbimine", 0.10, "Macro 30%"),
+    ("5", "Puukoolid + maaelu (LEADER)", "Maaelu ≠ börs", 0.05, "Macro 10%"),
+    ("6", "Haridus + kutsekool", "Inimkapital", 0.05, "Macro 10%"),
+    ("7", "Mirror säästud + teadus (EPM)", "Bürokraatia + pikaajaline", 0.05, "Macro 10%"),
+    ("8", "Basic income + kriisivarud", "Sotsiaal, defensiivne", 0.20, "Macro 20%"),
+    ("", "KOKKU", "8 voogu", "=SUM(D4:D11)", "100% fondi"),
+]
+for i, row in enumerate(dalio, start=4):
+    for j, val in enumerate(row, start=1):
+        ws13.cell(row=i, column=j, value=val)
+style_header(ws13, 4, 5, fill=PatternFill("solid", fgColor="6A1B9A"))
+style_table(ws13, 5, 13, 5)
+for r in range(5, 12):
+    ws13.cell(row=r, column=4).number_format = "0.0%"
 
 wb.save(OUTPUT)
 print(f"Salvestatud: {OUTPUT}")

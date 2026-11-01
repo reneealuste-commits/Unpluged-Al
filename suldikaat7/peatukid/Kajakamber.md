@@ -8,6 +8,10 @@ Igal hommikul avab üks mees Moskvas paberkaustad. Selles peatükis küsime liht
 
 **Fakt:** 12. juulil 2021 avaldas Putin Kremli kodulehel pika essee „Venelaste ja ukrainlaste ajaloolisest ühtsusest”. Selles väidab ta, et venelased ja ukrainlased on „üks rahvas” ja et tänapäeva Ukraina on suures osas nõukogude aja looming. Seitse kuud hiljem algas täiemahuline sissetung.
 
+![Kaart laual ja täht ühe piirkonna peal: „see on meie oma”. Kujutis on üldine, mitte kellegi portree.](../koomiksid/kaja_4.jpg)
+
+*Kaart laual ja täht ühe piirkonna peal: „see on meie oma”. Kujutis on üldine, mitte kellegi portree.*
+
 **Fakt:** 5. detsembril 1994 allkirjastati **Budapesti memorandum**. Ukraina loobus tuumarelvadest, mis olid jäänud tema territooriumile pärast Nõukogude Liidu lagunemist. Venemaa, USA ja Suurbritannia kinnitasid, et austavad Ukraina iseseisvust, suveräänsust ja olemasolevaid piire. 31. mail 1997 allkirjastasid Venemaa ja Ukraina **sõpruse, koostöö ja partnerluse lepingu**, mis tunnustas olemasolevate piiride puutumatust. Kõik see sisaldas ka Krimmi.
 
 **Fakt:** 2014. aasta märtsis annekteeris Venemaa Krimmi. 24. veebruaril 2022 algas täiemahuline sissetung Ukrainasse. Paberid, millele Moskva oli alla kirjutanud, ei peatanud seda. See ei tõesta, kas Putin uskus oma essee juttu. See tõestab, et allkiri ei olnud tema jaoks takistus.
@@ -30,6 +34,10 @@ Kuidas info presidendini jõuab? Analüüsiportaal *Geopolitical Monitor* kirjut
 
 ### Kuidas vale muutub tõeks
 
+![Peeglite koridor: üks hääl, mis kordub, kuni see kõlab nagu kogu maailm.](../koomiksid/kaja_3.jpg)
+
+*Peeglite koridor: üks hääl, mis kordub, kuni see kõlab nagu kogu maailm.*
+
 Hannah Arendt kirjutas 1951. aastal raamatus „Totalitarismi päritolu”: *„Totalitaarse võimu ideaalne alluv ei ole veendunud natsi ega veendunud kommunist, vaid inimene, kelle jaoks fakti ja väljamõeldise vahet ei ole enam olemas.”* Arendt kirjutas alluvast. Selle peatüki küsimus on, kas sama võib juhtuda ka valitsejaga, kelle ümber on 25 aastat ainult kinnitavad hääled.
 
 Carnegie sihtasutuse analüütik Eugene Rumer kirjutas 2026. aasta märtsis ja aprillis, et Putin alustas sõda väära ettekäändega, et iseseisev Ukraina ohustab Venemaad. Sõda muutis Ukraina Venemaa leppimatuks vaenlaseks ja äratas Euroopa ohule. Rumeri sõnul on need täielikult enda tekitatud strateegilised vead. Tema sõnul on Putinil Ukraina suhtes pimetähn: ta ei näe, et Ukrainal on oma tahe, ja peab seda vaenuliku Euroopa etturiks. **Tõlgendus (meie sõnastus, mitte Rumeri tsitaat):** see on eneseteostuv ennustus. Kes kardab vaenlast ja ründab, see loob endale vaenlase.
@@ -39,6 +47,10 @@ Carnegie sihtasutuse analüütik Eugene Rumer kirjutas 2026. aasta märtsis ja a
 ### Ellujäämise matemaatika
 
 Siin on Renee mõte, mis ei vaja allikat, vaid ainult loogikat. Üksikinimese jaoks on ratsionaalne ellu jääda: mitte surra võõra ideoloogia eest, hoida oma peret ja kodu. Riik nõuab aga ohvrit: mine, võitle, sure. Need kaks loogikat lähevad vastuollu. Kõige teravamalt näeb seda selle järgi, kes läheb rindele ja kes mitte. **Fakt:** otsuse teinud juht ise rindele ei lähe. Ohvri toovad teised.
+
+![Ellujäämine ja ohver: sõdur kaevikus pere fotoga, juht kaugel soojas lossis.](../koomiksid/kaja_5.jpg)
+
+*Ellujäämine ja ohver: sõdur kaevikus pere fotoga, juht kaugel soojas lossis.*
 
 ### Kuidas see sinuni jõuab
 
@@ -63,6 +75,10 @@ Kajakambri vastand ei ole teine kajakamber. See on peegel: koht, kus näed iseen
 5. **Juhtimine ja side.** Ülesande täitjad on kodanikud. Igaüks on oma üksuse juht.
 
 **Mõõdikud (KPI-d):** sündimuskordaja, üksikvanemate vaesusrisk ja usaldus. Need on numbrid, mida saab iga aasta Statistikaametist üle kontrollida. Kui need ei liigu, ei tööta ka operatsioon, olgu sõnad kui ilusad tahes.
+
+![Peegli teekond: pimedusest välja peegli poole, kus ootab ring inimesi, raamatuklubi ja Kaitseliidu kaaslased.](../koomiksid/kaja_6.jpg)
+
+*Peegli teekond: pimedusest välja peegli poole, kus ootab ring inimesi, raamatuklubi ja Kaitseliidu kaaslased.*
 
 Siin sulguvad kolm peatükki. Peatükk XIII näitas, kuidas võõras mõte muutub sinu omaks. Peatükk XVII näitas, et keskkond kujundab mõtteid. See peatükk näitab, mis juhtub, kui keskkond on ainult kaja. Kremli jaoks on liiga hilja. Meie jaoks mitte.
 

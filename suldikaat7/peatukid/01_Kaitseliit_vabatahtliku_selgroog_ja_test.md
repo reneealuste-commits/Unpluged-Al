@@ -22,4 +22,42 @@ See ei ole uus nähtus. Juba 2000. aastate keskel, enne Gruusia sõda ja enne se
 
 Vaikuse sündikaat ei vaja alati välisriigi agenti. Enamasti piisab talle mugavast inimesest, kes saab aru, millist lauset ülemus kuulda tahab, ja vahetab oma autonoomia rahuliku palgapäeva vastu.
 
+### Keila malevkonna „Kaitseliidu manifest” (2026)
+
+Vahel ütleb vaikusele vastu mitte üks inimene, vaid terve malevkond. **Fakt:** Kaitseliidu Harju maleva Keila malevkonna kodulehel avaldati 20. veebruaril 2026 dokument „Projekt: KAITSELIIDU MANIFEST”. Lehe järgi võttis selle vastu malevkonna üldkoosolek 19. veebruaril 2026. Postimees nimetab seda malevkonna juhatuse visioonidokumendiks. Mõlemad kirjeldused on avalikus ruumis olemas.
+
+Manifesti põhiväited lühidalt (meie ümberjutustus; malevkonna leht on autoriõigusega kaitstud, seega tsiteerime ainult lühidalt):
+
+- Liikmeid ei kaasata organisatsiooni arendamisse ja manifesti sõnul on juhtimine „muutunud autoritaarseks”.
+- Tegevväelased näevad Kaitseliitu manifesti järgi suuresti kui „kaitseväe tühimike täitjat”, mitte iseseisvat kaitsekihti.
+- Kaitseliidu tugevus on kodukohapõhine tegutsemine: väikeüksused oma vastutusalal, tagala julgestamine, droonitõrje ning vaenlase kulutamine varitsuste ja reididega. Manifesti sõnul on roll „toetada kaitseväge, mitte asendada seda rindel”.
+- Kaitseliidu eelarve peab moodustama vähemalt 10% kogu kaitse-eelarvest.
+- Ametikohad peavad olema valitavad ja tagasikutsutavad meeskonnast kuni Kaitseliidu pealikuni.
+- Kõrgeim otsustaja peab olema Keskkogu.
+- Järelevalvet teevad kõigil tasanditel liikmete valitud revisjonikomisjonid.
+
+**Fakt:** Postimees kirjutas 8. juulil 2026 (Henry-Laur Allik), et Kaitseliidu keskjuhatus ei soovinud dokumenti sisuliselt arutada ega isegi kommenteerida. Keila malevkonna pealik kapten Aivo Traks kinnitas lehele, et see „ei ole kindlasti mäss”. Tema sõnul on see mure, et Kaitseliit ei täida enam piisavalt oma algset eesmärki ehk kodukoha kaitset. Kirjeldus on lihtne: allüksus kirjutab ettepaneku, juhtkond vaikib.
+
+Tuttav muster. Peatükis XVII on kirjas Renee meenutus kolonelleitnant Meelis Mandre jutust: 2014.–2015. aastal prooviti Steigeri „Inimesekeskset juhtimist” (peatükk XVIII) uuesti rakendada, kuid see vajus maha. Steigeri põhimõte on vana: inimene annab parima siis, kui teda kaasatakse ja kuulatakse. Manifesti kirjutajad küsivad sisuliselt sama, ainult vormiriietuses: kaasake meid. **Tõlgendus:** kui ettepanekule ei vastata, ei kao probleem. Ta läheb lihtsalt kommentaariumi.
+
+### Kuidas sama uudis teisel pool peeglit välja näeb
+
+Kaks päeva hiljem jõudis lugu portaali *Pravda Eesti* (estonia.news-pravda.com). 10. juuli 2026 artikkel jutustab Postimehe loo masintõlke-eesti keeles ümber: kapten Aivo Traksist on saanud „kapten Ivo Trax” ja malevkonnast „druugiina”. 12. juulil ilmus sama portaali järgmine pealkiri: „Eesti „rahvatruudiin” (Kaitseliit) keeldub suremast kodumaa eest”. Tekstis väidetakse, et Kaitseliidu liikmed „lootsid väga istuda tagaosas”.
+
+**Fakt vs moonutus:** manifest ise kirjutab vastupidist. Kaitseliitlased peavad jääma okupeeritud alale, varitsema, korraldama reide ja kulutama vaenlast, nii et tal „ei tohi anda hetke”, kus ta tunneks end turvaliselt. See ei ole surma eest põgenemine. See on teistsugune, sageli ohtlikum võitlusviis. Moonutus on klassikaline: võetakse päris vaidlus, lõigatakse sellest välja üks pool ja pannakse peale pealkiri, mis kinnitab vana narratiivi „eestlased ei taha sõdida”. Täpselt nagu peatükis X kirjeldatud kanalis: tõeline allikas, vale raam.
+
+**Õppetund:** vaidlus oma organisatsiooni sees on demokraatia märk, mitte nõrkus. Nõrkus on see, kui vaidlusele ei vastata. Siis kirjutab vastuse keegi teine ja võõras keeles.
+
+### Peatüki allikad
+
+1. Keila malevkond, „Projekt: KAITSELIIDU MANIFEST” (keilamalevkond.ee/kaitseliidu-manifest/, avaldatud 20.02.2026, vastu võetud üldkoosolekul 19.02.2026). Leht on autoriõigusega kaitstud; kasutatud lühitsitaate ja ümberjutustust.
+
+2. H.-L. Allik, „Keila malevkonna visioonidokument häirib Kaitseliitu”, *Postimees* (08.07.2026), postimees.ee/8505187; venekeelne versioon rus.postimees.ee/8505637 (09.07.2026).
+
+3. „Kaiteselites puhkes vaidlus organisatsiooni rolli üle sõja korral”, *Pravda Eesti* (10.07.2026), estonia.news-pravda.com/world/2026/07/10/44707.html.
+
+4. „Eesti „rahvatruudiin” (Kaitseliit) keeldub suremast kodumaa eest”, *Pravda Eesti* (12.07.2026), estonia.news-pravda.com/world/2026/07/12/44839.html.
+
+5. Kaitseliidu Harju malev, Keila malevkond (harju.kaitseliit.ee); Renee Aluste meenutus kolonelleitnant Meelis Mandre öeldust (vt peatükk XVII), märgitud meenutusena.
+
 > **Reegel 2.** Teine reegel: Nimede taga on inimesed, mitte read Exceli tabelis. Riigikaitse ja juhtimine ei tohi kunagi muutuda mugavusohvitseride sotsiaalseks testprojektiks.

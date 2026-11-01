@@ -8,6 +8,10 @@ Renee on rääkinud, et tema lapsepõlves oli kogemus, mis jäi kehasse kauemaks
 
 Teraapiast jäi talle alles harjumus. Kui ärevus või viha tõuseb, läheb ta võimaluse korral metsa või aknale ja vaatab puid. Ta laseb pilgul liikuda ühelt tüvelt teisele, vasakult paremale ja tagasi, kuni hingamine rahuneb. **See on Renee kogemus, mitte raviskeem.** Allpool on kirjas, mida teadus selle kohta ütleb ja mida mitte.
 
+Nüüd on sellest saanud igapäevane tööriist. Renee ise ütleb nii: *„Kasutan seda nüüd igapäevaselt. Kui tuleb mingi häiriv mõte, lasen silmalihased pingesse ja silmad teevad iseenesest hästi kiiresti paremale-vasakule. Tunnen, kuidas mõte lahustub.”* Kõrvalt vaadates võib see meenutada inimest, kes jälgib väga kiiret tennisemängu. Tegelikult saadab ta lihtsalt ühe mõtte koju.
+
+**See on isiklik praktika, mitte ravisoovitus.** Teadusel on selle kohta lihtne seletus. Hollandi psühholoogid Marcel van den Hout ja Iris Engelhard kirjeldavad **töömälu koormuse teooriat**: töömälu on nagu väike laud, kuhu mahub korraga vähe asju. Kui sinna panna häiriv pilt ja kiired silmaliigutused, jääb pildile vähem ruumi ja see tundub vähem ere. Laboris on seda korduvalt näidatud. Aga labor mõõdab lühiajalist muutust, mitte paranemist. Silmad on hea abiline, mitte terapeut. Kui mõte on seotud traumaga või tuleb ikka ja jälle tagasi, mine spetsialisti juurde.
+
 ![Puude vaatamine: pilk liigub ühelt tüvelt teisele, kuni hingamine rahuneb. Renee isiklik harjumus pärast teraapiat, mitte raviprotokoll.](../koomiksid/emdr_1_puud.jpg)
 
 *Puude vaatamine: pilk liigub ühelt tüvelt teisele, kuni hingamine rahuneb. Renee isiklik harjumus pärast teraapiat, mitte raviprotokoll.*
@@ -60,12 +64,12 @@ Raamatu kuues reegel ütleb, et trauma ei ole kurjus, vaid lukustunud valu. Rene
 
 3. Bisson jt 2013 (Cochrane); Lewis jt 2020 (Eur J Psychotraumatol); Cuijpers jt 2020 (Cogn Behav Ther); Sutton jt 2025 (doi 10.1002/cpp.70186).
 
-4. Davidson ja Parker 2001; Lee ja Cuijpers 2013; Rosen ja Davison 2003; McNally 1999.
+4. van den Hout ja Engelhard 2012, „How does EMDR work?” (Journal of Experimental Psychopathology); Davidson ja Parker 2001; Lee ja Cuijpers 2013; Rosen ja Davison 2003; McNally 1999.
 
 5. EMDRIA seisukoht „tee-ise” EMDR-i kohta; Waterman ja Cooper 2020 (BJPsych Open).
 
 6. EMDR Eesti Ühing (emdr.ee); Confido hinnakiri; Sotsiaalkindlustusamet. Andmed Renee raportitest „EMDR-teraapia koolides” (27.09.2026) ja „EMDR-teraapia: tõendid” (10.10.2026).
 
-7. Renee Aluste suuline meenutus oma teraapiast. See on märgitud meenutusena.
+7. Renee Aluste suuline meenutus oma teraapiast ja igapäevasest praktikast (01.11.2026). See on märgitud meenutusena.
 
 > **9D.** Lisareegel: Haav ei parane vaikides ega jõuga. Kasuta meetodit, mille kohta on tõendid, ja inimest, kellel on väljaõpe — ning ära müü oma kogemust teistele raviskeemina.

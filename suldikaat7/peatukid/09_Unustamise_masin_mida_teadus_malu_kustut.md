@@ -1,4 +1,4 @@
-# XIV PEATÜKK — Unustamise masin: mida teadus mälu kustutamisest tegelikult teab
+# IX PEATÜKK — Unustamise masin: mida teadus mälu kustutamisest tegelikult teab
 
 Kui eelmine peatükk küsis, kuidas võõras mõte sinu omaks saab, siis see peatükk küsib vastupidist: kas mälestust saab ära võtta? Internetis liigub lugusid salajastest „unustamise masinatest” ja programmidest, mis kustutavad sõdurite mälu. Renee pani 2026. aasta oktoobris kokku nimekirja teadlastest ja rühmadest, kes uurivad mälu nõrgendamist ja unustamist. Nimekiri tugineb ainult avalikule ja akadeemilisele uurimistööle. See peatükk on selle nimekirja lühike kokkuvõte.
 
@@ -58,4 +58,4 @@ Renee esialgses nimekirjas oli nimi „Bruno Bonin”. Sellenimelist mälu-uurij
 
 7. Renee nimekiri „Kes uurib mälu nõrgendamist ja unustamist?” (oktoober 2026).
 
-> **9F.** Lisareegel: Mälu on köögilaud, mitte arhiiv. Mälestust saab muuta lihtsamini kui kustutada — seepärast vajab iga meenutus dokumenti.
+> **Reegel 10.** Lisareegel: Mälu on köögilaud, mitte arhiiv. Mälestust saab muuta lihtsamini kui kustutada — seepärast vajab iga meenutus dokumenti.

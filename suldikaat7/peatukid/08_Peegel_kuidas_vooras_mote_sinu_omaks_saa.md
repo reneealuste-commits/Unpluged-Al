@@ -1,4 +1,4 @@
-# XIII PEATÜKK — Peegel: kuidas võõras mõte sinu omaks saab
+# VIII PEATÜKK — Peegel: kuidas võõras mõte sinu omaks saab
 
 Sari, mille Renee 2026. aasta sügisel käivitas, kannab nime *#peegel*. Nimi ei ole juhuslik. Kõige tõhusam mõjutus ei tule väljastpoolt nagu käsk. See tuleb seestpoolt nagu oma mõte. Inimene vaatab peeglisse ja näeb iseennast, aga sõnad tema suus on kellegi teise omad. See peatükk räägib sellest, kuidas Venemaa psühholoogiline sõjapidamine töötab ja kuidas seda ära tunda. See põhineb kahel Renee ülevaatel (12.10.2026) ja avalikel allikatel: Kapo ja Välisluureameti aastaraamatud, kohtuotsused, RAND, EUvsDisinfo ja Prantsuse Viginum.
 
@@ -70,4 +70,4 @@ Kui keegi pakub sulle raha „lihtsate ülesannete” eest, palub pildistada obj
 
 7. Renee ülevaated „Venemaa psühholoogiline sõjapidamine ja infomõjutus” ja „#peegel” (12.10.2026).
 
-> **9E.** Lisareegel: Enne kui jagad, küsi, kelle mõte see on. Oht tuleb tegudest ja võrgustikest, mitte rahvusest — kes sildistab terve rahva, teeb vastase tööd.
+> **Reegel 9.** Lisareegel: Enne kui jagad, küsi, kelle mõte see on. Oht tuleb tegudest ja võrgustikest, mitte rahvusest — kes sildistab terve rahva, teeb vastase tööd.

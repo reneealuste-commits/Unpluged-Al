@@ -1,3 +1,5 @@
+<!-- NELJAS OSA: LAHENDUS JA TEEKOND -->
+
 # XIX PEATÜKK — The Path: mees peab minema välja
 
 See peatükk algab nagu halb anekdoot. Kõrge testosterooniga mees astub tuppa, kus diivanil istub viis madala testosterooniga poissi. Kardinad on ees, põrandal on pitsakarbid, telefonide ekraanid helendavad. Mees tõmbab kardinad eest. Keegi kissitab silmi ja keegi küsib: „Kes sa oled?” Üks poiss tõuseb püsti.
@@ -32,7 +34,7 @@ Robin Dunbar arvutas 1990. aastatel, et inimene suudab hoida umbes **150** stabi
 
 ### Seega: mees peab minema välja
 
-Siin ühenduvad varasemad peatükid. Peatükk XVII ütles, et keskkond kujundab inimest. Peatükk XVIII näitas, mis juhtub, kui ümberringi on ainult kaja. See peatükk ütleb lihtsalt: **mees vajab enda ümber teisi mehi** ja keegi ei too neid talle koju kätte. Uus keskkond tuleb ise üles otsida.
+Siin ühenduvad varasemad peatükid. Peatükk XVII ütles, et keskkond kujundab inimest. Peatükk X näitas, mis juhtub, kui ümberringi on ainult kaja. See peatükk ütleb lihtsalt: **mees vajab enda ümber teisi mehi** ja keegi ei too neid talle koju kätte. Uus keskkond tuleb ise üles otsida.
 
 ### Teekond ümber maailma
 
@@ -96,4 +98,4 @@ Miks just Kaitseliit? Sest see on üks väheseid kohti Eestis, kus eri vanuses j
 
 10. Renee Aluste, isiklik kogemus Kaitseliidu Harju maleva sõdurioskuste kursusel (meenutus, mitte ametlik seisukoht).
 
-> **9K.** Lisareegel: Sa ei leia oma meest diivanilt. Mine välja, leia mehed, kelle kõrval sa kasvad, ja ole ise see mees, kelle kõrval kasvab keegi teine.
+> **Reegel 20.** Lisareegel: Sa ei leia oma meest diivanilt. Mine välja, leia mehed, kelle kõrval sa kasvad, ja ole ise see mees, kelle kõrval kasvab keegi teine.

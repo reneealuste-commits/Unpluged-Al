@@ -1,4 +1,4 @@
-# XVIII PEATÜKK — Kajakamber: kas Putin usub oma valet?
+# X PEATÜKK — Kajakamber: kas Putin usub oma valet?
 
 Igal hommikul avab üks mees Moskvas paberkaustad. Selles peatükis küsime lihtsa küsimuse, millele on raske vastata: **kas Putin usub oma valet?** Või õigemini: kas see, mis algas teadliku valena, võib ajapikku muutuda siiraks veendumuseks, kui kõik ümberringi kordavad sama juttu?
 
@@ -54,7 +54,7 @@ Siin on Renee mõte, mis ei vaja allikat, vaid ainult loogikat. Üksikinimese ja
 
 ### Kuidas see sinuni jõuab
 
-Tüüpiline näide: X-is levis postitus, kus madala kvaliteediga video esitas Putinit kui ainsat, kes maailmas rahu eest seisab. Autori nime me siin ei nimeta, sest asi ei ole ühes inimeses. Asi on kanalis: lühike video, tugev emotsioon, lihtne kangelane ja lihtne süüdlane. Peatüki XIII seitse küsimust kehtivad siin täies ulatuses. Kajakamber ei ole ainult Kremlis. Iga uudisvoog, kus kõik on sinuga nõus, on väike kajakamber.
+Tüüpiline näide: X-is levis postitus, kus madala kvaliteediga video esitas Putinit kui ainsat, kes maailmas rahu eest seisab. Autori nime me siin ei nimeta, sest asi ei ole ühes inimeses. Asi on kanalis: lühike video, tugev emotsioon, lihtne kangelane ja lihtne süüdlane. Peatüki VIII seitse küsimust kehtivad siin täies ulatuses. Kajakamber ei ole ainult Kremlis. Iga uudisvoog, kus kõik on sinuga nõus, on väike kajakamber.
 
 ### Vastus: operatsioon „Peegel”
 
@@ -68,7 +68,7 @@ Kajakambri vastand ei ole teine kajakamber. See on peegel: koht, kus näed iseen
 
 2. **Põhiülesanne.** Taastada Eesti rahva inimlikkus iga kodaniku isikliku paranemisteekonna kaudu.
 
-3. **Täitmine.** Põhialused on uni, toit, keha, suhted, lapsed ja juhtimine. Trauma puhul on aluseks traumateadlikkus (Bessel van der Kolk, „Keha peab arvet”; selle raamatu kohta tehtud kriitika on kirjas peatükis XII). Laste puhul Montessori lähenemine: laps ei ole projekt, vaid isiksus. Juhtimise puhul *Extreme Ownership* (Jocko Willink): sa ei saa juhtida teisi, kui sa ei suuda juhtida iseennast. Nimekirjas on ka Steigeri „Inimesekeskne juhtimine”.
+3. **Täitmine.** Põhialused on uni, toit, keha, suhted, lapsed ja juhtimine. Trauma puhul on aluseks traumateadlikkus (Bessel van der Kolk, „Keha peab arvet”; selle raamatu kohta tehtud kriitika on kirjas peatükis XVI). Laste puhul Montessori lähenemine: laps ei ole projekt, vaid isiksus. Juhtimise puhul *Extreme Ownership* (Jocko Willink): sa ei saa juhtida teisi, kui sa ei suuda juhtida iseennast. Nimekirjas on ka Steigeri „Inimesekeskne juhtimine”.
 
 4. **Teenindus ja logistika.** Taskukaardid, SOP-id, raamatuklubid (vt peatükk XVII) ja avalik leht **operatsioon-peegel.vercel.app**.
 
@@ -80,7 +80,7 @@ Kajakambri vastand ei ole teine kajakamber. See on peegel: koht, kus näed iseen
 
 *Peegli teekond: pimedusest välja peegli poole, kus ootab ring inimesi, raamatuklubi ja Kaitseliidu kaaslased.*
 
-Siin sulguvad kolm peatükki. Peatükk XIII näitas, kuidas võõras mõte muutub sinu omaks. Peatükk XVII näitas, et keskkond kujundab mõtteid. See peatükk näitab, mis juhtub, kui keskkond on ainult kaja. Kremli jaoks on liiga hilja. Meie jaoks mitte.
+Siin sulguvad kolm peatükki. Peatükk VIII näitas, kuidas võõras mõte muutub sinu omaks. Peatükk XVII näitas, et keskkond kujundab mõtteid. See peatükk näitab, mis juhtub, kui keskkond on ainult kaja. Kremli jaoks on liiga hilja. Meie jaoks mitte.
 
 ### Peatüki allikad
 
@@ -104,4 +104,4 @@ Siin sulguvad kolm peatükki. Peatükk XIII näitas, kuidas võõras mõte muutu
 
 10. Renee Aluste, „OPERATSIOON PEEGEL — OPORD (paranemis-teekond)” (Google Drive, 2026) ja operatsioon-peegel.vercel.app. Renee hinnangud on märgitud hinnanguna.
 
-> **9J.** Lisareegel: Kui kõik ümberringi on sinuga alati nõus, ei ole sa juht, vaid kaja. Hoia enda ümber inimesi, kes julgevad öelda „ei”, ja kontrolli kaustu, mida sulle tuuakse.
+> **Reegel 11.** Lisareegel: Kui kõik ümberringi on sinuga alati nõus, ei ole sa juht, vaid kaja. Hoia enda ümber inimesi, kes julgevad öelda „ei”, ja kontrolli kaustu, mida sulle tuuakse.

@@ -1,4 +1,4 @@
-# XVI PEATÜKK — Saar, kust puugid tulid: Plum Island, borrelioos ja uurimine, mis on alles pooleli
+# XII PEATÜKK — Saar, kust puugid tulid: Plum Island, borrelioos ja uurimine, mis on alles pooleli
 
 Selles raamatus on juba üks saar. Utö on Soome saarestiku välisserval, kus 1994. aasta septembriöö kriisis oli koht majakal ja raadiojaamal. Teine saar asub teisel pool ookeani, New Yorgi osariigis Long Islandi idatipu lähedal. Selle nimi on **Plum Island**. Ka seal on majakas. Ja ka selle saare ümber on aastakümneid räägitud lugu, mida pole keegi tõestanud.
 
@@ -48,4 +48,4 @@ Täna on Plum Islandi tulevik lahtine. Suffolki maakond ja 130 organisatsioonist
 
 6. Renee ülevaade „Plum Island ja puugid: uudised USA meedias” (07.10.2026).
 
-> **9H.** Lisareegel: Uurimise tellimine ei ole tõend. Vaikus sünnitab lugusid — vasta neile dokumentidega, mitte uute lugudega.
+> **Reegel 13.** Lisareegel: Uurimise tellimine ei ole tõend. Vaikus sünnitab lugusid — vasta neile dokumentidega, mitte uute lugudega.

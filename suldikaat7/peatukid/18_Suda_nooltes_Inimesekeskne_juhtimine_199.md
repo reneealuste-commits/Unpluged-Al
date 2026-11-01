@@ -1,10 +1,12 @@
-# XI PEATÜKK — Süda nooltes
+# XVIII PEATÜKK — Süda nooltes: „Inimesekeskne juhtimine” (1997) ja raamat, mis leidis lugeja
 
 Kõige raskematel aastatel ei otsi inimene raamatuid. Ta otsib põrandat, millele astuda. Renee meenutuse järgi oli tal käes just selline aeg. Kodus olid pinged, abielu lagunes ja tööl käis kõik allamäge. Ühel päeval tühjendas ta töökohal oma kappi ja viskas peaaegu kõik minema. Alles jäid kolm raamatut: kollaste kaantega „Jaoülema käsiraamat” (1993), lilla kaanega „Rakenduspedagoogika” (1994) ja kolmas, mille kaas oli teistsugune.
 
 Kolmandal raamatul ei olnud mundrit, relva ega lippu. Kaane keskel seisis inimfiguur, rinnas süda, ja ümberringi olid tugevad nooled, mis suundusid tema poole. Pealkiri oli „Inimesekeskne juhtimine”. Renee meenutab, et ta ei teadnud, miks ta seda hoidis. Ta ei lugenud seda. Pool aastat hiljem tuli töölt lahkuda ja asjad kokku pakkida, ning need kolm raamatut tulid kaasa. Kolmas elas tema juures umbes kuu aega avamata. Iga kord, kui pilk sellele langes, tundis ta tema sõnul midagi kutse sarnast.
 
-IMG: ij_1_suda.jpg | Kunstniku tõlgendus 1997. aasta kaane mõttest, mitte kaane koopia. Keskel on süda kui inimlikkuse rõhutaja ja selle ümber välised mõjujõud. Kujundaja sõnul olid süda ja nooled teadlikult tasakaalus.
+![Kunstniku tõlgendus 1997. aasta kaane mõttest, mitte kaane koopia. Keskel on süda kui inimlikkuse rõhutaja ja selle ümber välised mõjujõud. Kujundaja sõnul olid süda ja nooled teadlikult tasakaalus.](../koomiksid/ij_1_suda.jpg)
+
+*Kunstniku tõlgendus 1997. aasta kaane mõttest, mitte kaane koopia. Keskel on süda kui inimlikkuse rõhutaja ja selle ümber välised mõjujõud. Kujundaja sõnul olid süda ja nooled teadlikult tasakaalus.*
 
 ### Mida raamatukogu kataloog ütleb
 
@@ -34,7 +36,9 @@ See on üks raamatu ilusamaid paradokse. Kõige inimlikuma juhtimisraamatu kaane
 
 Raamat avanes Renee meenutuse järgi ootamatus kohas: enesearengufestivalil „Ühenduses”, Pühali Hea Elu Keskuses Kohila vallas. Ta ei olnud seal festivalikülastajana. Tal polnud piletit ja ta oli pigem lapsehoidja. Tal oli oma väike telk ja oma pliit ning ta praadis peekonit. Ta oli just tulemas välja raskest lapsepõlvetraumast, mida ta töötles EMDR-teraapiaga (silmaliigutustega desensitiseerimine ja ümbertöötlemine). See on tunnustatud traumateraapia meetod, mille käigus pilk liigub rütmiliselt küljelt küljele. Festivalil oli tal palju aega ja süles oli seitsmekuune tütar. Ühel päeval avas ta raamatu.
 
-IMG: ij_2_telk.jpg | Telk metsa servas, pann pliidil ja avatud raamat. Illustratsioon Renee meenutuse järgi, pildil kujutatud detailid on stiliseeritud.
+![Telk metsa servas, pann pliidil ja avatud raamat. Illustratsioon Renee meenutuse järgi, pildil kujutatud detailid on stiliseeritud.](../koomiksid/ij_2_telk.jpg)
+
+*Telk metsa servas, pann pliidil ja avatud raamat. Illustratsioon Renee meenutuse järgi, pildil kujutatud detailid on stiliseeritud.*
 
 Tema sõnul hakkasid lugedes elu tükid paika loksuma: vanad mälestused, juhtimise, sõjaväe ja isiklik kogemus. Raamat ei olnud raske. See oli kompaktne ja käepärane, nagu kasutusjuhend. Steigeri peatükid kannavad pealkirju „Iseennast ja kaastöötajaid tundma õppida”, „Palki enda silmas”, „Midagi mõista ei tähenda alati nõus olla”, „Lojaalsus – ka ülevalt alla” ja „Usalduse keskne tähtsus”. Need ei käsi, need küsivad. Üks Villigeri mõte, mida Steiger tsiteerib, kõlab nii: kes vigu tunnistab, selle suust usutakse ka häid uudiseid.
 
@@ -61,3 +65,5 @@ Renee vastas Kristjanile ühe lausega: sest inimene ei muutu. Tehnoloogia ja org
 5. Pühali Hea Elu Keskus (puhali.ee) ja festivali „Ühenduses” veebileht.
 
 6. Renee Aluste kirjavahetus kaanekujundaja Kristjaniga (2026) ja Renee suulised meenutused. Need on märgitud meenutusteks.
+
+> **Reegel 19.** Lisareegel: Inimesekeskne juhtimine ei ole abivahend edu saavutamiseks — seda on vaja inimese pärast. Kes oma vigu tunnistab, selle suust usutakse ka häid uudiseid.

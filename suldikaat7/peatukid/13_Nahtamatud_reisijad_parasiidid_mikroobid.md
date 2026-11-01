@@ -1,4 +1,4 @@
-# XV PEATÜKK — Nähtamatud reisijad: parasiidid, mikroobid ja inimese käitumine
+# XIII PEATÜKK — Nähtamatud reisijad: parasiidid, mikroobid ja inimese käitumine
 
 Selles raamatus on palju nähtamatuid tegijaid: varifirmad, nominaalhoidjad ja trollikontod. See peatükk räägib kõige väiksematest. Mõned organismid elavad inimese sees ja mõned neist mõjutavad tõesti aju. Internetis tehakse sellest suuri järeldusi, näiteks et „parasiit juhib poolt planeeti”. Renee kirjutas 2026. aasta oktoobris raporti, kus iga väide sai märke. Need märked on siingi:
 
@@ -58,4 +58,4 @@ Nähtamatu reisija on hea kujund kõige selle kohta, mida see raamat uurib. Mõj
 
 6. Renee raport „Parasiidid, mikroobid, hallitus ja inimese käitumine” (07.10.2026).
 
-> **9G.** Lisareegel: Seos ei ole põhjus. Märgi iga väite juurde, kas see on tõestatud, seos või väide — sama vahe on kahtlusel ja süüdistusel.
+> **Reegel 14.** Lisareegel: Seos ei ole põhjus. Märgi iga väite juurde, kas see on tõestatud, seos või väide — sama vahe on kahtlusel ja süüdistusel.

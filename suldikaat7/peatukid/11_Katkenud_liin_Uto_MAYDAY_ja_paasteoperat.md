@@ -1,4 +1,4 @@
-# IX PEATÜKK — Katkenud liin
+# XI PEATÜKK — Katkenud liin: Utö, MAYDAY ja päästeoperatsioon (28.09.1994)
 
 Saarel, mis on Soome saarestiku viimane asustatud punkt enne avamerd, ei ole tuul kunagi päris vaikne. Renee jõudis Utöle samal põhjusel, miks Tarmo oli aastaid kogunud toimikuid: et näha oma silmaga kohta, mille kohta teised olid ainult rääkinud. Ta ei tulnud sinna turistina. Ta tuli kuulama.
 
@@ -50,13 +50,17 @@ Kui Renee seisis tornis, vaatas ta seega mitte ainult kohta, kus kuuldi häält.
 
 Vrakk lebab Soome majandusvööndis rahvusvahelistel vetel umbes 80 meetri sügavusel. Uppumise järel jäi see merepõhja peaaegu kummuli, tüürpoordi küljega pehmesse savisse. Vöörivisiir leiti vrakist eraldi, umbes poolteist kilomeetrit lääne poolt. Rootsi, Soome ja Eesti sõlmisid 1995. aastal lepingu, mis kuulutas vraki hauarahuks.
 
-IMG: katk_2_vrakk.jpg | Vrakk merepõhjas, illustratsioon on stiliseeritud. Tegelikkuses lebab vrakk umbes 80 m sügavusel peaaegu kummuli ja tüürpoordi küljega savis. 1994. aastal oli kreen umbes 108° ja kurss 091°, 2021–2023 mõõdeti kreeniks umbes 134°. Vöörivisiir leiti vrakist eraldi, umbes 1,5 km lääne poolt.
+![Vrakk merepõhjas, illustratsioon on stiliseeritud. Tegelikkuses lebab vrakk umbes 80 m sügavusel peaaegu kummuli ja tüürpoordi küljega savis. 1994. aastal oli kreen umbes 108° ja kurss 091°, 2021–2023 mõõdeti kreeniks umbes 134°. Vöörivisiir leiti vrakist eraldi, umbes 1,5 km lääne poolt.](../koomiksid/katk_2_vrakk.jpg)
+
+*Vrakk merepõhjas, illustratsioon on stiliseeritud. Tegelikkuses lebab vrakk umbes 80 m sügavusel peaaegu kummuli ja tüürpoordi küljega savis. 1994. aastal oli kreen umbes 108° ja kurss 091°, 2021–2023 mõõdeti kreeniks umbes 134°. Vöörivisiir leiti vrakist eraldi, umbes 1,5 km lääne poolt.*
 
 Vahetult pärast õnnetust tegi Rockwater A/S (koos Smit Takiga) Rootsi Meresõiduameti tellimusel vraki seisukorra uuringu, ajavahemikus 21.11–08.12.1994. Rockwater vraki **ei katnud**. Rootsi valitsus otsustas 15. detsembril 1994, et vrakk kaetakse. Leping sõlmiti 11. jaanuaril 1996 konsortsiumiga Nordic Marine Contractors, kelle laevad olid Van Oordi kivipuistelaev *Tertnes* ja süvendaja *Volvox Iberia*. Plaani järgi pidi vraki vööri ja ahtri katma kahekordse betoonplokkmatiga ning ümbrus pidi saama liiva- ja kivitäite.
 
 Tööd algasid 19. aprillil 1996. Ümber vraki paigaldati 26 geotekstiilmatti, need stabiliseeriti kruusaga ja peale puistati liiva. Hukkunute lähedaste survel otsustas Rootsi valitsus 19. juunil 1996 katmise lõpetada. Ajakirjanduse andmetel põhjendas transpordiminister Ines Uusmann seda sellega, et õnnetuse põhjus ei olnud veel lõplikult selge. 21. juulil avastati vrakist lõuna pool liivatäites suured deformatsioonid. Töövõtja lõpetas tööd 27. juulil 1996. Selleks ajaks oli puistatud umbes 380 000 m³ liiva. **Betoonmatte vrakile ei paigaldatud.** Vrakk ise jäi katmata, kuid selle ümbrus on sellest ajast saadik inimtekkeline täide. Just sellele viitab ka BMTIG, kui ta küsib, kas hilisematel sonaripiltidel nähtav kõva kiht on aluskivim või 1996. aasta täide.
 
-IMG: katk_3_katmine.jpg | 1996. aasta katmistööd. Rootsi valitsus otsustas 15.12.1994 vraki katta. Tööd algasid 19.04.1996 ja valitsus otsustas 19.06.1996 katmise lõpetada. Töövõtja lõpetas tööd 27.07.1996. Ümber vraki paigaldati geotekstiil, kruusakiht ja umbes 380 000 m³ liiva. Plaanitud betoonmatid vrakile ei jõudnud.
+![1996. aasta katmistööd. Rootsi valitsus otsustas 15.12.1994 vraki katta. Tööd algasid 19.04.1996 ja valitsus otsustas 19.06.1996 katmise lõpetada. Töövõtja lõpetas tööd 27.07.1996. Ümber vraki paigaldati geotekstiil, kruusakiht ja umbes 380 000 m³ liiva. Plaanitud betoonmatid vrakile ei jõudnud.](../koomiksid/katk_3_katmine.jpg)
+
+*1996. aasta katmistööd. Rootsi valitsus otsustas 15.12.1994 vraki katta. Tööd algasid 19.04.1996 ja valitsus otsustas 19.06.1996 katmise lõpetada. Töövõtja lõpetas tööd 27.07.1996. Ümber vraki paigaldati geotekstiil, kruusakiht ja umbes 380 000 m³ liiva. Plaanitud betoonmatid vrakile ei jõudnud.*
 
 ### Mida 2025. aasta aruanne muutis
 
@@ -86,7 +90,9 @@ Vaidluse keskmes ei ole vöörivisiir. Sellest on mõlemad pooled ühel meelel: 
 
 Kumb pool on õigem? Selle peatüki allikad seda ei otsusta. Ametlik uurimine tugineb laboriekspertiisidele ja merepõhja uuringutele. BMTIG tugineb energiabilansile ja kriitikale ametlike mudelite aadressil. Tarmo märkis oma kaardile ainult selle, mida saab kontrollida: **ametlik järeldus on põhjakontakt, allveelaeva kokkupõrget ei ole ükski uurimisasutus kinnitanud ja Rootsi rühma arvutused on avalikud ning kontrollitavad.** Kes tahab vaidlust lõpetada, peab need arvutused ümber lükkama või kinnitama, mitte vaikimisi kõrvale jätma.
 
-IMG: katk_1_hupotees.jpg | **HÜPOTEES – mitte tõestatud fakt.** Kunstniku kujutlus BMTIG-i (2025) esitatud versioonist, mille järgi põrkas *Estonia* kokku allveelaeva või muu suure objektiga. Ametlik lõpparuanne (OJK/SHK/OTKES, 16.12.2025) seda ei kinnita: selle järgi tekkis tüürpoordi vigastus merepõhjas pärast uppumist.
+![**HÜPOTEES – mitte tõestatud fakt.** Kunstniku kujutlus BMTIG-i (2025) esitatud versioonist, mille järgi põrkas *Estonia* kokku allveelaeva või muu suure objektiga. Ametlik lõpparuanne (OJK/SHK/OTKES, 16.12.2025) seda ei kinnita: selle järgi tekkis tüürpoordi vigastus merepõhjas pärast uppumist.](../koomiksid/katk_1_hupotees.jpg)
+
+***HÜPOTEES – mitte tõestatud fakt.** Kunstniku kujutlus BMTIG-i (2025) esitatud versioonist, mille järgi põrkas *Estonia* kokku allveelaeva või muu suure objektiga. Ametlik lõpparuanne (OJK/SHK/OTKES, 16.12.2025) seda ei kinnita: selle järgi tekkis tüürpoordi vigastus merepõhjas pärast uppumist.*
 
 ### Kas Utö ja allveelaev on seotud?
 
@@ -114,7 +120,7 @@ See raamat on algusest peale eristanud kahte asja: seda, mida dokument ütleb, j
 
 **Tõestamata seos:** Utö ja allveelaeva hüpotees. Dokumenti, mis neid seoks, ei leitud.
 
-**Avatud küsimus, mitte järeldus:** miks liikus teade Tallinna nii aeglaselt ja miks valiti *Mayday Relay* asemel madalam teade? Aruanne kirjeldab, *mis* juhtus. Kas see oli korralduslik nõrkus, kogenematus või midagi muud, seda ei saa selle peatüki allikate põhjal öelda. VIII peatükis kirjeldatud vaidlused vrakki üle ei ole selle küsimusega tõestatult seotud ja Tarmo hoidis need oma kaardil eraldi kihis.
+**Avatud küsimus, mitte järeldus:** miks liikus teade Tallinna nii aeglaselt ja miks valiti *Mayday Relay* asemel madalam teade? Aruanne kirjeldab, *mis* juhtus. Kas see oli korralduslik nõrkus, kogenematus või midagi muud, seda ei saa selle peatüki allikate põhjal öelda. V peatükis kirjeldatud vaidlused vrakki üle ei ole selle küsimusega tõestatult seotud ja Tarmo hoidis need oma kaardil eraldi kihis.
 
 Tarmo kirjutas oma välimärkmikku lause, mis sobib selle peatüki lõppu: *vaikus ei ole alati kellegi valik – vahel on see lihtsalt liin, mida keegi õigel ajal ei parandanud.* Vaikimismustri tunneb ära alles siis, kui küsitakse, miks liini pärast kunagi ei parandatud, ja kui vastus nõutakse dokumendiga.
 
@@ -124,7 +130,9 @@ Renee laskus mööda kitsast treppi alla. Allpool oli jälle tuul, graniit ja me
 
 Tallinnas, Paksu Margareeta kahurtorni kõrval Suure Rannavärava bastionil, seisab mälestusmärk, mis **kannab sama nime kui see peatükk**: „Katkenud liin”. Selle autorid on Villu Jaanisoo ja Jorma Mukala. Mälestusmärk avati 27. septembril 1996, kaks aastat pärast huku. Graniitaluselt algav kandiline metallsammas kaardub üle tee ja katkeb keskelt. Graniidile on raiutud õnnetuse kuupäev ja hukkunute nimed. Autorite sõnul sümboliseerib see katkenud teekonda Tallinnast Stockholmi. Reisisadam, kust *Estonia* viimasele reisile läks, on sealt mõne minuti tee kaugusel.
 
-IMG: katk_4_monument.jpg | Mälestusmärk „Katkenud liin” Paksu Margareeta juures Tallinnas (Villu Jaanisoo ja Jorma Mukala, avatud 27.09.1996). Kujutatud on keskelt katkev metallsammas graniitalusel, millele on raiutud hukkunute nimed.
+![Mälestusmärk „Katkenud liin” Paksu Margareeta juures Tallinnas (Villu Jaanisoo ja Jorma Mukala, avatud 27.09.1996). Kujutatud on keskelt katkev metallsammas graniitalusel, millele on raiutud hukkunute nimed.](../koomiksid/katk_4_monument.jpg)
+
+*Mälestusmärk „Katkenud liin” Paksu Margareeta juures Tallinnas (Villu Jaanisoo ja Jorma Mukala, avatud 27.09.1996). Kujutatud on keskelt katkev metallsammas graniitalusel, millele on raiutud hukkunute nimed.*
 
 Renee seisis ühel päeval Utö tornis, kus kuuldi viimaseid sõnu, ja teisel päeval kivisamba juures, kus need sõnad on raiutud nimedeks. Kahe paiga vahel on meri ja kolmkümmend kaks aastat paberit. Peatüki nimi on laenatud monumendilt teadlikult: liin katkes merel, raadios ja aruannetes, kuid nimekiri graniidil ei katke.
 
@@ -145,3 +153,5 @@ Renee seisis ühel päeval Utö tornis, kus kuuldi viimaseid sõnu, ja teisel p�
 7. SHK/OJK/OTKES lõpparuanne 2025, lisa O 2.6 ja O 2.10 (Rockwateri uuring 1994, katmistööd 19.04–27.07.1996); SGI aruanne „Fartyget M/S Estonia” (2021/2023); taz/dpa 1996.
 
 8. Tallinna linnaruumikunsti kaart: „Katkenud liin”; et.wikipedia „Katkenud liin”; Visit Tallinn.
+
+> **Reegel 12.** Lisareegel: Hea lugu ei vaja ilustamist. Kontrolli, kes tegelikult kuulis, kes tegelikult tuli ja mis jäi ütlemata. Kinnitamata väide jääb väiteks seni, kuni dokument selle kinnitab.

@@ -1,10 +1,12 @@
-# X PEATÜKK — Mida linn öösel ära uhub
+# VI PEATÜKK — Mida linn öösel ära uhub: reovesi, narkootikumid ja ühe päeva sildid (2019–2025)
 
 Pärast Utöd ja Margareeta aeda tõi Tarmo lauale toimiku, mis ei rääkinud merest. See rääkis torudest. Iga linn räägib öösel, kui keegi ei kuula. Ta räägib vee kaudu, mis voolab kanalisatsiooni ja sealt puhastusjaama. Seda häält ei saa ära rääkida, ilustada ega küsitluses vaikida.
 
 Renee pani oktoobris 2026 sarja *#peegel* jaoks kokku 18-leheküljelise ülevaate „Mida Eesti kanalisatsioon räägib narkootikumidest”. Ülevaade tugineb üksnes avalikele allikatele: Tervise Arengu Instituudile (TAI), Eesti Kohtuekspertiisi Instituudile (EKEI), Justiits- ja Digiministeeriumile (JDM) ning Euroopa Liidu narkootikumiametile (EUDA). See peatükk on selle ülevaate lühike ümberjutustus, raamatu reeglite järgi. Kõik siinsed arvud tulevad allikatest. Iga tõlgendus on märgitud tõlgendusena. Ükski arv ei osuta ühelegi inimesele.
 
-IMG: reo_1_proov.jpg | Reovee-epidemioloogia: puhastusjaamas võetakse proov kogu linna reoveest. Tulemus näitab terve linna koguhulka, mitte üksikuid inimesi.
+![Reovee-epidemioloogia: puhastusjaamas võetakse proov kogu linna reoveest. Tulemus näitab terve linna koguhulka, mitte üksikuid inimesi.](../koomiksid/reo_1_proov.jpg)
+
+*Reovee-epidemioloogia: puhastusjaamas võetakse proov kogu linna reoveest. Tulemus näitab terve linna koguhulka, mitte üksikuid inimesi.*
 
 ### Kolm seeriat, mida ei tohi segamini ajada
 
@@ -24,7 +26,9 @@ JDM-i 2025. aasta novembri ühepäevane seire hõlmas 18 linna. Kanepit, amfetam
 
 Siin algab koht, kus andmed muutuvad kergesti pealkirjaks ja pealkiri sildiks. Ühe kvartali ühe päeva proovi põhjal nimetati varem Rakveret meedias „kokaiinipealinnaks”. JDM-i kvartaliandmetes oli aga Rakveres 2023. aasta I kvartalis 8,1 annust ja II kvartalis 0,8 annust. See on kümnekordne kõikumine sama linna kahe mõõtmise vahel. Tallinnas jäi vahemik aastatel 2022–2024 1,9 ja 7,6 annuse vahele. Ministeerium hoiatab, et kõrge amfetamiininäit võib tähendada ka aine valamist reovette, mitte tarvitamist. TAI hinnangul võib Pärnu kõrge amfetamiinitase viidata tootmisele või turustamisele. **See on hüpotees, mitte tuvastatud fakt**, ja see ei osuta ühelegi isikule ega ettevõttele.
 
-IMG: reo_2_kaart.jpg | Ühe päeva proov ei tee ühestki linnast „pealinna”. Enne pealkirja tuleb küsida, mis päeval, mis ühikus ja millega võrreldes näit mõõdeti.
+![Ühe päeva proov ei tee ühestki linnast „pealinna”. Enne pealkirja tuleb küsida, mis päeval, mis ühikus ja millega võrreldes näit mõõdeti.](../koomiksid/reo_2_kaart.jpg)
+
+*Ühe päeva proov ei tee ühestki linnast „pealinna”. Enne pealkirja tuleb küsida, mis päeval, mis ühikus ja millega võrreldes näit mõõdeti.*
 
 ### Eesti Euroopas
 
@@ -57,3 +61,5 @@ Tarmo jaoks oli see peatükk SÜLDIKAADI loo loogiline jätk. Vaikimine ei tähe
 6. ERR, 06.12.2019 (fentanüüli ajastu) ja 25.04.2025 (seire harvendamine).
 
 7. Renee Aluste, „Mida Eesti kanalisatsioon räägib narkootikumidest”, #peegel, oktoober 2026 (koondülevaade, andmed kogutud 10.10.2026).
+
+> **Reegel 7.** Lisareegel: Number ei ole silt. Enne kui nimetad linna „pealinnaks”, ütle, mida mõõdeti, millal, mis ühikus ja kui kindel see on — ja pea meeles, et andmete puudumine on samuti vaikus.

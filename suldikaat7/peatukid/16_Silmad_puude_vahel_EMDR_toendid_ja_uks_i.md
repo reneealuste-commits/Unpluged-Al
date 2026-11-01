@@ -1,4 +1,4 @@
-# XII PEATÜKK — Silmad puude vahel: EMDR, tõendid ja üks isiklik lugu
+# XVI PEATÜKK — Silmad puude vahel: EMDR, tõendid ja üks isiklik lugu
 
 Pärast raamatut, mis leidis oma lugeja, jõudis Tarmo laual järg küsimuseni, mida ei saa lahendada ühegi registri ega arhiiviga. Kuidas paraneb inimene, kelle sees on vana haav? Selle peatüki keskmes on üks ravimeetod ja üks isiklik lugu. Lugu on Renee oma ja ta on andnud loa seda siin kasutada. Perekonna üksikasju siin ei ole ja ei tule. Need kuuluvad inimestele, kes ei ole selle raamatu tegelased.
 
@@ -72,4 +72,4 @@ Raamatu kuues reegel ütleb, et trauma ei ole kurjus, vaid lukustunud valu. Rene
 
 7. Renee Aluste suuline meenutus oma teraapiast ja igapäevasest praktikast (01.11.2026). See on märgitud meenutusena.
 
-> **9D.** Lisareegel: Haav ei parane vaikides ega jõuga. Kasuta meetodit, mille kohta on tõendid, ja inimest, kellel on väljaõpe — ning ära müü oma kogemust teistele raviskeemina.
+> **Reegel 17.** Lisareegel: Haav ei parane vaikides ega jõuga. Kasuta meetodit, mille kohta on tõendid, ja inimest, kellel on väljaõpe — ning ära müü oma kogemust teistele raviskeemina.

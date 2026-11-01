@@ -50,7 +50,7 @@ Richard Thaler ja Cass Sunstein kirjutasid 2008. aastal raamatu „Nudge” (Tha
 
 *Ulrichi haiglaakna uuring (1984): puud aknal, lühem haiglaravi. Keskkond ei ravi, kuid aitab.*
 
-Siin kohtub see peatükk Renee puudega peatükist XII. Mets aknal ei ole ravi. Kuid see on keskkond, mis teeb rahunemise lihtsamaks. Seda saab kujundada: haigla, kool, kasarm, kontor.
+Siin kohtub see peatükk Renee puudega peatükist XVI. Mets aknal ei ole ravi. Kuid see on keskkond, mis teeb rahunemise lihtsamaks. Seda saab kujundada: haigla, kool, kasarm, kontor.
 
 ### Juht kujundab keskkonda
 
@@ -114,4 +114,4 @@ Renee lause „inimest ei saa tema tegude eest vastutama panna” on raamatus ki
 
 11. Renee Aluste suulised mõtted ja meenutus kolonelleitnant Meelis Mandre öeldust (01.11.2026), märgitud arvamuse ja meenutusena; Kaitseliidu Harju malev, „Malevast” (harju.kaitseliit.ee).
 
-> **9I.** Lisareegel: Ära küsi ainult, kes on süüdi. Küsi, milline keskkond selle teo lihtsaks tegi, ja kujunda see ümber. Isikliku valiku ruum jääb, kuid vastutus nihkub selle juurde, kes keskkonda kujundab.
+> **Reegel 18.** Lisareegel: Ära küsi ainult, kes on süüdi. Küsi, milline keskkond selle teo lihtsaks tegi, ja kujunda see ümber. Isikliku valiku ruum jääb, kuid vastutus nihkub selle juurde, kes keskkonda kujundab.

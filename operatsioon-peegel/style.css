@@ -1,0 +1,32 @@
+:root{--bg:#0f1712;--card:#18231c;--card2:#1f2d24;--text:#e8efe9;--muted:#9fb2a5;--acc:#c9a227;--acc2:#5fae7a;--line:#2c3d31;--r:14px}
+*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
+body{margin:0;background:radial-gradient(circle at 50% -20%,#22362a 0,var(--bg) 60%) fixed;color:var(--text);font:17px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Noto Sans",Arial,sans-serif;min-height:100vh}
+.top{position:sticky;top:0;z-index:5;display:flex;align-items:center;gap:12px;padding:10px 16px;background:rgba(15,23,18,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.brand{background:none;border:0;color:var(--acc);font-weight:800;letter-spacing:.18em;font-size:15px;cursor:pointer;padding:6px 0}
+.xp{flex:1;display:flex;align-items:center;gap:8px}.xpbar{flex:1;height:8px;background:var(--card2);border-radius:99px;overflow:hidden}
+#xpfill{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--acc2),var(--acc));transition:width .6s}
+#xptext{color:var(--muted);min-width:3em;text-align:right}
+.motto{text-align:center;font-size:12.5px;letter-spacing:.06em;color:var(--acc);padding:7px 12px;border-bottom:1px solid var(--line);text-transform:uppercase}
+main{max-width:680px;margin:0 auto;padding:22px 16px 40px}
+h1{font-size:1.9rem;line-height:1.15;margin:.2em 0 .3em}h2{font-size:1.35rem;margin:.2em 0 .5em}h3{font-size:1.05rem;margin:1.2em 0 .4em;color:var(--acc)}
+p{margin:.5em 0}.muted{color:var(--muted)}.kicker{font-size:12px;letter-spacing:.2em;color:var(--acc2);text-transform:uppercase;font-weight:700}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:18px;margin:14px 0;animation:in .35s ease}
+@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.opt{display:block;width:100%;text-align:left;background:var(--card2);color:var(--text);border:1px solid var(--line);border-radius:12px;padding:14px;font:inherit;cursor:pointer;transition:.15s}
+.opt:hover,.opt:focus{border-color:var(--acc)}.opt.sel{border-color:var(--acc2);background:#24402e}.opt b{display:block;font-size:1.02rem}.opt small{color:var(--muted)}
+.ico{font-size:1.6rem;display:block;margin-bottom:4px}
+.btn{display:inline-block;background:var(--acc);color:#141a10;border:0;border-radius:12px;padding:14px 20px;font:inherit;font-weight:700;cursor:pointer;width:100%;margin-top:12px}
+.btn.ghost{background:transparent;color:var(--text);border:1px solid var(--line)}.btn:disabled{opacity:.4}
+.link{background:none;border:0;color:var(--muted);text-decoration:underline;font:inherit;font-size:13px;cursor:pointer}
+.mission{display:flex;gap:14px;align-items:center}.badge{flex:0 0 46px;height:46px;border-radius:12px;display:grid;place-items:center;font-weight:800;background:var(--card2);border:1px solid var(--line);color:var(--muted)}
+.mission.done .badge{background:var(--acc2);color:#0f1712;border-color:var(--acc2)}.mission.cur .badge{border-color:var(--acc);color:var(--acc)}.mission.lock{opacity:.45}
+.check{display:flex;gap:12px;align-items:flex-start;padding:12px;border-radius:10px;background:var(--card2);margin:8px 0;cursor:pointer;border:1px solid transparent}
+.check input{width:22px;height:22px;accent-color:var(--acc2);flex:0 0 auto;margin-top:2px}.check.on{border-color:var(--acc2)}
+ul{padding-left:1.2em}li{margin:.35em 0}
+.quote{border-left:3px solid var(--acc);padding:4px 0 4px 14px;color:#f3e7bf;font-style:italic}
+.pill{display:inline-block;font-size:12px;padding:3px 9px;border-radius:99px;background:var(--card2);border:1px solid var(--line);color:var(--muted);margin:2px}
+.fb{margin-top:10px;padding:12px;border-radius:10px;background:#24402e}.fb.bad{background:#40261f}
+.foot{text-align:center;color:var(--muted);font-size:13px;padding:10px 16px 40px}
+.stamp{display:inline-block;border:2px solid var(--acc);color:var(--acc);padding:6px 14px;border-radius:8px;font-weight:800;letter-spacing:.15em;transform:rotate(-3deg)}
+@media(max-width:420px){.grid{grid-template-columns:1fr}h1{font-size:1.6rem}}

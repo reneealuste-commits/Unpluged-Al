@@ -2,6 +2,8 @@
 
 # I PEATÜKK — Kaitseliit: vabatahtliku selgroog ja „testprojektid”
 
+Allikapiir (täiendus 8. novembril 2026). Kogupaketi varasem audit ja 4. novembri tõendiregister ei anna alust süüdistada ühtegi konkreetset Kaitseliidu liiget KGB koostöös, varustuse varguses ega muus kuriteos. Selles peatükis esitatud ilukirjanduslik stseen ja autori hinnang juhtimiskultuurile ei ole isikupõhine tõend. Keila manifest on avalik organisatsioonisisene ettepanek ja selle kajastuse analüüs, mitte kuriteo tuvastamine.
+
 Kes tahab mõista, kuidas väike riik tegelikult püsti püsib, ei pea minema ministeeriumi klaashoonesse. Ta peab minema reede õhtul kell kuus Männiku või Klooga märga männimetsa.
 
 Seal ei kanta ülikondi. Seal kontrollitakse enne pimedat raadiojaamu, loetakse üle R-20 ja AK-4 salved, veetakse laost välja kakssada nelikümmend toidupakki, žgutid, rõhksidemed ja telgikomplektid ning õpetatakse neljakümnele tsiviilriietest tulnud inimesele, kuidas hoida relva, kuidas peatada verejooksu ja kuidas mitte jätta kaaslast maha. Sõdurioskuste kursus – SOK – on rohkem kui kahesaja neljakümne akadeemilise tunni pikkune filter, kus sõnad ei maksa midagi ja loeb ainult see, mida sa teed siis, kui oled kolmandat ööd magamata ja külm vihm jookseb krae vahele.
